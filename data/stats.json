@@ -1,0 +1,423 @@
+{
+  "generatedAt": "2026-08-31T07:41:16.591Z",
+  "today": "2026-08-31",
+  "todayNew": 9770,
+  "totals": {
+    "games": 358,
+    "codes": 9770,
+    "active": 9526,
+    "expired": 244,
+    "withExpiry": 2578
+  },
+  "newByDate": [
+    {
+      "date": "2026-08-31",
+      "count": 9770
+    }
+  ],
+  "expiringSoon": [
+    {
+      "slug": "adventure-of-white-chord",
+      "code": "Night",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "archero-2",
+      "code": "Welcome0825",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "awaken-chaos-era",
+      "code": "ACERTA",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "cats-and-soup",
+      "code": "GRIMREAPERCAT",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "demian-saga",
+      "code": "MapElysn",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "demian-saga",
+      "code": "MyHeart",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "demian-saga",
+      "code": "MapPose",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "demian-saga",
+      "code": "STbook",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "demian-saga",
+      "code": "EveEve",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "demian-saga",
+      "code": "Akrooth",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "BELBWPLP",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "FYDJBYE",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "BEKBYVXD",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "FXYJZHN",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "BEJGHCCM",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "FWWJTMT",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "BEHWRZTX",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "FVBZHXA",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "BEGKYKXM",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "dragon-raja",
+      "code": "FUXHNYC",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "echocalypse",
+      "code": "M2J7XR",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "FH9Q37P",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "BPLYM2",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "E2XKA6",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "6IMGFB",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "DWNGZL",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "6THCQ1",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "5VFWPT",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "KRUHGX",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "code": "5GJTK7",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "grimguard-tactics",
+      "code": "M4NC3RS",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "heroes-of-crown",
+      "code": "2025AUGUST",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "infinite-magicraid",
+      "code": "4THANNIVSIGN",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "infinite-magicraid",
+      "code": "AUGGIFT2026",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "lords-mobile",
+      "code": "FRIENDSFOREVER",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "ludus-merge-battle-arena",
+      "code": "Z3V6B9F2H8J5",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "ludus-merge-battle-arena",
+      "code": "Y7R4E1W6T9Q2",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "ludus-merge-battle-arena",
+      "code": "L5K8M3X7P1N6",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "seoul-apocalypse",
+      "code": "DIA2408",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "seoul-apocalypse",
+      "code": "TICKET2408",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "seoul-apocalypse",
+      "code": "UMBRELLA",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "seoul-apocalypse",
+      "code": "DIA2308",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "soul-strike",
+      "code": "SSHZ8DAY",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "soul-strike",
+      "code": "PV1000LIKE15",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "spirits-of-aetheria",
+      "code": "RbtFgPNE7",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "streetball-allstar",
+      "code": "DCAUGU",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "the-walking-dead-survivors",
+      "code": "TWDZ3Q25",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "three-kingdoms-idle-chronicle",
+      "code": "SUMMERGROW",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "three-kingdoms-idle-chronicle",
+      "code": "SUMMERKEY",
+      "expiry": "2026-08-31",
+      "days": 0
+    },
+    {
+      "slug": "three-kingdoms-idle-chronicle",
+      "code": "SUMMERPICK",
+      "expiry": "2026-08-31",
+      "days": 0
+    }
+  ],
+  "topGames": [
+    {
+      "slug": "time-princess",
+      "active": 420,
+      "total": 423
+    },
+    {
+      "slug": "ragnarok-origin",
+      "active": 368,
+      "total": 368
+    },
+    {
+      "slug": "reverse-1999-rpg",
+      "active": 241,
+      "total": 241
+    },
+    {
+      "slug": "mu-origin-3",
+      "active": 228,
+      "total": 229
+    },
+    {
+      "slug": "eternal-evolution",
+      "active": 210,
+      "total": 225
+    },
+    {
+      "slug": "echocalypse",
+      "active": 187,
+      "total": 189
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "active": 183,
+      "total": 187
+    },
+    {
+      "slug": "cardcaptor-sakura-memory-key",
+      "active": 178,
+      "total": 178
+    },
+    {
+      "slug": "shining-nikki",
+      "active": 166,
+      "total": 166
+    },
+    {
+      "slug": "warhammer-40k-tacticus",
+      "active": 148,
+      "total": 148
+    },
+    {
+      "slug": "infinity-nikki",
+      "active": 141,
+      "total": 142
+    },
+    {
+      "slug": "starseed-asnia-trigger",
+      "active": 141,
+      "total": 141
+    },
+    {
+      "slug": "infinite-magicraid",
+      "active": 124,
+      "total": 131
+    },
+    {
+      "slug": "call-of-antia",
+      "active": 122,
+      "total": 132
+    },
+    {
+      "slug": "dragon-raja",
+      "active": 114,
+      "total": 114
+    },
+    {
+      "slug": "trainstation-2-railway-empire",
+      "active": 107,
+      "total": 107
+    },
+    {
+      "slug": "puzzles-survival",
+      "active": 105,
+      "total": 105
+    },
+    {
+      "slug": "star-stable-online",
+      "active": 99,
+      "total": 99
+    },
+    {
+      "slug": "survivor-io",
+      "active": 99,
+      "total": 103
+    },
+    {
+      "slug": "cat-fantasy",
+      "active": 96,
+      "total": 102
+    }
+  ],
+  "noImage": 0
+}
