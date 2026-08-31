@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://game.jjyu.co.kr/sitemap.xml
+
+#DaumWebMasterTool:cefd2f4c27a90f00f1479f6fbe34dcf38fb0cae4c3a1ea7ec949fc3a591cc51c:4Q+JZVGYAkx0BbJJkg0XLQ==
