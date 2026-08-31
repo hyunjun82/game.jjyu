@@ -41,6 +41,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ko" suppressHydrationWarning>
       <head>
+        <meta name="naver-site-verification" content="dcf8e6e5e911a0494bbe70cf210d71e964ce22c7" />
+        <meta
+          name="DaumWebMasterTool"
+          content="cefd2f4c27a90f00f1479f6fbe34dcf38fb0cae4c3a1ea7ec949fc3a591cc51c:4Q+JZVGYAkx0BbJJkg0XLQ=="
+        />
         <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://fundingchoicesmessages.google.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://googleads.g.doubleclick.net" crossOrigin="anonymous" />
