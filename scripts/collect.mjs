@@ -115,7 +115,12 @@ async function collectOne(pathname) {
   return { slug, sourcePath: pathname, titleEn: parseTitle(html), image: parseImage(html), codes };
 }
 
-const todayISO = () => new Date().toISOString().slice(0, 10);
+// 날짜는 반드시 KST 기준. UTC 로 두면 한국 시각 09:00 이전에는 어제 날짜가
+// 나와서, 오늘 만료된 코드가 하루 더 "사용 가능"으로 남는다.
+const todayISO = () =>
+  new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit',
+  }).format(new Date());
 
 /** 기존 파일과 병합 — 새 코드는 firstSeen 을 남기고, 사라진 코드는 하루 유예 후 만료 처리. */
 function merge(prev, fresh) {
