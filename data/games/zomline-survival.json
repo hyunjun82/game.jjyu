@@ -4,46 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38541-1782130320/zomline-survival-code-header.jpg",
   "sourcePath": "/zomline-survival/codes/",
-  "updatedAt": "2026-08-31T19:10:30.347Z",
+  "updatedAt": "2026-08-31T23:25:26.626Z",
   "codes": [
-    {
-      "code": "7K2DJQAW",
-      "reward": "rewards (expires August 31st)",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
-    {
-      "code": "ZS2KWALL",
-      "reward": "rewards (expires August 31st)",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
-    {
-      "code": "ZS2KFBREWARD",
-      "reward": "rewards (expires August 31st)",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
-    {
-      "code": "ZS1KFACEBOOK",
-      "reward": "rewards (expires August 31st)",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
     {
       "code": "YDQ5JK7R",
       "reward": "1 60m General Speedup, 20k Elixir, 100k Iron, 500k Wood, 500k Food",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -51,7 +19,7 @@
       "reward": "100 Gems, 20k Elixir, 100k Iron, 500k Wood, 500k Food",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -59,8 +27,40 @@
       "reward": "1 60m General Speedup, 20k Elixir, 100k Iron, 500k Wood, 500k Food",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "7K2DJQAW",
+      "reward": "rewards (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
+    },
+    {
+      "code": "ZS2KWALL",
+      "reward": "rewards (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
+    },
+    {
+      "code": "ZS2KFBREWARD",
+      "reward": "rewards (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
+    },
+    {
+      "code": "ZS1KFACEBOOK",
+      "reward": "rewards (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     }
   ]
 }

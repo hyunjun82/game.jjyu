@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-31T19:10:30.689Z",
+  "generatedAt": "2026-08-31T23:25:26.963Z",
   "today": "2026-09-01",
   "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9770,
-    "active": 9526,
-    "expired": 244,
+    "active": 9470,
+    "expired": 300,
     "withExpiry": 2578
   },
   "newByDate": [
@@ -266,7 +266,7 @@
   "topGames": [
     {
       "slug": "time-princess",
-      "active": 420,
+      "active": 418,
       "total": 423
     },
     {
@@ -286,23 +286,23 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 210,
+      "active": 209,
       "total": 225
     },
     {
       "slug": "echocalypse",
-      "active": 187,
+      "active": 186,
       "total": 189
-    },
-    {
-      "slug": "flame-of-valhalla",
-      "active": 183,
-      "total": 187
     },
     {
       "slug": "cardcaptor-sakura-memory-key",
       "active": 178,
       "total": 178
+    },
+    {
+      "slug": "flame-of-valhalla",
+      "active": 175,
+      "total": 187
     },
     {
       "slug": "shining-nikki",
@@ -325,19 +325,14 @@
       "total": 141
     },
     {
-      "slug": "infinite-magicraid",
-      "active": 124,
-      "total": 131
-    },
-    {
       "slug": "call-of-antia",
       "active": 122,
       "total": 132
     },
     {
-      "slug": "dragon-raja",
-      "active": 114,
-      "total": 114
+      "slug": "infinite-magicraid",
+      "active": 122,
+      "total": 131
     },
     {
       "slug": "trainstation-2-railway-empire",
@@ -348,6 +343,11 @@
       "slug": "puzzles-survival",
       "active": 105,
       "total": 105
+    },
+    {
+      "slug": "dragon-raja",
+      "active": 104,
+      "total": 114
     },
     {
       "slug": "star-stable-online",

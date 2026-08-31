@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38079-1781504572/star-blaster-codes-header.jpg",
   "sourcePath": "/star-blaster-shooting-game/codes/",
-  "updatedAt": "2026-08-31T19:10:17.021Z",
+  "updatedAt": "2026-08-31T23:25:22.447Z",
   "codes": [
     {
       "code": "NEWBIECODE",
       "reward": "10000 Gold, 400 Diamonds",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "400 Diamonds, 4 Band Blueprints, 2 Gloves Blueprints, 8 Armor Blueprints, 5 Helmet Blueprints, 1 Boots Blueprint",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     }
   ]

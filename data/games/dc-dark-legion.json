@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35573-1741950303/dc-dark-legion-catwoman.jpg",
   "sourcePath": "/dc-dark-legion/codes/",
-  "updatedAt": "2026-08-31T19:09:36.983Z",
+  "updatedAt": "2026-08-31T23:25:09.810Z",
   "codes": [
     {
       "code": "DCDL999",
       "reward": "3 World Anvil Fragments, 999 Stimulator, 9999 Chips, 9999 Alloy, 199.9k Dollars",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "10 Drones, 5 Planetary Energy Keys, 1 World Anvil Fragment, 1.0M Dollars, 50k Chips, 50k Alloy, 1 AC/DC Shards",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "199.9k Dollars, 9999 Chips, 9999 Alloy, 9 Source Energy Gems",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires March 5th)",
       "expiry": "2027-03-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "rewards (expires March 3rd)",
       "expiry": "2027-03-03",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "rewards (expires January 29th)",
       "expiry": "2027-01-29",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "rewards (expires January 06th)",
       "expiry": "2027-01-06",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "rewards (expires January 05th)",
       "expiry": "2027-01-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "rewards (expires December 25th)",
       "expiry": "2026-12-25",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     }
   ]

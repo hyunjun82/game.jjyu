@@ -4,38 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36890-1743549711/ludus-header.jpg",
   "sourcePath": "/ludus-merge-battle-arena/codes/",
-  "updatedAt": "2026-08-31T19:09:55.358Z",
+  "updatedAt": "2026-08-31T23:25:16.270Z",
   "codes": [
-    {
-      "code": "Z3V6B9F2H8J5",
-      "reward": "1 day of Ludus Royal + 1,000 gold",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
-    {
-      "code": "Y7R4E1W6T9Q2",
-      "reward": "50 emeralds + 1,000 gold",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
-    {
-      "code": "L5K8M3X7P1N6",
-      "reward": "5 ethereal crystals + 1,000 gold",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
-      "status": "active"
-    },
     {
       "code": "NEWTOURNEY",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -43,7 +19,7 @@
       "reward": "5 Diving Masks, 2,000 Gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -51,7 +27,7 @@
       "reward": "cannonballs",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -59,7 +35,7 @@
       "reward": "compasses",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -67,7 +43,7 @@
       "reward": "5 Compasses. 1,000 Gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -75,7 +51,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -83,7 +59,7 @@
       "reward": "5 Compasses, 50 Emeralds, 1000 Gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -91,7 +67,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -99,7 +75,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -107,7 +83,7 @@
       "reward": "cannonballs",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -115,7 +91,7 @@
       "reward": "10 Amplified Ethereal summons crystals,1000 gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -123,7 +99,7 @@
       "reward": "Cannonballs",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -131,7 +107,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -139,7 +115,7 @@
       "reward": "1,500 Gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -147,7 +123,7 @@
       "reward": "50 Emeralds",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -155,7 +131,7 @@
       "reward": "1 day of Ludus Royal subscription + 1,000 Gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -163,7 +139,7 @@
       "reward": "2,000 Gold, 10 Ethereal Crystals",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -171,8 +147,32 @@
       "reward": "3 Regular Cannonballs (must be Arena 3 to redeem)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "Z3V6B9F2H8J5",
+      "reward": "1 day of Ludus Royal + 1,000 gold",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
+    },
+    {
+      "code": "Y7R4E1W6T9Q2",
+      "reward": "50 emeralds + 1,000 gold",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
+    },
+    {
+      "code": "L5K8M3X7P1N6",
+      "reward": "5 ethereal crystals + 1,000 gold",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     }
   ]
 }

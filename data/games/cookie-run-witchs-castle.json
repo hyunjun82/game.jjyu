@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36402-1716972880/cookie-run-witchs-castle-login-page.jpg",
   "sourcePath": "/cookie-run-witchs-castle/codes/",
-  "updatedAt": "2026-08-31T19:09:36.186Z",
+  "updatedAt": "2026-08-31T23:25:09.248Z",
   "codes": [
     {
       "code": "UPDATEFIRSTCREAM",
       "reward": "1000 Crystals, 2 Cake Hammers, 1h Unlimited Lives, 2 Crushing Bounders, 2 Star Arrows, 2 Shuffle Cubes",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "1500 Crystals",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     }
   ]

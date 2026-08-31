@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37041-1748797579/summoners-war-rush-codes-header.jpg",
   "sourcePath": "/summoners-war-rush/codes/",
-  "updatedAt": "2026-08-31T19:10:19.001Z",
+  "updatedAt": "2026-08-31T23:25:23.011Z",
   "codes": [
     {
       "code": "MAYDAY55",
       "reward": "50 Potion Chests, 2 Offline Gold (2h), 2 Offline EXP (2h)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "100 General Summon Tickets, 2 Offline Gold (2h), 2 Offline EXP (2h)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "1,500 Monster Summon Tickets (expires October 2nd)",
       "expiry": "2026-10-02",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "Rewind Glass x1, Offline EXP (2 hr) x3, Offline Gold (2 hr) x3 (expires July 6th)",
       "expiry": "2027-07-06",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "status": "active"
     }
   ]
