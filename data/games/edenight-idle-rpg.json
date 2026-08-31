@@ -2,8 +2,9 @@
   "slug": "edenight-idle-rpg",
   "titleEn": "Edenight",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/ra-96763-1707288666/edenight-cover-image.jpg",
   "sourcePath": "/edenight-idle-rpg/codes/",
-  "updatedAt": "2026-08-31T00:24:25.093Z",
+  "updatedAt": "2026-08-31T01:06:14.269Z",
   "codes": [
     {
       "code": "edenightcome",

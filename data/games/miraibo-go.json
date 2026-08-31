@@ -2,8 +2,9 @@
   "slug": "miraibo-go",
   "titleEn": "Miraibo GO",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/na-36689-1728463510/miraibo-go-keyart.jpg",
   "sourcePath": "/miraibo-go/codes/",
-  "updatedAt": "2026-08-31T00:24:34.991Z",
+  "updatedAt": "2026-08-31T01:06:21.676Z",
   "codes": [
     {
       "code": "MR1010",

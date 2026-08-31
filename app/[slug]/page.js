@@ -90,12 +90,19 @@ export default function GamePage({ params }) {
       </nav>
 
       <header className="game-head">
-        <h1>{g.name} 쿠폰 코드</h1>
-        <p className="game-sub">
-          {month} 기준 사용 가능한 코드 <b>{g.active.length}개</b>
-          {g.expired.length > 0 && <> · 만료 {g.expired.length}개</>}
-        </p>
-        {updated && <p className="game-updated">업데이트 {updated}</p>}
+        {g.image && (
+          <span className="game-head-img">
+            <img src={g.image} alt="" loading="eager" decoding="async" />
+          </span>
+        )}
+        <div>
+          <h1>{g.name} 쿠폰 코드</h1>
+          <p className="game-sub">
+            {month} 기준 사용 가능한 코드 <b>{g.active.length}개</b>
+            {g.expired.length > 0 && <> · 만료 {g.expired.length}개</>}
+          </p>
+          {updated && <p className="game-updated">업데이트 {updated}</p>}
+        </div>
       </header>
 
       {g.active.length > 0 ? (

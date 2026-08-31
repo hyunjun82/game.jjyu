@@ -2,8 +2,9 @@
   "slug": "soul-knight",
   "titleEn": "Soul Knight",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/na-33076-1655235822/soul-knight-artwork-1.jpg",
   "sourcePath": "/soul-knight/codes/",
-  "updatedAt": "2026-08-31T00:24:43.524Z",
+  "updatedAt": "2026-08-31T01:06:27.458Z",
   "codes": [
     {
       "code": "NewSeason",

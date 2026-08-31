@@ -5,10 +5,10 @@ import { useMemo, useState } from 'react';
 /**
  * 게임 목록 + 즉시 검색.
  *
- * 목록이 300개를 넘어가면 스크롤로는 못 찾는다. 검색을 위에 두고,
- * 처음에는 일부만 그려서 첫 화면을 가볍게 유지한다.
+ * 358개를 한 번에 그리면 첫 화면이 무거워진다. 처음엔 48개만 그리고 더 보기로 늘린다.
+ * 카드에 그림이 없으면 그냥 글자 나열이 되어버려서, 대표 이미지를 항상 자리로 잡아둔다.
  */
-const PAGE = 60;
+const PAGE = 48;
 
 export default function GameSearch({ games }) {
   const [q, setQ] = useState('');
@@ -27,6 +27,10 @@ export default function GameSearch({ games }) {
   return (
     <>
       <div className="search-wrap">
+        <svg className="search-ico" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" strokeWidth="2" />
+          <path d="m20 20-3.5-3.5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+        </svg>
         <input
           type="search"
           className="search"
@@ -35,7 +39,7 @@ export default function GameSearch({ games }) {
           onChange={(e) => { setQ(e.target.value); setShown(PAGE); }}
           aria-label="게임 검색"
         />
-        {q && <span className="search-count">{filtered.length}개</span>}
+        {q && <span className="search-count">{filtered.length}</span>}
       </div>
 
       {list.length === 0 ? (
@@ -45,16 +49,11 @@ export default function GameSearch({ games }) {
           {list.map((g) => (
             <li key={g.slug}>
               <a href={`/${g.slug}/`} className="game-card">
-                <span className="game-name">{g.name}</span>
-                <span className="game-meta">
-                  {g.active > 0 ? (
-                    <b className="ok">사용 가능 {g.active}</b>
-                  ) : (
-                    <b className="none">만료됨</b>
-                  )}
-                  <span className="sep">·</span>
-                  전체 {g.total}
+                <span className="thumb">
+                  {g.image ? <img src={g.image} alt="" loading="lazy" decoding="async" /> : <i className="ph" />}
+                  {g.active > 0 && <b className="badge">{g.active}</b>}
                 </span>
+                <span className="game-name">{g.name}</span>
               </a>
             </li>
           ))}

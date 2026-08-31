@@ -2,8 +2,9 @@
   "slug": "lords-mobile",
   "titleEn": "Lords Mobile",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/na-29200-1618786707/Lords-Mobile-Header.jpg",
   "sourcePath": "/lords-mobile/codes/",
-  "updatedAt": "2026-08-31T00:24:32.472Z",
+  "updatedAt": "2026-08-31T01:06:19.993Z",
   "codes": [
     {
       "code": "lmsocialmedia",

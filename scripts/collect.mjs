@@ -88,6 +88,13 @@ function parseCodes(html) {
   return out;
 }
 
+/** 대표 이미지(og:image). 카드에 쓸 그림이 없으면 목록이 텍스트 나열이 되어버린다. */
+function parseImage(html) {
+  const m = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+    || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+  return m ? m[1] : null;
+}
+
 /** 페이지 제목에서 게임 영문명을 뽑는다. */
 function parseTitle(html) {
   const t = (html.match(/<title>([\s\S]*?)<\/title>/) || [])[1] || '';
@@ -105,7 +112,7 @@ async function collectOne(pathname) {
   if (!html) return null;
   const codes = parseCodes(html);
   if (!codes.length) return null;
-  return { slug, sourcePath: pathname, titleEn: parseTitle(html), codes };
+  return { slug, sourcePath: pathname, titleEn: parseTitle(html), image: parseImage(html), codes };
 }
 
 const todayISO = () => new Date().toISOString().slice(0, 10);
@@ -172,6 +179,7 @@ async function main() {
         slug: r.slug,
         titleEn: r.titleEn,
         titleKo: prev?.titleKo || null,
+        image: r.image || prev?.image || null,
         sourcePath: r.sourcePath,
         updatedAt: new Date().toISOString(),
         codes,

@@ -2,8 +2,9 @@
   "slug": "warhammer-40000-warpforge",
   "titleEn": "Warhammer 40,000 Warpforge",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/ra-96056-1700054177/warhammer-40k-warpforge-remnantavatar.jpg",
   "sourcePath": "/warhammer-40000-warpforge/codes/",
-  "updatedAt": "2026-08-31T00:24:50.397Z",
+  "updatedAt": "2026-08-31T01:06:31.762Z",
   "codes": [
     {
       "code": "PRIMARCH",

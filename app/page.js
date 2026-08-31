@@ -1,4 +1,4 @@
-import { getAllGames, getRecentlyUpdated, totals, formatDate } from '../lib/games';
+import { getAllGames, getRecentlyUpdated, totals } from '../lib/games';
 import GameSearch from '../components/GameSearch';
 
 export const metadata = {
@@ -10,7 +10,7 @@ export const metadata = {
 
 export default function Home() {
   const games = getAllGames();
-  const recent = getRecentlyUpdated(10);
+  const recent = getRecentlyUpdated(6);
   const t = totals();
 
   const jsonLd = {
@@ -22,51 +22,57 @@ export default function Home() {
     isPartOf: { '@id': 'https://game.jjyu.co.kr/#website' },
   };
 
+  const cards = games.map((g) => ({
+    slug: g.slug,
+    name: g.name,
+    titleEn: g.titleEn,
+    image: g.image,
+    active: g.active.length,
+    total: g.total,
+  }));
+
   return (
-    <main className="container">
+    <main>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <section className="hero">
-        <h1>
-          게임 쿠폰 코드<br />
-          <em>오늘 쓸 수 있는 것만</em>
-        </h1>
-        <p className="hero-sub">
-          만료된 코드는 걸러내고 지금 되는 것만 위에 올립니다. 매일 자동으로 갱신됩니다.
-        </p>
-        <div className="stat-row">
-          <div className="stat"><b>{t.games.toLocaleString()}</b><span>게임</span></div>
-          <div className="stat"><b>{t.active.toLocaleString()}</b><span>사용 가능</span></div>
-          <div className="stat"><b>{t.all.toLocaleString()}</b><span>전체 코드</span></div>
+        <div className="container">
+          <h1>
+            게임 쿠폰 코드 <em>오늘 쓸 수 있는 것만</em>
+          </h1>
+          <p className="hero-sub">만료된 코드는 걸러냅니다. 매일 자동으로 갱신됩니다.</p>
+          <ul className="stat-inline">
+            <li><b>{t.games.toLocaleString()}</b> 게임</li>
+            <li><b className="hl">{t.active.toLocaleString()}</b> 사용 가능</li>
+            <li><b>{t.all.toLocaleString()}</b> 전체 코드</li>
+          </ul>
         </div>
       </section>
 
       {recent.length > 0 && (
-        <section className="block">
-          <h2 className="block-title">새로 올라온 쿠폰</h2>
-          <div className="chip-row">
+        <section className="container block">
+          <h2 className="block-title">지금 쿠폰이 많은 게임</h2>
+          <div className="feature-grid">
             {recent.map((g) => (
-              <a key={g.slug} href={`/${g.slug}/`} className="chip">
-                {g.name}
-                <i>{g.active.length}</i>
+              <a key={g.slug} href={`/${g.slug}/`} className="feature">
+                <span className="feature-img">
+                  {g.image ? <img src={g.image} alt="" loading="lazy" decoding="async" /> : <i className="ph" />}
+                </span>
+                <span className="feature-body">
+                  <b>{g.name}</b>
+                  <span>사용 가능 {g.active.length}개</span>
+                </span>
               </a>
             ))}
           </div>
         </section>
       )}
 
-      <section className="block">
-        <h2 className="block-title">전체 게임 <span className="count">{games.length}</span></h2>
-        <GameSearch
-          games={games.map((g) => ({
-            slug: g.slug,
-            name: g.name,
-            titleEn: g.titleEn,
-            active: g.active.length,
-            total: g.total,
-            updatedAt: formatDate(g.updatedAt),
-          }))}
-        />
+      <section className="container block">
+        <h2 className="block-title">
+          전체 게임 <span className="count">{games.length}</span>
+        </h2>
+        <GameSearch games={cards} />
       </section>
     </main>
   );

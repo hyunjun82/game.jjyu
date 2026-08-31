@@ -2,8 +2,9 @@
   "slug": "obsidian-knight-rpg",
   "titleEn": "Obsidian Knight",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/na-37524-1748338787/obsidian-knight-header.jpg",
   "sourcePath": "/obsidian-knight-rpg/codes/",
-  "updatedAt": "2026-08-31T00:24:36.338Z",
+  "updatedAt": "2026-08-31T01:06:23.005Z",
   "codes": [
     {
       "code": "DUNGEON2025",

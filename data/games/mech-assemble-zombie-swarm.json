@@ -2,8 +2,9 @@
   "slug": "mech-assemble-zombie-swarm",
   "titleEn": "Mech Assemble Zombie Swarm",
   "titleKo": null,
+  "image": "https://media.pocketgamer.com/artwork/na-37608-1750414533/mech-assemble-zombie-swarm-header.jpg",
   "sourcePath": "/mech-assemble-zombie-swarm/codes/",
-  "updatedAt": "2026-08-31T00:24:33.769Z",
+  "updatedAt": "2026-08-31T01:06:21.024Z",
   "codes": [
     {
       "code": "MECH9999",
