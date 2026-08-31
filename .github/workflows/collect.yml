@@ -37,11 +37,10 @@ jobs:
       - name: 변경분 커밋
         run: |
           CHANGED=$(grep -oP 'COLLECT_CHANGED=\K[0-9]+' /tmp/out.log | tail -1)
-          echo "변경된 게임: ${CHANGED:-0}"
-          if [ "${CHANGED:-0}" = "0" ]; then
-            echo "변경 없음 — 커밋 생략"
-            exit 0
-          fi
+          NEW=$(grep -oP 'STATS_TODAY_NEW=\K[0-9]+' /tmp/out.log | tail -1)
+          echo "변경된 게임: ${CHANGED:-0} / 오늘 신규 코드: ${NEW:-0}"
+          # 쿠폰 변경이 없어도 stats.json 은 매번 갱신되어야 하므로
+          # CHANGED 로 조기 종료하지 않고 실제 diff 로만 판단한다.
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/games data/stats.json
@@ -50,7 +49,7 @@ jobs:
             exit 0
           fi
           STAMP=$(TZ=Asia/Seoul date '+%m-%d %H:%M')
-          git commit -m "data: ${STAMP} 쿠폰 ${CHANGED}개 게임 갱신"
+          git commit -m "data: ${STAMP} 게임 ${CHANGED:-0}개 갱신 · 신규 코드 ${NEW:-0}"
           git push
 
       # 마지막 점검. 수집이 멈췄거나 데이터가 깨졌으면 여기서 실패시킨다.
