@@ -1,0 +1,169 @@
+{
+  "slug": "seal-of-fate",
+  "titleEn": "Seal of Fate",
+  "titleKo": null,
+  "sourcePath": "/seal-of-fate/codes/",
+  "updatedAt": "2026-08-31T00:24:41.842Z",
+  "codes": [
+    {
+      "code": "ABYSSKISS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MUSHBOOM",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COOLBREEZE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TATATUNE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "POPOSHIELD",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BREAKTIME",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STARMONTH",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ABSINTHE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASTRALGATE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINGSHOE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LETSFARM",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR2026",
+      "reward": "2026 Starmonds, 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOFGLOBAL",
+      "reward": "10000 Cat Coins, 5 Random SR Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KHIONE",
+      "reward": "10000 EXP Potions, 5 Random SR Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEALOFFATE",
+      "reward": "300 Starmonds, 20000 EXP Potions, 20000 Cat Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOF2025",
+      "reward": "100 Starmonds, 5 Random SR Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DCGIFT",
+      "reward": "10000 EXP Potions, 10 Random SR Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOPUPCENTER",
+      "reward": "200 Starmonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FBGIFT",
+      "reward": "10000 Cat Coins, 10 Random SR Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVERNIGHT",
+      "reward": "rewards (expires August 16th)",
+      "expiry": "2026-08-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

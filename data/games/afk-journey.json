@@ -1,0 +1,705 @@
+{
+  "slug": "afk-journey",
+  "titleEn": "AFK Journey",
+  "titleKo": null,
+  "sourcePath": "/afk-journey/codes/",
+  "updatedAt": "2026-08-31T00:24:18.880Z",
+  "codes": [
+    {
+      "code": "hqC0Zfsc6QYtX",
+      "reward": "500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "h7PdTynr61",
+      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4iYTsNbdXC",
+      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZC1JJ3Uu0N",
+      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CrownofAshes",
+      "reward": "600 Diamonds, 20,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BoundforSavannah",
+      "reward": "codes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LILITH13TH",
+      "reward": "13 Invites, 1300 Diamonds (expires 09th June)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4hg98bkkfh",
+      "reward": "10 Origami Hamsters, 50,000 Gold, 500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOURNEY2YRS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJ10",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJMOONLIGHT",
+      "reward": "10 Origami Hamsters, 500 Diamonds, 50,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWJOURNEY2026",
+      "reward": "10 Invites, 50,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Patch154AFK",
+      "reward": "300 Diamonds, 20,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SANTAJOURNEY",
+      "reward": "10 Invite Letters, 50,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PUMPKIN2025",
+      "reward": "500 Diamonds, 10 Origami Hamsters, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OCTAFKJ",
+      "reward": "20 Invites, 100k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NewSeasonTOD151",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ThornsofDevotion",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJSEASONGIFT2025",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWSTORYBEGINS",
+      "reward": "100 Diamonds, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJSeptember",
+      "reward": "3 Invite Letters, 200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RAVIONINDRIS",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZVZCJAIAZE",
+      "reward": "10 Epic Invites",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OnederfulAFKJ",
+      "reward": "Glorious Hero Chest III (Includes Athalia) x1, Invite Letters x20, Gold x100,000 (expire September 4th)",
+      "expiry": "2026-09-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJ143NEWS",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EXPLOREESSAIL",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RMGGNPGLDQ",
+      "reward": "500 Diamonds, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AWWFTEJHMG",
+      "reward": "500 Diamonds, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WMTRWAKILO",
+      "reward": "500 Diamonds, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJEOF",
+      "reward": "200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJEOF0523",
+      "reward": "200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJDungeon",
+      "reward": "3 Invite Letters, 200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IronholdBay",
+      "reward": "100 Diamonds, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NHHLRMMDDY",
+      "reward": "500 Diamonds, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LILITH12TH",
+      "reward": "1,200 Diamonds, 12 Invite Letters",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NIRUSHEMIRA4EVER",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "oneyearshowdown",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKOnederfulJourney",
+      "reward": "Glorious Hero Chest III, 20 Invite Letters, 100k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJWHATSNEW",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYEVERYDAY",
+      "reward": "300 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "132NEWSFROMPN",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lilyolena",
+      "reward": "200 Diamonds, 3 Invite Letters, 20K Coins (won't work if already claimed a Mutually Exclusive Gift Code)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJfuyuyo",
+      "reward": "200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJNewS2025",
+      "reward": "200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NewSeasonWithCC",
+      "reward": "100 Diamonds, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WWK8JW8CQ0",
+      "reward": "10 Invite Letters",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "0GW8WM3RCM",
+      "reward": "600 Diamonds, 40k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FarlightHappy2025",
+      "reward": "Epic Invite Letters x5, Diamonds x2025",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJSY2025",
+      "reward": "100 diamonds, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5BODYRYSRY",
+      "reward": "5 Letters",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJICESEASON",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJWhiteridge",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ChainsofEternity",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNOWLORSAN",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "7jxncy9gcz",
+      "reward": "10 Letters, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJAwards",
+      "reward": "200 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3TL2U4S5M4",
+      "reward": "500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJNewHypo11",
+      "reward": "50 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJJackOLantern",
+      "reward": "100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "oN2yO0lJ6e",
+      "reward": "500 Diamonds AFKJ1.2.2Update - 50 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CCProgram",
+      "reward": "100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JourneyWithTasi",
+      "reward": "50 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YCVVXJDA7G",
+      "reward": "10 Epic Invite Letters",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJOURNEYTTWOI",
+      "reward": "88 Diamonds and 16k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YHBFEBHSNK",
+      "reward": "20 Letters and 500 Vouchers",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJWOI",
+      "reward": "200 Diamonds, x3 Summon Tickets, and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJourneyWOI",
+      "reward": "200 Diamonds and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJNEWSS",
+      "reward": "200 Diamonds and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJTWKOL",
+      "reward": "200 Diamonds and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJSEA",
+      "reward": "200 Diamonds and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "afkjaraumi",
+      "reward": "200 Diamonds and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJGIFT",
+      "reward": "10 Letters, 888 Potions, 88k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BESFBYSEBJ",
+      "reward": "10 Letters, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "afkjomedetou",
+      "reward": "1,000 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "afkjcreator",
+      "reward": "100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJCOMMUNITY",
+      "reward": "100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLAYAFKJOURNEY",
+      "reward": "200 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJRPG888",
+      "reward": "300 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJPC",
+      "reward": "100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJ8888",
+      "reward": "188 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKjoshikatsu",
+      "reward": "200 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJWINDAH",
+      "reward": "1,000 Diamonds, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJGIFT2024",
+      "reward": "200 Diamonds, 20K gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAGICAFKJOURNEY",
+      "reward": "200 Diamonds, 20K gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIFT4YOUAFKJ",
+      "reward": "200 Diamonds, 20K gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARKIJOURNEY",
+      "reward": "1000. Diamonds, 50K Gols",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKJN2024",
+      "reward": "188 diamonds and 18k gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

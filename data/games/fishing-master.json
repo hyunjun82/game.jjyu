@@ -1,0 +1,329 @@
+{
+  "slug": "fishing-master",
+  "titleEn": "Fishing Master",
+  "titleKo": null,
+  "sourcePath": "/fishing-master/codes/",
+  "updatedAt": "2026-08-31T00:24:26.045Z",
+  "codes": [
+    {
+      "code": "KeyWest777",
+      "reward": "In-game rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishingMaster",
+      "reward": "60000 Coins, 100 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MonsterFish",
+      "reward": "100000 Coins, 1 Mysterious Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APKPureFishing",
+      "reward": "77777 Coins, 177 Diamonds, 100 Energy, 377 Carbon Fiber",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lucky888",
+      "reward": "9999 Coins, 88 Diamonds, 1 Premium Tackle Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lucky777",
+      "reward": "9999 Coins, 100 Energy, 77 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Gift777",
+      "reward": "100 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Free777",
+      "reward": "100000 Coins, 100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRTT888",
+      "reward": "19999 Coins, 88 Diamonds, 30 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRTT777",
+      "reward": "9999 Coins, 77 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRTT666",
+      "reward": "9999 Coins, 66 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BRS888",
+      "reward": "Expires June 20th",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SRY999",
+      "reward": "Expires June 13th",
+      "expiry": "2027-06-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALT999",
+      "reward": "Expires June 6th",
+      "expiry": "2027-06-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CGR999",
+      "reward": "Expires May 30th",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MLT999",
+      "reward": "Expires May 23",
+      "expiry": "2027-05-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CMP777",
+      "reward": "expires May 16",
+      "expiry": "2027-05-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PAC999",
+      "reward": "expires May 02nd",
+      "expiry": "2027-05-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "USR777",
+      "reward": "expires April 25th",
+      "expiry": "2027-04-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AMZR999",
+      "reward": "expires April 11th",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishWin",
+      "reward": "100 Energy, 100 Diamonds",
+      "expiry": "2027-03-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NLR999",
+      "reward": "In-game items (expires March 28th)",
+      "expiry": "2027-03-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KMD777",
+      "reward": "In-game items (expires March 14th)",
+      "expiry": "2027-03-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SRY777",
+      "reward": "In-game items (expires March 07th)",
+      "expiry": "2027-03-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NJ777",
+      "reward": "In-game items (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KWT777",
+      "reward": "In-game items (expires February 14th)",
+      "expiry": "2027-02-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishLunar",
+      "reward": "In-game items (expires February 3rd)",
+      "expiry": "2027-02-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALT777",
+      "reward": "In-game items (expires February 7th)",
+      "expiry": "2027-02-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishLife",
+      "reward": "100 Energy, 100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MLT777",
+      "reward": "In-game rewards (expires January 17th)",
+      "expiry": "2027-01-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishReel",
+      "reward": "100 Energy, 100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FMHappy2025",
+      "reward": "Diamonds x177, Energy x177, Gold x100,000, Mystery Pack x1 (Expires January 06th)",
+      "expiry": "2027-01-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MerryXmas",
+      "reward": "Christmas Gifts (Expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SepHappyFishing",
+      "reward": "In-game rewards (expires October 1st)",
+      "expiry": "2026-10-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishTank",
+      "reward": "Energy x100, Diamonds x100",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishMore",
+      "reward": "100 Energy, 100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SeaVictory",
+      "reward": "Mystery Pack (200) x1, Energy x177, Diamonds x100 (Expires December 4th)",
+      "expiry": "2026-12-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishKing",
+      "reward": "100 Energy, 100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FishGiving",
+      "reward": "100 Energy, 100 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GBR777",
+      "reward": "in-game rewards (expires November 15th)",
+      "expiry": "2026-11-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

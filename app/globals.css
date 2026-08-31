@@ -1,0 +1,209 @@
+/* ── 토큰 ─────────────────────────────────────────────
+   어두운 배경 + 청록/보라 액센트. 게임 쪽 사이트는 대부분 밝은 흰 배경에
+   광고를 덕지덕지 붙여서 답답한데, 대비를 확실히 줘서 코드가 먼저 눈에 들어오게 한다. */
+:root {
+  --bg: #0b0d14;
+  --bg-soft: #12151f;
+  --card: #161a26;
+  --card-hover: #1c2131;
+  --line: #262c3d;
+  --tx: #e8ecf5;
+  --tx-dim: #98a1b8;
+  --tx-mute: #6b748c;
+  --acc: #5b8cff;
+  --acc-2: #22d3ee;
+  --ok: #34d399;
+  --warn: #fbbf24;
+  --radius: 14px;
+  --radius-sm: 10px;
+  --maxw: 940px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--tx);
+  font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont,
+    'Apple SD Gothic Neo', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* 배경 광원 — 고정 배치라 스크롤 중 리페인트가 없다 */
+.bg-orb {
+  position: fixed;
+  inset: -20% 0 auto 0;
+  height: 520px;
+  background:
+    radial-gradient(560px 300px at 22% 0%, rgba(91, 140, 255, 0.18), transparent 70%),
+    radial-gradient(460px 260px at 78% 8%, rgba(34, 211, 238, 0.13), transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.container { width: 100%; max-width: var(--maxw); margin: 0 auto; padding: 0 18px; position: relative; z-index: 1; }
+
+a { color: inherit; text-decoration: none; }
+
+/* ── 헤더 ───────────────────────────────────────────── */
+.site-header {
+  position: sticky; top: 0; z-index: 20;
+  background: rgba(11, 13, 20, 0.82);
+  backdrop-filter: saturate(160%) blur(12px);
+  border-bottom: 1px solid var(--line);
+}
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 58px; }
+.logo { display: inline-flex; align-items: center; gap: 9px; font-weight: 800; font-size: 19px; letter-spacing: -0.02em; }
+.logo em { font-style: normal; color: var(--acc); }
+.logo-mark {
+  display: grid; place-items: center; width: 28px; height: 28px; border-radius: 9px;
+  background: linear-gradient(135deg, var(--acc), var(--acc-2));
+  color: #06121f; font-weight: 900; font-size: 16px;
+}
+.pill {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-size: 12.5px; color: var(--tx-dim);
+  border: 1px solid var(--line); border-radius: 999px; padding: 5px 11px;
+  background: var(--bg-soft);
+}
+.dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ok); box-shadow: 0 0 0 3px rgba(52, 211, 153, 0.16); }
+
+/* ── 히어로 ─────────────────────────────────────────── */
+.hero { padding: 46px 0 30px; }
+.hero h1 { margin: 0 0 12px; font-size: clamp(28px, 6.4vw, 42px); line-height: 1.22; letter-spacing: -0.035em; font-weight: 800; }
+.hero h1 em {
+  font-style: normal;
+  background: linear-gradient(100deg, var(--acc), var(--acc-2));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.hero-sub { margin: 0 0 22px; color: var(--tx-dim); font-size: 15.5px; max-width: 34em; }
+
+.stat-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.stat {
+  flex: 1 1 120px; background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 14px 16px;
+}
+.stat b { display: block; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; }
+.stat span { font-size: 12.5px; color: var(--tx-mute); }
+
+/* ── 블록 ───────────────────────────────────────────── */
+.block { margin: 34px 0; }
+.block-title { margin: 0 0 14px; font-size: 17px; font-weight: 700; letter-spacing: -0.02em; display: flex; align-items: center; gap: 8px; }
+.block-title.muted { color: var(--tx-mute); }
+.count { font-size: 13px; color: var(--tx-mute); font-weight: 600; }
+
+/* ── 칩 ─────────────────────────────────────────────── */
+.chip-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 7px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 999px;
+  padding: 8px 13px; font-size: 13.5px; font-weight: 600;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.chip:hover { background: var(--card-hover); border-color: #33405c; transform: translateY(-1px); }
+.chip i { font-style: normal; font-size: 11.5px; color: var(--acc-2); background: rgba(34, 211, 238, 0.1); border-radius: 999px; padding: 1px 7px; }
+
+/* ── 검색 ───────────────────────────────────────────── */
+.search-wrap { position: relative; margin-bottom: 14px; }
+.search {
+  width: 100%; height: 46px; padding: 0 15px;
+  background: var(--card); color: var(--tx);
+  border: 1px solid var(--line); border-radius: var(--radius-sm);
+  font-size: 15px; outline: none; transition: border-color 0.15s, box-shadow 0.15s;
+}
+.search::placeholder { color: var(--tx-mute); }
+.search:focus { border-color: var(--acc); box-shadow: 0 0 0 3px rgba(91, 140, 255, 0.16); }
+.search-count { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); font-size: 12.5px; color: var(--tx-mute); }
+
+/* ── 게임 그리드 ────────────────────────────────────── */
+.game-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(214px, 1fr)); }
+.game-card {
+  display: flex; flex-direction: column; gap: 3px;
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm);
+  padding: 13px 15px; height: 100%;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.game-card:hover { background: var(--card-hover); border-color: #33405c; transform: translateY(-1px); }
+.game-name { font-weight: 650; font-size: 14.5px; letter-spacing: -0.015em; }
+.game-meta { font-size: 12px; color: var(--tx-mute); display: flex; align-items: center; gap: 5px; }
+.game-meta .ok { color: var(--ok); font-weight: 650; }
+.game-meta .none { color: var(--tx-mute); font-weight: 600; }
+.sep { opacity: 0.45; }
+
+/* ── 상세 ───────────────────────────────────────────── */
+.crumb { display: flex; align-items: center; gap: 7px; font-size: 13px; color: var(--tx-mute); padding: 20px 0 0; }
+.crumb a:hover { color: var(--tx-dim); }
+.crumb b { color: var(--tx-dim); font-weight: 600; }
+
+.game-head { padding: 18px 0 6px; }
+.game-head h1 { margin: 0 0 8px; font-size: clamp(24px, 5.2vw, 32px); letter-spacing: -0.03em; font-weight: 800; line-height: 1.25; }
+.game-sub { margin: 0; color: var(--tx-dim); font-size: 14.5px; }
+.game-sub b { color: var(--ok); }
+.game-updated { margin: 5px 0 0; font-size: 12.5px; color: var(--tx-mute); }
+
+/* ── 쿠폰 목록 ──────────────────────────────────────── */
+.code-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.code-row {
+  display: flex; align-items: center; gap: 12px;
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm);
+  padding: 13px 15px;
+}
+.code-row.is-locked { background: linear-gradient(var(--card), var(--card)) padding-box, var(--bg-soft); }
+.code-main { min-width: 0; flex: 1; }
+.code-text {
+  display: block; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 16px; font-weight: 700; letter-spacing: 0.02em; color: var(--tx);
+  word-break: break-all;
+}
+.code-text.is-blurred { filter: blur(6px); user-select: none; color: var(--tx-mute); }
+.code-reward { margin: 3px 0 0; font-size: 12.5px; color: var(--tx-dim); line-height: 1.45; }
+.code-actions { display: flex; align-items: center; gap: 9px; flex-shrink: 0; }
+.code-expiry { font-size: 11.5px; color: var(--warn); background: rgba(251, 191, 36, 0.1); border-radius: 6px; padding: 2px 7px; white-space: nowrap; }
+
+.btn {
+  border: 1px solid var(--line); background: var(--bg-soft); color: var(--tx);
+  border-radius: 9px; padding: 8px 14px; font-size: 13px; font-weight: 650;
+  cursor: pointer; font-family: inherit; white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.btn:hover { background: var(--card-hover); border-color: #3a4560; }
+.btn-copy.is-done { color: var(--ok); border-color: rgba(52, 211, 153, 0.4); }
+.btn-reveal { background: linear-gradient(135deg, var(--acc), #4a7cf0); border-color: transparent; color: #fff; min-width: 62px; }
+.btn-reveal:disabled { opacity: 0.75; cursor: default; background: var(--bg-soft); color: var(--tx-dim); border-color: var(--line); }
+.btn-more { display: block; width: 100%; margin-top: 12px; padding: 12px; }
+
+/* ── 만료 목록 ──────────────────────────────────────── */
+.expired-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 5px; }
+.expired-list li { display: flex; gap: 10px; align-items: baseline; font-size: 13px; color: var(--tx-mute); padding: 7px 12px; background: var(--bg-soft); border-radius: 8px; }
+.expired-list code { font-family: ui-monospace, monospace; text-decoration: line-through; opacity: 0.75; }
+.expired-list span { font-size: 12px; opacity: 0.7; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ── 방법 · FAQ ─────────────────────────────────────── */
+.howto { margin: 0; padding-left: 20px; color: var(--tx-dim); font-size: 14.5px; }
+.howto li { margin-bottom: 7px; }
+.faq { display: grid; gap: 7px; }
+.faq details { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 13px 15px; }
+.faq summary { cursor: pointer; font-weight: 650; font-size: 14.5px; list-style: none; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: '+'; float: right; color: var(--tx-mute); font-weight: 400; }
+.faq details[open] summary::after { content: '−'; }
+.faq p { margin: 9px 0 0; color: var(--tx-dim); font-size: 14px; line-height: 1.6; }
+
+.empty { color: var(--tx-mute); font-size: 14.5px; text-align: center; padding: 26px 0; }
+
+/* ── 푸터 ───────────────────────────────────────────── */
+.site-footer { margin-top: 56px; padding: 26px 0 40px; border-top: 1px solid var(--line); background: var(--bg-soft); }
+.site-footer p { margin: 0 0 7px; font-size: 12.5px; color: var(--tx-mute); line-height: 1.6; }
+
+@media (max-width: 560px) {
+  .hero { padding: 32px 0 22px; }
+  .stat b { font-size: 19px; }
+  .code-row { flex-wrap: wrap; gap: 9px; }
+  .code-actions { width: 100%; justify-content: flex-end; }
+}

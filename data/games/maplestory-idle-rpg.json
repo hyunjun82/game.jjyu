@@ -1,0 +1,97 @@
+{
+  "slug": "maplestory-idle-rpg",
+  "titleEn": "MapleStory Idle RPG",
+  "titleKo": null,
+  "sourcePath": "/maplestory-idle-rpg/codes/",
+  "updatedAt": "2026-08-31T00:24:33.769Z",
+  "codes": [
+    {
+      "code": "VICTORY2026",
+      "reward": "KT Wiz Costume Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAPLEFESTA",
+      "reward": "300 Summoning Ticket, 30 Regular Potential Cube (expires May 27th)",
+      "expiry": "2027-05-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY0505",
+      "reward": "55 Regular Potential Cube (expires May 25th)",
+      "expiry": "2027-05-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HALFANNIV",
+      "reward": "500 Companion Summoning Ticket (expires May 20th)",
+      "expiry": "2027-05-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINTERGIFT",
+      "reward": "300 Companion Summons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NO1MAPLEIDLE",
+      "reward": "100 Companion Summoning Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WITHU",
+      "reward": "30 Regular Potential Cubes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAPLER",
+      "reward": "7000 Medals of Honor",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKU",
+      "reward": "200 Companion Summoning Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100DAYGIFTS",
+      "reward": "100 Star Force Enhancement Scroll, 1,000,000 Mesos (expires March 1st)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MI100DAYS",
+      "reward": "500 Companion Summoning Ticket (expires March 1st)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

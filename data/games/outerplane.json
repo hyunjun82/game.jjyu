@@ -1,0 +1,49 @@
+{
+  "slug": "outerplane",
+  "titleEn": "Outerplane",
+  "titleKo": null,
+  "sourcePath": "/outerplane/codes/",
+  "updatedAt": "2026-08-31T00:24:36.966Z",
+  "codes": [
+    {
+      "code": "FORAME3",
+      "reward": "10x limited recruitment tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FORAME2",
+      "reward": "10x limited recruitment tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FORAME1",
+      "reward": "10x limited recruitment tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OUTERLETTER2ND",
+      "reward": "500 ether",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Mirshafes",
+      "reward": "10x limited recruitment tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

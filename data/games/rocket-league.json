@@ -1,0 +1,89 @@
+{
+  "slug": "rocket-league",
+  "titleEn": "Rocket League",
+  "titleKo": null,
+  "sourcePath": "/rocket-league/codes/",
+  "updatedAt": "2026-08-31T00:24:41.175Z",
+  "codes": [
+    {
+      "code": "rlnitro",
+      "reward": "Breakout: Nitro Circus decal and Antenna.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "bekind",
+      "reward": "VCR Limited Topper.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "couchpotato",
+      "reward": "Couch Potato Limited Player Title.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Rlbirthday",
+      "reward": "Two WWE banners, antennas, and wheels.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SARPBC",
+      "reward": "SARPBC logo, song, car, and Moai Antenna.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Shazam",
+      "reward": "Shazam Limited Decal and Shazam Limited Wheels.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Truffleshuffle",
+      "reward": "Octane: The Goonies Limited Decal.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Wrestlemania",
+      "reward": "WWE banners, antennas, and wheels.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WWE18",
+      "reward": "WWE banners, antennas, and wheels.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wwedads",
+      "reward": "WWE banners, antennas, and wheels.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "slug": "soul-land-new-world",
+  "titleEn": "Soul Land New World",
+  "titleKo": null,
+  "sourcePath": "/soul-land-new-world/codes/",
+  "updatedAt": "2026-08-31T00:24:43.524Z",
+  "codes": [
+    {
+      "code": "H7Q4N8WJ",
+      "reward": "20 Earth Breath, 5 Advanced Soul Master Training Manual, 10 100,000 Silver coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "D2F6H8GT",
+      "reward": "Low-level Bone Essence Stone x20, Fluorescent Crystal x10, Gold Soul Coin x5000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LNYGREET",
+      "reward": "Blue Crystal 300, Star Jade 20, Orange Soul Essence 2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PINKLUCK",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLUPOWER",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MayDay51",
+      "reward": "Vitality Potion x2, Blue Crystal x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T8L7P3XY",
+      "reward": "Earth Breath 20, Advanced Soul Master Training Manual x5, 100,000 Silver Coin x100",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "B5N8W2RT",
+      "reward": "Get 5 Low-level Bone Essence Stones & 5 Fluorescent Crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "P3M9K2XV",
+      "reward": "20 Low-level Bone Essence Stone, 10 Fluorescent Crystal, 5,000 Gold Soul Coin (expires June 6th)",
+      "expiry": "2027-06-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "J1F5Z8SG",
+      "reward": "20 Blue Obsidian Shards, 10 Spirit Crystal Free Pick, 200 Blue Crystal (expires May 30th)",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T9B3W6HD",
+      "reward": "20 Enchantment Crystal, 5 High-Energy Enchantment Crystal, 10 100K Silver Coin Bag (Expires May 23rd)",
+      "expiry": "2027-05-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "C4V8R1LQ",
+      "reward": "10 Soul Seal Crystal Shard, 10 Blue Basic Collection Pack, 5,000 Gold Soul Coin (expires May 14th)",
+      "expiry": "2027-05-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYDAY26",
+      "reward": "300 Blue Crystals, 10,000 Gold Soul Coins, 2 Vitality Potions (expires May 7th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "M1Y4S7XR",
+      "reward": "20 Earth Breath, 5 Advanced Soul Master Training Manual, 10x 100,000 Silver Coin (expires May 2nd)",
+      "expiry": "2027-05-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "J5P3N9VZ",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires April 16th)",
+      "expiry": "2027-04-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "K7V2M9QP",
+      "reward": "20 Enchantment Crystal, 5 High-Energy Enchantment Crystal, 10 100k Silver Coin Bag (expires April 09th)",
+      "expiry": "2027-04-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T9X4C2BM",
+      "reward": "10 Soul Seal Crystal Shard, 10 Blue Basic Collection Pack, 5,000 Gold Soul Coin (expires April 4th)",
+      "expiry": "2027-04-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "F3J8S6GM",
+      "reward": "20 Mind Method Scrap, 5 Unidentified Treasure Map, 200 Blue Crystal (expires March 28th)",
+      "expiry": "2027-03-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Z4H8R3LN",
+      "reward": "20 Blue Obsidian Shard, 20 Blue Obsidian Shard, 200 Blue Crystal (expires March 27th)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SWEETDAY",
+      "reward": "Blue Crystal x300, Advanced Affection Gift Box x5, Knot of Good Fortune x5 (expires March 15th)",
+      "expiry": "2027-03-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "R9T5Y2BK",
+      "reward": "300 Blue Crystals, 5 Advanced Affection Gift Box, 5 Knot of Good Fortune (expires March 21st)",
+      "expiry": "2027-03-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "P6X1C7DW",
+      "reward": "20 Low-level Bone Essence Stone, 10 Fluorescent Crystal, 5,000 Gold Soul Coin (expires March 14th)",
+      "expiry": "2027-03-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "J3F9S8KQ",
+      "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5000 (expires February 14th)",
+      "expiry": "2027-02-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "P4M7C2YW",
+      "reward": "Mind Method Scrap x20, Unidentified Treasure Map x5, Blue Crystal x200 (expires February 07th)",
+      "expiry": "2027-02-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIFT2026",
+      "reward": "Blue Crystal x200; Treasure Hunt Notes x2; Orange Soul Essence x2 (expires January 31st)",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T9Q3V7HP",
+      "reward": "Low-level Bone Essence Stone x20, Fluorescent Crystal x10, Gold Soul Coin x5000 (expires January 24th)",
+      "expiry": "2027-01-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "G8K2ZL4M",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires January 17th)",
+      "expiry": "2027-01-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "X9J6N3TV",
+      "reward": "Enchantment Crystal x20, High-Energy Enchantment Crystal x5, 100K Silver Coin Bag x10 (expires 27th December)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "K5Y2L8WQ",
+      "reward": "Mind Method Scrap x20, Unidentified Treasure Map x5, Blue Crystal x200 (expires December 13th)",
+      "expiry": "2026-12-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "R7W9N4BF",
+      "reward": "Earth Breath x20, Advanced Soul Master Training Manual x5, 100,000 Silver Coin x10 (expires December 06th)",
+      "expiry": "2026-12-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "J3P5L2VM",
+      "reward": "Low-level Bone Essence Stone x20, Fluorescent Crystal x10, Gold Soul Coin x5000 (Expires November 29th)",
+      "expiry": "2026-11-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "A3Q9R6DV",
+      "reward": "Weekly Code (expires November 22nd)",
+      "expiry": "2026-11-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Q1X8Y4JN",
+      "reward": "Weekly Code (expires November 15th)",
+      "expiry": "2026-11-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "L6F1J3TZ",
+      "reward": "Weekly Code",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HWNSLNW",
+      "reward": "Halloween code (expires November 06th)",
+      "expiry": "2026-11-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "F9B7T4JW",
+      "reward": "Mind Method Scrap x20, Unidentified Treasure Map x5, Blue Crystal x200 (expires November 01st)",
+      "expiry": "2026-11-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Z5T6H2PK",
+      "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5000 (expires October 25th)",
+      "expiry": "2026-10-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "D2K8X5RZ",
+      "reward": "Low-level Bone Essence Stone x20, Fluorescent Crystal x10, Gold Soul Coin x5000 (expires October 18th)",
+      "expiry": "2026-10-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Y5P1K8LT",
+      "reward": "Blue Crystal x200, Treasure Hunting Notes x3 (expires October 7th)",
+      "expiry": "2026-10-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "W4T8P1ZV",
+      "reward": "Weekly Code",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "P3G8W4ZB",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires September 13th)",
+      "expiry": "2026-09-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "R6C3V9XZ",
+      "reward": "Weekly code",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "P5D7R6WA",
+      "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5,000 (expires July 27th)",
+      "expiry": "2027-07-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PT3VNR5S",
+      "reward": "Earth Breath x20, Advanced Soul Master Training Manual x5, 100,000 Silver Coin x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "J9W4V1XF",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires July 13th)",
+      "expiry": "2027-07-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T7N1F9KB",
+      "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "V6W4B3YP",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires June 22nd)",
+      "expiry": "2027-06-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "D8L7C4JW",
+      "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5000 (expires June 15th)",
+      "expiry": "2027-06-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "J3X6R1GF",
+      "reward": "Earth Breath x20, Advanced Soul Master Training Manual x5, 100,000 Silver Coin x10 (expires June 8th)",
+      "expiry": "2027-06-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HALFANN",
+      "reward": "Collector&rsquo;s Album &times;2, Blue Crystals &times;300 (expires June 1st)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "B3V7X1WR",
+      "reward": "Blue Obsidian Shard *20, Spirit Crystal Free Pick *10, Blue Crystal *200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "B6P1X8JV",
+      "reward": "Blue Basic Collection Pack x10, Soul Seal Crystal Shard x10, Gold Soul Coin x5000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Y4K8J9RW",
+      "reward": "Earth Breath x20, Advanced Soul Master Training Manual x5, 100,000 Silver Coin x10 (expires May 18th)",
+      "expiry": "2027-05-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "H1P9B2JW",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires May 11th)",
+      "expiry": "2027-05-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "H8P5M4BQ",
+      "reward": "Summon Voucher x5, Treasure Hunting Notes x5, Spirit Crystal Free Pick x50 (expires April 21st)",
+      "expiry": "2027-04-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOLY1446",
+      "reward": "Earth Breath x10, Intermediate Soul Master Training Manual x5, 100k Silver Soul Coin x5 (expires March 16th)",
+      "expiry": "2027-03-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T9J3L8RQ",
+      "reward": "Earth Breath x10, Intermediate Soul Master Training Manual x5, Silver Soul Coin x100, 000 (Expires February 23rd)",
+      "expiry": "2027-02-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LOVE0214",
+      "reward": "Blue Crystal x300, Advanced Affection Free Pick Chest x5, Knot of Good Fortune x5 (expires February 20th)",
+      "expiry": "2027-02-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CNYJoy88",
+      "reward": "Blue Crystal x300, 3 Treasure Hunt Note x3 (expires February 2nd)",
+      "expiry": "2027-02-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "B2T9H5FV",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires August 23rd)",
+      "expiry": "2026-08-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "F3L8ZR1Q",
+      "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5000 (expires August 16th)",
+      "expiry": "2026-08-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Y8V3QM5L",
+      "reward": "Earth Breath x20, Advanced Soul Master Training Manual x5, 100,000 Silver Coin x10 (expires August 09th)",
+      "expiry": "2026-08-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "slug": "anime-final-quest",
+  "titleEn": "Anime Final Quest",
+  "titleKo": null,
+  "sourcePath": "/anime-final-quest/codes/",
+  "updatedAt": "2026-08-31T00:24:19.208Z",
+  "codes": [
+    {
+      "code": "GAMEMODEUPDATEDELAY",
+      "reward": "100 Gear Lucky Spins, 100 Weapon Lucky Spins, 150k Gold, 100 Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOLLOWPURPLEGEAR",
+      "reward": "50 Gear Lucky Spins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SANDVILLAGE",
+      "reward": "75K Cash, 5 Raid Tickets, 5 Frog Eggs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWTRAITFEATURE",
+      "reward": "100 Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OLDWEAPONSGRINDFIX",
+      "reward": "85 Runes, 20 Raid Tickets, 50 Weapon Lucky Spins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWXPREWARDS",
+      "reward": "100 Gear Lucky Spins, 50K Cash",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SONKING",
+      "reward": "60 Runes, 50 Raid Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BATTLEPASS",
+      "reward": "55K Cash, 50 Weapon Lucky Spins, 50 Gear Lucky Spins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHUMIMIM",
+      "reward": "50 Weapon Lucky Spins, 40 Gear Lucky Spins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TUSKQUEST",
+      "reward": "50 Raid Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFKISFIXED",
+      "reward": "25 Gear Lucky Spin, 25 Weapon Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAKIGEAR",
+      "reward": "50 Gear Lucky Spin, 55K Cash",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVOLUTIONSOON",
+      "reward": "35 Runes, 25 Raid Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QUEENOFCURSES",
+      "reward": "50 Weapon Lucky Spin, 75K Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWULTIMATESKILL",
+      "reward": "50 Raid Tickets, 35 Gear Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOMEFREERUNES",
+      "reward": "50 Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VAMPIREINAFQ",
+      "reward": "45 Weapon Lucky Spin, 45 Gear Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWRAIDINAFQ",
+      "reward": "50K Gold, 45 Rune",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STRAWHATREWORK",
+      "reward": "50 Raid Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORDELAY2",
+      "reward": "100 Weapon Lucky Spin, 100 Gear Lucky Spin, 100K Cash, 150 Rune, 30 Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BUGFIXUPDATE07",
+      "reward": "50 Lucky Weapon Spins, 45 Gear Lucky Spins, 50 Runes, 50K Cash",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SABERUPDATE",
+      "reward": "50 Lucky Weapon Spins, 35 Gear Lucky Spins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOMETHINGCOSMICISNEAR",
+      "reward": "75K Cash, 50 Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SWORDSAINT",
+      "reward": "50 Weapon Lucky Spin, 35 Gear Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARINEFORD",
+      "reward": "30 Runes, 45K Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KINGRIPPEREVO",
+      "reward": "30 Weapon Lucky and 30 Gear Lucky",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SORRYFORBUGSGEAR5",
+      "reward": "30 Weapon Lucky, 30 Rune, 10 Gear Lucky, 20 Raid Ticket, 15K Cash",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GEAR5",
+      "reward": "45 Weapon Lucky Spin, 30 Gear Lucky Spin, 20 Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVOLUTION3",
+      "reward": "45K Gold, 30 Raid Ticke",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VERGIL",
+      "reward": "40 Weapon Lucky Spins, 40 Gear Lucky Spins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GRINDTIME5",
+      "reward": "25 Runes, 10 Raid Tickets, 35k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TESTINGPLACEISBACK",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WORLD2END",
+      "reward": "45 Weapon Lucky Spin, 45 Gear Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STARTOFANEWERA",
+      "reward": "50K Gold, 20 Raid Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BUGFIX",
+      "reward": "50 Weapon Lucky Spin, 50 Gear Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AFQISCLEAN",
+      "reward": "30K Gold, 20 Rune",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AIZEN",
+      "reward": "50 Weapon Lucky Spin, 30 Gear Lucky Spin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RAID",
+      "reward": "25 Rune, 30K Cash",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GRINDTIME",
+      "reward": "15 Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APRILFOOLS",
+      "reward": "67 lucky weapon spins, 67 gear lucky spins (private servers only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRIPLET",
+      "reward": "35 runes, 67k gold (private servers only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

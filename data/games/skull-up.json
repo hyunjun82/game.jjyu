@@ -1,0 +1,25 @@
+{
+  "slug": "skull-up",
+  "titleEn": "Skull Up",
+  "titleKo": null,
+  "sourcePath": "/skull-up/codes/",
+  "updatedAt": "2026-08-31T00:24:42.836Z",
+  "codes": [
+    {
+      "code": "FINALCARNIVAL",
+      "reward": "Rainbow Lollypop x1, Carnival Ticket x10, Adv Summon Card x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "REVIVEGREEN",
+      "reward": "Shovel x10, Voucher x100 (expires May 26th)",
+      "expiry": "2027-05-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

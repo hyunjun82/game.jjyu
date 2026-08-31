@@ -1,0 +1,257 @@
+{
+  "slug": "wuthering-waves",
+  "titleEn": "Wuthering Waves",
+  "titleKo": null,
+  "sourcePath": "/wuthering-waves/codes/",
+  "updatedAt": "2026-08-31T00:24:51.240Z",
+  "codes": [
+    {
+      "code": "WUTHERINGGIFT",
+      "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FACEALEPH1",
+      "reward": "Astrite x100, Premium Resonance Potion x4, Advanced Energy Core x5",
+      "expiry": "2027-04-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2NDANNIVERSARY",
+      "reward": "Astrite x100, Forgery Premium Supply ? x2, Shell Credit x40000",
+      "expiry": "2027-04-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVERSHINE",
+      "reward": "Astrite x100, Premium Tuner x20, Advanced Sealed Tubes x5",
+      "expiry": "2027-04-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOLARISSUPERCUP",
+      "reward": "80 Astrites FASTERHIGHERSTRONGER - 80 Astrites",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THISISFINALE",
+      "reward": "x100 Astride, x3 Advanced Enclosure Tanks, 20k Shell Credits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DREAMSPERSIST",
+      "reward": "x100 Astrite, x3 Advanced Energy Core, x2 Medium Nutrient Block",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ILLUSIONHAUNTS",
+      "reward": "x100 Astrite, x3 Advanced Resonance Potion, x2 Medium Revival Inhaler",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WUWA4PC",
+      "reward": "50 Astrite, 20,000 Shell (PC only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHADOWOFGLORY",
+      "reward": "100 Astrites, 4 Gold Resonator EXP, 5 Purple Weapon EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLAMESOFHEART",
+      "reward": "100 Astrites, 2 Gold Weapon/Skill Material, 40000 Credits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AGONISON",
+      "reward": "100 Astrites, 1 Weekly Boss Material Box, 2 Purple Echo EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STARRYSTAGE",
+      "reward": "80 Asterite, 5 Advanced Resonance Potion, 5 Advanced Enclosure Tank",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALLEYESONUS",
+      "reward": "80 Asterite, 5 Advanced Energy Core, 50,000 Shell Credit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERSHALLNOTFADE",
+      "reward": "90 Astrites (expires June 23rd)",
+      "expiry": "2027-06-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOLARISSEASIDESTORY",
+      "reward": "90 Astrites (expires June 23rd)",
+      "expiry": "2027-06-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WITHYOU",
+      "reward": "100 Astrite, 20 Premium Tuner, 4 Advanced Sealed Tube (expires April 21st)",
+      "expiry": "2027-04-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STANNIVERSARY",
+      "reward": "100 Astrite, 4 Premium Resonance Potion, 4 Advanced Energy Core (expires April 21st)",
+      "expiry": "2027-04-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVERFLOWING",
+      "reward": "100 Astrite, 2 Forgery Premium Supply, 40k Shell Credits (expires April 21st)",
+      "expiry": "2027-04-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IMPERATOR",
+      "reward": "100 Astrite, 3 Advanced Resonance Potions, 2 Medium Revival Inhaler",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEVIATHAN",
+      "reward": "100 Astrite, 3 Advanced Advanced Energy Cores, 2 Medium Nutrient Block",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WHOAMI",
+      "reward": "100 Astrite, 3 Advanced Enclosure Tanks, 20,000 Shell Credits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CARNEVALE",
+      "reward": "100 Astrite, 20 Premium Tuner, 5 Advanced Sealed Tube (Expires December 23)",
+      "expiry": "2026-12-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OFFWEGO",
+      "reward": "100 Astrite, 2 Premium Enclosure Tank, 40000 Shell Credit (Expires December 23)",
+      "expiry": "2026-12-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GETREADY",
+      "reward": "100 Astrite, 4 Premium Resonance Potion, 5 Advanced Energy Core (Expires December 23)",
+      "expiry": "2026-12-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PTTMYZSOM",
+      "reward": "Five Medium Resonance Potion, five Medium Energy Core, 50,000 Shell Credit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLACKSHORES",
+      "reward": "100 Astrite",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHOREKEEPER",
+      "reward": "100 Astrite",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FORYOU",
+      "reward": "100 Astrite",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DCARD3VN7M",
+      "reward": "5k shell credits, five medium resonance potions, and five medium energy cores",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BAHAMUTKXMHM",
+      "reward": "5k shell credits, five medium resonance potions, and five medium energy cores",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "tsukis-odyssey",
+  "titleEn": "Tsuki's Odyssey",
+  "titleKo": null,
+  "sourcePath": "/tsukis-odyssey/codes/",
+  "updatedAt": "2026-08-31T00:24:49.485Z",
+  "codes": [
+    {
+      "code": "HUGYOURDAD24",
+      "reward": "2000 carrots",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YOUROCK",
+      "reward": "5000 carrots",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PARTY",
+      "reward": "Redeem code to get 1500 carrots",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "grandchase",
+  "titleEn": "GrandChase",
+  "titleKo": null,
+  "sourcePath": "/grandchase/codes/",
+  "updatedAt": "2026-08-31T00:24:27.821Z",
+  "codes": [
+    {
+      "code": "SILVERLAND",
+      "reward": "10 Royal Hero Summon Tickets, 1,000 Gems, 1,000 Energy, 1 Energy 3 Times Use Boosy (1 Day)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GCMELESISS",
+      "reward": "1,000 Gems, 30 Elesis (S) Pet, 1 GrandTale Avatar Select Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEVNOTE26",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GCMETATRON",
+      "reward": "Royal Hero Summon Ticket x10, Costume Suit Avatar Select Ticket x1, Metatron Growth Cube x125, Metatron Divine Crystal x250",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GCMNEPTEON",
+      "reward": "Royal Summon Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GCMLIRE",
+      "reward": "1,000 Gems, 30 Lire(S) Pet, Gold Boost (1 Day), EXP Boost (1 Day), Expedition Rewards 2x Buff (1 Day)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GCMVICE",
+      "reward": "10 Royal Hero Summon Tickets, 1 Story of Flowing Stars coupon, 125 Vice Growth Cubes, 1 Vice Avatar Select Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

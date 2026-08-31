@@ -1,0 +1,73 @@
+{
+  "slug": "era-of-warfare",
+  "titleEn": "Era of Warfare",
+  "titleKo": null,
+  "sourcePath": "/era-of-warfare/codes/",
+  "updatedAt": "2026-08-31T00:24:25.412Z",
+  "codes": [
+    {
+      "code": "EOW666",
+      "reward": "10 Rune Tickets, 3 Awakening Transcend Stones, 10 Gear Treasure Tokens",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EOW777",
+      "reward": "Bubble - Star Dragon, 3 Awakening Transcend Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EOW888",
+      "reward": "Frame - Gratitude, 2 Million Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EOW999",
+      "reward": "$5 Top-up Card, 30 Gear Treasure Tokens",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tiger666",
+      "reward": "300 Diamonds, 300 Basalts, 2 Lvl 3 Gem Chests",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "welcome",
+      "reward": "999 Roses, 888 Basalts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SVIP303",
+      "reward": "Portrait - Flying Dragon, 3 Awakening Transcend Stones, 200 Basalts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "weekend30",
+      "reward": "Adv. Spirit Feather Essence, 300 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

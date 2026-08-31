@@ -1,0 +1,649 @@
+{
+  "slug": "idle-heroes",
+  "titleEn": "Idle Heroes",
+  "titleKo": null,
+  "sourcePath": "/idle-heroes/codes/",
+  "updatedAt": "2026-08-31T00:24:29.685Z",
+  "codes": [
+    {
+      "code": "IH2025MOON",
+      "reward": "1,000 Gems, 5 Treasure Coupons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIFT10LUTZ",
+      "reward": "1,000 Gems, 10 Heroic Summon Scrolls, 5 Core of Transcendences",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHAKUDEMON9",
+      "reward": "999 Gems, 5 Treasure Coupons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AKUDEMON8GIFT",
+      "reward": "999 Gems, 5 Treasure Coupons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMER8IH",
+      "reward": "1,000 Gems, 10 Heroic Summon Scrolls, 5 Core of Transcendences",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHQIUYEJYW",
+      "reward": "999 Gems, 5 Treasure Coupons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JULYIH7AKU",
+      "reward": "999 Gems, 5 Treasure Coupons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYINJULY",
+      "reward": "1,000 Gems, 10 Heroic Summon Scrolls, 5 Core of Transcendences",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRGNBOAT2025",
+      "reward": "1,000 Diamonds, 5 Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYBEBARRY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025MJT888",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WARMCNY25IH",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NICEBARRY2025",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MERRYBARRY24",
+      "reward": "888 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH24XMAS",
+      "reward": "1000 Diamonds, 5 Heroic Summon Scroll",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOVBARRYGIFT",
+      "reward": "888 Diamonds and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ENJOY11IH",
+      "reward": "1,000 Gems, 10 Heroic Summon Scrolls, 5 Core of Transcendences",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHD100K",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BARRY10G",
+      "reward": "888 Diamonds and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEPT9LUTZ",
+      "reward": "1,000 Diamonds, 10 Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH999",
+      "reward": "Rewards: 60 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH777",
+      "reward": "Rewards: 50 Summon Scrolls (This code is for new players)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH4UCODE9",
+      "reward": "1,000 Gems, 10 Heroic Summon Scrolls, 5 Core of Transcendences",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MKX9ANNI25",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHGIFT9",
+      "reward": "9th Anniversary gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BARRYBEST9",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHHAPPY999",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHTHANKU9",
+      "reward": "99 Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHBIRTHDAY9",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHMJT999",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHMKXJUMP999",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHCELEBRATION9",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHHAPPY9",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHAKUGIFT",
+      "reward": "3 Eminent Hero Selection Chest, 999 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHANNIMONTH",
+      "reward": "1,000 Diamonds, 10 Summon Scrolls, 10 Core of Transcendences (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH9THANNIV",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHREWARD9",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYIHBONUS",
+      "reward": "1,000 Diamonds, 5 Heroic Summon Scrolls, 10 Core of Transcendences",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LABOR5GIFT",
+      "reward": "x1,000 Diamonds, x5 Treasure Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGIHGIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLESSFEBGIFT",
+      "reward": "1,000 Gems, 10 Cores, 10 Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNOWIHGIFT",
+      "reward": "1,000 Diamonds and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYJANIDLE",
+      "reward": "1000 Diamonds, 10 Heroic Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUTZ25GIFTIH",
+      "reward": "1,000 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH2024BETTER",
+      "reward": "777 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHAJI888",
+      "reward": "777 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COMM2024IH",
+      "reward": "1000 Diamonds, 10 Heroic Summon Scrolls and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ESATERIHAPR",
+      "reward": "1000 Diamonds and 10 Heroic Summon Scrolls and more (Valid till April 30)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARPD2024IH",
+      "reward": "1000 Diamonds and 10 Heroic Summon Scrolls and more (Valid till April 30)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHXMASGIFT",
+      "reward": "1000 Diamonds and 10 Heroic Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XMASBARRY",
+      "reward": "777 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHQA2023",
+      "reward": "1000 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOJITO6",
+      "reward": "777 Diamonds and other rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUTZGIFTIH",
+      "reward": "Diamonds and other rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHVK20K",
+      "reward": "777 Diamonds and other rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SANTA2023IH",
+      "reward": "1000 Diamonds, 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BARRY09IH",
+      "reward": "777 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PHKCZYM",
+      "reward": "777 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHDCCUTE",
+      "reward": "777 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IH7SUMMER",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HPBIH2023",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOTIHMAY",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IMPGIFTIH",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FAIRYIHMAR",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGIHDAY",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DECXMASIH",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOVEGIFTIH",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OCTTCOIH",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEPLUTZIH",
+      "reward": "Rewards: 1000 Gems and 10 Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2022HAPPYCNY",
+      "reward": "Rewards: 1000 Gems and 10 Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2022NEWYEARIH",
+      "reward": "Rewards: 1000 Gems and 10 Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XMAS2021IH",
+      "reward": "Rewards: 1225 Gems, 10 Heroic Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASPEN2021IH",
+      "reward": "Rewards: 1000 Gems and 10 Heroic Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHNOV2021",
+      "reward": "Rewards:1000 Gems and 10 Heroic Summon Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "autumn2021",
+      "reward": "Rewards: 7 Heroic Summon Scrolls and 700 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHOCT2021",
+      "reward": "Rewards: 5 Heroic Summon Scrolls and 500 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMER",
+      "reward": "Rewards: Diamonds x500, Heroic Summon Scrolls x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERPARTY",
+      "reward": "Rewards: Diamonds x500, Heroic Summon Scrolls x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHSEPT2021",
+      "reward": "Rewards: Diamonds x1000, Heroic Summons Scrolls x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IHAUG2021",
+      "reward": "Rewards: 500 Gems, and 5 Heroic Summon Scrolls.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "uno-mobile",
+  "titleEn": "UNO",
+  "titleKo": null,
+  "sourcePath": "/uno-mobile/gift-codes/",
+  "updatedAt": "2026-08-31T00:24:49.485Z",
+  "codes": [
+    {
+      "code": "WATCHFINALSNOW",
+      "reward": "limited uses",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWUNOJOURNEY",
+      "reward": "limited uses",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WHOWINSTROPHY",
+      "reward": "limited uses",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHAMPIONOF2024",
+      "reward": "limited uses",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWGRANDSLAM",
+      "reward": "limited uses",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "6THYEARWITHUNO",
+      "reward": "limited uses",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

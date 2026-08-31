@@ -1,0 +1,177 @@
+{
+  "slug": "the-tale-of-food",
+  "titleEn": "The Tale of Food",
+  "titleKo": null,
+  "sourcePath": "/the-tale-of-food/codes/",
+  "updatedAt": "2026-08-31T00:24:47.011Z",
+  "codes": [
+    {
+      "code": "TTOFMOONLIGHT",
+      "reward": "Reward: 5x Soul Core (Valid till June 1)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TTOFWILL",
+      "reward": "Reward: 5x Soul Core (Valid till June 1)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TTOFSHINE",
+      "reward": "Reward: 5x Soul Core (Valid till June 1)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TTOFINTO",
+      "reward": "Reward: 5x Soul Core (Valid till June 1)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TTOFKONGSANG",
+      "reward": "Reward: 5x Soul Core (Valid till June 1)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tof2023",
+      "reward": "1 Bunny Bun S, 50 Miracle Stone, 5000 Shells, 1x 200% Efficiency Rune",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofvip",
+      "reward": "5 Bunny Bun S, 5000 Shells",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofsupport",
+      "reward": "100 Jade, 1 Bunny Bun L, 1 Soul Core Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "toffans",
+      "reward": "1 Bunny Bun M, 3x 200% Efficiency Rune",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofknow",
+      "reward": "60 Stamina, 300 Spring Peach, 1 Jade Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofyou",
+      "reward": "60 Stamina, 300 Spring Peach, 1 Jade Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofhave",
+      "reward": "60 Stamina, 300 Spring Peach, 1 Jade Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofcome",
+      "reward": "60 Stamina, 300 Spring Peach, 1 Jade Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofadv",
+      "reward": "5000 Shells, 10 Speedup Oil",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofrpg",
+      "reward": "5 Bunny Bun S, 1 Speedup Soap",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "foodstory",
+      "reward": "1 Speedup Oil, 1 Favor Giftbox, 1 Star Up Case R, 1 Ingredients Case",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofsim",
+      "reward": "3 Pentachrome Soil S, 2000 Shells",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "food333",
+      "reward": "Yangzhou Rice (SR)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "food777",
+      "reward": "1 Pentachrome Soil S, 5000 Shells, 1 Speedup Soap, 1x 200% Efficiency Rune",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "food2023",
+      "reward": "20 Jade",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tofgift",
+      "reward": "50 Miracle Stone, 1x 200% Efficiency Rune",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

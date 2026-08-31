@@ -1,0 +1,33 @@
+{
+  "slug": "super-snail",
+  "titleEn": "Super Snail",
+  "titleKo": null,
+  "sourcePath": "/super-snail/codes/",
+  "updatedAt": "2026-08-31T00:24:45.390Z",
+  "codes": [
+    {
+      "code": "LAISSEZ",
+      "reward": "SNAIRE",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP777",
+      "reward": "1 Lottery Ticket, 2x Travel Speedup, 7777 B-Tadpole",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GREEDISGOOD",
+      "reward": "100 W-Tadpole",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

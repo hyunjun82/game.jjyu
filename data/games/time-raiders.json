@@ -1,0 +1,41 @@
+{
+  "slug": "time-raiders",
+  "titleEn": "Time Raiders",
+  "titleKo": null,
+  "sourcePath": "/time-raiders/codes/",
+  "updatedAt": "2026-08-31T00:24:47.657Z",
+  "codes": [
+    {
+      "code": "timeraiders3b",
+      "reward": "female clothing",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "timeraiders3a",
+      "reward": "male clothing",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "timeraiders2",
+      "reward": "500 fame and bloodbeast",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "timeraiders1",
+      "reward": "gold tiger symbol, bloodbeast, future tech clothing, unrivalled legends bubble, unrivalled legend frame, fame and a gold diamond",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

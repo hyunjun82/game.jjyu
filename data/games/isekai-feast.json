@@ -1,0 +1,73 @@
+{
+  "slug": "isekai-feast",
+  "titleEn": "Updated Isekai Feast",
+  "titleKo": null,
+  "sourcePath": "/isekai-feast/codes/",
+  "updatedAt": "2026-08-31T00:24:30.021Z",
+  "codes": [
+    {
+      "code": "FindARainbow",
+      "reward": "expires April 6th",
+      "expiry": "2027-04-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "38EventEndSoon",
+      "reward": "rewards (expires March 10th)",
+      "expiry": "2027-03-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WomenDay2025",
+      "reward": "rewards (expires March 9th)",
+      "expiry": "2027-03-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TheLastOfFeb",
+      "reward": "rewards (expires March 2nd)",
+      "expiry": "2027-03-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JoinCoolRebate",
+      "reward": "rewards (expires March 2nd)",
+      "expiry": "2027-03-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VFEASTAbt2EnD",
+      "reward": "expires February 17th",
+      "expiry": "2027-02-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1101FeastING",
+      "reward": "Expires January 13th",
+      "expiry": "2027-01-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMETO2025",
+      "reward": "Expires January 5th",
+      "expiry": "2027-01-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

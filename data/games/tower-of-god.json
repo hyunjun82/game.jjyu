@@ -1,0 +1,457 @@
+{
+  "slug": "tower-of-god",
+  "titleEn": "Tower of God Great Journey",
+  "titleKo": null,
+  "sourcePath": "/tower-of-god/codes/",
+  "updatedAt": "2026-08-31T00:24:48.927Z",
+  "codes": [
+    {
+      "code": "TOGLOVEVALENTINE",
+      "reward": "Tower&rsquo;s Special Summon Ticket x20, Tower of Trial Key x200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINGSOFFREEDOM1UREK",
+      "reward": "Destiny's Guide Card x1, Summon Ticket Selection Chest x20, Tower of Trial Key x300, 5,000,000 Golds",
+      "expiry": "2027-06-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOG3RDANNIVERSARY3",
+      "reward": "Destiny Summon Ticket x10, Fate Gift Box (Epic) X20, Starlight x30 (expires May 27th)",
+      "expiry": "2027-05-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOG3RDANNIVERSARY2",
+      "reward": "Destiny's Blacksmith Card x1, Breakthrough Stone Selection Chest X20, Tower of Trial Key x200 (expires May 20th)",
+      "expiry": "2027-05-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOG3RDANNIVERSARY1",
+      "reward": "Destiny's Guide Card x1, Summon Ticket Selection Chest X20, Tower of Trial Key x200 (expires May 13th)",
+      "expiry": "2027-05-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025APRILDEVNOTE1",
+      "reward": "Tower of Trial Key x100, Tower of Trial Instant Clear Ticket x300, Tower's Special Summon Ticket x20 (expires May 2nd)",
+      "expiry": "2027-05-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025APRILDEVNOTE2",
+      "reward": "Summon Ticket Random Box x10, Expert Upgrade Stone Random Box x10, 24hr Rice Pot EXP Chest x1 (expires May 2nd)",
+      "expiry": "2027-05-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025APRILDEVNOTE3",
+      "reward": "Amplification Shard x10, Legendary Weapon Breakthrough Stone x5, 24hr Shinsu's Hourglass Chest x1 (expires May 2nd)",
+      "expiry": "2027-05-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGWELCOME2025",
+      "reward": "Tower&rsquo;s Special Summon Ticket x20, Tower&rsquo;s Summon Ticket x25, Tower of Trial Key x300 (expires February 21st)",
+      "expiry": "2027-02-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JANDEVNOTETOG",
+      "reward": "Tower of Challenge Key x10, Tower of Trial Key x300, Tower of Trial Instant Clear Ticket x200 (expires February 21st)",
+      "expiry": "2027-02-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025DEVNOTETOG",
+      "reward": "Legendary Recipe Piece Selection Chest x5, Legendary Armor Breakthrough Stone x10, Tower of Trial Instant Clear Ticket x200 (expires February 21st)",
+      "expiry": "2027-02-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FORGETMENOT",
+      "reward": "Tower of Trial Key x300, Tower's Special Summon Ticket x20, Accelerator x50 (expires January 17th)",
+      "expiry": "2027-01-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWANCIENTCOMING",
+      "reward": "Tower of Trial Key x300, Ancient Summon Ticket x10, Accelerator x50 (Expires November 29)",
+      "expiry": "2026-11-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGAUTUMNGIFT",
+      "reward": "Tower of Trial Key x300, Tower&rsquo;s Special Summon Ticket x20, Accelerator x100",
+      "expiry": "2026-10-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUNNYWAVEISCOMING",
+      "reward": "Tower of Trial Key x300, Tower&rsquo;s Special Summon Ticket x20, Accelerator x50 (Expires September 20)",
+      "expiry": "2026-09-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGSUMMERGIFT",
+      "reward": "Destiny's Guide Card x1, Key x300, Starlight x20, Fate Gift Box x10 (Expires September 22)",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGMAYGIFT",
+      "reward": "Tower&rsquo;s Special Summon Ticket x20, Tower of Trial Key x300, Accelerator x50",
+      "expiry": "2027-05-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MLNXTOGMGIFT",
+      "reward": "MLN Summon Ticket x20",
+      "expiry": "2027-05-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FIREWORKFESTIVALISCOMING",
+      "reward": "Tower&rsquo;s Special Summon Ticket x10, Fate Gift Box (Epic) x5, Tower of Trial Key x300, Tower of Trial Instant Clear Ticket x50",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FIREWORKFESTIVAL1STEVE",
+      "reward": "Tower&rsquo;s Special Summon Ticket x10, Tower of Trial Key x300, Tower of Trial Instant Clear Ticket x50, God&rsquo;s Inventory Epic Scroll x5",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGAPR1FOOLSDAY",
+      "reward": "Tower&rsquo;s Special Summon Ticket x4, Tower&rsquo;s Summon Ticket x1",
+      "expiry": "2027-04-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARCHDEVNOTETOG",
+      "reward": "x2 Shiny Shinsu Reactant, x500 Shinsu Shape Train Stone, and x200 Tower of Trial Clear Ticket",
+      "expiry": "2027-04-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGMARCHGIFT3",
+      "reward": "Destiny Summon Ticket x10, Tower of Trial Key x300, Accelerator x50",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOG2SATURDAY",
+      "reward": "Tower&rsquo;s Special Summon Ticket x10, Tower of Trial Key x300",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGMARCHWEEK1",
+      "reward": "Tower&rsquo;s Special Summon Ticket x10, Tower of Trial Key x300",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY1YEARWITHTOG",
+      "reward": "ower&rsquo;s Special Summon Ticket x20, Tower&rsquo;s Summon Ticket x20, Fate Gift (Epic) x20 (Expires March 5)",
+      "expiry": "2027-03-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MLNXTOGMEVERYDAY",
+      "reward": "MLN Summon Ticket x20 (Expires February 20)",
+      "expiry": "2027-02-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYTOGMXMLNCOLLAB",
+      "reward": "Tower&rsquo;s Special Summon Ticket x20, Tower of Trial Key x100, Accelerator x50 (Expires February 20)",
+      "expiry": "2027-02-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGMXMLNCOLLAB1",
+      "reward": "MLN Summon Ticket x20 (Expires February 20)",
+      "expiry": "2027-02-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGWEEKFASTWEEK3",
+      "reward": "Tower of Trial Accelerator x300 and Fate Gift (Epic) x5",
+      "expiry": "2027-01-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FASTWEEKTOG2",
+      "reward": "Tower of Trial Accelerator x300 and Ancient Summon Ticket x10",
+      "expiry": "2027-01-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FASTTOGWEEK1",
+      "reward": "Tower of Trial Accelerator x300 and Gold 5,000,000",
+      "expiry": "2027-01-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGHAPPYNEWYEAR2024",
+      "reward": "Tower's Special Summon Ticket x20, Tower's Summon Ticket x24, Tower of Trial Key x300",
+      "expiry": "2027-01-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COMINGSOON2024TOG",
+      "reward": "Tower's Summon Ticket x20, Tower of Trial Key x300 )",
+      "expiry": "2027-01-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNT2DOWNTOG",
+      "reward": "Tower's Summon Ticket x20, Tower of Trial Key x300",
+      "expiry": "2027-01-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN3TOG",
+      "reward": "Tower's Summon Ticket x20, Tower of Trial Key x300",
+      "expiry": "2027-01-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGTHANKSGIVINGDAY11",
+      "reward": "Tower&rsquo;s Special Summon Ticket x20, Tower of Trial Key x100, Accelerator x50",
+      "expiry": "2026-12-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGMERRYCHRISTMAS",
+      "reward": "Destiny Guide's Card x1, Tower's Summon Ticket x20, Gold 2,000,000",
+      "expiry": "2027-01-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGHAPPYFOREVER",
+      "reward": "Tower&rsquo;s Special Summon Ticket x20, Accelerator x50, Tower of Trial Key x100 (Expires December 11)",
+      "expiry": "2026-12-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOG1009HANGEUL",
+      "reward": "Tower&rsquo;s Special Summon Ticket x10 / Tower&rsquo;s Summon Ticket x10 / Tower of Trial Key x300 (Expires November 6)",
+      "expiry": "2026-11-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DATAWORLD0926",
+      "reward": "Destiny&rsquo;s Guide Card x1, Tower&rsquo;s Summon Ticket x20, and 2,000,000 Gold (Expires on October 24)",
+      "expiry": "2026-10-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ENRYUXTHE4THBAM",
+      "reward": "Tower&rsquo;s Summon Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGR0ADMAP0620",
+      "reward": "Tower&rsquo;s Summon Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEVSNOTE4UTOGGJ",
+      "reward": "Tower&rsquo;s Special Summon Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEVSNOTE0913JHD",
+      "reward": "Tower&rsquo;s Summon Ticket x20, Tower&rsquo;s Special Summon Ticket x10, Gold 2,000,000 (Expires October 6)",
+      "expiry": "2026-10-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGDEVNOTE0220",
+      "reward": "Redeem code for free rewards (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUTOG",
+      "reward": "Free rewards (Korean Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGTOP1",
+      "reward": "Free rewards (Korean Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEW1RREGUL4R0219",
+      "reward": "Redeem for 5x Summon Tickets (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "0218GRE4TJ0URNEY",
+      "reward": "Redeem for 5x Summon Tickets (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLAYTOG021723NOW",
+      "reward": "Redeem code for free rewards (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMETOG2023",
+      "reward": "Redeem for 5x Summon Tickets (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWENDORSI0227",
+      "reward": "10x Tower's Special Summon Ticket (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGGETDIA1157",
+      "reward": "Redeem code for free rewards (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "togdia369",
+      "reward": "Redeem code for free rewards (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOGAUGUSTGIFT",
+      "reward": "Tower of Trial Key x300, Tower&rsquo;s Special Summon Ticket x20, Accelerator x50 (Expires August 30th)",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "headless-knight-idle-rpg",
+  "titleEn": "Headless Knight",
+  "titleKo": null,
+  "sourcePath": "/headless-knight-idle-rpg/codes/",
+  "updatedAt": "2026-08-31T00:24:28.452Z",
+  "codes": [
+    {
+      "code": "VIP111",
+      "reward": "300 Normal Chests, 10,000 Diamonds, 500 Red Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEW111",
+      "reward": "1,000 Diamonds, 500 Red Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP777",
+      "reward": "10,000 Diamonds, 10 Companion Summon Scrolls, 10.0 A Enhancement Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP999",
+      "reward": "10,000 Diamonds, 500 Red Diamonds, 10.0 A Refining Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

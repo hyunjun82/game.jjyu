@@ -1,0 +1,49 @@
+{
+  "slug": "horrors-rng",
+  "titleEn": "Roblox Horrors RNG",
+  "titleKo": null,
+  "sourcePath": "/horrors-rng/codes/",
+  "updatedAt": "2026-08-31T00:24:29.364Z",
+  "codes": [
+    {
+      "code": "10000HORRORS",
+      "reward": "1.5 Luck boost for 35 minutes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MURDERER",
+      "reward": "2x Luck boost for 20 minutes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOU2000",
+      "reward": "2x Luck boost for 20 minutes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Roll",
+      "reward": "2x Luck boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5000WOWS",
+      "reward": "1.5 Luck boost for 25 minutes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

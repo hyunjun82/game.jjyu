@@ -1,0 +1,481 @@
+{
+  "slug": "heir-light-eclipse",
+  "titleEn": "Heir of Light Eclipse",
+  "titleKo": null,
+  "sourcePath": "/heir-light-eclipse/redeem-codes/",
+  "updatedAt": "2026-08-31T00:24:29.028Z",
+  "codes": [
+    {
+      "code": "ECLIPSEGIFT25",
+      "reward": "Transcendence Stone x400 + Summon Shard (Morning Star, Dark Blood) x60 + Karat x6,000 + Gear Upgrade Material Box (T1 - T4) x8 + Goddess&rsquo;s Gift (M) x30 (expires 30th September)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "15HAPPYBDAY",
+      "reward": "Summon Stone Chest x150 + Karat x15,000 (expires 31st December)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TODAY1031",
+      "reward": "Special Summon Stone Chest x100",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "remember1025",
+      "reward": "Special Summon Stone Chest x25",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "specialday",
+      "reward": "Summon Stone Chest x50",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECLIPSEHAPPY2026",
+      "reward": "Karat x15,000 + Transcendence Stone x5,000 + Time Star Shard x1,000 + Ampoule of Brilliance x1,000 + Premium Gem x100 + Transcendent Servant Summon Shard Select Chest x60 + Goddess&rsquo;s Gift Chest (XL) x40 + Summon Stone Chest x20 + Reward Select Chest x2 (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEANNIV5",
+      "reward": "Guiding Light x20 (begins March 10th, expires March 10th)",
+      "expiry": "2027-03-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEANNIV4",
+      "reward": "Gear Upgrade Material Box (T1 - T4) x1 (expires March 09)",
+      "expiry": "2027-03-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "mega2025",
+      "reward": "Summon Stone Chest x100 (expires 31st December)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Fortune2025",
+      "reward": "Summon Stone Chest x30, Special Summon Stone Chest x30 (expires 31st December)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEANNIV3",
+      "reward": "Gear Awakening Stone x30",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEANNIV2",
+      "reward": "Ampoule of Brilliance x100",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEANNIV1",
+      "reward": "Legendary Fairy's Essence x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday1",
+      "reward": "Guiding Light x10 (expires Ferbuary 28th)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday2",
+      "reward": "Karat x3,000 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday3",
+      "reward": "Gear Upgrade Material Box (T1-T4) x1 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday4",
+      "reward": "Legendary Fairy&rsquo;s Essence x10 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday5",
+      "reward": "Special Summon Stone Chest x20 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday6",
+      "reward": "Gear Awakening Stone x30 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOMdday7",
+      "reward": "Summon Stone Chest x30 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYBAG1",
+      "reward": "Lucky Dip between two rewards (expires February 28th) (*)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYBAG2",
+      "reward": "Lucky Dip between two rewards (expires February 28th) (*)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYBAG3",
+      "reward": "Lucky Dip between two rewards (expires February 28th) (*)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "sorry1217",
+      "reward": "Guiding Light X10 (Valid l December 24)",
+      "expiry": "2026-12-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XMAS1209",
+      "reward": "Expires December 10th",
+      "expiry": "2026-12-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Special1114",
+      "reward": "Special Summon Stone Chest x11, Gear Awakening Stone x40 (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "sorry1112",
+      "reward": "Guiding Light x10 + Gear Awakening Stone x50 (expires November 18th)",
+      "expiry": "2026-11-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STREPOST",
+      "reward": "Summon Stone Chest x30 (Expires 30th September)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STUPDATE",
+      "reward": "Summon Stone Chest x300 + Goddess&rsquo;s Gift (XL) x30 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STPARTY",
+      "reward": "Morning Star/Dark Blood Summon Shard Select Chest x60 + Gear Upgrade Material Box (T4) x1 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN1",
+      "reward": "10 Guiding Light (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN2",
+      "reward": "Gear Upgrade Material Box (T1 - T3) x1 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN3",
+      "reward": "Summon Shard (Epic) x300 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN4",
+      "reward": "Special Summon Stone Chest x20 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN5",
+      "reward": "Advanced Refinding Stone x20 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN6",
+      "reward": "Goddess's Gift (M) x10 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COUNTDOWN7",
+      "reward": "Summon Stone Chest x50 (expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Support813",
+      "reward": "Summon Stone Chest x20, Goddess&rsquo;s Gift (XL) x2, and Refining Stone x2000 (Valid l September 30)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Light815",
+      "reward": "Summon Stone Chest x80, Special Summon Stone Chest x10, and Advanced Refining Stone x5 (Valid l September 30)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOME09",
+      "reward": "Summon Stone Chest x50 (Expires 14th October)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JEOL0401",
+      "reward": "Summon Stone x30, Karat x3,000, or Refining Stone x1,000 (Valid l April 30)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "surprise419",
+      "reward": "Special Summon Stone Chest x10 + Goddess&rsquo;s Gift (M) x10 (Valid l April 25)",
+      "expiry": "2027-04-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEL0123",
+      "reward": "Summon Stone Chest x10 + Goddess&rsquo;s Gift (M) x5 (Valid l February 4)",
+      "expiry": "2027-02-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY1225",
+      "reward": "Guiding Light x10 (Expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GAME1121",
+      "reward": "Summon Stone Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "everyday100",
+      "reward": "Guiding Light x10 (Expires December 19)",
+      "expiry": "2026-12-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "come1222",
+      "reward": "Guiding Light x10 (Expires December 19)",
+      "expiry": "2026-12-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "shine100",
+      "reward": "Guiding Light x10 (Expires December 18)",
+      "expiry": "2026-12-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wait1222",
+      "reward": "Guiding Light x10 (Expires December 17)",
+      "expiry": "2026-12-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "giftbox100",
+      "reward": "Guiding Light x10 (Expires December 16)",
+      "expiry": "2026-12-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dday1222",
+      "reward": "Special Summon Stone Chest and Goddess&rsquo;s Gift (M) x3 (Expires December 15)",
+      "expiry": "2026-12-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "countdown100",
+      "reward": "Karat x1000 and Stack of Aran Glyphs (M) x3 (Expires December 14)",
+      "expiry": "2026-12-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ELThanks100",
+      "reward": "Karat x1000 and Stack of Aran Glyphs (M) x3 (Expires December 13)",
+      "expiry": "2026-12-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100ELgift",
+      "reward": "Karat x1000 and Goddess&rsquo;s Gift (M) x3 (Expires December 12)",
+      "expiry": "2026-12-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ELHAPPY12",
+      "reward": "Summon Stone Chest x10 (Expires December 10)",
+      "expiry": "2026-12-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SWEETTREAT",
+      "reward": "Summon Shard (Rare) x500",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEL1101",
+      "reward": "Karat x1,500",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HLEL1111",
+      "reward": "Special Summon Stone Chest x10 (Expires November 19)",
+      "expiry": "2026-11-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIGHTGIFT10",
+      "reward": "Summon Stone Chest x10 (Expires November 15)",
+      "expiry": "2026-11-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

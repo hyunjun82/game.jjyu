@@ -1,0 +1,57 @@
+{
+  "slug": "the-seven-deadly-sins-origin",
+  "titleEn": "The Seven Deadly Sins Origin",
+  "titleKo": null,
+  "sourcePath": "/the-seven-deadly-sins-origin/codes/",
+  "updatedAt": "2026-08-31T00:24:47.011Z",
+  "codes": [
+    {
+      "code": "WELCOMEORIGIN",
+      "reward": "5 Hero Regular Draw Tickets, 10 Supreme Mastery EXP, 10 Supreme Enhancement Stones, 10 Supreme Refinement Stones, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "escanorinorigin",
+      "reward": "30 Special Enhancement Stone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "lionsinisback",
+      "reward": "5 Elite Trophies Chance Bundle",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ORIGINX",
+      "reward": "1 Hero Regular Draw Ticket, 50k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ORIGINDISCORD",
+      "reward": "1 Hero Regular Draw Ticket, 3 Small Cube Key Bundles",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ORIGINSTEAM",
+      "reward": "1 Hero Regular Draw Ticket, 10 Premium Mastery EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "ghost-hunters-assemble",
+  "titleEn": "Ghost Hunters Assemble",
+  "titleKo": null,
+  "sourcePath": "/ghost-hunters-assemble/codes/",
+  "updatedAt": "2026-08-31T00:24:26.929Z",
+  "codes": [
+    {
+      "code": "INFINITYCASTLE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEDC",
+      "reward": "300 Jade, 30k Gold, 1 Premium Prayer Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEFB",
+      "reward": "10 Recruit Tickets, 188 Jade",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP999",
+      "reward": "200 Jade, 1 Prayer Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP888",
+      "reward": "20k Gold, 20k EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP777",
+      "reward": "300 Jade, 30k Gold, 1 Premium Prayer Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP666",
+      "reward": "5 Recruit Tickets, 300 Jade, 1 Gold Chest (8h)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

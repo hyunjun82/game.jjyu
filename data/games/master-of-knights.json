@@ -1,0 +1,25 @@
+{
+  "slug": "master-of-knights",
+  "titleEn": "Master of Knights",
+  "titleKo": null,
+  "sourcePath": "/master-of-knights/codes/",
+  "updatedAt": "2026-08-31T00:24:33.769Z",
+  "codes": [
+    {
+      "code": "WELCOME",
+      "reward": "1000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOKGL100DAYS",
+      "reward": "1K Gems (Expires December 12)",
+      "expiry": "2026-12-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

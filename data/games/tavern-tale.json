@@ -1,0 +1,49 @@
+{
+  "slug": "tavern-tale",
+  "titleEn": "Tavern Tale",
+  "titleKo": null,
+  "sourcePath": "/tavern-tale/codes/",
+  "updatedAt": "2026-08-31T00:24:46.375Z",
+  "codes": [
+    {
+      "code": "HKLDDJS1",
+      "reward": "Berry Bundle x2, Toy Token x 1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HKLDDJS2",
+      "reward": "Berry Bundle x2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HKLDDJS3",
+      "reward": "Berry Bundle x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HKLDJRSX",
+      "reward": "Berry Bundle x2, Large StarCookie x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "snow0128",
+      "reward": "Large StarCookie Pack X1, Toy Token X1, Berry x100",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

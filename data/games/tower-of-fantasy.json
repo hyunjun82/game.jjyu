@@ -1,0 +1,17 @@
+{
+  "slug": "tower-of-fantasy",
+  "titleEn": "Tower of Fantasy",
+  "titleKo": null,
+  "sourcePath": "/tower-of-fantasy/codes/",
+  "updatedAt": "2026-08-31T00:24:48.926Z",
+  "codes": [
+    {
+      "code": "804mmo",
+      "reward": "Warp server (expires September 15th)",
+      "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

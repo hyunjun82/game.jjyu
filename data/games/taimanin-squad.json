@@ -1,0 +1,17 @@
+{
+  "slug": "taimanin-squad",
+  "titleEn": "Taimanin Squad",
+  "titleKo": null,
+  "sourcePath": "/taimanin-squad/codes/",
+  "updatedAt": "2026-08-31T00:24:46.032Z",
+  "codes": [
+    {
+      "code": "WELCOMESQUAD01",
+      "reward": "30 Weapon Supply Tickets, 50 Special Recruit Tickets, 10 Premium Recruit Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "invasion-of-demons",
+  "titleEn": "Invasion of Demons",
+  "titleKo": null,
+  "sourcePath": "/invasion-of-demons/codes/",
+  "updatedAt": "2026-08-31T00:24:30.021Z",
+  "codes": [
+    {
+      "code": "DS666",
+      "reward": "100 Gems, 50k Gold, 5 Random 5* Shards, 50 Break Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DS777",
+      "reward": "100 Gems, 2 Adv. Summon Tickets, 100k Gold, 10 Random 4* Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DS888",
+      "reward": "100 Gems, 100k Gold, 1 Adv. Summon Ticket, 5 Arena Refresh Tickets, 5 Intel Refresh Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

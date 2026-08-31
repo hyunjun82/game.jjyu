@@ -1,0 +1,17 @@
+{
+  "slug": "ant-legion",
+  "titleEn": "Ant Legion",
+  "titleKo": null,
+  "sourcePath": "/ant-legion/codes/",
+  "updatedAt": "2026-08-31T00:24:19.521Z",
+  "codes": [
+    {
+      "code": "LOVE214",
+      "reward": "Rewards: 6x 10,000 water, 6x 2500 fungi, 6x 5 min speed, march recall, and random relocate",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

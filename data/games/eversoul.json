@@ -1,0 +1,193 @@
+{
+  "slug": "eversoul",
+  "titleEn": "Eversoul",
+  "titleKo": null,
+  "sourcePath": "/eversoul/codes/",
+  "updatedAt": "2026-08-31T00:24:25.726Z",
+  "codes": [
+    {
+      "code": "ALWAYSWITHU",
+      "reward": "Artifact Summon Ticket &times; 20",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GAONNYFEST",
+      "reward": "Targeted Summon Ticket &times; 10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APOLLYON0122",
+      "reward": "Pick-Up Summon Ticket &times; 10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3RDANNIVERS",
+      "reward": "Everstone (Free) &times; 3,000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CELEBRATE2HALF",
+      "reward": "2,500 Everstones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEMONNIA0710",
+      "reward": "10 Pick-up Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERSOUL0710",
+      "reward": "10 Artifact Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THXSAVIOR0628",
+      "reward": "10 Targetted Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JPHALFANNIV1115",
+      "reward": "10 Erika Alchemy Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KIMPDBIRTH0928",
+      "reward": "928 Everstones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COOLPUNCH",
+      "reward": "10 Artifact Tix",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1031BUNNYSOUL",
+      "reward": "10 Normal Tix",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1121COLLABO",
+      "reward": "1121 Everstones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CUTELINZY",
+      "reward": "10 Pickup Tix",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEXYLINZY",
+      "reward": "10 Pickup Tix",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COFFEESTOPHELES",
+      "reward": "12 Hour Idle Loot, 10 Cakes, 10 Coffees",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEXYCUTELARIMAR",
+      "reward": "1,000 Everstones.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "eversoulmate0704",
+      "reward": "2,100 Everstones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVERSOUL4EVER",
+      "reward": "500 Everstones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWBLESSING2025",
+      "reward": "1,000 Everstones (expires February 2nd)",
+      "expiry": "2027-02-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVERTALK1108",
+      "reward": "10 Pick-Up Summon Tickets (Expires November 29)",
+      "expiry": "2026-11-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVERSOULXDAL",
+      "reward": "1121 Everstones (expires November 29th)",
+      "expiry": "2026-11-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CONEST1108",
+      "reward": "20 Artifact Summon Tickets (expires November 29th)",
+      "expiry": "2026-11-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

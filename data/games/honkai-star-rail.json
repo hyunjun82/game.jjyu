@@ -1,0 +1,25 @@
+{
+  "slug": "honkai-star-rail",
+  "titleEn": "Honkai: Star Rail",
+  "titleKo": null,
+  "sourcePath": "/honkai-star-rail/codes/",
+  "updatedAt": "2026-08-31T00:24:29.364Z",
+  "codes": [
+    {
+      "code": "SilverWolfLV999",
+      "reward": "3 Travelers Guide, 2 Badge Battle Robes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STARRAILGIFT",
+      "reward": "50 Stellar Jade, 10,000 Credits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

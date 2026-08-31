@@ -1,0 +1,17 @@
+{
+  "slug": "cookierun-crumble",
+  "titleEn": "CookieRun: Crumble",
+  "titleKo": null,
+  "sourcePath": "/cookierun-crumble/codes/",
+  "updatedAt": "2026-08-31T00:24:22.537Z",
+  "codes": [
+    {
+      "code": "COOKIERUNCRUMBLENO1",
+      "reward": "10000 Crystals, 1000 Flames of Bravery, 1000 Lucky Dough, 1000 Rune Crystals",
+      "expiry": "2026-08-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

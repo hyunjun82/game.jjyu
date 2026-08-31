@@ -1,0 +1,33 @@
+{
+  "slug": "sonic-rumble",
+  "titleEn": "Sonic Rumble",
+  "titleKo": null,
+  "sourcePath": "/sonic-rumble/codes/",
+  "updatedAt": "2026-08-31T00:24:42.836Z",
+  "codes": [
+    {
+      "code": "LAUNCHREWARDS",
+      "reward": "Exclusive sticker of Shadow",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "0505ANV",
+      "reward": "",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MCLARENRACINGSONIC",
+      "reward": "",
+      "expiry": "2027-05-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

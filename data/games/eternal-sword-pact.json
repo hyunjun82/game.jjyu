@@ -1,0 +1,177 @@
+{
+  "slug": "eternal-sword-pact",
+  "titleEn": "Eternal Sword Pact",
+  "titleKo": null,
+  "sourcePath": "/eternal-sword-pact/codes/",
+  "updatedAt": "2026-08-31T00:24:25.412Z",
+  "codes": [
+    {
+      "code": "Eternal2026",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1BPLY6",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP666",
+      "reward": "66 Ingots, level 3 Damage Gem",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP777",
+      "reward": "77 Ingot, level 3 Solid Gem",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP888",
+      "reward": "88 Ingot, level 3 Berserk Gem",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FULI666",
+      "reward": "66 ingot, 10 Mount Essence, level 2 DMG Gem",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "N9SPVE",
+      "reward": "188 Ingots 10 Trail Essence. Level 3 Guardian Gem",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Q1ZDGC",
+      "reward": "rewards (expires June 25th)",
+      "expiry": "2027-06-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "O6JQVX",
+      "reward": "rewards (expires June 18th)",
+      "expiry": "2027-06-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YTJQUG",
+      "reward": "rewards (expires June 15th)",
+      "expiry": "2027-06-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4PJ91K",
+      "reward": "rewards (expires June 04th)",
+      "expiry": "2027-06-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BJ8FAR",
+      "reward": "rewards (expires May 28th)",
+      "expiry": "2027-05-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RB3I65",
+      "reward": "rewards (expires May 21st)",
+      "expiry": "2027-05-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DLHPGJ",
+      "reward": "rewards (Expires May 14th)",
+      "expiry": "2027-05-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "6B2KY8",
+      "reward": "rewards (Expires May 07th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BWV1GZ",
+      "reward": "rewards (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RAPFHZ",
+      "reward": "rewards (expires April 23rd)",
+      "expiry": "2027-04-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IKBU5Q",
+      "reward": "rewards (expires April 16th)",
+      "expiry": "2027-04-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "G9AF8Q",
+      "reward": "rewards (expires April 2nd)",
+      "expiry": "2027-04-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEHPDG",
+      "reward": "Rewards (expires March 16th)",
+      "expiry": "2027-03-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FBOK31",
+      "reward": "Rewards (expires March 19th)",
+      "expiry": "2027-03-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

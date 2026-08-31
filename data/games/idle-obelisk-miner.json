@@ -1,0 +1,353 @@
+{
+  "slug": "idle-obelisk-miner",
+  "titleEn": "Idle Obelisk Miner",
+  "titleKo": null,
+  "sourcePath": "/idle-obelisk-miner/codes/",
+  "updatedAt": "2026-08-31T00:24:29.685Z",
+  "codes": [
+    {
+      "code": "OMGPETS",
+      "reward": "50 Charge Magnets, 10 Blue Cows",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOMANYFOUNDERS",
+      "reward": "1 Mythic Chest, 10 Blue Cows",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PETQUESTS",
+      "reward": "25 Relic Chests, 5 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FRAY",
+      "reward": "1 Mythic Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KOSH",
+      "reward": "50 Relic Chests, 10 Blue Cows",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELLOTHETOWERPLAYERS",
+      "reward": "10 Gifts, 250 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUSTPUTTHEGIFTSINTHEBAG",
+      "reward": "20 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OSRS",
+      "reward": "25 Relic Chests, 10 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TWENTYGIFTSPLS",
+      "reward": "20 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DISCORDTWOFIVEK",
+      "reward": "25 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TELLACON",
+      "reward": "50 Relic Chests",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TWENTYKFOUNDERSWOAH",
+      "reward": "25 Gifts, 120 Relic Chests, 1 Mythic Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THREEYEARS",
+      "reward": "30 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EASTEREVENTTOMORROW",
+      "reward": "10 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FROMOBELISKWITHLOVE",
+      "reward": "14 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RIPCHUCKNORRIS",
+      "reward": "20 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAIKERU",
+      "reward": "100 Gems, 10 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASCENSION",
+      "reward": "21 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FUELMEUP",
+      "reward": "50 Fuel (must be Obelisk level 18)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FOUNDERTHIRTYK",
+      "reward": "30 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ONEMILLIONANDROIDS",
+      "reward": "20 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ITSABOUTTIME",
+      "reward": "1 Divine Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OBELISKREDDIT",
+      "reward": "5 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VERF",
+      "reward": "10 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TWOPOINTTWO",
+      "reward": "22 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TELLACONCODE",
+      "reward": "10 Gifts, 10 Blue Cows",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TIMEWARP",
+      "reward": "5 Time-Turners",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BIGDUMB",
+      "reward": "100 Gems, 10 Blue Cows",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHECKBOXSAVEGIFTS",
+      "reward": "10 Gifts (must be logged in to use the code)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FOUNDERCODE",
+      "reward": "50 Gifts (must be a Founder to use the code)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAGOODOG",
+      "reward": "50 Relic Chests",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ENRQPGCJSMLVSZ",
+      "reward": "10 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EIGHTFIVEO",
+      "reward": "15 Gifts, 50 Relic Chests, 5 Skill Points, 1 Mythic Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ANYCODESQUESTIONMARK",
+      "reward": "250 Gems, 50 Charge Magnets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWOFFLINE",
+      "reward": "25 Relic Chests, 5 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KOSHROUNDTWO",
+      "reward": "250 Gems, 2 Skill Points",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ONEPOINTSEVEN",
+      "reward": "3 Skill Points, 25 Relic Chests, 5 Gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WORLDTWOBABY",
+      "reward": "20 Gifts (must reach World 2)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WTHREEPTWO",
+      "reward": "30 Gifts (must reach World 3)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ANOTHERWORLDMAKEITSTOP",
+      "reward": "40 Gifts (must reach World 4)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NAMEREROLLS",
+      "reward": "Shows the number of times you rerolled",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHAINBOMBABBREV",
+      "reward": "Toggle Chain Bomb Abbreviation",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOREVP",
+      "reward": "Show More Value Packs in Shop (very useful)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

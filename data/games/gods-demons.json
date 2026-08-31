@@ -1,0 +1,361 @@
+{
+  "slug": "gods-demons",
+  "titleEn": "Gods & Demons",
+  "titleKo": null,
+  "sourcePath": "/gods-demons/codes/",
+  "updatedAt": "2026-08-31T00:24:27.490Z",
+  "codes": [
+    {
+      "code": "RANK1GOOGLE",
+      "reward": "2000 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMONME",
+      "reward": "5 Golden Contract",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHRISTMAS1",
+      "reward": "1200 Diamonds, 10 Golden Contract",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELLOGND",
+      "reward": "1000 Advancement Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKS2000",
+      "reward": "Diamond x2,000 (expires October 21st)",
+      "expiry": "2026-10-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURPRISE73",
+      "reward": "Heatwave Gift Box x10 (expires September 30th)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURPRISE624",
+      "reward": "Diamond x2,000 (expires September 21st)",
+      "expiry": "2026-09-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "624SURPRISE",
+      "reward": "Golden Contract x10, Divinimal Seed x10 (expires September 21st)",
+      "expiry": "2026-09-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHERAPIA",
+      "reward": "Celestial Spirit Stone x5 (expires July 31st)",
+      "expiry": "2027-07-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "66666LAST",
+      "reward": "Demonic Dragon Doll x1, Veiros Doll x5, Isis Doll x5 (expires July 20th)",
+      "expiry": "2027-07-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3COLLAB66666",
+      "reward": "Pickaxe x66 (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2COLLAB66666",
+      "reward": "Golden Contract x26 (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1COLLAB66666",
+      "reward": "Divinimal Seed x26 (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "0COLLAB66666",
+      "reward": "Soulstone x6 (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "66666COLLAB3",
+      "reward": "Pickaxe x66 (expires June 5th)",
+      "expiry": "2027-06-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "66666COLLAB2",
+      "reward": "Golden Contract x26 (expires June 5th)",
+      "expiry": "2027-06-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "66666COLLAB1",
+      "reward": "Divinimal Seed x26 (expires June 5th)",
+      "expiry": "2027-06-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "66666COLLAB0",
+      "reward": "Soulstone x6 (expires June 5th)",
+      "expiry": "2027-06-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY666",
+      "reward": "Oracle Crystal x30, Starlight Fruit x30 (expires May 29th)",
+      "expiry": "2027-05-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AETHERCORE1",
+      "reward": "Aether Crystal x10 (expires May 28th)",
+      "expiry": "2027-05-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5555555555",
+      "reward": "Arcade Supreme Gift Box x10 (expires May 31st)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARRIVAL2",
+      "reward": "Shadow Spirit Stone x10 (expires May 21st)",
+      "expiry": "2027-05-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100THDAY",
+      "reward": "100-Day Festival Frame, Centurion Glory Title (expires May 23rd)",
+      "expiry": "2027-05-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURPRISE321",
+      "reward": "Rare Resource Selection Chest x1 (expires April 18th)",
+      "expiry": "2027-04-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURPRISE314",
+      "reward": "Epic Aethercore Shard Random Chest x5 (expires April 11th)",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1WRAITH1",
+      "reward": "Evil Thought Stone x5 (expires March 26th)",
+      "expiry": "2027-03-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLOSSOM1",
+      "reward": "Bud Gift Box x10 (expires April 7th)",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1HUNTER1",
+      "reward": "Bounty Token x7,500, Quest Reset Certificate x10 (expires March 27th)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURPRISE226",
+      "reward": "4-star Spirit Hero Shard x30, 4-star Orc Hero Shard x30, 4-star Human Hero Shard x30, Divinimal Seed x3 (expires March 27th)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURPRISE225",
+      "reward": "HP x30, Relic Dice x20, Pickaxe x20 (expires March 26th)",
+      "expiry": "2027-03-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARRIVAL1",
+      "reward": "Firmament Spirit Stone x5 (expires March 19th)",
+      "expiry": "2027-03-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1MIRROR1",
+      "reward": "Diamond x1,000 (expires March 20th)",
+      "expiry": "2027-03-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL1",
+      "reward": "Essence EXP Potion (12h) x1, Purified Gold Coins (12h) x1 (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL2",
+      "reward": "Stamina x30, Relic Dice x20 (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL3",
+      "reward": "Divinimal Seed x5 (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL4",
+      "reward": "Epic 2-star Equipment Random Chest x3, Diamond x1,000 (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL5",
+      "reward": "Stamina x30, Relic Dice x20 (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ORPHEUS1",
+      "reward": "1000 Diamond (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RANK1THANKYOU",
+      "reward": "3000 Diamond (expires February 27th)",
+      "expiry": "2027-02-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CONTRACT",
+      "reward": "Rewards (expires February 11th)",
+      "expiry": "2027-02-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XINYUAN",
+      "reward": "Rewards (expires February 11th)",
+      "expiry": "2027-02-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOLDEN",
+      "reward": "Rewards (expires February 11th)",
+      "expiry": "2027-02-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIAMOND",
+      "reward": "Rewards (expires February 11th)",
+      "expiry": "2027-02-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025NEW",
+      "reward": "Rewards (expires February 11th)",
+      "expiry": "2027-02-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

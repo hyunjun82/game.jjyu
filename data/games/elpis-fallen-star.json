@@ -1,0 +1,41 @@
+{
+  "slug": "elpis-fallen-star",
+  "titleEn": "Elpis: Fallen Star",
+  "titleKo": null,
+  "sourcePath": "/elpis-fallen-star/codes/",
+  "updatedAt": "2026-08-31T00:24:25.093Z",
+  "codes": [
+    {
+      "code": "DARKWING1006",
+      "reward": "1 Miracle Silhouette, 1 Destiny Silhouette, 1000 Gold, 1000 Echo Runestone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GURGLE",
+      "reward": "5 Miracle Silhouette, 3000 Gold, 3000 Echo Runestone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ELPIS0926",
+      "reward": "5 Miracle Silhouette, 3000 Gold, 3000 Echo Runestone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ELPIS7",
+      "reward": "5 Miracle Silhouette, 3000 Gold, 3000 Echo Runestone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

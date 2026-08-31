@@ -1,0 +1,49 @@
+name: 쿠폰 수집
+
+# 게임 쿠폰은 퀴즈처럼 매일 쏟아지지 않는다(경쟁사 실측 월 10~20건).
+# 그래서 5분마다 돌 이유가 없다 — 3시간마다 한 바퀴면 놓치지 않는다.
+on:
+  schedule:
+    - cron: '20 */3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 쿠폰 수집
+        id: run
+        run: node scripts/collect.mjs | tee /tmp/out.log
+
+      - name: 변경분 커밋
+        run: |
+          CHANGED=$(grep -oP 'COLLECT_CHANGED=\K[0-9]+' /tmp/out.log | tail -1)
+          echo "변경된 게임: ${CHANGED:-0}"
+          if [ "${CHANGED:-0}" = "0" ]; then
+            echo "변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/games
+          if git diff --cached --quiet; then
+            echo "실제 diff 없음 — 커밋 생략"
+            exit 0
+          fi
+          STAMP=$(TZ=Asia/Seoul date '+%m-%d %H:%M')
+          git commit -m "data: ${STAMP} 쿠폰 ${CHANGED}개 게임 갱신"
+          git push

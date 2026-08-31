@@ -1,0 +1,473 @@
+{
+  "slug": "astra-knights-of-veda",
+  "titleEn": "ASTRA: Knights of Veda",
+  "titleKo": null,
+  "sourcePath": "/astra-knights-of-veda/codes/",
+  "updatedAt": "2026-08-31T00:24:20.344Z",
+  "codes": [
+    {
+      "code": "MYTHICUPDATE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YEARLUCKY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MYTHICLEVEL",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MYTHICMASTER",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUNARGIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MYTHICCORE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEW26",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEGEND1GO",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ANNI1GIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLAVORJOY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHEERS365",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TASTE1UP",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CFA365TY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIRECTOR1YEAR",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIRECTORSGIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025GIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WOW1YEAR",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SANTASORIN",
+      "reward": "Starstone x1,000, 5 Crystal of Destiny, 5 Crystal of Fate, 30 Steps of the Journey",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VEDACAFE",
+      "reward": "5 Crystals of Fate",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GRANDOPEN",
+      "reward": "5 Crystals of Destiny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMETOTHE",
+      "reward": "500 Starstones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOSHINARESHINKA",
+      "reward": "1 Special Grilled Meat",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Season2Directors",
+      "reward": "Starstone x5,000 (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALLPICKUP",
+      "reward": "Starstone x2,000 (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GODDESSVEDA",
+      "reward": "Mystical Chromatics x300 (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LETSPLAYASTRA",
+      "reward": "Radiance x300 (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GETITNOW",
+      "reward": "1,600 Starstones (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ENJOYSEASON2",
+      "reward": "10 Crystal of Destiny (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WITHVEDA",
+      "reward": "10 Crystal of Fate (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1031SEASON2",
+      "reward": "10 Steps of the Journey (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TEARSOFGODDENSS1",
+      "reward": "1 5-star Selector (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TEARSOFGODDENSS2",
+      "reward": "1 5-star Selector (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TEARSOFGODDENSS3",
+      "reward": "1 5-star Selector (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TEARSOFGODDENSS4",
+      "reward": "1 5-star Selector (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASTRASEASON2",
+      "reward": "10 Crystal of Destiny, 10 Crystal of Fate, 10 Steps of the Journey, 1,600 Starstone (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEASON2COMEBACK",
+      "reward": "200 Mystical Chromatics (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WAITINGFORYOU",
+      "reward": "200 Radiance (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VARIOUSEVENTS",
+      "reward": "300,000 Gold (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLANIS",
+      "reward": "500 Starstones (expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMETOWNHALL",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SR2ROADMAPGIFT",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUQUESTION",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RBM7J9C2",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KHXSXU39",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BX48AFXJ",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "X4VWL5ME",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZJLMTBDT",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "U7LSF47U",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JYYEQQJG",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JXNUWYUG",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZCNL3Y24",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GDZQQMNZ",
+      "reward": "Live Stream rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GMVICTORYARENA",
+      "reward": "5 Crystal of Fate (expires November 19)",
+      "expiry": "2026-11-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GMARENA2024",
+      "reward": "5 Crystal of Fate (expires November 19)",
+      "expiry": "2026-11-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2024SUMMERWAVE",
+      "reward": "Starstones, Crystals of Fate, Crystals of Destiny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100dayAnniversary",
+      "reward": "5 Crystal of Destiny (Expires July 31)",
+      "expiry": "2027-07-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KNIGHTSOFVEDA",
+      "reward": "2 Crystals of Fate (Expires May 1)",
+      "expiry": "2027-05-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKS4LAUNCH",
+      "reward": "60 Shoes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

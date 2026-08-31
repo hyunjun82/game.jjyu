@@ -1,0 +1,41 @@
+{
+  "slug": "sword-chronicles-awaken",
+  "titleEn": "Sword Chronicles Awaken",
+  "titleKo": null,
+  "sourcePath": "/sword-chronicles-awaken/codes/",
+  "updatedAt": "2026-08-31T00:24:45.390Z",
+  "codes": [
+    {
+      "code": "Appreciation",
+      "reward": "2x Affinity Boxes, 2x Hero Vouchers, and 400x Meteorgems.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Awaken",
+      "reward": "5x Selected Vouchers and 5x SP Recruit Vouchers.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Renewal",
+      "reward": "5x Selected Vouchers and 5x SP Recruit Vouchers.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SemiAnnual",
+      "reward": "5x Selected Vouchers, 38x Meteorgems, 5x Palace Tokens, 5x Theme Hero Vouchers and 5x Star Venation Tokens.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

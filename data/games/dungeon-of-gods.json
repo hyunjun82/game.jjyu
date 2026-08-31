@@ -1,0 +1,617 @@
+{
+  "slug": "dungeon-of-gods",
+  "titleEn": "Dungeon of Gods",
+  "titleKo": null,
+  "sourcePath": "/dungeon-of-gods/codes/",
+  "updatedAt": "2026-08-31T00:24:24.779Z",
+  "codes": [
+    {
+      "code": "3KINGDOMS71",
+      "reward": "500 Gems",
+      "expiry": "2027-07-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATERNUMBEEL",
+      "reward": "500 Gems",
+      "expiry": "2027-07-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOGODELUSION",
+      "reward": "500 Gems",
+      "expiry": "2027-06-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2024DELUSION",
+      "reward": "500 Gems",
+      "expiry": "2027-06-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BATTLEMAGIC",
+      "reward": "500 Gems",
+      "expiry": "2027-06-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOBATTLEMAGE",
+      "reward": "500 Gems",
+      "expiry": "2027-06-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2024SUPERX4",
+      "reward": "500 Gems",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARCHMAGEGOGO",
+      "reward": "500 Gems",
+      "expiry": "2027-05-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AIRSHIPIDOL",
+      "reward": "500 Gems",
+      "expiry": "2027-05-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARCHMAGE2024",
+      "reward": "500 Gems",
+      "expiry": "2027-05-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BOORISNEWPET",
+      "reward": "500 Gems",
+      "expiry": "2027-05-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEMIGODERA",
+      "reward": "500 Gems",
+      "expiry": "2027-04-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NURSELAVILIN",
+      "reward": "500 Gems",
+      "expiry": "2027-04-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SMSFOXHARU",
+      "reward": "500 Gems",
+      "expiry": "2027-04-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOBOOMERANG",
+      "reward": "500 Gems",
+      "expiry": "2027-04-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWBOOMERANG",
+      "reward": "500 Gems",
+      "expiry": "2027-03-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SMSBOSSARIEL",
+      "reward": "500 Gems",
+      "expiry": "2027-03-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIGHTNING100",
+      "reward": "500 Gems",
+      "expiry": "2027-03-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUPERMARCH",
+      "reward": "500 Gems",
+      "expiry": "2027-03-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEMIGODBOSS",
+      "reward": "500 Gems",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CROWDUNGEON",
+      "reward": "500 Gems",
+      "expiry": "2027-02-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUPERNEWYEAR",
+      "reward": "500 Gems",
+      "expiry": "2027-02-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVILGOBLIN",
+      "reward": "500 Gems",
+      "expiry": "2027-02-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLYINGBOORI",
+      "reward": "500 Gems",
+      "expiry": "2027-02-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SMSPINKBUNNY",
+      "reward": "500 Gems",
+      "expiry": "2027-01-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AIRSHIPGUARD",
+      "reward": "500 Gems",
+      "expiry": "2027-01-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUPER2024",
+      "reward": "500 Gems",
+      "expiry": "2027-01-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWBIRD2024",
+      "reward": "500 Gems",
+      "expiry": "2027-01-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEMIGOD100",
+      "reward": "500 Gems",
+      "expiry": "2026-12-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALICIALLOYD",
+      "reward": "500 Gems",
+      "expiry": "2026-12-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIGHTNINGRPG",
+      "reward": "500 Gems",
+      "expiry": "2026-12-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWPRINCESS",
+      "reward": "500 Gems",
+      "expiry": "2026-12-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZIONYEJUHWA",
+      "reward": "500 Gems",
+      "expiry": "2026-12-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MASQUERADE",
+      "reward": "500 Gems",
+      "expiry": "2026-11-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEMIGOD1M",
+      "reward": "500 Gems",
+      "expiry": "2026-11-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUNACOLLAB",
+      "reward": "500 Gems",
+      "expiry": "2026-11-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPOOKYNIGHT",
+      "reward": "500 Gems",
+      "expiry": "2026-11-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YUSENKAYA",
+      "reward": "500 Gems",
+      "expiry": "2026-10-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARCHMAGE",
+      "reward": "500 Gems",
+      "expiry": "2026-10-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SMS3ANNIV",
+      "reward": "500 Gems",
+      "expiry": "2026-10-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HADESSMS",
+      "reward": "500 Gems",
+      "expiry": "2026-10-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THETISSMS",
+      "reward": "500 Gems",
+      "expiry": "2026-09-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAGICALGIRL",
+      "reward": "500 Gems",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWDEMIGOD",
+      "reward": "500 Gems",
+      "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TAPTAPTAP",
+      "reward": "500 Gems",
+      "expiry": "2026-09-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AKANEAQUILO",
+      "reward": "500 Gems",
+      "expiry": "2026-09-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOYFULJULY",
+      "reward": "500 Gems",
+      "expiry": "2027-07-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZIOHOTSUMMER",
+      "reward": "500 Gems",
+      "expiry": "2027-07-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "REBIRTHLUNA",
+      "reward": "500 Gems",
+      "expiry": "2027-07-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SMSSUMMERCOS",
+      "reward": "500 Gems (Valid till July 07)",
+      "expiry": "2027-07-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROSENBACHWK",
+      "reward": "500 Gems (Valid till June 30)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZIODMKINGTW",
+      "reward": "500 Gems (Valid till June 23)",
+      "expiry": "2027-06-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUPERLK7",
+      "reward": "500 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UN1VERSE",
+      "reward": "Use this code to get free 500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LETSPLAYSP",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGWARCHAL",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHESTBD",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DAILYDUNGEON",
+      "reward": "10 ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELLOJUNE",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HPYWKEND",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLOSSOMFRI",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYGEMS",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SMSDANMACHI",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FAVATTRIBUTE",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GODSUMMON",
+      "reward": "1000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GODFEATURE",
+      "reward": "3000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DungeonGods",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GODCOMMUNITY",
+      "reward": "2000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APPLEFEATURE",
+      "reward": "2000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZIOKOREA",
+      "reward": "500 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DARKQUIZOOX",
+      "reward": "1000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GODDISCORD",
+      "reward": "1000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "POSEIDONSMS",
+      "reward": "500 Gems",
+      "expiry": "2026-08-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "OLIVIAZIO",
+      "reward": "500 Gems",
+      "expiry": "2026-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "EVILDARKNESS",
+      "reward": "500 Gems",
+      "expiry": "2026-08-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "POMPOFISHERY",
+      "reward": "500 Gems",
+      "expiry": "2026-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

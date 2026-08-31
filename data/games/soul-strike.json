@@ -1,0 +1,441 @@
+{
+  "slug": "soul-strike",
+  "titleEn": "Soul Strike!",
+  "titleKo": null,
+  "sourcePath": "/soul-strike/codes/",
+  "updatedAt": "2026-08-31T00:24:43.524Z",
+  "codes": [
+    {
+      "code": "NEWYEARJOY2025",
+      "reward": "Ether x20,000 + Offline Gold (12 h) x1 + Offline Silver (12 h) x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAXLEVELNEWBIE",
+      "reward": "100 Skill Summon Ticket, 100 Ally Summon Ticket, 100 Relic Summon Ticket Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LASK0401",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SKILL100",
+      "reward": "100 Skill Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWSS2026",
+      "reward": "New Year Lucky Box x3, Class Summon Ticket x2026, Skill Summon Ticket x2026, Ally Summon Ticket x2026, Relic Summon Ticket x2026, Pet Summon Ticket x2026, Lumiel x1 (expires January 4th)",
+      "expiry": "2027-01-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MERRYCHRI1225",
+      "reward": "Holiday Gift Chest x3, QWER Select Chest x1, Left? Right! Coin x1,000 (expires January 4th)",
+      "expiry": "2027-01-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHULHO0702",
+      "reward": "QWER Ultimate Pet Random Summon Ticket (expires December 22nd)",
+      "expiry": "2026-12-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ELECEED1000",
+      "reward": "Ally Pickup Summon Ticket x150 (expires October 21st)",
+      "expiry": "2026-10-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DWN10SKY",
+      "reward": "expires October 19th",
+      "expiry": "2026-10-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SSHZ8DAY",
+      "reward": "rewards (expired August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PV1000LIKE15",
+      "reward": "Ether 30,000 (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERSOUL7",
+      "reward": "Weekly Code (Expires July 27th)7SUNNYSOUL7",
+      "expiry": "2027-07-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025SOUL06LIKE",
+      "reward": "Weekly code",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNSTRIKE6SOUL",
+      "reward": "expires June 29th",
+      "expiry": "2027-06-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOULJOY5MAY5",
+      "reward": "Weekly reward",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIKE6SOUL66",
+      "reward": "expires June 22nd",
+      "expiry": "2027-06-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNSOUL6STRIK",
+      "reward": "expires June 15",
+      "expiry": "2027-06-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUN6SOULSTRIKE",
+      "reward": "expires June 8th",
+      "expiry": "2027-06-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SSXFMA2025",
+      "reward": "Ether x30,000, Ally Pickup Summon Ticket x100 (expires May 27th)",
+      "expiry": "2027-05-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGBONUS2504",
+      "reward": "expires April 6th",
+      "expiry": "2027-04-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ESTATELIKE1000",
+      "reward": "Ether x50,000 (Expires March 19th)",
+      "expiry": "2027-03-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ESTATELIKE2000",
+      "reward": "Ally pickup summon ticket x100 (Expires March 19th)",
+      "expiry": "2027-03-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SSCHOCOLATECAKE214",
+      "reward": "Chocolate Cake x3, Ether x21,400 (expires February 17th)",
+      "expiry": "2027-02-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NANOLIKE2",
+      "reward": "Ally Pickup Summon Ticket x200 (Expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NANOLIKE",
+      "reward": "Ether x50,000, Ally Pickup Summon Ticket x100 (Expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOCOOLLIKE",
+      "reward": "10,000 Ether, 20 Dimensional Crystals",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SS300DAYS",
+      "reward": "Class/Skill/Ally/Relic/Pet Summon Ticket x300 (expires November 24th)",
+      "expiry": "2026-11-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKU30K",
+      "reward": "Ether x30,000 (Expires September 29)",
+      "expiry": "2026-09-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERSTRIKE",
+      "reward": "100 Class Summon Ticket, 100 Skill Summon Ticket, 100 Ally Summon Ticket, 100 Relic Summon Ticket",
+      "expiry": "2027-07-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SWCOLLABD100",
+      "reward": "Ally Pickup Summon Ticket x30",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOME25",
+      "reward": "Relic Summon Ticket x100",
+      "expiry": "2027-06-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SWSOUL200",
+      "reward": "200 Ally Summon Ticket",
+      "expiry": "2027-06-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY55DAY",
+      "reward": "5,500 Ether, 55 Relic Summon Ticket, 55 Skill Summon Ticket, 55 Ally Summon Ticket and 55 Class Summon Ticket",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100FESTA2",
+      "reward": "100 Skill Summon Ticket, 100 Ally Summon Ticket and 100 Relic Summon Ticket",
+      "expiry": "2027-05-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100FESTA",
+      "reward": "100 Class Summon Ticket, 100 Skill Summon Ticket, 100 Ally Summon Ticket, and 100 Relic Summon Ticket (Expires May 14)",
+      "expiry": "2027-05-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THXS2ALL71",
+      "reward": "Ether x4,000",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WEEKEND30",
+      "reward": "Summon Ticket x30",
+      "expiry": "2027-04-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRESSUP87",
+      "reward": "Skill Summon Ticket x100",
+      "expiry": "2027-04-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CONGRATS7",
+      "reward": "Ether x10,000",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAVEGDAY2",
+      "reward": "3,000 Ether",
+      "expiry": "2027-04-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOSPRING1",
+      "reward": "Ally Summon Ticket x50",
+      "expiry": "2027-04-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SAYHELLO1",
+      "reward": "Skill Summon Ticket x50",
+      "expiry": "2027-03-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MASTERS89",
+      "reward": "Class Summon Ticket x50",
+      "expiry": "2027-03-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOME93",
+      "reward": "Ether x2,000",
+      "expiry": "2027-03-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SS2000024",
+      "reward": "Transmog Scroll x30",
+      "expiry": "2027-04-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THX12KFSS",
+      "reward": "30 transmog scrolls (Expires February 29)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "10KXFDC79",
+      "reward": "transmog scrolls (Expires February 29)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THXS2ALL6",
+      "reward": "30 transmog scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SS2NIGHT5",
+      "reward": "transmog scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRESSUP650",
+      "reward": "transmog scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100CLASS",
+      "reward": "100 Class Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SS1N5PRESENT",
+      "reward": "1.5 Year Anniversary code (expires August 11th)",
+      "expiry": "2026-08-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "KERORO500",
+      "reward": "Ether x10,000 (expires August 10th)",
+      "expiry": "2026-08-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "SOCOOLHALFANNIV",
+      "reward": "500 Ally Summon Ticket",
+      "expiry": "2026-08-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "legend-of-kingdoms",
+  "titleEn": "Legend of Kingdoms",
+  "titleKo": null,
+  "sourcePath": "/legend-of-kingdoms/codes/",
+  "updatedAt": "2026-08-31T00:24:31.809Z",
+  "codes": [
+    {
+      "code": "LOKFORDC",
+      "reward": "100 Jade, 5 Recruit Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5kDCmembers",
+      "reward": "200 Jade, 10 Recruit Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AprilFool",
+      "reward": "",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ChingMing25",
+      "reward": "",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Blossom",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

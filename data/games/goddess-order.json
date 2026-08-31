@@ -1,0 +1,33 @@
+{
+  "slug": "goddess-order",
+  "titleEn": "Goddess Order",
+  "titleKo": null,
+  "sourcePath": "/goddess-order/codes/",
+  "updatedAt": "2026-08-31T00:24:27.490Z",
+  "codes": [
+    {
+      "code": "KG09PX24",
+      "reward": "400 Blue Crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WAITSOVER",
+      "reward": "40,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SIKUKHINU",
+      "reward": "expires October 17th",
+      "expiry": "2026-10-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

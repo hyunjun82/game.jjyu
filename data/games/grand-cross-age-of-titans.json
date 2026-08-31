@@ -1,0 +1,33 @@
+{
+  "slug": "grand-cross-age-of-titans",
+  "titleEn": "Grand Cross Age of Titans",
+  "titleKo": null,
+  "sourcePath": "/grand-cross-age-of-titans/codes/",
+  "updatedAt": "2026-08-31T00:24:27.821Z",
+  "codes": [
+    {
+      "code": "GATPREREGISTRATE",
+      "reward": "Happy Bonion + 2200 Gems + Windmill Castle + 3 Advanced Prayer Book + Designated Castle Transfer + 8 hours Gathering Speed Increase + 1 hour Speed Up + 1 Day Territory Protection + 1 minute Speed Up + 3x Level 2 Resource Chance Chest (Expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GATGOOGLEPREREGIST",
+      "reward": "Proof of Promise + 100 Gems + 50k Food + 50k Wood (Expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GATIOSPREREGIST",
+      "reward": "Proof of Promise + 100 Gems + 50k Food + 50k Wood (Expires December 31)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

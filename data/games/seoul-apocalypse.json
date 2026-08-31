@@ -1,0 +1,649 @@
+{
+  "slug": "seoul-apocalypse",
+  "titleEn": "Seoul Apocalypse",
+  "titleKo": null,
+  "sourcePath": "/seoul-apocalypse/codes/",
+  "updatedAt": "2026-08-31T00:24:41.843Z",
+  "codes": [
+    {
+      "code": "DIA2606",
+      "reward": "500 Diamonds (expires June 28th)",
+      "expiry": "2027-06-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2606",
+      "reward": "Kiz Recruit Ticket 10 (expires June 28th)",
+      "expiry": "2027-06-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2605",
+      "reward": "500 Diamonds (expires May 28th)",
+      "expiry": "2027-05-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2605",
+      "reward": "Kiz Recruit Ticket 10 (expires May 28th)",
+      "expiry": "2027-05-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2604",
+      "reward": "500 Diamonds (expires April 28th)",
+      "expiry": "2027-04-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2603",
+      "reward": "500 Diamonds (expires March 28th)",
+      "expiry": "2027-03-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2603",
+      "reward": "Kiz Recruit Ticket 10 (expires March 28th)",
+      "expiry": "2027-03-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2602",
+      "reward": "500 Diamonds (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2602",
+      "reward": "Kiz Recruit Ticket 10 (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2601",
+      "reward": "500 Diamonds (expires January 30th)",
+      "expiry": "2027-01-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2601",
+      "reward": "Kiz Recruit Ticket 10 (expires January 30th)",
+      "expiry": "2027-01-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2512",
+      "reward": "500 Diamonds (expires December 30th)",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2512",
+      "reward": "Kiz Recruit Ticket 10 (expires December 30th)",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2511",
+      "reward": "500 Diamonds (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2511",
+      "reward": "Kiz Recruit Ticket 10 (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2510",
+      "reward": "500 Diamonds (expires October 30th)",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2510",
+      "reward": "Kiz Recruit Ticket 10 (expires October 30th)",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2507",
+      "reward": "500 Diamonds (expires July 30th)",
+      "expiry": "2027-07-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2507",
+      "reward": "Kiz Recruit Ticket 10 (Expires July 30th)",
+      "expiry": "2027-07-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2506",
+      "reward": "500 Diamonds (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2506",
+      "reward": "Kiz Recruit Ticket 10 (Expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2505",
+      "reward": "500 Diamonds (expires May 30th)",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2505",
+      "reward": "Kiz Recruit Ticket 10 (expires May 30th)",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2504",
+      "reward": "500 Diamonds (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2504",
+      "reward": "Kiz Recruit Ticket 10 (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2503",
+      "reward": "500 Diamonds (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2503",
+      "reward": "Kiz Recruit Ticket 10 (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2502",
+      "reward": "500 Diamonds",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2502",
+      "reward": "Kiz Recruit Ticket x10",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2501",
+      "reward": "500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2501",
+      "reward": "Kiz Recruit Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2412",
+      "reward": "500 Diamonds",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2412",
+      "reward": "Kiz Recruit Ticket 10",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2411",
+      "reward": "500 Diamonds",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2411",
+      "reward": "Kiz Recruit Ticket 10",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2410",
+      "reward": "500 Diamonds",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2410",
+      "reward": "Kiz Recruit Ticket 10",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2409",
+      "reward": "500 Diamonds",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2409",
+      "reward": "Kiz Recruit Ticket 10",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2408",
+      "reward": "500 Diamonds",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2408",
+      "reward": "Kiz Recruit Ticket 10",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2405",
+      "reward": "500 Diamonds (Expires May 31)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2405",
+      "reward": "10 Kiz Recruit Tickets (Expires May 31)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2404",
+      "reward": "500 Diamonds (Expires April 30)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2404",
+      "reward": "10 Kiz Recruit Tickets (Expires April 30)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2403",
+      "reward": "500 Diamonds (Expires March 30)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2403",
+      "reward": "10 Kiz Recruit Tickets (Expires March 30)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2402",
+      "reward": "500 Diamonds (Expires February 29)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2402",
+      "reward": "10 Kiz Recruit Tickets (Expires February 29)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2401",
+      "reward": "500 Diamonds (Expires January 30)",
+      "expiry": "2027-01-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2401",
+      "reward": "10 Kiz Recruit Tickets (Expires January 30)",
+      "expiry": "2027-01-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2312",
+      "reward": "500 Diamonds (Expires December 30)",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRIMEMINISTER",
+      "reward": "1K Diamonds (Expires December 28)",
+      "expiry": "2026-12-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2312",
+      "reward": "10 Kiz Recruit Tickets (Expires December 30)",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2311",
+      "reward": "500 Diamonds (Expires November 30)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2311",
+      "reward": "10 Kiz Recruit Tickets (Expires November 30)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2310",
+      "reward": "500 Diamonds (Expires October 30)",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2310",
+      "reward": "Kiz Recruit Ticket 10 (Expires October 30)",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THROWERKIM",
+      "reward": "500 Diamonds (Expires October 23)",
+      "expiry": "2026-10-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2309",
+      "reward": "500 Diamonds (Expires September 30)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2309",
+      "reward": "500 Diamonds (Expires September 30)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UMBRELLA",
+      "reward": "1000 Diamonds (Expires August 31)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2308",
+      "reward": "500 Diamonds (Expires August 31)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GLOBALARENA",
+      "reward": "1000 Diamonds",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2305",
+      "reward": "10 Kiz Recruit Ticket",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2305",
+      "reward": "500 Diamonds",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MONICA",
+      "reward": "1000 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2304",
+      "reward": "10 Kiz Recruit Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2304",
+      "reward": "500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "INDEPENDENT",
+      "reward": "1,000 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2303",
+      "reward": "500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2303",
+      "reward": "10 Kiz Recruit Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DIA2508",
+      "reward": "500 Diamonds (expires August 30th)",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2508",
+      "reward": "Kiz Recruit Ticket 10 (Expires August 30th)",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2308",
+      "reward": "500 Diamonds (Expires August 30)",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2307",
+      "reward": "500 Diamonds",
+      "expiry": "2023-07-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2307",
+      "reward": "Kiz Recruit Ticket 10",
+      "expiry": "2023-07-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2306",
+      "reward": "500 Diamonds",
+      "expiry": "2023-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2306",
+      "reward": "10 Kiz Recruit Tickets",
+      "expiry": "2023-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "CERBERUS",
+      "reward": "1000 Diamonds",
+      "expiry": "2023-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

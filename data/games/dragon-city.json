@@ -1,0 +1,161 @@
+{
+  "slug": "dragon-city",
+  "titleEn": "Dragon City",
+  "titleKo": null,
+  "sourcePath": "/dragon-city/codes/",
+  "updatedAt": "2026-08-31T00:24:23.820Z",
+  "codes": [
+    {
+      "code": "NOMNOM",
+      "reward": "Pet food (needs pet feature access)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRAILBEGINS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRAGONCITY",
+      "reward": "1 Reaper Perk, 1 Advanced Damage Perk, 1 Mystery Food Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRAGONKING",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERCROWN",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TUNDRATREASURE",
+      "reward": "Tundra Ticket (US, UK, Germany Only) (expires December 5th)",
+      "expiry": "2026-12-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FIRETRAIL",
+      "reward": "rewards (expires November 24th)",
+      "expiry": "2026-11-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VAMPECLIPSE",
+      "reward": "50 Blood God Vampire Dragon Orbs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STICKERPACK",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MISTLEFATE",
+      "reward": "5 Viking Shields",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRIDEFEATHER",
+      "reward": "1 Unicorn Horn",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLORFULPRIDE",
+      "reward": "2 Unicorn Horns (redeemable on Webstore only) (expires July 7th)",
+      "expiry": "2027-07-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SAYCHEESE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PARTYCRASHER",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TASTYCAKE",
+      "reward": "13 Legendary Joker Orbs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BESTIE",
+      "reward": "13 Legendary Joker Orbs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLAMEHEART",
+      "reward": "",
+      "expiry": "2026-03-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "LEATHERSPIKE",
+      "reward": "expires October 24th, 2025",
+      "expiry": "2025-10-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "STRATEGIFT",
+      "reward": "50 orbs of Gale the Strategist (expires October 17th, 2025)",
+      "expiry": "2025-10-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

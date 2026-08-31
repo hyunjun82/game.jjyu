@@ -1,0 +1,81 @@
+{
+  "slug": "mech-assemble-zombie-swarm",
+  "titleEn": "Mech Assemble Zombie Swarm",
+  "titleKo": null,
+  "sourcePath": "/mech-assemble-zombie-swarm/codes/",
+  "updatedAt": "2026-08-31T00:24:33.769Z",
+  "codes": [
+    {
+      "code": "MECH9999",
+      "reward": "7777 Gold, 5 Mech Shards, 177 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGPLAY777",
+      "reward": "200 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MECH2025",
+      "reward": "2777 Gold, 1 Part Chest Key, 77 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGAPR666",
+      "reward": "rewards (expires May 07th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGAPR888",
+      "reward": "rewards (expires April 20th)",
+      "expiry": "2027-04-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGAPR111",
+      "reward": "rewards (expires April 08th)",
+      "expiry": "2027-04-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGMAR888",
+      "reward": "rewards (expires March 27th)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MGAUG888",
+      "reward": "rewards (expires August 21st)",
+      "expiry": "2026-08-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "MGJULY888",
+      "reward": "rewards (expires August 6th)",
+      "expiry": "2026-08-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

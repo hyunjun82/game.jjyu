@@ -1,0 +1,297 @@
+{
+  "slug": "fortias-saga",
+  "titleEn": "Fortias Saga",
+  "titleKo": null,
+  "sourcePath": "/fortias-saga/codes/",
+  "updatedAt": "2026-08-31T00:24:26.366Z",
+  "codes": [
+    {
+      "code": "FS2YEAR",
+      "reward": "10 Hero Gacha Tickets + 10 Equipment Gacha Tickets + 10 Eidolon Gacha Tickets + 10 Soulbound Gacha Tickets + 10 Pet Gacha Tickets + 1000 Ruby (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMETOFS",
+      "reward": "500x Ruby + 50000x Gold + 1x Hero Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUL26FS",
+      "reward": "300 Ruby + 50000 Gold + 150 Bread (expires July 31st)",
+      "expiry": "2027-07-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSJUNE26",
+      "reward": "600 Ruby + 60000 Gold + 60 Bread (Expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSMAZE26",
+      "reward": "500 Ruby + 50000 Gold + 50 Bread (Expires May 31st)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSAPRIL26",
+      "reward": "400 ruby + 40000 gold + 40 bread (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSMARCH26",
+      "reward": "300 Rubies, 50k Gold, 30 Bread (expires March 31st)",
+      "expiry": "2027-03-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FS1YEAR",
+      "reward": "10 Hero Gacha Tickets, 10 Equipment Gacha Tickets, 10 Eidolon Gacha Tickets, 10 Soulbound Gacha Tickets, 1,000 Ruby",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSTET2025",
+      "reward": "500 ruby, 100k gold, 5 Hero Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAINTAINCODE",
+      "reward": "500 Ruby, 2 Large Hero EXP Chest (24h), 2 Large Gold Chest (24h)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSTET2026",
+      "reward": "600 ruby, 6 Hero Gacha Tickets, 6 Equipment Gacha Tickets, 6 Eidolon Gacha Tickets, 6 Soulbound Gacha Tickets, 6 Pet Gacha Tickets (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSFEB2026",
+      "reward": "300 ruby, 50K Gold, 100 Bread (expires February 28th)",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MERRYXMAS",
+      "reward": "500 ruby, 05 Hero Gacha Ticket, 05 Equipment Gacha Ticket, 05 Eidolon Gacha Ticket, 05 Soulbound Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FREESEP",
+      "reward": "300 Ruby, 50000 Gold, 150 Bread",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AUGFS25",
+      "reward": "300 Ruby, 50000 Gold, 150 Bread",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSCHEERS",
+      "reward": "15 Hero Gacha Tickets + 15 Equipment Gacha Tickets + 15 Eidolon Gacha Tickets + 15 Soulbound Gacha Tickets + 15 Pet Gacha Tickets (expires January 31st)",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNOWSAGA",
+      "reward": "500 Ruby, 10000 Gold, 150 Bread (expires January 01st)",
+      "expiry": "2027-01-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINDOFNOV",
+      "reward": "300 Ruby, 50000 Gold, 300 Bread (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TREATOBER",
+      "reward": "300 Ruby, 50000 Gold, 300 Bread (expires October 31st)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSBREEZE",
+      "reward": "300 Ruby, 50,000 Gold, 150 Bread (expires July 31st)",
+      "expiry": "2027-07-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSJUNEBEAT",
+      "reward": "500 Ruby, 20000 Gold, 50 Bread (Expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSMAZE24",
+      "reward": "300 Ruby, 50000 Gold, 150 Bread (expires May 31st)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSINAPRIL",
+      "reward": "400 ruby, 40k gold, 40 bread (expires 30th April)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSINMARCH25",
+      "reward": "300 ruby, 50k gold, 30 bread (expires 31st March)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSNEWYEAR25",
+      "reward": "10 Hero Gacha Tickets, 10 Equipment Gacha Tickets, 10 Eidolon Gacha Tickets (expires January 31st)",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MERRYXMASFS",
+      "reward": "300 Ruby, 3 Hero Gacha Ticket, 3 Equipment Ticket, 3 Eidolon Ticket (Expires January 7th)",
+      "expiry": "2027-01-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSNOCAP24",
+      "reward": "350 Ruby, 50,000 Gold, 100 Bread (expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OUTOFSTOCK",
+      "reward": "500 Ruby",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSTHANKSGIVING",
+      "reward": "1,000 Ruby (Expires November 30)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SAGAWORLD",
+      "reward": "300 Ruby, 40,000 Gold, 150 Bread (Expires November 30)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OCTSAGA24",
+      "reward": "450 Ruby + 5 Trial of Gods Keys (Expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEPGIFTFS",
+      "reward": "300 Ruby, 100K Gold, 3 Hero Gacha Tickets (Expires September 30th)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MIDFES24",
+      "reward": "1,500 Ruby, 5 Hero Gacha Tickets, and 5 Eidolon Gacha Tickets (Expires September 30th)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNE4FUNFS",
+      "reward": "500 Ruby (Valid till June 30)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CONGRAFS05",
+      "reward": "5 Hero Gacha Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSMAY2024",
+      "reward": "300x Ruby + 50000x Gold + 30x Bread",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

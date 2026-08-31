@@ -1,0 +1,833 @@
+{
+  "slug": "beast-lord",
+  "titleEn": "Beast Lord",
+  "titleKo": null,
+  "sourcePath": "/beast-lord/codes/",
+  "updatedAt": "2026-08-31T00:24:20.663Z",
+  "codes": [
+    {
+      "code": "BLWFDGA5B",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-07-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLAO21HPH",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-05-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL4CP6I78",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLWGIF2F8",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLAKXEY5A",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLDYUD4JJ",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLF3BWAB1",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLJ6TWTN3",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL47GEFRM",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLW2BJKW5",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLZ36TFHQ",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLZWC2HZS",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLTBCA9HI",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL9IT66MA",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLFE4KML7",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLP6LYC3S",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL6KVSFTN",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLEN2KMX7",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLRW41M61",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLJ2T08BK",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLHXQ79N6",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLOZT4K56",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLBR692PE",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL4E9Y1U5",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL093K512",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLSU1HV14",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLSQH62YN",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLZIRFICA",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLK28P5R9",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLCTA3HKT",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLKBGDTP0",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLCIC2OF9",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLOTHW71G",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLFVKFN6X",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL0FOGZJT",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLEJQWSLM",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLU0G6OSO",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLE0N5TK0",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL1PL1UCY",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLC4WG2H0",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLL8H2C9K",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL61YRNB6",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLXM55JPS",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLKND1U0N",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL5MEOQ0Y",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLI0R09T6",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL7BS55GH",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLZVM79U8",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLRFBCEB2",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLHS5NI80",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLK8KNRAV",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLVQEO9MY",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLS383JEI",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL3WR7K1V",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLJJ7Z2CY",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL7KUEJOX",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL9HVEJ6M",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL9OYK7X0",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLIEIHZQR",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLRANP682",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL0RJNHU4",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLO8N0MRD",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLZNA91K9",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLKJP3D4E",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLGHI3ZAW",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL3Z68SNM",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLLE1WV95",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLMGU9YBB",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLPY5Q3W9",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLWKIAF26",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLGUBGBMP",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL1H2CZZ8",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLRCF3RCE",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLLH0B0LG",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL0RH07T0",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLZQGPEWI",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLX5FQNPS",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLVYY9AF7",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLUJ1RU5X",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLRGMJKES",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLPR1OARW",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLN1AEZAJ",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLMAZDRE0",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-09-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLL5NVOCH",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-09-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLCV6B8H7",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-07-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL93MFIWK",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-07-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL7HKGZLJ",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-07-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL3UNU5EW",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-06-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL0ZS9C9E",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-06-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLMT1K39V",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-06-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLQOHCFEG",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-06-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BL8PFAPRU",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2027-05-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLT2WZKDN",
+      "reward": "Rewards: 1x Normal Bait, 20k Honey, 100k Sand , 100k Fruit, 1x 15-mins Speedup",
+      "expiry": "2027-05-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYBIRTHDAY2025",
+      "reward": "Expires August 22nd",
+      "expiry": "2026-08-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLPRMJ3V9",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLH4ZGEMG",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLW4D6J3F",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLM3ZOLRG",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BL8UKRRF4",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLI5AEK2Z",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLH3D6775",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLEMVE4F5",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLDKUR1LX",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

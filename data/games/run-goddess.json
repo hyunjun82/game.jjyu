@@ -1,0 +1,385 @@
+{
+  "slug": "run-goddess",
+  "titleEn": "Run! Goddess",
+  "titleKo": null,
+  "sourcePath": "/run-goddess/codes/",
+  "updatedAt": "2026-08-31T00:24:41.176Z",
+  "codes": [
+    {
+      "code": "RUNHAPPY",
+      "reward": "1 Gem Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JULFREEDOM",
+      "reward": "1,500 Gems (expires July 06th)",
+      "expiry": "2027-07-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGJUNHAPPY",
+      "reward": "800 Gems (expires June 22nd)",
+      "expiry": "2027-06-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNETRAVEL",
+      "reward": "800 Gems (expires June 15th)",
+      "expiry": "2027-06-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNEHAPPY1",
+      "reward": "800 Gems (expires June 08th)",
+      "expiry": "2027-06-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYHARVEST",
+      "reward": "800 Gems (expires June 01st)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYJASMINE",
+      "reward": "800 Gems (expires May 25th)",
+      "expiry": "2027-05-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FRESHENERG",
+      "reward": "800 Gems (expires May 18th)",
+      "expiry": "2027-05-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOTHERSDAY",
+      "reward": "1,500 Gems (expires May 12th)",
+      "expiry": "2027-05-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGLABORDAY",
+      "reward": "1,500 Gems (expires May 4th)",
+      "expiry": "2027-05-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUNNYDAYS1",
+      "reward": "800 Gems (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGJOY1",
+      "reward": "800 Gems (expires April 20th)",
+      "expiry": "2027-04-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APRILBLOOM",
+      "reward": "800 Gems (expires April 13th)",
+      "expiry": "2027-04-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FOOLSGIFT2",
+      "reward": "200 Gems, 10 Speed Hourglasses (expires April 7th)",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EASTERSUN5",
+      "reward": "1,5000 Gems (expires April 7th)",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WARMARISE4",
+      "reward": "800 Gems (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINDYMARCH",
+      "reward": "800 Gems (expires March 23rd)",
+      "expiry": "2027-03-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WHITEDAY14",
+      "reward": "800 Gems (expires March 16th)",
+      "expiry": "2027-03-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGWOMENGOO",
+      "reward": "1,500 Gems (expires March 10th)",
+      "expiry": "2027-03-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GORUNGOORG",
+      "reward": "800 Gems (expires March 02nd)",
+      "expiry": "2027-03-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RRG2026FEB",
+      "reward": "800 Gems (expires February 23rd)",
+      "expiry": "2027-02-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RRG26FEB14",
+      "reward": "1,500 Gems (expires February 16th)",
+      "expiry": "2027-02-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FEBRUARYRG",
+      "reward": "800 Gems (expires February 09th)",
+      "expiry": "2027-02-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGFEBRUARY",
+      "reward": "800 Gems (expires Ferbuary 2nd)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GORUNGORGS",
+      "reward": "800 Gems (expires January 26th)",
+      "expiry": "2027-01-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGFIREBOOM",
+      "reward": "800 Gems (expires January 19th)",
+      "expiry": "2027-01-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGJUMPUP26",
+      "reward": "800 Gems (expires January 12th)",
+      "expiry": "2027-01-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEARG26",
+      "reward": "1,500 Gems (expires January 4th)",
+      "expiry": "2027-01-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGOPUSHRUN",
+      "reward": "800 Gems (expires December 22nd)",
+      "expiry": "2026-12-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGOFIRERUN",
+      "reward": "800 Gems (expires December 15th)",
+      "expiry": "2026-12-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GODECEMBER",
+      "reward": "800 Gems (expires December 8th)",
+      "expiry": "2026-12-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOGORUNNOV",
+      "reward": "800 Gens (expires November 24th)",
+      "expiry": "2026-11-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZOOMRUNGOO",
+      "reward": "800 Gems (expires November 17th)",
+      "expiry": "2026-11-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOORGFIGHT",
+      "reward": "800 Gems (expires November 10th)",
+      "expiry": "2026-11-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGHALLOWEEN2025",
+      "reward": "1,500 Gems (expires November 3rd)",
+      "expiry": "2026-11-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RUNUPUP",
+      "reward": "800 Gems (expires October 27th)",
+      "expiry": "2026-10-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RUNNOVA",
+      "reward": "800 Gems (expires October 20th)",
+      "expiry": "2026-10-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGPARTY",
+      "reward": "Gems &times;1,500 (expires September 30th)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HIRUNRUN",
+      "reward": "800 Gems (expires September 22nd)",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RGMUSIC",
+      "reward": "Gems &times;200, Valkyrie Recruitment Tickets &times;10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FANSUPUP",
+      "reward": "Gems &times;500, Skill Tickets &times;30 (expires July 31st)",
+      "expiry": "2027-07-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZAPZAP",
+      "reward": "Gems x800 (expires July 28th)",
+      "expiry": "2027-07-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLYUPUP",
+      "reward": "1,500 Gems (expires July 14th)",
+      "expiry": "2027-07-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100DAYS",
+      "reward": "1,500 Gems (expires July 10th)",
+      "expiry": "2027-07-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYAUGRG",
+      "reward": "1,500 Gems (expires August 03rd)",
+      "expiry": "2026-08-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "RGCULTURAL",
+      "reward": "Gems x500,Skill Ticket x30 (expires August 24th)",
+      "expiry": "2026-08-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "GOFIRE",
+      "reward": "Gems x800 (expires August 05th)",
+      "expiry": "2026-08-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "nightfall-kingdom-frontier",
+  "titleEn": "Nightfall Kingdom Frontier",
+  "titleKo": null,
+  "sourcePath": "/nightfall-kingdom-frontier/codes/",
+  "updatedAt": "2026-08-31T00:24:36.338Z",
+  "codes": [
+    {
+      "code": "SANTAFALL24",
+      "reward": "20 Premium Equipment Keys",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NIGHTFALL15K",
+      "reward": "20 Premium Equipment Keys",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DISCORD10000",
+      "reward": "10 Premium Equipment Keys",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DISCORD5000",
+      "reward": "2000 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NIGHTFALL8888",
+      "reward": "10 Premium Equipment Keys",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

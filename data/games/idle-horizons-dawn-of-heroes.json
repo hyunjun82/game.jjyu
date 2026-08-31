@@ -1,0 +1,65 @@
+{
+  "slug": "idle-horizons-dawn-of-heroes",
+  "titleEn": "Idle Horizons",
+  "titleKo": null,
+  "sourcePath": "/idle-horizons-dawn-of-heroes/codes/",
+  "updatedAt": "2026-08-31T00:24:29.685Z",
+  "codes": [
+    {
+      "code": "RUSH0925",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FBC25",
+      "reward": "1000 Gems, 3 Challenge Tickets, 15 Summon Scrolls, 3 Arena Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TIKTOK25",
+      "reward": "1000 Gems, 3 Challenge Tickets, 15 Summon Scrolls, 3 Arena Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOINDISCORD",
+      "reward": "250k Gold, 500 Gems, 10 Summon Scrolls, 3 Challenge Tickets, 3 Arena Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLEASE",
+      "reward": "1000 Gems, 3 Challenge Tickets, 15 Summon Scrolls, 3 Arena Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GULLIBLE",
+      "reward": "1000 Gems, 3 Challenge Tickets, 15 Summon Scrolls, 3 Arena Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IGNISNOW",
+      "reward": "20 Ignis Hero Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

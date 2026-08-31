@@ -1,0 +1,89 @@
+{
+  "slug": "purrfect-tale",
+  "titleEn": "Purrfect Tale",
+  "titleKo": null,
+  "sourcePath": "/purrfect-tale/codes/",
+  "updatedAt": "2026-08-31T00:24:38.928Z",
+  "codes": [
+    {
+      "code": "WITHU5YEAR",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2026BLESSNOW",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "badmouse",
+      "reward": "666 Cod",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "lovinggumi",
+      "reward": "10 Hearts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gumino1",
+      "reward": "888 Cod",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SWEETOLIVER",
+      "reward": "rewards (Expires July 24th)",
+      "expiry": "2027-07-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GRUMPYDAY",
+      "reward": "rewards (Expires June 22nd)",
+      "expiry": "2027-06-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY2025",
+      "reward": "expires February 28th",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XMASLOOK",
+      "reward": "",
+      "expiry": "2027-01-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY2024",
+      "reward": "1000 Cod",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

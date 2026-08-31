@@ -1,0 +1,33 @@
+{
+  "slug": "clash-of-critters",
+  "titleEn": "Clash of Critters",
+  "titleKo": null,
+  "sourcePath": "/clash-of-critters/codes/",
+  "updatedAt": "2026-08-31T00:24:22.209Z",
+  "codes": [
+    {
+      "code": "weeklygift",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "goonbug",
+      "reward": "4k Candy, 1 Lunchbox, 1 Goonbug (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "hellotatari",
+      "reward": "4k Candy, 3 Tatari Capsules, 1k Pinballs (expires June 21st)",
+      "expiry": "2027-06-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "slug": "survivor-io",
+  "titleEn": "Survivor.io",
+  "titleKo": null,
+  "sourcePath": "/survivor-io/codes/",
+  "updatedAt": "2026-08-31T00:24:45.390Z",
+  "codes": [
+    {
+      "code": "4thAnniversary",
+      "reward": "1,000 Gems, 40 Miscellaneous Kets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "greatheat2026",
+      "reward": "300 Gems, 30 Energy, 1,000 Pet Cookies, 2,000 Energy Essence",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "mangzhong2026",
+      "reward": "300 Gems, 30 Energy, 1,000 Pet Cookies, 2,000 Energy Essence",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "grainrain2026",
+      "reward": "300 Gems, 30 Energy, 5 Vouchers",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "springmarch",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "slightheat2026",
+      "reward": "300 Gems, 30 Energy, 1,000 Pet Cookies, 2,000 Energy Essence (expires July 14th)",
+      "expiry": "2027-07-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dragonboat26",
+      "reward": "200 Gem, 5 Tech Part Chest Key, 2,000 Energy Essence, 2,000 Pet Cookie (expires June 26th)",
+      "expiry": "2027-06-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "xiaoman2026",
+      "reward": "300 Gems, 30 Energy, 5 Vouchers (expires June 4th)",
+      "expiry": "2027-06-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "goldenweek26",
+      "reward": "200 Gem, 5 Collectible Chest Key, 2,000 Energy Essence, 2,000 Pet Cookie (expires May 07th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Easter2026",
+      "reward": "Gem x200, Collectible Chest Key x5, Energy Essence x1500, Special Op Ticket x10 (expires April 10th)",
+      "expiry": "2027-04-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2026lanternfestival",
+      "reward": "Gem x200, Collectible Chest Key x5, Energy Essence x3000, Special-Op Ticket x10 (expires March 10th)",
+      "expiry": "2027-03-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "winterclan25",
+      "reward": "Gem x200, Ticket x5, Silver Key x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "snowdec",
+      "reward": "Gem x300, Energy x20, Special-op Ticket x5, Pet Cookie x500",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "thanksgiving2025",
+      "reward": "Gem x200, S Supply Key x5, Energy Essence x1500, and Special Op Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "snowfirst",
+      "reward": "Gem x300, Energy x20, Special-op Ticket x5, Pet Cookie x500",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "halloween25",
+      "reward": "Gem x200, Parts Chest Key x5, Pet Cookie x2000, and Special Op Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "goldoct",
+      "reward": "Gem x200, Random Epic pet toy x3, Pet Cookie x2000, and Special Op Ticket x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ummerrecruit25",
+      "reward": "Gem *200, Ticket *5, Silver Key *3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3rdanniversary",
+      "reward": "anniversary gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "startofautumn",
+      "reward": "Gem x200, Energy x30, Special-op Ticket x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "julyhot",
+      "reward": "Gem x200, Energy x30, Special-op Ticket x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "daylight",
+      "reward": "Gem x200, Energy x30, Special-op Ticket x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dragonboat25",
+      "reward": "Gem x200, Joey Shard x3, Energy Essence x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "growing",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gameon25",
+      "reward": "Gems x200, Energy x20, Vouchers x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EasterSurvivor25",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FANBOOSTX",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "springtrip",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "equinox25",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "clanrecruit25",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WaterRain",
+      "reward": "Gems x200, Energy x20, Vouchers x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2ndAnniversary",
+      "reward": "Gems x222, Energy x22, Drops x222",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "snake2025",
+      "reward": "200 gems, 10 Energy, 1,000 drops",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20christmasback24",
+      "reward": "Gem x200, S Survivor Shard Choice x5, and Energy Essence x1000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "solstice24",
+      "reward": "200 Gems, 20 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100clansgather",
+      "reward": "300 Gems, 5 Keys, 10 Vouchers",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "crisisaverted",
+      "reward": "200 Gem, 20 Energy, 3 Key",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "winteriscoming",
+      "reward": "200 Gem, 20 Energy, 3 Vouchers",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "goldenautumn",
+      "reward": "200 Gem, 5 Crane Hook, 3 Random Parts Crate (Master)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "equinox24",
+      "reward": "100 Gems, 20 Energy, 2 Vouchers",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "moonday24",
+      "reward": "100 gems, 20 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dewSep",
+      "reward": "200 Gem, 20 Energy, 500 Energy Essence",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "survivor2nd",
+      "reward": "200 Gem, 8 S Supply Key, 10 Special Op Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COMEBACK",
+      "reward": "100 gems, 2 Revival Coins, Pawerful Pet Chest Key",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "anniversary",
+      "reward": "100 gems, 10 Energy, 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY2023",
+      "reward": "200 gems, 10 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "25christmas",
+      "reward": "Gem x200, S Supply Key x5, Energy Essence x3000 (expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "25wintercome",
+      "reward": "Gem x300, Energy x20, Special-op Ticket x5, Pet Cookie x500 (expires November 20th)",
+      "expiry": "2026-11-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "autumnal",
+      "reward": "Gem x200, Energy x30, Special-op Ticket x5, Pet Cookie x500 (expires October 7th)",
+      "expiry": "2026-10-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "rain2025",
+      "reward": "Gem200, Energy x30, Special-op Ticket x5, Pet Cookie x200 (expires September 20th)",
+      "expiry": "2026-09-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "chushu2025",
+      "reward": "Gem*200, Energy*30, Special-op Ticket*5, Pet Cookie*200 (expires September 5th)",
+      "expiry": "2026-09-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "goldenweek25",
+      "reward": "Gem x200, Joey Shards x3, and Collectible Chest Key x3 (expires May 7th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "insects25",
+      "reward": "Gems x200, Energy x20, Vouchers x3 (expires March 19th)",
+      "expiry": "2027-03-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LANTERN2025",
+      "reward": "Gem x200, Energy x20, Energy Essence x500 and Special Ops Tickets x3 (expires February 18th)",
+      "expiry": "2027-02-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYLNY2025",
+      "reward": "Gem x200, S Supply Key x5, and Energy Essence x2500 (expires February 3rd)",
+      "expiry": "2027-02-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "coldfeb",
+      "reward": "expires February 3rd",
+      "expiry": "2027-02-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "coldcold",
+      "reward": "expires January 20th",
+      "expiry": "2027-01-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR2025",
+      "reward": "Expires January 7th",
+      "expiry": "2027-01-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "firstsnow",
+      "reward": "200 Gem, 20 Energy, 3 Vouchers(expires December 21st)",
+      "expiry": "2026-12-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2thanksgiving4",
+      "reward": "Gem x200, S Supply Key x5, and Special Op Ticket x20 (expires December 4th)",
+      "expiry": "2026-12-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Halloween24",
+      "reward": "200 Gem, 10 Pumpkin Ticket, 2 Random Parts Crate (Master) (expires November 5th)",
+      "expiry": "2026-11-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "summerheat",
+      "reward": "Gems and Energy",
+      "expiry": "2027-06-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GrainFull",
+      "reward": "Gems and Energy",
+      "expiry": "2027-06-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "summerchild",
+      "reward": "Gems and Energy",
+      "expiry": "2027-05-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Springrain",
+      "reward": "Gems and Energy",
+      "expiry": "2027-05-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpringOuting",
+      "reward": "Gems and Energy",
+      "expiry": "2027-04-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "tiktokup",
+      "reward": "Gems and Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Equinox",
+      "reward": "Gems and Energy",
+      "expiry": "2027-04-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AwekeningNow",
+      "reward": "Gems and Energy",
+      "expiry": "2027-03-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lantern24",
+      "reward": "Gems and Energy",
+      "expiry": "2027-03-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2024LNY",
+      "reward": "Gems and Energy",
+      "expiry": "2027-02-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "topsurvivor",
+      "reward": "Gem*200, Energy*10 and Revival Coin*3 (Expires February 01)",
+      "expiry": "2027-02-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20christmas23",
+      "reward": "Gems and Energy (Expires January 24)",
+      "expiry": "2027-01-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "snowdonia",
+      "reward": "gems and energy (Expires December 21)",
+      "expiry": "2026-12-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "thanksturkey23",
+      "reward": "Gems and Energy (Expires December 20)",
+      "expiry": "2026-12-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gogohalloween",
+      "reward": "Gems and Energy (Expires November 22)",
+      "expiry": "2026-11-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wintercoming",
+      "reward": "Gems and Energy (Expires November 21)",
+      "expiry": "2026-11-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "frostfall",
+      "reward": "Gems and Energy (Expires November 7)",
+      "expiry": "2026-11-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "deepsea2023",
+      "reward": "gems and energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FallBreeze",
+      "reward": "100 Gems and 30 Energy (Expires October 8)",
+      "expiry": "2026-10-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GreaterHeat",
+      "reward": "100 gems and 10 energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEPDEWS",
+      "reward": "100 gems, 10 Energy, 1 Revival Coin (Expires on September 22)",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Autumn88",
+      "reward": "100 gems and 30 energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Obon2023",
+      "reward": "100 gems and 30 energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HeatNow",
+      "reward": "100 Gems and 30 Energy (Expires September 4)",
+      "expiry": "2026-09-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GraininEar",
+      "reward": "100 Gems and 30 Energy (Expires June 19)",
+      "expiry": "2027-06-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dinter001",
+      "reward": "100 Gems, 5 Energy, 1 Army Key and 5000 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "akaoni1207",
+      "reward": "100 Gems, 6 Random Design Pack and 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "et1231777",
+      "reward": "100 Gems, 5 Energy, 1 Army Key and 5000 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "survivorio811",
+      "reward": "100 Gems, 5000 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "survivoriotop1",
+      "reward": "300 Gems, 10000 Coins, 3 Random Design Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "oni666",
+      "reward": "100 Gems, 6 Random Design Pack, 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "11survivorio08",
+      "reward": "100 Gems, 5000 Coins, 1 Army Key",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "crazyface777",
+      "reward": "100 Gems, 6 Random Design Pack, 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "811survivorio",
+      "reward": "100 Gems, 5000 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "yesranger666",
+      "reward": "100 Gems, 6 Random Design Pack, 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dinter777",
+      "reward": "100 Gems, 6 Random Design Pack, 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "40shuteye",
+      "reward": "100 Gems, 6 Random Design Pack, 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "stanley888",
+      "reward": "100 Gems, 6 Random Design Pack, 6666 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "hotsummer",
+      "reward": "Gem x200, Energy x30, Special-op Ticket x3 (expires August 04th)",
+      "expiry": "2026-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "AutumnNow",
+      "reward": "200 Gems, 20 Energy, 500 Energy Essence",
+      "expiry": "2026-08-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "HotHeat",
+      "reward": "200 Gems, 20 Energy",
+      "expiry": "2026-08-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "googlebest2023",
+      "reward": "3-S supply keys and 1-excellent weapon (Expires January 1, 2024)",
+      "expiry": "2024-01-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

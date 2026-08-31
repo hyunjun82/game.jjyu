@@ -1,0 +1,41 @@
+{
+  "slug": "nekomancer",
+  "titleEn": "Nekomancer",
+  "titleKo": null,
+  "sourcePath": "/nekomancer/codes/",
+  "updatedAt": "2026-08-31T00:24:36.000Z",
+  "codes": [
+    {
+      "code": "NEKODISCORD",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEKOMANCER",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QUIZNEKO2",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AUGNEKO4",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

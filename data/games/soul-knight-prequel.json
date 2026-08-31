@@ -1,0 +1,257 @@
+{
+  "slug": "soul-knight-prequel",
+  "titleEn": "Soul Knight Prequel",
+  "titleKo": null,
+  "sourcePath": "/soul-knight-prequel/codes/",
+  "updatedAt": "2026-08-31T00:24:42.836Z",
+  "codes": [
+    {
+      "code": "20260210SKPSS6",
+      "reward": "Stellarite x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260210LOVESKP",
+      "reward": "Stellarite x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260210SKPUPDATE",
+      "reward": "Chest Key x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260210SKPDAY",
+      "reward": "Cardpack Voucher x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYJUNE",
+      "reward": "Standard Challenge Token &times;1, Eudorite &times;5, Pickaxe Giftbox &times;5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THX4ALLGP",
+      "reward": "3x Gale Juice + 3x Housing Snapshots + 3x Bullion + Tempest Juice + Life Juice + Captain Paloma&rsquo;s skin and more (Android)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASTHX4ALL",
+      "reward": "Egg + 2x Gold Nuggets + Computer House Skin + Apple Character Skin (iOS)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260427SKPSS7",
+      "reward": "Stellarite x5 (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260427STARTSKP",
+      "reward": "Stellarite x5 (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260427SKPLOVE",
+      "reward": "Chest Key x5 (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "20260427HAPPYSKP",
+      "reward": "Cardpack Voucher x5 (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SKPXMAS2025",
+      "reward": "1 Scroll of Wishes, 5 Eidolic Calibrum Violet, 10 Eidolic Calibrum Blue (expires January 05th)",
+      "expiry": "2027-01-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4RETWC",
+      "reward": "2 Resurrection Coin, 1 Forgeability Voucher, 1 Eidolic Calibrum - Blue (expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "M7MFKV",
+      "reward": "Gachapon Coinx1, Eidolic Signum &times;100, Eidolic Calibrum - Green &times;10 (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QZU7HQ",
+      "reward": "Tablet of Wishes &times;1, Rune of Wishes &times;1, Weathered Hephaestite &times;1 (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HTMTE6",
+      "reward": "Gem &times;10, Chest Key &times;1, Pickaxe &times;3 (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TWU85F",
+      "reward": "10 Gems, 1 Tablet of Wishes, 10 Eudorite (expires November 30th)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYSEP",
+      "reward": "Gems &times;30, Cardpack Voucher &times;1, Gachapon Coin &times;1, Volcanic Hephaestite &times;1, Weathered Hephaestite &times;2 (Expires October 31)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CE2VKq",
+      "reward": "Gem x30, Cardpack Voucher x1 (expires February 14th)",
+      "expiry": "2027-02-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HMXBRT",
+      "reward": "Stellarite x10 (expires February 14th)",
+      "expiry": "2027-02-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZMHHDR",
+      "reward": "Companion Egg x1, Coin x88888 (expires February 14)",
+      "expiry": "2027-02-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BCMCBA",
+      "reward": "Coin x250000, Chest Key x1, Gachapon Coin x1 (expires February 14)",
+      "expiry": "2027-02-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "m789QK",
+      "reward": "100,000 Coins and 300 Lesser Enhansor Fragments (expires December 29th)",
+      "expiry": "2026-12-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "sau4B9",
+      "reward": "10 Gems and 1 Stellarite (Expires December 29th)",
+      "expiry": "2026-12-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DY6UB6",
+      "reward": "10 Tablets of Wishes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "89mV2D",
+      "reward": "3 Lesser Lydites and 1 Lydite",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YMDVMU",
+      "reward": "10 Gems, 1 Gachapon Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2024NEWYEAR",
+      "reward": "Weathered Hephaestite + 15x Gems + 5x Resurrection Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYDAY",
+      "reward": "50x Gems + Cardpack Voucher + 1000x Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DAILYFREEBIE",
+      "reward": "Volcanic Hephaestite+Weathered Hephaestite+Daily Invitation",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YULEBALL",
+      "reward": "New Year special gift (Valid till April 4)",
+      "expiry": "2027-04-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

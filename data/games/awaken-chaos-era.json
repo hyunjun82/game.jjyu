@@ -1,0 +1,265 @@
+{
+  "slug": "awaken-chaos-era",
+  "titleEn": "Awaken Chaos Era",
+  "titleKo": null,
+  "sourcePath": "/awaken-chaos-era/codes/",
+  "updatedAt": "2026-08-31T00:24:20.344Z",
+  "codes": [
+    {
+      "code": "happy0601",
+      "reward": "Advanced Summoning Crystal x 6, Delicious Sweets x 1 (Global)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "happycd",
+      "reward": "Advanced Summoning Crystal x 6, Delicious Sweets x 1 (Asia)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "godfery",
+      "reward": "10K Gold, 300 Diamond, 5 Meal Coupons, Advanced Summoning Crystal x 3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINTERISCOMING",
+      "reward": "250K EXP Jelly, 5x Special Gear Charm, 50K Gold, 5 Meal Coupons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "fullspeedahead",
+      "reward": "Meal Coupon x10, Legendary Matrix x 10, Epic Matrix x 10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ACEFB",
+      "reward": "Rewards: three advanced summoning crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ACEEXP",
+      "reward": "Rewards: double XP for one hour",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ACEDC",
+      "reward": "Rewards: three advanced summoning crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Whosyourdaddy",
+      "reward": "Rewards: Zachary hero",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FOODY",
+      "reward": "Rewards: one three-star foody pet",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ACE777",
+      "reward": "Rewards: 10K Gold, 100 Diamonds, 100K EXP Jelly",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Ineedadoctor",
+      "reward": "Rewards: Abbott hero",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Aurora",
+      "reward": "500 Diamonds, 5 Advanced Summoning Crystals (expires July 4th)",
+      "expiry": "2027-07-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "fishfishfish",
+      "reward": "Advanced Summoning Crystals x 10 (expires June 7th)",
+      "expiry": "2027-06-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FISHINGTIME",
+      "reward": "Diamonds x 1500 (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "magicmirror",
+      "reward": "Advanced Summoning Crystals x 10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Butterfly",
+      "reward": "Diamonds x500, Advanced Summoning Crystals x5 (expires 05 March)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HPNY2025",
+      "reward": "Diamonds 1,000 (expires February 7th)",
+      "expiry": "2027-02-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Abracadabra",
+      "reward": "Diamonds x 500 and Advanced Summoning Crystals x 5 (valid till December 5)",
+      "expiry": "2026-12-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOKERGAME",
+      "reward": "1,000 Diamonds (valid till November 8)",
+      "expiry": "2026-11-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRICKORTREAT",
+      "reward": "1,000 Diamonds, 100 Candy (valid till November 2)",
+      "expiry": "2026-11-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THESCENTOFBLOOD",
+      "reward": "Advanced Summoning Crystal x 10 (Valid October 9th)",
+      "expiry": "2026-10-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CODEOFTRIBE",
+      "reward": "Advanced Summoning Crystal x10 (Valid till Augst 31st, 2024)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ACEEASTER24",
+      "reward": "Diamond x 500 Advanced Summoning Crystal x 3 (Expires April 30)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "secanni",
+      "reward": "Advanced Summoning Crystal x 10 Meal Coupon x 10 (Expires January 31)",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ACERTA",
+      "reward": "6-Star Legendary Boots Custom Chest x 1, 5-Star Holy Pumpkin x 1 and Meal Coupon x 5 (Expires on August 31)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Swordout",
+      "reward": "Rewards: three special weapon charms, one advanced weapon charm, and a four-star raider blade",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Arrow",
+      "reward": "1,000 Diamonds (expires August 2nd)",
+      "expiry": "2026-08-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "HOLLYJOLLY",
+      "reward": "Diamonds x 500, Advanced Summoning Crystals x 10 (Expire January 12, 2024)",
+      "expiry": "2024-01-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Hello101",
+      "reward": "101 summoning crystals (Valid till January 10, 2025)",
+      "expiry": "2025-01-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "ACEDC2024",
+      "reward": "Advanced Summoning Crystal x 3 (Valid till January 10, 2025)",
+      "expiry": "2025-01-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "ACEFB2024",
+      "reward": "Advanced Summoning Crystal x 3 (Valid till January 10, 2025)",
+      "expiry": "2025-01-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

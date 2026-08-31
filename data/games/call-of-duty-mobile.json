@@ -1,0 +1,57 @@
+{
+  "slug": "call-of-duty-mobile",
+  "titleEn": "COD Mobile",
+  "titleKo": null,
+  "sourcePath": "/call-of-duty-mobile/codes/",
+  "updatedAt": "2026-08-31T00:24:21.888Z",
+  "codes": [
+    {
+      "code": "BTPAZBZDSX",
+      "reward": "Weapon XP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BTORZBZPW6",
+      "reward": "Optional Weapon Bundle",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BTONZBZCK5",
+      "reward": "Epic Secret Cache",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BTOJZBZSWW",
+      "reward": "Optional Weapon Bundle",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BTOFZBZBNU",
+      "reward": "500 Credits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BTOCZBZNHX",
+      "reward": "50 CP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

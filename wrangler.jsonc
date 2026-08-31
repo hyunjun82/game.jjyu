@@ -1,0 +1,10 @@
+{
+  // Cloudflare Workers 정적 사이트 배포 설정
+  "name": "game-jjyu",
+  "compatibility_date": "2026-07-01",
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

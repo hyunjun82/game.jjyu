@@ -1,0 +1,473 @@
+{
+  "slug": "scarlet-girls",
+  "titleEn": "Scarlet Girls",
+  "titleKo": null,
+  "sourcePath": "/scarlet-girls/codes/",
+  "updatedAt": "2026-08-31T00:24:41.842Z",
+  "codes": [
+    {
+      "code": "MOON832",
+      "reward": "Weekly gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLSO",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 10 Rare SSR Shard Selection Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRE777",
+      "reward": "50 Diamonds, 3 Echo Permits, 100 Purification Metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRE888",
+      "reward": "50 Diamonds, 3 Echo Permits, 10x 10k EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRE999",
+      "reward": "50 Diamonds, 3 Echo Permits, 3 Common Dice",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SVIP777",
+      "reward": "100 Diamonds, 5x 10k EXP, 100 Purification Metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SVIP888",
+      "reward": "100 Diamonds, 5x 10k EXP, 3 Echo Permits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SVIP999",
+      "reward": "100 Diamonds, 5x 10k EXP, 5 Ordinary Roulette Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOME",
+      "reward": "50 Diamonds, 3 Echo Permits, 1 SSR Core Stellari Selection Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLS777",
+      "reward": "100 Diamonds, 5x 10k EXP, 1 Dispatch Refresh Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLS888",
+      "reward": "100 Diamonds, 5x 10k EXP, 3 Common Dice",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLS999",
+      "reward": "100 Diamonds, 5x 10k EXP, 10 Rare SSR Shard Selection Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY666",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 30 Virtual Rubik",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEW666",
+      "reward": "100 Diamonds, 2 Echo Permits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRI777",
+      "reward": "100 Diamonds, 2 Common Dice",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WEL666",
+      "reward": "100 Diamonds, 100 Purification metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EXC777",
+      "reward": "100 Diamonds, 10 Rare SSR Shard Selection Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LD666",
+      "reward": "100 Diamonds, 1 Basic Chip, 1 Dispatch Refresh Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NOW666",
+      "reward": "100 Diamonds, 1 Basic Chip, 1 Dispatch Refresh Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PH999",
+      "reward": "50 Diamonds, 3 Echo Permits, 1 Advanced Roulette Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TH999",
+      "reward": "50 Diamonds, 3 Echo Permits, 1 Orange 1-star Equipment Selection",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CBT999",
+      "reward": "100 Diamonds, 1 Echo Permit, 100 Purification Metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CBT777",
+      "reward": "1 Echo Permit, 2 Dispatch Refresh Tickets, 2 Ordinary Roulette Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CBT1106",
+      "reward": "500 Diamonds, 3 Echo Permits, 1 Advanced Roulette Ticket, 100 Purification Metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLSDC",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 1 Elementium Starsplinter",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLSFB",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 5 Dispatch Refresh Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAGICLOVE",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit 1 Stellaris EXP Supply",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SCARLETGIRLS",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 1 Relic Permit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CELWEEK68",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 200 Purification Metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLSFUN",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 2 Bloodstain Core",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY234",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 100 Iron Probes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WISH190",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 2 Basic Chip",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PARTY127",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 5 Dispatch Refresh Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SG666",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 10 Rare SSR Shard Selection Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APPLE136",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 10 Rare SSR Shard Selection Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TH777",
+      "reward": "200 Diamonds, 2 Echo Permits, 4 Ordinary Roulette Tickets, 5x 10k EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PH777",
+      "reward": "200 Diamonds, 2 Echo Permits, 4 Ordinary Roulette Tickets, 5x 10k EXP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUNSHINE90",
+      "reward": "150 Diamonds, 1 Advanced Echo Permit, 200 Purification Metal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KEY7698",
+      "reward": "Weekly gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MUSIC85",
+      "reward": "Weekly gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLAY234",
+      "reward": "Weekly gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YOGA373",
+      "reward": "Weekly gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TEAM907",
+      "reward": "Weekly gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BINGO123",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUNA889",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PEACH768",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FOREVER32",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHARE46",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CARRY23",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PINK809",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEBULA914",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEBULA783",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEBULA520",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SONG315",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVE159",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNOW812",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LOVERDAY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIRLSLOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

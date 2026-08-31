@@ -1,0 +1,41 @@
+{
+  "slug": "meow-knights",
+  "titleEn": "Meow Knights",
+  "titleKo": null,
+  "sourcePath": "/meow-knights/codes/",
+  "updatedAt": "2026-08-31T00:24:34.338Z",
+  "codes": [
+    {
+      "code": "HELLOMEOW",
+      "reward": "1,000 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUMEOW",
+      "reward": "5,000 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKS50000",
+      "reward": "5,000 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEOWORB100",
+      "reward": "100 Orb Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

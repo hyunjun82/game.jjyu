@@ -1,0 +1,65 @@
+{
+  "slug": "miraibo-go",
+  "titleEn": "Miraibo GO",
+  "titleKo": null,
+  "sourcePath": "/miraibo-go/codes/",
+  "updatedAt": "2026-08-31T00:24:34.991Z",
+  "codes": [
+    {
+      "code": "MR1010",
+      "reward": "1x Gold Event Reward 4",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MR777",
+      "reward": "1x Luxury Wood Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MR999",
+      "reward": "1x Bronze Key Gift Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MR2024",
+      "reward": "1x Raw Meat Gift Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MR888",
+      "reward": "1x Deluxe Stone Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MRGO",
+      "reward": "1x Deluxe Wood Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MIRAGO1010",
+      "reward": "1x Silver Key Gift Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

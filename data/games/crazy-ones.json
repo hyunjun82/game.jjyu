@@ -1,0 +1,25 @@
+{
+  "slug": "crazy-ones",
+  "titleEn": "Crazy Ones",
+  "titleKo": null,
+  "sourcePath": "/crazy-ones/codes/",
+  "updatedAt": "2026-08-31T00:24:22.861Z",
+  "codes": [
+    {
+      "code": "CRAZYFREE5STAR",
+      "reward": "5-Star Tomoko Memory Card, Lazy Cat (Expires May 29)",
+      "expiry": "2027-05-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SATCHILL0525",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

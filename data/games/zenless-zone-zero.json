@@ -1,0 +1,41 @@
+{
+  "slug": "zenless-zone-zero",
+  "titleEn": "Zenless Zone Zero",
+  "titleKo": null,
+  "sourcePath": "/zenless-zone-zero/codes/",
+  "updatedAt": "2026-08-31T00:24:51.875Z",
+  "codes": [
+    {
+      "code": "CBW0884678",
+      "reward": "20k Denny (Asia only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZZZSUSHIRO",
+      "reward": "30k Denny (Asia only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZZZ30BANGBOO",
+      "reward": "60 Polychrome",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZENLESSGIFT",
+      "reward": "50 Polychrome, 2 Official Investigator Log, 3 W-Engine Power Supply, 1 Bangboo Algorithm Module",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

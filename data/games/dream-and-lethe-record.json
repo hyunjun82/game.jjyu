@@ -1,0 +1,33 @@
+{
+  "slug": "dream-and-lethe-record",
+  "titleEn": "Dream and Lethe Record",
+  "titleKo": null,
+  "sourcePath": "/dream-and-lethe-record/codes/",
+  "updatedAt": "2026-08-31T00:24:24.138Z",
+  "codes": [
+    {
+      "code": "ZhouSunDLR",
+      "reward": "5 Meow Balls, 60 Jade",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DREAMGAMEE",
+      "reward": "5 Meow Balls, 3 Ultra Dust",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "hellodlr25",
+      "reward": "15 Bond Chests, 80000 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

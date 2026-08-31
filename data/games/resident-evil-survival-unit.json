@@ -1,0 +1,57 @@
+{
+  "slug": "resident-evil-survival-unit",
+  "titleEn": "Resident Evil Survival Unit",
+  "titleKo": null,
+  "sourcePath": "/resident-evil-survival-unit/codes/",
+  "updatedAt": "2026-08-31T00:24:40.527Z",
+  "codes": [
+    {
+      "code": "SUPPLYHERB",
+      "reward": "25x 100 Oil, 100x 100 Iron, 50x 1K Lumber, 50x 1K Food, Leg. Hero Explor. Skill Book, Leg. Hero Field Skill Book, 5x 10K Hero EXP, 300x Gems (expires May 31st)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOPSURVIVALUNIT",
+      "reward": "5x Advanced Flare Gun, 3x Special Flare Gun, 50x 1K Food, 50x 1K Lumber, 100x 100 Iron, 50x 100 Oil, 300x Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURVIVEFRIDAY",
+      "reward": "3x 10k Hero EXP, 500 Gems, 3x Speed Up 1 Hour, 50x 1k Food, 50x 1k Lumber, 100x 100 Iron, 50x 100 Oil",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLAYSURVIVALUNIT",
+      "reward": "2x 10k Hero EXP, 3 Epic Hero Field Skill Books, 3 Epic Hero Exploration Skill Books, 50x 1k Food, 50x 1k Lumber, 100x 100 Iron, 50x 100 Oil, 500 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MONHUNTBEGINS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "6MONTHSSTRONG",
+      "reward": "rewards (expires June 16th)",
+      "expiry": "2027-06-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

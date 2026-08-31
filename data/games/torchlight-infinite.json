@@ -1,0 +1,33 @@
+{
+  "slug": "torchlight-infinite",
+  "titleEn": "Torchlight Infinite",
+  "titleKo": null,
+  "sourcePath": "/torchlight-infinite/codes/",
+  "updatedAt": "2026-08-31T00:24:48.926Z",
+  "codes": [
+    {
+      "code": "torchcon2026",
+      "reward": "expires July 12th, 23:59",
+      "expiry": "2027-07-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TLCHILLGO",
+      "reward": "300 Jagged Primocryst",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TLXTL1011",
+      "reward": "300 Jagged Primocryst",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

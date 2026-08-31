@@ -1,0 +1,33 @@
+{
+  "slug": "metal-slug-awakening",
+  "titleEn": "Redeem",
+  "titleKo": null,
+  "sourcePath": "/metal-slug-awakening/redeem-codes/",
+  "updatedAt": "2026-08-31T00:24:34.338Z",
+  "codes": [
+    {
+      "code": "QE3Z1UXB1",
+      "reward": "Military Card IV x10; Marco Polo Token x10; Coin x10000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ME3Z1EVSV",
+      "reward": "30 Military Cards IV, 4h Multiplier Card, 10,000 Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LE3Z1MBAY",
+      "reward": "Alloy Pickaxe x1; Marco Polo Token x10; 4h Multiplier Card x2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

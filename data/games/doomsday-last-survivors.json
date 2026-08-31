@@ -1,0 +1,41 @@
+{
+  "slug": "doomsday-last-survivors",
+  "titleEn": "Doomsday: Last Survivors",
+  "titleKo": null,
+  "sourcePath": "/doomsday-last-survivors/codes/",
+  "updatedAt": "2026-08-31T00:24:23.819Z",
+  "codes": [
+    {
+      "code": "DLSFAIRYTAIL",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOBILIZATION2026",
+      "reward": "rewards (until 30/04/2026)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRINGFEST2026",
+      "reward": "rewards (until 01/03/2026)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DAWNPACT2026",
+      "reward": "rewards (Until 31/01/2026)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

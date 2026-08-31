@@ -1,0 +1,489 @@
+{
+  "slug": "magic-the-gathering-arena",
+  "titleEn": "MTG Arena",
+  "titleKo": null,
+  "sourcePath": "/magic-the-gathering-arena/codes/",
+  "updatedAt": "2026-08-31T00:24:33.437Z",
+  "codes": [
+    {
+      "code": "PlayBRO",
+      "reward": "Three Brothers&rsquo; War booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayDMU",
+      "reward": "Three Dominaria United booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayHBG",
+      "reward": "Three Alchemy Horizons: Baldur&rsquo;s Gate booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayAlchemyNewCapenna",
+      "reward": "Three Alchemy New Capenna boosters",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayDND",
+      "reward": "Three Adventures in the Forgotten Realms booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Threads",
+      "reward": "1K XP Boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Golgari",
+      "reward": "500 Mastery XP and Coerced to Kill Card Style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Izoni",
+      "reward": "500 Mastery XP and Coerced to Kill Card Style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GreenBlack",
+      "reward": "500 Mastery XP and Coerced to Kill Card Style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Murdered",
+      "reward": "500 Mastery XP and Deadly Complication Card Style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Impeccable",
+      "reward": "500 Mastery XP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AlquistProft",
+      "reward": "500 Mastery XP",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayDMUA",
+      "reward": "3 Alchemy: Dominaria packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayDMUAlchemy",
+      "reward": "Three Alchemy: Dominaria booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlaySNC",
+      "reward": "Three Streets of New Capenna booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayNEOAlchemy",
+      "reward": "Three Alchemy Kamigawa booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayNEO",
+      "reward": "Three Kamigawa: Neon Dynasty booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayVOW",
+      "reward": "Three Innistrad: Midnight Hunt booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayMID",
+      "reward": "Three Innistrad: Midnight Hunt booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayStrixhaven",
+      "reward": "Three Strixhaven: School of Mages booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayKaldheim",
+      "reward": "Three Kaldheim booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TryKaladesh",
+      "reward": "One Kaladesh Remastered booster pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayZendikar",
+      "reward": "Three Zendikar Rising booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayM21",
+      "reward": "Three Core Set 2021 booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayIkoria",
+      "reward": "Three Ikoria: Lair of Behemoths booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayTheros",
+      "reward": "Three Theros Beyond Death booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayEldraine",
+      "reward": "Three Throne of Eldraine booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayM20",
+      "reward": "Three Core Set 2020 booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayWarSpark",
+      "reward": "Three War of the Spark booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PlayRavnica",
+      "reward": "Three Guilds of Ravnica booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Mellon",
+      "reward": "- 1K XP Boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LevelUp",
+      "reward": "2000 XP boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RestorativeBurst",
+      "reward": "2000 XP boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ExperimentalOverload",
+      "reward": "2000 XP boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ObscuraConnive",
+      "reward": "Obscura family sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RiveteerBlitz",
+      "reward": "Riveteers family sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MaestroCasualty",
+      "reward": "Maestros family sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BrokerShield",
+      "reward": "Brokers family sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CabarettiAlliance",
+      "reward": "New Capenna Cabaretti sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AlwaysFinishTheJob",
+      "reward": "Riveteers family card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CrimeIsAnArtForm",
+      "reward": "Maestros family card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FunIsntFree",
+      "reward": "Cabaretti family card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "InformationIsPower",
+      "reward": "Obscura family card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ReadTheFinePrint",
+      "reward": "Brokers family card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EnlightenMe",
+      "reward": "Narset, Parter of Veils card style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FoilFungus",
+      "reward": "Deathbloom Thallid card style and card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OverTheMoon",
+      "reward": "Arlinn, Voice of the Pack card style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ParallaxPotion",
+      "reward": "Revitalize card style and card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SuperScry",
+      "reward": "Opt card style and card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WrittenInStone",
+      "reward": "Nahiri, Storm of Stone card style and card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ShieldsUp",
+      "reward": "Teyo, the Shieldmage card style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Innerdemon",
+      "reward": "Ob Nixilis, the Hate-Twisted card style",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SparkleDruid",
+      "reward": "Druid of the Cowl card style and card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ShinyGoblinPirate",
+      "reward": "Fanatical Firebrand card style and card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FNMATHOME",
+      "reward": "two random cosmetic items",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RockJocks",
+      "reward": "Lorehold college card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DebateDuelists",
+      "reward": "Silverquill college card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MathWhizzes",
+      "reward": "Quandrix college card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SwampPunks",
+      "reward": "Witherbloom college card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ArtClub",
+      "reward": "Prismari college card sleeve",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

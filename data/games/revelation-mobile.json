@@ -1,0 +1,49 @@
+{
+  "slug": "revelation-mobile",
+  "titleEn": "Revelation M",
+  "titleKo": null,
+  "sourcePath": "/revelation-mobile/codes/",
+  "updatedAt": "2026-08-31T00:24:40.527Z",
+  "codes": [
+    {
+      "code": "VALENTINE24",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR2024RM",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Registration",
+      "reward": "2 Rebirth Seals, 10 White Tiger Souls, 20 Epic Gem Vaults, 388 Bound Sky Gems, 20 Black Tortoise Souls, and 30 Twin Koi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RMDiscord01",
+      "reward": "5 epic Gem Vaults, 30 Bound Sky Gems, 50 Rebirth Seal Shards, and 10 Epic Gem Vaults",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CharContest",
+      "reward": "3 RaRa Treasure Bags, 58 Bound Sky Gems and 10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

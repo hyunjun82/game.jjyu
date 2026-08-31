@@ -1,0 +1,233 @@
+{
+  "slug": "warhammer-40000-warpforge",
+  "titleEn": "Warhammer 40,000 Warpforge",
+  "titleKo": null,
+  "sourcePath": "/warhammer-40000-warpforge/codes/",
+  "updatedAt": "2026-08-31T00:24:50.397Z",
+  "codes": [
+    {
+      "code": "PRIMARCH",
+      "reward": "2 Vault tickets, 1 The Avenging Son Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Fenris",
+      "reward": "Space Wolves Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SKIRMISH",
+      "reward": "2 All-Army booster packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TEMPESTUS",
+      "reward": "2 Astra Militarum packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "INNERCIRCLE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEMETRIAN",
+      "reward": "2 UM Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AVELINE",
+      "reward": "2 Booster Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PHOENIX",
+      "reward": "2 Eldar packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Sister",
+      "reward": "2 Adepta Sororitas packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GORK",
+      "reward": "2 Goff Ork packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ETHEREAL",
+      "reward": "2 T&rsquo;au Empire packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PHAERON",
+      "reward": "2 Sautekh Dynasty Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WARPFORGE",
+      "reward": "10 all faction packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BJTHEBRAVE",
+      "reward": "2 Astra Militarum packs, Avatar",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Destroyer",
+      "reward": "2 Necron Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TITUS",
+      "reward": "5 Blackstone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KROOT",
+      "reward": "2 Tau packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LETHARIUS",
+      "reward": "Ultramarines Booster Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UPRISING",
+      "reward": "2 Genestealer Cults booster packs (Expires September 1)",
+      "expiry": "2026-09-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SORORITAS",
+      "reward": "2 Adepta Sororitas Booster Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GHALLARON",
+      "reward": "2 Black Legion Booster Packs (Valid till May 4)",
+      "expiry": "2027-05-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GREATERGOOD",
+      "reward": "2 T'au Empire Booster Packs (Valid till April 4)",
+      "expiry": "2027-04-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GORDRANG",
+      "reward": "2 Goff Orks Booster Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TERROR",
+      "reward": "5 Hive Fleet Leviathan Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SQUIDMAR",
+      "reward": "5x Booster Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLEASANTKENOBI",
+      "reward": "5x Booster Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KRIPP",
+      "reward": "5 Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "REMNANT",
+      "reward": "Remnant Avatar (valid till November 30)",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

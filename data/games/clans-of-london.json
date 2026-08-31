@@ -1,0 +1,97 @@
+{
+  "slug": "clans-of-london",
+  "titleEn": "Clans of London",
+  "titleKo": null,
+  "sourcePath": "/clans-of-london/codes/",
+  "updatedAt": "2026-08-31T00:24:22.209Z",
+  "codes": [
+    {
+      "code": "COLPRIDE",
+      "reward": "Pride avatar, Pride card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLPROGRESS",
+      "reward": "Progress Pride avatar, Progress Pride card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLACE",
+      "reward": "Ace avatar, Ace card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLBI",
+      "reward": "Bi avatar, Bi card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLIS",
+      "reward": "IS avatar, IS card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLTRANS",
+      "reward": "Trans avatar, Trans card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLGQ",
+      "reward": "GQ avatar, GQ card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLNB",
+      "reward": "NB avatar, NB card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLWLW",
+      "reward": "WLW avatar, WLW card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLMLM",
+      "reward": "MLM avatar, MLM card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COLPAN",
+      "reward": "Pan avatar, Pan card back",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

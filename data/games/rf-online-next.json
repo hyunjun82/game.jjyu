@@ -1,0 +1,33 @@
+{
+  "slug": "rf-online-next",
+  "titleEn": "RF Online Next",
+  "titleKo": null,
+  "sourcePath": "/rf-online-next/codes/",
+  "updatedAt": "2026-08-31T00:24:40.850Z",
+  "codes": [
+    {
+      "code": "PDXIDN1",
+      "reward": "PD Hong X Indonesia Broadcast Reward 1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PDXIDN2",
+      "reward": "PD Hong X Indonesia Broadcast Reward 2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PDXIDN3",
+      "reward": "PD Hong X Indonesia Broadcast Reward 3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

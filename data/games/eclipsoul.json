@@ -1,0 +1,241 @@
+{
+  "slug": "eclipsoul",
+  "titleEn": "Eclipsoul",
+  "titleKo": null,
+  "sourcePath": "/eclipsoul/codes/",
+  "updatedAt": "2026-08-31T00:24:25.093Z",
+  "codes": [
+    {
+      "code": "EclipsoulOpen",
+      "reward": "100 Diamonds, 3 Ordinary Recruit Tokens, 60 Random 4-Star SR Hero Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DCEclipsoul",
+      "reward": "100 Diamonds, 3 Ordinary Recruit Tokens, 3 1H Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IceCream",
+      "reward": "Expires August 01st",
+      "expiry": "2027-08-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HeroFather",
+      "reward": "Expires July 04th",
+      "expiry": "2027-07-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonBoat",
+      "reward": "Expires June 25th",
+      "expiry": "2027-06-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KidsAdventure",
+      "reward": "Expires June 20th",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SunnyStart",
+      "reward": "Expires June 13th",
+      "expiry": "2027-06-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HPChildren",
+      "reward": "Expires June 07th",
+      "expiry": "2027-06-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RoseSeason",
+      "reward": "Expires May 30th",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HeatApproach",
+      "reward": "Expires May 23rd",
+      "expiry": "2027-05-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpecialDay",
+      "reward": "Expires May 16th",
+      "expiry": "2027-05-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GraceMomDay",
+      "reward": "Expires May 16th",
+      "expiry": "2027-05-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "InfinitePower",
+      "reward": "Expires May 09th",
+      "expiry": "2027-05-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MayLabor",
+      "reward": "Expires May 07th",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BloomApril",
+      "reward": "Expires April 25th",
+      "expiry": "2027-04-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpringJoy",
+      "reward": "Expires April 18th",
+      "expiry": "2027-04-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LunaEaster",
+      "reward": "expires April 11th",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AprilFools",
+      "reward": "expires April 7th",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GrassnFlower",
+      "reward": "expires March 28th",
+      "expiry": "2027-03-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LanternDay",
+      "reward": "rewards (expires March 09th)",
+      "expiry": "2027-03-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WomenPower",
+      "reward": "rewards (expires March 14th)",
+      "expiry": "2027-03-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ValentineDay",
+      "reward": "rewards (expires February 20th)",
+      "expiry": "2027-02-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025End",
+      "reward": "expires January 6th",
+      "expiry": "2027-01-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2026Start",
+      "reward": "expires January 6th",
+      "expiry": "2027-01-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XmasEve25",
+      "reward": "expires December 30th",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "25Christmas",
+      "reward": "expires December 30th",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SolsticeNight",
+      "reward": "rewards (expires December 13th)",
+      "expiry": "2026-12-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ThanksGiving",
+      "reward": "Expires December 3rd",
+      "expiry": "2026-12-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AutumnLight",
+      "reward": "150 Diamonds, 3 1H Breakthrough Potions",
+      "expiry": "2026-10-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

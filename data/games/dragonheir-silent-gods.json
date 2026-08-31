@@ -1,0 +1,33 @@
+{
+  "slug": "dragonheir-silent-gods",
+  "titleEn": "Dragonheir",
+  "titleKo": null,
+  "sourcePath": "/dragonheir-silent-gods/codes/",
+  "updatedAt": "2026-08-31T00:24:24.137Z",
+  "codes": [
+    {
+      "code": "DRAGONDC200K",
+      "reward": "Heliolite Dice x1, Master Scroll x1 and Gold x200,000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Dragonheirs4",
+      "reward": "Heliolite Dice*1, Starlight Stone Dice*2, Gold*50000 (Expires September 21)",
+      "expiry": "2026-09-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonheirS3",
+      "reward": "Heliolite Dice *1, Starlight Stone Dice *2 and Gold *50,000 (Expires June 22)",
+      "expiry": "2027-06-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

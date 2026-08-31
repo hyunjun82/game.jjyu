@@ -1,0 +1,25 @@
+{
+  "slug": "cookierun-ovensmash",
+  "titleEn": "Cookie Run: OvenSmash",
+  "titleKo": null,
+  "sourcePath": "/cookierun-ovensmash/codes/",
+  "updatedAt": "2026-08-31T00:24:22.537Z",
+  "codes": [
+    {
+      "code": "OVENSMASHLIVE0407",
+      "reward": "3,000 Crystals, 3,000 Rainbow Credits",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOME2OVENSMASH",
+      "reward": "1000 Crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

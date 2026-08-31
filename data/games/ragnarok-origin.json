@@ -1,0 +1,2953 @@
+{
+  "slug": "ragnarok-origin",
+  "titleEn": "Ragnarok Origin",
+  "titleKo": null,
+  "sourcePath": "/ragnarok-origin/codes/",
+  "updatedAt": "2026-08-31T00:24:38.929Z",
+  "codes": [
+    {
+      "code": "ROOSELFIE",
+      "reward": "2 x LE Gacha Ticket, 2 x Firework Material Opt. Pack, 2 x Anniversary Gacha",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYBDAYROO",
+      "reward": "200 x Diamond, 1,000 Zeny, 100,000 Eden Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO1YEARANNIV",
+      "reward": "2 x Type-D Module Box, 2 x Flawed Sigil Crystal, 2 x Light-Dark Opt. Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO1STAPRIL",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSUCIKANHATI",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOANNIVERSARY",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOFIREWORKSGALA",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOFREEPORT",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOEASTERDAY",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODORAMCRUSH",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOESAVETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLYNNRIDERTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CORAZONTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIDATOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LALALALATOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYONETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHIVASTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIESETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JE69TOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STABZEROTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NINJAMOVEZTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HYPERFLYTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ILIIIIILIILLTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MITTWAIDAZTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TAYNAJATOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PEPEROTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RAEVUSTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GREATGTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOLOLZTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARANEATOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARIRINTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MICMOUSETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRAGONXSTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XATUTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MANAXS888TOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BARBIETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MELANOPHILETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PYMPII999TOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALLZTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EDDIESTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AXEZDTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUNAERITHTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLUEOCEANTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MALINGERTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASRLPHINETOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZIOMTOPCONQUEROR",
+      "reward": "20 x Starry Mora Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XDEVILINGTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XANGELINGTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CERVELOTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNOWFAYPTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JEANG0TOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARUDISTWTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOOME0WWOOFTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEED00TOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MILOTOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROSEWINETOPCONQUEROR",
+      "reward": "10 x Super Cookie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUNSHINETOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BENCILTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TIKITOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YANRONGTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KENBOOTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TAKATOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KCBNXTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CODOCKTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UFOTABLETOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CINHANTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MILETOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EZEKIELTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LASVEGASTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KOODOKTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LORDAEMONTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FEURUTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NICHITOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WAGONTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RATUTOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AMEETOPCONQUEROR",
+      "reward": "1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPOWERUP",
+      "reward": "1 x Gacha Ticket, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODORAMJOURNEY",
+      "reward": "1 x Gacha Ticket, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPENUHBERKAH",
+      "reward": "1 x Gacha Ticket, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODORAMTOUR",
+      "reward": "1 x Gacha Ticket, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMISSYOU",
+      "reward": "1 x Gacha Ticket, 1 x Super Pet Coupon, 1 x Rare Card Coupont",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHOVA1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TARANOS1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PERMENCOOL1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEMONARU1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DYLANDPROS1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PIGLET1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KEYSHEVA1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BUBBLESINZ1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BOMBOMCAR1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CARSTEN1STCONQUEROR",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ONLY1DAYLEFT",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DORAMKINGDOM",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOLEVEL70UPROO",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STILL2DAYS",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSETSAIL",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3DAYSCOUNTDOWN",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "0321SETSAIL",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOJOYFULROO",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROORAMADANMUBARAK",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWDUNGEONCOMING",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMALANGDO",
+      "reward": "1 x Super Pet Coupon, 1 x Gym Pass, 20 x Skip Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEOW666",
+      "reward": "20 x Pet Coupon, 250 Diamond",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEOW888",
+      "reward": "20 x Pet Coupon, 250 Diamond",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEOW999",
+      "reward": "20 x Pet Coupon, 250 Diamond",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOLASAGNA",
+      "reward": "1 x Gacha ticker, 1 x Speedy Candy, 1 x Luck Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWSERVERLASAGNA",
+      "reward": "1 x LE Pet Coupon, 500k Eden Coins, 1 x Luck Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOOBT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBLISSFUL",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGIFTCODE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOFANTASTIC",
+      "reward": "1 x Gacha Ticket, 3 x Deviruchi Ticket, 3 x Blue Berry",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOTOP",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO2024",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOVIVA",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBEGINS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODC50KMEMBERS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODC100KMEMBERS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSHIPWRECK",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOIZLUDE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOCOMINGSOON",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOALBERTA",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMORROC",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODCSURPRISE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODCBONUSGIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WOMENSDAY2024",
+      "reward": "1 x LE Pet Coupon, 1 x Speedy Candy, 1 x Luck Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMIOMEOW",
+      "reward": "1 x LE Pet Coupon, 1 x Speedy Candy, 1 x Luck Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GLORYOFPATH",
+      "reward": "2 x Super Pet Coupon, 100 Diamond, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWCLASSMEOW",
+      "reward": "1 x Gacha Ticket, 1 x Lucky Candy, 200,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODORAMCALL",
+      "reward": "1 x Gacha Ticket, 1 x Bloody Branch, 1 x Dead Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEW3RDPROFESSION",
+      "reward": "1 x Rare Card Coupon, 2 x Gacha Ticket, 100 x Diamond",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOKASIHSAYANG",
+      "reward": "1 x Supet Pet Coupon, 1 x Speedy Candy, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOKASMARAN",
+      "reward": "1 x Gacha Ticket, 5 x Skip Ticket, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMEOWMEOW",
+      "reward": "1 x LE Pet Coupon, 20 x Skip Ticket, 10 x Spirit Dew",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DORAMKINGDOMCG",
+      "reward": "3 x Super Pet Coupon, 3 x Card Coupon, 3 x Gacha Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOODINCUPS2",
+      "reward": "1 x Rare Card Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGLIMMER",
+      "reward": "1 x Rare Card Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOLANTERNFEST",
+      "reward": "1 x Rare Card Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWISHINGTREE",
+      "reward": "1 x Random Rare Sigil Gift Box, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSTARFALL",
+      "reward": "1 x Random Rare Sigil Gift Box, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOTWILIGHT",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOEMPOWER",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOVALENTINE",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOVALENTINES",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSINGINGCHILD",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRESIDENT",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSPRINGFEST",
+      "reward": "1 x Gacha Ticket, 200,000 Eden Coin, 3,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOFEARLESS",
+      "reward": "100 Diamond, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPENUHCINTA",
+      "reward": "100 Diamond, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWEDCHEERUP",
+      "reward": "1 x Super Pet Coupon, 20 x Skip Ticket, 1 x Gym Pass",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEWSERVER",
+      "reward": "1 x Super Pet Coupon, 20 x Skip Ticket, 1 x Gym Pass",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSOULSHARD",
+      "reward": "1 x Super Pet Coupon, 20 x Skip Ticket, 1 x Gym Pass",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEBULAEIGHTY",
+      "reward": "1 x Super Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBEAUTIFULMONDAY",
+      "reward": "1 x Super Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOTOCS3COMING",
+      "reward": "1 x Super Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOCOMODO",
+      "reward": "5 x Summer Shell, 3 x Speedy Candy, 3 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMARVELOUS",
+      "reward": "5 x Summer Shell, 3 x Speedy Candy, 3 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ANGEL",
+      "reward": "15x Mysterious Cogwheel Gacha",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEVIL",
+      "reward": "15,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOLLY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSENINSUKACITA",
+      "reward": "100 x Diamond, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSENINMANIS",
+      "reward": "50 x Skip Ticket, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ATLANTISCOMING",
+      "reward": "50 x Skip Ticket, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOZEPHYR",
+      "reward": "50 x Skip Ticket, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPRIMAL",
+      "reward": "1 x Gacha Ticket, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWHEELTALOS",
+      "reward": "1 x Super Pet Coupon, 200,000 Eden Coin, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPERMAFROST",
+      "reward": "3 x Numba Wan Ticket (Refining), 200,000 Eden Coin, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGARM",
+      "reward": "1 x Gacha Ticket, 1 x Pet Coupon, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONUMBAWAN",
+      "reward": "1 x Gacha Ticket, 1 x Pet Coupon, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWINDSTORM",
+      "reward": "1 x Gacha Ticket, 1 x Pet Coupon, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEXUSENGINE",
+      "reward": "2 x Booty Key, 1 x Super Pet Coupon, 300,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMAPCOMODO",
+      "reward": "1 x Booty Key, 1 x Super Pet Coupon, 2,024 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEBULAPATH",
+      "reward": "2 x Gacha Ticket, 2 x Speedy Candy, 2 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEWYEAR2024",
+      "reward": "888 x Diamond, 20,242,024 Eden Coin, 2,024 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWELCOME2024",
+      "reward": "10 x Celebration Firework, 1 x Ronopoly Toy Box",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGUILLOTINE",
+      "reward": "100 x Diamond, 1 x LE Pet Coupon, 1 x Super Pet Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOCOUNTDOWN2023",
+      "reward": "3 x Ronopoly Dice, 1 x Super Lucky Candy, 1 x LE Pet Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMECHANIC",
+      "reward": "1 x LE Pet Coupon, 2 x Speedy Candy, 2 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOXMAS2023",
+      "reward": "100 x Diamond, 2 x Super Pet Coupon, 100 x Snow Dust",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNOWBALLSINROO",
+      "reward": "2 x Speedy Candy, 1 x Super Pet Coupon, 50 x Snow Dust",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOXMASEVE2023",
+      "reward": "2 x Dice, 2 x LE Pet Coupon, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROORUNEKNIGHT",
+      "reward": "x LE Pet Coupon, 1 x Rare Card Album, 1 x Snow Dust",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHRISTMASELKCOIN",
+      "reward": "5,000,000 Reindeer Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWEVENTRONOPOLY",
+      "reward": "1 x Gacha Ticket, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROORANGER",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 2 x Wild Kiwi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGENESIS",
+      "reward": "1 x Limited-Time Pet Coupon, 1 x Speedy Candy, 1,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWWISHINGCOMING",
+      "reward": "1 x Super Pet Coupon, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FREEDOMOFCHOICE",
+      "reward": "10 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOARCHBISHOP",
+      "reward": "1 x Limited-Time Pet Coupon, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWARLOCK",
+      "reward": "1 x Super Pet Coupon, 1 x Speedy Candy, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDIDBOSS",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDTHBOSS",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDPHBOSS",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOCRAFTAIRSHIP",
+      "reward": "1 x Limited-Time Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONEMESIS",
+      "reward": "1 x Limited-Time Pet Coupon, 3 x Wild Kiwi, 1,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOAWAKENING",
+      "reward": "1 x Limited-Time Pet Coupon, 1 x Purple Star Coin, 1 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WISHESCOMETRUE",
+      "reward": "1 x Limited-Time Pet Coupon, 1 x Pet Coupon, 1 x Wild Kiwi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBONI30PH",
+      "reward": "1 x Super Pet Coupon, 1 x Gacha Ticket, 5 x Poring Medal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GHOSTRINGSORRY",
+      "reward": "1 x War Badge",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDTHPRE",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDIDPRE",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDPHPRE",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HONORABLEMENTION",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3RDJOBISTODAY1129",
+      "reward": "1 x Super Pet Coupon, 1 x 3-Star Optional Dish Pack, 1 x 3-Star Optional Potion Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOLOKI",
+      "reward": "Super Pet Coupon x1, Purple Star Coin x2, Blue Star Coin x2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOLOYKRATHONG",
+      "reward": "1 x Super Pet Coupon, 1 x Gacha Ticket, 3 x Poring Medal",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RISETHORCUPCHAMPION",
+      "reward": "2 x Super Pet Coupon, 2 x Gacha Tickets, 2 x Card Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "888LIVEROOTHORCUP",
+      "reward": "1 x Blessed Weapon Ore, 1 x Blessed Armor Ore, 1 x Blessed Accessory Ore",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVEROO88868THORCUP",
+      "reward": "1 x Super Pet Coupon, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Card Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVE888ROOTHORCUP",
+      "reward": "3 x Dead Branch, 3 x Bloody Branch, 2 x Lucky Candy, 2 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVEROOTHORCUP888",
+      "reward": "10 x Oridecon, 10 x Elunium, 3 x Enriched Oridecon, 3 x Enriched Elunium",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVEROOTHORCUP1125",
+      "reward": "30 x Mora Coin, 30 x Starry Mora Coin, 1 x Advanced Binding Stone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THORCUPCHAMPION",
+      "reward": "500 x Diamond, 3 x Rare Card Coupon, 4 x Refining & Enchanting Pack II",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1125LIVEROOTHORCUP",
+      "reward": "1,000 x Zeny, 100 x Diamond, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEALIVE8881125",
+      "reward": "1 x [ATK] Time Tier 1, 1 x [ATK] Space Tier 1, 1 x [DEF] Nature Tier, 1 x [DEF] Divine Tier, 1,000,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "888THORCUP1124",
+      "reward": "1 x [ATK] Day Tier, 1 x [DEF] Night Tier",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1124LIVE888ROO",
+      "reward": "1 x Super Pet Coupon, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Card Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1124LIVEROOTHORCUP",
+      "reward": "200 x Wager Coin, 2 x Card Coupon, 2 x Super Pet Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1124SEAROO888",
+      "reward": "30 x Mora Coin, 30 x Starry Mora Coin, 1 x Advanced Binding Stone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1124THORCUP888",
+      "reward": "1,000 x Zeny, 100 x Diamond, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVEROO888THORCUP",
+      "reward": "1 x Blessed Weapon Ore, 1 x Blessed Armor Ore, 1 x Blessed Accessory Ore",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEAROO1124THORCUP",
+      "reward": "3 x Dead Branch, 3 x Bloody Branch, 2 x Lucky Candy, 2 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THORCUP1124888",
+      "reward": "30 x Malangdo Droplet, 20 x Malangdo Snowflake, 20 x Malangdo Seed",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TURKEYFEAST",
+      "reward": "some freebies",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LOVEFROMMIO",
+      "reward": "1 x Super Pet Coupon, 3 x Gacha Ticket, 1 x Rare Card Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THORCUPLIVESTART",
+      "reward": "1,000 x Zeny, 100 x Diamond, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122THORCUP",
+      "reward": "30 x Mora Coin, 30 x Starry Mora Coin, 1 x Advanced Binding Stone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122THORCUPSEA",
+      "reward": "1 x Blessed Weapon Ore, 1 x Blessed Armor Ore, 1 x Blessed Accessory Ore",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122THORCUP888",
+      "reward": "888 x Wager Coin, 388 x Diamond, 1 x Eden Pouch (L), 3 x Super Pet Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122SEAROO",
+      "reward": "some freebies",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122SEA888",
+      "reward": "some freebies",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122SEALIVE",
+      "reward": "some freebies",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1122SEALIVE888",
+      "reward": "1 x Super Pet Coupon, 1 x Deviruchi Voucher, 1 x Card Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO3RDJOBCOMING",
+      "reward": "some freebies",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSENINBAHAGIA",
+      "reward": "1 x Gacha Ticket, 50 x Diamond, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGLORY2023",
+      "reward": "1 x Gacha Ticket, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHIAMMAII",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHPOP",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHZICKARR",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHFAZE",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHMINORU",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHOPPA",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHAKITA",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHTHORCUPWITHBEWZ",
+      "reward": "1 x Gacha Ticket, 1 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOCATPAW",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FLYINGLANTERNS",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOALDEBARAN",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOLANTERNS",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHARIPAHLAWAN",
+      "reward": "1 x Pet Coupon, 1 x Oridecon, 1 x Elunium",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWEVENTCOMING",
+      "reward": "1 x Pet Coupon, 1 x Oridecon, 1 x Elunium",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMOONLIT",
+      "reward": "1 x Gacha Ticket, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOTHOR",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWMAPALDEBARAN",
+      "reward": "1 x Halloween Pouch (2023) + 1 x Super Pet Coupon + 1,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEENPARTYNIGHT",
+      "reward": "1 x Halloween Pouch (2023) + 1 x Super Pet Coupon + 3 x Wild Kiwi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FBEN100KFANS",
+      "reward": "1 x Gacha Ticket + 3 x Wild Kiwi + 3 x Deviruchi Voucher",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUPTRIPKENBOO",
+      "reward": "1 x Halloween Pouch (2023) + 1 x Super Pet Coupon + 1,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOTRICKORTREAT",
+      "reward": "1 x Halloween Pouch (2023) + 1 x Super Pet Coupon + 1,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OPPAODINCUPTRIP",
+      "reward": "3 x Gacha Ticket, 3 x Deviruchi&rsquo;s Treasure Map, 1 x Super Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGHOSTRING",
+      "reward": "1 x Gacha Ticket + 3 x Wild Kiwi + 1,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THBRAINTRUST6",
+      "reward": "1 x Pet Coupon + 1 x Dead Branch + 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHALLOWEENING",
+      "reward": "1 x Halloween Pouch (2023), 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THBRAINTRUST",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBAPHOMET",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUPCHAMPIONRISE",
+      "reward": "500 x Diamond, 3 x Rare Card Coupon, 4 x Refining & Enchanting Pack II",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEGENDSODINCUPCHAMPION",
+      "reward": "some freebies like Diamonds, Armor Ore, Rep Box, & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEGENDSTOP4FIGHTING",
+      "reward": "some freebies like Diamonds, Armor Ore, Rep Box, & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOP4ALTF4FIGHTING",
+      "reward": "some freebies like Diamonds, Armor Ore, Rep Box, & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOMEFIGHTTOP4",
+      "reward": "some freebies like Diamonds, Armor Ore, Rep Box, & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOP4RISEKEEPFIGHTING",
+      "reward": "some freebies like Diamonds, Armor Ore, Rep Box, & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUPDISCORDGIFT",
+      "reward": "some freebies like Diamonds, Armor Ore, Rep Box, & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSPOOKY",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOONLITARENA5V5",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPAYERMAXGIFT",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSENINBERKAH",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHAUNTED",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWHISPER",
+      "reward": "Coupons, Candies, Berries & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSENINCERIA",
+      "reward": "Coupons, Candies, Berries & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOFLORALELF",
+      "reward": "Coupons, Candies, Berries & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOOGLESWITCH",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHODINCUPWITHKENBOO",
+      "reward": "Coupons, Candies, Berries & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WATCHODINCUPWITHOPPA",
+      "reward": "Coupons, Candies, Berries & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMOONLIGHT",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODEVILING",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHALFANNIV",
+      "reward": "1 x Gacha Ticket, 1 x Card Coupon, 3 x Mysterious Re-stock Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HALFYEAR1006",
+      "reward": "1 x Eden Pouch (L), 1 x Lucky Candy, 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHALFYEAR",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHOWL2023",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMEMORIA",
+      "reward": "100 x Diamonds, 1 x Super Pet Coupon, 1 x Lucky Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MYYOUTHISROO",
+      "reward": "1 x Gacha Ticket, 3 x Deviruchi Voucher, 3 x Wild Kiwi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSTARLIGHT",
+      "reward": "10 x Sweet Rice Wrapper + 5 x Random Secret Recipe Pack + 10 x Read Bean",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUP333",
+      "reward": "666 x Wager Token + 3 x Lucky Candy + 3 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "666SEAOC10K",
+      "reward": "2 x Pet Coupon + 6 x Pet Training Diary I + 6 x Pet Training Diary II",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "924ODINCUPTOP8",
+      "reward": "1 x Super Pet Coupon + 1 x Optional Dish Pack + 1 x Optional Potion Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOP8ODINCUP",
+      "reward": "some freebis",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBESTWISH",
+      "reward": "some freebis",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "666ODINCUP",
+      "reward": "some freebis",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEAOC10K666",
+      "reward": "some freebis",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ILOVEROGUESAGE",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CRYINGSPRAKKI",
+      "reward": "5 x Booty Key",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPIRITOFROO",
+      "reward": "1 x Gacha Ticket, 3 x Deviruchi Voucher, 3 x Wild Kiwi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUPLIVENOW",
+      "reward": "1 x Super Pet Coupon, 2 x Dead Branch, 2 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUP2023TOP16",
+      "reward": "666 x Wager Token, 3 x Lucky Candy, 3 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "0917ROOSEAOC",
+      "reward": "1 x Super Pet Coupon, 5 x Eel Rice (Pet), 5 x Curry Rice (Pet)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUP2023",
+      "reward": "2 x Pet Coupon, 1 x Optional Dish Pack, 1 x Optional Potion Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOP16ODINCUPLIVE",
+      "reward": "666 x Wager Token, 10 x Purple Star Coin, 10 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUPLIVETOP16",
+      "reward": "1 x Super Pet Coupon, 2 x Dead Branch, 2 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSEAOC16",
+      "reward": "10 x Deviruchi Voucher, 6 x Pet Training Diary I, 6 x Pet Training Diary II",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GUILDLEAGUE",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOCLOUDYDAY",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LIVE10KVIEWS",
+      "reward": "10 x Deviruchi Voucher 6 x Pet Training Diary I 6 x Pet Training Diary II",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBLESSINGS",
+      "reward": "1 x Gacha Ticket, 3 x Deviruchi Voucher, 3 x Wild Kiwi",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STAYWITHROO",
+      "reward": "1 x Super Pet Coupon, 1 x Lucky Candy, 1 x Speedy Candy (L)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ODINCUPDELAYED",
+      "reward": "1 x Common Card Album, 1 x Tiger Cat Optional Pack (7-Day), 1 x Eden Pouch (L)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOODINCUP",
+      "reward": "1 x Gacha Ticket, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODANCERYTHM",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 x Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMY66",
+      "reward": "1 x Gacha Ticket, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOASSEMBLE",
+      "reward": "1 x Super Pet Coupon + 1 x Lucky Candy + 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOMESSENGER",
+      "reward": "1 x Super Pet Coupon + 1 x Lucky Candy + 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODREAMER",
+      "reward": "1 x Super Pet Coupon + 1 x Lucky Candy + 1 x Speedy Candy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHUTRI",
+      "reward": "125 x Diamonds, 1,250 Zeny, 125,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROODANCEBARD",
+      "reward": "Super pet coupon and other rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWITHYOU",
+      "reward": "1 x Super Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBRIGHTDAY",
+      "reward": "1 x Super Pet Coupon, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MYSTERIOUSFRIEND",
+      "reward": "1 x Tiger Cat Brothers Optional Pack (7-Days), 1 x Card Coupon, 1 x Gacha Ticket, 1 x Super Pet Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPICKYOREGGY",
+      "reward": "5 x Egg Balancing Ticket, 1 x Oridecon, 1 x Elunium",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOWONDERLAND",
+      "reward": "5 x Egg Balancing Ticket, 1 x Oridecon, 1 x Elunium",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOKENOFSIEGFRIED",
+      "reward": "5 x Token of Siegfried, 5 x Egg Balancing Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO100SHARE",
+      "reward": "200 x Nian Berry , 5 x Egg Balancing Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOJOYFUL",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PORINGJUICE",
+      "reward": "Pet Coupon x1, Dead Branch x1, Bloody Branch x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOYUMMYPOTION",
+      "reward": "1 x Pet Coupon, 1 x Oridecon, 1 x Elunium",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOALCHEMIST",
+      "reward": "50 x Diamonds, 1,000 Zeny, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGOODMOOD",
+      "reward": "Pet Coupon, 3x Deviruchi Voucher, and 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DC500KCHEERS",
+      "reward": "Unlocks: Summer Shell, an Yggdrasil Berry, and a Token of Siegfried",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOHAPPINESS",
+      "reward": "Pet Coupon x1, Super Pet Coupon x1, Zeny x2,000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROO99CELEBRATE",
+      "reward": "1 x Super Pet Coupon 1 x Dead Branch 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOGUILDWAR",
+      "reward": "Super Pet Coupon x1, Dead Branch x1, Bloody Branch x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONICEDAY",
+      "reward": "Super Pet Coupon x1, Dead Branch x1, Bloody Branch x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "REALAPOLOGIZE",
+      "reward": "Diamond x333, Super Pet Coupon x3, Gacha Ticket x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELHEIMHARD",
+      "reward": "Mysterious Re-stock Ticket x1, Lucky Candy x1, Speedy Candy x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLEASEHOLDON",
+      "reward": "Diamond x200, Eden Coin x200,000, Zeny x2,000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSUNSHINE",
+      "reward": "Super Pet Coupon x1, Dead Branch x1, Bloody Branch x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSHINYDAY",
+      "reward": "Pet Coupon x1, Deviruchi Voucher x3, Zeny x2,000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERJULY",
+      "reward": "2 x Purple Star Coin, 2 x Blue Star Coin, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYHAAJJ",
+      "reward": "1 x Super Pet Coupon, 3 x Deviruchi Voucher, 2,000 Zeny",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THBRAINTRUST4",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PLZFORGIVEUS",
+      "reward": "100 x Diamond, 1 x Super Pet Coupon, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRAKKISMILES",
+      "reward": "100 x Diamond, 1 x Super Pet Coupon, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOXAPPGALLERYXZUS",
+      "reward": "100 x Diamond, 1 x Super Pet Coupon, 100,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRAKKIWINK",
+      "reward": "2 x Purple Star Coin, 2 x Blue Star Coin, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROCKERBULLY",
+      "reward": "2 x Purple Star Coin, 2 x Blue Star Coin, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SINCEREAPOLOGY",
+      "reward": "Redeem code for 2 x Super Pet Coupon, 2 x Pet Coupon, 2 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHIPDONTSUMMERGIFT",
+      "reward": "Redeem code for 1 x Gacha Ticket, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOBIGGIFT",
+      "reward": "Redeem code for 1 x Pet Coupon, 20 x Butterfly Wing, 20 x Fly Wing, 10 x Authorization Badge",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROORAINBOW",
+      "reward": "125 x Diamond, 1,250 Zeny, 125,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOPHFREEDOM125",
+      "reward": "125 x Diamond, 1,250 Zeny, 125,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FORTUNASMILES",
+      "reward": "1 x Super Pet Coupon, 1 x Pet Coupon, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSURPRISE",
+      "reward": "1 x Super Pet Coupon, 1 x Pet Coupon, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRAKKILOOT",
+      "reward": "1 x Super Pet Coupon, 1 x Pet Coupon, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROOSPRAKKI",
+      "reward": "1 x Super Pet Coupon, 1 x Pet Coupon, 1 x Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHILDRENSDAY",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAIROO",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PEVITAROO",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GRATEFULROO",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THBRAINTRUST3",
+      "reward": "1 x Pet Coupon, 1 x Dead Branch, 1 x Bloody Branch",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROONUMBERONE",
+      "reward": "1 x Gacha Ticket, 2 x Purple Star Coin, 2 x Blue Star Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MONKFIST",
+      "reward": "1 x Super Pet Coupon, 200 x Diamond, 2,000 Zeny, 200,000 Eden Coin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYWEEKDAYS",
+      "reward": "maybe Super Pet Coupon, Gacha Tickets, Eden Coins & more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XOXO",
+      "reward": "Rewards: 3 x Gacha Lottery Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "slug": "summoners-kingdom-goddess",
+  "titleEn": "Summoners Kingdom: Goddess",
+  "titleKo": null,
+  "sourcePath": "/summoners-kingdom-goddess/codes/",
+  "updatedAt": "2026-08-31T00:24:44.745Z",
+  "codes": [
+    {
+      "code": "Fennel",
+      "reward": "Expires July 30th",
+      "expiry": "2027-07-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Eucalyptus",
+      "reward": "50 Divinity Shards, 25 Divinity Cores",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Walnut",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Onion",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Plum",
+      "reward": "rewards (expires June 11th)",
+      "expiry": "2027-06-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lily",
+      "reward": "rewards (expires June 04th)",
+      "expiry": "2027-06-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Maple",
+      "reward": "rewards (expires May 28th)",
+      "expiry": "2027-05-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Raspberry",
+      "reward": "rewards (expires May 21st)",
+      "expiry": "2027-05-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "kiwi",
+      "reward": "rewards (expires May 14th)",
+      "expiry": "2027-05-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "cranberry",
+      "reward": "rewards (expires May 7th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "blueberry",
+      "reward": "rewards (expires April 30th)",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "cinnamon",
+      "reward": "rewards (expires April 23rd)",
+      "expiry": "2027-04-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lime",
+      "reward": "rewards (expires April 16)",
+      "expiry": "2027-04-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Rosemary",
+      "reward": "rewards (expires April 09)",
+      "expiry": "2027-04-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Papaya",
+      "reward": "rewards (expires April 2nd)",
+      "expiry": "2027-04-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Peach",
+      "reward": "rewards (expires March 27th)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Lavender",
+      "reward": "rewards (expires March 20th)",
+      "expiry": "2027-03-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Jasmine",
+      "reward": "rewards (Expires January 30th)",
+      "expiry": "2027-01-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Daffodil",
+      "reward": "rewards (Expires January 23rd)",
+      "expiry": "2027-01-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Coconut",
+      "reward": "rewards (Expires January 16th)",
+      "expiry": "2027-01-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Avocado",
+      "reward": "rewards (Expires January 9th)",
+      "expiry": "2027-01-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Zebra",
+      "reward": "rewards (Expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Pelican",
+      "reward": "rewards (Expires December 24th)",
+      "expiry": "2026-12-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Octopus",
+      "reward": "rewards (Expires December 17th)",
+      "expiry": "2026-12-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Kangaroo",
+      "reward": "rewards (Expires December 10th)",
+      "expiry": "2026-12-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Clover",
+      "reward": "Expires August 13th",
+      "expiry": "2026-08-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Lotus",
+      "reward": "Expires August 06th",
+      "expiry": "2026-08-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

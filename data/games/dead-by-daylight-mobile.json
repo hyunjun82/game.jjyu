@@ -1,0 +1,65 @@
+{
+  "slug": "dead-by-daylight-mobile",
+  "titleEn": "Dead by Daylight",
+  "titleKo": null,
+  "sourcePath": "/dead-by-daylight-mobile/codes/",
+  "updatedAt": "2026-08-31T00:24:23.183Z",
+  "codes": [
+    {
+      "code": "DBDMDEVIL",
+      "reward": "Portrait (Expires October 26)",
+      "expiry": "2026-10-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QMFX4313828528",
+      "reward": "2 Sinister Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QMBM8733283903",
+      "reward": "10,000 Bloodpoints",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "INVI4183761008",
+      "reward": "20,000 Bloodpoints",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHHH",
+      "reward": "100 Iridescent Shards, 5 Bloody Party Streamers",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BOOP",
+      "reward": "Boop The Snoot Mask",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DBDMCFE",
+      "reward": "Entity's Claw (Expires August 21)",
+      "expiry": "2026-08-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

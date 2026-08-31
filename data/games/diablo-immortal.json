@@ -1,0 +1,49 @@
+{
+  "slug": "diablo-immortal",
+  "titleEn": "Diablo Immortal",
+  "titleKo": null,
+  "sourcePath": "/diablo-immortal/codes/",
+  "updatedAt": "2026-08-31T00:24:23.499Z",
+  "codes": [
+    {
+      "code": "FLESHHARVEST",
+      "reward": "3 Aquamarines, 3 Sapphires, 2 Crests, and 2 Legendary Items",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WILDNATURE",
+      "reward": "3 Rare Chests, 1 Green Set",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELLFEST2025",
+      "reward": "3 Crests, 3 Rubies, and 3 Tourmaline",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BOSSGAUNTLET",
+      "reward": "1 Mysterious Legendary Helmet, 1 Mysterious Legendary Item - Chestplate, 1 Legendary Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Note",
+      "reward": "Make sure you're logged into your Battle.net account!",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "bts-island-in-the-seom",
+  "titleEn": "BTS Island",
+  "titleKo": null,
+  "sourcePath": "/bts-island-in-the-seom/codes/",
+  "updatedAt": "2026-08-31T00:24:21.558Z",
+  "codes": [
+    {
+      "code": "30daysAnniv",
+      "reward": "30 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JACKINTHEBOX",
+      "reward": "New",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BTSISLANDWITHARMY",
+      "reward": "Rewards: 79 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PROOFSEOM",
+      "reward": "Rewards: Proof Symbol Deco",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

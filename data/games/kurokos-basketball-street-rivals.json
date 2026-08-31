@@ -1,0 +1,41 @@
+{
+  "slug": "kurokos-basketball-street-rivals",
+  "titleEn": "Kuroko's Basketball Street Rivals",
+  "titleKo": null,
+  "sourcePath": "/kurokos-basketball-street-rivals/codes/",
+  "updatedAt": "2026-08-31T00:24:31.152Z",
+  "codes": [
+    {
+      "code": "KBSR314",
+      "reward": "20 Advanced Training Manuals - expires on April 13th, 2026",
+      "expiry": "2026-04-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "KBSR313",
+      "reward": "2 Ability Vouchers, 100 Ability Materials - expires on April 12th, 2026",
+      "expiry": "2026-04-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "KBSR312",
+      "reward": "2 Wish Gacha Coupons, 10 Training Manuals - expires on April 11th, 2026",
+      "expiry": "2026-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "KBSRLAUNCH311",
+      "reward": "1 Miraculous Treasure Coupon, 100 Diamonds, 200 Gold - expires on April 10th, 2026",
+      "expiry": "2026-04-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

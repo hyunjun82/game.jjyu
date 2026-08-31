@@ -1,0 +1,17 @@
+{
+  "slug": "kingshot",
+  "titleEn": "Kingshot",
+  "titleKo": null,
+  "sourcePath": "/kingshot/codes/",
+  "updatedAt": "2026-08-31T00:24:31.152Z",
+  "codes": [
+    {
+      "code": "THXMOM",
+      "reward": "4x 1h General Speedup, 10x 1k Stone, 50x 1k Bread, 5x 1k Iron, 50x 1k Wood, 2x 10,000 Hero XP, 6x 100 Gems",
+      "expiry": "2027-05-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

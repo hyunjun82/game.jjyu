@@ -1,0 +1,81 @@
+{
+  "slug": "warhammer-40-000-lost-crusade",
+  "titleEn": "Warhammer 40,000 Lost Crusade",
+  "titleKo": null,
+  "sourcePath": "/warhammer-40-000-lost-crusade/codes/",
+  "updatedAt": "2026-08-31T00:24:50.397Z",
+  "codes": [
+    {
+      "code": "DeVilsLC",
+      "reward": "Rewards:Crystal Pack, 2x Blackstone Shards, 5x 10K Fuel, Metal, Adamantium, Plasma Supply Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LC40kBrush",
+      "reward": "Rewards: Crystal Pack, 2x Blackstone Shards, 5x 10K Fuel, Metal, Adamantium, Plasma Supply Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LCEh0t",
+      "reward": "Rewards: Crystal Pack, 2x Blackstone Shards, 5x 10K Fuel, Metal, Adamantium, Plasma Supply Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ABADCBBC",
+      "reward": "Rewards:3x Crystal Pack, 2x +50% Marching Speed, 10x Hero EXP Card, 8x Custom Supply Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DBGCrusade",
+      "reward": "Rewards: 200x Crystals, 5x 10k Fuel Supply Packs, 5x 10k Metal Supply Packs, 5x 10k Adamantium Supply Pack, 5x 10k Plasma Supply Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LCRicardo",
+      "reward": "Rewards: 200x Crystals, 5x 10k Fuel Supply Packs, 5x 10k Metal Supply Packs, 5x 10k Adamantium Supply Pack, 5x 10k Plasma Supply Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAJORKILLXLC",
+      "reward": "Rewards: 100x Crystals, 8x 1k Hero EXP Cards, 2x 8h Bonus Crates, 5x 10k Custom Supply Packs, 2x Random Warp Jump",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Skulls",
+      "reward": "Rewards: 100x Crystals, 1x Random Warp Jump, 2x +25% Marching Speed, 5x Custom Supply Pack 10,000",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOACTION63",
+      "reward": "Rewards: 100x Crystals, 3x Stamina Potions, 5x Fuel Supply Pack 10k, 5x Metal Supply Pack 10k, 5x Adamantium Supply Pack 10k, 5x Plasma Supply Pack 10k",
+      "expiry": "2027-06-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

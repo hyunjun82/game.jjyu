@@ -1,0 +1,65 @@
+{
+  "slug": "last-asylum-plague",
+  "titleEn": "Last Asylum: Plague",
+  "titleKo": null,
+  "sourcePath": "/last-asylum-plague/codes/",
+  "updatedAt": "2026-08-31T00:24:31.485Z",
+  "codes": [
+    {
+      "code": "LAEGG26",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LA1OW9F7X",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LA26FOOL",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LAPGPOFF",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LADCEX1223",
+      "reward": "100 Diamonds x1, 5m Speedup x12, 5k grain x3, 5k Timber x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LAiOSLA",
+      "reward": "100 Diamonds x1, 5m Speedup x 10, 1ok grain x1, 10k Timber x1, 6k herbs x1, Survivor Recruit Ticket x2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LAVD26",
+      "reward": "100 Diamonds, 5m Speedup x12, 5k Grin x3, 5k Timber x3",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

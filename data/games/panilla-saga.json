@@ -1,0 +1,201 @@
+{
+  "slug": "panilla-saga",
+  "titleEn": "Panilla Saga",
+  "titleKo": null,
+  "sourcePath": "/panilla-saga/codes/",
+  "updatedAt": "2026-08-31T00:24:37.608Z",
+  "codes": [
+    {
+      "code": "PANI1YEAR",
+      "reward": "1st Anniversary gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LOVELAND",
+      "reward": "Tome of Truth x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TW111",
+      "reward": "Get100 Diamonds, one Gold Summon Voucher, and 50 common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FB777",
+      "reward": "100 Diamonds, six hours of AFK XP rewards, and 60 Silver Hero Card pieces",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SAGA777",
+      "reward": "200 Diamonds, 77,000 coins, and 60 Silver Hero Card pieces",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DC888",
+      "reward": "100 Diamonds, 100 Elemental Magestones, two Gold Summon Vouchers, and one Gold Summon Voucher",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PANI2ND",
+      "reward": "Second anniversary (expires November 15th)",
+      "expiry": "2026-11-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Turpin2023",
+      "reward": "300 gems (Expires September 15)",
+      "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Y2023AR",
+      "reward": "100 Diamonds, 100 Elemental Magestones, and 100 Common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "xmas2022",
+      "reward": "Use this code for exclusive in-game rewards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DREW22",
+      "reward": "100 Diamonds, 100 Elemental Magestone, and 1 Gold Summon Voucher",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MMOBYTE",
+      "reward": "100 Diamonds, 6 hours of AFK coin reward, and 1 Gold Summon Voucher",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KASHMAN",
+      "reward": "100 Diamonds, one Gold Summon Voucher, and 50 common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PANILLASAGA",
+      "reward": "200 Diamonds, six hours of AFK XP rewards, six hours of AFK coin rewards, 100 Elemental Magestones, and 100 Common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOINPANILLA",
+      "reward": "200 Diamonds, 100,000 Coins, 300 Elemental Magestones, and 120 Silver Hero Card pieces",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OPENCARNIVAL",
+      "reward": "50 Diamonds, six hours of AFK XP rewards, and 20 common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HEROASSEMBLE",
+      "reward": "50 Diamonds, 50 elemental Magestones, and 50 Spiritual Memory",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PANINIWEEK",
+      "reward": "200 Diamonds, 100 Spiritual Memory, and 100 Common Obsidian.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FairGame",
+      "reward": "200 Diamonds, 100 Elemental Magestones, and 100 Common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OneMonth",
+      "reward": "2 Golden Summon Vouchers and 50 Common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PANINIIDOL",
+      "reward": "50 Diamonds, 250k Coins, 100 Common Obsidian, and 50 Elemental Magestones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GRANDOPENING",
+      "reward": "50 Diamonds, 50 Elemental Magestones, and 50 Common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKSGIVING",
+      "reward": "Earn two Gold Summon Vouchers and 50 common Obsidian",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEEN",
+      "reward": "This code has expired. You could get 200 Diamonds, one Crystal Summon Voucher, and 50 Elemental Magestones.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

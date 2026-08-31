@@ -1,0 +1,17 @@
+{
+  "slug": "obsidian-knight-rpg",
+  "titleEn": "Obsidian Knight",
+  "titleKo": null,
+  "sourcePath": "/obsidian-knight-rpg/codes/",
+  "updatedAt": "2026-08-31T00:24:36.338Z",
+  "codes": [
+    {
+      "code": "DUNGEON2025",
+      "reward": "1000 Gold,120 Obsidian Orbs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

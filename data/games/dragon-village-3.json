@@ -1,0 +1,33 @@
+{
+  "slug": "dragon-village-3",
+  "titleEn": "Dragon Village 3",
+  "titleKo": null,
+  "sourcePath": "/dragon-village-3/codes/",
+  "updatedAt": "2026-08-31T00:24:24.137Z",
+  "codes": [
+    {
+      "code": "DRAGON77",
+      "reward": "600 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STLEYDV3",
+      "reward": "300 Diamonds, 3 Fatigue Potions (7 Day)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DV3COSER",
+      "reward": "300 Diamonds, 3 Uncommon Draw Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

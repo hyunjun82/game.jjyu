@@ -1,0 +1,1065 @@
+{
+  "slug": "call-of-antia",
+  "titleEn": "Call of Antia",
+  "titleKo": null,
+  "sourcePath": "/call-of-antia/codes/",
+  "updatedAt": "2026-08-31T00:24:21.558Z",
+  "codes": [
+    {
+      "code": "MoonPhase",
+      "reward": "rewards (Expires July 24th)",
+      "expiry": "2027-07-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Checkmate",
+      "reward": "rewards (expires July 10th)",
+      "expiry": "2027-07-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BOOMBOOM",
+      "reward": "rewards (expires June 26th)",
+      "expiry": "2027-06-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TheFlameCalls",
+      "reward": "rewards (expires June 19th)",
+      "expiry": "2027-06-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BoneMask",
+      "reward": "rewards (expires June 12th)",
+      "expiry": "2027-06-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FridayLoot",
+      "reward": "rewards (expires June 05th)",
+      "expiry": "2027-06-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FinalNote",
+      "reward": "rewards (expires May 29th)",
+      "expiry": "2027-05-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ElementalSummon",
+      "reward": "rewards (expires May 22nd)",
+      "expiry": "2027-05-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RebelBlood",
+      "reward": "rewards (expires May 15th)",
+      "expiry": "2027-05-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MayBloom",
+      "reward": "rewards (expires May 08th)",
+      "expiry": "2027-05-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PureHymn",
+      "reward": "rewards (expires May 01st)",
+      "expiry": "2027-05-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WeekendBoost",
+      "reward": "rewards (expires April 24th)",
+      "expiry": "2027-04-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SecretWeaver",
+      "reward": "rewards (expires April 17th)",
+      "expiry": "2027-04-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpringTime",
+      "reward": "rewards (expires April 10th)",
+      "expiry": "2027-04-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ChronoRemix",
+      "reward": "rewards (expires April 06th)",
+      "expiry": "2027-04-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AntiaAwakens",
+      "reward": "rewards (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CrimsonShot",
+      "reward": "rewards (expires March 23rd)",
+      "expiry": "2027-03-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HERPOWER",
+      "reward": "rewards (expires March 16th)",
+      "expiry": "2027-03-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IRONHOOVES",
+      "reward": "rewards (expires March 9th)",
+      "expiry": "2027-03-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HiddenGift",
+      "reward": "rewards (expires March 2nd)",
+      "expiry": "2027-03-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AbyssKing",
+      "reward": "100 Gems, 50,000 Gold & 50,000 EXP Potions",
+      "expiry": "2027-02-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DarkForce",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-02-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonBorn",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-02-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BRAVETHECOLD",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-02-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TENCHU",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-01-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MistyRuins",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-01-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NewDawn",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-01-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HolidayGift",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2027-01-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WinterMight",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2026-12-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "STEPINTO5",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2026-12-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Antia4Fun",
+      "reward": "200 Gems, 100,000 Gold & 100,000 EXP Potions",
+      "expiry": "2026-12-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FeastOfThanks",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-12-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RoseReaper",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-12-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WeekendGift",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HelloPuppet",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Halloween25",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HellFire",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OctoberGift",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SmileAntia",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HolyLight",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonBlessing",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DeathDeal",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DoomLight",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AntiaAcademy",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AntiaMagic",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FrostQueen",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-07-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RoyalThanks",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-07-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonPrince",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-07-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DestinyCalls",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-07-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DevourNom",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpookyFriday",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-06-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JadeMystery",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-06-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SparkofHope",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-06-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LavaPower",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-06-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LegendRise",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-05-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HeroHeart",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-05-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TheValkyrie",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-05-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ColorsOfAntia",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-04-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TheAlchemist",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-04-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RiseAndFight",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions ScaleofSand - 50 Gems, 20,000 Gold & 20,000 EXP Potions (valid until April 7th)",
+      "expiry": "2027-04-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonHeart",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-03-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TheViolinist",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-03-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WomenPower",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-03-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SniperElf",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-03-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonsGift",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-03-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TrueBond",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-02-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AntiaZen",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-02-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IdrithSeer",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-02-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LuckyNewYear",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-02-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QueenMother",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-01-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FridayFun",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-01-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Happy2025",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-01-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XmasCheer",
+      "reward": "100 Gems, 50,000 Gold & 50,000 EXP Potions",
+      "expiry": "2027-01-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PhantomArtist",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-12-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Happy3rd",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-12-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WithLove",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-12-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SaintGrusha",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-12-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AntiaWins",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonMaster",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EnergyBoost",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PureHeart",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-11-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BestHero",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DreamyBubble",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AnimalLove",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Darklight",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-10-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AntiaGratitude",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BloodyMaria",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BacktoSchool",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Unrivaled",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LunaPower",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-09-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ShadowLucca",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RobotMaid",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2027-07-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BloodyParty",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2027-07-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Masterpiece",
+      "reward": "20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2027-06-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZPower",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions (Expires on June 3)",
+      "expiry": "2027-06-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MothersDay2024",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions (Expires on May 20)",
+      "expiry": "2027-05-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AruntileryFire",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions (Expires on May 6)",
+      "expiry": "2027-05-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WondrousRosamia",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-04-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LoneWolf",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-04-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FeatherofGracia",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions (Expires March 25)",
+      "expiry": "2027-03-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TheExecutioner",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2027-03-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CombatFanatic",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2027-02-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FrostDragonLord",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions (Expires January 25)",
+      "expiry": "2027-01-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MerryChristmas23",
+      "reward": "50 Gems, 20k Gold and 20,000 EXP Potions",
+      "expiry": "2027-01-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Thanksgiving23",
+      "reward": "100 Gems, 50,000 Gold & 50,000 EXP Potion (Expires December 4)",
+      "expiry": "2026-12-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "QueenofDawn",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potion (Expires November 17)",
+      "expiry": "2026-11-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AngelRafael",
+      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion (Expires 8 October)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GodofFire",
+      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion (Expires on September 22)",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NobleGunnolf",
+      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion",
+      "expiry": "2026-09-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2022antia",
+      "reward": "Rewards: 300 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GiftOfHonor",
+      "reward": "Rewards: 100 Gems and 5k Honor Tokens",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "puzzle777",
+      "reward": "Rewards: 300 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HappyNewYear2022",
+      "reward": "Rewards: 100 Energy and 20k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FiveSages",
+      "reward": "Rewards: 20k Gold and 50 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SemuTechnology",
+      "reward": "Rewards: 20k Gold and 50 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpringFestival",
+      "reward": "Rewards: 20k Gold and 100 Energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "March8",
+      "reward": "Rewards: 20k Gold and 50 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BattleCode",
+      "reward": "Rewards: 50k Gold and 100 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FrostFestival",
+      "reward": "Use this code to get 300 gems and 50K gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DecemberSecrets",
+      "reward": "Use this code to get 40K gold and 10K XP potions",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TreasureHunters",
+      "reward": "Use this code to get 100 energy",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BlackFriday2021",
+      "reward": "Use this code to get 200 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Cheers",
+      "reward": "rewards (Expires August 21st)",
+      "expiry": "2026-08-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Lullaby",
+      "reward": "rewards (Expires August 07th)",
+      "expiry": "2026-08-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "DragonOfTime",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-08-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "CatDay2025",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "BurningCharmer",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-08-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Care4Heroes",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "GodoftheSea",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2026-08-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "ImmortalPoet",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2026-08-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "DemonHunter",
+      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion",
+      "expiry": "2026-08-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "MoonlitArtemis",
+      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion",
+      "expiry": "2026-08-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

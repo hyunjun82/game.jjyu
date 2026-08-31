@@ -1,0 +1,65 @@
+{
+  "slug": "dawn-gods",
+  "titleEn": "Dawn Gods",
+  "titleKo": null,
+  "sourcePath": "/dawn-gods/codes/",
+  "updatedAt": "2026-08-31T00:24:23.183Z",
+  "codes": [
+    {
+      "code": "LUCKY777",
+      "reward": "50 MEss, 50 Ascension Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DAWN777",
+      "reward": "50k Gold, 1 Advanced Summon Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DG777",
+      "reward": "50k Gold, 100 Enh. Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP666",
+      "reward": "50 MEss, 10 Spirit Tomes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP777",
+      "reward": "50 Enh. Stones, 10 Spirit Tomes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP888",
+      "reward": "50k Gold, 10 Demon Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIP999",
+      "reward": "50 Ascension Stones, 10 Demon Runes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

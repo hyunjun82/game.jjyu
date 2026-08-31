@@ -1,0 +1,129 @@
+{
+  "slug": "pixel-heroes-tales-of-emond",
+  "titleEn": "Pixel Heroes",
+  "titleKo": null,
+  "sourcePath": "/pixel-heroes-tales-of-emond/codes/",
+  "updatedAt": "2026-08-31T00:24:38.268Z",
+  "codes": [
+    {
+      "code": "ENTEREMOND",
+      "reward": "200k Gold Coins, 100k Experience Potions, 100 Boundary Stones, 1 Covenant of Light",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PIXELGIFT",
+      "reward": "200 Star Diamonds, 1 Covenant of Light, 2 Lunar Astrolabe Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEETUSONDC",
+      "reward": "200 Star Diamonds, 5 Lunar Astrolabe Stones, 2 Purify Gold Coins, 2 Essential Exp Potions",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUALL1",
+      "reward": "1 Covenant of Light, 1 Flower of Elst, 1,000 Friendship Points",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOUALL",
+      "reward": "3 Lunar Astrolabe Stones, 1 Flower of Elst, 1,000 Friendship Points",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEAHAURA",
+      "reward": "expires October 15th",
+      "expiry": "2026-10-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NSLRWPCQHX",
+      "reward": "Expires July 27th",
+      "expiry": "2027-07-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARCANUMBOX",
+      "reward": "expires 12th January",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MYTHICALGIFT",
+      "reward": "expires 5th January",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WIZARDSCROLL",
+      "reward": "expires 29th December",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MERRYXMAS",
+      "reward": "expires 26th December",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLAZINGSWORD",
+      "reward": "expires 22nd December",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FORESTSPIRIT",
+      "reward": "expires 17th December",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SORCERERHAT",
+      "reward": "expires 15th December",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AZUREPHOENIX",
+      "reward": "expires 15th December",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

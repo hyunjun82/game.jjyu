@@ -1,0 +1,161 @@
+{
+  "slug": "wicked-defense",
+  "titleEn": "Wicked Defense",
+  "titleKo": null,
+  "sourcePath": "/wicked-defense/codes/",
+  "updatedAt": "2026-08-31T00:24:50.712Z",
+  "codes": [
+    {
+      "code": "WICKEDGUARD",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JOINWICKED",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELLODISCORD",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JULY7PLANET",
+      "reward": "rewards (expires July 10th)",
+      "expiry": "2027-07-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEKOTOWER6",
+      "reward": "rewards (expires June 29th)",
+      "expiry": "2027-06-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SKIPTIME",
+      "reward": "rewards (expires June 29th)",
+      "expiry": "2027-06-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEKONEKO6",
+      "reward": "rewards (expires June 19th)",
+      "expiry": "2027-06-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNEPLANET",
+      "reward": "rewards (expires June 12th)",
+      "expiry": "2027-06-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NERASMSMAY",
+      "reward": "rewards (expires June 05th)",
+      "expiry": "2027-06-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVILHUNTMAY",
+      "reward": "rewards (expires May 30)",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SORCERY",
+      "reward": "rewards (expires May 30)",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GLOWUP",
+      "reward": "rewards (expires May 24)",
+      "expiry": "2027-05-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOSTAGE",
+      "reward": "Diamond x300 (Valid till May 27)",
+      "expiry": "2027-05-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELLOWICKED",
+      "reward": "Diamond x300 (Valid till May 27)",
+      "expiry": "2027-05-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NYXSMS26",
+      "reward": "rewards (expires May 15)",
+      "expiry": "2027-05-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYKFOOD26",
+      "reward": "rewards (expires May 08)",
+      "expiry": "2027-05-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SNACKBAR4U",
+      "reward": "rewards (expires May 01)",
+      "expiry": "2027-05-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARCHUP",
+      "reward": "Diamond x100 (Valid till Apr. 27)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EVILHUNTAPR",
+      "reward": "rewards (valid till Apr. 17th)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

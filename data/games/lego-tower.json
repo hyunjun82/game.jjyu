@@ -1,0 +1,49 @@
+{
+  "slug": "lego-tower",
+  "titleEn": "LEGO Tower",
+  "titleKo": null,
+  "sourcePath": "/lego-tower/codes/",
+  "updatedAt": "2026-08-31T00:24:32.472Z",
+  "codes": [
+    {
+      "code": "14LVC0",
+      "reward": "free gifts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "covid19",
+      "reward": "Redeem code for H0248 head (head with facemask)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PIZZA",
+      "reward": "Redeem code for T0289 Minifigure Torso with Pizza design",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BARRACUDA",
+      "reward": "Redeem code for Barracuda Lobby",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PIRATES",
+      "reward": "Redeem code for Pirate Ship roof",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "e-t-e-chronicle",
+  "titleEn": "E.T.E Chronicle",
+  "titleKo": null,
+  "sourcePath": "/e-t-e-chronicle/codes/",
+  "updatedAt": "2026-08-31T00:24:24.779Z",
+  "codes": [
+    {
+      "code": "ETELDJ2026",
+      "reward": "300 Purorgem, 2 Advanced Supply Permits, 2 Combat Order II (expires May 30th)",
+      "expiry": "2027-05-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

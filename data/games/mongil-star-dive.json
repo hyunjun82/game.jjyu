@@ -1,0 +1,89 @@
+{
+  "slug": "mongil-star-dive",
+  "titleEn": "Mongil Star Dive",
+  "titleKo": null,
+  "sourcePath": "/mongil-star-dive/codes/",
+  "updatedAt": "2026-08-31T00:24:34.998Z",
+  "codes": [
+    {
+      "code": "LETSPLAYEP6",
+      "reward": "10 Premium Salmon Puree, 1 Purple Upgrade Stone, 3 Compass of Promise",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEMOLMONGIL",
+      "reward": "Green Cappy Papa, 25 Keys, 10,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LOVEMONGIL",
+      "reward": "1 Overflowing Love",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MONGILPRESENT",
+      "reward": "1 Brown Cappy, 1 Spark Slime, 1 Forkmugger",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MONGILDISCORD",
+      "reward": "30 Starlight Crystal, 3 Glimmering Stardust, 300k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DINDINISDINDIN",
+      "reward": "1 Green Cappy, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DEVLIVE0410",
+      "reward": "1 Spark Slime, 1 Scar, 1 White Wolf Warrior",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MONGILREPORT",
+      "reward": "1 White Wolf Warrior",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPECIALGIFT0430",
+      "reward": "1 Blue Upgrade Stone (expires May 7th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FINDSTAR10",
+      "reward": "10 Compass of Promise (expires May 7th)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

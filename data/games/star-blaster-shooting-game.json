@@ -1,0 +1,25 @@
+{
+  "slug": "star-blaster-shooting-game",
+  "titleEn": "Star Blaster",
+  "titleKo": null,
+  "sourcePath": "/star-blaster-shooting-game/codes/",
+  "updatedAt": "2026-08-31T00:24:43.844Z",
+  "codes": [
+    {
+      "code": "NEWBIECODE",
+      "reward": "10000 Gold, 400 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LOVEJUNE",
+      "reward": "400 Diamonds, 4 Band Blueprints, 2 Gloves Blueprints, 8 Armor Blueprints, 5 Helmet Blueprints, 1 Boots Blueprint",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

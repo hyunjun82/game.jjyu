@@ -1,0 +1,89 @@
+{
+  "slug": "bloons-card-storm",
+  "titleEn": "Bloons Card Storm",
+  "titleKo": null,
+  "sourcePath": "/bloons-card-storm/codes/",
+  "updatedAt": "2026-08-31T00:24:20.979Z",
+  "codes": [
+    {
+      "code": "GIFTWRAPPED",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEESACODE",
+      "reward": "40 Monkey Money, 400 Universal Tokens, and 1x Expert Negotiator",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "REDUCEREUSERELOAD",
+      "reward": "Wall of trees, 50 MM, 150 Magic Monkey Tokens",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EGGYWEGGY",
+      "reward": "200 Large Bloon Tokens, 1 Bloon Reinforcements",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOTALLYRADICAL",
+      "reward": "300 Basic Bloon Tokens, 300 Support Tokens, 300 Basic Power Tokens",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LuckyCharms",
+      "reward": "150 Military Tokens, 2 Double Green Bloons",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOURNAMENT4",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XMASCARD",
+      "reward": "1000 universal tokens, Rare Quincy Action Figure card, Rare Power card",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKS2024",
+      "reward": "200 Monkey Money, 1x Parting Gift, and 1x Monkey Village",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LAUNCHGOALS",
+      "reward": "1000 Universal Tokens, 300 Monkey Money, 1 Necromancer card, 1 ZOMG card (expires November 14th)",
+      "expiry": "2026-11-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

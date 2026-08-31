@@ -1,0 +1,97 @@
+{
+  "slug": "grimguard-tactics",
+  "titleEn": "Grimguard Tactics",
+  "titleKo": null,
+  "sourcePath": "/grimguard-tactics/codes/",
+  "updatedAt": "2026-08-31T00:24:27.821Z",
+  "codes": [
+    {
+      "code": "SUMMON3R",
+      "reward": "New User Promo",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5T0N3",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "G4T3W4Y",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "W4YST0N3",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE5",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HRTD3S05",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLEED13",
+      "reward": "Get 1000 Blood Bonds.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "M4NC3RS",
+      "reward": "5 Seasonal Contracts (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SLVRCRW",
+      "reward": "Expires June 30th",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "INCN3R4T3",
+      "reward": "Expires June 30th",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINTER24",
+      "reward": "5 Star Oracle Contracts, 500HC (expires January 7th)",
+      "expiry": "2027-01-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

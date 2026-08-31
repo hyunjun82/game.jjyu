@@ -1,0 +1,33 @@
+{
+  "slug": "king-of-sailing",
+  "titleEn": "King of Sailing",
+  "titleKo": null,
+  "sourcePath": "/king-of-sailing/codes/",
+  "updatedAt": "2026-08-31T00:24:31.152Z",
+  "codes": [
+    {
+      "code": "OP666",
+      "reward": "100 Gems, 50 Break Potions, 50k Belly, 5 5* Hero Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OP777",
+      "reward": "100 Gems, 2 Adv. Recruitment Tickets, 100k Belly, 10 4* Hero Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OP888",
+      "reward": "100 Gems, 5 Arena Challenge Tickets, 100k Belly, 1 Adv. Recruitment Ticket, 5 Dispatch Refresh Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

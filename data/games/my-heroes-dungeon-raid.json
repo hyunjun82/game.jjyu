@@ -1,0 +1,25 @@
+{
+  "slug": "my-heroes-dungeon-raid",
+  "titleEn": "My Heroes: Dungeon Raid",
+  "titleKo": null,
+  "sourcePath": "/my-heroes-dungeon-raid/redeem-codes/",
+  "updatedAt": "2026-08-31T00:24:35.669Z",
+  "codes": [
+    {
+      "code": "ThanksHero",
+      "reward": "Use this redeem code to get free diamonds and gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Stolas",
+      "reward": "Diamond x300, Soul Card Reset Ticket x1 (expires May 31st)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

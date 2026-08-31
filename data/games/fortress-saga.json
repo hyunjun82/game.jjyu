@@ -1,0 +1,33 @@
+{
+  "slug": "fortress-saga",
+  "titleEn": "Fortress Saga",
+  "titleKo": null,
+  "sourcePath": "/fortress-saga/codes/",
+  "updatedAt": "2026-08-31T00:24:26.367Z",
+  "codes": [
+    {
+      "code": "THANKYOUFO",
+      "reward": "1000 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1003DAY",
+      "reward": "3000 Gems, 3 Cake",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FSBESTONE",
+      "reward": "30 Repair Cat Tickets, 30 Cannon Tickets, 10 Hero Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

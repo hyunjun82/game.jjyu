@@ -1,0 +1,57 @@
+{
+  "slug": "pop-epoch",
+  "titleEn": "Pop Epoch",
+  "titleKo": null,
+  "sourcePath": "/pop-epoch/codes/",
+  "updatedAt": "2026-08-31T00:24:38.268Z",
+  "codes": [
+    {
+      "code": "GOALEPOCH",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "POPSUMMER",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "POP10K",
+      "reward": "Diamonds x300, Random Resource Chest x20, Fine Clay x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EULAUNCH",
+      "reward": "Diamond x100, Norman Oak x5 Olive Branch x5, Acceleration Watch x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "POPLAUNCH",
+      "reward": "Diamond x77, Random Resource Chest x10, Corolla x5, Signet Ring x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LAUNCHGIFT",
+      "reward": "Diamond x100, Norman Oak x5 Olive Branch x5, Acceleration Watch x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

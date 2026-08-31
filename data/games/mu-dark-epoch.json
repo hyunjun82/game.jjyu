@@ -1,0 +1,89 @@
+{
+  "slug": "mu-dark-epoch",
+  "titleEn": "MU Dark Epoch",
+  "titleKo": null,
+  "sourcePath": "/mu-dark-epoch/codes/",
+  "updatedAt": "2026-08-31T00:24:35.336Z",
+  "codes": [
+    {
+      "code": "AFD2025",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MU100DAYS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MUDE4PC",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MUDE520",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MUDE0813",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MUDEGLOBAL",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MU777",
+      "reward": "280 Garnet Jewels, 3 Solo Boss Entry Tickets, 3 Blood Castle Entry Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MU888",
+      "reward": "10 Jewels of Life, 8 Jewels of Soul, 10 Spirituality of ATK Promotion Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MU999",
+      "reward": "Warrior's Jadeite, Criticality Stone (Advanced), 80 Garnet Jewels",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DarkEpoch",
+      "reward": "2 Jewels of Life, 3 Jewels of Evolution, 2 Jewels of Soul",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

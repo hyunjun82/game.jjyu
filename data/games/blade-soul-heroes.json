@@ -1,0 +1,33 @@
+{
+  "slug": "blade-soul-heroes",
+  "titleEn": "Blade & Soul Heroes",
+  "titleKo": null,
+  "sourcePath": "/blade-soul-heroes/codes/",
+  "updatedAt": "2026-08-31T00:24:20.663Z",
+  "codes": [
+    {
+      "code": "SPOOKYSTREAM",
+      "reward": "1 Boss Trial (Solo) Nameplate, 1 Underground Naryu Labyrinth Hourglass, 3 Showdown Tickets, 500 Divine Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HEROESSUNDAY",
+      "reward": "5 Hero Recruit Plaques",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYWEEKEND",
+      "reward": "5 Hero Recruit Plaques",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

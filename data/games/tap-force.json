@@ -1,0 +1,81 @@
+{
+  "slug": "tap-force",
+  "titleEn": "Tap Force",
+  "titleKo": null,
+  "sourcePath": "/tap-force/codes/",
+  "updatedAt": "2026-08-31T00:24:46.374Z",
+  "codes": [
+    {
+      "code": "Tapdragon",
+      "reward": "25 Elite Dragon Shards and 5 Ultra Dragon Shards",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "roccobounty",
+      "reward": "15 Capsules",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KITTY20XP",
+      "reward": "5 orbs and 2,000 gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Racecat",
+      "reward": "Use this code to get 5 Capsules",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "matchland",
+      "reward": "Use this code to get 10 Elite Cartridges",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYVDAY",
+      "reward": "Use this code to get 5 Orbs and 30 Donuts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY2023",
+      "reward": "Use this code to get 5 Orbs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KITTYXMAS",
+      "reward": "Use this code to get 20 Capsules",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TAPTHANKS",
+      "reward": "Use this code to get 3 Orbs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

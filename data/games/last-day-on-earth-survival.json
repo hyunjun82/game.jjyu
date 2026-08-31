@@ -1,0 +1,25 @@
+{
+  "slug": "last-day-on-earth-survival",
+  "titleEn": "Last Day on Earth bunker alpha",
+  "titleKo": null,
+  "sourcePath": "/last-day-on-earth-survival/codes/",
+  "updatedAt": "2026-08-31T00:24:31.485Z",
+  "codes": [
+    {
+      "code": "April10",
+      "reward": "11: 76638",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "April12",
+      "reward": "13: 46397",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

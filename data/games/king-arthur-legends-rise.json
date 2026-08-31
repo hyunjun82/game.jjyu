@@ -1,0 +1,33 @@
+{
+  "slug": "king-arthur-legends-rise",
+  "titleEn": "King Arthur: Legends Rise",
+  "titleKo": null,
+  "sourcePath": "/king-arthur-legends-rise/codes/",
+  "updatedAt": "2026-08-31T00:24:30.594Z",
+  "codes": [
+    {
+      "code": "LegendsRiseDownload",
+      "reward": "100x Free Crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KingArthurPC",
+      "reward": "3x Normal Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JoinKingArthur",
+      "reward": "5x Special Summon Tickets, 100k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

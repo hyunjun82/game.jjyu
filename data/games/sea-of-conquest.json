@@ -1,0 +1,81 @@
+{
+  "slug": "sea-of-conquest",
+  "titleEn": "Sea of Conquest",
+  "titleKo": null,
+  "sourcePath": "/sea-of-conquest/codes/",
+  "updatedAt": "2026-08-31T00:24:41.842Z",
+  "codes": [
+    {
+      "code": "FATHERSDAY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOCXHAWKINS",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WORKHARDPLAYHARD",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EARTHDAY2025",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY2025",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEWYEAR2025SOC",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SOC777",
+      "reward": "1 Echo Conch, 3x 5min Speedup, 20K wood, 10K Iron",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MEBOOTY",
+      "reward": "1k Iron, 1 Echo Conch, 10k Iron, 20k Wood",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEAOFCONQUEST",
+      "reward": "3x 5m Speedups, 1k Iron, 1 Echo Conch, 2k Wood",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "athena-blood-twins",
+  "titleEn": "Athena Blood Twins",
+  "titleKo": null,
+  "sourcePath": "/athena-blood-twins/codes/",
+  "updatedAt": "2026-08-31T00:24:20.344Z",
+  "codes": [
+    {
+      "code": "welcomeathena",
+      "reward": "",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BOARHAT",
+      "reward": "",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "COMINGSOON",
+      "reward": "",
+      "expiry": "2027-02-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HELA",
+      "reward": "",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLESSED2026",
+      "reward": "",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY2026",
+      "reward": "",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINTERGIFT",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ISHTAR",
+      "reward": "",
+      "expiry": "2026-12-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ATHENA100K",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THOR",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Blood111",
+      "reward": "10 Basic EXP Tome, 20 Moonlit Essence",
+      "expiry": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Blood444",
+      "reward": "100k Gold, 20 Gear Enhancement Stone",
+      "expiry": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Blood777",
+      "reward": "50 Diamonds, 2 Purple God Gift Random Chests",
+      "expiry": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "SVIP444",
+      "reward": "1 Phantom Beast Soul, 20 Basic Botany",
+      "expiry": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "SVIP777",
+      "reward": "50 Diamonds, 10 Basic Soul Crystals",
+      "expiry": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Hades",
+      "reward": "",
+      "expiry": "2025-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "dkf4mw",
+      "reward": "Vote rewards",
+      "expiry": "2025-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "dkf4kp",
+      "reward": "Vote rewards",
+      "expiry": "2025-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

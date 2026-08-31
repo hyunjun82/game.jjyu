@@ -1,0 +1,169 @@
+{
+  "slug": "valhalla-survival",
+  "titleEn": "Valhalla Survival",
+  "titleKo": null,
+  "sourcePath": "/valhalla-survival/codes/",
+  "updatedAt": "2026-08-31T00:24:50.062Z",
+  "codes": [
+    {
+      "code": "newyear01",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SEED30",
+      "reward": "Seed of Yggdrasil x30",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "weekgift02",
+      "reward": "300 Diamonds, 10 Action Points",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FBMar",
+      "reward": "Blessed Weapon Summon Ticket &times;15 (expires March 31st)",
+      "expiry": "2027-03-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHUSEOK25",
+      "reward": "Diamond x500, Glory Weapon Summon Ticket x30, Glory Gem Summon Ticket x30, Seed of Yggdrasil x10, Heroic Fragment Select Box x30",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UPDJUNE18",
+      "reward": "500 Diamond, 5 Rare Weapon Ticket (expires July 31st)",
+      "expiry": "2027-07-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GIFT100U",
+      "reward": "1,000 Diamonds (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUNE2025",
+      "reward": "10 Glory Weapon Summon Ticket, 10 Glory Gem Summon Ticket (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "APRILEVENT",
+      "reward": "Diamond x500 (expires May 31st)",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ifgm04",
+      "reward": "Gold Pouch (1hr) x20, Whetstone Chest (1h) x5, Hero Growth Stone Box (1h) x5 (expires April 10)",
+      "expiry": "2027-04-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "quiz04",
+      "reward": "Whetstone Chest (1h) x5, Blessing Gem Summon Ticket x20 (expires April 08)",
+      "expiry": "2027-04-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Update031",
+      "reward": "Gold x100,000, Hero Growth Stone Chest (4H) x1, Whetstone Chest (4H) x1 (expires April 15th)",
+      "expiry": "2027-04-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRING2025",
+      "reward": "500 Diamonds (expires March 31st)",
+      "expiry": "2027-03-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UPDDEC10",
+      "reward": "Diamonds x500, Glory Weapon Summon Ticket x5, Glory Gem Summon Ticket x5 (expires January 31, 2026, 23:59 (UTC+9))",
+      "expiry": "2026-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "UPDOCT15",
+      "reward": "Diamonds x500, Glory Weapon Summon Ticket x5, Glory Gem Summon Ticket x5 (expires November 30, 2025, 23:59 UTC+9)",
+      "expiry": "2025-11-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "UPDSEP10",
+      "reward": "Diamonds x500, Glory Weapon Summon Ticket x5, Glory Gem Summon Ticket x5 (expires October 31, 2025, 23:59 UTC+9)",
+      "expiry": "2025-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "puzzle10",
+      "reward": "Glory Weapon Summon Ticket x10, Hero Growth Stone Chest (1h) x25 (expires October 23, 2025, 23:59 UTC+9)",
+      "expiry": "2025-10-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "grelic100",
+      "reward": "Glory Weapon Summon Ticket x10, Hero Growth Stone Chest (1h) x25 (expires October 16, 2025, 23:59 UTC+9)",
+      "expiry": "2025-10-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "FBOCT10",
+      "reward": "Blessed Weapon Summon Ticket &times;20, Blessed Gem Summon Ticket &times;20 (expires October 31, 2025 23:59 UTC+9)",
+      "expiry": "2025-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "2025XMAS",
+      "reward": "Glory Weapon Summon Ticket x30, Glory Gem Summon Ticket x30, Silver Relic Coin x300 (expires December 31, 2025, 23:59 (UTC+9))",
+      "expiry": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "sword-of-justice",
+  "titleEn": "Sword of Justice",
+  "titleKo": null,
+  "sourcePath": "/sword-of-justice/codes/",
+  "updatedAt": "2026-08-31T00:24:45.390Z",
+  "codes": [
+    {
+      "code": "HAPPYWEEK2",
+      "reward": "100 Ornate Jade (Bound), 88888 Banknotes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYWEEK1",
+      "reward": "100 Ornate Jade (Bound), 88888 Banknotes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MMOKING",
+      "reward": "60 Ornate Jade (Bound), 28888 Banknote(s)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

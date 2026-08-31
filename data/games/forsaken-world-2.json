@@ -1,0 +1,97 @@
+{
+  "slug": "forsaken-world-2",
+  "titleEn": "Forsaken World 2",
+  "titleKo": null,
+  "sourcePath": "/forsaken-world-2/codes/",
+  "updatedAt": "2026-08-31T00:24:26.046Z",
+  "codes": [
+    {
+      "code": "FW2HOLYMONTH",
+      "reward": "10 Battle Mount Souls, 10 Back Accessory Essence, 10 Divine Weapon Blessing",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYRAMADHAN",
+      "reward": "10 Level 1 Gem Chests, 2 Divine Forging Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR25",
+      "reward": "10 Level 1 Gem Chests, 2 Divine Forging Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEWYEARFW2",
+      "reward": "3 Star Circle Divine Refinement Crystals, 100 Bound Soul Crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEARFW2",
+      "reward": "10 Battle Mount Souls, 10 Back Accessory Essence, 10 Divine Weapon Blessing, 200 Bound Soul Crystals",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FW2CHRISTMAS",
+      "reward": "10 Level 1 Gem Chests, 15 Grade 1 Enhance Stones, 3 Divine Forging Stones",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CLASSICFW2",
+      "reward": "10 Back Accessory Essence",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYFW2",
+      "reward": "10 Battle Mount Souls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FW2MMORPG",
+      "reward": "1 Divine Forging Stone",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FW2XLD",
+      "reward": "10000 Crystals, 60 Bound Soul Crystals, 50000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FW2DUNGEON",
+      "reward": "10 Divine Weapon Blessings",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

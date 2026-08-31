@@ -1,0 +1,73 @@
+{
+  "slug": "genshin-impact",
+  "titleEn": "Genshin Impact",
+  "titleKo": null,
+  "sourcePath": "/genshin-impact/codes/",
+  "updatedAt": "2026-08-31T00:24:26.929Z",
+  "codes": [
+    {
+      "code": "2BJ64QRZ7RT8",
+      "reward": "60 Primogems, 5 Adventurer's Experience",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UIVIBUQM6Q8A",
+      "reward": "Mora &times;10,000, Adventurer's Experience &times;10, Fine Enhancement Ore &times;5, Jueyun Chili Chicken &times;5, Stir-Fried Fish Noodles &times;5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LEGEDILJKSGM",
+      "reward": "Primogem &times;60, Adventurer's Experience &times;5 (expires September 2nd)",
+      "expiry": "2026-09-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Scaleblade",
+      "reward": "Primogem &times;100, Mora &times;50,000 (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TempleofSpace",
+      "reward": "Primogem &times;100, Hero's Wit &times;5 (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LinneaClassTime",
+      "reward": "Primogem &times;100, Mystic Enhancement Ore &times;10 (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OntoSnezhnaya",
+      "reward": "100 Primogems, 5 Hero's Wits (expires August 3rd)",
+      "expiry": "2026-08-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "Odette0812",
+      "reward": "100 Primogems, 50,000 Mora (expires August 3rd)",
+      "expiry": "2026-08-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

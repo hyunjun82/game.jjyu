@@ -1,0 +1,25 @@
+{
+  "slug": "heroes-go-squad-rpg",
+  "titleEn": "Heroes GO Squad RPG",
+  "titleKo": null,
+  "sourcePath": "/heroes-go-squad-rpg/codes/",
+  "updatedAt": "2026-08-31T00:24:29.028Z",
+  "codes": [
+    {
+      "code": "HEROESBANG2024",
+      "reward": "888 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HEROESBANG2023",
+      "reward": "30 Recruitment Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

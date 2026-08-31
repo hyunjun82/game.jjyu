@@ -1,0 +1,33 @@
+{
+  "slug": "mecha-domination-rampage",
+  "titleEn": "Mecha Domination",
+  "titleKo": null,
+  "sourcePath": "/mecha-domination-rampage/codes/",
+  "updatedAt": "2026-08-31T00:24:33.769Z",
+  "codes": [
+    {
+      "code": "MECHA888",
+      "reward": "100 diamonds, 6 1-minute speedups, 320x 1k food and 320x 1k water",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MECHA999",
+      "reward": "150 diamonds, 9 1-minute speedups, 480x 1k food and 480x 1k water",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MECHA777",
+      "reward": "50 diamonds, 3 1-minute speedups, 160x 1k food and 160x 1k water",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

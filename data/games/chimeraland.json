@@ -1,0 +1,49 @@
+{
+  "slug": "chimeraland",
+  "titleEn": "Chimeraland",
+  "titleKo": null,
+  "sourcePath": "/chimeraland/gift-codes/",
+  "updatedAt": "2026-08-31T00:24:22.209Z",
+  "codes": [
+    {
+      "code": "2022MERRYXMAS",
+      "reward": "Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "100CELEBRATION",
+      "reward": "Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEWYEAR",
+      "reward": "Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MERRY2021XMAS",
+      "reward": "Rewards: 1x Cowries and Pet Eggs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MORETO2022",
+      "reward": "Rewards: 1x Cowries and Pet Eggs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

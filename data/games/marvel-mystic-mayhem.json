@@ -1,0 +1,25 @@
+{
+  "slug": "marvel-mystic-mayhem",
+  "titleEn": "Marvel Mystic Mayhem",
+  "titleKo": null,
+  "sourcePath": "/marvel-mystic-mayhem/codes/",
+  "updatedAt": "2026-08-31T00:24:33.769Z",
+  "codes": [
+    {
+      "code": "MMMVer11",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MMMGLMMMGL",
+      "reward": "1000 Mysterium Coins, 1000 Tactic Reports",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

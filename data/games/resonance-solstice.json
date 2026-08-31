@@ -1,0 +1,33 @@
+{
+  "slug": "resonance-solstice",
+  "titleEn": "Resonance Solstice",
+  "titleKo": null,
+  "sourcePath": "/resonance-solstice/codes/",
+  "updatedAt": "2026-08-31T00:24:40.527Z",
+  "codes": [
+    {
+      "code": "prydwenguides",
+      "reward": "Negociation Appl., Purchase Appl.",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEWYEAR",
+      "reward": "1000 Chaos Stones, BCRL Coins",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHININGCONDUCTOR",
+      "reward": "50 Chaos Stones, 1 Shining Conductor",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

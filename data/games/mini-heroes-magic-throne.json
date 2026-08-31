@@ -1,0 +1,33 @@
+{
+  "slug": "mini-heroes-magic-throne",
+  "titleEn": "Mini Heroes Magic Throne",
+  "titleKo": null,
+  "sourcePath": "/mini-heroes-magic-throne/codes/",
+  "updatedAt": "2026-08-31T00:24:34.338Z",
+  "codes": [
+    {
+      "code": "HBD414",
+      "reward": "288 Diamonds, 1 Recruit Scroll, 100 Holy Light Aura",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FB7777",
+      "reward": "200 Diamonds, 1 Recruit Scroll, 1 Hero's Exp Pack (2h)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MARS777",
+      "reward": "200 Diamonds, 10 Rare Minted Coins, 1 Gold Coin Pack (2h), 5 Mythic Hero Fragments",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

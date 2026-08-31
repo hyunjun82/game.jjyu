@@ -1,0 +1,1521 @@
+{
+  "slug": "echocalypse",
+  "titleEn": "Echocalypse",
+  "titleKo": null,
+  "sourcePath": "/echocalypse/codes/",
+  "updatedAt": "2026-08-31T00:24:25.092Z",
+  "codes": [
+    {
+      "code": "PhoebeLOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LyoraLOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AshiriLOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUOSHALOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VALENTINE2026",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KOKOPELLILOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SHULOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T2P9C5",
+      "reward": "Echo Crystal Flake*4, Special Equipment Component Selection Chest*10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NANALOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Q7M2KP",
+      "reward": "Mission Data IV x5, Crystalline Cells x200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KatanaLOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KALALOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SURICUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "A7D9PX",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VIRGOLIBRA",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KalincaCUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LYDIACUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NataliaLOVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "A4Z6TN",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SerenelleCUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ElixiaKAWA",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Q6V1NRD7",
+      "reward": "Generic Bio-Chips III x5, SSR Affinity Gift Selection Chests x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "F2B8MCX4",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "A4K9ZTB8",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AnnaKAWA",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MORAICUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ALINACUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "24FD65QP",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "84FETX5Q",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHILDRENSDAY2025",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCIENNE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ASD8EA599",
+      "reward": "Mission Data IV x5, Crystalline Cells x200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5FAC852S",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "8SHVB46Q",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROSABELLE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Z98GEA3Y",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VVCUTE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "A4F6AWT9",
+      "reward": "Mission Data IV x5, Crystalline Cells x200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AF6R5ED3",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SAMOVILA",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DJ82NHF7",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "6SD52THJ",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "S6BBC85G",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "pt98g23x",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "cn76ah5s",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wky63dzs",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "pj86cbm2",
+      "reward": "Random Special Chimera Material Chestl x1, Multicore Artifax Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "cg83j9fg",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "859gza7eb92",
+      "reward": "Random Special Chimera Material Chestl x1, Multicore Neolith Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "63hdui23891",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2g9vkughs12",
+      "reward": "Random Special Chimera Material Chestl x1, Multicore Neolith Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "894hnd02h1",
+      "reward": "Random Special Chimera Material Chest x1, Multicore Neolith Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "7kag92koz0",
+      "reward": "Generic Bio-Chip IIl x3,SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "p9gaeu8i9f",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "07auagdh45",
+      "reward": "Random Special Chimera Material Chest x1, Multicore Neolith Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "o8734rjkkz",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "a5npf3x98g",
+      "reward": "Adaptability Materialx4, Special Equipment Component Selection Chestx10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECHOLOVE314",
+      "reward": "Draw Master Selection Chest&times;1, Avatar Frame, Tribute Points&times;52k",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Easter2026",
+      "reward": "expires April 11th",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Joker2026",
+      "reward": "expires April 7th",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "H6Q9N3",
+      "reward": "expires March 29th",
+      "expiry": "2027-03-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WhiteDay",
+      "reward": "rewards (expires March 26th)",
+      "expiry": "2027-03-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "K9F3Q7",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires February 1st)",
+      "expiry": "2027-02-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MASALOVE",
+      "reward": "expires January 15th",
+      "expiry": "2027-01-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "26HAPPY",
+      "reward": "New Year Fireworks, Frame, Outfit Voucher, Iridimorphite (expires January 8th)",
+      "expiry": "2027-01-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "25XMAS",
+      "reward": "Avatar Frame, Candy Cane (expires January 1st)",
+      "expiry": "2027-01-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECHO3RD",
+      "reward": "Anniversary codes (Expires December 27th)",
+      "expiry": "2026-12-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Q4D7LX",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (expires November 16th)",
+      "expiry": "2026-11-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "B8C3SY",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires November 09th)",
+      "expiry": "2026-11-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Z4F6LV",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5 (expires November 2nd)",
+      "expiry": "2026-11-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "H2V8JN",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5 (expires September 28th)",
+      "expiry": "2026-09-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "T9C4WL",
+      "reward": "Adaptability Materialx4, Special Equipment Component Selection Chest x10 (expires September 21)",
+      "expiry": "2026-09-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AE5SDF",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "G8R2KP",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (expires September 7th)",
+      "expiry": "2026-09-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "M2J7XR",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BW3Y9C",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "X3J9LUF2",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires July 27th)",
+      "expiry": "2027-07-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "L9T3KZQ8",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (expires June 29th)",
+      "expiry": "2027-06-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "L3Z7A5B1",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires June 22nd)",
+      "expiry": "2027-06-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AD78JNG",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HDZ526WE",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5 (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JUSTAJOKE",
+      "reward": "April Fools code (expires April 7th)",
+      "expiry": "2027-04-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PY32CG84",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5 (expires March 23rd)",
+      "expiry": "2027-03-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SD5FVT84",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (expires March 16th)",
+      "expiry": "2027-03-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHARLOTTE",
+      "reward": "expires March 15th",
+      "expiry": "2027-03-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CJK88U23",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires March 09)",
+      "expiry": "2027-03-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "A9N52JF",
+      "reward": "Adaptability Material x4, Special Equipment Component Selection Chest x10 (expires February 23)",
+      "expiry": "2027-02-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VALENTINE2025",
+      "reward": "expires February 21st",
+      "expiry": "2027-02-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "F87SHJN7",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (expires February 9th)",
+      "expiry": "2027-02-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LORINE",
+      "reward": "rewards (expires February 15th)",
+      "expiry": "2027-02-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SpringFestival",
+      "reward": "rewards (expires February 10th)",
+      "expiry": "2027-02-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PK23X76D",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires February 2nd)",
+      "expiry": "2027-02-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RixiaKAWA",
+      "reward": "rewards (expires February 7th)",
+      "expiry": "2027-02-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ElieKAWA",
+      "reward": "rewards (expires February 7th)",
+      "expiry": "2027-02-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UFH85SNF",
+      "reward": "in-game items (expires January 26th)",
+      "expiry": "2027-01-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR2025",
+      "reward": "Iridimorphite x500, Outfit Voucher x20, New Year Badge, New Year Frame (expires January 31st)",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "fra77jxh2",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5 (expires January 12th)",
+      "expiry": "2027-01-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ROXYCUTE",
+      "reward": "in-game items (expires January 18th)",
+      "expiry": "2027-01-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "57cxyj45",
+      "reward": "Crystalline Cells x200, Mission Data IV x5 (Expires January 5th)",
+      "expiry": "2027-01-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECHOXMAS2024",
+      "reward": "Christmas gifts (Expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZIZCUTE",
+      "reward": "Special items (expires December 31st)",
+      "expiry": "2026-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "fji98xc6",
+      "reward": "Echo Crystal Flake x4, Special Equipment Component Selection Chest x10 (expires December 29th)",
+      "expiry": "2026-12-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CORETTA",
+      "reward": "rewads (expires December 15th)",
+      "expiry": "2026-12-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "59jf3qwz",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (Expires December 1st)",
+      "expiry": "2026-12-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "rs6gbn82k",
+      "reward": "Generic Bio-Chip III x5, SSR Affinity Gift Selection Chest x5 (expires November 17th)",
+      "expiry": "2026-11-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "h3jk4saod2zjd",
+      "reward": "Shifter Material x4, Special Equipment Component Selection Chest x10 (Expires November 10)",
+      "expiry": "2026-11-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "cbh7d98ud",
+      "reward": "(expires November 5th)",
+      "expiry": "2026-11-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "9wxs382kj",
+      "reward": "(expires November 5th)",
+      "expiry": "2026-11-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "pys45nb8h",
+      "reward": "(expires November 5th)",
+      "expiry": "2026-11-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "dx46ue7kf",
+      "reward": "(expires November 5th)",
+      "expiry": "2026-11-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Halloween24",
+      "reward": "(expires November 6th)",
+      "expiry": "2026-11-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "mmkonso0900",
+      "reward": "Random Special Chimera Material Chestl x1, Multicore Neolith Matrix x5 (expires November 3rd)",
+      "expiry": "2026-11-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "sugvbe241ig",
+      "reward": "Mission Data IV x5, Heterogeneous Crystalline Cell x200 (Expires October 27th)",
+      "expiry": "2026-10-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY2NDANNIV",
+      "reward": "Anniversary rewards (Expires October 31st)",
+      "expiry": "2026-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "fhjsu221ifv",
+      "reward": "Generic Bio-Chip IIl x5,SSR Affinity Gift Selection Chest x5 (expires October 13th)",
+      "expiry": "2026-10-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TOMIE2024",
+      "reward": "Limited Event Code (expires September 30th)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "midautumn",
+      "reward": "Limited Event Code (expires September 30th)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "9o87yaufd",
+      "reward": "Random Special Chimera Chest*1, Multicore Artifact Matrix*5 (SEA Server)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ujg3tz8bfh",
+      "reward": "Mission Data IV*5 + Heterogeneous Crystalline Cell*200 (SEA server)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "jru2tz9cin",
+      "reward": "Echo Crystal Flake*4, Special Equipment Component Selection Chest*10 (SEA Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "j3gs28mb1n",
+      "reward": "Random Special Chimera Chest*1, Multicore Artifact Matrix*5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LUCKY777",
+      "reward": "Draw Master Selection Chest*1, Affinity Gift [Tanabata Wish]*5 (Valid till July 11)",
+      "expiry": "2027-07-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "af3uvjm2kj",
+      "reward": "Generic Bio-Chip III*5, SSR Affinity Gift Selection Chest*5 (SEA Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5q68dnh27s",
+      "reward": "Echo Crystal Flake*4, Special Equipment Component Selection Chest*10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TRIPLEHAPPY",
+      "reward": "Draw Master Selection Chest*1, Avatar [Colorful Childhood], Action Points recovery item [Children's Day Gift - Lollipop]*2 (Valid till June 9)",
+      "expiry": "2027-06-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "53f4sa6n9b",
+      "reward": "Heterogeneous Solution*20, Crystalline Cells*300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOTHERSDAY",
+      "reward": "(Valid till May 25) (Global version)",
+      "expiry": "2027-05-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BLOSSOM4U",
+      "reward": "(Valid till May 21) (Global version)",
+      "expiry": "2027-05-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "5xfys7gn36",
+      "reward": "Generic Bio-Chip III*5, SSR Affinity Gift Selection Chest*5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HALFANNIV2024",
+      "reward": "(Valid till May 7) (Global version)",
+      "expiry": "2027-05-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "b6fg2a8a4h",
+      "reward": "Draw Master Selection Chest*2, Outfit Voucher*20, Random SSR Affinity Gift Chest*10 (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "b9br74a63n",
+      "reward": "Generic Bio-Chip III*5, SSR Affinity Gift Selection Chest*5 (Global Version)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAILRASPARTA",
+      "reward": "(Valid till April 15) (Global version)",
+      "expiry": "2027-04-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "InWonderland",
+      "reward": "An Avatar, Medal and a Furinshing machine (Valid till April 15)",
+      "expiry": "2027-04-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gt28an16hp",
+      "reward": "Adaptability Material*1, Special Equipment Component Selection Chest*20",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY100DAYS",
+      "reward": "Iridimorphite*600, Avatar Frame [100 Day Anniversary], Nutrient Solution*2 (Valid till April 5) (Global version)",
+      "expiry": "2027-04-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gt28ba57kf",
+      "reward": "Generic Bio-Chip III*5, SSR Affinity Gift Selection Chest*5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "he95e48gyd",
+      "reward": "Echo Crystal Flake*3, Nurture Solution IV*20",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SPRING2024",
+      "reward": "Draw Item*1, Solar Terms Background: Spring Equinox, Mission Data IV*20",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "he37d2r9bf",
+      "reward": "Generic Bio-Chip III*5, Tooth of the Leviathan*5, SSR Affinity Gift Selection Chest*5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "IWD0308",
+      "reward": "Draw Item*1, Tribute Points*38k, Random SSR Affinity Gift Chest*10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HINAMATSURI",
+      "reward": "free rewards (Expires March 7) [SEA version]",
+      "expiry": "2027-03-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KURIDOROTHY",
+      "reward": "free rewards (Expires March 5)",
+      "expiry": "2027-03-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "VALENTINE2024",
+      "reward": "1 Avatar Frame, x3 Action Points Recovery Items, x5 Favorability Gifts, and x2 Draw Items (Global/Sea) [Valid till February 29)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRAGONYEAR",
+      "reward": "x5 S Elementium, x4 Action Points Recovery Item, x1 Avatar Frame and x1 SSR Surprise Box (SEA Version, Valid till February 29)",
+      "expiry": "2027-03-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ac24kr23ps",
+      "reward": "Draw Item 1, Tribute Points 60k, Action Points Recovery Item 2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gs68rc92fn",
+      "reward": "Random Special Chimera Chest*1, Multicore Artifact Matrix*5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWYEAR2024",
+      "reward": "Iridimorphite x500, Outfit Voucher x20 and 2024New Year Frame (Valid till January 31)",
+      "expiry": "2027-01-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gs68rcy37b",
+      "reward": "Modification Protocol IV x50, Crystalline Cells x300 (Valid till January 28)",
+      "expiry": "2027-01-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wa4y2d19hu",
+      "reward": "Generic Bio-Chip III*5, Mission Data IV*10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wa4y4d12kn",
+      "reward": "Nurture Solution III*20, Echo Crystal Flake*2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SGR2023",
+      "reward": "Sagittarius Avatar Frame and Echo Memory Avatar Frame",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "wa4y4d05qs",
+      "reward": "Random SSR Affinity Gift Chest*10, Iridimorphite*60",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WINTER2023",
+      "reward": "Solar Term Background - Winter Solstice, Frame \"A Bowl of Dold Winter\"",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "fg38yc92kh",
+      "reward": "Chimera Mod Protocol x30 and Crystalline Cells x200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "jd93jp92sa",
+      "reward": "Mission Data IV x10 and Generic Bio-Chip III x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "gn8yz39k",
+      "reward": "Shifter Material x1 SSR and Fragment Selection Chest x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "OATHOFLOVE",
+      "reward": "Levia's Oath Outfit \"Captivating Melody\" via Oath and Levia, Chiraha, Nile Avatars",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOU2023",
+      "reward": "Iridimorphite*600, Avatar Frame [Appreciation of Food], Proof of Bond*2, Snezhana Emoji Set",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "UC7K9SX56W",
+      "reward": "Random SSR Affinity Gift Chest and x10 Iridimorphite x60",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KIKISGIFT",
+      "reward": "Nurture Solution III 10 and Echo Crystal Flake1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STANNIV4",
+      "reward": "first anniversary gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STANNIV3",
+      "reward": "first anniversary gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STANNIV2",
+      "reward": "first anniversary gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "1STANNIV1",
+      "reward": "first anniversary gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NILESGIFT",
+      "reward": "Chimera Mod Protocol x20 and Crystalline Cells x200",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECHO1STANNIV",
+      "reward": "first anniversary gift",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "B4H67WAK",
+      "reward": "Random Special Chimera Chest1, Multicore Artifact Matrix2",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GUINESGIFT",
+      "reward": "1 Shifter Material (Elemono Augment material) and 10 pcs Special Equipment Component Selection Chest",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "87FNX2JL3FNV",
+      "reward": "Crystalline Cells x200 and Mission Data IV x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOUNTAINSDAY",
+      "reward": "Furniture Landscape Painting and Fenriru Emoji Set",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DCTANABATA77",
+      "reward": "obtain avatar frame",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4DNX7U9LS34G",
+      "reward": "Honey Cake &times;300 and Echo Crystal Flake &times;1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TANABATA77",
+      "reward": "Qixi Wish Note x20 (Affection Gift Item) and Generic Bio-Chip III &times;5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "X7NSW9AK3DF6",
+      "reward": "Generic Bio-Chip III &times;5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "F7SJVHE0Y3K2",
+      "reward": "Firearm Magazine &times;500 (Vera Event Currency) and Generic Bio-Chip III &times;5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DRAGONBOAT2023",
+      "reward": "x2 Draw Master Selection Chest, x2 Savory Zongzi(Action Point Recovery) and x2 Sweet Zongzi(Action Point Recovery)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GOLDENWEEK2023",
+      "reward": "obtain avatar frame",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CAMELIAFORU",
+      "reward": "Camelia emoji",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NICE40KSEA",
+      "reward": "400 Iridimorphite and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ARIES2023",
+      "reward": "obtain frame",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECHOYGGDRASIL",
+      "reward": "5 Artifact Identification Application, 1 Elementium S and 10 Multicore Artifact Matrix",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SAKURALIFE",
+      "reward": "obtain a frame",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NICE30KSEA",
+      "reward": "200 Iridimorphite and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ECHO10KSEA",
+      "reward": "500 Iridimorphite and more",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "lowcostcosplay01",
+      "reward": "200 Iridimorphite",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EARLYACCESS",
+      "reward": "Random Favorability Gift Chest, Tribute Points and Random SR Furnishings Chest!",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "X7P2QJ",
+      "reward": "Mission Data IV x5, Crystalline Cells x200 (expires August 3rd)",
+      "expiry": "2026-08-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "9LD8KM",
+      "reward": "Random Special Chimera Chest x1, Multicore Artifact Matrix x5 (expires august 10th)",
+      "expiry": "2026-08-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

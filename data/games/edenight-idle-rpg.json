@@ -1,0 +1,49 @@
+{
+  "slug": "edenight-idle-rpg",
+  "titleEn": "Edenight",
+  "titleKo": null,
+  "sourcePath": "/edenight-idle-rpg/codes/",
+  "updatedAt": "2026-08-31T00:24:25.093Z",
+  "codes": [
+    {
+      "code": "edenightcome",
+      "reward": "3x Recruit Cards and 300x Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "lovefather",
+      "reward": "500 gems and 5 recruit tickets (Expires June 18)",
+      "expiry": "2027-06-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ricepudding",
+      "reward": "300 gems and 5 recruit tickets (Expires June 12)\\",
+      "expiry": "2027-06-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "happychild",
+      "reward": "5 Recruit cards and 300 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "goodluckdraw",
+      "reward": "200 gems and 2 recruit tickets (Valid till June 2)",
+      "expiry": "2027-06-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

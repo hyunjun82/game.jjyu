@@ -1,0 +1,73 @@
+{
+  "slug": "king-legacy",
+  "titleEn": "King Legacy",
+  "titleKo": null,
+  "sourcePath": "/king-legacy/codes/",
+  "updatedAt": "2026-08-31T00:24:30.594Z",
+  "codes": [
+    {
+      "code": "DinoxLive",
+      "reward": "100 000 Beli",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Peodiz",
+      "reward": "100 000 Beli",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMETOKINGLEGACY",
+      "reward": "30 Minutes x2 Exp",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SKGames",
+      "reward": "Free 2x EXP for 30 minutes (Roblox group members only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DragonColorRefund",
+      "reward": "50 gems (If your Dragon color before Update 7 was the original red, you will only get 10 gems)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "RainbowDragon",
+      "reward": "100 gems (Only works if you owned/unlocked the Rainbow Dragon Color before Update 7)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FREESTATSRESET",
+      "reward": "Stat Reset",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2MFAV",
+      "reward": "Reset Stats",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

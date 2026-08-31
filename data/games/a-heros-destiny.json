@@ -1,0 +1,41 @@
+{
+  "slug": "a-heros-destiny",
+  "titleEn": "A Hero's Destiny",
+  "titleKo": null,
+  "sourcePath": "/a-heros-destiny/codes/",
+  "updatedAt": "2026-08-31T00:24:18.551Z",
+  "codes": [
+    {
+      "code": "rose",
+      "reward": "2 hours free boosts",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "slime",
+      "reward": "2 hours of every Boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "choid",
+      "reward": "2 hours of every Boost",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "refund4",
+      "reward": "Ascendant Stat reset",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

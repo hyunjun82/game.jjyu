@@ -1,0 +1,33 @@
+{
+  "slug": "dc-worlds-collide",
+  "titleEn": "DC Worlds Collide",
+  "titleKo": null,
+  "sourcePath": "/dc-worlds-collide/redeem-codes/",
+  "updatedAt": "2026-08-31T00:24:23.183Z",
+  "codes": [
+    {
+      "code": "CATWOMANWWL",
+      "reward": "1 Rare Catwoman",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HARLEYWWL",
+      "reward": "1 Elite Harley Quinn",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "REDROBINWWL",
+      "reward": "1 Elite Red Robin",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

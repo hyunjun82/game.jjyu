@@ -1,0 +1,49 @@
+{
+  "slug": "shop-titans",
+  "titleEn": "Shop Titans promo",
+  "titleKo": null,
+  "sourcePath": "/shop-titans/codes/",
+  "updatedAt": "2026-08-31T00:24:42.520Z",
+  "codes": [
+    {
+      "code": "TAMAS2026",
+      "reward": "valid from April 1st to April 6th",
+      "expiry": "2027-04-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Zephyr",
+      "reward": "50 Research Scrolls/Ascensions shards/Antique Tokens/Dragonmarks",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRIDE",
+      "reward": "10 pride carpets, wall decoration: Heart of Pride, Pride T-shirt",
+      "expiry": "2099-07-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "THECOLLECTIONBEGINS",
+      "reward": "3 Packs",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "731DAYOFSTCHUB",
+      "reward": "48 Dragon Marks, 55 ascension Shards, 42 Research Scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

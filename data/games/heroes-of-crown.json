@@ -1,0 +1,121 @@
+{
+  "slug": "heroes-of-crown",
+  "titleEn": "Heroes of Crown",
+  "titleKo": null,
+  "sourcePath": "/heroes-of-crown/codes/",
+  "updatedAt": "2026-08-31T00:24:29.028Z",
+  "codes": [
+    {
+      "code": "HOCRECRUIT",
+      "reward": "x10 Premium Recruitment Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOCCARNIVAL",
+      "reward": "x300 Diamonds and x10 Random 5-star Shard",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOCOPENING",
+      "reward": "x100 Diamonds, Savage Beast, and x10 Random 5-star Shard",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOC0612",
+      "reward": "x200 Diamonds and x10 Random 5-star Shard",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025SEPT",
+      "reward": "Expires September 30th",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2025AUGUST",
+      "reward": "Expires August 31st",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "AnnivJune",
+      "reward": "expires June 30th",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOCMAY",
+      "reward": "expires May 31st",
+      "expiry": "2027-05-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOCAPR",
+      "reward": "expires April 30th",
+      "expiry": "2027-04-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CRYSTALMON",
+      "reward": "(Valid till October 02)",
+      "expiry": "2026-10-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MOONHOC",
+      "reward": "(Valid till September 30)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HOCSEPT",
+      "reward": "(Valid till September 30)",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NEWWEEK",
+      "reward": "x5 Premium Recruitment Ticket (Valid till June 19)",
+      "expiry": "2027-06-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CHAMPION",
+      "reward": "Expires August 18th",
+      "expiry": "2026-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

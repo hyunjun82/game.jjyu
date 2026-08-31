@@ -1,0 +1,41 @@
+{
+  "slug": "warframe",
+  "titleEn": "Warframe",
+  "titleKo": null,
+  "sourcePath": "/warframe/codes/",
+  "updatedAt": "2026-08-31T00:24:50.397Z",
+  "codes": [
+    {
+      "code": "TECHROT",
+      "reward": "MACTICS",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KOUMEI",
+      "reward": "FHF8U - Affinity Booster, Galatine, Heavy Sword Stance, Sugatra",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TH3GR8D3SP41R",
+      "reward": "On-Lyne poster",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PAVROS",
+      "reward": "Gives Golden Hand Decoration",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}

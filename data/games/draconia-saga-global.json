@@ -1,0 +1,673 @@
+{
+  "slug": "draconia-saga-global",
+  "titleEn": "Draconia Saga",
+  "titleKo": null,
+  "sourcePath": "/draconia-saga-global/codes/",
+  "updatedAt": "2026-08-31T00:24:23.820Z",
+  "codes": [
+    {
+      "code": "DRAGON9999",
+      "reward": "5 Drake Dust, 2 Drakite Summon Tickets, 3 Flowstone Random Bags",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LSHY7RWYP",
+      "reward": "50k Silver, 100 Lazulite, 5 Drakite Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "NMJYECPDU",
+      "reward": "3 Dia's Snackbag, 5 Drakite Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "6MJYC98LJ",
+      "reward": "3 Dia's Snackbag, 5 Drakite Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "H9MXMEJJJ",
+      "reward": "Latecomer Care Package Gift Code (expires May 23rd)",
+      "expiry": "2027-05-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WAMX2TXLH",
+      "reward": "Rainy-Day Care Package Gift Code (expires May 18th)",
+      "expiry": "2027-05-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TBMXMU8LX",
+      "reward": "Stocking Up: Dia's Expedition Prep (Expires May 11th)",
+      "expiry": "2027-05-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2TMX6K5BT",
+      "reward": "Pogley Express Gift Code (expires May 4th)",
+      "expiry": "2027-05-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JHMX95ADA",
+      "reward": "Hair Fail Recovery Gift Code (expires May 3rd)",
+      "expiry": "2027-05-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "EUMXD28EZ",
+      "reward": "Fishing Tournament Gift Code (expires April 27th)",
+      "expiry": "2027-04-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3WMXJFXS7",
+      "reward": "Hidden Books Treasure Hunt Gift Code (expires April 20th)",
+      "expiry": "2027-04-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZSMXH8XA6",
+      "reward": "Dragon Egg Carer Gift Code (expires April 19th)",
+      "expiry": "2027-04-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "HXMXWFA4J",
+      "reward": "Seashell Gift Code (expires April 13th)",
+      "expiry": "2027-04-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LYMXP46NM",
+      "reward": "Sweet Trouble Gift Code (Expires April 06th)",
+      "expiry": "2027-04-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "F7PX85STE",
+      "reward": "After the Rain Gift Code (expires March 30th)",
+      "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FTNXXHNND",
+      "reward": "Brewer's Apology Gift Code (expires March 27th)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "C8PX2R3J8",
+      "reward": "After the Rain Gift Code (expires March 23rd)",
+      "expiry": "2027-03-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "K9PX6ZZE4",
+      "reward": "Bountiful Catch Gift Code (expires March 16th)",
+      "expiry": "2027-03-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ZCPXWDMKN",
+      "reward": "Dragon Scale Gift Code (expires March 9th)",
+      "expiry": "2027-03-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "S4PXY8W2F",
+      "reward": "Sweet Dream Gift Code (expires March 8th)",
+      "expiry": "2027-03-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "85PXBL6AK",
+      "reward": "Celestial Shift Gift Code (expires March 2nd)",
+      "expiry": "2027-03-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "C6PXK77GC",
+      "reward": "Springbound Flight Gift Code (expires February 23rd)",
+      "expiry": "2027-02-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "H8RXB6YFP",
+      "reward": "Leisure Day Vibes Gift Code (expires February 16th)",
+      "expiry": "2027-02-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "C9RXRUJ42",
+      "reward": "Mechanical Heart Gift Code (expires February 9th)",
+      "expiry": "2027-02-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "SARX73LZP",
+      "reward": "Spring Tidings Gift Code (expires February 8th)",
+      "expiry": "2027-02-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "GLRXTP3E3",
+      "reward": "Hydration Gift Code (expires February 2nd)",
+      "expiry": "2027-02-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CMRXEL7E8",
+      "reward": "Static Spark Gift Codes (expires January 26th)",
+      "expiry": "2027-01-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XJSXRS8Y8",
+      "reward": "Master Organizer Gift Code (expires January 19th)",
+      "expiry": "2027-01-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "9HSXC33JC",
+      "reward": "Purple Grace Gift Code (expires January 18th)",
+      "expiry": "2027-01-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KBSXFX9BL",
+      "reward": "Icy Road Gift Code (expires January 12th)",
+      "expiry": "2027-01-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "79TXM3AYG",
+      "reward": "Quiet Winter Window Gift Code (expires January 6th)",
+      "expiry": "2027-01-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LATXM4C2B",
+      "reward": "Snowy Bonfire Gift Code (expires January 5th)",
+      "expiry": "2027-01-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "ABTX2AMW7",
+      "reward": "Cool Anticipation Gift Code (expires December 29th)",
+      "expiry": "2026-12-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "R6TXD3U4J",
+      "reward": "Memory Mist Gift Code (expires December 22nd)",
+      "expiry": "2026-12-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "XFTXP2Z2L",
+      "reward": "Finger-Tip Magic Gift Code (expires December 20th)",
+      "expiry": "2026-12-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "9GTXEP3PS",
+      "reward": "Adventure Recharge Gift Code (expires December 15th)",
+      "expiry": "2026-12-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WKTX2FWXM",
+      "reward": "Winter Sunlight Gift Code (Expires December 8th)",
+      "expiry": "2026-12-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BAUXTN7Z3",
+      "reward": "Rehearsal Gift Code (expires December 07th)",
+      "expiry": "2026-12-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DBUXD6SA9",
+      "reward": "Angler's Encounter (expires December 1st)",
+      "expiry": "2026-12-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "7HUXRZ9W7",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "11Pierus14",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Y8WX7ART9",
+      "reward": "Silverstream Dragonwing Gift Codes (expires November 18th)",
+      "expiry": "2026-11-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "87WXWHC3Z",
+      "reward": "Secret Pie Gift Code (expires November 17th)",
+      "expiry": "2026-11-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "BZUX3HT9C",
+      "reward": "First Snowfall: A Snowman's Song of Joy (expires November 10th)",
+      "expiry": "2026-11-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "77YX7RFDP",
+      "reward": "Dia's Sugar Rush Gift (expires October 7th)",
+      "expiry": "2026-10-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Z8YX7P8H8",
+      "reward": "Dia's Autumn Leaf Gift (expires October 6th)",
+      "expiry": "2026-10-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Y9YXR8JZJ",
+      "reward": "Dia's Meteoric Baking Gift (expires September 29th)",
+      "expiry": "2026-09-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MAYX3KRNP",
+      "reward": "Dia's Grand Performance Gift (expires September 22nd)",
+      "expiry": "2026-09-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "6BYXB4S5A",
+      "reward": "Dia's Sweet Gift Pack (expires September 21st)",
+      "expiry": "2026-09-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "9HYXLXZ5E",
+      "reward": "Dia's Starlight Totem Gift (expires September 15th)",
+      "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "N6YXLKRX6",
+      "reward": "Dia's Drift Bottle Bundle (expires September 08th)",
+      "expiry": "2026-09-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "2XYXSPK3F",
+      "reward": "Dia's Unexpected Gift Packs (expires September 07th)",
+      "expiry": "2026-09-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FYYXT7SJ2",
+      "reward": "Dia's Millennial Prophecy Pack (expires September 01st)",
+      "expiry": "2026-09-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "697YBX4EF",
+      "reward": "Dia's Cyber Night Gift Pack (Expires July 28th)",
+      "expiry": "2027-07-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4E7YXH2ST",
+      "reward": "Dia's Dance Party Gift (expires July 21st)",
+      "expiry": "2027-07-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "K27Y4H93D",
+      "reward": "Dia's Adorable Pet Taming Pack (expires July 17th)",
+      "expiry": "2027-07-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "837YY6W4L",
+      "reward": "Dia's Meteoric Wish (expires July 14th)",
+      "expiry": "2027-07-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CF8YA982P",
+      "reward": "Afternoon Refreshment Gift Code (expires July 07th)",
+      "expiry": "2027-07-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3G8Y5BEF6",
+      "reward": "Moonlit Treasure Gift Code",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "4K8YMWSNF",
+      "reward": "Dia's Pogley Workshop Gift (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DL8YLR9P4",
+      "reward": "Dia's Grand Gourmet Gift (expires June 23rd)",
+      "expiry": "2027-06-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YKAYLCD8Y",
+      "reward": "Dia's Ancient Mural Care Package",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "FMAYJN6LC",
+      "reward": "Dia's Aurora Care Package",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "TLAY4GD38",
+      "reward": "Dia's Cozy Maor Pack",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "JM8YEFZ7U",
+      "reward": "Special Council Supplies: Wintry Ridge Edition (expires June 20th)",
+      "expiry": "2027-06-20",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PY8Y7UTY9",
+      "reward": "Dia's Dragon Egg Breakthrough Gift (expires June 16th)",
+      "expiry": "2027-06-16",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "KZ8Y9R3WW",
+      "reward": "Dia's Summer Surprise Gift (expires June 9th)",
+      "expiry": "2027-06-09",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "8D9YG9NR7",
+      "reward": "Dia's Cozy Magic Dust (expires May 24th)",
+      "expiry": "2027-05-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PX9YCDUGZ",
+      "reward": "Dia's Alpha Angler (expires May 19th)",
+      "expiry": "2027-05-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "3H9YRR4W6",
+      "reward": "Dia's Early Summer Celebration Gift (Expires June 2nd)",
+      "expiry": "2027-06-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "WJ9Y29TCG",
+      "reward": "Dia's Dragon Blessing Gift (Expires June 1st)",
+      "expiry": "2027-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "YC9YF24M7",
+      "reward": "Dia's Dragonflame Blessing Gift (expires May 26th)",
+      "expiry": "2027-05-26",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "CUAYRXWDB",
+      "reward": "Expires April 11",
+      "expiry": "2027-04-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "67HYC2ECC",
+      "reward": "Expires March 27th (Global Only)",
+      "expiry": "2027-03-27",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "DPHYZ5HWE",
+      "reward": "Expires March 24th (Global Only)",
+      "expiry": "2027-03-24",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "Conduit0321",
+      "reward": "Expires March 28th (SEA Only)",
+      "expiry": "2027-03-28",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "PRAYM53DJ",
+      "reward": "Expires April 18",
+      "expiry": "2027-04-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "LZYXBH6UH",
+      "reward": "Dia's Ultimate Slacker Gift (expires August 25th)",
+      "expiry": "2026-08-25",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "YXZX9XUEP",
+      "reward": "Dia's Drizzly Day Gift (expires August 19th)",
+      "expiry": "2026-08-19",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "AYZXAREK7",
+      "reward": "Dia's Summer Beverage Giveaway (expires August 18th)",
+      "expiry": "2026-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "YZZX6XPCY",
+      "reward": "Dia's Theater Festival Gift (expires August 11th)",
+      "expiry": "2026-08-11",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "P77YBHP89",
+      "reward": "Dia's Dawn Offering (expires August 5th)",
+      "expiry": "2026-08-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    },
+    {
+      "code": "687YNBCJK",
+      "reward": "Dia's Moonlight Blessing Gift (expires August 4th)",
+      "expiry": "2026-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "guns-of-glory",
+  "titleEn": "Guns of Glory",
+  "titleKo": null,
+  "sourcePath": "/guns-of-glory/codes/",
+  "updatedAt": "2026-08-31T00:24:28.451Z",
+  "codes": [
+    {
+      "code": "GOG999",
+      "reward": "60m Construction Speedup x5, 10k Wood x5, 60m Speedup x5, Guard Badge x666, 10k Food x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "code": "MC999",
+      "reward": "10k Wood x5, 60m Construction Speedup x5, Guard Badge x666, 10k Food x 5, 60m Training Speedup x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31",
+      "status": "active"
+    }
+  ]
+}
