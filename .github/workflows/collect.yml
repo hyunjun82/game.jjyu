@@ -29,6 +29,11 @@ jobs:
         id: run
         run: node scripts/collect.mjs | tee /tmp/out.log
 
+      # 수집 결과를 숫자로 남긴다. 홈의 "오늘 새 쿠폰 N개" 배지와
+      # 수집기가 조용히 죽었는지 확인하는 근거가 된다.
+      - name: 통계 생성
+        run: node scripts/stats.mjs | tee -a /tmp/out.log
+
       - name: 변경분 커밋
         run: |
           CHANGED=$(grep -oP 'COLLECT_CHANGED=\K[0-9]+' /tmp/out.log | tail -1)
@@ -39,7 +44,7 @@ jobs:
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/games
+          git add data/games data/stats.json
           if git diff --cached --quiet; then
             echo "실제 diff 없음 — 커밋 생략"
             exit 0
@@ -47,3 +52,7 @@ jobs:
           STAMP=$(TZ=Asia/Seoul date '+%m-%d %H:%M')
           git commit -m "data: ${STAMP} 쿠폰 ${CHANGED}개 게임 갱신"
           git push
+
+      # 마지막 점검. 수집이 멈췄거나 데이터가 깨졌으면 여기서 실패시킨다.
+      - name: 발행 점검
+        run: node scripts/verify.mjs
