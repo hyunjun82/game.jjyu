@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36406-1724220495/infinity-nikki-ios-android-gamescom-2024-cover.jpg",
   "sourcePath": "/infinity-nikki/codes/",
-  "updatedAt": "2026-08-31T23:25:14.590Z",
+  "updatedAt": "2026-09-01T00:40:00.458Z",
   "codes": [
     {
       "code": "MOMOWISHESNIKKILISTENS",
@@ -1055,6 +1055,14 @@
       "status": "active"
     },
     {
+      "code": "PaintYourHome",
+      "reward": "10 Revelation Crystals (expires August 2nd)",
+      "expiry": "2027-08-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
       "code": "WATERISLIFE",
       "reward": "30,000 Blings, 50 Bubbles",
       "expiry": null,
@@ -1133,14 +1141,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
-    },
-    {
-      "code": "PaintYourHome",
-      "reward": "10 Revelation Crystals (expires August 2nd)",
-      "expiry": "2026-08-02",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "expired"
     }
   ]
 }

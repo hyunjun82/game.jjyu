@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33804-1643309056/awaken-chaos-era.jpg",
   "sourcePath": "/awaken-chaos-era/codes/",
-  "updatedAt": "2026-08-31T23:25:07.558Z",
+  "updatedAt": "2026-09-01T00:39:46.103Z",
   "codes": [
     {
       "code": "happy0601",
@@ -98,6 +98,14 @@
       "code": "Ineedadoctor",
       "reward": "Rewards: Abbott hero",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "Arrow",
+      "reward": "1,000 Diamonds (expires August 2nd)",
+      "expiry": "2027-08-02",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
@@ -213,14 +221,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
-    },
-    {
-      "code": "Arrow",
-      "reward": "1,000 Diamonds (expires August 2nd)",
-      "expiry": "2026-08-02",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "expired"
     },
     {
       "code": "HOLLYJOLLY",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-31T23:25:26.963Z",
+  "generatedAt": "2026-09-01T00:40:23.493Z",
   "today": "2026-09-01",
   "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9770,
-    "active": 9470,
-    "expired": 300,
+    "active": 9476,
+    "expired": 294,
     "withExpiry": 2578
   },
   "newByDate": [
@@ -286,7 +286,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 209,
+      "active": 210,
       "total": 225
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "slug": "infinity-nikki",
-      "active": 141,
+      "active": 142,
       "total": 142
     },
     {

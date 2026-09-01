@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34362-1655813658/eternal-evolution-ios-android-launch-cover.jpg",
   "sourcePath": "/eternal-evolution/codes/",
-  "updatedAt": "2026-08-31T23:25:11.496Z",
+  "updatedAt": "2026-09-01T00:39:54.251Z",
   "codes": [
     {
       "code": "P8W6H23",
@@ -746,6 +746,14 @@
       "code": "K2P8N3H",
       "reward": "Expires September 06th",
       "expiry": "2026-09-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "R3P2WT4",
+      "reward": "Expires August 2nd",
+      "expiry": "2027-08-02",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
@@ -1754,14 +1762,6 @@
       "code": "U2W4R6G",
       "reward": "Expires August 5th",
       "expiry": "2026-08-05",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "expired"
-    },
-    {
-      "code": "R3P2WT4",
-      "reward": "Expires August 2nd",
-      "expiry": "2026-08-02",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "expired"
