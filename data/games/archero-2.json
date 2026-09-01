@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36772-1732006289/archero-2-header.jpg",
   "sourcePath": "/archero-2/codes/",
-  "updatedAt": "2026-09-01T00:39:44.935Z",
+  "updatedAt": "2026-09-01T08:45:12.765Z",
   "codes": [
-    {
-      "code": "A2xRM",
-      "reward": "300 Energy, 10 Gems, 10k Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "active"
-    },
     {
       "code": "koeeeWR6",
       "reward": "200 Gems",
@@ -469,6 +461,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "A2xRM",
+      "reward": "300 Energy, 10 Gems, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "SlySly",
+      "reward": "200 Gems (expires August 30th)",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     },
     {
       "code": "F2PArmy",
