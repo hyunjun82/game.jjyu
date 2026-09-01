@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38440-1784111963/dragon-village-3-code-header.jpg",
   "sourcePath": "/dragon-village-3/codes/",
-  "updatedAt": "2026-09-01T14:11:39.327Z",
+  "updatedAt": "2026-09-01T18:36:51.186Z",
   "codes": [
     {
       "code": "DRAGON77",
       "reward": "600 Diamonds",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "300 Diamonds, 3 Fatigue Potions (7 Day)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "300 Diamonds, 3 Uncommon Draw Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     }
   ]

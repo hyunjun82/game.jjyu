@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35103-1674560046/blade-idle-img7.jpg",
   "sourcePath": "/blade-idle/codes/",
-  "updatedAt": "2026-09-01T14:11:32.589Z",
+  "updatedAt": "2026-09-01T18:36:44.692Z",
   "codes": [
     {
       "code": "2REDHORSSO",
       "reward": "500,000 Diamonds, a [Magic] Resource Choice Chest, 50 of each type of 7 Mine Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "4 Million Diamonds, [God] Gold/Exp Chest 40 each, 4 types of Dungeon Clearance Tickets 40 sheets, 40 Raid/PvP Entry Tickets, 7 types of Mine Tickets 400 sheets each",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "1 Million Diamonds, 10 Sweep Dungeons for Each Dungeon, 20 PvP/Raid Tickets, 2 Box Loot Buff (2,700 times) (Unity Server Zeus only)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "Rewards: 2000 Diamonds, 1 Enchant Stone Dungeon Ticket, 2x Normal Skill Book Chest",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "Rewards: 5000 Diamonds, 30k Enchant Stone, 3x Decorated Skill Book Chests, 3x Enchant Stone Dungeon Ticket (requires level 300)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "3000 Diamonds (requires level 300)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "3000 Diamonds, 2x Decorated Skill Book Chest, 2x Enchant Stone Dungeon Ticket (requires level 300)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "Diamond 250,000, Ancient Insignia Fragment 20, Each Dungeon Sweep Ticket 24 (expires January 31st)",
       "expiry": "2027-01-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "Diamond 500,000, Magic Resource Choice Chest 3, Each Mine 1 Hour Sweep Ticket 50 (expires January 31st)",
       "expiry": "2027-01-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     }
   ]

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35705-1736946483/warframe-screenshot-2.jpg",
   "sourcePath": "/warframe/codes/",
-  "updatedAt": "2026-09-01T14:12:17.084Z",
+  "updatedAt": "2026-09-01T18:37:32.137Z",
   "codes": [
     {
       "code": "TECHROT",
       "reward": "MACTICS",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "FHF8U - Affinity Booster, Galatine, Heavy Sword Stance, Sugatra",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "On-Lyne poster",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "Gives Golden Hand Decoration",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     }
   ]

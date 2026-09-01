@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-94170-1682359905/an-image-of-outerplane.jpg",
   "sourcePath": "/outerplane/codes/",
-  "updatedAt": "2026-09-01T14:11:58.914Z",
+  "updatedAt": "2026-09-01T18:37:12.812Z",
   "codes": [
     {
       "code": "FORAME3",
       "reward": "10x limited recruitment tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "10x limited recruitment tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "10x limited recruitment tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "500 ether",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "10x limited recruitment tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     }
   ]

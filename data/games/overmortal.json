@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35695-1769539757/overmortal-android-ios-image-of-horned-immortal-brandishing-a-sword-1-.jpg",
   "sourcePath": "/overmortal/codes/",
-  "updatedAt": "2026-09-01T14:11:59.638Z",
+  "updatedAt": "2026-09-01T18:37:13.637Z",
   "codes": [
     {
       "code": "WELCOME",
       "reward": "200 fateum",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "rewards (expires July 31st)",
       "expiry": "2027-07-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "rewards (expires July 24th)",
       "expiry": "2027-07-24",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires July 17th)",
       "expiry": "2027-07-17",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "rewards (expires July 10th)",
       "expiry": "2027-07-10",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "rewards (expires July 03rd)",
       "expiry": "2027-07-03",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "rewards (expires June 26th)",
       "expiry": "2027-06-26",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "rewards (expires June 19th)",
       "expiry": "2027-06-19",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "rewards (expires June 12th)",
       "expiry": "2027-06-12",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "rewards (expires June 05th)",
       "expiry": "2027-06-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "rewards (expires May 29th)",
       "expiry": "2027-05-29",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -99,7 +99,7 @@
       "reward": "rewards (expires May 22nd)",
       "expiry": "2027-05-22",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -107,7 +107,7 @@
       "reward": "rewards (expires May 14t)",
       "expiry": "2027-05-14",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -115,7 +115,7 @@
       "reward": "rewards (Expires May 07th)",
       "expiry": "2027-05-07",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -123,7 +123,7 @@
       "reward": "rewards (expires April 30th)",
       "expiry": "2027-04-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -131,7 +131,7 @@
       "reward": "rewards (expires April 24th)",
       "expiry": "2027-04-24",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -139,7 +139,7 @@
       "reward": "rewards (expires April 10th)",
       "expiry": "2027-04-10",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -147,7 +147,7 @@
       "reward": "rewards (expires April 3rd)",
       "expiry": "2027-04-03",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -155,7 +155,7 @@
       "reward": "rewards (expires March 27th)",
       "expiry": "2027-03-27",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -163,7 +163,7 @@
       "reward": "rewards (expires March 20th)",
       "expiry": "2027-03-20",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -171,7 +171,7 @@
       "reward": "rewards (expires March 12th)",
       "expiry": "2027-03-12",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -179,7 +179,7 @@
       "reward": "rewards (Global) (expires March 5th)",
       "expiry": "2027-03-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -187,7 +187,7 @@
       "reward": "rewards (SEA) (expires March 5th)",
       "expiry": "2027-03-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -195,7 +195,7 @@
       "reward": "rewards (expires August 28th)",
       "expiry": "2026-08-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -203,7 +203,7 @@
       "reward": "rewards (expires August 21st)",
       "expiry": "2026-08-21",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -211,7 +211,7 @@
       "reward": "rewards (expires August 14th)",
       "expiry": "2026-08-14",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -219,7 +219,7 @@
       "reward": "rewards (expires August 07th)",
       "expiry": "2026-08-07",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -227,7 +227,7 @@
       "reward": "weekly code expires February 25th, 2026",
       "expiry": "2026-02-25",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -235,7 +235,7 @@
       "reward": "weekly code expires February 18th, 2026",
       "expiry": "2026-02-18",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -243,7 +243,7 @@
       "reward": "weekly code expires February 11th, 2026",
       "expiry": "2026-02-11",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -251,7 +251,7 @@
       "reward": "weekly code expires February 05th, 2026",
       "expiry": "2026-02-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -259,7 +259,7 @@
       "reward": "weekly code expires January 28th, 2026",
       "expiry": "2026-01-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     }
   ]

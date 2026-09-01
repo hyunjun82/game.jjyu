@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35242-1722239700/demian-saga-header.jpg",
   "sourcePath": "/demian-saga/codes/",
-  "updatedAt": "2026-09-01T14:11:36.880Z",
+  "updatedAt": "2026-09-01T18:36:49.142Z",
   "codes": [
     {
       "code": "GoodStones",
       "reward": "3000 Faded Engraved Stones, 500 Clear Engraved Stones - (Expires September 30)",
       "expiry": "2026-09-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "3 Treasure Map (Gigantria) (Expires September 30)",
       "expiry": "2026-09-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "5 Gear Nation Change Ticket, 30 Advanced Gear Upgrade Material - (Expires September 30)",
       "expiry": "2026-09-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "3 Treasure Map (Elysion) - (Expires August 31)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "5000 Hearts, 30 Mysterious Building Tools - (Expires August 31)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "3 Treasure Map (Poseia) - (Expires August 31)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "100 Random Strategy Book - (Expires August 31)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "3 Treasure Map (Everwood) - (Expires August 31)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "3 Treasure Map (Akeroth) - (Expires August 31)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "500 Talent Material Box, 100 Advanced Talent Stone - (expires July 31st, 2024)",
       "expiry": "2024-07-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "3 Treasure Map (Gigantria) - (expires July 31st, 2024)",
       "expiry": "2024-07-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-02",
       "status": "expired"
     }
   ]
