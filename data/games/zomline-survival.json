@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38541-1782130320/zomline-survival-code-header.jpg",
   "sourcePath": "/zomline-survival/codes/",
-  "updatedAt": "2026-09-01T08:45:34.799Z",
+  "updatedAt": "2026-09-01T14:12:19.209Z",
   "codes": [
-    {
-      "code": "YDQ5JK7R",
-      "reward": "1 60m General Speedup, 20k Elixir, 100k Iron, 500k Wood, 500k Food",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "active"
-    },
     {
       "code": "ZS500RISE",
       "reward": "100 Gems, 20k Elixir, 100k Iron, 500k Wood, 500k Food",
@@ -29,6 +21,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "YDQ5JK7R",
+      "reward": "1 60m General Speedup, 20k Elixir, 100k Iron, 500k Wood, 500k Food",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "ZS1KBASE",
+      "reward": "rewards (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     },
     {
       "code": "7K2DJQAW",

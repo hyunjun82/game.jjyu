@@ -4,20 +4,12 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-97894-1715676324/an-image-of-fortias-saga.jpg",
   "sourcePath": "/fortias-saga/codes/",
-  "updatedAt": "2026-09-01T08:45:19.820Z",
+  "updatedAt": "2026-09-01T14:11:43.845Z",
   "codes": [
     {
       "code": "FS2YEAR",
       "reward": "10 Hero Gacha Tickets + 10 Equipment Gacha Tickets + 10 Eidolon Gacha Tickets + 10 Soulbound Gacha Tickets + 10 Pet Gacha Tickets + 1000 Ruby (expires April 30th)",
       "expiry": "2027-04-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "active"
-    },
-    {
-      "code": "WELCOMETOFS",
-      "reward": "500x Ruby + 50000x Gold + 1x Hero Gacha Ticket",
-      "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
@@ -293,6 +285,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "WELCOMETOFS",
+      "reward": "500x Ruby + 50000x Gold + 1x Hero Gacha Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "AUGFS26",
+      "reward": "300 Ruby + 50000 Gold + 150 Bread (expires August 31st)",
+      "expiry": "2026-08-31",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     }
   ]
 }

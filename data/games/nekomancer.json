@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38457-1787645858/nekomancer-ios-android-codes-cover.jpg",
   "sourcePath": "/nekomancer/codes/",
-  "updatedAt": "2026-09-01T08:45:26.044Z",
+  "updatedAt": "2026-09-01T14:11:57.425Z",
   "codes": [
-    {
-      "code": "NEKODISCORD",
-      "reward": "Diamond x300",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "active"
-    },
     {
       "code": "NEKOMANCER",
       "reward": "Diamond x300",
@@ -37,6 +29,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "NEKODISCORD",
+      "reward": "Diamond x300",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "DUNGEONODY26",
+      "reward": "Diamond x300 (Expires: August 28th)",
+      "expiry": "2026-08-28",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     }
   ]
 }

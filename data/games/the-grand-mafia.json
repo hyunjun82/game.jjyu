@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34892-1668463566/grand-mafia-2nd-anniv-header.jpg",
   "sourcePath": "/the-grand-mafia/codes/",
-  "updatedAt": "2026-09-01T08:45:32.234Z",
+  "updatedAt": "2026-09-01T14:12:12.554Z",
   "codes": [
-    {
-      "code": "PlayTGMPC",
-      "reward": "PC code only",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "active"
-    },
     {
       "code": "TGM999PC",
       "reward": "PC code only",
@@ -49,6 +41,14 @@
     {
       "code": "TGMPC888",
       "reward": "300 Gold, 10 Family Building Material Redemption Coupons, 1-Hr Speed-up, 1-Hr Training Speed-up, 100 VIP Points [only valid on PC client]",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "PlayTGMPC",
+      "reward": "PC code only",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",

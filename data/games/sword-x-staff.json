@@ -4,13 +4,13 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38322-1779890679/sword-x-staff-header.jpg",
   "sourcePath": "/sword-x-staff/codes/",
-  "updatedAt": "2026-09-01T08:45:31.383Z",
+  "updatedAt": "2026-09-01T14:12:10.418Z",
   "codes": [
     {
-      "code": "THEGAMETHEORIST",
-      "reward": "1 Destiny Fruit, 20 Rare Auroral Badges, 1 Stellatie",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "Summer",
+      "reward": "160 Dawnium (expires September 1st)",
+      "expiry": "2026-09-01",
+      "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-01",
       "status": "active"
     },
@@ -162,6 +162,14 @@
       "code": "Chomusuke",
       "reward": "30 Chomusuke Shard (expires July 01st)",
       "expiry": "2027-07-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "THEGAMETHEORIST",
+      "reward": "1 Destiny Fruit, 20 Rare Auroral Badges, 1 Stellatie",
+      "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"

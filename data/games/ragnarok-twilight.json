@@ -4,13 +4,13 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38642-1786013859/ragnarok-twilight-codes-cover.jpg",
   "sourcePath": "/ragnarok-twilight/codes/",
-  "updatedAt": "2026-09-01T08:45:28.034Z",
+  "updatedAt": "2026-09-01T14:12:02.271Z",
   "codes": [
     {
-      "code": "FOREVERLOVE26",
-      "reward": "",
+      "code": "2X8T5Z3N",
+      "reward": "expires 30 AUG 2026, 23:59 (UTC+8)",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-01",
       "status": "active"
     },
@@ -33,6 +33,14 @@
     {
       "code": "6V5M9B2R",
       "reward": "Tarot Pendulum x 1, Reward Selection, Clock Tower Key, Rune Selection, 100 Blue Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "FOREVERLOVE26",
+      "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",

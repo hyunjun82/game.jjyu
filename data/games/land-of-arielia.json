@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38517-1783414841/land-of-arielia-code-header.jpg",
   "sourcePath": "/land-of-arielia/codes/",
-  "updatedAt": "2026-09-01T08:45:22.832Z",
+  "updatedAt": "2026-09-01T14:11:50.211Z",
   "codes": [
-    {
-      "code": "AA79Uf",
-      "reward": "12 Jades of Spiritpray",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "active"
-    },
     {
       "code": "ARIELIASGIFT",
       "reward": "1k Gold Leaves, 2 Orange Treasure Essences, 2 Nutritious Fiend Skewers, 300 Tempered Sparks",
@@ -53,6 +45,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-01",
       "status": "active"
+    },
+    {
+      "code": "AA79Uf",
+      "reward": "12 Jades of Spiritpray",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
+      "status": "active"
+    },
+    {
+      "code": "AA98DG",
+      "reward": "rewards (expires August 30th)",
+      "expiry": "2026-08-30",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01",
+      "status": "expired"
     },
     {
       "code": "AA97mB",

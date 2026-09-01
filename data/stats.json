@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-01T08:45:35.132Z",
+  "generatedAt": "2026-09-01T14:12:19.531Z",
   "today": "2026-09-01",
-  "todayNew": 2,
+  "todayNew": 12,
   "totals": {
     "games": 358,
-    "codes": 9772,
-    "active": 9477,
-    "expired": 295,
-    "withExpiry": 2579
+    "codes": 9782,
+    "active": 9480,
+    "expired": 302,
+    "withExpiry": 2588
   },
   "newByDate": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "date": "2026-09-01",
-      "count": 2
+      "count": 12
     }
   ],
   "expiringSoon": [
@@ -71,6 +71,18 @@
     {
       "slug": "omniheroes",
       "code": "THANKU1Y",
+      "expiry": "2026-09-01",
+      "days": 0
+    },
+    {
+      "slug": "skull-up",
+      "code": "LABOR",
+      "expiry": "2026-09-01",
+      "days": 0
+    },
+    {
+      "slug": "sword-x-staff",
+      "code": "Summer",
       "expiry": "2026-09-01",
       "days": 0
     },
