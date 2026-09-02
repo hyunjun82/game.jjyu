@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-24672-1650708202/top-eleven-image.jpg",
   "sourcePath": "/top-eleven/codes/",
-  "updatedAt": "2026-09-02T11:27:49.611Z",
+  "updatedAt": "2026-09-02T16:40:54.060Z",
   "codes": [
     {
       "code": "GOLDNIGHTINSTOKE",
       "reward": "Rewards: 3x Tokens",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "Rewards: 5x Tokens",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Rewards: 2x Tokens",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     }
   ]

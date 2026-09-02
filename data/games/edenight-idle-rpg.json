@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-96763-1707288666/edenight-cover-image.jpg",
   "sourcePath": "/edenight-idle-rpg/codes/",
-  "updatedAt": "2026-09-02T11:27:29.733Z",
+  "updatedAt": "2026-09-02T16:40:26.633Z",
   "codes": [
     {
       "code": "edenightcome",
       "reward": "3x Recruit Cards and 300x Gems",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "500 gems and 5 recruit tickets (Expires June 18)",
       "expiry": "2027-06-18",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "300 gems and 5 recruit tickets (Expires June 12)\\",
       "expiry": "2027-06-12",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "5 Recruit cards and 300 Gems",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "200 gems and 2 recruit tickets (Valid till June 2)",
       "expiry": "2027-06-02",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     }
   ]

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33880-1645122394/ant-legion.jpg",
   "sourcePath": "/ant-legion/codes/",
-  "updatedAt": "2026-09-02T11:27:23.669Z",
+  "updatedAt": "2026-09-02T16:40:17.332Z",
   "codes": [
     {
       "code": "LOVE214",
       "reward": "Rewards: 6x 10,000 water, 6x 2500 fungi, 6x 5 min speed, march recall, and random relocate",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     }
   ]

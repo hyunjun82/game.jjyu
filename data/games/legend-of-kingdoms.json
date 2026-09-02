@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36770-1735404591/legend-of-kingdoms-headers.jpg",
   "sourcePath": "/legend-of-kingdoms/codes/",
-  "updatedAt": "2026-09-02T11:27:36.074Z",
+  "updatedAt": "2026-09-02T16:40:36.157Z",
   "codes": [
     {
       "code": "LOKFORDC",
       "reward": "100 Jade, 5 Recruit Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "200 Jade, 10 Recruit Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "",
       "expiry": "2027-04-07",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "",
       "expiry": "2027-04-07",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     }
   ]

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38261-1772474323/last-asylum-plague-android-ios-sanctuary-surronded-by-plague-rats-2-.jpg",
   "sourcePath": "/last-asylum-plague/codes/",
-  "updatedAt": "2026-09-02T11:27:35.780Z",
+  "updatedAt": "2026-09-02T16:40:35.544Z",
   "codes": [
     {
       "code": "LAEGG26",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "100 Diamonds x1, 5m Speedup x12, 5k grain x3, 5k Timber x3",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "100 Diamonds x1, 5m Speedup x 10, 1ok grain x1, 10k Timber x1, 6k herbs x1, Survivor Recruit Ticket x2",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "100 Diamonds, 5m Speedup x12, 5k Grin x3, 5k Timber x3",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     }
   ]

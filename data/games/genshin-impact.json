@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-31024-1611513068/genshin%20impact%20ios%20android%20redeem%20code%20title.JPG",
   "sourcePath": "/genshin-impact/codes/",
-  "updatedAt": "2026-09-02T11:27:32.009Z",
+  "updatedAt": "2026-09-02T16:40:29.495Z",
   "codes": [
     {
       "code": "OntoSnezhnaya",
       "reward": "100 Primogems, 5 Hero's Wits (expires August 3rd)",
       "expiry": "2027-08-03",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "100 Primogems, 50,000 Mora (expires August 3rd)",
       "expiry": "2027-08-03",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "60 Primogems, 5 Adventurer's Experience",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -35,15 +35,7 @@
       "reward": "Mora &times;10,000, Adventurer's Experience &times;10, Fine Enhancement Ore &times;5, Jueyun Chili Chicken &times;5, Stir-Fried Fish Noodles &times;5",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
-      "status": "active"
-    },
-    {
-      "code": "LEGEDILJKSGM",
-      "reward": "Primogem &times;60, Adventurer's Experience &times;5 (expires September 2nd)",
-      "expiry": "2026-09-02",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -51,7 +43,7 @@
       "reward": "Primogem &times;100, Mora &times;50,000 (expires March 30th)",
       "expiry": "2027-03-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -59,7 +51,7 @@
       "reward": "Primogem &times;100, Hero's Wit &times;5 (expires March 30th)",
       "expiry": "2027-03-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -67,8 +59,16 @@
       "reward": "Primogem &times;100, Mystic Enhancement Ore &times;10 (expires March 30th)",
       "expiry": "2027-03-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
+    },
+    {
+      "code": "LEGEDILJKSGM",
+      "reward": "Primogem &times;60, Adventurer's Experience &times;5 (expires September 2nd)",
+      "expiry": "2026-09-02",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "expired"
     }
   ]
 }

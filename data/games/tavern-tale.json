@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38141-1770428132/tavern-tale-android-ios-feature-image-1-.jpg",
   "sourcePath": "/tavern-tale/codes/",
-  "updatedAt": "2026-09-02T11:27:48.457Z",
+  "updatedAt": "2026-09-02T16:40:52.479Z",
   "codes": [
     {
       "code": "HKLDDJS1",
       "reward": "Berry Bundle x2, Toy Token x 1",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "Berry Bundle x2",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Berry Bundle x1",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "Berry Bundle x2, Large StarCookie x1",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "Large StarCookie Pack X1, Toy Token X1, Berry x100",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
+      "lastSeen": "2026-09-03",
       "status": "active"
     }
   ]
