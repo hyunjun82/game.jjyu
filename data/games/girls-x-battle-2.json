@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-32757-1623145281/Girls-X-II-Header.jpg",
   "sourcePath": "/girls-x-battle-2/codes/",
-  "updatedAt": "2026-09-01T23:21:58.553Z",
+  "updatedAt": "2026-09-02T04:43:29.605Z",
   "codes": [
     {
       "code": "tiktok111",
@@ -26,6 +26,14 @@
       "code": "GXB222",
       "reward": "100 gems, and also 40 shards of 4 star girl (only for new accounts)",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-02",
+      "status": "active"
+    },
+    {
+      "code": "5ANNI005",
+      "reward": "20 Soul Tokens and 10 Regular Customized Resource Chests (Valid till August 3)",
+      "expiry": "2027-08-03",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-02",
       "status": "active"
@@ -93,14 +101,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-02",
       "status": "active"
-    },
-    {
-      "code": "5ANNI005",
-      "reward": "20 Soul Tokens and 10 Regular Customized Resource Chests (Valid till August 3)",
-      "expiry": "2026-08-03",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
-      "status": "expired"
     }
   ]
 }

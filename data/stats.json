@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-01T23:22:16.435Z",
+  "generatedAt": "2026-09-02T04:43:51.173Z",
   "today": "2026-09-02",
   "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9782,
-    "active": 9457,
-    "expired": 325,
+    "active": 9464,
+    "expired": 318,
     "withExpiry": 2588
   },
   "newByDate": [
@@ -235,7 +235,7 @@
     },
     {
       "slug": "echocalypse",
-      "active": 186,
+      "active": 187,
       "total": 189
     },
     {
@@ -270,7 +270,7 @@
     },
     {
       "slug": "infinite-magicraid",
-      "active": 122,
+      "active": 123,
       "total": 131
     },
     {

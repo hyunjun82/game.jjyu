@@ -4,12 +4,20 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37463-1746704948/run-goddess.jpg",
   "sourcePath": "/run-goddess/codes/",
-  "updatedAt": "2026-09-01T23:22:08.754Z",
+  "updatedAt": "2026-09-02T04:43:41.977Z",
   "codes": [
     {
       "code": "RUNHAPPY",
       "reward": "1 Gem Chest",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-02",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYAUGRG",
+      "reward": "1,500 Gems (expires August 03rd)",
+      "expiry": "2027-08-03",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-02",
       "status": "active"
@@ -357,14 +365,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-02",
       "status": "active"
-    },
-    {
-      "code": "LUCKYAUGRG",
-      "reward": "1,500 Gems (expires August 03rd)",
-      "expiry": "2026-08-03",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-02",
-      "status": "expired"
     },
     {
       "code": "RGCULTURAL",
