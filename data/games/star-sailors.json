@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37862-1782929132/star-sailors-code-header.jpg",
   "sourcePath": "/star-sailors/codes/",
-  "updatedAt": "2026-09-03T11:23:58.826Z",
+  "updatedAt": "2026-09-03T16:33:26.384Z",
   "codes": [
     {
       "code": "HEIDISGIFT",
       "reward": "Bulging Mushroom x5",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "EXP Poiton (M) x50",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Gold Compass x10",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "Bulging Mushroom x5, Silver Compass x20 (expires July 28th)",
       "expiry": "2027-07-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "Silver Compass x5 (expires July 13th)",
       "expiry": "2027-07-13",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "Silver Compass x5 (expires July 15th)",
       "expiry": "2027-07-15",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "3 Bulging Mushrooms, 50 EXP Potions (M) - expires July 8th",
       "expiry": "2027-07-08",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "10 Silver Compasses, 50k Gold, 10 EXP Potions (M), 10 Upgrade Stones (M) - expires July 7th",
       "expiry": "2027-07-07",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "Silver Compass x10 (expires August 31st)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "expired"
     },
     {

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-32722-1618311161/Alchemy-Star-iOS-Android-Header.jpg",
   "sourcePath": "/alchemy-stars/codes/",
-  "updatedAt": "2026-09-03T11:23:41.159Z",
+  "updatedAt": "2026-09-03T16:31:59.557Z",
   "codes": [
     {
       "code": "alchemyfanart",
       "reward": "Rewards: Anonymous Gift II, 5,000 Nightium",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "Rewards: General Jasper I, 5,000 Nightium",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Rewards: 150 Lumamber, 10,000 Nightium",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "Rewards: Anonymous Gift II, 5,000 Nightium",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "Rewards: 300 Lumamber, 1 Star Flare, 30,000 Nighteum, 5 General Jasper I, Maple Bonsai Furniture",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "Rewards: 1x Star Flare, 30k Nightium",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "Rewards: 3k Nightium, 2x Tier 1 Jasper for each element",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "Rewards: 30 Prism, 5000 Nightium",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "3k Nightium, 200 Heartstone and 2xT2 Gifts (US server)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     }
   ]

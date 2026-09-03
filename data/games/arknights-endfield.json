@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33994-1769339305/endfield-intro.jpg",
   "sourcePath": "/arknights-endfield/codes/",
-  "updatedAt": "2026-09-03T11:23:41.815Z",
+  "updatedAt": "2026-09-03T16:32:03.050Z",
   "codes": [
     {
       "code": "ENDFIELD4PC",
       "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "150 Oroberyl, 10k T-Creds, 20 Intermediate Combat Records, 20 Arms INSP Kits",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "1.5k Oroberyl, 6k T-Creds, 30 Elementary Combat Records, 5 Protodisks, 1 Mark of Perseverance, 5 Protoprisms, 30 Arms Inspectors [expires January 29]",
       "expiry": "2027-01-29",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "500 Oroberyl, 6k T-Creds, 30 Elementary Combat Records, 5 Protodisks, 5 Protoprisms, 30 Arms Inspectors [expires January 29]",
       "expiry": "2027-01-29",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     }
   ]

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33438-1738696130/gran-saga-global-header-for-codes.jpg",
   "sourcePath": "/gran-saga/codes/",
-  "updatedAt": "2026-09-03T11:23:48.530Z",
+  "updatedAt": "2026-09-03T16:32:29.401Z",
   "codes": [
     {
       "code": "PUPPETMASTER",
       "reward": "1000000 Gold, 10 Golden Royal Orders, 5 Badge of Valor, 150 EXP Potions, 100 Caramel Pudding",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "rewards (expires March 15th)",
       "expiry": "2027-03-15",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "rewards (expires March 14th)",
       "expiry": "2027-03-14",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires March 13th)",
       "expiry": "2027-03-13",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     }
   ]

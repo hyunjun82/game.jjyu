@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-30029-1653885824/diablo-immortal-artwork.jpg",
   "sourcePath": "/diablo-immortal/codes/",
-  "updatedAt": "2026-09-03T11:23:45.046Z",
+  "updatedAt": "2026-09-03T16:32:16.743Z",
   "codes": [
     {
       "code": "FLESHHARVEST",
       "reward": "3 Aquamarines, 3 Sapphires, 2 Crests, and 2 Legendary Items",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "3 Rare Chests, 1 Green Set",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "3 Crests, 3 Rubies, and 3 Tourmaline",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "1 Mysterious Legendary Helmet, 1 Mysterious Legendary Item - Chestplate, 1 Legendary Chest",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "Make sure you're logged into your Battle.net account!",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     }
   ]

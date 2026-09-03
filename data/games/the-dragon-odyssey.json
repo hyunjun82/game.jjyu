@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37081-1737385858/the-dragon-odyssey-header.jpg",
   "sourcePath": "/the-dragon-odyssey/codes/",
-  "updatedAt": "2026-09-03T11:24:00.263Z",
+  "updatedAt": "2026-09-03T16:33:33.220Z",
   "codes": [
     {
       "code": "FBTDO1KFS",
       "reward": "100k Silver, 1 Orange Sprite Egg, 5 R1 Enhance Crystals",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "200k Silver, 50 Bound Platinum, 200k Gold, 5 R1 Enhance Crystals",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "rewards (expires July 31st)",
       "expiry": "2027-07-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires July 31st)",
       "expiry": "2027-07-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "rewards (expires April 30th)",
       "expiry": "2027-04-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "expires June 30th",
       "expiry": "2027-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "Expires April 30th",
       "expiry": "2027-04-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "Expires April 30th",
       "expiry": "2027-04-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "Expires April 17th",
       "expiry": "2027-04-17",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "Expires March 31st",
       "expiry": "2027-03-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "Expires March 31st",
       "expiry": "2027-03-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "active"
     },
     {
@@ -99,7 +99,7 @@
       "reward": "Rewards (expires August 30th)",
       "expiry": "2026-08-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "expired"
     },
     {
@@ -107,7 +107,7 @@
       "reward": "Rewards (expires August 30th)",
       "expiry": "2026-08-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "status": "expired"
     }
   ]
