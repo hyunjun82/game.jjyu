@@ -4,8 +4,32 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36890-1743549711/ludus-header.jpg",
   "sourcePath": "/ludus-merge-battle-arena/codes/",
-  "updatedAt": "2026-09-03T04:39:44.170Z",
+  "updatedAt": "2026-09-03T11:23:51.885Z",
   "codes": [
+    {
+      "code": "B3N8C5V7L9A2",
+      "reward": "50 emeralds, 1000 gold",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-09-03",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
+      "code": "E6W1Q0Z4Y8F3",
+      "reward": "5 ethereal crystals, 1000 gold",
+      "expiry": "2026-09-30",
+      "firstSeen": "2026-09-03",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
+      "code": "LEADER",
+      "reward": "Masks",
+      "expiry": null,
+      "firstSeen": "2026-09-03",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
     {
       "code": "NEWTOURNEY",
       "reward": "",
