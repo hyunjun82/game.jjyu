@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37253-1741780296/draconia-saga-global-header.jpg",
   "sourcePath": "/draconia-saga-global/codes/",
-  "updatedAt": "2026-09-02T23:21:54.096Z",
+  "updatedAt": "2026-09-03T04:39:37.900Z",
   "codes": [
     {
       "code": "DRAGON9999",
@@ -423,6 +423,14 @@
       "status": "active"
     },
     {
+      "code": "687YNBCJK",
+      "reward": "Dia's Moonlight Blessing Gift (expires August 4th)",
+      "expiry": "2027-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
       "code": "697YBX4EF",
       "reward": "Dia's Cyber Night Gift Pack (Expires July 28th)",
       "expiry": "2027-07-28",
@@ -658,14 +666,6 @@
       "code": "P77YBHP89",
       "reward": "Dia's Dawn Offering (expires August 5th)",
       "expiry": "2026-08-05",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
-      "status": "expired"
-    },
-    {
-      "code": "687YNBCJK",
-      "reward": "Dia's Moonlight Blessing Gift (expires August 4th)",
-      "expiry": "2026-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "expired"

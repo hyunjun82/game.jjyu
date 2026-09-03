@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34362-1655813658/eternal-evolution-ios-android-launch-cover.jpg",
   "sourcePath": "/eternal-evolution/codes/",
-  "updatedAt": "2026-09-02T23:21:55.606Z",
+  "updatedAt": "2026-09-03T04:39:39.033Z",
   "codes": [
     {
       "code": "MU55AGV",
@@ -106,6 +106,14 @@
       "code": "DCFuelTank",
       "reward": "Recruitment Cards and Resources",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
+      "code": "MA867W2",
+      "reward": "expires August 04th",
+      "expiry": "2027-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "active"
@@ -1543,6 +1551,14 @@
       "status": "active"
     },
     {
+      "code": "IndependenceDay",
+      "reward": "Recruitment Cards and Resources (Expires on August 4)",
+      "expiry": "2027-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
       "code": "FuelTankFB",
       "reward": "Recruitment Cards and Resources (Expires on July 27)",
       "expiry": "2027-07-27",
@@ -1703,14 +1719,6 @@
       "status": "expired"
     },
     {
-      "code": "MA867W2",
-      "reward": "expires August 04th",
-      "expiry": "2026-08-04",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
-      "status": "expired"
-    },
-    {
       "code": "K2W8T9S",
       "reward": "Expires September 02nd",
       "expiry": "2026-09-02",
@@ -1794,14 +1802,6 @@
       "code": "40kGlobalLikesFB",
       "reward": "- Recruitment Cards and Resources (Expires on August 8)",
       "expiry": "2026-08-08",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
-      "status": "expired"
-    },
-    {
-      "code": "IndependenceDay",
-      "reward": "Recruitment Cards and Resources (Expires on August 4)",
-      "expiry": "2026-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "expired"

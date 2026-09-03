@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-91575-1661269831/infinite-magicraid.jpg",
   "sourcePath": "/infinite-magicraid/codes/",
-  "updatedAt": "2026-09-02T23:21:59.801Z",
+  "updatedAt": "2026-09-03T04:39:42.136Z",
   "codes": [
     {
       "code": "IMR4INVU",
@@ -506,6 +506,14 @@
       "code": "usguimrbirthday",
       "reward": "10 Excellent Rune (expires September 14th)",
       "expiry": "2026-09-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
+      "code": "SHTIME2025",
+      "reward": "10 Echo Runes (expires August 04th)",
+      "expiry": "2027-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "active"
@@ -1026,14 +1034,6 @@
       "code": "NEWMYTHIC",
       "reward": "10 Excellent Rune, 3 Advanced Skill Scroll, 10MCoin (expires August 14th)",
       "expiry": "2026-08-14",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
-      "status": "expired"
-    },
-    {
-      "code": "SHTIME2025",
-      "reward": "10 Echo Runes (expires August 04th)",
-      "expiry": "2026-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "expired"

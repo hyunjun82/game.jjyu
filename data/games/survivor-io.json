@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34539-1660573193/survivorio-codes-1.jpg",
   "sourcePath": "/survivor-io/codes/",
-  "updatedAt": "2026-09-02T23:22:10.815Z",
+  "updatedAt": "2026-09-03T04:39:52.251Z",
   "codes": [
     {
       "code": "4thAnniversary",
@@ -415,6 +415,14 @@
       "status": "active"
     },
     {
+      "code": "hotsummer",
+      "reward": "Gem x200, Energy x30, Special-op Ticket x3 (expires August 04th)",
+      "expiry": "2027-08-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
       "code": "goldenweek25",
       "reward": "Gem x200, Joey Shards x3, and Collectible Chest Key x3 (expires May 7th)",
       "expiry": "2027-05-07",
@@ -797,14 +805,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "active"
-    },
-    {
-      "code": "hotsummer",
-      "reward": "Gem x200, Energy x30, Special-op Ticket x3 (expires August 04th)",
-      "expiry": "2026-08-04",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
-      "status": "expired"
     },
     {
       "code": "AutumnNow",

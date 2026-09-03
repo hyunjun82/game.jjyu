@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T23:22:15.386Z",
+  "generatedAt": "2026-09-03T04:39:56.706Z",
   "today": "2026-09-03",
   "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9782,
-    "active": 9461,
-    "expired": 321,
+    "active": 9469,
+    "expired": 313,
     "withExpiry": 2588
   },
   "newByDate": [
@@ -230,7 +230,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 208,
+      "active": 210,
       "total": 225
     },
     {
@@ -270,12 +270,12 @@
     },
     {
       "slug": "infinite-magicraid",
-      "active": 123,
+      "active": 124,
       "total": 131
     },
     {
       "slug": "call-of-antia",
-      "active": 120,
+      "active": 121,
       "total": 132
     },
     {
@@ -294,14 +294,14 @@
       "total": 114
     },
     {
+      "slug": "survivor-io",
+      "active": 100,
+      "total": 103
+    },
+    {
       "slug": "star-stable-online",
       "active": 99,
       "total": 99
-    },
-    {
-      "slug": "survivor-io",
-      "active": 99,
-      "total": 103
     },
     {
       "slug": "cat-fantasy",

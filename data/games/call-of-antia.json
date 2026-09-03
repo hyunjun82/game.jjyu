@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33726-1641222983/call-of-antia.jpg",
   "sourcePath": "/call-of-antia/codes/",
-  "updatedAt": "2026-09-02T23:21:52.065Z",
+  "updatedAt": "2026-09-03T04:39:34.977Z",
   "codes": [
     {
       "code": "MoonPhase",
@@ -354,6 +354,14 @@
       "code": "AntiaAcademy",
       "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
       "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
+      "status": "active"
+    },
+    {
+      "code": "Care4Heroes",
+      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
+      "expiry": "2027-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "active"
@@ -1010,14 +1018,6 @@
       "code": "BurningCharmer",
       "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
       "expiry": "2026-08-11",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-03",
-      "status": "expired"
-    },
-    {
-      "code": "Care4Heroes",
-      "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
-      "expiry": "2026-08-04",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-03",
       "status": "expired"
