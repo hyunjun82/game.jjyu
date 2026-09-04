@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36356-1734355148/isekai-feast-header.jpg",
   "sourcePath": "/isekai-feast/codes/",
-  "updatedAt": "2026-09-04T11:27:09.503Z",
+  "updatedAt": "2026-09-04T16:27:47.219Z",
   "codes": [
     {
       "code": "FindARainbow",
       "reward": "expires April 6th",
       "expiry": "2027-04-06",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "rewards (expires March 10th)",
       "expiry": "2027-03-10",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "rewards (expires March 9th)",
       "expiry": "2027-03-09",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires March 2nd)",
       "expiry": "2027-03-02",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "rewards (expires March 2nd)",
       "expiry": "2027-03-02",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "expires February 17th",
       "expiry": "2027-02-17",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "Expires January 13th",
       "expiry": "2027-01-13",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "Expires January 5th",
       "expiry": "2027-01-05",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

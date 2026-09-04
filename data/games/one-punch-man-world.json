@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-96713-1706806203/one-punch-man-world-resized.jpg",
   "sourcePath": "/one-punch-man-world/codes/",
-  "updatedAt": "2026-09-04T11:27:16.561Z",
+  "updatedAt": "2026-09-04T16:27:53.247Z",
   "codes": [
     {
       "code": "StPattyOPMW",
       "reward": "25 World Silver, 10 EXP card",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "300 World Silver",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "1 regular draw ticket, 200 silver",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

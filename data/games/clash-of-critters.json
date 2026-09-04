@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38478-1779900645/clash-of-critters-codes-header.jpg",
   "sourcePath": "/clash-of-critters/codes/",
-  "updatedAt": "2026-09-04T11:26:59.664Z",
+  "updatedAt": "2026-09-04T16:27:39.687Z",
   "codes": [
     {
       "code": "weeklygift",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "4k Candy, 1 Lunchbox, 1 Goonbug (expires June 20th)",
       "expiry": "2027-06-20",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "4k Candy, 3 Tatari Capsules, 1k Pinballs (expires June 21st)",
       "expiry": "2027-06-21",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

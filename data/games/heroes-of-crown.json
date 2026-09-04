@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34287-1654673449/heroes-of-crown-ios-android-pre-reg-cover.jpg",
   "sourcePath": "/heroes-of-crown/codes/",
-  "updatedAt": "2026-09-04T11:27:08.030Z",
+  "updatedAt": "2026-09-04T16:27:46.349Z",
   "codes": [
     {
       "code": "HOCRECRUIT",
       "reward": "x10 Premium Recruitment Ticket",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "x300 Diamonds and x10 Random 5-star Shard",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "x100 Diamonds, Savage Beast, and x10 Random 5-star Shard",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "x200 Diamonds and x10 Random 5-star Shard",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "Expires September 30th",
       "expiry": "2026-09-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "expires June 30th",
       "expiry": "2027-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "expires May 31st",
       "expiry": "2027-05-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "expires April 30th",
       "expiry": "2027-04-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "(Valid till October 02)",
       "expiry": "2026-10-02",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "(Valid till September 30)",
       "expiry": "2026-09-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "(Valid till September 30)",
       "expiry": "2026-09-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -99,7 +99,7 @@
       "reward": "x5 Premium Recruitment Ticket (Valid till June 19)",
       "expiry": "2027-06-19",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -107,7 +107,7 @@
       "reward": "Expires August 31st",
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "reward": "Expires August 18th",
       "expiry": "2026-08-18",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "expired"
     }
   ]

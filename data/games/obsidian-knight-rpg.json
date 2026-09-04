@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37524-1748338787/obsidian-knight-header.jpg",
   "sourcePath": "/obsidian-knight-rpg/codes/",
-  "updatedAt": "2026-09-04T11:27:16.057Z",
+  "updatedAt": "2026-09-04T16:27:52.953Z",
   "codes": [
     {
       "code": "DUNGEON2025",
       "reward": "1000 Gold,120 Obsidian Orbs",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

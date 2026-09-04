@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33220-1779122342/guns-of-glory-android-ios-feature-image-1-.jpg",
   "sourcePath": "/guns-of-glory/codes/",
-  "updatedAt": "2026-09-04T11:27:07.559Z",
+  "updatedAt": "2026-09-04T16:27:46.052Z",
   "codes": [
     {
       "code": "GOG999",
       "reward": "60m Construction Speedup x5, 10k Wood x5, 60m Speedup x5, Guard Badge x666, 10k Food x5",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "10k Wood x5, 60m Construction Speedup x5, Guard Badge x666, 10k Food x 5, 60m Training Speedup x5",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

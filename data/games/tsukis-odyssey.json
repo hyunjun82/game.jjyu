@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33542-1637227360/tsukis-odyssey.jpg",
   "sourcePath": "/tsukis-odyssey/codes/",
-  "updatedAt": "2026-09-04T11:27:27.755Z",
+  "updatedAt": "2026-09-04T16:28:02.362Z",
   "codes": [
     {
       "code": "HUGYOURDAD24",
       "reward": "2000 carrots",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "5000 carrots",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Redeem code to get 1500 carrots",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

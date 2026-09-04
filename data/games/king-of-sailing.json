@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37702-1753349065/king-of-sailing-codes-header.jpg",
   "sourcePath": "/king-of-sailing/codes/",
-  "updatedAt": "2026-09-04T11:27:10.448Z",
+  "updatedAt": "2026-09-04T16:27:47.792Z",
   "codes": [
     {
       "code": "OP666",
       "reward": "100 Gems, 50 Break Potions, 50k Belly, 5 5* Hero Shards",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "100 Gems, 2 Adv. Recruitment Tickets, 100k Belly, 10 4* Hero Shards",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "100 Gems, 5 Arena Challenge Tickets, 100k Belly, 1 Adv. Recruitment Ticket, 5 Dispatch Refresh Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T11:27:30.477Z",
-  "today": "2026-09-04",
+  "generatedAt": "2026-09-04T16:28:05.131Z",
+  "today": "2026-09-05",
   "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9785,
-    "active": 9473,
-    "expired": 312,
+    "active": 9469,
+    "expired": 316,
     "withExpiry": 2590
   },
   "newByDate": [
@@ -25,189 +25,171 @@
   ],
   "expiringSoon": [
     {
-      "slug": "afk-journey",
-      "code": "OnederfulAFKJ",
-      "expiry": "2026-09-04",
-      "days": 0
-    },
-    {
-      "slug": "light-of-thel-new-era",
-      "code": "9f7141e1",
-      "expiry": "2026-09-04",
-      "days": 0
-    },
-    {
-      "slug": "resortopia",
-      "code": "UDONHUG",
-      "expiry": "2026-09-04",
-      "days": 0
-    },
-    {
-      "slug": "survivor-io",
-      "code": "HeatNow",
-      "expiry": "2026-09-04",
-      "days": 0
-    },
-    {
       "slug": "cat-fantasy",
       "code": "mkbfxygmj9",
       "expiry": "2026-09-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "survivor-io",
       "code": "chushu2025",
       "expiry": "2026-09-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "eternal-evolution",
       "code": "K2P8N3H",
       "expiry": "2026-09-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tears-of-themis",
       "code": "5B7SY6GQVZRK",
       "expiry": "2026-09-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tears-of-themis",
       "code": "6T6SG7H9DGQP",
       "expiry": "2026-09-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tears-of-themis",
       "code": "XTPSZNY9DYRF",
       "expiry": "2026-09-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "draconia-saga-global",
       "code": "2XYXSPK3F",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "echocalypse",
       "code": "G8R2KP",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "eternal-evolution",
       "code": "G3P7U9H",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "infinite-magicraid",
       "code": "IMR4INVU",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "infinite-magicraid",
       "code": "4RTHBIRTHDUSGU",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "infinite-magicraid",
       "code": "DUBBIMRHYPE",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "infinite-magicraid",
       "code": "IMRLIBRARY",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "infinite-magicraid",
       "code": "SUB2OOPA",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "infinite-magicraid",
       "code": "IM3ANNIV",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "the-walking-dead-survivors",
       "code": "TWDCNJQA",
       "expiry": "2026-09-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "adventure-of-white-chord",
       "code": "Mysh",
       "expiry": "2026-09-08",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "beast-lord",
       "code": "BLMAZDRE0",
       "expiry": "2026-09-08",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "draconia-saga-global",
       "code": "N6YXLKRX6",
       "expiry": "2026-09-08",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "dungeon-of-gods",
       "code": "TAPTAPTAP",
       "expiry": "2026-09-08",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "my-hotpot-story",
       "code": "CY100HPC",
       "expiry": "2026-09-08",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "call-of-antia",
       "code": "Unrivaled",
       "expiry": "2026-09-09",
-      "days": 5
+      "days": 4
     },
     {
       "slug": "call-of-antia",
       "code": "NobleGunnolf",
       "expiry": "2026-09-10",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "eternal-evolution",
       "code": "UX7H22T",
       "expiry": "2026-09-10",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "high-seas-hero",
       "code": "PDUEKVQ",
       "expiry": "2026-09-10",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "light-of-thel-new-era",
       "code": "abcade2a",
       "expiry": "2026-09-11",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "maiden-academy",
       "code": "ARAI2N4",
       "expiry": "2026-09-11",
+      "days": 6
+    },
+    {
+      "slug": "cat-fantasy",
+      "code": "dva7t8u7zt",
+      "expiry": "2026-09-12",
       "days": 7
     }
   ],
@@ -298,14 +280,14 @@
       "total": 114
     },
     {
-      "slug": "survivor-io",
-      "active": 100,
-      "total": 103
-    },
-    {
       "slug": "star-stable-online",
       "active": 99,
       "total": 99
+    },
+    {
+      "slug": "survivor-io",
+      "active": 99,
+      "total": 103
     },
     {
       "slug": "cat-fantasy",

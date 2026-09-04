@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38435-1778534577/last-z-survial-shooter-android-base-police-station.jpg",
   "sourcePath": "/last-z-survival-shooter/codes/",
-  "updatedAt": "2026-09-04T11:27:11.388Z",
+  "updatedAt": "2026-09-04T16:27:48.379Z",
   "codes": [
     {
       "code": "THANU250KCOM",
       "reward": "Golden Wrench x1, Modification Blueprint x500, Blue Zent Level Chest x1, 1h Speedup x1, Diamonds x100",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "Badge x300, 1h Research Speedup, Blue Zent Level Chest x2, Blue Electricity Level Chet x2, Diamonds x100",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Prime Recruitment Ticket x3, 5m Speedup x10, 10k Electricity x10, 10k Food x10, 4k Wood x10",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires July 07th)",
       "expiry": "2027-07-07",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "expires June 15th",
       "expiry": "2027-06-15",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "expires June 8th",
       "expiry": "2027-06-08",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     }
   ]

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-30488-1587997081/Dead_by_Dayight_Mobile_iOS_Android_001.jpg",
   "sourcePath": "/dead-by-daylight-mobile/codes/",
-  "updatedAt": "2026-09-04T11:27:01.146Z",
+  "updatedAt": "2026-09-04T16:27:40.976Z",
   "codes": [
     {
       "code": "DBDMDEVIL",
       "reward": "Portrait (Expires October 26)",
       "expiry": "2026-10-26",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "2 Sinister Stones",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "10,000 Bloodpoints",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "20,000 Bloodpoints",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "100 Iridescent Shards, 5 Bloody Party Streamers",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "Boop The Snoot Mask",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "Entity's Claw (Expires August 21)",
       "expiry": "2026-08-21",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "status": "expired"
     }
   ]
