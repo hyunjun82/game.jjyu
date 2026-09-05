@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37793-1756329351/league-if-elements-prereg-header.jpg",
   "sourcePath": "/league-of-elements/codes/",
-  "updatedAt": "2026-09-05T10:43:07.437Z",
+  "updatedAt": "2026-09-05T15:19:34.470Z",
   "codes": [
     {
       "code": "STARGATE",
       "reward": "rewards (expires October 31st)",
       "expiry": "2026-10-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "rewards (expires July 31st)",
       "expiry": "2027-07-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "rewards (expires July 18th)",
       "expiry": "2027-07-18",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "rewards (expires June 30th)",
       "expiry": "2027-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "rewards (expires June 30th)",
       "expiry": "2027-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "rewards (Expires June 1st)",
       "expiry": "2027-06-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -99,7 +99,7 @@
       "reward": "rewards (expires May 31st)",
       "expiry": "2027-05-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -107,7 +107,7 @@
       "reward": "rewards (expires April 30th)",
       "expiry": "2027-04-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     }
   ]

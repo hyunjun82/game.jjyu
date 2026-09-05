@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "sourcePath": "/honkai-star-rail/codes/",
-  "updatedAt": "2026-09-05T10:43:04.619Z",
+  "updatedAt": "2026-09-05T15:19:32.691Z",
   "codes": [
     {
       "code": "SilverWolfLV999",
       "reward": "3 Travelers Guide, 2 Badge Battle Robes",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "50 Stellar Jade, 10,000 Credits",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     }
   ]

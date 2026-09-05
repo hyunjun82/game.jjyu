@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38259-1772462642/gambit-heroes-header.jpg",
   "sourcePath": "/gambit-heroes/codes/",
-  "updatedAt": "2026-09-05T10:43:02.444Z",
+  "updatedAt": "2026-09-05T15:19:30.859Z",
   "codes": [
     {
       "code": "CVDQIXI",
       "reward": "Forge Hammer x5, Legendary Summon Ticket x2, Diamonds x50, Enchantment Scroll - Legendary x2",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "Forge Hammer x5, Hero XP x1000, Legendary Summon Ticket x3, Breakthrough Stardust x1000",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "rewards (Expires May 18th)",
       "expiry": "2027-05-18",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "rewards (expires April 17th)",
       "expiry": "2027-04-17",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     }
   ]

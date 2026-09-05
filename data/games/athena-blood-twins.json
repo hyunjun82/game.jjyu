@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37366-1748282397/athena-blood-twins-header.jpg",
   "sourcePath": "/athena-blood-twins/codes/",
-  "updatedAt": "2026-09-05T10:42:55.856Z",
+  "updatedAt": "2026-09-05T15:19:25.437Z",
   "codes": [
     {
       "code": "welcomeathena",
       "reward": "",
       "expiry": "2027-04-11",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "",
       "expiry": "2027-04-11",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "",
       "expiry": "2027-02-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "",
       "expiry": "2027-01-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "",
       "expiry": "2027-01-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "",
       "expiry": "2027-01-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "",
       "expiry": "2026-12-27",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "reward": "",
       "expiry": "2026-11-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -83,7 +83,7 @@
       "reward": "",
       "expiry": "2026-10-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -91,7 +91,7 @@
       "reward": "10 Basic EXP Tome, 20 Moonlit Essence",
       "expiry": "2025-12-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -99,7 +99,7 @@
       "reward": "100k Gold, 20 Gear Enhancement Stone",
       "expiry": "2025-12-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -107,7 +107,7 @@
       "reward": "50 Diamonds, 2 Purple God Gift Random Chests",
       "expiry": "2025-12-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "reward": "1 Phantom Beast Soul, 20 Basic Botany",
       "expiry": "2025-12-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -123,7 +123,7 @@
       "reward": "50 Diamonds, 10 Basic Soul Crystals",
       "expiry": "2025-12-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -131,7 +131,7 @@
       "reward": "",
       "expiry": "2025-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -139,7 +139,7 @@
       "reward": "Vote rewards",
       "expiry": "2025-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     },
     {
@@ -147,7 +147,7 @@
       "reward": "Vote rewards",
       "expiry": "2025-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "expired"
     }
   ]

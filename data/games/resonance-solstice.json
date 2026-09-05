@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37854-1758623230/resonance-solstice-keyvis.jpg",
   "sourcePath": "/resonance-solstice/codes/",
-  "updatedAt": "2026-09-05T10:43:14.233Z",
+  "updatedAt": "2026-09-05T15:19:39.858Z",
   "codes": [
     {
       "code": "prydwenguides",
       "reward": "Negociation Appl., Purchase Appl.",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "1000 Chaos Stones, BCRL Coins",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "50 Chaos Stones, 1 Shining Conductor",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     }
   ]

@@ -4,14 +4,14 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37630-1751288507/era-of-warfare-header-image.jpg",
   "sourcePath": "/era-of-warfare/codes/",
-  "updatedAt": "2026-09-05T10:43:01.316Z",
+  "updatedAt": "2026-09-05T15:19:29.704Z",
   "codes": [
     {
       "code": "EOW666",
       "reward": "10 Rune Tickets, 3 Awakening Transcend Stones, 10 Gear Treasure Tokens",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -19,7 +19,7 @@
       "reward": "Bubble - Star Dragon, 3 Awakening Transcend Stones",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "reward": "Frame - Gratitude, 2 Million Gold",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "reward": "$5 Top-up Card, 30 Gear Treasure Tokens",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "reward": "300 Diamonds, 300 Basalts, 2 Lvl 3 Gem Chests",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -51,7 +51,7 @@
       "reward": "999 Roses, 888 Basalts",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -59,7 +59,7 @@
       "reward": "Portrait - Flying Dragon, 3 Awakening Transcend Stones, 200 Basalts",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     },
     {
@@ -67,7 +67,7 @@
       "reward": "Adv. Spirit Feather Essence, 300 Diamonds",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "status": "active"
     }
   ]
