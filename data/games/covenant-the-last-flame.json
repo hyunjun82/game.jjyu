@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37918-1760534885/ctlf-main-screen.jpg",
   "sourcePath": "/covenant-the-last-flame/codes/",
-  "updatedAt": "2026-09-05T20:27:53.083Z",
+  "updatedAt": "2026-09-05T22:58:07.043Z",
   "codes": [
+    {
+      "code": "2524weekly",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
     {
       "code": "weekly5411",
       "reward": "",

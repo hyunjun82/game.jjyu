@@ -4,13 +4,13 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35818-1762861792/duet-night-abyss-codes-header.jpg",
   "sourcePath": "/duet-night-abyss/codes/",
-  "updatedAt": "2026-09-05T20:27:54.908Z",
+  "updatedAt": "2026-09-05T22:58:09.899Z",
   "codes": [
     {
-      "code": "LINADNA",
-      "reward": "200 Carmine Globule, 20,000 Coins, 10 Combat Melody 1",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "OMEKJA",
+      "reward": "rewards (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-06",
       "status": "active"
     },
@@ -217,6 +217,14 @@
     {
       "code": "DNALAUNCH",
       "reward": "30000 Coin, 10 Weapon Manual I, 10 Combat Melody I",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "LINADNA",
+      "reward": "200 Carmine Globule, 20,000 Coins, 10 Combat Melody 1",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",

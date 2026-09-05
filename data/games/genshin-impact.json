@@ -4,29 +4,37 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-31024-1611513068/genshin%20impact%20ios%20android%20redeem%20code%20title.JPG",
   "sourcePath": "/genshin-impact/codes/",
-  "updatedAt": "2026-09-05T20:27:57.171Z",
+  "updatedAt": "2026-09-05T22:58:13.844Z",
   "codes": [
     {
-      "code": "OntoSnezhnaya",
-      "reward": "100 Primogems, 5 Hero's Wits (expires August 3rd)",
-      "expiry": "2027-08-03",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "Odette0812",
-      "reward": "100 Primogems, 50,000 Mora (expires August 3rd)",
-      "expiry": "2027-08-03",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "2BJ64QRZ7RT8",
-      "reward": "60 Primogems, 5 Adventurer's Experience",
+      "code": "BALLETCOLLAB",
+      "reward": "Primogem &times;30, Mora &times;10,000, Hero's Wit &times;3, Mystic Enhancement Ore &times;3",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "DUGODWKRHAKDNJ",
+      "reward": "Primogem &times;30, Mora &times;10,000, Hero's Wit &times;3, Mystic Enhancement Ore &times;3",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "YOAL3V36XHS7",
+      "reward": "Mora &times;10,000, Adventurer's Experience &times;10, Fine Enhancement Ore &times;5, Jueyun Chili Chicken &times;5, Stir-Fried Fish Noodles &times;5",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "Snezhnaya",
+      "reward": "Mora x30,000, Hero's Wit, x3, Fine Enhancement Ore x5 (Asia only)",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-06",
       "status": "active"
     },
@@ -58,6 +66,30 @@
       "code": "LinneaClassTime",
       "reward": "Primogem &times;100, Mystic Enhancement Ore &times;10 (expires March 30th)",
       "expiry": "2027-03-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "OntoSnezhnaya",
+      "reward": "100 Primogems, 5 Hero's Wits (expires August 3rd)",
+      "expiry": "2027-08-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "Odette0812",
+      "reward": "100 Primogems, 50,000 Mora (expires August 3rd)",
+      "expiry": "2027-08-03",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "2BJ64QRZ7RT8",
+      "reward": "60 Primogems, 5 Adventurer's Experience",
+      "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
       "status": "active"

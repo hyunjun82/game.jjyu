@@ -4,8 +4,32 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37489-1757954620/blue-protocol-star-resonance-keyvis.jpg",
   "sourcePath": "/blue-protocol-star-resonance/codes/",
-  "updatedAt": "2026-09-05T20:27:51.831Z",
+  "updatedAt": "2026-09-05T22:58:05.578Z",
   "codes": [
+    {
+      "code": "BPSR4LANGS",
+      "reward": "Rose Orbs, Will Wish Coins",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "BPSRFUN",
+      "reward": "Rose Orbs, Luno",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYMAY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
     {
       "code": "BPSREASTER",
       "reward": "",

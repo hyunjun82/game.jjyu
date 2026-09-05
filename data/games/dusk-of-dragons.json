@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35560-1755849458/dusk-of-dragons-ios-android-2nd-anniv-cover.jpg",
   "sourcePath": "/dusk-of-dragons/codes/",
-  "updatedAt": "2026-09-05T20:27:55.259Z",
+  "updatedAt": "2026-09-05T22:58:10.456Z",
   "codes": [
+    {
+      "code": "NFJDURGE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
     {
       "code": "NFJDHERT",
       "reward": "",

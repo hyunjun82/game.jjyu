@@ -4,8 +4,40 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36772-1732006289/archero-2-header.jpg",
   "sourcePath": "/archero-2/codes/",
-  "updatedAt": "2026-09-05T20:27:50.629Z",
+  "updatedAt": "2026-09-05T22:58:04.352Z",
   "codes": [
+    {
+      "code": "AboveAllKlaus",
+      "reward": "200 Gems",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "OneTeamNo1",
+      "reward": "200 Gems",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "EXPKid",
+      "reward": "200 Gems",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "A2xRM",
+      "reward": "300 Energy, 10 Gems, 10k Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
     {
       "code": "koeeeWR6",
       "reward": "200 Gems",
@@ -500,14 +532,6 @@
       "expiry": "2026-08-31",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
-      "status": "expired"
-    },
-    {
-      "code": "A2xRM",
-      "reward": "300 Energy, 10 Gems, 10k Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
       "status": "expired"
     }
   ]

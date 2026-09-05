@@ -4,72 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35763-1707241042/pg-afk-journey-img-header.jpg",
   "sourcePath": "/afk-journey/codes/",
-  "updatedAt": "2026-09-05T20:27:49.509Z",
+  "updatedAt": "2026-09-05T22:58:03.501Z",
   "codes": [
-    {
-      "code": "hqC0Zfsc6QYtX",
-      "reward": "500 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "h7PdTynr61",
-      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
-      "expiry": "2027-06-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "4iYTsNbdXC",
-      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
-      "expiry": "2027-06-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "ZC1JJ3Uu0N",
-      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
-      "expiry": "2027-06-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "CrownofAshes",
-      "reward": "600 Diamonds, 20,000 Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "BoundforSavannah",
-      "reward": "codes",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "LILITH13TH",
-      "reward": "13 Invites, 1300 Diamonds (expires 09th June)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
-    {
-      "code": "4hg98bkkfh",
-      "reward": "10 Origami Hamsters, 50,000 Gold, 500 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "active"
-    },
     {
       "code": "JOURNEY2YRS",
       "reward": "",
@@ -689,6 +625,70 @@
     {
       "code": "AFKJN2024",
       "reward": "188 diamonds and 18k gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "hqC0Zfsc6QYtX",
+      "reward": "500 Diamonds",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "h7PdTynr61",
+      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "4iYTsNbdXC",
+      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "ZC1JJ3Uu0N",
+      "reward": "1,000 Diamonds, 5 Letters, 20,000 Gold (expires June 30th)",
+      "expiry": "2027-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "CrownofAshes",
+      "reward": "600 Diamonds, 20,000 Gold",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "BoundforSavannah",
+      "reward": "codes",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "LILITH13TH",
+      "reward": "13 Invites, 1300 Diamonds (expires 09th June)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "4hg98bkkfh",
+      "reward": "10 Origami Hamsters, 50,000 Gold, 500 Diamonds",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
