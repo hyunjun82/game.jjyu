@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36743-1728721800/summoners-kingdom-goddess-cover.jpg",
   "sourcePath": "/summoners-kingdom-goddess/codes/",
-  "updatedAt": "2026-09-04T23:04:52.461Z",
+  "updatedAt": "2026-09-05T04:37:42.019Z",
   "codes": [
+    {
+      "code": "Lotus",
+      "reward": "Expires August 06th",
+      "expiry": "2027-08-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-05",
+      "status": "active"
+    },
     {
       "code": "Fennel",
       "reward": "Expires July 30th",
@@ -210,14 +218,6 @@
       "code": "Clover",
       "reward": "Expires August 13th",
       "expiry": "2026-08-13",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
-      "status": "expired"
-    },
-    {
-      "code": "Lotus",
-      "reward": "Expires August 06th",
-      "expiry": "2026-08-06",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-05",
       "status": "expired"

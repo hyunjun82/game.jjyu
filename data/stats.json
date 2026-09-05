@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-04T23:04:57.261Z",
+  "generatedAt": "2026-09-05T04:37:46.025Z",
   "today": "2026-09-05",
   "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9785,
-    "active": 9469,
-    "expired": 316,
+    "active": 9475,
+    "expired": 310,
     "withExpiry": 2590
   },
   "newByDate": [
@@ -280,14 +280,14 @@
       "total": 114
     },
     {
+      "slug": "survivor-io",
+      "active": 100,
+      "total": 103
+    },
+    {
       "slug": "star-stable-online",
       "active": 99,
       "total": 99
-    },
-    {
-      "slug": "survivor-io",
-      "active": 99,
-      "total": 103
     },
     {
       "slug": "cat-fantasy",

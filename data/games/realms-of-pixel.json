@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37193-1739825103/realms-of-pixel-header-2.jpg",
   "sourcePath": "/realms-of-pixel/codes/",
-  "updatedAt": "2026-09-04T23:04:48.995Z",
+  "updatedAt": "2026-09-05T04:37:39.208Z",
   "codes": [
     {
       "code": "Easter2026",
@@ -66,6 +66,14 @@
       "code": "rop888",
       "reward": "100 Radiant Gems, 200 Ascend Crests",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-05",
+      "status": "active"
+    },
+    {
+      "code": "4393df0730f8",
+      "reward": "rewards (expires August 06th)",
+      "expiry": "2027-08-06",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-05",
       "status": "active"
@@ -418,14 +426,6 @@
       "code": "9e6ba72a54c6",
       "reward": "rewards (expires August 20th)",
       "expiry": "2026-08-20",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
-      "status": "expired"
-    },
-    {
-      "code": "4393df0730f8",
-      "reward": "rewards (expires August 06th)",
-      "expiry": "2026-08-06",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-05",
       "status": "expired"

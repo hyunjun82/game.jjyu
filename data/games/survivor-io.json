@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34539-1660573193/survivorio-codes-1.jpg",
   "sourcePath": "/survivor-io/codes/",
-  "updatedAt": "2026-09-04T23:04:52.764Z",
+  "updatedAt": "2026-09-05T04:37:42.298Z",
   "codes": [
     {
       "code": "4thAnniversary",
@@ -503,6 +503,14 @@
       "status": "active"
     },
     {
+      "code": "HotHeat",
+      "reward": "200 Gems, 20 Energy",
+      "expiry": "2027-08-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-05",
+      "status": "active"
+    },
+    {
       "code": "summerheat",
       "reward": "Gems and Energy",
       "expiry": "2027-06-04",
@@ -802,14 +810,6 @@
       "code": "AutumnNow",
       "reward": "200 Gems, 20 Energy, 500 Energy Essence",
       "expiry": "2026-08-21",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
-      "status": "expired"
-    },
-    {
-      "code": "HotHeat",
-      "reward": "200 Gems, 20 Energy",
-      "expiry": "2026-08-06",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-05",
       "status": "expired"

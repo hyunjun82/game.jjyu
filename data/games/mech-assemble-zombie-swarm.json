@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37608-1750414533/mech-assemble-zombie-swarm-header.jpg",
   "sourcePath": "/mech-assemble-zombie-swarm/codes/",
-  "updatedAt": "2026-09-04T23:04:44.622Z",
+  "updatedAt": "2026-09-05T04:37:35.706Z",
   "codes": [
     {
       "code": "MECH9999",
@@ -63,17 +63,17 @@
       "status": "active"
     },
     {
+      "code": "MGJULY888",
+      "reward": "rewards (expires August 6th)",
+      "expiry": "2027-08-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-05",
+      "status": "active"
+    },
+    {
       "code": "MGAUG888",
       "reward": "rewards (expires August 21st)",
       "expiry": "2026-08-21",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-05",
-      "status": "expired"
-    },
-    {
-      "code": "MGJULY888",
-      "reward": "rewards (expires August 6th)",
-      "expiry": "2026-08-06",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-05",
       "status": "expired"
