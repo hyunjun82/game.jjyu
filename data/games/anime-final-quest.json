@@ -4,8 +4,32 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38208-1771105662/anime-final-quest-android-ios-steam-avatar-anime-running-towards-screen.jpg",
   "sourcePath": "/anime-final-quest/codes/",
-  "updatedAt": "2026-09-05T17:24:40.434Z",
+  "updatedAt": "2026-09-05T20:27:50.059Z",
   "codes": [
+    {
+      "code": "SPIDER",
+      "reward": "80 Gear Lucky Spins, 100 Weapon Lucky Spins, 2M Gold, 75 Runes, and 25 Raid Tickets",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "NEWTRAITRARITY",
+      "reward": "300 Runes",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "PROMISEDCODE",
+      "reward": "20 Statue Crowns, 20 Soul Manipulator Hands, 3 Million Gold",
+      "expiry": null,
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
     {
       "code": "GAMEMODEUPDATEDELAY",
       "reward": "100 Gear Lucky Spins, 100 Weapon Lucky Spins, 150k Gold, 100 Runes",
@@ -56,7 +80,7 @@
     },
     {
       "code": "SONKING",
-      "reward": "60 Runes, 50 Raid Tickets",
+      "reward": "60 Runes, 50 Raid Ticket",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
