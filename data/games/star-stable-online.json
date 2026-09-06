@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34081-1649851535/star-stable-online-codes-1.jpg",
   "sourcePath": "/star-stable-online/codes/",
-  "updatedAt": "2026-09-06T15:32:32.688Z",
+  "updatedAt": "2026-09-06T20:29:49.858Z",
   "codes": [
-    {
-      "code": "RIBBON2",
-      "reward": "Club United ribbon",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "active"
-    },
     {
       "code": "RIBBON1",
       "reward": "Club United ribbon",
@@ -793,6 +785,14 @@
     {
       "code": "1WEEKSR2023",
       "reward": "7 days of premium rider membership (new players only)",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "RIBBON2",
+      "reward": "Club United ribbon",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",

@@ -4,8 +4,24 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-30543-1563653916/trainstation-2-railway-empire-ios-screenshot-title-screen.jpeg",
   "sourcePath": "/trainstation-2-railway-empire/codes/",
-  "updatedAt": "2026-09-06T15:32:35.208Z",
+  "updatedAt": "2026-09-06T20:29:54.095Z",
   "codes": [
+    {
+      "code": "FIRSTDRIVE",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "COALHEART",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
     {
       "code": "XIXTS2",
       "reward": "",

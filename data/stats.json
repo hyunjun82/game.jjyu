@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-06T15:32:37.220Z",
+  "generatedAt": "2026-09-06T20:29:56.870Z",
   "today": "2026-09-07",
-  "todayNew": 9,
+  "todayNew": 38,
   "totals": {
     "games": 358,
-    "codes": 9813,
-    "active": 9484,
-    "expired": 329,
-    "withExpiry": 2596
+    "codes": 9842,
+    "active": 9511,
+    "expired": 331,
+    "withExpiry": 2606
   },
   "newByDate": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "date": "2026-09-07",
-      "count": 9
+      "count": 38
     }
   ],
   "expiringSoon": [
@@ -159,6 +159,12 @@
       "days": 3
     },
     {
+      "slug": "the-cozy-florist",
+      "code": "g5a0dad1",
+      "expiry": "2026-09-10",
+      "days": 3
+    },
+    {
       "slug": "light-of-thel-new-era",
       "code": "abcade2a",
       "expiry": "2026-09-11",
@@ -173,6 +179,12 @@
     {
       "slug": "cat-fantasy",
       "code": "dva7t8u7zt",
+      "expiry": "2026-09-12",
+      "days": 5
+    },
+    {
+      "slug": "raid-shadow-legends",
+      "code": "RAIDAutumn",
       "expiry": "2026-09-12",
       "days": 5
     },
@@ -274,8 +286,8 @@
     },
     {
       "slug": "reverse-1999-rpg",
-      "active": 241,
-      "total": 241
+      "active": 243,
+      "total": 243
     },
     {
       "slug": "mu-origin-3",
@@ -304,13 +316,13 @@
     },
     {
       "slug": "shining-nikki",
-      "active": 166,
-      "total": 166
+      "active": 167,
+      "total": 168
     },
     {
       "slug": "warhammer-40k-tacticus",
-      "active": 148,
-      "total": 148
+      "active": 154,
+      "total": 154
     },
     {
       "slug": "infinity-nikki",
@@ -334,8 +346,8 @@
     },
     {
       "slug": "trainstation-2-railway-empire",
-      "active": 107,
-      "total": 107
+      "active": 109,
+      "total": 109
     },
     {
       "slug": "puzzles-survival",
@@ -355,7 +367,7 @@
     {
       "slug": "survivor-io",
       "active": 99,
-      "total": 103
+      "total": 104
     },
     {
       "slug": "cat-fantasy",

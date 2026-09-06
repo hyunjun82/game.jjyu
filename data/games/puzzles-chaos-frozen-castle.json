@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-95562-1695141564/puzzles-chaos-codes.jpg",
   "sourcePath": "/puzzles-chaos-frozen-castle/redeem-codes/",
-  "updatedAt": "2026-09-06T15:32:30.172Z",
+  "updatedAt": "2026-09-06T20:29:46.407Z",
   "codes": [
-    {
-      "code": "PNC1YEAR",
-      "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "active"
-    },
     {
       "code": "100REALM",
       "reward": "",
@@ -145,6 +137,14 @@
     {
       "code": "PUZZLEWEEN",
       "reward": "Freebies",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "PNC1YEAR",
+      "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",

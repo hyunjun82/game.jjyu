@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36375-1715962265/beast-lord-the-new-land.jpg",
   "sourcePath": "/beast-lord/codes/",
-  "updatedAt": "2026-09-06T15:32:15.727Z",
+  "updatedAt": "2026-09-06T20:29:28.938Z",
   "codes": [
     {
       "code": "BL8UKRRF4",
@@ -757,6 +757,14 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
+    },
+    {
+      "code": "BL0BPQZ2F",
+      "reward": "Normal Bait X 1 + Honey x 20k + Sand x 100k + Fruit x 100k + 15-mins Speedup",
+      "expiry": "2026-09-06",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "expired"
     },
     {
       "code": "HAPPYBIRTHDAY2025",

@@ -4,13 +4,21 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38642-1786013859/ragnarok-twilight-codes-cover.jpg",
   "sourcePath": "/ragnarok-twilight/codes/",
-  "updatedAt": "2026-09-06T15:32:30.452Z",
+  "updatedAt": "2026-09-06T20:29:46.707Z",
   "codes": [
     {
       "code": "2X8T5Z3N",
       "reward": "expires 30 AUG 2026, 23:59 (UTC+8)",
       "expiry": null,
       "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "FOREVERLOVE26",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
     },
@@ -37,14 +45,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
-    },
-    {
-      "code": "FOREVERLOVE26",
-      "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "expired"
     }
   ]
 }

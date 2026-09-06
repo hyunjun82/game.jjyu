@@ -4,10 +4,18 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-30267-1652970103/raid-shadow-legends-ios-android-free-hero-cover.jpg",
   "sourcePath": "/raid-shadow-legends/redeem-codes/",
-  "updatedAt": "2026-09-06T15:32:30.452Z",
+  "updatedAt": "2026-09-06T20:29:46.707Z",
   "codes": [
     {
-      "code": "HAPPYBDAYUDK",
+      "code": "RAIDAutumn",
+      "reward": "50 Multibattle Attempts, 5* Chicken, 300,000 Silver (expires September 12th)",
+      "expiry": "2026-09-12",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "INTHEWEB",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
@@ -15,7 +23,7 @@
       "status": "active"
     },
     {
-      "code": "INTHEWEB",
+      "code": "HAPPYBDAYUDK",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",

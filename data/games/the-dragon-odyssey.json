@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37081-1737385858/the-dragon-odyssey-header.jpg",
   "sourcePath": "/the-dragon-odyssey/codes/",
-  "updatedAt": "2026-09-06T15:32:34.089Z",
+  "updatedAt": "2026-09-06T20:29:51.856Z",
   "codes": [
+    {
+      "code": "Gs2ZJpnTB",
+      "reward": "10 Gems, 40k Coins",
+      "expiry": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
     {
       "code": "FBTDO1KFS",
       "reward": "100k Silver, 1 Orange Sprite Egg, 5 R1 Enhance Crystals",

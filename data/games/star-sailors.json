@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37862-1782929132/star-sailors-code-header.jpg",
   "sourcePath": "/star-sailors/codes/",
-  "updatedAt": "2026-09-06T15:32:32.687Z",
+  "updatedAt": "2026-09-06T20:29:49.857Z",
   "codes": [
+    {
+      "code": "SAILORSFIRSTLIVE",
+      "reward": "Diamond x 400",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
     {
       "code": "HEIDISGIFT",
       "reward": "Bulging Mushroom x5",
@@ -76,14 +84,6 @@
       "expiry": "2026-08-31",
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-07",
-      "status": "expired"
-    },
-    {
-      "code": "SAILORSFIRSTLIVE",
-      "reward": "Diamond x 400",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
       "status": "expired"
     }
   ]

@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33060-1626263045/Shining-Nikki-header.jpg",
   "sourcePath": "/shining-nikki/codes/",
-  "updatedAt": "2026-09-06T15:32:31.848Z",
+  "updatedAt": "2026-09-06T20:29:48.722Z",
   "codes": [
+    {
+      "code": "masterpiece0901",
+      "reward": "100 Pink Gems",
+      "expiry": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
     {
       "code": "OURSHAREDWANDER",
       "reward": "120 Pink Gems, 100 Stamina, 80,000 Gold, 6 Memory Key: SR, 15 Memory Key: R",
@@ -1333,6 +1341,14 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
+    },
+    {
+      "code": "BREAKFREE",
+      "reward": "100 Pink Gems (expires September 5th)",
+      "expiry": "2026-09-05",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "expired"
     }
   ]
 }

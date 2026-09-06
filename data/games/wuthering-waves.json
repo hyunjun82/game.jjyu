@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "sourcePath": "/wuthering-waves/codes/",
-  "updatedAt": "2026-09-06T15:32:36.604Z",
+  "updatedAt": "2026-09-06T20:29:55.979Z",
   "codes": [
-    {
-      "code": "WUTHERINGGIFT",
-      "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "active"
-    },
     {
       "code": "FACEALEPH1",
       "reward": "Astrite x100, Premium Resonance Potion x4, Advanced Energy Core x5",
@@ -253,6 +245,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
+    },
+    {
+      "code": "WUTHERINGGIFT",
+      "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "F5F4D3B2A2",
+      "reward": "Escape from Duckov livery (expires August 19th)",
+      "expiry": "2026-08-19",
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "expired"
     }
   ]
 }

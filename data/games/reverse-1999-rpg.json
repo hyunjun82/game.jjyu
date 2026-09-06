@@ -4,8 +4,24 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35344-1698337813/key-visual-logo-1010x505.jpg",
   "sourcePath": "/reverse-1999-rpg/codes/",
-  "updatedAt": "2026-09-06T15:32:31.010Z",
+  "updatedAt": "2026-09-06T20:29:47.569Z",
   "codes": [
+    {
+      "code": "MOTHLIGHT",
+      "reward": "30 Clear Drops, 10,000 Dust, 20,000 Sharpodonty, 2 Fine Insight Packages",
+      "expiry": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "SPDM",
+      "reward": "30 Clear Drops, 1 Jar of Picrasma Candy, 10 Enlighten II, 20,000 Sharpodonty",
+      "expiry": null,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
     {
       "code": "ALLHAILBECHAN",
       "reward": "30 Clear Drops, 1 Jar of Picrasma Candy, 20,000 Dust, 20,000 Sharpodonty",

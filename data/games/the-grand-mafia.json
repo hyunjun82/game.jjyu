@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34892-1668463566/grand-mafia-2nd-anniv-header.jpg",
   "sourcePath": "/the-grand-mafia/codes/",
-  "updatedAt": "2026-09-06T15:32:34.365Z",
+  "updatedAt": "2026-09-06T20:29:52.426Z",
   "codes": [
+    {
+      "code": "PlayTGMPC",
+      "reward": "PC code only",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
     {
       "code": "TGM999PC",
       "reward": "PC code only",
@@ -45,14 +53,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
-    },
-    {
-      "code": "PlayTGMPC",
-      "reward": "PC code only",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
-      "status": "expired"
     }
   ]
 }
