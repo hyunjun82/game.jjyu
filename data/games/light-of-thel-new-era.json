@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36249-1712849283/light-of-thel-new-era-cover.jpg",
   "sourcePath": "/light-of-thel-new-era/codes/",
-  "updatedAt": "2026-09-05T22:58:18.531Z",
+  "updatedAt": "2026-09-06T04:48:23.142Z",
   "codes": [
     {
       "code": "2fa77517",
@@ -74,6 +74,14 @@
       "code": "33373989",
       "reward": "10x Lv.2 Blessing Stone, 10x Lv.2 Omni Crystal, 5x Powerful Forging Stone, 5x 100,000 Silver Bag*5 (Expires 14 August)",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
+      "code": "011a59b6",
+      "reward": "Binding Unidentified Treasure Map (S) *5, Binding Unidentified Treasure Map (M) *3, Binding Unidentified Treasure Map (L) *1 and 100,000 Silver Bag*5",
+      "expiry": "2027-08-07",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
       "status": "active"
@@ -242,14 +250,6 @@
       "code": "f1f393ae",
       "reward": "10x Sprite Box (Bind), 20x Sprite Puff, 10x HP Parfait, 5x 100,000 Silver Bag (Expires August 21st)",
       "expiry": "2026-08-21",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "expired"
-    },
-    {
-      "code": "011a59b6",
-      "reward": "Binding Unidentified Treasure Map (S) *5, Binding Unidentified Treasure Map (M) *3, Binding Unidentified Treasure Map (L) *1 and 100,000 Silver Bag*5",
-      "expiry": "2026-08-07",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
       "status": "expired"

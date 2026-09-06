@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37105-1737389858/maiden-academy-header.jpg",
   "sourcePath": "/maiden-academy/codes/",
-  "updatedAt": "2026-09-05T22:58:19.120Z",
+  "updatedAt": "2026-09-06T04:48:23.725Z",
   "codes": [
     {
       "code": "JU9NMN",
@@ -191,6 +191,14 @@
       "status": "active"
     },
     {
+      "code": "SUMMER",
+      "reward": "rewards (expires August 07th)",
+      "expiry": "2027-08-07",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-06",
+      "status": "active"
+    },
+    {
       "code": "JUNMN",
       "reward": "rewards (expires July 31st)CPR1LL - rewards (expires July 24th)",
       "expiry": "2027-07-31",
@@ -330,14 +338,6 @@
       "code": "AC6D2M",
       "reward": "rewards (expires August 14th)",
       "expiry": "2026-08-14",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "expired"
-    },
-    {
-      "code": "SUMMER",
-      "reward": "rewards (expires August 07th)",
-      "expiry": "2026-08-07",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
       "status": "expired"

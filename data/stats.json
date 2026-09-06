@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-05T22:58:30.309Z",
+  "generatedAt": "2026-09-06T04:48:36.130Z",
   "today": "2026-09-06",
   "todayNew": 19,
   "totals": {
     "games": 358,
     "codes": 9804,
-    "active": 9494,
-    "expired": 310,
+    "active": 9499,
+    "expired": 305,
     "withExpiry": 2591
   },
   "newByDate": [
@@ -283,7 +283,7 @@
     },
     {
       "slug": "call-of-antia",
-      "active": 121,
+      "active": 122,
       "total": 132
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "slug": "cat-fantasy",
-      "active": 95,
+      "active": 96,
       "total": 102
     }
   ],
