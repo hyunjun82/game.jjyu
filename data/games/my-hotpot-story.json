@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34898-1668518128/my-hotpot-story-picture3.jpg",
   "sourcePath": "/my-hotpot-story/codes/",
-  "updatedAt": "2026-09-06T22:55:31.946Z",
+  "updatedAt": "2026-09-07T04:52:35.990Z",
   "codes": [
     {
       "code": "CFLBD2251",
@@ -106,6 +106,14 @@
       "code": "Hotpot",
       "reward": "30 Diamonds",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "V6K3G3",
+      "reward": "rewards (expires August 08th)",
+      "expiry": "2027-08-08",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
@@ -357,14 +365,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
-    },
-    {
-      "code": "V6K3G3",
-      "reward": "rewards (expires August 08th)",
-      "expiry": "2026-08-08",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "expired"
     }
   ]
 }

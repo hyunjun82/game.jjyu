@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34362-1655813658/eternal-evolution-ios-android-launch-cover.jpg",
   "sourcePath": "/eternal-evolution/codes/",
-  "updatedAt": "2026-09-06T22:55:24.497Z",
+  "updatedAt": "2026-09-07T04:52:27.839Z",
   "codes": [
     {
       "code": "MU55AGV",
@@ -106,6 +106,14 @@
       "code": "DCFuelTank",
       "reward": "Recruitment Cards and Resources",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
+      "code": "KR34ES7",
+      "reward": "expires August 08th",
+      "expiry": "2027-08-08",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "active"
@@ -1543,6 +1551,14 @@
       "status": "active"
     },
     {
+      "code": "40kGlobalLikesFB",
+      "reward": "- Recruitment Cards and Resources (Expires on August 8)",
+      "expiry": "2027-08-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
       "code": "IndependenceDay",
       "reward": "Recruitment Cards and Resources (Expires on August 4)",
       "expiry": "2027-08-04",
@@ -1703,14 +1719,6 @@
       "status": "expired"
     },
     {
-      "code": "KR34ES7",
-      "reward": "expires August 08th",
-      "expiry": "2026-08-08",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "expired"
-    },
-    {
       "code": "K2W8T9S",
       "reward": "Expires September 02nd",
       "expiry": "2026-09-02",
@@ -1794,14 +1802,6 @@
       "code": "d5gf5fdujw2",
       "reward": "Recruitment Cards and Resources",
       "expiry": "2026-08-09",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "expired"
-    },
-    {
-      "code": "40kGlobalLikesFB",
-      "reward": "- Recruitment Cards and Resources (Expires on August 8)",
-      "expiry": "2026-08-08",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "expired"

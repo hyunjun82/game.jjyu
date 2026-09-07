@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T22:55:42.649Z",
+  "generatedAt": "2026-09-07T04:52:46.656Z",
   "today": "2026-09-07",
   "todayNew": 38,
   "totals": {
     "games": 358,
     "codes": 9842,
-    "active": 9511,
-    "expired": 331,
+    "active": 9516,
+    "expired": 326,
     "withExpiry": 2606
   },
   "newByDate": [
@@ -296,7 +296,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 209,
+      "active": 211,
       "total": 225
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "slug": "flame-of-valhalla",
-      "active": 175,
+      "active": 176,
       "total": 187
     },
     {
@@ -371,7 +371,7 @@
     },
     {
       "slug": "cat-fantasy",
-      "active": 96,
+      "active": 97,
       "total": 102
     }
   ],

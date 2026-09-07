@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36856-1730200879/flame-of-valhalla-header-1.jpg",
   "sourcePath": "/flame-of-valhalla/codes/",
-  "updatedAt": "2026-09-06T22:55:25.248Z",
+  "updatedAt": "2026-09-07T04:52:28.440Z",
   "codes": [
     {
       "code": "JAZSKV",
@@ -1031,6 +1031,14 @@
       "status": "active"
     },
     {
+      "code": "J7VREW",
+      "reward": "free rewards (expires August 08th)",
+      "expiry": "2027-08-08",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-07",
+      "status": "active"
+    },
+    {
       "code": "NLPQ82",
       "reward": "free rewards (expires August 01st)",
       "expiry": "2027-08-01",
@@ -1490,14 +1498,6 @@
       "code": "JMUQVZ",
       "reward": "free rewards (expires August 15th)",
       "expiry": "2026-08-15",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
-      "status": "expired"
-    },
-    {
-      "code": "J7VREW",
-      "reward": "free rewards (expires August 08th)",
-      "expiry": "2026-08-08",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-07",
       "status": "expired"
