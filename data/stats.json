@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-07T12:44:49.193Z",
-  "today": "2026-09-07",
-  "todayNew": 38,
+  "generatedAt": "2026-09-07T19:13:53.925Z",
+  "today": "2026-09-08",
+  "todayNew": 0,
   "totals": {
     "games": 358,
     "codes": 9842,
-    "active": 9516,
-    "expired": 326,
+    "active": 9502,
+    "expired": 340,
     "withExpiry": 2606
   },
   "newByDate": [
@@ -33,243 +33,291 @@
   ],
   "expiringSoon": [
     {
-      "slug": "draconia-saga-global",
-      "code": "2XYXSPK3F",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "echocalypse",
-      "code": "G8R2KP",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "G3P7U9H",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "BATUSVG4TH",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "IMR4INVU",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "4RTHBIRTHDUSGU",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "DUBBIMRHYPE",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "IMRLIBRARY",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "SUB2OOPA",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "infinite-magicraid",
-      "code": "IM3ANNIV",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
-      "slug": "the-walking-dead-survivors",
-      "code": "TWDCNJQA",
-      "expiry": "2026-09-07",
-      "days": 0
-    },
-    {
       "slug": "adventure-of-white-chord",
       "code": "Mysh",
       "expiry": "2026-09-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "beast-lord",
       "code": "BLMAZDRE0",
       "expiry": "2026-09-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "draconia-saga-global",
       "code": "N6YXLKRX6",
       "expiry": "2026-09-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-of-gods",
       "code": "TAPTAPTAP",
       "expiry": "2026-09-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "my-hotpot-story",
       "code": "CY100HPC",
       "expiry": "2026-09-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "call-of-antia",
       "code": "Unrivaled",
       "expiry": "2026-09-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "lords-mobile",
       "code": "kingsworlds",
       "expiry": "2026-09-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "call-of-antia",
       "code": "NobleGunnolf",
       "expiry": "2026-09-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "eternal-evolution",
       "code": "UX7H22T",
       "expiry": "2026-09-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "high-seas-hero",
       "code": "PDUEKVQ",
       "expiry": "2026-09-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "the-cozy-florist",
       "code": "g5a0dad1",
       "expiry": "2026-09-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "light-of-thel-new-era",
       "code": "abcade2a",
       "expiry": "2026-09-11",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "maiden-academy",
       "code": "ARAI2N4",
       "expiry": "2026-09-11",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "cat-fantasy",
       "code": "dva7t8u7zt",
       "expiry": "2026-09-12",
-      "days": 5
+      "days": 4
     },
     {
       "slug": "raid-shadow-legends",
       "code": "RAIDAutumn",
       "expiry": "2026-09-12",
-      "days": 5
+      "days": 4
     },
     {
       "slug": "mythic-heroes",
       "code": "MYSTIGON0816",
       "expiry": "2026-09-13",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "order-daybreak",
       "code": "FLOD9",
       "expiry": "2026-09-13",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "soul-land-new-world",
       "code": "P3G8W4ZB",
       "expiry": "2026-09-13",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "space-shooter",
       "code": "HAPPY9",
       "expiry": "2026-09-13",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "space-shooter",
       "code": "Io3nJimptl",
       "expiry": "2026-09-13",
-      "days": 6
+      "days": 5
     },
     {
       "slug": "eternal-evolution",
       "code": "G7U3WQ8",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "eternal-evolution",
       "code": "GhostintheShell",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "infinite-magicraid",
       "code": "BATUSVGIMR3",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "infinite-magicraid",
       "code": "GAMEOVER3",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "infinite-magicraid",
       "code": "INVU",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "infinite-magicraid",
       "code": "IMRNAVIGATOR",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "infinite-magicraid",
       "code": "OopaGift",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "infinite-magicraid",
       "code": "usguimrbirthday",
       "expiry": "2026-09-14",
-      "days": 7
+      "days": 6
     },
     {
       "slug": "the-walking-dead-survivors",
       "code": "TWDE2R3W",
       "expiry": "2026-09-14",
+      "days": 6
+    },
+    {
+      "slug": "adventure-of-white-chord",
+      "code": "Odette",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "call-of-antia",
+      "code": "AntiaAcademy",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "draconia-saga-global",
+      "code": "9HYXLXZ5E",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "dungeon-of-gods",
+      "code": "NEWDEMIGOD",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "era-of-conquest",
+      "code": "2gclud4dkb7l",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "era-of-conquest",
+      "code": "g9p87ofim3nb",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "my-hotpot-story",
+      "code": "MS92D5",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "P9J4R7L",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "A5N8F3G",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "G9H7PK3",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "4YANNIVERSARY",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "AGV3N7J",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "4YV4VUJ",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "LA8DEUW",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "RK9Z7EN",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "BG8Z4WA",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "LEM3LWN",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "panilla-saga",
+      "code": "Turpin2023",
+      "expiry": "2026-09-15",
+      "days": 7
+    },
+    {
+      "slug": "tower-of-fantasy",
+      "code": "804mmo",
+      "expiry": "2026-09-15",
       "days": 7
     }
   ],
@@ -296,12 +344,12 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 211,
+      "active": 210,
       "total": 225
     },
     {
       "slug": "echocalypse",
-      "active": 187,
+      "active": 186,
       "total": 189
     },
     {
@@ -335,13 +383,13 @@
       "total": 141
     },
     {
-      "slug": "infinite-magicraid",
-      "active": 124,
+      "slug": "call-of-antia",
+      "active": 122,
       "total": 132
     },
     {
-      "slug": "call-of-antia",
-      "active": 122,
+      "slug": "infinite-magicraid",
+      "active": 117,
       "total": 132
     },
     {
@@ -360,14 +408,14 @@
       "total": 114
     },
     {
-      "slug": "star-stable-online",
-      "active": 99,
-      "total": 99
-    },
-    {
       "slug": "survivor-io",
       "active": 99,
       "total": 104
+    },
+    {
+      "slug": "star-stable-online",
+      "active": 98,
+      "total": 99
     },
     {
       "slug": "cat-fantasy",
