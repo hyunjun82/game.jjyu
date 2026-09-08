@@ -1,4 +1,4 @@
-import { getAllGames, getRecentlyUpdated, totals } from '../lib/games';
+import { getListedGames, getRecentlyUpdated, totals } from '../lib/games';
 import GameSearch from '../components/GameSearch';
 
 export const metadata = {
@@ -9,7 +9,7 @@ export const metadata = {
 };
 
 export default function Home() {
-  const games = getAllGames();
+  const games = getListedGames();
   const recent = getRecentlyUpdated(6);
   const t = totals();
 
