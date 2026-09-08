@@ -1,0 +1,20 @@
+{
+  "_설명": "홈·전체목록에서 숨길 게임. 페이지 자체는 그대로 살려두므로 404가 나지 않는다.",
+  "_원칙": "지우지 않는다. 검색으로 들어온 사람은 페이지를 보고, 홈에서만 안 보인다.",
+  "_분류": {
+    "ended": "한국 서비스 종료. 코드는 전부 만료로 내리고 종료 사실을 알려준다.",
+    "no-kr": "한국 스토어에 없거나, 있어도 한국어 쿠폰 검색 수요가 확인되지 않음."
+  },
+  "hidden": [
+    { "slug": "shining-nikki",   "type": "ended", "note": "2020년 12월 한국 서비스 종료 (한국 법인 청산)" },
+    { "slug": "ragnarok-origin", "type": "ended", "note": "2026년 3월 31일 한국 서비스 종료" },
+    { "slug": "mu-origin-3",     "type": "ended", "note": "2026년 2월 25일 한국 서비스 종료" },
+
+    { "slug": "my-leisure-time",           "type": "no-kr", "note": "한국 구글플레이 미등재" },
+    { "slug": "soul-land-awakening-world", "type": "no-kr", "note": "동남아 빌드. 한국어 커뮤니티·쿠폰 검색 없음" },
+    { "slug": "infinite-magicraid",        "type": "no-kr", "note": "쿠폰 검색 결과가 전부 영문 사이트" },
+    { "slug": "overmortal",                "type": "no-kr", "note": "한국어 쿠폰 콘텐츠 사실상 없음" },
+    { "slug": "the-dragon-odyssey",        "type": "no-kr", "note": "한글명으로 등재됐으나 한국어 공략·후기·쿠폰 검색 0" },
+    { "slug": "trainstation-2-railway-empire", "type": "no-kr", "note": "한국어 지원하나 쿠폰이 게임 문법이 아님" }
+  ]
+}
