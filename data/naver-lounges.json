@@ -1,0 +1,24 @@
+{
+  "_설명": "네이버 게임 라운지에서 공개 쿠폰 코드를 수집할 게임 목록. loungeId는 game.naver.com/lounge/{여기} 경로명 그대로.",
+  "_보드탐색": "쿠폰 보드는 게임마다 이름이 달라 하드코딩하지 않고 /lounge/{id}/board 로 매번 조회한다.",
+  "lounges": [
+    { "slug": "three-kingdoms-re",      "loungeId": "Three_Kingdoms_re",          "titleKo": "삼국지: 리버스",        "titleEn": "Three Kingdoms: re" },
+    { "slug": "nuksam",                 "loungeId": "nuksam",                     "titleKo": "넋나간 삼국지",         "titleEn": "Nuksam Three Kingdoms" },
+    { "slug": "abyss-three-kingdoms",   "loungeId": "Abyss_Three_Kingdoms",       "titleKo": "심연 삼국",             "titleEn": "Abyss Three Kingdoms" },
+    { "slug": "yulgang-next",           "loungeId": "yulgang_next",               "titleKo": "열혈강호: 넥스트",       "titleEn": "Yulgang: Next" },
+    { "slug": "city-demon-hunters",     "loungeId": "ExtraordinaryDemonHunter",   "titleKo": "시티 데몬헌터즈: 각성자들", "titleEn": "City Demon Hunters" },
+    { "slug": "viking-rise",            "loungeId": "Viking_Rise",                "titleKo": "바이킹 라이즈",          "titleEn": "Viking Rise" },
+    { "slug": "mush-warrior",           "loungeId": "MushWarrior",                "titleKo": "버섯커 키우기",          "titleEn": "Legend of Mushroom" },
+    { "slug": "divine-keeper",          "loungeId": "Divine_Keeper_of_the_Gods",  "titleKo": "디바인: 신을 모시는 자",  "titleEn": "Divine: Keeper of the Gods" },
+    { "slug": "beast-clash",            "loungeId": "Beast_Clash_Last_Front",     "titleKo": "비스트 클래시: 라스트 프런트", "titleEn": "Beast Clash: Last Front" },
+    { "slug": "mir2-undead",            "loungeId": "The_Legend_of_Mir2_UNDEAD",  "titleKo": "미르2: 언데드",          "titleEn": "The Legend of Mir2: Undead" },
+    { "slug": "chaotic-agent-squad",    "loungeId": "Chaotic_Agent_Squad",        "titleKo": "엉망 특공대",           "titleEn": "Chaotic Agent Squad" },
+    { "slug": "fate-war",               "loungeId": "Fate_War",                   "titleKo": "페이트 워",             "titleEn": "Fate War" },
+    { "slug": "gray-saga",              "loungeId": "Gray_Saga",                  "titleKo": "그레이 사가",           "titleEn": "Gray Saga" },
+    { "slug": "this-is-three-kingdoms", "loungeId": "This_is_Three_kingdoms",     "titleKo": "이것이 삼국지다",        "titleEn": "This is Three Kingdoms" },
+    { "slug": "elpis-soul-ring",        "loungeId": "Elpis_Legend_Soul_Ring",     "titleKo": "엘피스 전기: 소울링",     "titleEn": "Elpis Legend: Soul Ring" },
+    { "slug": "aqualand-survival",      "loungeId": "Wild_Water_World",           "titleKo": "아쿠아랜드: 크레이지 서바이벌", "titleEn": "Aqualand: Crazy Survival" },
+    { "slug": "p2-rebirth",             "loungeId": "p2rebirth",                  "titleKo": "희비전 리버스",          "titleEn": "P2 Rebirth" },
+    { "slug": "doomsday-last-survivors-kr", "loungeId": "Doomsday_Last_Survivors", "titleKo": "둠스데이: 라스트 서바이버", "titleEn": "Doomsday: Last Survivors" }
+  ]
+}
