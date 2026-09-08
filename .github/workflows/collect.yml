@@ -4,7 +4,7 @@ name: 쿠폰 수집
 # 그래서 5분마다 돌 이유가 없다 — 3시간마다 한 바퀴면 놓치지 않는다.
 on:
   schedule:
-    - cron: '20 */3 * * *'
+    - cron: '5,35 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -31,6 +31,11 @@ jobs:
 
       # 수집 결과를 숫자로 남긴다. 홈의 "오늘 새 쿠폰 N개" 배지와
       # 수집기가 조용히 죽었는지 확인하는 근거가 된다.
+      # 네이버 게임 라운지 — 국내 게임 쿠폰의 주 소스.
+      # 삼국지:리버스·넋나간 삼국지는 매주 금요일, 심연 삼국은 주 1~2회 코드를 올린다.
+      - name: 네이버 라운지 수집
+        run: node scripts/collect-naver.mjs | tee -a /tmp/out.log
+
       - name: 통계 생성
         run: node scripts/stats.mjs | tee -a /tmp/out.log
 
