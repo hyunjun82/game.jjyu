@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-08T23:19:55.905Z",
+  "generatedAt": "2026-09-09T01:26:22.111Z",
   "today": "2026-09-09",
   "todayNew": 0,
   "totals": {
     "games": 365,
     "codes": 10015,
-    "active": 9506,
-    "expired": 509,
+    "active": 9514,
+    "expired": 501,
     "withExpiry": 2626
   },
   "newByDate": [
@@ -365,7 +365,7 @@
     },
     {
       "slug": "echocalypse",
-      "active": 186,
+      "active": 187,
       "total": 189
     },
     {
