@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T00:00:13.343Z",
+  "generatedAt": "2026-09-10T04:12:10.712Z",
   "today": "2026-09-10",
-  "todayNew": 0,
+  "todayNew": 1,
   "totals": {
     "games": 365,
-    "codes": 10015,
-    "active": 9512,
-    "expired": 503,
+    "codes": 10016,
+    "active": 9518,
+    "expired": 498,
     "withExpiry": 2626
   },
   "newByDate": [
@@ -33,6 +33,10 @@
     {
       "date": "2026-09-08",
       "count": 173
+    },
+    {
+      "date": "2026-09-10",
+      "count": 1
     }
   ],
   "expiringSoon": [
@@ -400,7 +404,7 @@
     },
     {
       "slug": "call-of-antia",
-      "active": 121,
+      "active": 122,
       "total": 132
     },
     {
