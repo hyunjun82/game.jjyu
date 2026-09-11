@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33726-1641222983/call-of-antia.jpg",
   "sourcePath": "/call-of-antia/codes/",
-  "updatedAt": "2026-09-10T23:02:32.020Z",
+  "updatedAt": "2026-09-11T00:57:06.464Z",
   "codes": [
     {
       "code": "Lullaby",
@@ -727,6 +727,14 @@
       "status": "active"
     },
     {
+      "code": "ImmortalPoet",
+      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
+      "expiry": "2027-08-12",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-11",
+      "status": "active"
+    },
+    {
       "code": "ShadowLucca",
       "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
       "expiry": null,
@@ -1026,14 +1034,6 @@
       "code": "GodoftheSea",
       "reward": "50 Gems, 20,000 Gold & 20,000 EXP Potions",
       "expiry": "2026-08-26",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-11",
-      "status": "expired"
-    },
-    {
-      "code": "ImmortalPoet",
-      "reward": "50 Gems, 20,000 Gold and 20,000 EXP Potions",
-      "expiry": "2026-08-12",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-11",
       "status": "expired"

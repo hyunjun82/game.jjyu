@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-10T23:03:11.924Z",
+  "generatedAt": "2026-09-11T00:57:57.907Z",
   "today": "2026-09-11",
   "todayNew": 0,
   "totals": {
     "games": 365,
     "codes": 10016,
-    "active": 9509,
-    "expired": 507,
+    "active": 9515,
+    "expired": 501,
     "withExpiry": 2626
   },
   "newByDate": [
@@ -404,12 +404,12 @@
     },
     {
       "slug": "call-of-antia",
-      "active": 121,
+      "active": 122,
       "total": 132
     },
     {
       "slug": "infinite-magicraid",
-      "active": 117,
+      "active": 118,
       "total": 132
     },
     {
