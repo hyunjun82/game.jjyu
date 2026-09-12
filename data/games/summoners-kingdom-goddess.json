@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36743-1728721800/summoners-kingdom-goddess-cover.jpg",
   "sourcePath": "/summoners-kingdom-goddess/codes/",
-  "updatedAt": "2026-09-11T23:30:18.681Z",
+  "updatedAt": "2026-09-12T01:26:31.649Z",
   "codes": [
+    {
+      "code": "Clover",
+      "reward": "Expires August 13th",
+      "expiry": "2027-08-13",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-12",
+      "status": "active"
+    },
     {
       "code": "Lotus",
       "reward": "Expires August 06th",
@@ -213,14 +221,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-12",
       "status": "active"
-    },
-    {
-      "code": "Clover",
-      "reward": "Expires August 13th",
-      "expiry": "2026-08-13",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-12",
-      "status": "expired"
     }
   ]
 }

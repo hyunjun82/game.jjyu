@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-11T23:30:41.003Z",
+  "generatedAt": "2026-09-12T01:26:55.553Z",
   "today": "2026-09-12",
-  "todayNew": 0,
+  "todayNew": 1,
   "totals": {
     "games": 365,
-    "codes": 10016,
-    "active": 9508,
-    "expired": 508,
+    "codes": 10017,
+    "active": 9519,
+    "expired": 498,
     "withExpiry": 2626
   },
   "newByDate": [
@@ -36,6 +36,10 @@
     },
     {
       "date": "2026-09-10",
+      "count": 1
+    },
+    {
+      "date": "2026-09-12",
       "count": 1
     }
   ],
@@ -409,7 +413,7 @@
     },
     {
       "slug": "infinite-magicraid",
-      "active": 118,
+      "active": 119,
       "total": 132
     },
     {
