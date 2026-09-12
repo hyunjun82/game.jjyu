@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-12T19:36:49.120Z",
+  "generatedAt": "2026-09-12T22:07:58.380Z",
   "today": "2026-09-13",
-  "todayNew": 0,
+  "todayNew": 11,
   "totals": {
     "games": 365,
-    "codes": 10018,
-    "active": 9513,
-    "expired": 505,
-    "withExpiry": 2627
+    "codes": 10029,
+    "active": 9521,
+    "expired": 508,
+    "withExpiry": 2633
   },
   "newByDate": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-09-12",
       "count": 2
+    },
+    {
+      "date": "2026-09-13",
+      "count": 11
     }
   ],
   "expiringSoon": [
@@ -161,6 +165,12 @@
     {
       "slug": "era-of-conquest",
       "code": "g9p87ofim3nb",
+      "expiry": "2026-09-15",
+      "days": 2
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "H8Z52YT",
       "expiry": "2026-09-15",
       "days": 2
     },
@@ -337,12 +347,6 @@
       "code": "ay44z43fcq",
       "expiry": "2026-09-19",
       "days": 6
-    },
-    {
-      "slug": "girl-wars",
-      "code": "HBD2ND",
-      "expiry": "2026-09-20",
-      "days": 7
     }
   ],
   "topGames": [
@@ -368,8 +372,8 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 211,
-      "total": 225
+      "active": 212,
+      "total": 227
     },
     {
       "slug": "echocalypse",
@@ -383,8 +387,8 @@
     },
     {
       "slug": "flame-of-valhalla",
-      "active": 176,
-      "total": 187
+      "active": 178,
+      "total": 189
     },
     {
       "slug": "shining-nikki",
@@ -409,7 +413,7 @@
     {
       "slug": "call-of-antia",
       "active": 122,
-      "total": 132
+      "total": 133
     },
     {
       "slug": "infinite-magicraid",
@@ -444,7 +448,7 @@
     {
       "slug": "cat-fantasy",
       "active": 96,
-      "total": 102
+      "total": 103
     }
   ],
   "noImage": 0
