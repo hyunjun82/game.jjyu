@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-12T01:26:55.553Z",
+  "generatedAt": "2026-09-12T06:21:28.583Z",
   "today": "2026-09-12",
-  "todayNew": 1,
+  "todayNew": 2,
   "totals": {
     "games": 365,
-    "codes": 10017,
-    "active": 9519,
+    "codes": 10018,
+    "active": 9520,
     "expired": 498,
-    "withExpiry": 2626
+    "withExpiry": 2627
   },
   "newByDate": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "date": "2026-09-12",
-      "count": 1
+      "count": 2
     }
   ],
   "expiringSoon": [
@@ -339,10 +339,10 @@
       "days": 6
     },
     {
-      "slug": "cat-fantasy",
-      "code": "ay44z43fcq",
-      "expiry": "2026-09-19",
-      "days": 7
+      "slug": "nuksam",
+      "code": "AR38HW",
+      "expiry": "2026-09-18",
+      "days": 6
     }
   ],
   "topGames": [
