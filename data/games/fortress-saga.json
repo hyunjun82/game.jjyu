@@ -8,32 +8,8 @@
   "sourceUrl": "https://game.naver.com/lounge/FotressSaga/board/detail/8081731",
   "howTo": "<",
   "postCount": 6,
-  "updatedAt": "2026-09-13T14:39:59.196Z",
+  "updatedAt": "2026-09-13T18:04:45.654Z",
   "codes": [
-    {
-      "code": "THANKYOUFO",
-      "reward": "1000 Gems",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "1003DAY",
-      "reward": "3000 Gems, 3 Cake",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "FSBESTONE",
-      "reward": "30 Repair Cat Tickets, 30 Cannon Tickets, 10 Hero Ticket",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
     {
       "code": "FS3RDANNIDAY",
       "reward": "",
@@ -86,6 +62,30 @@
       "postedAt": "2025-12-24",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "THANKYOUFO",
+      "reward": "1000 Gems",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
+      "code": "1003DAY",
+      "reward": "3000 Gems, 3 Cake",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
+      "code": "FSBESTONE",
+      "reward": "30 Repair Cat Tickets, 30 Cannon Tickets, 10 Hero Ticket",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     }
   ]
