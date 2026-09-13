@@ -25,6 +25,23 @@ const B1 = 'https://comm-api.game.naver.com/nng_main/v1';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const GAMES_DIR = path.join(ROOT, 'data', 'games');
 const CONF = path.join(ROOT, 'data', 'naver-lounges.json');
+// 라운지 목록은 scripts/ 쪽을 우선한다.
+// data/ 는 파일이 400개 가까워서 깃허브 웹 편집기가 커밋을 못 받는다(500). 목록을 손으로
+// 늘릴 때는 여기에 올리고, data/ 쪽은 기존 항목을 남겨 둔 채 합친다(loungeId 기준 중복 제거).
+const CONF_EXTRA = path.join(ROOT, 'scripts', 'naver-lounges.json');
+
+function loadLounges() {
+  const read = (f) => { try { return JSON.parse(fs.readFileSync(f, 'utf8')).lounges || []; } catch (e) { return []; } };
+  const seen = new Set();
+  const out = [];
+  for (const g of [...read(CONF_EXTRA), ...read(CONF)]) {
+    const key = String(g.loungeId).toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(g);
+  }
+  return out;
+}
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -346,8 +363,7 @@ async function collectOne(g) {
 
 async function main() {
   fs.mkdirSync(GAMES_DIR, { recursive: true });
-  const conf = JSON.parse(fs.readFileSync(CONF, 'utf8'));
-  const list = conf.lounges;
+  const list = loadLounges();
   const only = process.argv.find((a) => a.startsWith('--only='));
   // --fresh: 기존 파일을 무시하고 소스 기준으로 새로 쓴다(파서 수정 후 잔여물 정리용)
   const fresh = process.argv.includes('--fresh');
