@@ -8,8 +8,40 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
   "howTo": "",
   "postCount": 10,
-  "updatedAt": "2026-09-13T23:05:41.540Z",
+  "updatedAt": "2026-09-13T23:38:20.193Z",
   "codes": [
+    {
+      "code": "SAILORSFIRSTLIVE",
+      "reward": "Diamond x 400",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "HEIDISGIFT",
+      "reward": "Bulging Mushroom x5",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "FINNSGIFT",
+      "reward": "EXP Poiton (M) x50",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "GOLDSAILORS",
+      "reward": "Gold Compass x10",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
     {
       "code": "SAILORSPV5000",
       "reward": "Bulging Mushroom x5, Silver Compass x20 (expires July 28th)",
@@ -32,7 +64,7 @@
       "expiry": null,
       "postedAt": "2026-07-20",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -41,7 +73,7 @@
       "expiry": null,
       "postedAt": "2026-07-05",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -50,7 +82,7 @@
       "expiry": null,
       "postedAt": "2026-07-04",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -59,7 +91,7 @@
       "expiry": null,
       "postedAt": "2026-07-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -68,7 +100,7 @@
       "expiry": null,
       "postedAt": "2026-07-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -77,7 +109,7 @@
       "expiry": null,
       "postedAt": "2025-12-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -86,7 +118,7 @@
       "expiry": null,
       "postedAt": "2025-12-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -103,7 +135,7 @@
       "expiry": null,
       "postedAt": "2026-07-06",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -112,7 +144,7 @@
       "expiry": null,
       "postedAt": "2026-07-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -120,38 +152,6 @@
       "reward": "10 Silver Compasses, 50k Gold, 10 EXP Potions (M), 10 Upgrade Stones (M) - expires July 7th",
       "expiry": null,
       "postedAt": "2026-06-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "expired"
-    },
-    {
-      "code": "SAILORSFIRSTLIVE",
-      "reward": "Diamond x 400",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "HEIDISGIFT",
-      "reward": "Bulging Mushroom x5",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "FINNSGIFT",
-      "reward": "EXP Poiton (M) x50",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "GOLDSAILORS",
-      "reward": "Gold Compass x10",
-      "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-14",
       "status": "expired"

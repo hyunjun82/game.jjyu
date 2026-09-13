@@ -8,15 +8,38 @@
   "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8160686",
   "howTo": "",
   "postCount": 78,
-  "updatedAt": "2026-09-13T23:05:04.824Z",
+  "updatedAt": "2026-09-13T23:37:43.140Z",
   "codes": [
     {
-      "code": "SS09HL1H",
+      "code": "NEWYEARJOY2025",
+      "reward": "Ether x20,000 + Offline Gold (12 h) x1 + Offline Silver (12 h) x1",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "MAXLEVELNEWBIE",
+      "reward": "100 Skill Summon Ticket, 100 Ally Summon Ticket, 100 Relic Summon Ticket Coupon",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "LASK0401",
       "reward": "",
-      "expiry": "2026-09-13",
-      "postedAt": "2026-09-07",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "SKILL100",
+      "reward": "100 Skill Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
       "status": "active"
     },
     {
@@ -84,9 +107,25 @@
       "status": "active"
     },
     {
+      "code": "2025SOUL06LIKE",
+      "reward": "Weekly code",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
       "code": "JUNSTRIKE6SOUL",
       "reward": "expires June 29th",
       "expiry": "2027-06-29",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "SOULJOY5MAY5",
+      "reward": "Weekly reward",
+      "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-14",
       "status": "active"
@@ -348,12 +387,53 @@
       "status": "active"
     },
     {
+      "code": "THXS2ALL6",
+      "reward": "30 transmog scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "SS2NIGHT5",
+      "reward": "transmog scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "DRESSUP650",
+      "reward": "transmog scrolls",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "100CLASS",
+      "reward": "100 Class Summon Tickets",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "SS09HL1H",
+      "reward": "",
+      "expiry": "2026-09-13",
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
       "code": "SS08CX5T",
       "reward": "",
       "expiry": "2026-09-06",
       "postedAt": "2026-08-31",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -362,7 +442,7 @@
       "expiry": "2026-08-30",
       "postedAt": "2026-08-24",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -371,7 +451,7 @@
       "expiry": "2026-08-23",
       "postedAt": "2026-08-17",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -380,7 +460,7 @@
       "expiry": "2026-08-16",
       "postedAt": "2026-08-10",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -389,7 +469,7 @@
       "expiry": "2026-08-09",
       "postedAt": "2026-08-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -398,7 +478,7 @@
       "expiry": "2026-08-02",
       "postedAt": "2026-07-27",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -407,7 +487,7 @@
       "expiry": "2026-07-26",
       "postedAt": "2026-07-20",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -416,7 +496,7 @@
       "expiry": "2026-07-19",
       "postedAt": "2026-07-13",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -425,7 +505,7 @@
       "expiry": "2026-07-12",
       "postedAt": "2026-07-06",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -434,7 +514,7 @@
       "expiry": "2026-07-05",
       "postedAt": "2026-06-29",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -443,7 +523,7 @@
       "expiry": "2026-06-28",
       "postedAt": "2026-06-22",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -452,7 +532,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-06-15",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -461,7 +541,7 @@
       "expiry": "2026-06-14",
       "postedAt": "2026-06-08",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -470,7 +550,7 @@
       "expiry": "2026-06-07",
       "postedAt": "2026-06-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -479,7 +559,7 @@
       "expiry": "2026-05-31",
       "postedAt": "2026-05-25",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -488,7 +568,7 @@
       "expiry": "2026-05-24",
       "postedAt": "2026-05-18",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -497,7 +577,7 @@
       "expiry": "2026-05-17",
       "postedAt": "2026-05-11",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "status": "expired"
     },
     {
@@ -506,86 +586,6 @@
       "expiry": null,
       "postedAt": "2026-07-16",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-13",
-      "status": "expired"
-    },
-    {
-      "code": "NEWYEARJOY2025",
-      "reward": "Ether x20,000 + Offline Gold (12 h) x1 + Offline Silver (12 h) x1",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "MAXLEVELNEWBIE",
-      "reward": "100 Skill Summon Ticket, 100 Ally Summon Ticket, 100 Relic Summon Ticket Coupon",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "LASK0401",
-      "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "SKILL100",
-      "reward": "100 Skill Summon Tickets",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "2025SOUL06LIKE",
-      "reward": "Weekly code",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "SOULJOY5MAY5",
-      "reward": "Weekly reward",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "THXS2ALL6",
-      "reward": "30 transmog scrolls",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "SS2NIGHT5",
-      "reward": "transmog scrolls",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "DRESSUP650",
-      "reward": "transmog scrolls",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "100CLASS",
-      "reward": "100 Class Summon Tickets",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-14",
       "status": "expired"
     },
