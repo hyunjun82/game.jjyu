@@ -80,6 +80,11 @@ const STOP = new Set([
   'HTTP','HTTPS','WWW','COM','NAVER','LOUNGE','EVENT','UPDATE','NOTICE','GAME','GM','CM',
   'VIP','SNS','FAQ','QNA','PC','TIP','NEW','HOT','BEST','ALL','AND','THE','FOR','YOU',
   'CLICK','LINK','HERE','DOWNLOAD','WINDOWS','MACOS',
+  'DISCORD','TIKTOK','YOUTUBE','FACEBOOK','TWITTER','INSTAGRAM','KAKAO','CAFE',
+  'OFFICIAL','GIFT','CODE','COUPON','REWARD','ITEM','ITEMS','LEVEL','SERVER',
+  'TEAM','MVP','SVP','CHECK','ENTER','INPUT','OPEN','FREE','MOBILE','ONLINE',
+  'VERSION','PLAYSTORE','APPSTORE','ONLY','WITH','FROM','THIS','THAT','YOUR',
+  'MORE','TIME','DATE','NAME','POINT','POINTS','BONUS','SHARE','LIKE','FOLLOW',
 ]);
 
 /** 코드처럼 생겼는지. 숫자만·너무 짧은 것·흔한 영단어는 버린다. */
@@ -95,45 +100,109 @@ function isSaneCode(c) {
   return hasDigit || allUpper;                          // 311k93 / MZF1334 / ZPXKLU / GASDDW
 }
 
-/** "유효 기간: ~ 9월 11일 00:00" 같은 표기를 ISO 날짜로. 연도가 없으면 가장 가까운 미래. */
+/**
+ * 만료 표기를 ISO 날짜로. 실측한 표기를 모두 받는다.
+ *   "2026년 7월 10일(금)까지"  /  "(26/07/19(일) 08:59까지)"  /  "유효 기간: ~ 9월 11일 00:00"
+ *
+ * 원칙: "까지·마감"이 붙은 날짜만 만료일로 본다. 본문에 그냥 적힌 날짜는
+ * 이벤트 시작일이나 점검일인 경우가 많아서 집으면 안 된다.
+ * 기간이 "A부터 B까지"로 적히면 마지막에 걸린 B가 남는다.
+ */
+const TAIL = String.raw`(?:\([^)]{0,6}\))?\s*(?:\d{1,2}\s*[:시]\s*\d{2}\s*분?)?\s*(?:\((?:UTC|KST)\))?\s*(?:까지|마감)`;
+const RE_KO = new RegExp(String.raw`(?:(\d{4})\s*년\s*)?(\d{1,2})\s*월\s*(\d{1,2})\s*일\s*` + TAIL, 'g');
+const RE_SLASH = new RegExp(String.raw`(\d{2,4})\s*[./-]\s*(\d{1,2})\s*[./-]\s*(\d{1,2})\s*` + TAIL, 'g');
+
+const iso = (y, mo, dy) =>
+  (mo >= 1 && mo <= 12 && dy >= 1 && dy <= 31)
+    ? new Date(Date.UTC(y, mo - 1, dy)).toISOString().slice(0, 10)
+    : null;
+
 function parseExpiry(text, postISO) {
-  const m = text.match(/유효\s*기간[^0-9]{0,12}(\d{1,2})\s*월\s*(\d{1,2})\s*일/)
-    || text.match(/(\d{1,2})\s*월\s*(\d{1,2})\s*일\s*(?:까지|마감)/);
-  if (!m) return null;
-  const mon = Number(m[1]), day = Number(m[2]);
-  if (!(mon >= 1 && mon <= 12 && day >= 1 && day <= 31)) return null;
-  // 연도는 글이 올라온 해를 쓴다. 오늘 기준으로 잡으면 6월 글의 "7월 3일"이 내년으로 튄다.
+  // 글이 올라온 해를 기준으로 삼는다. 오늘 기준으로 잡으면 6월 글의 "7월 3일"이 내년으로 튄다.
   const base = postISO ? new Date(postISO + 'T00:00:00Z') : new Date();
+  let last = null;
+
+  for (const m of text.matchAll(RE_SLASH)) {
+    let y = Number(m[1]); if (y < 100) y += 2000;
+    last = iso(y, Number(m[2]), Number(m[3])) || last;
+  }
+  for (const m of text.matchAll(RE_KO)) {
+    const mon = Number(m[2]), day = Number(m[3]);
+    let year = m[1] ? Number(m[1]) : base.getUTCFullYear();
+    // 12월 글에 "1월 5일"처럼 해를 넘기는 표기만 +1 한다
+    if (!m[1] && mon < base.getUTCMonth() + 1 - 6) year += 1;
+    last = iso(year, mon, day) || last;
+  }
+  if (last) return last;
+
+  // "유효 기간: ~ 9월 11일", "만료 시간 - [9/5 04:59]" 처럼 까지가 없는 표기는 라벨로 받는다.
+  const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일))[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})/);
+  if (!lab) return null;
+  const mon = Number(lab[1]), day = Number(lab[2]);
   let year = base.getUTCFullYear();
-  // 12월 글에 "1월 5일"처럼 해를 넘기는 표기만 +1 한다
   if (mon < base.getUTCMonth() + 1 - 6) year += 1;
-  return new Date(Date.UTC(year, mon - 1, day)).toISOString().slice(0, 10);
+  return iso(year, mon, day);
 }
 
-/** 본문에서 { code, reward, expiry } 목록을 뽑는다. 라벨 근처(±3줄)만 인정한다. */
+/**
+ * 본문에서 { code, reward, expiry } 목록을 뽑는다.
+ *
+ * 발행처마다 코드를 쓰는 모양이 다르다. 실측한 세 가지를 모두 받는다.
+ *   (가) 인라인        "쿠폰 코드: 311k93"
+ *   (나) 세로 나열      "선물 코드" 아래로 vip555 / vip666 / ... 11줄
+ *   (다) 불릿·이모지    "- VR26CHAMPIONSHIP", "🎁 VRJULY2026 (26/07/19까지)"
+ *
+ * (나)를 한 줄씩 보면서 라벨 ±3줄만 인정하면 4번째 코드부터 잘려 나간다.
+ * 그래서 연속된 코드 줄을 한 덩어리로 묶고, 덩어리의 앞뒤 3줄에 라벨이 있으면
+ * 덩어리 전체를 받는다. 라벨을 요구하는 원칙은 그대로라 잡음은 늘지 않는다.
+ */
+const BULLET = /^(?:[^A-Za-z0-9가-힣]+|\d{1,2}[.)]\s)\s*/u;
+
+/** 줄이 코드 한 개로만 이뤄졌으면 그 코드를, 아니면 빈 문자열을. 뒤에 괄호는 허용한다. */
+function tokenOf(line) {
+  const m = line.match(/^([A-Za-z0-9]{5,20})\s*(.*)$/);
+  if (!m) return '';
+  const rest = m[2].trim();
+  if (rest && !/^[(（[]/.test(rest)) return '';   // "TOP 3 팀" 같은 줄은 버린다
+  return m[1];
+}
+
 function parseCodes(text, postISO) {
-  const lines = text.split('\n').map((s) => s.trim()).filter(Boolean);
+  const lines = text.split('\n').map((s) => s.trim().replace(BULLET, '').trim()).filter(Boolean);
   const labelAt = lines.map((l) => LABEL_RE.test(l));
-  const expiry = parseExpiry(text, postISO);
+  const codeAt = lines.map((l) => { const t = tokenOf(l); return !!t && isSaneCode(t); });
+  const postExpiry = parseExpiry(text, postISO);
   const found = new Map();
 
-  const push = (code) => {
+  const push = (code, expiry) => {
     if (!isSaneCode(code)) return;
     const key = code.toUpperCase();
-    if (!found.has(key)) found.set(key, { code, reward: '', expiry, postedAt: postISO || null });
+    if (!found.has(key)) {
+      found.set(key, { code, reward: '', expiry: expiry || postExpiry, postedAt: postISO || null });
+    }
   };
 
-  lines.forEach((line, i) => {
-    // (가) 인라인: "쿠폰 코드:311k93", "쿠폰 번호: ZPXKLU"
+  // (가) 인라인
+  for (const line of lines) {
     const inline = line.match(/(?:코드|번호|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i);
-    if (inline) push(inline[1]);
+    if (inline) push(inline[1], null);
+  }
 
-    // (나) 단독 줄이 통째로 코드인 경우 — 라벨이 위아래 3줄 안에 있어야 인정
-    if (/^[A-Za-z0-9]{5,20}$/.test(line)) {
-      const near = labelAt.slice(Math.max(0, i - 3), i + 4).some(Boolean);
-      if (near) push(line);
+  // (나)(다) 연속 코드 덩어리 — 덩어리 앞 3줄 또는 뒤 3줄에 라벨이 있어야 인정
+  for (let i = 0; i < lines.length; ) {
+    if (!codeAt[i]) { i++; continue; }
+    let j = i;
+    while (j + 1 < lines.length && codeAt[j + 1]) j++;
+    const near = labelAt.slice(Math.max(0, i - 3), i).some(Boolean)
+      || labelAt.slice(j + 1, j + 4).some(Boolean);
+    if (near && j - i + 1 <= 40) {
+      for (let k = i; k <= j; k++) {
+        // 줄 뒤 괄호에 만료일이 붙어 오는 발행처가 있다. 있으면 그 코드만의 만료일로 쓴다.
+        push(tokenOf(lines[k]), parseExpiry(lines[k], postISO));
+      }
     }
-  });
+    i = j + 1;
+  }
   return [...found.values()];
 }
 
@@ -145,7 +214,8 @@ function parseHowTo(text) {
   const steps = [];
   for (let i = start + 1; i < Math.min(lines.length, start + 9); i++) {
     const l = lines[i];
-    if (/^(감사|받아서|앞으로도|>>|👉)/.test(l)) break;
+    if (/^(감사|받아서|앞으로도|>>|👉|⭐|★|▶|\[)/.test(l)) break;
+    if (/다운로드|공식\s*(디스코드|틱톡|카페|채널)|바로가기/.test(l)) break;
     if (l.length > 90) continue;
     steps.push(l);
     if (steps.length >= 5) break;
@@ -157,6 +227,8 @@ const todayISO = () => new Date().toISOString().slice(0, 10);
 
 /** 만료일 표기가 없는 코드의 수명. 주간 발행이 표준이라 2주면 충분히 넉넉하다. */
 const STALE_DAYS = 14;
+/** 이보다 먼 만료일은 파싱 사고로 본다. */
+const MAX_VALID_DAYS = 120;
 const isStale = (postedAt, today) =>
   !!postedAt && (Date.parse(today) - Date.parse(postedAt)) / 86400000 > STALE_DAYS;
 
@@ -184,6 +256,15 @@ function merge(prev, freshCodes) {
     const gone = old.lastSeen && old.lastSeen !== today;
     merged.push({ ...old, status: gone ? 'expired' : old.status || 'active' });
   }
+  // 게시일로부터 120일을 넘는 만료일은 믿지 않는다. 실측상 정상값은 전부 30일 이내였고,
+  // 예전 파서가 해를 +1 해 버린 잔재(384~396일)만 이 구간에 있었다. 지우고 경과일 규칙으로 넘긴다.
+  for (const c of merged) {
+    // 게시일을 아는 코드에만 적용한다. 다른 수집기가 넣은 값은 건드리지 않는다.
+    if (c.expiry && c.postedAt) {
+      const gap = (Date.parse(c.expiry) - Date.parse(c.postedAt)) / 86400000;
+      if (gap > MAX_VALID_DAYS) c.expiry = null;
+    }
+  }
   for (const c of merged) {
     if (c.expiry) c.status = c.expiry < today ? 'expired' : 'active';
     else if (isStale(c.postedAt, today)) c.status = 'expired';
@@ -196,14 +277,30 @@ function merge(prev, freshCodes) {
   return merged;
 }
 
+/**
+ * 라운지 하나를 훑는다.
+ *
+ * 1차: "쿠폰 / 선물 코드" 전용 게시판. 대부분의 게임이 여기에만 올린다.
+ * 2차: 전용 게시판이 없는 게임 — 공지·이벤트 게시판에 섞어 올린다. 이때는
+ *      제목에 쿠폰·선물코드가 들어간 글만 본다. 게시판 전체를 읽으면 잡음이 크다.
+ *      원스토어·구글플레이 "할인 쿠폰" 글은 게임 리딤 코드가 아니라서 반드시 뺀다.
+ */
+const SECTION_RE = /이벤트|공지|혜택/;
+const TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤/;
+const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
+
 async function collectOne(g) {
   const boardRes = await get(`${B1}/lounge/${g.loungeId}/board`);
   if (!boardRes) return { ...g, error: '보드 조회 실패' };
 
-  const boards = (boardRes.content.boardViews || [])
-    .filter((v) => v.board)
-    .map((v) => v.board)
-    .filter((b) => BOARD_RE.test(b.boardName) && !b.memberWriteBoard);
+  const all = (boardRes.content.boardViews || [])
+    .filter((v) => v.board).map((v) => v.board).filter((b) => !b.memberWriteBoard);
+
+  const primary = all.filter((b) => BOARD_RE.test(b.boardName));
+  // 전용 게시판이 있어도 공지·이벤트는 같이 본다. 전용 게시판을 만들어 두고
+  // 정작 코드는 공지에 올리는 게임이 있다(이것이 삼국지다 — 쿠폰 모음 게시판 1건).
+  const secondary = all.filter((b) => SECTION_RE.test(b.boardName) && !primary.includes(b)).slice(0, 4);
+  const boards = [...primary, ...secondary];
 
   if (!boards.length) return { ...g, error: '쿠폰 보드 없음' };
 
@@ -211,22 +308,27 @@ async function collectOne(g) {
   let howTo = '', image = null, total = 0, latest = null, sourceUrl = null, locked = false;
 
   for (const b of boards) {
+    const titleOnly = !primary.includes(b);
     if (b.memberAccessBoard) { locked = true; continue; }  // 가입 필요 — 본문 403
     const q = `offset=0&limit=30&order=NEW&buffFilteringYN=N&boardId=${b.boardId}`;
     const feed = await get(`${B1}/community/lounge/${g.loungeId}/feed?${q}`);
     await sleep(300);
-    if (!feed || !feed.content.feeds?.length) { locked = true; continue; }
+    if (!feed || !feed.content.feeds?.length) { if (!titleOnly) locked = true; continue; }
 
-    total += feed.content.totalCount || 0;
+    if (!titleOnly) total += feed.content.totalCount || 0;
 
     for (const item of feed.content.feeds) {
       if (item.user?.userRoleCode === 'common_user') continue;   // 유저 글 제외
+      const title = item.feed.title || '';
+      if (titleOnly && !TITLE_RE.test(title)) continue;
       const text = bodyText(item.feed.contents);
       if (!text) continue;
+      if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400)))) continue;
       const d = String(item.feed.createdDate || '');
       const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
       const got = parseCodes(text, iso);
       if (!got.length) continue;
+      if (titleOnly) total += 1;
 
       if (!latest || (iso && iso > latest)) {
         latest = iso;
