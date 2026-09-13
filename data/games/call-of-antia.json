@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33726-1641222983/call-of-antia.jpg",
   "sourcePath": "/call-of-antia/codes/",
-  "updatedAt": "2026-09-12T22:07:14.610Z",
+  "updatedAt": "2026-09-13T00:10:43.776Z",
   "codes": [
     {
       "code": "Lullaby",
@@ -879,6 +879,14 @@
       "status": "active"
     },
     {
+      "code": "MoonlitArtemis",
+      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion",
+      "expiry": "2027-08-14",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
       "code": "2022antia",
       "reward": "Rewards: 300 Gems",
       "expiry": null,
@@ -1058,14 +1066,6 @@
       "code": "DemonHunter",
       "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion",
       "expiry": "2026-08-28",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "expired"
-    },
-    {
-      "code": "MoonlitArtemis",
-      "reward": "50 Gems, 20,000 Gold, and 20,000 EXP Potion",
-      "expiry": "2026-08-14",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "expired"

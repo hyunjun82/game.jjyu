@@ -4,12 +4,20 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-35695-1769539757/overmortal-android-ios-image-of-horned-immortal-brandishing-a-sword-1-.jpg",
   "sourcePath": "/overmortal/codes/",
-  "updatedAt": "2026-09-12T22:07:30.369Z",
+  "updatedAt": "2026-09-13T00:10:58.620Z",
   "codes": [
     {
       "code": "WELCOME",
       "reward": "200 fateum",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "Ebbtide",
+      "reward": "rewards (expires August 14th)",
+      "expiry": "2027-08-14",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "active"
@@ -218,14 +226,6 @@
       "code": "Stargrain",
       "reward": "rewards (expires August 21st)",
       "expiry": "2026-08-21",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "expired"
-    },
-    {
-      "code": "Ebbtide",
-      "reward": "rewards (expires August 14th)",
-      "expiry": "2026-08-14",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "expired"
