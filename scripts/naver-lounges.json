@@ -1,0 +1,313 @@
+{
+  "_설명": "네이버 게임 라운지에서 공개 쿠폰 코드를 수집할 게임 목록. loungeId는 game.naver.com/lounge/{여기} 경로명 그대로.",
+  "_보드탐색": "쿠폰 보드는 게임마다 이름이 달라 하드코딩하지 않고 /lounge/{id}/board 로 매번 조회한다.",
+  "lounges": [
+    {
+      "slug": "three-kingdoms-re",
+      "loungeId": "Three_Kingdoms_re",
+      "titleKo": "삼국지: 리버스",
+      "titleEn": "Three Kingdoms: re"
+    },
+    {
+      "slug": "nuksam",
+      "loungeId": "nuksam",
+      "titleKo": "넋나간 삼국지",
+      "titleEn": "Nuksam Three Kingdoms"
+    },
+    {
+      "slug": "abyss-three-kingdoms",
+      "loungeId": "Abyss_Three_Kingdoms",
+      "titleKo": "심연 삼국",
+      "titleEn": "Abyss Three Kingdoms"
+    },
+    {
+      "slug": "yulgang-next",
+      "loungeId": "yulgang_next",
+      "titleKo": "열혈강호: 넥스트",
+      "titleEn": "Yulgang: Next"
+    },
+    {
+      "slug": "city-demon-hunters",
+      "loungeId": "ExtraordinaryDemonHunter",
+      "titleKo": "시티 데몬헌터즈: 각성자들",
+      "titleEn": "City Demon Hunters"
+    },
+    {
+      "slug": "viking-rise",
+      "loungeId": "Viking_Rise",
+      "titleKo": "바이킹 라이즈",
+      "titleEn": "Viking Rise"
+    },
+    {
+      "slug": "mush-warrior",
+      "loungeId": "MushWarrior",
+      "titleKo": "버섯커 키우기",
+      "titleEn": "Legend of Mushroom"
+    },
+    {
+      "slug": "divine-keeper",
+      "loungeId": "Divine_Keeper_of_the_Gods",
+      "titleKo": "디바인: 신을 모시는 자",
+      "titleEn": "Divine: Keeper of the Gods"
+    },
+    {
+      "slug": "beast-clash",
+      "loungeId": "Beast_Clash_Last_Front",
+      "titleKo": "비스트 클래시: 라스트 프런트",
+      "titleEn": "Beast Clash: Last Front"
+    },
+    {
+      "slug": "mir2-undead",
+      "loungeId": "The_Legend_of_Mir2_UNDEAD",
+      "titleKo": "미르2: 언데드",
+      "titleEn": "The Legend of Mir2: Undead"
+    },
+    {
+      "slug": "chaotic-agent-squad",
+      "loungeId": "Chaotic_Agent_Squad",
+      "titleKo": "엉망 특공대",
+      "titleEn": "Chaotic Agent Squad"
+    },
+    {
+      "slug": "fate-war",
+      "loungeId": "Fate_War",
+      "titleKo": "페이트 워",
+      "titleEn": "Fate War"
+    },
+    {
+      "slug": "gray-saga",
+      "loungeId": "Gray_Saga",
+      "titleKo": "그레이 사가",
+      "titleEn": "Gray Saga"
+    },
+    {
+      "slug": "this-is-three-kingdoms",
+      "loungeId": "This_is_Three_kingdoms",
+      "titleKo": "이것이 삼국지다",
+      "titleEn": "This is Three Kingdoms"
+    },
+    {
+      "slug": "elpis-soul-ring",
+      "loungeId": "Elpis_Legend_Soul_Ring",
+      "titleKo": "엘피스 전기: 소울링",
+      "titleEn": "Elpis Legend: Soul Ring"
+    },
+    {
+      "slug": "aqualand-survival",
+      "loungeId": "Wild_Water_World",
+      "titleKo": "아쿠아랜드: 크레이지 서바이벌",
+      "titleEn": "Aqualand: Crazy Survival"
+    },
+    {
+      "slug": "p2-rebirth",
+      "loungeId": "p2rebirth",
+      "titleKo": "희비전 리버스",
+      "titleEn": "P2 Rebirth"
+    },
+    {
+      "slug": "doomsday-last-survivors-kr",
+      "loungeId": "Doomsday_Last_Survivors",
+      "titleKo": "둠스데이: 라스트 서바이버",
+      "titleEn": "Doomsday: Last Survivors"
+    },
+    {
+      "slug": "busy-savior",
+      "loungeId": "busysavior",
+      "titleKo": "비지 세이비어",
+      "titleEn": "Busy Savior"
+    },
+    {
+      "slug": "lunar-eversoul",
+      "loungeId": "LUNAR_EverSoul",
+      "titleKo": "LUNAR: 에버소울",
+      "titleEn": "LUNAR: EverSoul"
+    },
+    {
+      "slug": "dream-traveler",
+      "loungeId": "DreamTraveler",
+      "titleKo": "꿈의 여행자: 별빛 여정",
+      "titleEn": "Dream Traveler"
+    },
+    {
+      "slug": "kkutu",
+      "loungeId": "kkutu",
+      "titleKo": "끄투",
+      "titleEn": "KKuTu"
+    },
+    {
+      "slug": "jamryong",
+      "loungeId": "Awakening",
+      "titleKo": "잠룡: 무협 도트 RPG",
+      "titleEn": "Awakening"
+    },
+    {
+      "slug": "the-ragnarok",
+      "loungeId": "THE_RAGNAROK",
+      "titleKo": "THE 라그나로크",
+      "titleEn": "THE RAGNAROK"
+    },
+    {
+      "slug": "spirit-king",
+      "loungeId": "Spirit_King",
+      "titleKo": "정령킹 키우기",
+      "titleEn": "Spirit King"
+    },
+    {
+      "slug": "gransaga-knights",
+      "loungeId": "GranSagaIdle_KNIGHTSxKNIGHTS",
+      "titleKo": "그랑사가 키우기: 나이츠x나이츠",
+      "titleEn": "Gran Saga Idle: KNIGHTSxKNIGHTS"
+    },
+    {
+      "slug": "god-kkaebi",
+      "loungeId": "godkkaebi",
+      "titleKo": "갓깨비 키우기",
+      "titleEn": "God Kkaebi"
+    },
+    {
+      "slug": "soul-strike",
+      "loungeId": "Soul_Strike",
+      "titleKo": "소울 스트라이크",
+      "titleEn": "Soul Strike"
+    },
+    {
+      "slug": "rogw-remains-of-gods",
+      "loungeId": "ROGW_Remains_Of_Gods",
+      "titleKo": "로그W: 리메인즈 오브 갓",
+      "titleEn": "ROGW: Remains of Gods"
+    },
+    {
+      "slug": "taming-master-2",
+      "loungeId": "TM_Idle2",
+      "titleKo": "테이밍 마스터: 소환수 키우기 2",
+      "titleEn": "Taming Master 2"
+    },
+    {
+      "slug": "eternal-return",
+      "loungeId": "Eternal_Return",
+      "titleKo": "이터널 리턴",
+      "titleEn": "Eternal Return"
+    },
+    {
+      "slug": "sword-frontier",
+      "loungeId": "Sword_Frontier",
+      "titleKo": "소드 앤 프론티아",
+      "titleEn": "Sword & Frontier"
+    },
+    {
+      "slug": "trickcal-revive",
+      "loungeId": "Trickcal",
+      "titleKo": "트릭컬 리바이브",
+      "titleEn": "Trickcal Revive"
+    },
+    {
+      "slug": "brown-dust-2",
+      "loungeId": "BrownDust2",
+      "titleKo": "브라운더스트2",
+      "titleEn": "Brown Dust 2"
+    },
+    {
+      "slug": "gauntlet-afk-rpg",
+      "loungeId": "Gauntlet_AFKRPG",
+      "titleKo": "건틀렛: 방치형 액션 RPG",
+      "titleEn": "Gauntlet AFK RPG"
+    },
+    {
+      "slug": "horizon-walker",
+      "loungeId": "horizonwalker",
+      "titleKo": "호라이즌 워커",
+      "titleEn": "Horizon Walker"
+    },
+    {
+      "slug": "tree-of-savior-m",
+      "loungeId": "tosm",
+      "titleKo": "트리 오브 세이비어 M",
+      "titleEn": "Tree of Savior M"
+    },
+    {
+      "slug": "fortress-saga",
+      "loungeId": "FotressSaga",
+      "titleKo": "포트리스 사가",
+      "titleEn": "Fortress Saga"
+    },
+    {
+      "slug": "execution-sword",
+      "loungeId": "executionsword",
+      "titleKo": "집행검 클래식",
+      "titleEn": "Execution Sword Classic"
+    },
+    {
+      "slug": "soul-hunter-idle",
+      "loungeId": "Soul_Hunter_Idle",
+      "titleKo": "소울 헌터 키우기: 방치형 RPG",
+      "titleEn": "Soul Hunter Idle"
+    },
+    {
+      "slug": "baseball-go-2026",
+      "loungeId": "2026baseballgo",
+      "titleKo": "2026 프로야구GO!",
+      "titleEn": "2026 Baseball GO"
+    },
+    {
+      "slug": "ragnarok-m-classic",
+      "loungeId": "Ragnarok_M_Classic",
+      "titleKo": "라그나로크M: Classic",
+      "titleEn": "Ragnarok M: Classic"
+    },
+    {
+      "slug": "star-sailors",
+      "loungeId": "Star_Sailors",
+      "titleKo": "스타 세일러",
+      "titleEn": "Star Sailors"
+    },
+    {
+      "slug": "tged",
+      "loungeId": "TGED",
+      "titleKo": "역대급영지설계사",
+      "titleEn": "The Greatest Estate Designer"
+    },
+    {
+      "slug": "whoa-adventurers",
+      "loungeId": "whoaadventurers",
+      "titleKo": "우와 모험단",
+      "titleEn": "Whoa Adventurers"
+    },
+    {
+      "slug": "yep-raising-feet-up",
+      "loungeId": "YEP_Raising_Feet_UP",
+      "titleKo": "응발로키우기",
+      "titleEn": "YEP Raising Feet Up"
+    },
+    {
+      "slug": "top-heroes",
+      "loungeId": "Top_Heroes",
+      "titleKo": "탑 히어로즈",
+      "titleEn": "Top Heroes"
+    },
+    {
+      "slug": "byeolbyeol-hero",
+      "loungeId": "bbhero",
+      "titleKo": "별별 히어로",
+      "titleEn": "ByeolByeol Hero"
+    },
+    {
+      "slug": "max-level-idle",
+      "loungeId": "Max_Level_Idle",
+      "titleKo": "나 혼자 만렙 키우기",
+      "titleEn": "Max Level Idle"
+    },
+    {
+      "slug": "star-savior",
+      "loungeId": "Starsavior",
+      "titleKo": "스타세이비어",
+      "titleEn": "Star Savior"
+    },
+    {
+      "slug": "soul-eater-idle",
+      "loungeId": "SoulEater_Idle",
+      "titleKo": "소울이터 키우기",
+      "titleEn": "Soul Eater Idle"
+    }
+  ],
+  "_출처": "game.naver.com/sitemap.xml 의 라운지 100개를 전수 조사해, 실제로 쿠폰 코드가 추출되는 곳만 넣었다(2026-09-13 실측)."
+}
