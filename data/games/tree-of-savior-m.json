@@ -1,0 +1,68 @@
+{
+  "slug": "tree-of-savior-m",
+  "titleEn": "Tree of Savior M",
+  "titleKo": "트리 오브 세이비어 M",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTFfMjY0/MDAxNzg2NDMzNjEyOTEz.KWrqTn0GX4BU_gefq-kj4x_V6vzsZ_wUDT2s-KmeM_og.NKVXIYVdsn2PhGmDp0tI6YTURTmooOB9wKLjt5qJvoMg.PNG/%ED%95%9C%EA%B5%AD-%ED%8F%AC%ED%8F%ACO.png",
+  "source": "naver-lounge",
+  "loungeId": "tosm",
+  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8105220",
+  "howTo": "게임 내 [메뉴] - [옵션] - [계정] - 오른쪽 아래 [쿠폰입력] 란에서 쿠폰 번호 입력 🎁쿠폰 구성품 지급 보상 개수 벨로브 안정제",
+  "postCount": 6,
+  "updatedAt": "2026-09-13T09:42:20.792Z",
+  "codes": [
+    {
+      "code": "SUMMER",
+      "reward": "",
+      "expiry": "2026-09-23",
+      "postedAt": "2026-08-26",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "FEVER",
+      "reward": "",
+      "expiry": "2026-09-23",
+      "postedAt": "2026-08-26",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "REMEMBER",
+      "reward": "",
+      "expiry": "2026-08-17",
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "ERROR",
+      "reward": "",
+      "expiry": "2026-04-07",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "ADVENTURE",
+      "reward": "",
+      "expiry": "2026-04-19",
+      "postedAt": "2026-03-25",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "WHITE",
+      "reward": "",
+      "expiry": "2026-03-28",
+      "postedAt": "2026-03-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    }
+  ]
+}

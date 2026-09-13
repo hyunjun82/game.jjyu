@@ -1,0 +1,32 @@
+{
+  "slug": "kkutu",
+  "titleEn": "KKuTu",
+  "titleKo": "끄투",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA4MjdfMTk0/MDAxNzU2MjIwNjY2Mzg1.SXYhBl5_-uFB6Iuz7ccw2-aJuoSzMBh3EyMJg1jl8FQg.fqTsuU93aatBndd3-PuW9-ihypCe9Y1vYblXZofVK24g.PNG/moremi-256.png",
+  "source": "naver-lounge",
+  "loungeId": "kkutu",
+  "sourceUrl": "https://game.naver.com/lounge/kkutu/board/detail/8178459",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-09-13T09:41:33.980Z",
+  "codes": [
+    {
+      "code": "BETASEASONLETSGO",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYNEW2026",
+      "reward": "",
+      "expiry": "2026-01-07",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    }
+  ]
+}

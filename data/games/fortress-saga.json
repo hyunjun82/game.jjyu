@@ -1,10 +1,14 @@
 {
   "slug": "fortress-saga",
   "titleEn": "Fortress Saga",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-36905-1731581975/fortress-saga-header.jpg",
-  "sourcePath": "/fortress-saga/codes/",
-  "updatedAt": "2026-09-13T08:21:39.376Z",
+  "titleKo": "포트리스 사가",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MThfNDEg/MDAxNzg3MDI5MjM1MTQy._JcicvPdmxED5DfdFJk8p2HaBPr0FEUPTjwWWMhum7kg.czWsdddBNQPEX2a3-D72CrBgMn54sBG4E01NNhPtdTQg.JPEG/0817_d-day_%ED%95%9C%EA%B5%AD.jpg",
+  "source": "naver-lounge",
+  "loungeId": "FotressSaga",
+  "sourceUrl": "https://game.naver.com/lounge/FotressSaga/board/detail/8081731",
+  "howTo": "<",
+  "postCount": 6,
+  "updatedAt": "2026-09-13T09:42:22.711Z",
   "codes": [
     {
       "code": "THANKYOUFO",
@@ -29,6 +33,60 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "active"
+    },
+    {
+      "code": "FS3RDANNIDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-20",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "JULYGIFTFS26",
+      "reward": "",
+      "expiry": "2026-08-07",
+      "postedAt": "2026-07-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMERFS26",
+      "reward": "",
+      "expiry": "2026-06-19",
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "WATER2FS2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-16",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "WATER4FS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-12",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "END2NEW26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
     }
   ]
 }

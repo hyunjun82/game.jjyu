@@ -1,0 +1,41 @@
+{
+  "slug": "tged",
+  "titleEn": "The Greatest Estate Designer",
+  "titleKo": "역대급영지설계사",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAxMjhfMjgx/MDAxNzY5NjAyNzg2NTc3.jkf5dI7OuPCGzZp4vHeXVJ-nMajsw9GfFNpgUdxJgsIg.FJEWW-uPSnnCxHUkxeASM5D952cPROEVGwIiC5K9GpEg.PNG/App_Icon_%281%29.png",
+  "source": "naver-lounge",
+  "loungeId": "TGED",
+  "sourceUrl": "https://game.naver.com/lounge/TGED/board/detail/7899360",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-09-13T09:42:36.066Z",
+  "codes": [
+    {
+      "code": "GOLDRUSH4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-08",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "GIGATITANLIRA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "CHWARARAKSPRING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-25",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    }
+  ]
+}

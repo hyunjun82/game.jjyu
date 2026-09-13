@@ -1,11 +1,24 @@
 {
   "slug": "soul-strike",
-  "titleEn": "Soul Strike!",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-35960-1708479129/soul-strike-android-ios-feature-image.jpg",
-  "sourcePath": "/soul-strike/codes/",
-  "updatedAt": "2026-09-13T08:21:50.031Z",
+  "titleEn": "Soul Strike",
+  "titleKo": "소울 스트라이크",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDdfMjk2/MDAxNzg4NzQ4NTQzNDA3.sO-6lNUuLsaeW7SK2LhoRY0OXxQwIo11dQ8kaPGs5zIg.anrJ1iWC2uaNSgQdoEDH05Vb1OmeSA42sd4L8Y2Wp7Ug.PNG/200x%EC%A3%BC%EA%B0%84%EC%BF%A0%ED%8F%B0.png",
+  "source": "naver-lounge",
+  "loungeId": "Soul_Strike",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8160686",
+  "howTo": "",
+  "postCount": 78,
+  "updatedAt": "2026-09-13T09:41:55.847Z",
   "codes": [
+    {
+      "code": "SS09HL1H",
+      "reward": "",
+      "expiry": "2026-09-13",
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
     {
       "code": "NEWYEARJOY2025",
       "reward": "Ether x20,000 + Offline Gold (12 h) x1 + Offline Silver (12 h) x1",
@@ -413,6 +426,168 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "active"
+    },
+    {
+      "code": "SS08CX5T",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS08NX4V",
+      "reward": "",
+      "expiry": "2026-08-30",
+      "postedAt": "2026-08-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS08VN3Q",
+      "reward": "",
+      "expiry": "2026-08-23",
+      "postedAt": "2026-08-17",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS08RH2M",
+      "reward": "",
+      "expiry": "2026-08-16",
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS08PK1X",
+      "reward": "",
+      "expiry": "2026-08-09",
+      "postedAt": "2026-08-03",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS07TV5K",
+      "reward": "",
+      "expiry": "2026-08-02",
+      "postedAt": "2026-07-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS07QH3N",
+      "reward": "",
+      "expiry": "2026-07-26",
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS07MR2V",
+      "reward": "",
+      "expiry": "2026-07-19",
+      "postedAt": "2026-07-13",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS07XK1P",
+      "reward": "",
+      "expiry": "2026-07-12",
+      "postedAt": "2026-07-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSSUM6UP",
+      "reward": "",
+      "expiry": "2026-07-05",
+      "postedAt": "2026-06-29",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSJOY6W4",
+      "reward": "",
+      "expiry": "2026-06-28",
+      "postedAt": "2026-06-22",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSGL0W63",
+      "reward": "",
+      "expiry": "2026-06-21",
+      "postedAt": "2026-06-15",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSBR3Z62",
+      "reward": "",
+      "expiry": "2026-06-14",
+      "postedAt": "2026-06-08",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSSUN6W1",
+      "reward": "",
+      "expiry": "2026-06-07",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS504MAY",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-05-25",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSH0T503",
+      "reward": "",
+      "expiry": "2026-05-24",
+      "postedAt": "2026-05-18",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SSGR052W",
+      "reward": "",
+      "expiry": "2026-05-17",
+      "postedAt": "2026-05-11",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SS2ND5TH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
     },
     {
       "code": "SSHZ8DAY",

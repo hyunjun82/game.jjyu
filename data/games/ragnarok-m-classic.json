@@ -1,10 +1,14 @@
 {
   "slug": "ragnarok-m-classic",
   "titleEn": "Ragnarok M: Classic",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37117-1739526779/ragnarok-m-classic-header.jpg",
-  "sourcePath": "/ragnarok-m-classic/codes/",
-  "updatedAt": "2026-09-13T08:21:47.608Z",
+  "titleKo": "라그나로크M: Classic",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjRfNTQg/MDAxNzg0ODU1ODYzNTAx.duO9nQZwkwS65bp0qmsv-wGAr_ky1AtpZb-wi3O7IeAg.4_YZ880bymi7o37pVjmMvX85WaeI786tDBsQJey8e00g.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-270.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Ragnarok_M_Classic",
+  "sourceUrl": "https://game.naver.com/lounge/Ragnarok_M_Classic/board/detail/7974521",
+  "howTo": "- 선물 코드 사용 시 우편으로 지급된 보상은 14일 동안 보관됩니다. 기한 내에 받아 주시기 바랍니다. 라그나로크M: Classic에 보내주시는 성원에 감사드립니다.",
+  "postCount": 2,
+  "updatedAt": "2026-09-13T09:42:32.500Z",
   "codes": [
     {
       "code": "EYTE3L7IJ",
@@ -173,6 +177,42 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "active"
+    },
+    {
+      "code": "YQD156BC",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "YQD312FL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "M6K3P9H8",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "C8T5J1V9",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
     }
   ]
 }

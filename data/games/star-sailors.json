@@ -1,10 +1,14 @@
 {
   "slug": "star-sailors",
   "titleEn": "Star Sailors",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37862-1782929132/star-sailors-code-header.jpg",
-  "sourcePath": "/star-sailors/codes/",
-  "updatedAt": "2026-09-13T08:21:50.338Z",
+  "titleKo": "스타 세일러",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjBfNjkg/MDAxNzg0NTM1MzczMTg0.a7vXRAJrym4uq-4jYbYlGL71-DFkg5XdOBbKx1FWOuEg.AyZ3kkEyh0MI2VkpEbcXF6NbGLI064iIgazu2jLUaPEg.PNG/260210_event_500_ko.png",
+  "source": "naver-lounge",
+  "loungeId": "Star_Sailors",
+  "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
+  "howTo": "",
+  "postCount": 10,
+  "updatedAt": "2026-09-13T09:42:34.396Z",
   "codes": [
     {
       "code": "SAILORSFIRSTLIVE",
@@ -47,14 +51,6 @@
       "status": "active"
     },
     {
-      "code": "LUCKYSAILORS777",
-      "reward": "Silver Compass x5 (expires July 13th)",
-      "expiry": "2027-07-13",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
       "code": "SUMMERSAILORS",
       "reward": "Silver Compass x5 (expires July 15th)",
       "expiry": "2027-07-15",
@@ -63,26 +59,100 @@
       "status": "active"
     },
     {
-      "code": "SAILORS222",
-      "reward": "3 Bulging Mushrooms, 50 EXP Potions (M) - expires July 8th",
-      "expiry": "2027-07-08",
-      "firstSeen": "2026-08-31",
+      "code": "PDGIFT0817",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "GRANDLAUNCH100",
-      "reward": "10 Silver Compasses, 50k Gold, 10 EXP Potions (M), 10 Upgrade Stones (M) - expires July 7th",
-      "expiry": "2027-07-07",
-      "firstSeen": "2026-08-31",
+      "code": "HAPPYWEEKEND666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-05",
+      "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-13",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "ADVENTURE555",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-04",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "STARLAUNCH444",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-03",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "GLOBAL333",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-02",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "LEVELUP1203",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-03",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "MUSHROOM3871",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-02",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
     },
     {
       "code": "AUGUSTSAILORS",
       "reward": "Silver Compass x10 (expires August 31st)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "LUCKYSAILORS777",
+      "reward": "Silver Compass x5 (expires July 13th)",
+      "expiry": null,
+      "postedAt": "2026-07-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "SAILORS222",
+      "reward": "3 Bulging Mushrooms, 50 EXP Potions (M) - expires July 8th",
+      "expiry": null,
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "GRANDLAUNCH100",
+      "reward": "10 Silver Compasses, 50k Gold, 10 EXP Potions (M), 10 Upgrade Stones (M) - expires July 7th",
+      "expiry": null,
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "expired"
     }
