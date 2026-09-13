@@ -240,7 +240,15 @@ function parseHowTo(text) {
   return steps.join(' ').slice(0, 300);
 }
 
-const todayISO = () => new Date().toISOString().slice(0, 10);
+/**
+ * 날짜 기준은 KST 로 통일한다.
+ * collect.mjs·verify.mjs 는 KST 인데 여기만 UTC 를 쓰면, 한국 시간 자정~오전 9시 사이에
+ * 만료 처리가 하루 늦어진다. 그 사이 발행 점검이 "만료일이 지났는데 사용가능"으로 잡아 실패한다.
+ */
+const todayISO = () =>
+  new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit',
+  }).format(new Date());
 
 /** 만료일 표기가 없는 코드의 수명. 주간 발행이 표준이라 2주면 충분히 넉넉하다. */
 const STALE_DAYS = 14;
