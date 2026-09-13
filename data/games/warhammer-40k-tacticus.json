@@ -4,8 +4,72 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-95162-1691242655/warhammer-tacticus-codes.jpg",
   "sourcePath": "/warhammer-40k-tacticus/codes/",
-  "updatedAt": "2026-09-13T10:33:21.512Z",
+  "updatedAt": "2026-09-13T14:38:10.885Z",
   "codes": [
+    {
+      "code": "FABIUSMAX",
+      "reward": "10 Judh Shards",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "KRAKDUK4TACTICUS",
+      "reward": "2000 Gold, 50 Blackstone, 10 Asmodai shards",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "SINGLEPULL",
+      "reward": "10 Ammuk shards",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "ISLANDAR2K",
+      "reward": "10 Tank Shmasha shards, 1000 coins",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "KHARNMEK",
+      "reward": "10 Reanimator shards, 10 Munitions",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "BOOKCLUB",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "KHARN2K",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
+    {
+      "code": "7FOXES",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
     {
       "code": "ADMECHMOO",
       "reward": "",

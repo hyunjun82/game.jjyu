@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38642-1786013859/ragnarok-twilight-codes-cover.jpg",
   "sourcePath": "/ragnarok-twilight/codes/",
-  "updatedAt": "2026-09-13T10:33:12.007Z",
+  "updatedAt": "2026-09-13T14:38:05.241Z",
   "codes": [
+    {
+      "code": "9P5S2R8J",
+      "reward": "expires 06 SEP 2026, 23:59 (UTC+8)",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
     {
       "code": "2X8T5Z3N",
       "reward": "expires 30 AUG 2026, 23:59 (UTC+8)",

@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38322-1779890679/sword-x-staff-header.jpg",
   "sourcePath": "/sword-x-staff/codes/",
-  "updatedAt": "2026-09-13T10:33:16.199Z",
+  "updatedAt": "2026-09-13T14:38:08.357Z",
   "codes": [
+    {
+      "code": "THEGAMETHEORIST",
+      "reward": "1 Destiny Fruit, 20 Rare Auroral Badges, 1 Stellatie",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
     {
       "code": "SXSDCTHANKS",
       "reward": "40 Rare Auroral Badges. 3 Destiny Fruits, 180 Dawnium",
@@ -180,14 +188,6 @@
       "expiry": "2026-08-18",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
-      "status": "expired"
-    },
-    {
-      "code": "THEGAMETHEORIST",
-      "reward": "1 Destiny Fruit, 20 Rare Auroral Badges, 1 Stellatie",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01",
       "status": "expired"
     }
   ]

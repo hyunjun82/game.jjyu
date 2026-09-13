@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-95706-1696441137/omniheroes-gift-codes.jpg",
   "sourcePath": "/omniheroes/codes/",
-  "updatedAt": "2026-09-13T10:33:09.279Z",
+  "updatedAt": "2026-09-13T14:38:03.557Z",
   "codes": [
+    {
+      "code": "S16VICTORY",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "active"
+    },
     {
       "code": "DevsQA628",
       "reward": "10 Immortal Summon Tickets",

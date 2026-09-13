@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T10:35:44.595Z",
+  "generatedAt": "2026-09-13T14:40:40.102Z",
   "today": "2026-09-13",
-  "todayNew": 425,
+  "todayNew": 448,
   "totals": {
     "games": 398,
-    "codes": 10443,
-    "active": 9556,
+    "codes": 10466,
+    "active": 9579,
     "expired": 887,
-    "withExpiry": 2777
+    "withExpiry": 2784
   },
   "newByDate": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "date": "2026-09-13",
-      "count": 425
+      "count": 448
     }
   ],
   "expiringSoon": [
@@ -139,6 +139,12 @@
       "days": 1
     },
     {
+      "slug": "the-cozy-florist",
+      "code": "YTBcf10K",
+      "expiry": "2026-09-14",
+      "days": 1
+    },
+    {
       "slug": "the-walking-dead-survivors",
       "code": "TWDE2R3W",
       "expiry": "2026-09-14",
@@ -195,6 +201,12 @@
     {
       "slug": "my-hotpot-story",
       "code": "MS92D5",
+      "expiry": "2026-09-15",
+      "days": 2
+    },
+    {
+      "slug": "mythic-heroes",
+      "code": "Y2T6H8M",
       "expiry": "2026-09-15",
       "days": 2
     },
@@ -335,18 +347,6 @@
       "code": "YSPBH7Y9U8NK",
       "expiry": "2026-09-17",
       "days": 4
-    },
-    {
-      "slug": "tears-of-themis",
-      "code": "KS7AZNG8C97X",
-      "expiry": "2026-09-17",
-      "days": 4
-    },
-    {
-      "slug": "tears-of-themis",
-      "code": "GTPAZNY8VQNB",
-      "expiry": "2026-09-17",
-      "days": 4
     }
   ],
   "topGames": [
@@ -362,8 +362,8 @@
     },
     {
       "slug": "reverse-1999-rpg",
-      "active": 243,
-      "total": 243
+      "active": 244,
+      "total": 244
     },
     {
       "slug": "mu-origin-3",
@@ -397,8 +397,8 @@
     },
     {
       "slug": "warhammer-40k-tacticus",
-      "active": 154,
-      "total": 154
+      "active": 162,
+      "total": 162
     },
     {
       "slug": "infinity-nikki",
@@ -422,13 +422,13 @@
     },
     {
       "slug": "trainstation-2-railway-empire",
-      "active": 109,
-      "total": 109
+      "active": 112,
+      "total": 112
     },
     {
       "slug": "puzzles-survival",
-      "active": 105,
-      "total": 105
+      "active": 106,
+      "total": 106
     },
     {
       "slug": "dragon-raja",
