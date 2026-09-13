@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T09:43:05.346Z",
+  "generatedAt": "2026-09-13T10:35:44.595Z",
   "today": "2026-09-13",
-  "todayNew": 421,
+  "todayNew": 425,
   "totals": {
     "games": 398,
-    "codes": 10439,
-    "active": 9552,
+    "codes": 10443,
+    "active": 9556,
     "expired": 887,
     "withExpiry": 2777
   },
@@ -44,7 +44,7 @@
     },
     {
       "date": "2026-09-13",
-      "count": 421
+      "count": 425
     }
   ],
   "expiringSoon": [
@@ -367,8 +367,8 @@
     },
     {
       "slug": "mu-origin-3",
-      "active": 228,
-      "total": 229
+      "active": 229,
+      "total": 230
     },
     {
       "slug": "eternal-evolution",
