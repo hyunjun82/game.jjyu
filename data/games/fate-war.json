@@ -6,9 +6,9 @@
   "source": "naver-lounge",
   "loungeId": "Fate_War",
   "sourceUrl": "https://game.naver.com/lounge/Fate_War/board/detail/7844117",
-  "howTo": "- [좌측 상단 프로필] → [설정] → [선물 코드] 🔔 iOS 기기를 이용하시는 족장님의 경우, 아래 안내드린 링크를 통해 코드를 사용할 수 있습니다. 🔗 iOS 코드 사용 ☞ [ 바로가기",
-  "postCount": 16,
-  "updatedAt": "2026-09-13T05:16:34.988Z",
+  "howTo": "- [좌측 상단 프로필] → [설정] → [선물 코드] 🔔 iOS 기기를 이용하시는 족장님의 경우, 아래 안내드린 링크를 통해 코드를 사용할 수 있습니다. 🔗 iOS 코드 사용 ☞",
+  "postCount": 17,
+  "updatedAt": "2026-09-13T08:22:27.744Z",
   "codes": [
     {
       "code": "FW2025",
@@ -22,54 +22,6 @@
       "code": "FWLAUNCH",
       "reward": "60x 1-min Construction Speed-up, 60x 1-min Research Speed-up, 60x 1-min Training Speed-up, 500 Gems",
       "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "JOINNOW",
-      "reward": "10 Regular Starglitter, 5x 1000 Gems",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "FWBESTDAD",
-      "reward": "expires July 10th",
-      "expiry": "2027-07-10",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "FATEKIDZ2026",
-      "reward": "expires June 30th",
-      "expiry": "2027-06-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "IGG20TH",
-      "reward": "expires June 30th",
-      "expiry": "2027-06-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "FWMOMDAY26",
-      "reward": "Mother's Day Code (expires May 30th)",
-      "expiry": "2027-05-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "MAYDAY2026",
-      "reward": "May Day rewards (expires May 30th)",
-      "expiry": "2027-05-30",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "active"
@@ -107,22 +59,6 @@
       "status": "active"
     },
     {
-      "code": "FW6MONTHS",
-      "reward": "rewards (expires February 28th)",
-      "expiry": "2027-02-28",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
-      "code": "FWNY2026",
-      "reward": "rewards (expires January 31st)",
-      "expiry": "2027-01-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
       "code": "9JV7WR",
       "reward": "rewards (expires December 31st)",
       "expiry": "2026-12-31",
@@ -147,14 +83,6 @@
       "status": "active"
     },
     {
-      "code": "96ZEKT",
-      "reward": "Halloween Candy (expires November 30th)",
-      "expiry": "2026-11-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-13",
-      "status": "active"
-    },
-    {
       "code": "HAPPYONEMONTH",
       "reward": "500 Gem, 60 1-min Construction Speed-ups, 60 1-min Research Speed-ups, 60 1-min Training Speed-ups (expires 5th October)",
       "expiry": null,
@@ -163,9 +91,45 @@
       "status": "active"
     },
     {
-      "code": "CHEERUP3",
+      "code": "SEOLLAL26",
       "reward": "",
       "expiry": null,
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FWSH43",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-11-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "Z2VQJ5XK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-03",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FWKR0815",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-15",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "CHEERUP3",
+      "reward": "",
+      "expiry": "2026-06-25",
       "postedAt": "2026-06-25",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-13",
@@ -174,7 +138,7 @@
     {
       "code": "CHEERUP2",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-19",
       "postedAt": "2026-06-19",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-13",
@@ -183,7 +147,7 @@
     {
       "code": "CHEERUP1",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-12",
       "postedAt": "2026-06-12",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-13",
@@ -195,6 +159,87 @@
       "expiry": null,
       "postedAt": "2025-10-06",
       "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FWBESTDAD",
+      "reward": "expires July 10th",
+      "expiry": "2026-07-10",
+      "postedAt": "2026-06-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "IGG20TH",
+      "reward": "expires June 30th",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FATEKIDZ2026",
+      "reward": "expires June 30th",
+      "expiry": "2026-07-01",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FWMOMDAY26",
+      "reward": "Mother's Day Code (expires May 30th)",
+      "expiry": "2026-05-30",
+      "postedAt": "2026-05-10",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "MAYDAY2026",
+      "reward": "May Day rewards (expires May 30th)",
+      "expiry": null,
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FW6MONTHS",
+      "reward": "rewards (expires February 28th)",
+      "expiry": "2026-03-01",
+      "postedAt": "2026-02-05",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "FWNY2026",
+      "reward": "rewards (expires January 31st)",
+      "expiry": "2026-01-06",
+      "postedAt": "2025-12-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "96ZEKT",
+      "reward": "Halloween Candy (expires November 30th)",
+      "expiry": "2025-11-03",
+      "postedAt": "2025-10-31",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "JOINNOW",
+      "reward": "10 Regular Starglitter, 5x 1000 Gems",
+      "expiry": null,
+      "postedAt": "2025-08-05",
+      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-13",
       "status": "expired"
     }

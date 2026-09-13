@@ -7,8 +7,8 @@
   "loungeId": "Three_Kingdoms_re",
   "sourceUrl": "https://game.naver.com/lounge/Three_Kingdoms_re/board/detail/8179645",
   "howTo": "",
-  "postCount": 59,
-  "updatedAt": "2026-09-13T05:16:24.003Z",
+  "postCount": 60,
+  "updatedAt": "2026-09-13T08:21:59.925Z",
   "codes": [
     {
       "code": "211we93",
@@ -27,6 +27,15 @@
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-13",
       "status": "active"
+    },
+    {
+      "code": "HAPPYVT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
     },
     {
       "code": "we9k3",

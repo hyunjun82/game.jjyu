@@ -1,0 +1,275 @@
+{
+  "slug": "viking-rise",
+  "titleEn": "Viking Rise",
+  "titleKo": "바이킹 라이즈",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfMjMx/MDAxNzg4NTE0OTI0MTg3.Co9wCSJjBii3fb6p2z4dluWc_FGml9KnkAvZonvaPIgg.zxYAsgR-5-Cg9aw2JGabKCDdspWvKUKrkgSUPjWq740g.JPEG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%83%81%EB%8B%A8_H_700x154.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Viking_Rise",
+  "sourceUrl": "https://game.naver.com/lounge/Viking_Rise/board/detail/8149101",
+  "howTo": "- 메인 인터페이스 왼쪽 상단에 있는 프로필을 탭 하세요 - 왼쪽 메뉴에서 설정을 선택하세요 - [선물 코드 교환]을 탭 하여 코드를 입력하세요. 보상은 인게임 우편을 발송됩니다.",
+  "postCount": 52,
+  "updatedAt": "2026-09-13T08:22:11.364Z",
+  "codes": [
+    {
+      "code": "VR26CHAMPIONSHIP",
+      "reward": "",
+      "expiry": "2026-09-05",
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRJULY2026",
+      "reward": "",
+      "expiry": "2026-07-19",
+      "postedAt": "2026-07-04",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRFATHERSDAY26",
+      "reward": "",
+      "expiry": "2026-07-05",
+      "postedAt": "2026-06-21",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRDRAGONBOAT26",
+      "reward": "",
+      "expiry": "2026-07-03",
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VIKINGGOAL26",
+      "reward": "",
+      "expiry": "2026-06-26",
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "IGG20TH",
+      "reward": "",
+      "expiry": "2026-07-06",
+      "postedAt": "2026-06-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRKIDHEART26",
+      "reward": "",
+      "expiry": "2026-06-16",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRMOTHERSDAY",
+      "reward": "",
+      "expiry": "2026-05-25",
+      "postedAt": "2026-05-10",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VIKINGMAYDAY",
+      "reward": "",
+      "expiry": "2026-05-15",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRXEARTH26",
+      "reward": "",
+      "expiry": "2026-05-06",
+      "postedAt": "2026-04-22",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRXEASTER26",
+      "reward": "",
+      "expiry": "2026-04-20",
+      "postedAt": "2026-04-05",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "APRILFOOLSVR26",
+      "reward": "",
+      "expiry": "2026-04-16",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRXPATRICK2026",
+      "reward": "",
+      "expiry": "2026-04-01",
+      "postedAt": "2026-03-17",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRXVALENTINE2026",
+      "reward": "",
+      "expiry": "2026-03-01",
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VR2026",
+      "reward": "",
+      "expiry": "2026-01-06",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRTHANKSGIVING25",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-11-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "HALLOWEEN2025",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-31",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "CHUSEOKVR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VR25CHAMPIONSHIP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-29",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRFINALRAID",
+      "reward": "",
+      "expiry": "2025-04-02",
+      "postedAt": "2025-03-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRVDAY25",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-02-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VR2025",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-31",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRXMAS24",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRTHANKSGIVING24",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-28",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRKINGDOM400",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-10-28",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "CHUSEOK17",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-17",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VR0KR815",
+      "reward": "",
+      "expiry": "2024-08-18",
+      "postedAt": "2024-08-15",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VRVDAY24",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-02-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    },
+    {
+      "code": "VR2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-01-01",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-13",
+      "status": "expired"
+    }
+  ]
+}

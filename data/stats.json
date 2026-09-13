@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T05:16:38.618Z",
+  "generatedAt": "2026-09-13T08:22:38.935Z",
   "today": "2026-09-13",
-  "todayNew": 12,
+  "todayNew": 65,
   "totals": {
-    "games": 365,
-    "codes": 10030,
-    "active": 9528,
-    "expired": 502,
-    "withExpiry": 2633
+    "games": 370,
+    "codes": 10083,
+    "active": 9520,
+    "expired": 563,
+    "withExpiry": 2656
   },
   "newByDate": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "date": "2026-09-13",
-      "count": 12
+      "count": 65
     }
   ],
   "expiringSoon": [
@@ -129,6 +129,12 @@
     {
       "slug": "the-walking-dead-survivors",
       "code": "TWDE2R3W",
+      "expiry": "2026-09-14",
+      "days": 1
+    },
+    {
+      "slug": "this-is-three-kingdoms",
+      "code": "KOREA815",
       "expiry": "2026-09-14",
       "days": 1
     },
@@ -341,12 +347,6 @@
       "code": "AR38HW",
       "expiry": "2026-09-18",
       "days": 5
-    },
-    {
-      "slug": "cat-fantasy",
-      "code": "ay44z43fcq",
-      "expiry": "2026-09-19",
-      "days": 6
     }
   ],
   "topGames": [
