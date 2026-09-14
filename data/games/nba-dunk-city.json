@@ -1,0 +1,23 @@
+{
+  "slug": "nba-dunk-city",
+  "titleEn": "NBA Dunk City",
+  "titleKo": "NBA 덩크 시티",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MDZfMTM5/MDAxNzg1OTQ3MzY2Mzkw.DZWMtiW9goMN6aCMDKk9LhTkMkuCqmfy9tIn8TYepsgg.pqhZSPDlaR0LLfFp8t9Ib061UQObIOjEpxmMYYhYnMEg.JPEG/0806-%E7%A4%BC%E5%8C%85%E7%A0%81.jpeg",
+  "source": "naver-lounge",
+  "loungeId": "NBADunkCity",
+  "sourceUrl": "https://game.naver.com/lounge/NBADunkCity/board/detail/8027949",
+  "howTo": "① 게임 메인 화면 우측 상단의 톱니바퀴 아이콘 클릭 ② 게임 설정 화면으로 이동 ③ 화면 하단의 「기프트 교환」 버튼 클릭 ④ 쿠폰 코드 입력 쿠폰 코드를 입력하고 출시 기념 보상을 놓치지 마세요! 🎁",
+  "postCount": 1,
+  "updatedAt": "2026-09-14T00:18:57.583Z",
+  "codes": [
+    {
+      "code": "DUNKCITY0806",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33255-1724413590/mythic-heroes-featured-image.jpg",
   "sourcePath": "/mythic-heroes/codes/",
-  "updatedAt": "2026-09-13T23:36:15.812Z",
+  "updatedAt": "2026-09-14T00:16:09.363Z",
   "codes": [
     {
       "code": "Y2T6H8M",
@@ -58,6 +58,14 @@
       "code": "EXTRA10",
       "reward": "100 Diamonds",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "W9M5L8N",
+      "reward": "rewards (expires August 15th)",
+      "expiry": "2027-08-15",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-14",
       "status": "active"
@@ -354,6 +362,38 @@
       "code": "LA8DEUW",
       "reward": "Expires September 15th",
       "expiry": "2026-09-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "Q9HEH24",
+      "reward": "Expires August 15th",
+      "expiry": "2027-08-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "ND4R6BG",
+      "reward": "Expires August 15th",
+      "expiry": "2027-08-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "DX5CSHE",
+      "reward": "Expires August 15th",
+      "expiry": "2027-08-15",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "EXCGTGN",
+      "reward": "Expires August 15th",
+      "expiry": "2027-08-15",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-14",
       "status": "active"
@@ -671,49 +711,9 @@
       "status": "active"
     },
     {
-      "code": "W9M5L8N",
-      "reward": "rewards (expires August 15th)",
-      "expiry": "2026-08-15",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
       "code": "MYSTIGON0816",
       "reward": "Expires September 13th",
       "expiry": "2026-09-13",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "Q9HEH24",
-      "reward": "Expires August 15th",
-      "expiry": "2026-08-15",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "ND4R6BG",
-      "reward": "Expires August 15th",
-      "expiry": "2026-08-15",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "DX5CSHE",
-      "reward": "Expires August 15th",
-      "expiry": "2026-08-15",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "EXCGTGN",
-      "reward": "Expires August 15th",
-      "expiry": "2026-08-15",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-14",
       "status": "expired"

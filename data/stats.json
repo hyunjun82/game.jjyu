@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T23:38:47.706Z",
+  "generatedAt": "2026-09-14T00:19:39.874Z",
   "today": "2026-09-14",
-  "todayNew": 0,
+  "todayNew": 104,
   "totals": {
-    "games": 398,
-    "codes": 10466,
-    "active": 9572,
-    "expired": 894,
-    "withExpiry": 2784
+    "games": 406,
+    "codes": 10570,
+    "active": 9582,
+    "expired": 988,
+    "withExpiry": 2841
   },
   "newByDate": [
     {
@@ -45,9 +45,19 @@
     {
       "date": "2026-09-13",
       "count": 448
+    },
+    {
+      "date": "2026-09-14",
+      "count": 104
     }
   ],
   "expiringSoon": [
+    {
+      "slug": "devil-2m",
+      "code": "devxh0907",
+      "expiry": "2026-09-14",
+      "days": 0
+    },
     {
       "slug": "eternal-evolution",
       "code": "G7U3WQ8",
@@ -341,18 +351,12 @@
       "code": "ay44z43fcq",
       "expiry": "2026-09-19",
       "days": 5
-    },
-    {
-      "slug": "girl-wars",
-      "code": "HBD2ND",
-      "expiry": "2026-09-20",
-      "days": 6
     }
   ],
   "topGames": [
     {
       "slug": "time-princess",
-      "active": 418,
+      "active": 419,
       "total": 423
     },
     {
@@ -381,14 +385,14 @@
       "total": 189
     },
     {
+      "slug": "flame-of-valhalla",
+      "active": 179,
+      "total": 189
+    },
+    {
       "slug": "cardcaptor-sakura-memory-key",
       "active": 178,
       "total": 178
-    },
-    {
-      "slug": "flame-of-valhalla",
-      "active": 178,
-      "total": 189
     },
     {
       "slug": "shining-nikki",
@@ -447,7 +451,7 @@
     },
     {
       "slug": "cat-fantasy",
-      "active": 96,
+      "active": 97,
       "total": 103
     }
   ],
