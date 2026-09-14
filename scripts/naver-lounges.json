@@ -307,7 +307,133 @@
       "loungeId": "SoulEater_Idle",
       "titleKo": "소울이터 키우기",
       "titleEn": "Soul Eater Idle"
+    },
+    {
+      "slug": "2x",
+      "loungeId": "2X",
+      "titleKo": "2X",
+      "titleEn": "2X"
+    },
+    {
+      "slug": "wooden-stick",
+      "loungeId": "woodenstick",
+      "titleKo": "99강화 나무몽둥이: 키우기",
+      "titleEn": "Wooden Stick"
+    },
+    {
+      "slug": "nba-dunk-city",
+      "loungeId": "NBADunkCity",
+      "titleKo": "NBA 덩크 시티",
+      "titleEn": "NBA Dunk City"
+    },
+    {
+      "slug": "furry-fighters-idle",
+      "loungeId": "Furry_Fighters_Idle_RPG",
+      "titleKo": "냥찍 히어로즈: 방치형 RPG",
+      "titleEn": "Furry Fighters Idle RPG"
+    },
+    {
+      "slug": "the-cozy-florist",
+      "loungeId": "Flower_Town_Story",
+      "titleKo": "더 코지 플로리스트",
+      "titleEn": "The Cozy Florist"
+    },
+    {
+      "slug": "devil-2m",
+      "loungeId": "Devil_2M",
+      "titleKo": "데블2M",
+      "titleEn": "Devil 2M"
+    },
+    {
+      "slug": "mir2-revolution",
+      "loungeId": "INFINITE_Awakening",
+      "titleKo": "미르의 전설2: 레볼루션",
+      "titleEn": "Legend of Mir2: Revolution"
+    },
+    {
+      "slug": "vardian",
+      "loungeId": "Vardian",
+      "titleKo": "바르디안",
+      "titleEn": "Vardian"
+    },
+    {
+      "slug": "heart-of-valor",
+      "loungeId": "Heart_of_Valor",
+      "titleKo": "부족 또 전쟁: 무한루프 RPG",
+      "titleEn": "Heart of Valor"
+    },
+    {
+      "slug": "sabuk-ice-kingdom",
+      "loungeId": "icekingdom",
+      "titleKo": "사북: 아이스 킹덤",
+      "titleEn": "Sabuk: Ice Kingdom"
+    },
+    {
+      "slug": "blood-of-youth",
+      "loungeId": "TheBloodofYouth",
+      "titleKo": "소년가행: 강호의 시작",
+      "titleEn": "The Blood of Youth"
+    },
+    {
+      "slug": "sky-abyss",
+      "loungeId": "Sky_Abyss_Blood_Oath",
+      "titleKo": "스카이 어비스: 혈맹의 서약",
+      "titleEn": "Sky Abyss: Blood Oath"
+    },
+    {
+      "slug": "stalzone",
+      "loungeId": "STALZONE",
+      "titleKo": "스탈존",
+      "titleEn": "STALZONE"
+    },
+    {
+      "slug": "bow-master",
+      "loungeId": "BowMaster",
+      "titleKo": "신궁 키우기",
+      "titleEn": "Bow Master"
+    },
+    {
+      "slug": "ensemble-stars",
+      "loungeId": "Ensemble_Stars",
+      "titleKo": "앙상블스타즈!!",
+      "titleEn": "Ensemble Stars!!"
+    },
+    {
+      "slug": "yulgang-return",
+      "loungeId": "yulgangreturn",
+      "titleKo": "열혈강호: 귀환",
+      "titleEn": "Yulgang: Return"
+    },
+    {
+      "slug": "todays-flower",
+      "loungeId": "Todays_Flower",
+      "titleKo": "오늘의 꽃",
+      "titleEn": "Today's Flower"
+    },
+    {
+      "slug": "cat-hero",
+      "loungeId": "Cat_Hero",
+      "titleKo": "캣 히어로",
+      "titleEn": "Cat Hero"
+    },
+    {
+      "slug": "kingdom-hunter-heroes",
+      "loungeId": "Kingdom_Hunter",
+      "titleKo": "킹덤헌터 히어로즈",
+      "titleEn": "Kingdom Hunter Heroes"
+    },
+    {
+      "slug": "pixel-hero",
+      "loungeId": "pixelhero",
+      "titleKo": "픽셀 히어로",
+      "titleEn": "Pixel Hero"
+    },
+    {
+      "slug": "hero-clash",
+      "loungeId": "Hero_Clash",
+      "titleKo": "히어로 클래시",
+      "titleEn": "Hero Clash"
     }
   ],
-  "_출처": "game.naver.com/sitemap.xml 의 라운지 100개를 전수 조사해, 실제로 쿠폰 코드가 추출되는 곳만 넣었다(2026-09-13 실측)."
+  "_출처": "네이버 게임 라운지 1,195곳을 전수 조사해(인기·실시간·공식 랭킹 + 장르 키워드 검색) 전용 쿠폰 게시판이 확인된 곳만 넣었다. 2026-09-14 실측."
 }
