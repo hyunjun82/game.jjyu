@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA1MjdfMTkx/MDAxNzE2NzgwMzU4OTU5.8oSqh0u1fbBf6DtzSvktLIwqYK-10kd9UkmNZB5GSbsg.EcOpKDUnBnd0cmZvW-t02a9yOHMY4812cdZBINJm0dgg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%8C%EC%9E%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%9E%84%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%81%90%EC%9D%B4_300300.png",
   "source": "naver-lounge",
   "loungeId": "GranSagaIdle_KNIGHTSxKNIGHTS",
-  "sourceUrl": "https://game.naver.com/lounge/GranSagaIdle_KNIGHTSxKNIGHTS/board/detail/8161948",
+  "sourceUrl": "https://game.naver.com/lounge/GranSagaIdle_KNIGHTSxKNIGHTS/board/detail/8189585",
   "howTo": "① 쿠폰 등록 페이지 링크 클릭 ② 쿠폰 등록 페이지에서 '계정 회원 번호'와 '쿠폰 코드' 입력 ③ 게임 내 우편함에서 쿠폰 보상 수령 ​ ※ 주의",
-  "postCount": 117,
-  "updatedAt": "2026-09-14T06:00:32.592Z",
+  "postCount": 118,
+  "updatedAt": "2026-09-14T12:28:04.351Z",
   "codes": [
+    {
+      "code": "DSRSDP26VYIATC37",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
     {
       "code": "LADYOI26CBOETH36",
       "reward": "",
@@ -272,15 +281,6 @@
       "status": "expired"
     },
     {
-      "code": "STNLWA26SRWTIN07",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-02-16",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
       "code": "GK100BEST",
       "reward": "",
       "expiry": "2024-10-25",
@@ -339,6 +339,15 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2025-04-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
+      "code": "STNLWA26SRWTIN07",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-16",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-14",
       "status": "expired"
