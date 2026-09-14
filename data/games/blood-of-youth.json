@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-14T12:30:55.985Z",
+  "updatedAt": "2026-09-14T18:13:38.000Z",
   "codes": [
+    {
+      "code": "GANGHO73186426",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15",
+      "status": "active"
+    },
+    {
+      "code": "GANGHO24690518",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15",
+      "status": "active"
+    },
+    {
+      "code": "GPLAYNO1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
+      "status": "active"
+    },
     {
       "code": "APPLENO1",
       "reward": "",
@@ -14,7 +44,7 @@
       "postedAt": "2026-09-09",
       "sourceUrl": "https://blog.naver.com/atothez1992/224405744628",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -24,7 +54,7 @@
       "postedAt": "2026-09-10",
       "sourceUrl": "https://blog.naver.com/audtls2580/224406929179",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -34,17 +64,7 @@
       "postedAt": "2026-09-09",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224406371047",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-14",
-      "status": "active"
-    },
-    {
-      "code": "GPLAYNO1",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-09",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224406371047",
-      "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -54,7 +74,7 @@
       "postedAt": "2026-09-08",
       "sourceUrl": "https://blog.naver.com/jinjioni/224404801118",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     }
   ]

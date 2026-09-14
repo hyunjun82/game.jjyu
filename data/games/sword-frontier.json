@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Sword_Frontier/board/detail/8135741",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-09-14T12:28:21.053Z",
+  "updatedAt": "2026-09-14T18:10:58.456Z",
   "codes": [
     {
       "code": "SwordFronti5r",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-09-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -43,8 +43,8 @@
       "expiry": null,
       "postedAt": "2026-08-31",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
-      "status": "active"
+      "lastSeen": "2026-09-15",
+      "status": "expired"
     },
     {
       "code": "Sword4rontier",
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-08-27",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-08-24",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -79,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-08-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -88,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     }
   ]

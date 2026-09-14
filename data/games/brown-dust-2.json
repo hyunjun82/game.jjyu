@@ -8,23 +8,14 @@
   "sourceUrl": "https://game.naver.com/lounge/BrownDust2/board/detail/8126633",
   "howTo": "1. Android 기기는 게임 내 [기타] > [쿠폰 등록]에서 쿠폰을 사용하실 수 있습니다. 2. 브라운더스트2 공식 사이트에서도 쿠폰을 사용하실 수 있습니다.",
   "postCount": 1,
-  "updatedAt": "2026-09-14T12:28:26.079Z",
+  "updatedAt": "2026-09-14T18:11:03.868Z",
   "codes": [
-    {
-      "code": "2026BD2SEP",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-31",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
-      "status": "active"
-    },
     {
       "code": "THANKSKYOMAF2025",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -32,7 +23,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -40,7 +31,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -48,7 +39,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -56,7 +47,7 @@
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -64,7 +55,7 @@
       "reward": "3 Draw Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -72,7 +63,7 @@
       "reward": "600 Dia",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -80,7 +71,7 @@
       "reward": "Venomous Touch III (UR Accessory)",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -88,7 +79,7 @@
       "reward": "2 Draw Tickets",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
     },
     {
@@ -96,15 +87,24 @@
       "reward": "5* Recruitment Contract",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "active"
+    },
+    {
+      "code": "2026BD2SEP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-15",
+      "status": "expired"
     },
     {
       "code": "THANKSTGS2026BD2",
       "reward": "Taipei Game Show Code (Until February 28th, 2026)",
       "expiry": "2026-02-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -112,7 +112,7 @@
       "reward": "1,000 Dia (Until January 31st, 2026)",
       "expiry": "2026-01-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -120,7 +120,7 @@
       "reward": "10 Draw Tickets (Until December 27th, 2025)",
       "expiry": "2025-12-27",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -128,7 +128,7 @@
       "reward": "1,000 Dia (Until December 31st, 2025)",
       "expiry": "2025-12-31",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -136,7 +136,7 @@
       "reward": "Until January 1st, 2026, 2:59 PM (UTC)",
       "expiry": "2026-01-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -144,7 +144,7 @@
       "reward": "Until December 1st, 2025, 2:59 PM (UTC)",
       "expiry": "2025-12-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -152,7 +152,7 @@
       "reward": "Until November 1st, 2025, 2:59 PM (UTC)",
       "expiry": "2025-11-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -160,7 +160,7 @@
       "reward": "Until November 1st, 2025, 2:59 PM (UTC)",
       "expiry": "2025-11-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -168,7 +168,7 @@
       "reward": "Until October 26th, 2025, 2:59 PM (UTC)",
       "expiry": "2025-10-26",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -176,7 +176,7 @@
       "reward": "rewards (expires September 1st)",
       "expiry": "2026-09-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     },
     {
@@ -184,7 +184,7 @@
       "reward": "600 Dia (expires August 24th)",
       "expiry": "2026-08-24",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "status": "expired"
     }
   ]
