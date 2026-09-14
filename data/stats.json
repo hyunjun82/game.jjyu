@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-14T18:14:14.908Z",
+  "generatedAt": "2026-09-14T22:03:14.358Z",
   "today": "2026-09-15",
-  "todayNew": 3,
+  "todayNew": 4,
   "totals": {
-    "games": 409,
-    "codes": 10589,
-    "active": 9577,
+    "games": 410,
+    "codes": 10590,
+    "active": 9578,
     "expired": 1012,
-    "withExpiry": 2848
+    "withExpiry": 2849
   },
   "newByDate": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "date": "2026-09-15",
-      "count": 3
+      "count": 4
     }
   ],
   "expiringSoon": [
@@ -285,6 +285,12 @@
       "days": 5
     },
     {
+      "slug": "blood-of-youth",
+      "code": "GANGHO58273164",
+      "expiry": "2026-09-20",
+      "days": 5
+    },
+    {
       "slug": "girl-wars",
       "code": "HBD2ND",
       "expiry": "2026-09-20",
@@ -347,12 +353,6 @@
     {
       "slug": "god-kkaebi",
       "code": "mjqvl8v6",
-      "expiry": "2026-09-21",
-      "days": 6
-    },
-    {
-      "slug": "gods-demons",
-      "code": "SURPRISE624",
       "expiry": "2026-09-21",
       "days": 6
     }
@@ -459,5 +459,5 @@
       "total": 103
     }
   ],
-  "noImage": 3
+  "noImage": 4
 }
