@@ -36,6 +36,11 @@ jobs:
       - name: 네이버 라운지 수집
         run: node scripts/collect-naver.mjs | tee -a /tmp/out.log
 
+      # 라운지 쿠폰 게시판이 회원 전용이거나 없는 게임 — 네이버 블로그 검색으로 보완.
+      # 최근 1개월 글만 본다. 지난 쿠폰은 담지 않는다.
+      - name: 네이버 검색 보완 수집
+        run: node scripts/collect-search.mjs | tee -a /tmp/out.log
+
       - name: 통계 생성
         run: node scripts/stats.mjs | tee -a /tmp/out.log
 
