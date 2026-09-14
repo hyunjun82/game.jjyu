@@ -1,0 +1,22 @@
+{
+  "_설명": "네이버 게임 라운지 쿠폰 게시판이 회원 전용(40310)이거나 아예 없는 게임. 네이버 블로그 검색으로 보완한다.",
+  "_원칙": "지난 쿠폰은 담지 않는다. 30일 넘은 글은 건너뛴다. 코드마다 출처 URL 을 남긴다.",
+  "games": [
+    { "slug": "yulgang-return",        "titleKo": "열혈강호: 귀환",        "titleEn": "Yulgang: Return" },
+    { "slug": "cat-hero",              "titleKo": "캣 히어로",            "titleEn": "Cat Hero" },
+    { "slug": "pixel-hero",            "titleKo": "픽셀 히어로",          "titleEn": "Pixel Hero" },
+    { "slug": "hero-clash",            "titleKo": "히어로 클래시",         "titleEn": "Hero Clash" },
+    { "slug": "todays-flower",         "titleKo": "오늘의 꽃",            "titleEn": "Today's Flower" },
+    { "slug": "ensemble-stars",        "titleKo": "앙상블스타즈",          "titleEn": "Ensemble Stars!!" },
+    { "slug": "stalzone",              "titleKo": "스탈존",              "titleEn": "STALZONE" },
+    { "slug": "blood-of-youth",        "titleKo": "소년가행",             "titleEn": "The Blood of Youth" },
+    { "slug": "furry-fighters-idle",   "titleKo": "냥찍 히어로즈",         "titleEn": "Furry Fighters Idle RPG" },
+    { "slug": "the-cozy-florist",      "titleKo": "더 코지 플로리스트",     "titleEn": "The Cozy Florist" },
+    { "slug": "heart-of-valor",        "titleKo": "부족 또 전쟁",          "titleEn": "Heart of Valor" },
+    { "slug": "city-demon-hunters",    "titleKo": "시티 데몬헌터즈",        "titleEn": "City Demon Hunters" },
+    { "slug": "mir2-undead",           "titleKo": "미르2: 언데드",         "titleEn": "The Legend of Mir2: Undead" },
+    { "slug": "p2-rebirth",            "titleKo": "희비전 리버스",          "titleEn": "P2 Rebirth" },
+    { "slug": "bow-master",            "titleKo": "신궁 키우기",           "titleEn": "Bow Master" },
+    { "slug": "sabuk-ice-kingdom",     "titleKo": "사북: 아이스 킹덤",      "titleEn": "Sabuk: Ice Kingdom" }
+  ]
+}
