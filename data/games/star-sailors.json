@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
   "howTo": "",
   "postCount": 10,
-  "updatedAt": "2026-09-14T01:08:14.517Z",
+  "updatedAt": "2026-09-14T06:01:15.371Z",
   "codes": [
     {
       "code": "SAILORSFIRSTLIVE",
@@ -59,11 +59,11 @@
       "status": "active"
     },
     {
-      "code": "PDGIFT0817",
+      "code": "AUGUSTZOX",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-13",
+      "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-14",
       "status": "expired"
     },
@@ -117,6 +117,15 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2025-12-02",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
+      "code": "PDGIFT0817",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-14",
       "status": "expired"
