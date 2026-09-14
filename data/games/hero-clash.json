@@ -1,0 +1,31 @@
+{
+  "slug": "hero-clash",
+  "titleEn": "Hero Clash",
+  "titleKo": "히어로 클래시",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-14T01:10:02.460Z",
+  "codes": [
+    {
+      "code": "MANGGUSOUL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-30",
+      "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224395190262",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
+      "code": "WITCHHCTIW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-30",
+      "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224395190262",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    }
+  ]
+}

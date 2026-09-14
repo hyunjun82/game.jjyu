@@ -1,0 +1,61 @@
+{
+  "slug": "blood-of-youth",
+  "titleEn": "The Blood of Youth",
+  "titleKo": "소년가행",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-14T01:10:37.735Z",
+  "codes": [
+    {
+      "code": "APPLENO1",
+      "reward": "",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-09-09",
+      "sourceUrl": "https://blog.naver.com/atothez1992/224405744628",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "GANGHO58273164",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-09",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224406371047",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "GPLAYNO1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-09",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224406371047",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "PIZZA26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "sourceUrl": "https://blog.naver.com/audtls2580/224406929179",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
+    {
+      "code": "GANGHO90421637",
+      "reward": "",
+      "expiry": "2026-09-08",
+      "postedAt": "2026-09-08",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224404801118",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    }
+  ]
+}

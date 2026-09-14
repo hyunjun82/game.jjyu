@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA0MjFfODAg/MDAxNzQ1MjAyODA4MTk3.PK9ASaav5QoHYSxkOwWHyRzK4eMlKV4ehRRl_qLZVjIg.-MlihPv_tp_SV_x-5fYhpzevsrKBviwNXYF8cwTPIZgg.JPEG/%E5%85%AC%E5%91%8A.jpg",
   "source": "naver-lounge",
   "loungeId": "godkkaebi",
-  "sourceUrl": "https://game.naver.com/lounge/godkkaebi/board/detail/8160407",
-  "howTo": "💖GM갓깨비가 드리는 쿠폰 선물 - 쿠폰 번호 : zjg952yg *유효 기간 : 2026년 9월 7일부터 2026년 9월 14일까지 🎮갓깨비 키우기 쿠폰 입력 방법 안내",
-  "postCount": 75,
-  "updatedAt": "2026-09-14T00:59:07.020Z",
+  "sourceUrl": "https://game.naver.com/lounge/godkkaebi/board/detail/8188208",
+  "howTo": "💖GM갓깨비가 드리는 쿠폰 선물 - 쿠폰 번호 : mjqvl8v6 *유효 기간 : 2026년 9월 14일부터 2026년 9월 21일까지 🎮갓깨비 키우기 쿠폰 입력 방법 안내",
+  "postCount": 76,
+  "updatedAt": "2026-09-14T01:07:32.599Z",
   "codes": [
+    {
+      "code": "mjqvl8v6",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-14",
+      "status": "active"
+    },
     {
       "code": "zjg952yg",
       "reward": "",
@@ -254,15 +263,6 @@
       "status": "expired"
     },
     {
-      "code": "wajdsvm5",
-      "reward": "",
-      "expiry": "2026-02-23",
-      "postedAt": "2026-02-16",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
       "code": "Gwangbok26",
       "reward": "",
       "expiry": null,
@@ -285,6 +285,15 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-05-05",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
+      "status": "expired"
+    },
+    {
+      "code": "wajdsvm5",
+      "reward": "",
+      "expiry": "2026-02-23",
+      "postedAt": "2026-02-16",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-14",
       "status": "expired"
