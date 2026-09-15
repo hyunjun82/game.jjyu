@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-15T15:17:44.303Z",
+  "updatedAt": "2026-09-15T19:13:40.789Z",
   "codes": [
     {
       "code": "GANGHO73186426",
@@ -48,21 +48,21 @@
       "status": "active"
     },
     {
-      "code": "PIZZA26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-10",
-      "sourceUrl": "https://blog.naver.com/audtls2580/224406929179",
-      "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-16",
-      "status": "active"
-    },
-    {
       "code": "GANGHO58273164",
       "reward": "",
       "expiry": "2026-09-20",
       "postedAt": "2026-09-09",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224406371047",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-16",
+      "status": "active"
+    },
+    {
+      "code": "PIZZA26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "sourceUrl": "https://blog.naver.com/audtls2580/224406929179",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-16",
       "status": "active"
