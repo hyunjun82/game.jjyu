@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/ROGW_Remains_Of_Gods/board/detail/8160859",
   "howTo": "①메인 화면 좌측 상단 캐릭터 프로필 - [설정] 클릭 ②'코드 보상' 클릭 ③쿠폰 입력 후 보상 수령 (단, 쿠폰은 캐릭터 당 1회 사용 가능)",
   "postCount": 7,
-  "updatedAt": "2026-09-15T10:23:32.401Z",
+  "updatedAt": "2026-09-15T15:14:51.551Z",
   "codes": [
     {
       "code": "ROGW907",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-07",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-09-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-09-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -43,8 +43,8 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
-      "status": "active"
+      "lastSeen": "2026-09-16",
+      "status": "expired"
     },
     {
       "code": "ddp2dq",
@@ -52,8 +52,8 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
-      "status": "active"
+      "lastSeen": "2026-09-16",
+      "status": "expired"
     },
     {
       "code": "ddp2e6",
@@ -61,8 +61,8 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
-      "status": "active"
+      "lastSeen": "2026-09-16",
+      "status": "expired"
     },
     {
       "code": "ddp2fx",
@@ -70,8 +70,8 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
-      "status": "active"
+      "lastSeen": "2026-09-16",
+      "status": "expired"
     },
     {
       "code": "ROGW901",
@@ -79,8 +79,8 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
-      "status": "active"
+      "lastSeen": "2026-09-16",
+      "status": "expired"
     }
   ]
 }

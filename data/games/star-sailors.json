@@ -8,14 +8,14 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-09-15T10:24:07.030Z",
+  "updatedAt": "2026-09-15T15:15:24.341Z",
   "codes": [
     {
       "code": "SAILORSFIRSTLIVE",
       "reward": "Diamond x 400",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -23,7 +23,7 @@
       "reward": "Bulging Mushroom x5",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -31,7 +31,7 @@
       "reward": "EXP Poiton (M) x50",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -39,7 +39,7 @@
       "reward": "Gold Compass x10",
       "expiry": null,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -47,7 +47,7 @@
       "reward": "Bulging Mushroom x5, Silver Compass x20 (expires July 28th)",
       "expiry": "2027-07-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -55,7 +55,7 @@
       "reward": "Silver Compass x5 (expires July 15th)",
       "expiry": "2027-07-15",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "expiry": null,
       "postedAt": "2026-07-20",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -73,7 +73,7 @@
       "expiry": null,
       "postedAt": "2026-07-05",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -82,7 +82,7 @@
       "expiry": null,
       "postedAt": "2026-07-04",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -91,7 +91,7 @@
       "expiry": null,
       "postedAt": "2026-07-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -100,7 +100,7 @@
       "expiry": null,
       "postedAt": "2026-07-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -109,7 +109,7 @@
       "expiry": null,
       "postedAt": "2025-12-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -135,7 +135,7 @@
       "reward": "Silver Compass x10 (expires August 31st)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -144,7 +144,7 @@
       "expiry": null,
       "postedAt": "2026-07-06",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -153,7 +153,7 @@
       "expiry": null,
       "postedAt": "2026-07-01",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     },
     {
@@ -162,7 +162,7 @@
       "expiry": null,
       "postedAt": "2026-06-30",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "status": "expired"
     }
   ]
