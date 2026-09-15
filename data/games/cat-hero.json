@@ -1,0 +1,31 @@
+{
+  "slug": "cat-hero",
+  "titleEn": "Cat Hero",
+  "titleKo": "캣 히어로",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-15T22:28:21.582Z",
+  "codes": [
+    {
+      "code": "CATHERO2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "sourceUrl": "https://blog.naver.com/appealucx/224409438168",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16",
+      "status": "active"
+    },
+    {
+      "code": "CATPOWER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "sourceUrl": "https://blog.naver.com/appealucx/224409438168",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16",
+      "status": "active"
+    }
+  ]
+}
