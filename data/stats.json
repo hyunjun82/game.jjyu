@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-14T22:03:14.358Z",
+  "generatedAt": "2026-09-15T00:30:58.593Z",
   "today": "2026-09-15",
   "todayNew": 4,
   "totals": {
     "games": 410,
     "codes": 10590,
-    "active": 9578,
-    "expired": 1012,
+    "active": 9584,
+    "expired": 1006,
     "withExpiry": 2849
   },
   "newByDate": [
@@ -380,7 +380,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 210,
+      "active": 211,
       "total": 227
     },
     {

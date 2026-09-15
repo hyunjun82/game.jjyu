@@ -4,12 +4,20 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-95792-1697479883/demigod-idle-cover-image.jpg",
   "sourcePath": "/demigod-idle/codes/",
-  "updatedAt": "2026-09-14T21:58:18.401Z",
+  "updatedAt": "2026-09-15T00:25:38.169Z",
   "codes": [
     {
       "code": "WELCOME2DEMIGOD",
       "reward": "10k Ruby, 30 Elemental Summon Tickets, and 10 Option Conversion Stones",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-15",
+      "status": "active"
+    },
+    {
+      "code": "AUGDELUSION",
+      "reward": "Ruby (Expires August 16)",
+      "expiry": "2027-08-16",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-15",
       "status": "active"
@@ -362,14 +370,6 @@
       "code": "BIRDALLIANCE",
       "reward": "Ruby (Expires August 23)",
       "expiry": "2026-08-23",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
-      "status": "expired"
-    },
-    {
-      "code": "AUGDELUSION",
-      "reward": "Ruby (Expires August 16)",
-      "expiry": "2026-08-16",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-15",
       "status": "expired"

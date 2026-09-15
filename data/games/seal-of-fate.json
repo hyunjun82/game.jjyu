@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37734-1767800962/seal-of-fate-codes-header.jpg",
   "sourcePath": "/seal-of-fate/codes/",
-  "updatedAt": "2026-09-14T21:58:30.245Z",
+  "updatedAt": "2026-09-15T00:25:49.701Z",
   "codes": [
     {
       "code": "ABYSSKISS",
@@ -161,10 +161,10 @@
     {
       "code": "EVERNIGHT",
       "reward": "rewards (expires August 16th)",
-      "expiry": "2026-08-16",
+      "expiry": "2027-08-16",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-15",
-      "status": "expired"
+      "status": "active"
     }
   ]
 }
