@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-09-16T00:45:47.838Z",
+  "updatedAt": "2026-09-16T05:53:08.634Z",
   "codes": [
     {
       "code": "SAILORSFIRSTLIVE",
@@ -57,6 +57,15 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-16",
       "status": "active"
+    },
+    {
+      "code": "ACADEMYSURVIVAL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16",
+      "status": "expired"
     },
     {
       "code": "AUGUSTZOX",

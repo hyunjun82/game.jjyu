@@ -2,14 +2,32 @@
   "slug": "tree-of-savior-m",
   "titleEn": "Tree of Savior M",
   "titleKo": "트리 오브 세이비어 M",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTFfMjY0/MDAxNzg2NDMzNjEyOTEz.KWrqTn0GX4BU_gefq-kj4x_V6vzsZ_wUDT2s-KmeM_og.NKVXIYVdsn2PhGmDp0tI6YTURTmooOB9wKLjt5qJvoMg.PNG/%ED%95%9C%EA%B5%AD-%ED%8F%AC%ED%8F%ACO.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTFfMTAy/MDAxNzg5MTA3NDA3NDQ0.LfCeSWItDFfwORdR2uKrNavb_wM3smGxzOr5_ONvmY4g.gWn7C3Ur2oe0wJD3sfkaU5Ds2KMFzSz04nfw8gM3VYEg.PNG/%ED%99%A9%EA%B8%88%EC%9D%98%EA%B3%84%EC%A0%88_%EC%BF%A0%ED%8F%B0.png",
   "source": "naver-lounge",
   "loungeId": "tosm",
-  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8105220",
+  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8196352",
   "howTo": "게임 내 [메뉴] - [옵션] - [계정] - 오른쪽 아래 [쿠폰입력] 란에서 쿠폰 번호 입력 🎁쿠폰 구성품 지급 보상 개수 벨로브 안정제",
-  "postCount": 6,
-  "updatedAt": "2026-09-16T00:45:35.050Z",
+  "postCount": 7,
+  "updatedAt": "2026-09-16T05:52:54.883Z",
   "codes": [
+    {
+      "code": "GOLDEN",
+      "reward": "",
+      "expiry": "2026-10-18",
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16",
+      "status": "active"
+    },
+    {
+      "code": "SEASON",
+      "reward": "",
+      "expiry": "2026-10-18",
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16",
+      "status": "active"
+    },
     {
       "code": "SUMMER",
       "reward": "",
