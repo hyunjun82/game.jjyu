@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37602-1750235516/adventure-of-white-chord-codes-header.jpg",
   "sourcePath": "/adventure-of-white-chord/codes/",
-  "updatedAt": "2026-09-15T22:24:39.743Z",
+  "updatedAt": "2026-09-16T00:43:09.832Z",
   "codes": [
     {
       "code": "FOLLOWFB",
@@ -295,6 +295,14 @@
       "status": "active"
     },
     {
+      "code": "Miyo",
+      "reward": "Weekly Reward Code (expires August 17th)",
+      "expiry": "2027-08-17",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-16",
+      "status": "active"
+    },
+    {
       "code": "Akihibi",
       "reward": "Weekly Reward Code (expires August 10th)",
       "expiry": "2027-08-10",
@@ -362,14 +370,6 @@
       "code": "Night",
       "reward": "Weekly Reward Code (expires August 31st)",
       "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-16",
-      "status": "expired"
-    },
-    {
-      "code": "Miyo",
-      "reward": "Weekly Reward Code (expires August 17th)",
-      "expiry": "2026-08-17",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-16",
       "status": "expired"
