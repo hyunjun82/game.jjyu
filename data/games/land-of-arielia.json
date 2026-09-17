@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38517-1783414841/land-of-arielia-code-header.jpg",
   "sourcePath": "/land-of-arielia/codes/",
-  "updatedAt": "2026-09-16T22:03:24.208Z",
+  "updatedAt": "2026-09-17T00:20:23.917Z",
   "codes": [
     {
       "code": "AA79Uf",
@@ -26,6 +26,14 @@
       "code": "START777",
       "reward": "1k Gold Leaves, 3 Enigma Mirasuit Silk, 50 Upgrade Material Random Chests",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-17",
+      "status": "active"
+    },
+    {
+      "code": "SUMMERFUN",
+      "reward": "rewards (expires August 18th)",
+      "expiry": "2027-08-18",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-17",
       "status": "active"
@@ -90,14 +98,6 @@
       "code": "AA97mB",
       "reward": "rewards (expires August 23rd)",
       "expiry": "2026-08-23",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-17",
-      "status": "expired"
-    },
-    {
-      "code": "SUMMERFUN",
-      "reward": "rewards (expires August 18th)",
-      "expiry": "2026-08-18",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-17",
       "status": "expired"

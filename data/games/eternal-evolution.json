@@ -4,8 +4,16 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34362-1655813658/eternal-evolution-ios-android-launch-cover.jpg",
   "sourcePath": "/eternal-evolution/codes/",
-  "updatedAt": "2026-09-16T22:03:19.972Z",
+  "updatedAt": "2026-09-17T00:20:17.403Z",
   "codes": [
+    {
+      "code": "P9ZYW62",
+      "reward": "expires August 18th",
+      "expiry": "2027-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-17",
+      "status": "active"
+    },
     {
       "code": "MU55AGV",
       "reward": "Astral Recruitment Card*20 and Koraxia shards*20",
@@ -1714,14 +1722,6 @@
       "code": "Z8SHW76",
       "reward": "expires August 22nd",
       "expiry": "2026-08-22",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-17",
-      "status": "expired"
-    },
-    {
-      "code": "P9ZYW62",
-      "reward": "expires August 18th",
-      "expiry": "2026-08-18",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-17",
       "status": "expired"

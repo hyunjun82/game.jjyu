@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37253-1741780296/draconia-saga-global-header.jpg",
   "sourcePath": "/draconia-saga-global/codes/",
-  "updatedAt": "2026-09-16T22:03:18.438Z",
+  "updatedAt": "2026-09-17T00:20:15.314Z",
   "codes": [
     {
       "code": "DRAGON9999",
@@ -399,6 +399,14 @@
       "status": "active"
     },
     {
+      "code": "AYZXAREK7",
+      "reward": "Dia's Summer Beverage Giveaway (expires August 18th)",
+      "expiry": "2027-08-18",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-17",
+      "status": "active"
+    },
+    {
       "code": "YZZX6XPCY",
       "reward": "Dia's Theater Festival Gift (expires August 11th)",
       "expiry": "2027-08-11",
@@ -658,14 +666,6 @@
       "code": "YXZX9XUEP",
       "reward": "Dia's Drizzly Day Gift (expires August 19th)",
       "expiry": "2026-08-19",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-17",
-      "status": "expired"
-    },
-    {
-      "code": "AYZXAREK7",
-      "reward": "Dia's Summer Beverage Giveaway (expires August 18th)",
-      "expiry": "2026-08-18",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-17",
       "status": "expired"

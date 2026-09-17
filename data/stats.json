@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-16T22:08:12.367Z",
+  "generatedAt": "2026-09-17T00:25:27.529Z",
   "today": "2026-09-17",
   "todayNew": 0,
   "totals": {
     "games": 411,
     "codes": 10596,
-    "active": 9554,
-    "expired": 1042,
+    "active": 9563,
+    "expired": 1033,
     "withExpiry": 2851
   },
   "newByDate": [
@@ -330,7 +330,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 210,
+      "active": 211,
       "total": 227
     },
     {
@@ -370,7 +370,7 @@
     },
     {
       "slug": "call-of-antia",
-      "active": 121,
+      "active": 122,
       "total": 133
     },
     {
@@ -405,7 +405,7 @@
     },
     {
       "slug": "beast-lord",
-      "active": 96,
+      "active": 97,
       "total": 104
     }
   ],
