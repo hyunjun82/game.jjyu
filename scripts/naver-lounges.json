@@ -433,6 +433,42 @@
       "loungeId": "Hero_Clash",
       "titleKo": "히어로 클래시",
       "titleEn": "Hero Clash"
+    },
+    {
+      "slug": "evernight-rebirth",
+      "loungeId": "Evernight",
+      "titleKo": "에버나이트: 리버스",
+      "titleEn": "Evernight: Rebirth"
+    },
+    {
+      "slug": "skill-wizard-idle",
+      "loungeId": "Skill_Wizard_Idle",
+      "titleKo": "스킬 마법사 키우기",
+      "titleEn": "Skill Wizard Idle"
+    },
+    {
+      "slug": "cardcaptor-sakura-memory-key",
+      "loungeId": "cherry",
+      "titleKo": "카드캡터 체리: 추억의 열쇠",
+      "titleEn": "Cardcaptor Sakura: Memory Key"
+    },
+    {
+      "slug": "blade-idle",
+      "loungeId": "Blade_idle",
+      "titleKo": "블레이드 키우기",
+      "titleEn": "Blade Idle"
+    },
+    {
+      "slug": "seven-knights-re-birth",
+      "loungeId": "sena_rebirth",
+      "titleKo": "세븐나이츠 리버스",
+      "titleEn": "Seven Knights Re:BIRTH"
+    },
+    {
+      "slug": "cheonsangbi-m",
+      "loungeId": "1003BM",
+      "titleKo": "천상비M",
+      "titleEn": "Cheonsangbi M"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳을 전수 조사해(인기·실시간·공식 랭킹 + 장르 키워드 검색) 전용 쿠폰 게시판이 확인된 곳만 넣었다. 2026-09-14 실측."
