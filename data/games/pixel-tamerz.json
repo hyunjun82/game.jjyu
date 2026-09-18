@@ -1,0 +1,41 @@
+{
+  "slug": "pixel-tamerz",
+  "titleEn": "Pixel Tamerz",
+  "titleKo": "픽셀 테이머즈",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjdfMjQ5/MDAxNzg3Nzk4MTkyMTQ0.dSMM28NtQj2GUc3F96itUeeD4CrEW_ecNW0hJUm9x24g.1sbNrJFWZhAJGmF0xLfK2RC4jUlJGYyXS7U1g7TJmgUg.PNG/banner_lounge_long_notice.png",
+  "source": "naver-lounge",
+  "loungeId": "PIXEL_TAMERZ",
+  "sourceUrl": "https://game.naver.com/lounge/PIXEL_TAMERZ/board/detail/8109272",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-09-18T05:55:37.685Z",
+  "codes": [
+    {
+      "code": "0819PIXEL",
+      "reward": "",
+      "expiry": "2026-09-22",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "active"
+    },
+    {
+      "code": "OPENGIFT",
+      "reward": "",
+      "expiry": "2026-09-22",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "active"
+    },
+    {
+      "code": "SORRYARENA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    }
+  ]
+}

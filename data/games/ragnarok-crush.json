@@ -1,0 +1,86 @@
+{
+  "slug": "ragnarok-crush",
+  "titleEn": "Ragnarok Crush",
+  "titleKo": "라그나로크 크러쉬",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjhfNTEg/MDAxNzg3OTEzNDE1MzY4.08qHoXu4zh9d8pSP62xU6usRatLkw0NVjHm4tMrj-5wg.rFHGBuUoeGd3Im_FVR5Xa_SQXnrtXg4VVo1d8g62wbUg.JPEG/img_v3_02150_ebbcb398-04b4-4896-8e9a-7d14f13eb0ag.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Ragnarok_Crush",
+  "sourceUrl": "https://game.naver.com/lounge/Ragnarok_Crush/board/detail/8122798",
+  "howTo": "* 사용 제한: 기간내 캐릭터당 1회만 사용 가능합니다.",
+  "postCount": 8,
+  "updatedAt": "2026-09-18T05:55:36.007Z",
+  "codes": [
+    {
+      "code": "SUNDAY30",
+      "reward": "",
+      "expiry": "2026-09-04",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "CRUSHLOVE",
+      "reward": "",
+      "expiry": "2026-09-04",
+      "postedAt": "2026-08-29",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "CRUSH0823",
+      "reward": "",
+      "expiry": "2026-08-28",
+      "postedAt": "2026-08-23",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "SAT0822",
+      "reward": "",
+      "expiry": "2026-08-28",
+      "postedAt": "2026-08-22",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "CRUSH0816",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-08-16",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "SAT0815",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "CRUSH08",
+      "reward": "",
+      "expiry": "2026-08-14",
+      "postedAt": "2026-08-09",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "ROC0808",
+      "reward": "",
+      "expiry": "2026-08-14",
+      "postedAt": "2026-08-08",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    }
+  ]
+}

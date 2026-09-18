@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T05:49:40.614Z",
+  "generatedAt": "2026-09-18T05:57:11.806Z",
   "today": "2026-09-18",
-  "todayNew": 38,
+  "todayNew": 68,
   "totals": {
-    "games": 416,
-    "codes": 10646,
-    "active": 9576,
-    "expired": 1070,
-    "withExpiry": 2865
+    "games": 422,
+    "codes": 10676,
+    "active": 9581,
+    "expired": 1095,
+    "withExpiry": 2883
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-18",
-      "count": 38
+      "count": 68
     }
   ],
   "expiringSoon": [
@@ -215,6 +215,18 @@
     {
       "slug": "my-hotpot-story",
       "code": "HM9H25",
+      "expiry": "2026-09-22",
+      "days": 4
+    },
+    {
+      "slug": "pixel-tamerz",
+      "code": "0819PIXEL",
+      "expiry": "2026-09-22",
+      "days": 4
+    },
+    {
+      "slug": "pixel-tamerz",
+      "code": "OPENGIFT",
       "expiry": "2026-09-22",
       "days": 4
     },
