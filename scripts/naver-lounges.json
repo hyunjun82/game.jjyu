@@ -481,7 +481,43 @@
       "loungeId": "chosunclassic",
       "titleKo": "조선협객전 클래식",
       "titleEn": "Chosun Classic"
+    },
+    {
+      "slug": "dongbang-sasinjeon",
+      "loungeId": "sasinjeon",
+      "titleKo": "동방사신전",
+      "titleEn": "Dongbang Sasinjeon"
+    },
+    {
+      "slug": "random-hero-kingdom",
+      "loungeId": "Random_Hero_Kingdom",
+      "titleKo": "랜덤 영웅 킹덤",
+      "titleEn": "Random Hero Kingdom"
+    },
+    {
+      "slug": "yulgang-hwaryong",
+      "loungeId": "Yulgang_Fire_Dragon_Tale",
+      "titleKo": "열혈강호: 화룡전",
+      "titleEn": "Yulgang: Fire Dragon Tale"
+    },
+    {
+      "slug": "ragnarok-crush",
+      "loungeId": "Ragnarok_Crush",
+      "titleKo": "라그나로크 크러쉬",
+      "titleEn": "Ragnarok Crush"
+    },
+    {
+      "slug": "pixel-tamerz",
+      "loungeId": "PIXEL_TAMERZ",
+      "titleKo": "픽셀 테이머즈",
+      "titleEn": "Pixel Tamerz"
+    },
+    {
+      "slug": "nba-basketball-world",
+      "loungeId": "NBABW2026",
+      "titleKo": "NBA 바스켓볼 월드 2026",
+      "titleEn": "NBA Basketball World 2026"
     }
   ],
-  "_출처": "네이버 게임 라운지 1,195곳을 전수 조사해(인기·실시간·공식 랭킹 + 장르 키워드 검색) 전용 쿠폰 게시판이 확인된 곳만 넣었다. 2026-09-14 실측."
+  "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
 }
