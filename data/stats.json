@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T04:37:07.830Z",
+  "generatedAt": "2026-09-18T05:17:19.319Z",
   "today": "2026-09-18",
-  "todayNew": 17,
+  "todayNew": 36,
   "totals": {
-    "games": 414,
-    "codes": 10625,
-    "active": 9568,
-    "expired": 1057,
-    "withExpiry": 2863
+    "games": 415,
+    "codes": 10644,
+    "active": 9574,
+    "expired": 1070,
+    "withExpiry": 2865
   },
   "newByDate": [
     {
@@ -64,10 +64,16 @@
     },
     {
       "date": "2026-09-18",
-      "count": 17
+      "count": 36
     }
   ],
   "expiringSoon": [
+    {
+      "slug": "blood-of-youth",
+      "code": "GANGHO58273164",
+      "expiry": "2026-09-18",
+      "days": 0
+    },
     {
       "slug": "light-of-thel-new-era",
       "code": "0b07b0c6",
@@ -89,12 +95,6 @@
     {
       "slug": "blood-of-youth",
       "code": "APPLENO1",
-      "expiry": "2026-09-20",
-      "days": 2
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "GANGHO58273164",
       "expiry": "2026-09-20",
       "days": 2
     },

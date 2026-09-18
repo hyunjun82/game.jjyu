@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Evernight/board/detail/8205902",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-09-18T04:34:56.884Z",
+  "updatedAt": "2026-09-18T05:15:00.420Z",
   "codes": [
     {
       "code": "evernight333",
@@ -24,6 +24,15 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "active"
+    },
+    {
+      "code": "evernightopen",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-16",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-18",
       "status": "active"

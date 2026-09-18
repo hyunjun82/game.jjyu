@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/whoaadventurers/board/detail/7819428",
   "howTo": "Step1. 메인화면 왼쪽 상단의 프로필 아이콘 Step2. 중앙 하단의 [설정] 버튼 Step3. 왼쪽 하단의 [교환코드] 버튼 Step4. 쿠폰(교환코드) 입력 후 확인 버튼",
   "postCount": 6,
-  "updatedAt": "2026-09-18T04:33:38.740Z",
+  "updatedAt": "2026-09-18T05:13:43.074Z",
   "codes": [
+    {
+      "code": "joywhoa",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-20",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
     {
       "code": "Football26",
       "reward": "",

@@ -7,9 +7,27 @@
   "loungeId": "Gauntlet_AFKRPG",
   "sourceUrl": "https://game.naver.com/lounge/Gauntlet_AFKRPG/board/detail/8112240",
   "howTo": "게임 내 [우측 상단 메뉴 → 설정 → 쿠폰 등록] 메뉴에서 쿠폰 코드를 입력해 주세요. 대소문자는 구분하지 않습니다. 보상은 우편함으로 지급됩니다.",
-  "postCount": 23,
-  "updatedAt": "2026-09-18T04:33:15.740Z",
+  "postCount": 22,
+  "updatedAt": "2026-09-18T05:13:20.165Z",
   "codes": [
+    {
+      "code": "metabonegauntlet",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-04",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "gauntletxmas",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
     {
       "code": "THANKSGARDENER",
       "reward": "",
