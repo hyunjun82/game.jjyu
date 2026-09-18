@@ -469,6 +469,18 @@
       "loungeId": "1003BM",
       "titleKo": "천상비M",
       "titleEn": "Cheonsangbi M"
+    },
+    {
+      "slug": "duck-survival",
+      "loungeId": "Duck_Survival",
+      "titleKo": "후더덕 서바이벌",
+      "titleEn": "Duck Survival"
+    },
+    {
+      "slug": "chosun-classic",
+      "loungeId": "chosunclassic",
+      "titleKo": "조선협객전 클래식",
+      "titleEn": "Chosun Classic"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳을 전수 조사해(인기·실시간·공식 랭킹 + 장르 키워드 검색) 전용 쿠폰 게시판이 확인된 곳만 넣었다. 2026-09-14 실측."

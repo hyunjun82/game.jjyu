@@ -114,7 +114,10 @@ function isSaneCode(c) {
   if (/^(19|20)\d{2}$/.test(c)) return false;           // 연도
   const hasDigit = /\d/.test(c);
   const allUpper = /^[A-Z]+$/.test(c);
-  return hasDigit || allUpper;                          // 311k93 / MZF1334 / ZPXKLU / GASDDW
+  // 소문자만으로 된 코드도 실제로 쓴다 — evernightopen, yulgangnextopen, joywhoa …
+  // 영단어가 딸려 들어올 위험은 STOP 목록과 "라벨 근처" 규칙이 막는다.
+  const allLower = c.length >= 6 && /^[a-z]+$/.test(c);
+  return hasDigit || allUpper || allLower;              // 311k93 / MZF1334 / ZPXKLU / evernightopen
 }
 
 /**
