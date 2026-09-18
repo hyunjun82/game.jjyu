@@ -1,0 +1,31 @@
+{
+  "slug": "city-demon-hunters",
+  "titleEn": "City Demon Hunters",
+  "titleKo": "시티 데몬헌터즈",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-18T05:49:24.461Z",
+  "codes": [
+    {
+      "code": "CITYDEMON2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/hgwxacydscuov/224416065325",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "active"
+    },
+    {
+      "code": "HUNTERGIFT2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/hgwxacydscuov/224416065325",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "active"
+    }
+  ]
+}
