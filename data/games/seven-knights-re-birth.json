@@ -1,10 +1,14 @@
 {
   "slug": "seven-knights-re-birth",
-  "titleEn": "Seven Knights Re:Birth",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37519-1759922359/seven-knights-rebirth-codes-head.jpg",
-  "sourcePath": "/seven-knights-re-birth/codes/",
-  "updatedAt": "2026-09-18T00:43:01.997Z",
+  "titleEn": "Seven Knights Re:BIRTH",
+  "titleKo": "세븐나이츠 리버스",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MDZfNTcg/MDAxNzg1OTgzNDIwMTg0.EpH9w175QaPdLX52VqbgoWCW-wrRMb84jk5dbjWgyVkg.5tlfjqUjJ9vBcdBxo1PHpIrNyVA9D_S9dEgV2tYXH20g.JPEG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
+  "source": "naver-lounge",
+  "loungeId": "sena_rebirth",
+  "sourceUrl": "https://game.naver.com/lounge/sena_rebirth/board/detail/8027884",
+  "howTo": "- 세븐나이츠 리버스 쿠폰 사용 방법 안내",
+  "postCount": 1,
+  "updatedAt": "2026-09-18T04:35:21.255Z",
   "codes": [
     {
       "code": "SEVEN777RAID",
@@ -109,6 +113,15 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-18",
       "status": "active"
+    },
+    {
+      "code": "TRAVELNOTE86",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T00:48:22.291Z",
+  "generatedAt": "2026-09-18T04:37:07.830Z",
   "today": "2026-09-18",
-  "todayNew": 0,
+  "todayNew": 17,
   "totals": {
-    "games": 412,
-    "codes": 10608,
-    "active": 9569,
-    "expired": 1039,
-    "withExpiry": 2851
+    "games": 414,
+    "codes": 10625,
+    "active": 9568,
+    "expired": 1057,
+    "withExpiry": 2863
   },
   "newByDate": [
     {
@@ -61,6 +61,10 @@
     {
       "date": "2026-09-17",
       "count": 12
+    },
+    {
+      "date": "2026-09-18",
+      "count": 17
     }
   ],
   "expiringSoon": [
@@ -326,7 +330,7 @@
     {
       "slug": "cardcaptor-sakura-memory-key",
       "active": 178,
-      "total": 178
+      "total": 187
     },
     {
       "slug": "shining-nikki",

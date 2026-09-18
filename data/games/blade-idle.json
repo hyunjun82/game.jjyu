@@ -1,54 +1,18 @@
 {
   "slug": "blade-idle",
-  "titleEn": "Blade Idle coupon",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-35103-1674560046/blade-idle-img7.jpg",
-  "sourcePath": "/blade-idle/codes/",
-  "updatedAt": "2026-09-18T00:42:47.891Z",
+  "titleEn": "Blade Idle",
+  "titleKo": "블레이드 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAyMDRfMzAg/MDAxNzcwMTgyMTkzMzAz.4MbX8leULSTE8IkOzTRQuqfWrNwKxK_iRW1MLXjY6bog.0U9WqIwTi4SAQcMpHpAMcy4PKmrx4lea5Iu8lcBaaqkg.PNG/%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C_%ED%82%A4%EC%9A%B0%EA%B8%B0_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "source": "naver-lounge",
+  "loungeId": "Blade_idle",
+  "sourceUrl": "https://game.naver.com/lounge/Blade_idle/board/detail/7263499",
+  "howTo": "- [AOS/구글] 게임 내 우측 상단 [메뉴] → [쿠폰]에서 쿠폰 번호를 입력하시면 보상을 획득하실 수 있습니다. - [iOS/애플] 게임 내 채팅창에 /coupon 쿠폰 번호를 입력하시면 쿠폰 사용이 가능합니다. : 예시) /coupon H4PPYIVYRT ​",
+  "postCount": 6,
+  "updatedAt": "2026-09-18T04:35:17.481Z",
   "codes": [
     {
       "code": "2REDHORSSO",
       "reward": "500,000 Diamonds, a [Magic] Resource Choice Chest, 50 of each type of 7 Mine Tickets",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-18",
-      "status": "active"
-    },
-    {
-      "code": "H4PPYIVYRT",
-      "reward": "4 Million Diamonds, [God] Gold/Exp Chest 40 each, 4 types of Dungeon Clearance Tickets 40 sheets, 40 Raid/PvP Entry Tickets, 7 types of Mine Tickets 400 sheets each",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-18",
-      "status": "active"
-    },
-    {
-      "code": "3rdESPFOR3",
-      "reward": "1 Million Diamonds, 10 Sweep Dungeons for Each Dungeon, 20 PvP/Raid Tickets, 2 Box Loot Buff (2,700 times) (Unity Server Zeus only)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-18",
-      "status": "active"
-    },
-    {
-      "code": "DEVGIFT2",
-      "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-18",
-      "status": "active"
-    },
-    {
-      "code": "OPSGIFT2",
-      "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-18",
-      "status": "active"
-    },
-    {
-      "code": "GRANDOPEN",
-      "reward": "Rewards: 2000 Diamonds, 1 Enchant Stone Dungeon Ticket, 2x Normal Skill Book Chest",
       "expiry": null,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-18",
@@ -79,20 +43,84 @@
       "status": "active"
     },
     {
-      "code": "20GDBYE24",
-      "reward": "Diamond 250,000, Ancient Insignia Fragment 20, Each Dungeon Sweep Ticket 24 (expires January 31st)",
-      "expiry": "2027-01-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-18",
-      "status": "active"
-    },
-    {
       "code": "HA2025PPY",
       "reward": "Diamond 500,000, Magic Resource Choice Chest 3, Each Mine 1 Hour Sweep Ticket 50 (expires January 31st)",
       "expiry": "2027-01-31",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-18",
       "status": "active"
+    },
+    {
+      "code": "GOINGUP2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-03-20",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "ESPFOR3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-04-22",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "H4PPYIVYRT",
+      "reward": "4 Million Diamonds, [God] Gold/Exp Chest 40 each, 4 types of Dungeon Clearance Tickets 40 sheets, 40 Raid/PvP Entry Tickets, 7 types of Mine Tickets 400 sheets each",
+      "expiry": null,
+      "postedAt": "2026-02-04",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "3rdESPFOR3",
+      "reward": "1 Million Diamonds, 10 Sweep Dungeons for Each Dungeon, 20 PvP/Raid Tickets, 2 Box Loot Buff (2,700 times) (Unity Server Zeus only)",
+      "expiry": null,
+      "postedAt": "2025-05-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "DEVGIFT2",
+      "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
+      "expiry": null,
+      "postedAt": "2024-03-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "OPSGIFT2",
+      "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
+      "expiry": null,
+      "postedAt": "2024-03-21",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "GRANDOPEN",
+      "reward": "Rewards: 2000 Diamonds, 1 Enchant Stone Dungeon Ticket, 2x Normal Skill Book Chest",
+      "expiry": null,
+      "postedAt": "2022-04-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
+    },
+    {
+      "code": "20GDBYE24",
+      "reward": "Diamond 250,000, Ancient Insignia Fragment 20, Each Dungeon Sweep Ticket 24 (expires January 31st)",
+      "expiry": null,
+      "postedAt": "2022-04-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-18",
+      "status": "expired"
     }
   ]
 }
