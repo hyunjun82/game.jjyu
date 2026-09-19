@@ -3,9 +3,8 @@
   "titleEn": "Arknights Endfield",
   "titleKo": "명일방주: 엔드필드",
   "image": "https://media.pocketgamer.com/artwork/na-33994-1769339305/endfield-intro.jpg",
-  "source": "naver-search",
-  "howTo": "",
-  "updatedAt": "2026-09-19T22:00:04.323Z",
+  "sourcePath": "/arknights-endfield/codes/",
+  "updatedAt": "2026-09-19T23:37:11.095Z",
   "codes": [
     {
       "code": "ALLFIELD",
@@ -44,21 +43,17 @@
       "status": "expired"
     },
     {
-      "code": "ENDFIELDGIFT",
-      "reward": "150 Oroberyl, 10k T-Creds, 20 Intermediate Combat Records, 20 Arms INSP Kits",
+      "code": "ENDFIELD4PC",
+      "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
       "expiry": "2026-08-22",
-      "postedAt": "2026-08-21",
-      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224385228424",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-20",
       "status": "expired"
     },
     {
-      "code": "ENDFIELD4PC",
-      "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
+      "code": "ENDFIELDGIFT",
+      "reward": "150 Oroberyl, 10k T-Creds, 20 Intermediate Combat Records, 20 Arms INSP Kits",
       "expiry": "2026-08-22",
-      "postedAt": "2026-08-21",
-      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224385228424",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-20",
       "status": "expired"

@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-19T11:34:29.605Z",
+  "updatedAt": "2026-09-19T23:48:53.594Z",
   "codes": [
+    {
+      "code": "HUNTER2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-25",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389285848",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
+    {
+      "code": "HUNTER1000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-25",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389285848",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
     {
       "code": "HUNTER777",
       "reward": "",
@@ -15,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "NEWSERVER",
@@ -25,7 +45,7 @@
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "UPDATE2024",
@@ -35,7 +55,7 @@
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GROWTH100",
@@ -43,26 +63,6 @@
       "expiry": null,
       "postedAt": "2026-09-07",
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "active"
-    },
-    {
-      "code": "HUNTER2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-25",
-      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389285848",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "HUNTER1000",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-25",
-      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389285848",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
       "status": "expired"
