@@ -7,8 +7,8 @@
   "loungeId": "LUNAR_EverSoul",
   "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8183852",
   "howTo": "",
-  "postCount": 37,
-  "updatedAt": "2026-09-19T01:32:00.768Z",
+  "postCount": 1317,
+  "updatedAt": "2026-09-19T01:44:53.700Z",
   "codes": [
     {
       "code": "week0333",
@@ -18,6 +18,16 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
       "status": "active"
+    },
+    {
+      "code": "landmark100",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
     },
     {
       "code": "week0001",
