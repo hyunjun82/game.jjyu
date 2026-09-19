@@ -18,7 +18,9 @@ import path from 'node:path';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const GAMES_DIR = path.join(ROOT, 'data', 'games');
-const CONF = path.join(ROOT, 'scripts', 'search-games.json');
+const CONF = process.env.SEARCH_CONF || path.join(ROOT, 'scripts', 'search-games.json');
+/** discover-naver.mjs 가 자동으로 적는 회원 전용 인기 라운지 목록. 손으로 적은 목록이 우선한다. */
+const CONF_AUTO = path.join(ROOT, 'scripts', 'search-games.auto.json');
 
 /** 이보다 오래된 글은 안 본다. 쿠폰 수명이 1~2주라 한 달 지난 글은 전부 만료다. */
 const MAX_POST_AGE_DAYS = 30;
@@ -246,8 +248,12 @@ async function collectOne(g) {
     const squash = (x) => x.replace(/[\s:：·,]/g, '');
     // 제목에 게임 이름이 있어야 한다. 본문만 보면 "열혈강호: 넥스트" 글이
     // 본문에서 "귀환"을 한 번 언급했다는 이유로 귀환 쿠폰으로 둔갑한다(실측).
-    if (!squash(postTitle(page)).includes(squash(g.titleKo))) continue;
-    if (!squash(text).includes(squash(g.titleKo))) continue;
+    // "헌터 키우기"가 "소울 헌터 키우기" 글을 물지 않게 — 이름 바로 앞에 한글·영문·숫자가 붙어 있으면 다른 게임이다.
+    const sTitle = squash(postTitle(page)), sName = squash(g.titleKo);
+    const at = sTitle.indexOf(sName);
+    if (at < 0) continue;
+    if (at > 0 && /[가-힣A-Za-z0-9]/.test(sTitle[at - 1])) continue;
+    if (!squash(text).includes(sName)) continue;
     scanned++;
 
     for (const c of parseCodes(text, posted)) {
@@ -299,7 +305,11 @@ function merge(prev, fresh) {
 
 async function main() {
   fs.mkdirSync(GAMES_DIR, { recursive: true });
-  const list = JSON.parse(fs.readFileSync(CONF, 'utf8')).games;
+  const manual = JSON.parse(fs.readFileSync(CONF, 'utf8')).games;
+  let auto = [];
+  try { auto = JSON.parse(fs.readFileSync(CONF_AUTO, 'utf8')).games || []; } catch (e) { /* 아직 없음 */ }
+  const seen = new Set(manual.map((g) => g.slug));
+  const list = [...manual, ...auto.filter((g) => !seen.has(g.slug))];
   const only = process.argv.find((a) => a.startsWith('--only='));
   const targets = only ? list.filter((g) => g.slug === only.split('=')[1]) : list;
 

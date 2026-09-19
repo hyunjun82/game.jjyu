@@ -29,6 +29,9 @@ const B1 = 'https://comm-api.game.naver.com/nng_main/v1';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const CONF_EXTRA = path.join(ROOT, 'scripts', 'naver-lounges.json');
 const SWEEP_FILE = path.join(ROOT, 'scripts', 'naver-sweep.json');
+/** 회원 전용이라 못 읽는 인기 라운지 — 블로그 검색 수집(collect-search.mjs)이 이 목록을 같이 읽는다. */
+const SEARCH_AUTO_FILE = path.join(ROOT, 'scripts', 'search-games.auto.json');
+const SEARCH_FILE = path.join(ROOT, 'scripts', 'search-games.json');
 const GAMES_DIR = path.join(ROOT, 'data', 'games');
 
 /** 한 번에 순회할 라운지 수. --sweep=N 으로 바꾼다. 0이면 순회를 건너뛴다. */
@@ -127,23 +130,35 @@ function loadSweep() {
  *   all : 공식 라운지 전체 (마지막으로 본 지 오래된 순)
  */
 async function sweepCandidates(known, sweep, today) {
+  // hotAll: 신규·순위 라운지 전부(목록에 있는 것 포함) — 검색 보완 대상 산출에 쓴다.
+  // hot   : 그중 목록에 없는 것 — 순회 후보.
+  const hotAll = new Map();
   const hot = new Map();
-  const add = (m, x) => { const id = String(x?.loungeId || x?.originalLoungeId || ''); if (id && !known.has(id.toLowerCase()) && !m.has(id)) m.set(id, ent(x.loungeName || x.loungeEnglishName || id)); };
+  const add = (x) => {
+    const id = String(x?.loungeId || x?.originalLoungeId || '');
+    if (!id) return;
+    const name = ent(x.loungeName || x.loungeEnglishName || id);
+    if (!hotAll.has(id)) hotAll.set(id, name);
+    if (!known.has(id.toLowerCase()) && !hot.has(id)) hot.set(id, name);
+  };
 
   const newest = await get(`${B1}/lounge/official?limit=20`);
-  for (const x of newest?.content?.officialLounges || []) add(hot, x);
+  for (const x of newest?.content?.officialLounges || []) add(x);
   const fresh = await get(`${B1}/home/newLounges`);
-  for (const x of fresh?.content?.loungeList || []) add(hot, x);
+  for (const x of fresh?.content?.loungeList || []) add(x);
   for (const term of ['daily', 'weekly', 'monthly']) {
     const r = await get(`${B1}/home/popular-game/lounge/ranking?term=${term}`);
-    for (const x of r?.content?.popularGameLounge || []) add(hot, x.lounge || x);
+    for (const x of r?.content?.popularGameLounge || []) add(x.lounge || x);
   }
   const rt = await get(`${B1}/home/real-time/lounge/ranking`);
-  for (const x of rt?.content?.realTimeLounge || []) add(hot, x.lounge || x);
+  for (const x of rt?.content?.realTimeLounge || []) add(x.lounge || x);
 
   const all = new Map();
   const full = await get(`${B1}/lounge/official`);
-  for (const x of full?.content?.officialLounges || []) add(all, x);
+  for (const x of full?.content?.officialLounges || []) {
+    const id = String(x?.loungeId || x?.originalLoungeId || '');
+    if (id && !known.has(id.toLowerCase()) && !all.has(id)) all.set(id, ent(x.loungeName || id));
+  }
 
   const ageDays = (id) => { const c = sweep.checked[id]; return c ? (Date.parse(today) - Date.parse(c.at)) / 86400000 : Infinity; };
   // 예전에 코드를 올린 적이 있는 라운지(지금은 전부 만료)는 다시 올릴 가능성이 높다 — 순위 라운지처럼 자주 본다.
@@ -152,7 +167,40 @@ async function sweepCandidates(known, sweep, today) {
   const hotList = [...hot].filter(([id]) => due(id));
   const allList = [...all].filter(([id]) => !hot.has(id) && due(id))
     .sort((a, b) => ageDays(b[0]) - ageDays(a[0]));   // 오래 안 본 것부터
-  return { hotList, allList, hotTotal: hot.size, allTotal: all.size };
+  return { hotList, allList, hotTotal: hot.size, allTotal: all.size, hotAll };
+}
+
+/**
+ * 회원 전용 라운지 중 인기 순위·신규에 든 게임을 블로그 검색 보완 대상으로 적는다.
+ * 같은 코드가 블로그에 공개되는 게임이 많다(니케·명조 실측). 손으로 적은 search-games.json 과
+ * 겹치는 게임은 뺀다. 라운지 목록에 이미 있는 게임은 그 slug 를 써서 페이지가 둘로 안 갈리게 한다.
+ */
+function writeSearchAuto(hotAll, sweep, known, lounges) {
+  let manual = [];
+  try { manual = JSON.parse(fs.readFileSync(SEARCH_FILE, 'utf8')).games || []; } catch (e) { /* 없음 */ }
+  const manualSlugs = new Set(manual.map((g) => g.slug));
+  const norm = (x) => String(x || '').toLowerCase().replace(/[^a-z0-9가-힣]/g, '');
+  const manualNames = new Set(manual.map((g) => norm(g.titleKo)));
+  const bySlugLounge = new Map(lounges.map((g) => [String(g.loungeId).toLowerCase(), g]));
+  const out = [];
+  for (const [id, name] of hotAll) {
+    const s = sweep.checked[id];
+    const inList = bySlugLounge.get(id.toLowerCase());
+    // 라운지 목록에 있는데 코드가 0개인 게임도 회원 전용이면 검색으로 보완한다.
+    const locked = /잠김/.test(s?.error || '') || (inList && /잠김/.test(sweep.checked[inList.loungeId]?.error || ''));
+    if (!locked) continue;
+    const slug = inList ? inList.slug : (existingSlugFor(id) || slugOf(id));
+    const titleKo = inList ? inList.titleKo : cleanName(name);
+    if (manualSlugs.has(slug) || manualNames.has(norm(titleKo))) continue;
+    if (titleKo.replace(/\s/g, '').length < 3) continue;     // 너무 짧은 이름은 검색이 엉뚱한 글을 문다
+    out.push({ slug, loungeId: id, titleKo, titleEn: inList?.titleEn || titleEnOf(id) });
+  }
+  fs.writeFileSync(SEARCH_AUTO_FILE, JSON.stringify({
+    _설명: '회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.',
+    generatedAt: new Date().toISOString(),
+    games: out,
+  }, null, 2) + '\n');
+  return out.length;
 }
 
 async function main() {
@@ -190,7 +238,7 @@ async function main() {
 
   // 2단계 — 전수 순회
   if (SWEEP_PER_RUN > 0) {
-    const { hotList, allList, hotTotal, allTotal } = await sweepCandidates(known, sweep, today);
+    const { hotList, allList, hotTotal, allTotal, hotAll } = await sweepCandidates(known, sweep, today);
     // 신규·순위 라운지가 앞, 전체 목록이 뒤. 한 번에 SWEEP_PER_RUN 개까지만 — 넘치면 다음 실행이 이어서 본다.
     const queue = [...hotList, ...allList].slice(0, SWEEP_PER_RUN);
     console.log(`[discover] 2단계 — 신규·순위 라운지 ${hotTotal}개(볼 것 ${hotList.length}) · 전체 ${allTotal}개(안 본 지 ${RECHECK_DAYS}일 넘은 것 ${allList.length}) · 이번에 ${queue.length}개`);
@@ -204,6 +252,15 @@ async function main() {
       console.log(`  + ${cleanName(name)} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 순회에서 발견`);
     }
     console.log(`[discover] 2단계 — ${n}개 확인`);
+    // 회원 전용 라운지의 목록 내 게임은 sweep 에 기록이 없을 수 있다 — 여기서 한 번 확인해 둔다.
+    for (const g of loadLounges()) {
+      const id = String(g.loungeId);
+      if (!hotAll.has(id) || sweep.checked[id]) continue;
+      const r = await probe(id, g.titleKo, today);
+      sweep.checked[id] = { at: today, ...(r.error ? { error: r.error } : { live: r.live, total: r.total }) };
+    }
+    const nAuto = writeSearchAuto(hotAll, sweep, known, loadLounges());
+    console.log(`[discover] 회원 전용 인기 라운지 → 블로그 검색 보완 대상 ${nAuto}개 (search-games.auto.json)`);
   }
 
   if (added.length) {
