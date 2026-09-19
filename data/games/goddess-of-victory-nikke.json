@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-19T03:54:35.930Z",
+  "updatedAt": "2026-09-19T06:38:28.792Z",
   "codes": [
     {
       "code": "WAVETOYOU2026",
@@ -33,6 +33,16 @@
       "expiry": "2026-09-17",
       "postedAt": "2026-09-14",
       "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "NIKKEGIFT",
+      "reward": "",
+      "expiry": "2026-09-10",
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388722934",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
       "status": "expired"
@@ -93,16 +103,6 @@
       "expiry": "2026-08-23",
       "postedAt": "2026-08-21",
       "sourceUrl": "https://blog.naver.com/htjeyahruyeqb/224386000210",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "NIKKEGIFT",
-      "reward": "",
-      "expiry": "2026-09-10",
-      "postedAt": "2026-08-24",
-      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388722934",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
       "status": "expired"

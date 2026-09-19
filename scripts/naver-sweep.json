@@ -1,6 +1,10 @@
 {
  "_설명": "라운지별 마지막 순회 결과. discover-naver.mjs 가 쓴다.",
  "checked": {
+  "771": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
   "1003bk": {
    "at": "2026-09-19",
    "error": "보드 잠김(가입 필요)"
@@ -9346,6 +9350,82 @@
    "error": "쿠폰 보드 없음"
   },
   "Biohazard_Revelations2": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Tape101_Liminal_Descent": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Oppa_Mobile_for_kakao": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Like_a_Dragon_Infinite_Wealth": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Danganronpa2_Goodbye_Despair": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Arranger_A_RolePuzzling_Adventure": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Captain_Tsubasa_Rise_of_New_Champions": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Ultimate_Fishing_Simulator": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Raising_Animal_Friends": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Suitcase_Stories": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "SUPER_MARIO_3D_WORLD_BOWSER'S_FURY": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "undeadvsdemon": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Objects_In_Space": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Wilmots_Warehouse": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Etheria_Restart": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Mugen_Souls_Z": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Amnesia_A_Machine_for_Pigs": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "The_Division_Resurgence": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Dragon_Blaze": {
+   "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "Dark_and_Darker": {
    "at": "2026-09-19",
    "error": "쿠폰 보드 없음"
   }
