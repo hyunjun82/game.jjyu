@@ -69,7 +69,7 @@ jobs:
           # CHANGED 로 조기 종료하지 않고 실제 diff 로만 판단한다.
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-sweep.json public/g
+          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-sweep.json scripts/search-games.auto.json public/g
           if git diff --cached --quiet; then
             echo "실제 diff 없음 — 커밋 생략"
             exit 0
