@@ -1,11 +1,52 @@
 {
   "slug": "honkai-star-rail",
   "titleEn": "Honkai: Star Rail",
-  "titleKo": null,
+  "titleKo": "붕괴: 스타레일",
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
-  "sourcePath": "/honkai-star-rail/codes/",
-  "updatedAt": "2026-09-18T23:32:01.888Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:30:38.873Z",
   "codes": [
+    {
+      "code": "2TKRKAR6YG2X",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224411530151",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "LSJ9JARPZH33",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224411530151",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "YAJQ2TR6ZY2P",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224411530151",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "STARRAILGIFT",
+      "reward": "50 Stellar Jade, 10,000 Credits",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224411530151",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "SilverWolfLV999",
       "reward": "3 Travelers Guide, 2 Badge Battle Robes",
@@ -15,12 +56,94 @@
       "status": "active"
     },
     {
-      "code": "STARRAILGIFT",
-      "reward": "50 Stellar Jade, 10,000 Credits",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "NSJR3B97ZZ5X",
+      "reward": "",
+      "expiry": "2026-08-26",
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388725793",
+      "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "STARRAILFATE2026",
+      "reward": "",
+      "expiry": "2026-08-26",
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388725793",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "PSJQKBQPYGMT",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384412226",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "BESTCOFFEEEVER",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384412226",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "OMEGA",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384412226",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "CREATIONNYMPH",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384412226",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "FAREWELL",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384412226",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "IFYOUAREREADINGTHIS",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384412226",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DAYABOLLEY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-02",
+      "sourceUrl": "https://blog.naver.com/youneedtochill/224398460455",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
     }
   ]
 }

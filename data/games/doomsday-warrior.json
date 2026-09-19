@@ -1,0 +1,50 @@
+{
+  "slug": "doomsday-warrior",
+  "titleEn": "Doomsday Warrior",
+  "titleKo": "라스트 소녀 전사",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTVfNjAg/MDAxNzg5NDc2OTg4ODA0.d7U0rPxF-W02o5VjAfcChfHpu3G9W-IM4dBwvquB1Lcg.WhS4ojExsbRDBydcxr7bH5QD6aYnmC2Yj30Y2tHbOowg.GIF/%EB%9D%BC%EC%8A%A4%ED%8A%B8_%EC%86%8C%EB%85%80_%EC%A0%84%EC%82%AC_-_%EC%9C%88%EB%94%94.gif",
+  "source": "naver-lounge",
+  "loungeId": "Doomsday_Warrior",
+  "sourceUrl": "https://game.naver.com/lounge/Doomsday_Warrior/board/detail/8206108",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-09-19T00:27:36.918Z",
+  "codes": [
+    {
+      "code": "girl8282",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "FALLFEST",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "Artemis",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "STARGLOW",
+      "reward": "",
+      "expiry": "2026-09-18",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

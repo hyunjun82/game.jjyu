@@ -8,25 +8,52 @@
   "sourceUrl": "https://game.naver.com/lounge/bbhero/board/detail/8078225",
   "howTo": "- 좌측 상단의 프로필(①) 터치 후 설정에서 교환코드(②)를 입력 후 획득할 수 있습니다. ✧ 참고 사항 - 해당 쿠폰은 캐릭터 당 1회만 사용 가능합니다.",
   "postCount": 2,
-  "updatedAt": "2026-09-18T23:34:30.149Z",
+  "updatedAt": "2026-09-19T00:25:33.833Z",
   "codes": [
+    {
+      "code": "commentsover100",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "thanksover500",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "welcome2026",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-05-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "mihomihobongsik",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2026-08-19",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "visitbbh100",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2026-05-16",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
     }
   ]
 }

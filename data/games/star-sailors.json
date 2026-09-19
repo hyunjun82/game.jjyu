@@ -8,8 +8,35 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-09-18T23:34:15.832Z",
+  "updatedAt": "2026-09-19T00:25:19.151Z",
   "codes": [
+    {
+      "code": "LUCKYSAILORS777",
+      "reward": "Silver Compass x5 (expires July 13th)",
+      "expiry": "2027-07-13",
+      "postedAt": "2026-07-06",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SAILORS222",
+      "reward": "3 Bulging Mushrooms, 50 EXP Potions (M) - expires July 8th",
+      "expiry": "2027-07-08",
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "GRANDLAUNCH100",
+      "reward": "10 Silver Compasses, 50k Gold, 10 EXP Potions (M), 10 Upgrade Stones (M) - expires July 7th",
+      "expiry": "2027-07-07",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "SAILORSFIRSTLIVE",
       "reward": "Diamond x 400",
@@ -57,6 +84,42 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "active"
+    },
+    {
+      "code": "MUSHROOM0902",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MUSHDIA09",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "SAILOR09SEP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DIAMUSH09",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
     },
     {
       "code": "ACADEMYSURVIVAL",
@@ -144,33 +207,6 @@
       "reward": "Silver Compass x10 (expires August 31st)",
       "expiry": "2026-08-31",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "LUCKYSAILORS777",
-      "reward": "Silver Compass x5 (expires July 13th)",
-      "expiry": null,
-      "postedAt": "2026-07-06",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "SAILORS222",
-      "reward": "3 Bulging Mushrooms, 50 EXP Potions (M) - expires July 8th",
-      "expiry": null,
-      "postedAt": "2026-07-01",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "GRANDLAUNCH100",
-      "reward": "10 Silver Compasses, 50k Gold, 10 EXP Potions (M), 10 Upgrade Stones (M) - expires July 7th",
-      "expiry": null,
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "expired"
     }

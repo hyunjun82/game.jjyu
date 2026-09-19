@@ -1,10 +1,11 @@
 {
   "slug": "wuthering-waves",
   "titleEn": "Wuthering Waves",
-  "titleKo": null,
+  "titleKo": "명조: 워더링 웨이브",
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
-  "sourcePath": "/wuthering-waves/codes/",
-  "updatedAt": "2026-09-18T23:32:20.886Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:30:13.033Z",
   "codes": [
     {
       "code": "F5F4D3B2A2",
@@ -255,11 +256,43 @@
       "status": "active"
     },
     {
+      "code": "HEARTOFSWORD",
+      "reward": "",
+      "expiry": "2026-08-19",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224384882441",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "ETERNALFLAME",
+      "reward": "",
+      "expiry": "2026-08-19",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224384882441",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "THEANSWER",
+      "reward": "",
+      "expiry": "2026-08-19",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224384882441",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
       "code": "WUTHERINGGIFT",
       "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
-      "expiry": null,
+      "expiry": "2026-09-17",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384409926",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-19",
       "status": "expired"
     }
   ]

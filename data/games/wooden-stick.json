@@ -8,21 +8,21 @@
   "sourceUrl": "https://game.naver.com/lounge/woodenstick/board/detail/7070080",
   "howTo": "",
   "postCount": 10,
-  "updatedAt": "2026-09-18T23:34:50.338Z",
+  "updatedAt": "2026-09-19T00:25:53.918Z",
   "codes": [
     {
       "code": "99rwsglobalopen",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2025-12-15",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "99specialthx",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-12-31",
       "postedAt": "2025-02-15",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-19",

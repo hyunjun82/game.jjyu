@@ -1,15 +1,58 @@
 {
   "slug": "zenless-zone-zero",
   "titleEn": "Zenless Zone Zero",
-  "titleKo": null,
+  "titleKo": "젠레스 존 제로",
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
-  "sourcePath": "/zenless-zone-zero/codes/",
-  "updatedAt": "2026-09-18T23:32:21.194Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:30:21.892Z",
   "codes": [
+    {
+      "code": "ZZZ2YEAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "ZZZ31REMIELLE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "ZZZMEIJI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "ZENLESSGIFT",
+      "reward": "50 Polychrome, 2 Official Investigator Log, 3 W-Engine Power Supply, 1 Bangboo Algorithm Module",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "CBW0884678",
       "reward": "20k Denny (Asia only)",
       "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "active"
@@ -31,12 +74,14 @@
       "status": "active"
     },
     {
-      "code": "ZENLESSGIFT",
-      "reward": "50 Polychrome, 2 Official Investigator Log, 3 W-Engine Power Supply, 1 Bangboo Algorithm Module",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "FLINTWORKS",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/leejt6614/224394506278",
+      "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

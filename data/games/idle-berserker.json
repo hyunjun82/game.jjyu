@@ -1,0 +1,425 @@
+{
+  "slug": "idle-berserker",
+  "titleEn": "Idle Berserker",
+  "titleKo": "광전사 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAxMDJfMTA2/MDAxNzY3MzM5MjMzNzIw.z4EGjI0NmOfgQVnE1JneHO8BmuAjLn9--LOLYBATzp4g.lzGuv7j0T79zOMoOPP0YjJlj31x831M7XOGHVsJ9eb4g.PNG/image.png",
+  "source": "naver-lounge",
+  "loungeId": "IDLE_Berserker",
+  "sourceUrl": "https://game.naver.com/lounge/IDLE_Berserker/board/detail/8208052",
+  "howTo": "] ※ 참고사항 쿠폰은 계정당 1회만 사용 가능합니다. 쿠폰별 사용 기간이 다르니 꼭 확인해 주세요.",
+  "postCount": 168,
+  "updatedAt": "2026-09-19T00:27:43.811Z",
+  "codes": [
+    {
+      "code": "SEPSEP2803",
+      "reward": "",
+      "expiry": "2026-09-26",
+      "expiryFrom": "event",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SEPSEP5775",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL867LAR",
+      "reward": "",
+      "expiry": "2028-11-13",
+      "expiryFrom": "event",
+      "postedAt": "2025-11-12",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL159MSZ",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-08-22",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL402PCT",
+      "reward": "",
+      "expiry": "2028-05-08",
+      "expiryFrom": "event",
+      "postedAt": "2025-05-07",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "BERS9618",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "NQZR6501",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "XGTR2837",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "AJEP3942",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SWKC4756",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "BRNY8361",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DLFJ1298",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "HVSU5643",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "CKWT7320",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "YXOM8475",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SPECIAL623DKB",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2025-02-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SEPSEP9323",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "SEPSEP2386",
+      "reward": "",
+      "expiry": "2026-09-05",
+      "postedAt": "2026-08-28",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "AUGAUG6773",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-21",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "AUGAUG152",
+      "reward": "",
+      "expiry": "2026-08-22",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "AUGAUG8193",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-07",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "AUGAUG2657",
+      "reward": "",
+      "expiry": "2026-08-08",
+      "postedAt": "2026-07-31",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JULJUL6396",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-24",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JULJUL1947",
+      "reward": "",
+      "expiry": "2026-07-25",
+      "postedAt": "2026-07-17",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JULJUL3223",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JULJUL6103",
+      "reward": "",
+      "expiry": "2026-07-11",
+      "postedAt": "2026-07-03",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JUNJUN3557",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-26",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JUNJUN3634",
+      "reward": "",
+      "expiry": "2026-06-13",
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JUNJUN5730",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JUNJUN5428",
+      "reward": "",
+      "expiry": "2026-06-13",
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JUNJUN7830",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-29",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MAYMAY4041",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-22",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MAYMAY2166",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-15",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MAYMAY6769",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-08",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MAYMAY5306",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "APRAPR5999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "APRAPR6605",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-17",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "APRAPR4181",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "APRAPR2062",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-03",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MARMAR8655",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MARMAR5247",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MARMAR3530",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MARMAR1652",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-06",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "MARMAR1772",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

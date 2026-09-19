@@ -7,8 +7,8 @@
   "loungeId": "tosm",
   "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8196352",
   "howTo": "게임 내 [메뉴] - [옵션] - [계정] - 오른쪽 아래 [쿠폰입력] 란에서 쿠폰 번호 입력 🎁쿠폰 구성품 지급 보상 개수 벨로브 안정제",
-  "postCount": 7,
-  "updatedAt": "2026-09-18T23:34:02.380Z",
+  "postCount": 6,
+  "updatedAt": "2026-09-19T00:25:06.555Z",
   "codes": [
     {
       "code": "GOLDEN",
@@ -56,15 +56,6 @@
       "status": "expired"
     },
     {
-      "code": "ERROR",
-      "reward": "",
-      "expiry": "2026-04-07",
-      "postedAt": "2026-04-01",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
       "code": "ADVENTURE",
       "reward": "",
       "expiry": "2026-04-19",
@@ -78,6 +69,15 @@
       "reward": "",
       "expiry": "2026-03-28",
       "postedAt": "2026-03-14",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "ERROR",
+      "reward": "",
+      "expiry": "2026-04-07",
+      "postedAt": "2026-04-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
       "status": "expired"

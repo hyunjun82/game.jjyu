@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAzMDVfMjcw/MDAxNzcyNzA0NzM5NzAz.Z3HKQuBGuO3Q0UTdnmruMZbBC1jS3HLiGfKKuB0vdTMg.QuZfCyQVut23jJOZrXM9eggHBkQ0ZZH_i2NU2n7XtLog.PNG/%EA%B3%B5%EC%A7%80.png",
   "source": "naver-lounge",
   "loungeId": "Top_Heroes",
-  "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/7690556",
+  "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/7960467",
   "howTo": "",
-  "postCount": 5,
-  "updatedAt": "2026-09-18T23:34:28.193Z",
+  "postCount": 7,
+  "updatedAt": "2026-09-19T00:25:31.664Z",
   "codes": [
+    {
+      "code": "S10001",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
     {
       "code": "THSensorTower2025",
       "reward": "",

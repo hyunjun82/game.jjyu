@@ -1,0 +1,68 @@
+{
+  "slug": "kingdomssiege",
+  "titleEn": "Kingdomssiege",
+  "titleKo": "삼국지 공성판",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MDVfNzYg/MDAxNzg1ODk4NzY2MDEy.9s8mpQq7d0kAVo55w9sSguq1R7Blsp8UaZ_2ps0x_xkg.eYX8NIqH0JwmwE1hpavmyRily48s7tqfH_cXvbRjvcog.JPEG/kingdomskr_lounge_preview_event_all.jpg",
+  "source": "naver-lounge",
+  "loungeId": "kingdomssiege",
+  "sourceUrl": "https://game.naver.com/lounge/kingdomssiege/board/detail/8058782",
+  "howTo": "📌 공용 쿠폰 코드 쿠폰 코드 gwangbok ※ 본 쿠폰은 2026년 9월 11일(금)까지만 사용할 수 있습니다.",
+  "postCount": 6,
+  "updatedAt": "2026-09-19T00:28:04.637Z",
+  "codes": [
+    {
+      "code": "present",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "gwangbok",
+      "reward": "",
+      "expiry": "2026-09-11",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "julygift",
+      "reward": "",
+      "expiry": "2026-08-14",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "26june",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "2026spring",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-02-27",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "2026gift",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

@@ -8,34 +8,37 @@
   "sourceUrl": "https://game.naver.com/lounge/YEP_Raising_Feet_UP/board/detail/7727871",
   "howTo": "",
   "postCount": 43,
-  "updatedAt": "2026-09-18T23:34:24.818Z",
+  "updatedAt": "2026-09-19T00:25:27.990Z",
   "codes": [
     {
       "code": "YESUP",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
+      "expiryFrom": "event",
       "postedAt": "2026-05-29",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "THANKYOUYES",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
+      "expiryFrom": "event",
       "postedAt": "2026-05-29",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "WELCOMEGIFT",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
+      "expiryFrom": "event",
       "postedAt": "2026-05-29",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Gauntlet_AFKRPG/board/detail/8207782",
   "howTo": "게임 내 [우측 상단 메뉴 → 설정 → 쿠폰 등록] 메뉴에서 쿠폰 코드를 입력해 주세요. 대소문자는 구분하지 않습니다. 보상은 우편함으로 지급됩니다.",
   "postCount": 23,
-  "updatedAt": "2026-09-18T23:33:57.531Z",
+  "updatedAt": "2026-09-19T00:25:01.686Z",
   "codes": [
     {
       "code": "GROWTOGETHER",
@@ -85,7 +85,7 @@
     {
       "code": "ANNIV1STPRE",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-08",
       "postedAt": "2026-06-11",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
@@ -221,7 +221,7 @@
       "code": "GAMEOPEN",
       "reward": "",
       "expiry": null,
-      "postedAt": "2025-07-07",
+      "postedAt": "2025-10-04",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
       "status": "expired"

@@ -1,0 +1,77 @@
+{
+  "slug": "horn",
+  "titleEn": "Horn",
+  "titleKo": "혼(Horn)",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MDNfMjU2/MDAxNzg1NzQ2NTM1MDIy.gqbw-kzZqxUK04ljSb3EQezigaHvBsTSnhq1XaHsYAUg.56v_RjHS1vMJfH2zPo_EedUF0_17QAJbCD4KxjecQ-gg.PNG/gsg_horn_lounge_preview_event_all.png",
+  "source": "naver-lounge",
+  "loungeId": "horn",
+  "sourceUrl": "https://game.naver.com/lounge/horn/board/detail/8058781",
+  "howTo": "📢 쿠폰 코드 및 선물 쿠폰 사용 기한 쿠폰 코드 쿠폰 구성품 2026년 8월 14일(금)",
+  "postCount": 7,
+  "updatedAt": "2026-09-19T00:27:54.408Z",
+  "codes": [
+    {
+      "code": "bdaygift",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "gwangbok",
+      "reward": "",
+      "expiry": "2026-09-11",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "julygift",
+      "reward": "",
+      "expiry": "2026-08-14",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "26june",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "trillion",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-07",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "2026gift",
+      "reward": "",
+      "expiry": "2026-03-12",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "bye2025",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

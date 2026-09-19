@@ -8,16 +8,52 @@
   "sourceUrl": "https://game.naver.com/lounge/Sword_Frontier/board/detail/8135741",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-09-18T23:33:48.922Z",
+  "updatedAt": "2026-09-19T00:24:52.739Z",
   "codes": [
     {
       "code": "SwordFronti5r",
       "reward": "",
-      "expiry": null,
+      "expiry": "2027-06-30",
       "postedAt": "2026-09-02",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
+    },
+    {
+      "code": "Sword4rontier",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "3wordFrontier",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-08-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "Swo2dFrontier",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-08-21",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "SwordFront1er",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
+      "status": "active"
     },
     {
       "code": "COUNTDOWN01",
@@ -42,42 +78,6 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-08-31",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "Sword4rontier",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-27",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "3wordFrontier",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-24",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "Swo2dFrontier",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-21",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "SwordFront1er",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-19",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
       "status": "expired"

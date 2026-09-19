@@ -1,29 +1,14 @@
 {
   "slug": "solo-leveling-arise",
-  "titleEn": "Solo Leveling Arise",
-  "titleKo": null,
+  "titleEn": "Solo Leveling: ARISE",
+  "titleKo": "나 혼자만 레벨업: 어라이즈",
   "image": "https://media.pocketgamer.com/artwork/na-35281-1715117393/solo-leveling-arise-sung-jinwoo.jpg",
-  "sourcePath": "/solo-leveling-arise/codes/",
-  "updatedAt": "2026-09-18T23:32:13.309Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:30:54.371Z",
   "codes": [
     {
       "code": "NeWLIGHTBuster",
-      "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-19",
-      "status": "active"
-    },
-    {
-      "code": "JOOHEEARDME",
-      "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-19",
-      "status": "active"
-    },
-    {
-      "code": "JACKIEISTHEBEST",
       "reward": "",
       "expiry": null,
       "firstSeen": "2026-08-31",
@@ -445,6 +430,56 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "active"
+    },
+    {
+      "code": "1YRANIVTHANKU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224388620119",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DEVNOTEARCHUPD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224388620119",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "YOGISHARDMODE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224388620119",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JOOHEEARDME",
+      "reward": "",
+      "expiry": "2026-09-10",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394265486",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "JACKIEISTHEBEST",
+      "reward": "",
+      "expiry": "2026-09-10",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394265486",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
     },
     {
       "code": "K3YF0R_QNA26",

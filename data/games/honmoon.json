@@ -1,0 +1,24 @@
+{
+  "slug": "honmoon",
+  "titleEn": "Honmoon",
+  "titleKo": "혼문",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA1MTJfMTc4/MDAxNzc4NTk3NTQ1NzY1.dMAWicUj2ykCfgODuiKM1RObuOL4_cSyoqVH_9kRBxIg.66LRid7YPGpMrVVZNRbJUDYIJf8jUa2-0iIk30L8Y_4g.JPEG/honmoon_lounge_preview_event_all.jpg",
+  "source": "naver-lounge",
+  "loungeId": "honmoon",
+  "sourceUrl": "https://game.naver.com/lounge/honmoon/board/detail/7658607",
+  "howTo": "플레이어님들 덕에 무사히 정식 출시를 할 수 있었습니다. 최선의 서비스를 제공할 수 있도록 온 힘을 다하겠습니다.",
+  "postCount": 1,
+  "updatedAt": "2026-09-19T00:27:56.477Z",
+  "codes": [
+    {
+      "code": "HONMOON",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "expiryFrom": "event",
+      "postedAt": "2026-05-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    }
+  ]
+}

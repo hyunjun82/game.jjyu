@@ -1,18 +1,31 @@
 {
   "slug": "last-war-survival",
-  "titleEn": "Last War Survival",
-  "titleKo": null,
+  "titleEn": "Last War: Survival",
+  "titleKo": "라스트 워: 서바이벌",
   "image": "https://media.pocketgamer.com/artwork/na-36488-1721228651/last-war-survival-game-screenshot-1.jpg",
-  "sourcePath": "/last-war-survival/codes/",
-  "updatedAt": "2026-09-18T23:32:04.246Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:31:00.576Z",
   "codes": [
+    {
+      "code": "LWVDAY26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410807900",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "LWDC400K",
       "reward": "300 Diamonds, 5 Hero EXP Chests, 1 Universal Legendary Hero Shard",
-      "expiry": null,
+      "expiry": "2026-02-15",
+      "postedAt": "2026-08-20",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224384153246",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

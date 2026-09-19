@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/TGED/board/detail/7899360",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-09-18T23:34:17.466Z",
+  "updatedAt": "2026-09-19T00:25:20.729Z",
   "codes": [
+    {
+      "code": "GRANDMARCH4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-08",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
     {
       "code": "GOLDRUSH4",
       "reward": "",

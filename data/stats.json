@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-09-18T23:38:03.020Z",
+  "generatedAt": "2026-09-19T00:31:30.395Z",
   "today": "2026-09-19",
-  "todayNew": 0,
+  "todayNew": 301,
   "totals": {
-    "games": 422,
-    "codes": 10678,
-    "active": 9578,
-    "expired": 1100,
-    "withExpiry": 2883
+    "games": 437,
+    "codes": 10979,
+    "active": 9667,
+    "expired": 1312,
+    "withExpiry": 3022
   },
   "newByDate": [
-    {
-      "date": "2026-08-31",
-      "count": 9770
-    },
     {
       "date": "2026-09-01",
       "count": 12
@@ -65,6 +61,10 @@
     {
       "date": "2026-09-18",
       "count": 70
+    },
+    {
+      "date": "2026-09-19",
+      "count": 301
     }
   ],
   "expiringSoon": [
@@ -77,6 +77,12 @@
     {
       "slug": "blood-of-youth",
       "code": "APPLENO1",
+      "expiry": "2026-09-20",
+      "days": 1
+    },
+    {
+      "slug": "daksa-rpg",
+      "code": "HappyDaksa61",
       "expiry": "2026-09-20",
       "days": 1
     },
@@ -141,6 +147,12 @@
       "days": 2
     },
     {
+      "slug": "fortress-saga",
+      "code": "FS3RDANNIDAY",
+      "expiry": "2026-09-21",
+      "days": 2
+    },
+    {
       "slug": "god-kkaebi",
       "code": "mjqvl8v6",
       "expiry": "2026-09-21",
@@ -155,6 +167,36 @@
     {
       "slug": "gods-demons",
       "code": "624SURPRISE",
+      "expiry": "2026-09-21",
+      "days": 2
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "2TKRKAR6YG2X",
+      "expiry": "2026-09-21",
+      "days": 2
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "LSJ9JARPZH33",
+      "expiry": "2026-09-21",
+      "days": 2
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "YAJQ2TR6ZY2P",
+      "expiry": "2026-09-21",
+      "days": 2
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "STARRAILGIFT",
+      "expiry": "2026-09-21",
+      "days": 2
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG",
       "expiry": "2026-09-21",
       "days": 2
     },
@@ -267,6 +309,12 @@
       "days": 5
     },
     {
+      "slug": "doomsday-warrior",
+      "code": "FALLFEST",
+      "expiry": "2026-09-25",
+      "days": 6
+    },
+    {
       "slug": "the-cozy-florist",
       "code": "20kYTBDM",
       "expiry": "2026-09-25",
@@ -293,6 +341,12 @@
     {
       "slug": "eternal-evolution",
       "code": "GameEE888",
+      "expiry": "2026-09-26",
+      "days": 7
+    },
+    {
+      "slug": "idle-berserker",
+      "code": "SEPSEP2803",
       "expiry": "2026-09-26",
       "days": 7
     },
@@ -417,5 +471,5 @@
       "total": 104
     }
   ],
-  "noImage": 6
+  "noImage": 9
 }

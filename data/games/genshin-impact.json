@@ -1,15 +1,58 @@
 {
   "slug": "genshin-impact",
   "titleEn": "Genshin Impact",
-  "titleKo": null,
+  "titleKo": "원신",
   "image": "https://media.pocketgamer.com/artwork/na-31024-1611513068/genshin%20impact%20ios%20android%20redeem%20code%20title.JPG",
-  "sourcePath": "/genshin-impact/codes/",
-  "updatedAt": "2026-09-18T23:31:59.876Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:30:30.592Z",
   "codes": [
+    {
+      "code": "Vesna0923",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "sourceUrl": "https://blog.naver.com/zeimer/224409648336",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "Y6JYMKV6JKSL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224411943745",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DEQGN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-09",
+      "sourceUrl": "https://blog.naver.com/eojin7550/224404320825",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "BALLETCOLLAB",
       "reward": "Primogem &times;30, Mora &times;10,000, Hero's Wit &times;3, Mystic Enhancement Ore &times;3",
       "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224411943745",
+      "firstSeen": "2026-09-06",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "YOAL3V36XHS7",
+      "reward": "Mora &times;10,000, Adventurer's Experience &times;10, Fine Enhancement Ore &times;5, Jueyun Chili Chicken &times;5, Stir-Fried Fish Noodles &times;5",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224411943745",
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-19",
       "status": "active"
@@ -23,18 +66,20 @@
       "status": "active"
     },
     {
-      "code": "YOAL3V36XHS7",
-      "reward": "Mora &times;10,000, Adventurer's Experience &times;10, Fine Enhancement Ore &times;5, Jueyun Chili Chicken &times;5, Stir-Fried Fish Noodles &times;5",
+      "code": "Snezhnaya",
+      "reward": "Mora x30,000, Hero's Wit, x3, Fine Enhancement Ore x5 (Asia only)",
       "expiry": null,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-19",
       "status": "active"
     },
     {
-      "code": "Snezhnaya",
-      "reward": "Mora x30,000, Hero's Wit, x3, Fine Enhancement Ore x5 (Asia only)",
+      "code": "2BJ64QRZ7RT8",
+      "reward": "60 Primogems, 5 Adventurer's Experience",
       "expiry": null,
-      "firstSeen": "2026-09-06",
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224411943745",
+      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "active"
     },
@@ -76,7 +121,7 @@
       "expiry": "2027-08-03",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "Odette0812",
@@ -84,15 +129,7 @@
       "expiry": "2027-08-03",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-06",
-      "status": "expired"
-    },
-    {
-      "code": "2BJ64QRZ7RT8",
-      "reward": "60 Primogems, 5 Adventurer's Experience",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-06",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "LEGEDILJKSGM",

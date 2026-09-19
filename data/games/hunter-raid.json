@@ -1,0 +1,31 @@
+{
+  "slug": "hunter-raid",
+  "titleEn": "Hunter Raid",
+  "titleKo": "헌터 키우기",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T00:30:47.127Z",
+  "codes": [
+    {
+      "code": "HUNTER2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-25",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389285848",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "HUNTER1000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-25",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389285848",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

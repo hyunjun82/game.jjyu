@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/FotressSaga/board/detail/8081731",
   "howTo": "<",
   "postCount": 6,
-  "updatedAt": "2026-09-18T23:34:04.255Z",
+  "updatedAt": "2026-09-19T00:25:08.225Z",
   "codes": [
+    {
+      "code": "FS3RDANNIDAY",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-20",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "THANKYOUFO",
       "reward": "1000 Gems",
@@ -35,15 +44,6 @@
       "status": "active"
     },
     {
-      "code": "FS3RDANNIDAY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-20",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
       "code": "JULYGIFTFS26",
       "reward": "",
       "expiry": "2026-08-07",
@@ -64,7 +64,7 @@
     {
       "code": "WATER2FS2",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-09",
       "postedAt": "2026-03-16",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
@@ -73,7 +73,7 @@
     {
       "code": "WATER4FS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-12",
       "postedAt": "2026-02-12",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",
@@ -82,7 +82,7 @@
     {
       "code": "END2NEW26",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-01-04",
       "postedAt": "2025-12-24",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-19",

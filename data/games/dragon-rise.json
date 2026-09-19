@@ -1,0 +1,87 @@
+{
+  "slug": "dragon-rise",
+  "titleEn": "Dragon Rise",
+  "titleKo": "드래곤 라이즈",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAyMjdfMTU0/MDAxNzcyMTg4NDYxMzA1.TNk5kPsA2onFG3FeiXs74HNZjIGH5okClIQhTfWgFdgg.65HB1ARRAkH9r8iMu_6bVr00DfZlLZucS0u67kCeOzMg.JPEG/Untitled_image_%282%29.jpeg",
+  "source": "naver-lounge",
+  "loungeId": "DRAGON_RISE",
+  "sourceUrl": "https://game.naver.com/lounge/DRAGON_RISE/board/detail/8128103",
+  "howTo": "게임 내 [설정] > [기타] > [쿠폰 입력] 이번 소환을 통해 영웅님이 원하시던 불멸 등급 장비가 척척 붙어주는 기분 좋은 행운이 함께하기를 GM용지기가 응원하겠습니다. 🙏✨ 기분 좋은 가을 바람처럼 득템의 기운이 가득한 한 달 되시길 바라며, 오늘도 드래곤 라이즈에서 즐거운 모험 되세요!",
+  "postCount": 8,
+  "updatedAt": "2026-09-19T00:27:52.452Z",
+  "codes": [
+    {
+      "code": "DRAGONRISE9",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "expiryFrom": "event",
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DRAGONRISE8",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-31",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONRISE7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONRISE6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-31",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONMAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONRISE4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-31",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "CANDYDR0314",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONRISE3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-28",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}
