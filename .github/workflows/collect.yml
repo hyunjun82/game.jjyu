@@ -17,7 +17,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -33,10 +33,11 @@ jobs:
       # 수집기가 조용히 죽었는지 확인하는 근거가 된다.
       # 쿠폰 내는 라운지를 찾아 목록(scripts/naver-lounges.json)에 자동으로 넣는다.
       #   1단계: 홈 "따끈따끈 이벤트 소식"의 쿠폰·사전예약 이벤트 라운지
-      #   2단계: 공식 라운지 전체(2,300개) 순회 — 신규·인기 순위부터, 한 번에 60개씩
+      #   2단계: 공식 라운지 전체(2,300개) 순회 — 신규·인기 순위부터, 한 번에 120개씩
+      #   (깃허브가 예약 실행을 실제로는 2시간에 한 번꼴로 돌려서 60개로는 한 바퀴에 3일 걸린다)
       # 실제 코드가 읽히는 라운지만 넣는다. 순회 기록은 scripts/naver-sweep.json.
       - name: 네이버 쿠폰 라운지 발굴
-        run: node scripts/discover-naver.mjs --sweep=60 | tee -a /tmp/out.log
+        run: node scripts/discover-naver.mjs --sweep=120 | tee -a /tmp/out.log
 
       # 네이버 게임 라운지 — 국내 게임 쿠폰의 주 소스.
       # 삼국지:리버스·넋나간 삼국지는 매주 금요일, 심연 삼국은 주 1~2회 코드를 올린다.
