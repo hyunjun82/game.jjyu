@@ -360,9 +360,10 @@ const STALE_DAYS = 14;
 /**
  * 이보다 먼 만료일은 파싱 사고로 본다.
  * 120일로 잡았다가 실제 장기 쿠폰(닥사RPG 160일, 혼 293일, 삼국지 공성판 372일)을 전부 만료로
- * 떨어뜨린 적이 있다. 해를 +1 하던 옛 파서 버그는 고쳤으니 3년까지는 믿는다.
+ * 떨어뜨렸고, 3년으로 올렸더니 "2029년 12월 31일까지"라고 적힌 웰컴 쿠폰(우산소녀 키우기)이
+ * 또 떨어졌다. 게임사가 적은 날짜는 그대로 믿는다. 10년은 오타(2099 등)만 거르는 선이다.
  */
-const MAX_VALID_DAYS = 365 * 3;
+const MAX_VALID_DAYS = 365 * 10;
 const isStale = (postedAt, today) =>
   !!postedAt && (Date.parse(today) - Date.parse(postedAt)) / 86400000 > STALE_DAYS;
 
@@ -392,7 +393,7 @@ function merge(prev, freshCodes) {
     const gone = old.lastSeen && old.lastSeen !== today;
     merged.push({ ...old, status: gone ? 'expired' : old.status || 'active' });
   }
-  // 게시일로부터 3년을 넘는 만료일은 믿지 않는다. 지우고 경과일 규칙으로 넘긴다.
+  // 게시일로부터 10년을 넘는 만료일은 믿지 않는다. 지우고 경과일 규칙으로 넘긴다.
   for (const c of merged) {
     // 게시일을 아는 코드에만 적용한다. 다른 수집기가 넣은 값은 건드리지 않는다.
     // 게임사가 이벤트에 직접 적은 종료일은 3년짜리도 있다(상시 쿠폰). 그건 그대로 믿는다.

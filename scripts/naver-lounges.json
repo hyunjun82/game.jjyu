@@ -601,6 +601,258 @@
       "titleKo": "닥사RPG : 파밍용사키우기",
       "titleEn": "Daksa Rpg",
       "auto": "2026-09-19"
+    },
+    {
+      "slug": "tacticsbaseball",
+      "loungeId": "tacticsbaseball",
+      "titleKo": "KBO 작전야구매니저",
+      "titleEn": "Tacticsbaseball",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "last-light-defense",
+      "loungeId": "Last_Light_Defense",
+      "titleKo": "라스트 라이트: 디펜스",
+      "titleEn": "Last Light Defense",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "9-up-probaseball",
+      "loungeId": "9UP_Probaseball",
+      "titleKo": "9UP 프로야구",
+      "titleEn": "9 Up Probaseball",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "apex-girls",
+      "loungeId": "Apex_Girls",
+      "titleKo": "에이펙스 걸스",
+      "titleEn": "Apex Girls",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "astro-defenders",
+      "loungeId": "Astro_Defenders",
+      "titleKo": "우르르 수비대",
+      "titleEn": "Astro Defenders",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "boneagain",
+      "loungeId": "boneagain",
+      "titleKo": "본 어게인: 해골히어로",
+      "titleEn": "Boneagain",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "crazy-tower",
+      "loungeId": "CrazyTower",
+      "titleKo": "미친 타워가 되었다 : 노빠꾸 RPG",
+      "titleEn": "Crazy Tower",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "dante-idle",
+      "loungeId": "Dante_Idle",
+      "titleKo": "단테키우기 : 지옥의 여정",
+      "titleEn": "Dante Idle",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "jo-jo-dream",
+      "loungeId": "JoJo_Dream",
+      "titleKo": "조조의 꿈: 디펜스의 서막",
+      "titleEn": "Jo Jo Dream",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "dragonnest-world",
+      "loungeId": "DragonnestWorld",
+      "titleKo": "드래곤네스트 월드",
+      "titleEn": "Dragonnest World",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "dungeon-hunter6-awakening",
+      "loungeId": "Dungeon_Hunter6_Awakening",
+      "titleKo": "던전헌터 6 : 각성",
+      "titleEn": "Dungeon Hunter6 Awakening",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "dynasty-warriors-overlords",
+      "loungeId": "Dynasty_Warriors_Overlords",
+      "titleKo": "진 삼국무쌍 오버로드",
+      "titleEn": "Dynasty Warriors Overlords",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "eternal-evolution",
+      "loungeId": "eternalevolution",
+      "titleKo": "이터널 에볼루션",
+      "titleEn": "Eternalevolution",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "f-class-hero",
+      "loungeId": "F_Class_Hero",
+      "titleKo": "F급 용사 키우기",
+      "titleEn": "F Class Hero",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "fortess-samguk-defense",
+      "loungeId": "FortessSamgukDefense",
+      "titleKo": "요새하는겜",
+      "titleEn": "Fortess Samguk Defense",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "ghost-hunter",
+      "loungeId": "Ghost_Hunter",
+      "titleKo": "다크 슬레이어 : 방치형 RPG",
+      "titleEn": "Ghost Hunter",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "ghostvengers",
+      "loungeId": "Ghostvengers",
+      "titleKo": "귀판오분전",
+      "titleEn": "Ghostvengers",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "grow-demon-slime",
+      "loungeId": "GrowDemonSlime",
+      "titleKo": "마왕 슬라임 키우기 : 방치형 RPG",
+      "titleEn": "Grow Demon Slime",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "loungeId": "Idle_Hero_but_Save_the_World",
+      "titleKo": "방세구 : 방치된 히어로지만 세상을 구할 수 있어",
+      "titleEn": "Idle Hero But Save The World",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "kaion-m",
+      "loungeId": "Kaion_M",
+      "titleKo": "카이온M",
+      "titleEn": "Kaion M",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "kurobas-sr",
+      "loungeId": "kurobas_sr",
+      "titleKo": "쿠로코의 농구 Street Rivals",
+      "titleEn": "Kurobas Sr",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "last-girl-core-eve",
+      "loungeId": "LastGirl_CoreEve",
+      "titleKo": "라스트걸:코어이브",
+      "titleEn": "Last Girl Core Eve",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "mini-heroes-reborn",
+      "loungeId": "MiniHeroesReborn",
+      "titleKo": "미니히어로즈: Reborn",
+      "titleEn": "Mini Heroes Reborn",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "my-goddess-idle-rpg",
+      "loungeId": "My_Goddess_Idle_RPG",
+      "titleKo": "여신 키우기: 방치형 RPG",
+      "titleEn": "My Goddess Idle Rpg",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "my-little-goddess",
+      "loungeId": "MyLittleGoddess",
+      "titleKo": "마이 리틀 가디스: 방치형 RPG",
+      "titleEn": "My Little Goddess",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "potatozombie",
+      "loungeId": "potatozombie",
+      "titleKo": "감자슉슈슉",
+      "titleEn": "Potatozombie",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "project-u",
+      "loungeId": "Project_U",
+      "titleKo": "우산소녀 키우기",
+      "titleEn": "Project U",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "shiba-quest",
+      "loungeId": "Shiba_Quest",
+      "titleKo": "시바 모험단",
+      "titleEn": "Shiba Quest",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "soul-ferryman",
+      "loungeId": "Soul_Ferryman",
+      "titleKo": "영혼 인도자：신의 이름으로",
+      "titleEn": "Soul Ferryman",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "the-warrior-returns-afk",
+      "loungeId": "The_Warrior_Returns_AFK",
+      "titleKo": "용사가 돌아왔다 키우기",
+      "titleEn": "The Warrior Returns Afk",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "three-kingdoms-idle-adventure",
+      "loungeId": "Three_kingdoms_Idle_Adventure",
+      "titleKo": "삼국지 올스타",
+      "titleEn": "Three Kingdoms Idle Adventure",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "tkic",
+      "loungeId": "tkic",
+      "titleKo": "삼국블레이드 키우기",
+      "titleEn": "Tkic",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "tokyo-ghoul-awakening",
+      "loungeId": "tokyo_ghoul_awakening",
+      "titleKo": "도쿄 구울: Awakening",
+      "titleEn": "Tokyo Ghoul Awakening",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "what-the-bug",
+      "loungeId": "what_the_bug",
+      "titleKo": "왔더벅: 미니 삼국",
+      "titleEn": "What The Bug",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "witch-girl-idle",
+      "loungeId": "Witch_Girl_Idle",
+      "titleKo": "요술사 키우기",
+      "titleEn": "Witch Girl Idle",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "lostcityzero",
+      "loungeId": "LOSTCITYZERO",
+      "titleKo": "LOSTCITY : ZERO",
+      "titleEn": "Lostcityzero",
+      "auto": "2026-09-19"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

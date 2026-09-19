@@ -1,5 +1,12 @@
 /**
- * 네이버 게임 "따끈따끈 이벤트 소식" 에서 쿠폰 내는 라운지를 자동으로 찾아 목록에 넣는다.
+ * 쿠폰 내는 라운지를 자동으로 찾아 목록에 넣는다.
+ *
+ * 1단계 — "따끈따끈 이벤트 소식": 쿠폰·사전예약 이벤트를 진행 중인 라운지(당일 반영).
+ * 2단계 — 전수 순회: 공식 라운지 전체(2,300개, 2026-09-19 실측)를 돌며 쿠폰 코드가 읽히는
+ *          라운지를 찾는다. 신규 라운지 20개·신설 라운지·인기 순위 TOP100 은 매번 먼저 보고,
+ *          나머지는 한 번에 SWEEP_PER_RUN 개씩 돌아가며 본다(30분마다 도는 워크플로 기준
+ *          하루 안에 한 바퀴). 결과는 scripts/naver-sweep.json 에 남겨 같은 라운지를
+ *          RECHECK_DAYS 안에는 다시 안 본다.
  *
  * 왜 필요한가
  *   라운지 목록(scripts/naver-lounges.json)을 손으로 늘리면 신작이 쿠폰을 내도 놓친다.
@@ -18,9 +25,17 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { collectOne, loadLounges, todayISO, fetchEvents } from './collect-naver.mjs';
 
+const B1 = 'https://comm-api.game.naver.com/nng_main/v1';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const CONF_EXTRA = path.join(ROOT, 'scripts', 'naver-lounges.json');
+const SWEEP_FILE = path.join(ROOT, 'scripts', 'naver-sweep.json');
 const GAMES_DIR = path.join(ROOT, 'data', 'games');
+
+/** 한 번에 순회할 라운지 수. --sweep=N 으로 바꾼다. 0이면 순회를 건너뛴다. */
+const SWEEP_PER_RUN = Number((process.argv.find((a) => a.startsWith('--sweep=')) || '').split('=')[1] ?? 60);
+/** 순위·신규 소스와 예전에 코드를 올린 적 있는 라운지는 2일, 나머지는 14일 안에 다시 안 본다. */
+const RECHECK_HOT_DAYS = 2;
+const RECHECK_DAYS = 14;
 
 // 사전예약·사전등록 이벤트도 후보로 본다. 코드가 실제로 읽히는 라운지만 들어가므로
 // "SNS 공유 인증" 같은 코드 없는 사전예약 이벤트는 여기서 걸러진다.
@@ -50,10 +65,100 @@ const titleEnOf = (loungeId) => slugOf(loungeId).split('-').map((w) => w[0].toUp
 /** 라운지 이름에서 부제·장르 꼬리를 뗀다. "영혼 키우기 : 두 얼굴의 소녀들" 은 그대로 둔다. */
 const cleanName = (s) => ent(s).replace(/\s*[-–]\s*(달빛을 품은 )?MMORPG$/i, '').replace(/\s+X\s+대환장 MMORPG$/i, '').trim();
 
+async function get(url, tries = 3) {
+  for (let i = 0; i < tries; i++) {
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(20000) });
+      const data = await res.json();
+      if (data && data.code === 200) return data;
+    } catch (e) { /* 재시도 */ }
+    await sleep(1000 * (i + 1));
+  }
+  return null;
+}
+
+/** 사용 가능한 코드 수 — collect-naver.mjs 의 판정 규칙과 같게. */
+function liveCount(codes, today) {
+  return codes.filter((x) => x.expiry
+    ? x.expiry >= today
+    : x.expiryFrom === 'event-open'
+      || !(x.postedAt && (Date.parse(today) - Date.parse(x.postedAt)) / 86400000 > 14)).length;
+}
+
+/**
+ * 영문 소스로 이미 들어와 있는 같은 게임이면 그 slug 를 쓴다 — 페이지가 둘로 갈리지 않게.
+ *   eternalevolution ↔ eternal-evolution, Dungeon_Hunter6_Awakening ↔ dungeon-hunter-6-awakening
+ * 하이픈·대소문자만 다른 경우만 같은 게임으로 본다. 이름이 비슷한 다른 게임을 합치면 더 나쁘다.
+ */
+function existingSlugFor(loungeId) {
+  const norm = (x) => String(x || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  const want = norm(loungeId);
+  if (!want || !fs.existsSync(GAMES_DIR)) return null;
+  for (const f of fs.readdirSync(GAMES_DIR)) {
+    if (!f.endsWith('.json')) continue;
+    const slug = f.slice(0, -5);
+    if (norm(slug) === want) return slug;
+    try {
+      const j = JSON.parse(fs.readFileSync(path.join(GAMES_DIR, f), 'utf8'));
+      if (j.titleEn && norm(j.titleEn) === want) return slug;
+    } catch (e) { /* 무시 */ }
+  }
+  return null;
+}
+
+/** 라운지 하나를 실제로 읽어 본다. 사용 가능한 코드가 있으면 목록에 넣을 항목을 돌려준다. */
+async function probe(loungeId, name, today) {
+  const slug = existingSlugFor(loungeId) || slugOf(loungeId);
+  const g = { slug, loungeId, titleKo: cleanName(name), titleEn: titleEnOf(loungeId), auto: today };
+  const r = await collectOne(g).catch((e) => ({ error: String(e.message || e) }));
+  await sleep(300);
+  if (r.error) return { g, error: r.error };
+  const live = liveCount(r.codes, today);
+  return { g, live, total: r.codes.length };
+}
+
+function loadSweep() {
+  try { return JSON.parse(fs.readFileSync(SWEEP_FILE, 'utf8')); } catch (e) { return { _설명: '라운지별 마지막 순회 결과. discover-naver.mjs 가 쓴다.', checked: {} }; }
+}
+
+/**
+ * 2단계 — 전수 순회 후보를 우선순위대로 모은다.
+ *   hot : 신규 공식 라운지 20 · 신설 라운지 · 일간/주간/월간 인기 TOP100 · 실시간 순위
+ *   all : 공식 라운지 전체 (마지막으로 본 지 오래된 순)
+ */
+async function sweepCandidates(known, sweep, today) {
+  const hot = new Map();
+  const add = (m, x) => { const id = String(x?.loungeId || x?.originalLoungeId || ''); if (id && !known.has(id.toLowerCase()) && !m.has(id)) m.set(id, ent(x.loungeName || x.loungeEnglishName || id)); };
+
+  const newest = await get(`${B1}/lounge/official?limit=20`);
+  for (const x of newest?.content?.officialLounges || []) add(hot, x);
+  const fresh = await get(`${B1}/home/newLounges`);
+  for (const x of fresh?.content?.loungeList || []) add(hot, x);
+  for (const term of ['daily', 'weekly', 'monthly']) {
+    const r = await get(`${B1}/home/popular-game/lounge/ranking?term=${term}`);
+    for (const x of r?.content?.popularGameLounge || []) add(hot, x.lounge || x);
+  }
+  const rt = await get(`${B1}/home/real-time/lounge/ranking`);
+  for (const x of rt?.content?.realTimeLounge || []) add(hot, x.lounge || x);
+
+  const all = new Map();
+  const full = await get(`${B1}/lounge/official`);
+  for (const x of full?.content?.officialLounges || []) add(all, x);
+
+  const ageDays = (id) => { const c = sweep.checked[id]; return c ? (Date.parse(today) - Date.parse(c.at)) / 86400000 : Infinity; };
+  // 예전에 코드를 올린 적이 있는 라운지(지금은 전부 만료)는 다시 올릴 가능성이 높다 — 순위 라운지처럼 자주 본다.
+  const wasCouponLounge = (id) => (sweep.checked[id]?.total || 0) > 0;
+  const due = (id) => ageDays(id) >= ((hot.has(id) || wasCouponLounge(id)) ? RECHECK_HOT_DAYS : RECHECK_DAYS);
+  const hotList = [...hot].filter(([id]) => due(id));
+  const allList = [...all].filter(([id]) => !hot.has(id) && due(id))
+    .sort((a, b) => ageDays(b[0]) - ageDays(a[0]));   // 오래 안 본 것부터
+  return { hotList, allList, hotTotal: hot.size, allTotal: all.size };
+}
+
 async function main() {
   const today = todayISO();
   const events = await fetchEvents();
-  if (!events.length) { console.log('[discover] 이벤트 피드 응답 없음 — 건너뜀'); console.log('DISCOVER_ADDED=0'); return; }
+  if (!events.length) console.log('[discover] 이벤트 피드 응답 없음 — 1단계 건너뜀');
 
   const known = new Set(loadLounges().map((g) => String(g.loungeId).toLowerCase()));
   const cand = new Map();
@@ -69,22 +174,36 @@ async function main() {
     cand.get(id).titles.push(title);
   }
 
-  console.log(`[discover] 이벤트 ${events.length}건 · 쿠폰 이벤트 진행 중인 신규 라운지 후보 ${cand.size}개`);
+  console.log(`[discover] 1단계 — 이벤트 ${events.length}건 · 쿠폰·사전예약 이벤트 진행 중인 신규 라운지 후보 ${cand.size}개`);
   const added = [];
+  const sweep = loadSweep();
+  const mark = (id, r) => { sweep.checked[id] = { at: today, ...(r.error ? { error: r.error } : { live: r.live, total: r.total }) }; };
+
   for (const c of cand.values()) {
-    const slug = slugOf(c.loungeId);
-    const g = { slug, loungeId: c.loungeId, titleKo: c.name, titleEn: titleEnOf(c.loungeId), auto: today };
-    const r = await collectOne(g).catch((e) => ({ error: String(e.message || e) }));
-    await sleep(400);
+    const r = await probe(c.loungeId, c.name, today);
+    mark(c.loungeId, r);
     if (r.error) { console.log(`  - ${c.name} (${c.loungeId}): ${r.error}`); continue; }
-    // collect-naver.mjs 의 판정 규칙과 같게: 만료일이 있으면 그 날짜, 없으면 게시 후 14일.
-    const live = r.codes.filter((x) => x.expiry
-      ? x.expiry >= today
-      : x.expiryFrom === 'event-open'
-        || !(x.postedAt && (Date.parse(today) - Date.parse(x.postedAt)) / 86400000 > 14)).length;
-    if (!live) { console.log(`  - ${c.name}: 코드 ${r.codes.length}개 전부 만료 — 보류`); continue; }
-    added.push(g);
-    console.log(`  + ${c.name} (${c.loungeId}) → /${slug}/ · 코드 ${r.codes.length}개(사용가능 ${live}) · 근거: ${c.titles[0].slice(0, 50)}`);
+    if (!r.live) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+    added.push(r.g); known.add(c.loungeId.toLowerCase());
+    console.log(`  + ${c.name} (${c.loungeId}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 근거: ${c.titles[0].slice(0, 50)}`);
+  }
+
+  // 2단계 — 전수 순회
+  if (SWEEP_PER_RUN > 0) {
+    const { hotList, allList, hotTotal, allTotal } = await sweepCandidates(known, sweep, today);
+    // 신규·순위 라운지가 앞, 전체 목록이 뒤. 한 번에 SWEEP_PER_RUN 개까지만 — 넘치면 다음 실행이 이어서 본다.
+    const queue = [...hotList, ...allList].slice(0, SWEEP_PER_RUN);
+    console.log(`[discover] 2단계 — 신규·순위 라운지 ${hotTotal}개(볼 것 ${hotList.length}) · 전체 ${allTotal}개(안 본 지 ${RECHECK_DAYS}일 넘은 것 ${allList.length}) · 이번에 ${queue.length}개`);
+    let n = 0;
+    for (const [id, name] of queue) {
+      const r = await probe(id, name, today);
+      mark(id, r);
+      n++;
+      if (r.error || !r.live) continue;
+      added.push(r.g); known.add(id.toLowerCase());
+      console.log(`  + ${cleanName(name)} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 순회에서 발견`);
+    }
+    console.log(`[discover] 2단계 — ${n}개 확인`);
   }
 
   if (added.length) {
@@ -95,6 +214,7 @@ async function main() {
   } else {
     console.log('[discover] 추가할 라운지 없음');
   }
+  fs.writeFileSync(SWEEP_FILE, JSON.stringify(sweep, null, 1) + '\n');
   fs.mkdirSync(GAMES_DIR, { recursive: true });
   console.log(`DISCOVER_ADDED=${added.length}`);
 }
