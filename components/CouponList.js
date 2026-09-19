@@ -60,6 +60,7 @@ function CodeRow({ item, locked, onReveal, revealing, secondsLeft, revealed }) {
         <code className={`code-text${hidden ? ' is-blurred' : ''}`}>
           {hidden ? 'XXXXXXXX' : item.code}
         </code>
+        {item.tag ? <span className="code-tag">{item.tag}</span> : null}
         {item.reward ? <p className="code-reward">{item.reward}</p> : null}
       </div>
 
