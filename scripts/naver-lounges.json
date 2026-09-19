@@ -517,6 +517,90 @@
       "loungeId": "NBABW2026",
       "titleKo": "NBA 바스켓볼 월드 2026",
       "titleEn": "NBA Basketball World 2026"
+    },
+    {
+      "slug": "doomsday-warrior",
+      "loungeId": "Doomsday_Warrior",
+      "titleKo": "라스트 소녀 전사",
+      "titleEn": "Doomsday Warrior",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "idle-berserker",
+      "loungeId": "IDLE_Berserker",
+      "titleKo": "광전사 키우기",
+      "titleEn": "Idle Berserker",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "raising-souls",
+      "loungeId": "Raising_Souls",
+      "titleKo": "영혼 키우기 : 두 얼굴의 소녀들",
+      "titleEn": "Raising Souls",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "ygsodae",
+      "loungeId": "ygsodae",
+      "titleKo": "요괴잡이소대",
+      "titleEn": "Ygsodae",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "dragon-rise",
+      "loungeId": "DRAGON_RISE",
+      "titleKo": "드래곤 라이즈",
+      "titleEn": "Dragon Rise",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "horn",
+      "loungeId": "horn",
+      "titleKo": "혼(Horn)",
+      "titleEn": "Horn",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "honmoon",
+      "loungeId": "honmoon",
+      "titleKo": "혼문",
+      "titleEn": "Honmoon",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "infinite-immortal-path",
+      "loungeId": "InfiniteImmortalPath",
+      "titleKo": "황제의 검을 떨궜다",
+      "titleEn": "Infinite Immortal Path",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "naman-dragon",
+      "loungeId": "Naman_Dragon",
+      "titleKo": "나만없어 드래곤",
+      "titleEn": "Naman Dragon",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "kingdomssiege",
+      "loungeId": "kingdomssiege",
+      "titleKo": "삼국지 공성판",
+      "titleEn": "Kingdomssiege",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "bellator-m",
+      "loungeId": "BellatorM",
+      "titleKo": "벨라토르M: 불멸의 검",
+      "titleEn": "Bellator M",
+      "auto": "2026-09-19"
+    },
+    {
+      "slug": "daksa-rpg",
+      "loungeId": "Daksa_RPG",
+      "titleKo": "닥사RPG : 파밍용사키우기",
+      "titleEn": "Daksa Rpg",
+      "auto": "2026-09-19"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

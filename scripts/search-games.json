@@ -1,22 +1,132 @@
 {
-  "_설명": "네이버 게임 라운지 쿠폰 게시판이 회원 전용(40310)이거나 아예 없는 게임. 네이버 블로그 검색으로 보완한다.",
+  "_설명": "네이버 게임 라운지 쿠폰 게시판이 회원 전용(40310)이거나 아예 없는 게임. 네이버 블로그 검색으로 보완한다. 호요버스(원신·붕스·젠존제)·명조·화이트아웃처럼 라운지에 안 올리는 대형 게임도 여기서 잡는다.",
   "_원칙": "지난 쿠폰은 담지 않는다. 30일 넘은 글은 건너뛴다. 코드마다 출처 URL 을 남긴다.",
   "games": [
-    { "slug": "yulgang-return",        "titleKo": "열혈강호: 귀환",        "titleEn": "Yulgang: Return" },
-    { "slug": "cat-hero",              "titleKo": "캣 히어로",            "titleEn": "Cat Hero" },
-    { "slug": "pixel-hero",            "titleKo": "픽셀 히어로",          "titleEn": "Pixel Hero" },
-    { "slug": "hero-clash",            "titleKo": "히어로 클래시",         "titleEn": "Hero Clash" },
-    { "slug": "todays-flower",         "titleKo": "오늘의 꽃",            "titleEn": "Today's Flower" },
-    { "slug": "ensemble-stars",        "titleKo": "앙상블스타즈",          "titleEn": "Ensemble Stars!!" },
-    { "slug": "stalzone",              "titleKo": "스탈존",              "titleEn": "STALZONE" },
-    { "slug": "blood-of-youth",        "titleKo": "소년가행",             "titleEn": "The Blood of Youth" },
-    { "slug": "furry-fighters-idle",   "titleKo": "냥찍 히어로즈",         "titleEn": "Furry Fighters Idle RPG" },
-    { "slug": "the-cozy-florist",      "titleKo": "더 코지 플로리스트",     "titleEn": "The Cozy Florist" },
-    { "slug": "heart-of-valor",        "titleKo": "부족 또 전쟁",          "titleEn": "Heart of Valor" },
-    { "slug": "city-demon-hunters",    "titleKo": "시티 데몬헌터즈",        "titleEn": "City Demon Hunters" },
-    { "slug": "mir2-undead",           "titleKo": "미르2: 언데드",         "titleEn": "The Legend of Mir2: Undead" },
-    { "slug": "p2-rebirth",            "titleKo": "희비전 리버스",          "titleEn": "P2 Rebirth" },
-    { "slug": "bow-master",            "titleKo": "신궁 키우기",           "titleEn": "Bow Master" },
-    { "slug": "sabuk-ice-kingdom",     "titleKo": "사북: 아이스 킹덤",      "titleEn": "Sabuk: Ice Kingdom" }
-  ]
+    {
+      "slug": "yulgang-return",
+      "titleKo": "열혈강호: 귀환",
+      "titleEn": "Yulgang: Return"
+    },
+    {
+      "slug": "cat-hero",
+      "titleKo": "캣 히어로",
+      "titleEn": "Cat Hero"
+    },
+    {
+      "slug": "pixel-hero",
+      "titleKo": "픽셀 히어로",
+      "titleEn": "Pixel Hero"
+    },
+    {
+      "slug": "hero-clash",
+      "titleKo": "히어로 클래시",
+      "titleEn": "Hero Clash"
+    },
+    {
+      "slug": "todays-flower",
+      "titleKo": "오늘의 꽃",
+      "titleEn": "Today's Flower"
+    },
+    {
+      "slug": "ensemble-stars",
+      "titleKo": "앙상블스타즈",
+      "titleEn": "Ensemble Stars!!"
+    },
+    {
+      "slug": "stalzone",
+      "titleKo": "스탈존",
+      "titleEn": "STALZONE"
+    },
+    {
+      "slug": "blood-of-youth",
+      "titleKo": "소년가행",
+      "titleEn": "The Blood of Youth"
+    },
+    {
+      "slug": "furry-fighters-idle",
+      "titleKo": "냥찍 히어로즈",
+      "titleEn": "Furry Fighters Idle RPG"
+    },
+    {
+      "slug": "the-cozy-florist",
+      "titleKo": "더 코지 플로리스트",
+      "titleEn": "The Cozy Florist"
+    },
+    {
+      "slug": "heart-of-valor",
+      "titleKo": "부족 또 전쟁",
+      "titleEn": "Heart of Valor"
+    },
+    {
+      "slug": "city-demon-hunters",
+      "titleKo": "시티 데몬헌터즈",
+      "titleEn": "City Demon Hunters"
+    },
+    {
+      "slug": "mir2-undead",
+      "titleKo": "미르2: 언데드",
+      "titleEn": "The Legend of Mir2: Undead"
+    },
+    {
+      "slug": "p2-rebirth",
+      "titleKo": "희비전 리버스",
+      "titleEn": "P2 Rebirth"
+    },
+    {
+      "slug": "bow-master",
+      "titleKo": "신궁 키우기",
+      "titleEn": "Bow Master"
+    },
+    {
+      "slug": "sabuk-ice-kingdom",
+      "titleKo": "사북: 아이스 킹덤",
+      "titleEn": "Sabuk: Ice Kingdom"
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "titleKo": "승리의 여신: 니케",
+      "titleEn": "Goddess of Victory: NIKKE"
+    },
+    {
+      "slug": "wuthering-waves",
+      "titleKo": "명조: 워더링 웨이브",
+      "titleEn": "Wuthering Waves"
+    },
+    {
+      "slug": "zenless-zone-zero",
+      "titleKo": "젠레스 존 제로",
+      "titleEn": "Zenless Zone Zero"
+    },
+    {
+      "slug": "genshin-impact",
+      "titleKo": "원신",
+      "titleEn": "Genshin Impact"
+    },
+    {
+      "slug": "honkai-star-rail",
+      "titleKo": "붕괴: 스타레일",
+      "titleEn": "Honkai: Star Rail"
+    },
+    {
+      "slug": "hunter-raid",
+      "titleKo": "헌터 키우기",
+      "titleEn": "Hunter Raid"
+    },
+    {
+      "slug": "solo-leveling-arise",
+      "titleKo": "나 혼자만 레벨업: 어라이즈",
+      "titleEn": "Solo Leveling: ARISE"
+    },
+    {
+      "slug": "last-war-survival",
+      "titleKo": "라스트 워: 서바이벌",
+      "titleEn": "Last War: Survival"
+    },
+    {
+      "slug": "whiteout-survival",
+      "titleKo": "화이트아웃 서바이벌",
+      "titleEn": "Whiteout Survival"
+    }
+  ],
+  "_제외": "메이플스토리·마비노기 모바일·로스트아크·던전앤파이터·아가타 키우기·라그나로크 오리진 클래식·세븐나이츠 키우기 — 2026-09-18 실측 결과 쿠폰 코드를 안 쓰는 게임이라 뺐다."
 }

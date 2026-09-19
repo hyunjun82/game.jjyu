@@ -30,7 +30,7 @@ const CONF = path.join(ROOT, 'data', 'naver-lounges.json');
 // 늘릴 때는 여기에 올리고, data/ 쪽은 기존 항목을 남겨 둔 채 합친다(loungeId 기준 중복 제거).
 const CONF_EXTRA = path.join(ROOT, 'scripts', 'naver-lounges.json');
 
-function loadLounges() {
+export function loadLounges() {
   const read = (f) => { try { return JSON.parse(fs.readFileSync(f, 'utf8')).lounges || []; } catch (e) { return []; } };
   const seen = new Set();
   const out = [];
@@ -58,6 +58,50 @@ async function get(url, tries = 4) {
   return null;
 }
 
+/**
+ * 홈 "따끈따끈 이벤트 소식" 피드 — 모든 공식 라운지가 올린 "진행 중" 이벤트 목록.
+ * 게임사가 이벤트마다 시작·종료일을 직접 적어 두므로, 본문에 만료일이 없는 쿠폰은
+ * 이 종료일을 만료일로 쓴다. 2026-09-19 실측: 255건, 그중 쿠폰 이벤트 26건.
+ * 실패해도 수집은 계속한다(만료일만 못 붙을 뿐).
+ */
+let EVENTS_P = null;
+export function fetchEvents() {
+  if (EVENTS_P) return EVENTS_P;
+  EVENTS_P = (async () => {
+    const all = [];
+    for (let p = 1; p <= 5; p++) {
+      const r = await get(`${B1}/home/game-company-events?pageNo=${p}&limit=150&direction=NEXT&pagingType=PAGE_NO`);
+      const d = r?.content?.data || [];
+      if (!d.length) break;
+      all.push(...d);
+      if (all.length >= (r.content.totalCount || 0)) break;
+      await sleep(400);
+    }
+    return all;
+  })();
+  return EVENTS_P;
+}
+/**
+ * feedId → { end, open, loungeId, title }.
+ *   end  : 'YYYY-MM-DD' 종료일(없으면 null)
+ *   open : 종료일 없이 "진행 중"으로 걸려 있는 이벤트 — 게임사가 끝내기 전까지 상시 쿠폰이다.
+ */
+const EVENT_TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤/;
+async function eventIndex() {
+  const m = new Map();
+  for (const e of await fetchEvents()) {
+    if (!e.feedId) continue;
+    const end = String(e.eventEndDate || '').slice(0, 10);
+    m.set(Number(e.feedId), {
+      end: /^\d{4}-\d{2}-\d{2}$/.test(end) ? end : null,
+      open: !/^\d{4}-\d{2}-\d{2}$/.test(end),
+      loungeId: String(e.loungeId || e.originalLoungeId || ''),
+      title: ent(e.feedTitle),
+    });
+  }
+  return m;
+}
+
 const ent = (s) => String(s || '')
   .replace(/&#x([0-9a-f]+);/gi, (m, h) => String.fromCodePoint(parseInt(h, 16)))
   .replace(/&#(\d+);/g, (m, d) => String.fromCodePoint(Number(d)))
@@ -65,7 +109,7 @@ const ent = (s) => String(s || '')
   .replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
 
 /** 스마트에디터 JSON 이면 nodes[].value 를 모으고, HTML 이면 태그를 턴다. */
-function bodyText(raw) {
+export function bodyText(raw) {
   if (!raw) return '';
   if (raw.trimStart().startsWith('{')) {
     const out = [];
@@ -102,10 +146,11 @@ const STOP = new Set([
   'TEAM','MVP','SVP','CHECK','ENTER','INPUT','OPEN','FREE','MOBILE','ONLINE',
   'VERSION','PLAYSTORE','APPSTORE','ONLY','WITH','FROM','THIS','THAT','YOUR',
   'MORE','TIME','DATE','NAME','POINT','POINTS','BONUS','SHARE','LIKE','FOLLOW',
+  'COMING','SOON','TBA','TBD','NONE','NULL','TRUE','FALSE','ERROR','LOGIN','LOGOUT',
 ]);
 
 /** 코드처럼 생겼는지. 숫자만·너무 짧은 것·흔한 영단어는 버린다. */
-function isSaneCode(c) {
+function isSaneCode(c, labeled = false) {
   if (!c) return false;
   if (c.length < 5 || c.length > 20) return false;
   if (!/^[A-Za-z0-9]+$/.test(c)) return false;
@@ -117,6 +162,9 @@ function isSaneCode(c) {
   // 소문자만으로 된 코드도 실제로 쓴다 — evernightopen, yulgangnextopen, joywhoa …
   // 영단어가 딸려 들어올 위험은 STOP 목록과 "라벨 근처" 규칙이 막는다.
   const allLower = c.length >= 6 && /^[a-z]+$/.test(c);
+  // "쿠폰코드: Artemis" 처럼 라벨 바로 뒤에 붙은 토큰은 대소문자 섞여도 코드다.
+  // 라벨 없이 굴러다니는 영단어(Google, Update)는 여전히 버린다.
+  if (labeled && /^[A-Za-z]+$/.test(c)) return true;
   return hasDigit || allUpper || allLower;              // 311k93 / MZF1334 / ZPXKLU / evernightopen
 }
 
@@ -137,7 +185,8 @@ const iso = (y, mo, dy) =>
     ? new Date(Date.UTC(y, mo - 1, dy)).toISOString().slice(0, 10)
     : null;
 
-function parseExpiry(text, postISO) {
+/** @param allowRange "기간: A ~ B" 표기를 받을지. 줄 단위로만 켠다 — 글 전체에서 집으면 다른 이벤트 기간이 섞인다. */
+function parseExpiry(text, postISO, allowRange = false) {
   // 글이 올라온 해를 기준으로 삼는다. 오늘 기준으로 잡으면 6월 글의 "7월 3일"이 내년으로 튄다.
   const base = postISO ? new Date(postISO + 'T00:00:00Z') : new Date();
   let last = null;
@@ -157,12 +206,26 @@ function parseExpiry(text, postISO) {
 
   // "유효 기간: ~ 9월 11일", "만료 시간 - [9/5 04:59]" 처럼 까지가 없는 표기는 라벨로 받는다.
   const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일))[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})/);
-  if (!lab) return null;
-  const mon = Number(lab[1]), day = Number(lab[2]);
-  let year = base.getUTCFullYear();
-  if (mon < base.getUTCMonth() + 1 - 6) year += 1;
-  return iso(year, mon, day);
+  if (lab) {
+    const mon = Number(lab[1]), day = Number(lab[2]);
+    let year = base.getUTCFullYear();
+    if (mon < base.getUTCMonth() + 1 - 6) year += 1;
+    return iso(year, mon, day);
+  }
+
+  // "기간: 9.18 ~ 9.25 17:00" / "기간: 2026년 9월 18일(금) ~ 2026년 9월 22일(화)"
+  // 물결 뒤의 날짜가 끝날이다. "기간" 이 앞에 있을 때만 받는다 — 본문에 그냥 적힌 범위는 점검 시간일 수 있다.
+  const rng = allowRange && text.match(RE_RANGE);
+  if (rng) {
+    const mon = Number(rng[2]), day = Number(rng[3]);
+    let year = rng[1] ? Number(rng[1]) : base.getUTCFullYear();
+    if (!rng[1] && mon < base.getUTCMonth() + 1 - 6) year += 1;
+    return iso(year, mon, day);
+  }
+  return null;
 }
+const RE_DATE1 = String.raw`(?:\d{4}\s*[년./]\s*)?\d{1,2}\s*[./월]\s*\d{1,2}\s*일?\s*(?:\([^)]{0,3}\))?\s*(?:\d{1,2}:\d{2})?`;
+const RE_RANGE = new RegExp(String.raw`기간[^0-9\n]{0,6}(?:` + RE_DATE1 + String.raw`\s*)?[~～∼]\s*(?:(\d{4})\s*[년./]\s*)?(\d{1,2})\s*[./월]\s*(\d{1,2})`);
 
 /**
  * 본문에서 { code, reward, expiry } 목록을 뽑는다.
@@ -183,30 +246,53 @@ function tokenOf(line) {
   const m = line.match(/^([A-Za-z0-9]{5,20})\s*(.*)$/);
   if (!m) return '';
   const rest = m[2].trim();
-  if (rest && !/^[(（[]/.test(rest)) return '';   // "TOP 3 팀" 같은 줄은 버린다
+  // 뒤에 괄호나 장식(<<, «, ✨)만 붙은 건 허용한다. "TOP 3 팀" 처럼 글자가 이어지면 버린다.
+  if (rest && !/^[(（[]/.test(rest) && /^[A-Za-z0-9가-힣]/u.test(rest)) return '';
   return m[1];
 }
 
-function parseCodes(text, postISO) {
+export function parseCodes(text, postISO) {
   const lines = text.split('\n').map((s) => s.trim().replace(BULLET, '').trim()).filter(Boolean);
   const labelAt = lines.map((l) => LABEL_RE.test(l));
   const codeAt = lines.map((l) => { const t = tokenOf(l); return !!t && isSaneCode(t); });
   const postExpiry = parseExpiry(text, postISO);
   const found = new Map();
 
-  const push = (code, expiry) => {
-    if (!isSaneCode(code)) return;
+  const push = (code, expiry, labeled = false) => {
+    if (!isSaneCode(code, labeled)) return;
     const key = code.toUpperCase();
     if (!found.has(key)) {
       found.set(key, { code, reward: '', expiry: expiry || postExpiry, postedAt: postISO || null });
     }
   };
 
-  // (가) 인라인
-  for (const line of lines) {
-    const inline = line.match(/(?:코드|번호|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i);
-    if (inline) push(inline[1], null);
+  // (가) 인라인 — "쿠폰 코드: 311k93" / "쿠폰코드: FALLFEST ✨ 기간: 9.18 ~ 9.25" / "쿠폰 >> FIRSTSNOW2025 << 코드"
+  const inlineOf = (line) => line.match(/(?:코드|번호|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i)
+    || line.match(/(?:코드|번호|CDK)\s*[:：]\s*([A-Za-z0-9]{5,20})(?![A-Za-z0-9])/i)
+    || (LABEL_RE.test(line) && line.match(/(?:>>|»|【|「|\[)\s*([A-Za-z0-9]{5,20})\s*(?:<<|«|】|」|\])/));
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const inline = inlineOf(line);
+    if (!inline) continue;
+    const labeled = /쿠폰\s*코드\s*[:：]\s*[A-Za-z0-9]/i.test(line);
+    // 같은 줄, 없으면 바로 아래 두 줄에 적힌 "기간 ~ 9.18" 이 그 코드만의 만료일이다.
+    // 글 전체 기준 날짜로 떨어지면 첫 코드의 기간을 둘째 코드가 물려받는다(주말 쿠폰 사고).
+    let expiry = parseExpiry(line, postISO, true);
+    for (let k = i + 1; !expiry && k <= i + 2 && k < lines.length; k++) {
+      if (inlineOf(lines[k])) break;                       // 다음 코드의 기간은 안 본다
+      expiry = parseExpiry(lines[k], postISO, true);
+    }
+    push(inline[1], expiry, labeled);
   }
+
+  // 코드 줄의 만료일: 그 줄(뒤 괄호), 없으면 다음 코드 줄 전까지 최대 3줄 안의 "까지" 날짜.
+  // 표로 올리는 발행처는 코드 | 보상 | 조건 | 기간 순으로 셀이 한 줄씩 떨어진다(별별 히어로).
+  const expiryAt = (k) => {
+    let e = parseExpiry(lines[k], postISO, true);
+    for (let n = k + 1; !e && n <= k + 3 && n < lines.length && !codeAt[n]; n++) e = parseExpiry(lines[n], postISO, true);
+    return e;
+  };
+  const accepted = new Set();
 
   // (나)(다) 연속 코드 덩어리 — 덩어리 앞 3줄 또는 뒤 3줄에 라벨이 있어야 인정
   for (let i = 0; i < lines.length; ) {
@@ -216,12 +302,26 @@ function parseCodes(text, postISO) {
     const near = labelAt.slice(Math.max(0, i - 3), i).some(Boolean)
       || labelAt.slice(j + 1, j + 4).some(Boolean);
     if (near && j - i + 1 <= 40) {
-      for (let k = i; k <= j; k++) {
-        // 줄 뒤 괄호에 만료일이 붙어 오는 발행처가 있다. 있으면 그 코드만의 만료일로 쓴다.
-        push(tokenOf(lines[k]), parseExpiry(lines[k], postISO));
-      }
+      for (let k = i; k <= j; k++) { push(tokenOf(lines[k]), expiryAt(k)); accepted.add(k); }
     }
     i = j + 1;
+  }
+
+  // (라) 표의 다음 행 — 인정된 코드 줄에서 12줄 안에 또 코드 줄이 오면 같은 표의 다음 행이다.
+  // 라벨은 표 머리에만 있어서 둘째 행부터는 ±3줄 규칙에 걸리지 않는다. 행을 따라 내려간다.
+  // (테이밍 마스터 2 는 한 행이 코드·기간·보상 7~9줄이다.)
+  // 사이에 문장(감사합니다·참고·방법…)이 끼면 표가 끝난 것이다 — 본문의 잡동사니 토큰을 막는다.
+  const SENTENCE = /습니다|세요|입니다|감사|안내|방법|주의|참고|유의|바랍|문의|공지/;
+  for (let i = 0; i < lines.length; i++) {
+    if (!codeAt[i] || accepted.has(i)) continue;
+    let prev = -1;
+    for (let k = i - 1; k >= Math.max(0, i - 12); k--) if (accepted.has(k)) { prev = k; break; }
+    if (prev < 0) continue;
+    let broken = false;
+    for (let k = prev + 1; k < i; k++) if (SENTENCE.test(lines[k]) || labelAt[k]) { broken = true; break; }
+    if (broken) continue;
+    push(tokenOf(lines[i]), expiryAt(i));
+    accepted.add(i);
   }
   return [...found.values()];
 }
@@ -248,15 +348,19 @@ function parseHowTo(text) {
  * collect.mjs·verify.mjs 는 KST 인데 여기만 UTC 를 쓰면, 한국 시간 자정~오전 9시 사이에
  * 만료 처리가 하루 늦어진다. 그 사이 발행 점검이 "만료일이 지났는데 사용가능"으로 잡아 실패한다.
  */
-const todayISO = () =>
+export const todayISO = () =>
   new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit',
   }).format(new Date());
 
 /** 만료일 표기가 없는 코드의 수명. 주간 발행이 표준이라 2주면 충분히 넉넉하다. */
 const STALE_DAYS = 14;
-/** 이보다 먼 만료일은 파싱 사고로 본다. */
-const MAX_VALID_DAYS = 120;
+/**
+ * 이보다 먼 만료일은 파싱 사고로 본다.
+ * 120일로 잡았다가 실제 장기 쿠폰(닥사RPG 160일, 혼 293일, 삼국지 공성판 372일)을 전부 만료로
+ * 떨어뜨린 적이 있다. 해를 +1 하던 옛 파서 버그는 고쳤으니 3년까지는 믿는다.
+ */
+const MAX_VALID_DAYS = 365 * 3;
 const isStale = (postedAt, today) =>
   !!postedAt && (Date.parse(today) - Date.parse(postedAt)) / 86400000 > STALE_DAYS;
 
@@ -273,6 +377,7 @@ function merge(prev, freshCodes) {
       code: c.code,
       reward: c.reward || old?.reward || '',
       expiry: c.expiry || old?.expiry || null,
+      expiryFrom: c.expiryFrom || (c.expiry ? null : old?.expiryFrom) || null,
       postedAt: c.postedAt || old?.postedAt || null,
       firstSeen: old?.firstSeen || today,
       lastSeen: today,
@@ -284,17 +389,21 @@ function merge(prev, freshCodes) {
     const gone = old.lastSeen && old.lastSeen !== today;
     merged.push({ ...old, status: gone ? 'expired' : old.status || 'active' });
   }
-  // 게시일로부터 120일을 넘는 만료일은 믿지 않는다. 실측상 정상값은 전부 30일 이내였고,
-  // 예전 파서가 해를 +1 해 버린 잔재(384~396일)만 이 구간에 있었다. 지우고 경과일 규칙으로 넘긴다.
+  // 게시일로부터 3년을 넘는 만료일은 믿지 않는다. 지우고 경과일 규칙으로 넘긴다.
   for (const c of merged) {
     // 게시일을 아는 코드에만 적용한다. 다른 수집기가 넣은 값은 건드리지 않는다.
-    if (c.expiry && c.postedAt) {
+    // 게임사가 이벤트에 직접 적은 종료일은 3년짜리도 있다(상시 쿠폰). 그건 그대로 믿는다.
+    if (c.expiry && c.postedAt && c.expiryFrom !== 'event') {
       const gap = (Date.parse(c.expiry) - Date.parse(c.postedAt)) / 86400000;
       if (gap > MAX_VALID_DAYS) c.expiry = null;
     }
+    if (!c.expiryFrom) delete c.expiryFrom;
   }
   for (const c of merged) {
     if (c.expiry) c.status = c.expiry < today ? 'expired' : 'active';
+    // 게임사가 종료일 없이 "진행 중"으로 걸어 둔 이벤트의 코드는 게시 후 14일 규칙을 안 탄다.
+    // 이벤트가 내려가면 다음 수집에서 fresh 에 안 잡혀 expired 로 내려간다.
+    else if (c.expiryFrom === 'event-open' && c.status === 'active') c.status = 'active';
     else if (isStale(c.postedAt, today)) c.status = 'expired';
   }
 
@@ -317,7 +426,7 @@ const SECTION_RE = /이벤트|공지|혜택/;
 const TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
 
-async function collectOne(g) {
+export async function collectOne(g) {
   const boardRes = await get(`${B1}/lounge/${g.loungeId}/board`);
   if (!boardRes) return { ...g, error: '보드 조회 실패' };
 
@@ -334,6 +443,25 @@ async function collectOne(g) {
 
   const codes = [];
   let howTo = '', image = null, total = 0, latest = null, sourceUrl = null, locked = false;
+  const events = await eventIndex();
+  const seenFeed = new Set();
+
+  /** 이벤트 종료일을 만료일로. 종료일 없는 진행 중 이벤트는 상시 쿠폰으로 표시한다. */
+  const applyEvent = (got, feedId) => {
+    const ev = events.get(Number(feedId));
+    if (!ev) return;
+    for (const c of got) {
+      if (c.expiry) continue;
+      if (ev.end) { c.expiry = ev.end; c.expiryFrom = 'event'; }
+      else if (ev.open) { c.expiryFrom = 'event-open'; }
+    }
+  };
+  /** 같은 코드가 두 글에 있으면 만료 근거가 있는 쪽을 남긴다. */
+  const addCode = (c) => {
+    const i = codes.findIndex((x) => x.code.toUpperCase() === c.code.toUpperCase());
+    if (i < 0) { codes.push(c); return; }
+    if (!codes[i].expiry && !codes[i].expiryFrom && (c.expiry || c.expiryFrom)) codes[i] = c;
+  };
 
   for (const b of boards) {
     const titleOnly = !primary.includes(b);
@@ -355,8 +483,13 @@ async function collectOne(g) {
       const d = String(item.feed.createdDate || '');
       const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
       const got = parseCodes(text, iso);
+      seenFeed.add(Number(item.feed.feedId));
       if (!got.length) continue;
       if (titleOnly) total += 1;
+
+      // 본문에 만료일이 없으면 게임사가 이벤트에 적어 둔 종료일을 쓴다.
+      // "12/31까지" 같은 안내 없이 "이벤트 기간" 만 적는 게임이 많다.
+      applyEvent(got, item.feed.feedId);
 
       if (!latest || (iso && iso > latest)) {
         latest = iso;
@@ -364,8 +497,37 @@ async function collectOne(g) {
         if (!howTo) howTo = parseHowTo(text);
       }
       if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
-      for (const c of got) if (!codes.some((x) => x.code.toUpperCase() === c.code.toUpperCase())) codes.push(c);
+      for (const c of got) addCode(c);
     }
+  }
+
+  // 게시판의 최신 30건 밖으로 밀려난 진행 중 쿠폰 이벤트 — "따끈따끈 이벤트 소식"에 걸려 있는
+  // 글은 feedId 로 직접 읽는다. 3년짜리 상시 쿠폰(론칭 기념 등)이 여기서 나온다.
+  for (const [feedId, ev] of events) {
+    if (ev.loungeId.toLowerCase() !== String(g.loungeId).toLowerCase()) continue;
+    if (!EVENT_TITLE_RE.test(ev.title) || seenFeed.has(feedId)) continue;
+    if (STORE_RE.test(ev.title) && !/쿠폰\s*코드|선물\s*코드/.test(ev.title)) continue;
+    const res = await get(`${B1}/community/lounge/${g.loungeId}/feed/${feedId}`);
+    await sleep(300);
+    seenFeed.add(feedId);
+    const item = res?.content;
+    if (!item?.feed) { locked = locked || !res; continue; }
+    if (item.user?.userRoleCode === 'common_user') continue;
+    const text = bodyText(item.feed.contents);
+    if (!text || STORE_RE.test(text.slice(0, 400))) continue;
+    const d = String(item.feed.createdDate || '');
+    const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
+    const got = parseCodes(text, iso);
+    if (!got.length) continue;
+    total += 1;
+    applyEvent(got, feedId);
+    if (!latest || (iso && iso > latest)) {
+      latest = iso;
+      sourceUrl = item.feedLink?.pc || `https://game.naver.com/lounge/${g.loungeId}/board/detail/${feedId}`;
+      if (!howTo) howTo = parseHowTo(text);
+    }
+    if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
+    for (const c of got) addCode(c);
   }
 
   if (!codes.length) return { ...g, error: locked ? '보드 잠김(가입 필요)' : '코드 없음', total };
@@ -419,4 +581,7 @@ async function main() {
   console.log(`NAVER_NEW=${newCodes}`);
 }
 
-main().catch((e) => { console.error(e); process.exit(1); });
+// discover-naver.mjs 가 collectOne 을 가져다 쓸 수 있도록, 직접 실행했을 때만 main 을 돈다.
+if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) {
+  main().catch((e) => { console.error(e); process.exit(1); });
+}
