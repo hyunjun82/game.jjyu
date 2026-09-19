@@ -12,6 +12,22 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 const FREE_COUNT = 2;
 const REVEAL_SECONDS = 5;
 
+/**
+ * 만료 표기.
+ *   올해 만료        → "~12.31"
+ *   내년 이후 만료   → "~2028.11.13"  (연도를 빼면 이미 지난 날짜로 읽힌다)
+ *   종료일 없는 상시 → "종료일 미정"  (게임사가 이벤트를 끝내기 전까지 쓸 수 있는 코드)
+ */
+function expiryLabel(item) {
+  if (item.expiry) {
+    const [y, m, d] = item.expiry.split('-');
+    const thisYear = String(new Date().getFullYear());
+    return y === thisYear ? `~${m}.${d}` : `~${y}.${m}.${d}`;
+  }
+  if (item.expiryFrom === 'event-open') return '종료일 미정';
+  return '';
+}
+
 function CodeRow({ item, locked, onReveal, revealing, secondsLeft, revealed }) {
   const [copied, setCopied] = useState(false);
   const timer = useRef(null);
@@ -48,7 +64,7 @@ function CodeRow({ item, locked, onReveal, revealing, secondsLeft, revealed }) {
       </div>
 
       <div className="code-actions">
-        {item.expiry ? <span className="code-expiry">~{item.expiry.slice(5).replace('-', '.')}</span> : null}
+        {expiryLabel(item) ? <span className="code-expiry">{expiryLabel(item)}</span> : null}
         {hidden ? (
           <button type="button" className="btn btn-reveal" onClick={onReveal} disabled={revealing}>
             {revealing ? `${secondsLeft}초` : '보기'}
