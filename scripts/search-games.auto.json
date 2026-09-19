@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-19T14:31:57.780Z",
+  "generatedAt": "2026-09-19T17:30:51.226Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -33,40 +33,16 @@
       "titleEn": "Inferno Nine"
     },
     {
-      "slug": "officequeen",
-      "loungeId": "officequeen",
-      "titleKo": "오피스 퀸 키우기",
-      "titleEn": "Officequeen"
-    },
-    {
-      "slug": "rellion",
-      "loungeId": "rellion",
-      "titleKo": "렐리온: NPC들의 생존기",
-      "titleEn": "Rellion"
-    },
-    {
-      "slug": "peachland",
-      "loungeId": "peachland",
-      "titleKo": "산너머 도원마을",
-      "titleEn": "Peachland"
-    },
-    {
       "slug": "racingmaster",
       "loungeId": "racingmaster",
       "titleKo": "레이싱 마스터",
       "titleEn": "Racingmaster"
     },
     {
-      "slug": "tree-of-savior-neverland",
-      "loungeId": "Tree_Of_Savior_Neverland",
-      "titleKo": "트리 오브 세이비어: 네버랜드",
-      "titleEn": "Tree Of Savior Neverland"
-    },
-    {
-      "slug": "pokemon-go",
-      "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
-      "titleEn": "Pokemon Go"
+      "slug": "officequeen",
+      "loungeId": "officequeen",
+      "titleKo": "오피스 퀸 키우기",
+      "titleEn": "Officequeen"
     },
     {
       "slug": "tales-runner-rpg",
@@ -75,16 +51,34 @@
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "ghostsoulm",
-      "loungeId": "ghostsoulm",
-      "titleKo": "귀혼M",
-      "titleEn": "Ghostsoulm"
+      "slug": "peachland",
+      "loungeId": "peachland",
+      "titleKo": "산너머 도원마을",
+      "titleEn": "Peachland"
+    },
+    {
+      "slug": "isekai-fantasy-life",
+      "loungeId": "IsekaiFantasyLife",
+      "titleKo": "이세계 판타지 라이프",
+      "titleEn": "Isekai Fantasy Life"
+    },
+    {
+      "slug": "rellion",
+      "loungeId": "rellion",
+      "titleKo": "렐리온: NPC들의 생존기",
+      "titleEn": "Rellion"
     },
     {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights Endfield"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
     },
     {
       "slug": "toysamguk",
@@ -117,10 +111,10 @@
       "titleEn": "Ragnarok Origin Classic Korean"
     },
     {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
+      "slug": "tree-of-savior-neverland",
+      "loungeId": "Tree_Of_Savior_Neverland",
+      "titleKo": "트리 오브 세이비어: 네버랜드",
+      "titleEn": "Tree Of Savior Neverland"
     },
     {
       "slug": "torchlight-infinite",
@@ -139,6 +133,18 @@
       "loungeId": "kingshipfight",
       "titleKo": "삼국지: 패업",
       "titleEn": "Kingshipfight"
+    },
+    {
+      "slug": "ghostsoulm",
+      "loungeId": "ghostsoulm",
+      "titleKo": "귀혼M",
+      "titleEn": "Ghostsoulm"
+    },
+    {
+      "slug": "hunter-world",
+      "loungeId": "Hunter_World",
+      "titleKo": "헌터W",
+      "titleEn": "Hunter World"
     }
   ]
 }

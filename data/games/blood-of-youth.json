@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-19T14:39:34.692Z",
+  "updatedAt": "2026-09-19T17:39:17.704Z",
   "codes": [
     {
       "code": "GANGHO73186426",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-15",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-15",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-09-15",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "status": "active"
     },
     {
@@ -44,17 +44,7 @@
       "postedAt": "2026-09-09",
       "sourceUrl": "https://blog.naver.com/atothez1992/224405744628",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-19",
-      "status": "active"
-    },
-    {
-      "code": "PIZZA26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-10",
-      "sourceUrl": "https://blog.naver.com/audtls2580/224406929179",
-      "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "status": "active"
     },
     {
@@ -64,7 +54,7 @@
       "postedAt": "2026-09-08",
       "sourceUrl": "https://blog.naver.com/jinjioni/224404801118",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "status": "expired"
     },
     {
@@ -73,6 +63,16 @@
       "expiry": "2026-09-18",
       "postedAt": "2026-09-09",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224406371047",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
+    {
+      "code": "PIZZA26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "sourceUrl": "https://blog.naver.com/audtls2580/224406929179",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-19",
       "status": "expired"

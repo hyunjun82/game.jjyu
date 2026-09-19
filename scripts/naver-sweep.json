@@ -6,44 +6,44 @@
    "error": "쿠폰 보드 없음"
   },
   "1003bk": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "보드 잠김(가입 필요)"
   },
   "METIN_Prelude_to_Doom": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "코드 없음"
   },
   "Drago": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "코드 없음"
   },
   "Shakugan": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "코드 없음"
   },
   "HEAVENHELLS": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "보드 잠김(가입 필요)"
   },
   "The_Apothecary_Diaries_Palace_Chronicles": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "코드 없음"
   },
   "HIGH_SCHOOL_OF_THE_DEAD_DAY0": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "코드 없음"
   },
   "Headless_Knight_Idle": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "live": 0,
    "total": 1
   },
   "the_new_gate": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "error": "코드 없음"
   },
   "Demon_IDLE": {
-   "at": "2026-09-19",
+   "at": "2026-09-20",
    "live": 0,
    "total": 11
   },
@@ -9879,6 +9879,82 @@
   },
   "Rune_Factory5": {
    "at": "2026-09-19",
+   "error": "쿠폰 보드 없음"
+  },
+  "WIND_CAT_SOLITAIRE": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Huglings": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Squad_Busters": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Pocket_Squire_Arena": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Primal_Planet": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Hero_God_Sword": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Ghost_Frequency": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Peggle_Nights": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Ruins_of_The_Titan": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "FOAMSTARS": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Part_Time_UFO": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Wildcat_Gun_Machine": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Battle_of_Arrow_for_kakao": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Wooparoo_mountain_for_kakao": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Gatekeeper": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Glitchpunk": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Halo_Spartan_Strike": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Rolling_Star": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "SIONIC_LOVE": {
+   "at": "2026-09-20",
    "error": "쿠폰 보드 없음"
   }
  }
