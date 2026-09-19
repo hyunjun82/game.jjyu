@@ -1,0 +1,31 @@
+{
+  "slug": "oops-tomb-raid",
+  "titleEn": "Oops Tomb Raid",
+  "titleKo": "어쩌다 도굴",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T11:36:34.197Z",
+  "codes": [
+    {
+      "code": "GOLD888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-23",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224387526019",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "GOLD666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-23",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224387526019",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

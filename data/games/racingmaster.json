@@ -1,0 +1,51 @@
+{
+  "slug": "racingmaster",
+  "titleEn": "Racingmaster",
+  "titleKo": "레이싱 마스터",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T11:35:34.131Z",
+  "codes": [
+    {
+      "code": "RM500WIN",
+      "reward": "",
+      "expiry": "2026-09-16",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224396308658",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "RACE200KR",
+      "reward": "",
+      "expiry": "2026-09-16",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224396308658",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "RMLOUNGE11",
+      "reward": "",
+      "expiry": "2026-09-16",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224396308658",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "RMSPEED100",
+      "reward": "",
+      "expiry": "2026-09-16",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224396308658",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

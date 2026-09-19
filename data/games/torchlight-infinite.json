@@ -1,10 +1,11 @@
 {
   "slug": "torchlight-infinite",
   "titleEn": "Torchlight Infinite",
-  "titleKo": null,
+  "titleKo": "토치라이트: 인피니트",
   "image": "https://media.pocketgamer.com/artwork/na-33666-1760612429/torchlight-infinite-code-window.jpg",
-  "sourcePath": "/torchlight-infinite/codes/",
-  "updatedAt": "2026-09-19T06:27:49.664Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T11:36:26.489Z",
   "codes": [
     {
       "code": "torchcon2026",
@@ -29,6 +30,16 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "active"
+    },
+    {
+      "code": "TLNIGHT",
+      "reward": "",
+      "expiry": "2026-09-11",
+      "postedAt": "2026-08-25",
+      "sourceUrl": "https://blog.naver.com/xehgzpzrzislmy/224389299237",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
     }
   ]
 }

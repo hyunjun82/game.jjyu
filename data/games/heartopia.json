@@ -1,10 +1,11 @@
 {
   "slug": "heartopia",
   "titleEn": "Heartopia",
-  "titleKo": null,
+  "titleKo": "두근두근타운",
   "image": "https://media.pocketgamer.com/artwork/na-37825-1767889075/heartopia-launch-keyvis.jpg",
-  "sourcePath": "/heartopia/codes/",
-  "updatedAt": "2026-09-19T06:27:36.269Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T11:36:13.982Z",
   "codes": [
     {
       "code": "p3m7r5q9k2",
@@ -437,6 +438,26 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "active"
+    },
+    {
+      "code": "a7m4q9r3k6n2",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-22",
+      "sourceUrl": "https://blog.naver.com/vnamalcytvgvs/224386848902",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "m9a3q7k2r5n4",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-22",
+      "sourceUrl": "https://blog.naver.com/vnamalcytvgvs/224386848902",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
     }
   ]
 }

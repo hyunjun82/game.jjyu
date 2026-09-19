@@ -1,0 +1,31 @@
+{
+  "slug": "gear-paw-defenders",
+  "titleEn": "Gear Paw Defenders",
+  "titleKo": "기어몬: 타워 디펜스",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T11:36:17.022Z",
+  "codes": [
+    {
+      "code": "GEARMON2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-22",
+      "sourceUrl": "https://blog.naver.com/jjuba424/224386369389",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMEGEAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-22",
+      "sourceUrl": "https://blog.naver.com/jjuba424/224386369389",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

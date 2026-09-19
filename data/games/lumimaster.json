@@ -1,0 +1,41 @@
+{
+  "slug": "lumimaster",
+  "titleEn": "Lumimaster",
+  "titleKo": "루미마스터",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-19T11:35:08.415Z",
+  "codes": [
+    {
+      "code": "GIFT100",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-19",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "LUMIMASTER2026",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-19",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "CATCHLUMI",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-19",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    }
+  ]
+}
