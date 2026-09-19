@@ -99,6 +99,7 @@ export default function GamePage({ params }) {
           <h1>{g.name} 쿠폰 코드</h1>
           <p className="game-sub">
             {month} 기준 사용 가능한 코드 <b>{g.active.length}개</b>
+            {g.unverified.length > 0 && <> · 미확인 {g.unverified.length}개</>}
             {g.expired.length > 0 && <> · 만료 {g.expired.length}개</>}
           </p>
           {updated && <p className="game-updated">업데이트 {updated}</p>}
@@ -137,6 +138,21 @@ export default function GamePage({ params }) {
           ))}
         </div>
       </section>
+
+      {g.unverified.length > 0 && (
+        <section className="block">
+          <h2 className="block-title muted">확인 안 된 쿠폰 <span className="count">{g.unverified.length}</span></h2>
+          <p className="empty">출처와 만료일이 확인되지 않은 코드입니다. 이미 만료됐을 수 있으니 안 되면 넘어가세요.</p>
+          <ul className="expired-list">
+            {g.unverified.slice(0, 60).map((c) => (
+              <li key={c.code}>
+                <code>{c.code}</code>
+                {c.reward ? <span>{c.reward}</span> : null}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {g.expired.length > 0 && (
         <section className="block">
