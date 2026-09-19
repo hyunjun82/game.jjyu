@@ -171,6 +171,7 @@ main, .site-header, .site-footer { position: relative; z-index: 1; }
 .code-reward { margin: 2px 0 0; font-size: 12px; color: var(--tx-2); line-height: 1.45; }
 .code-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
 .code-expiry { font-size: 11px; color: #ffc24d; background: rgba(255, 194, 77, 0.1); border-radius: 5px; padding: 2px 6px; white-space: nowrap; }
+.code-tag { display: inline-block; margin-left: 8px; vertical-align: 2px; font-size: 10.5px; font-weight: 700; letter-spacing: 0.01em; color: var(--acc-2); background: rgba(41, 211, 196, 0.12); border-radius: 5px; padding: 2px 6px; white-space: nowrap; }
 
 .btn {
   border: 1px solid var(--line); background: var(--panel-2); color: var(--tx);
