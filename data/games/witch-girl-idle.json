@@ -1,0 +1,77 @@
+{
+  "slug": "witch-girl-idle",
+  "titleEn": "Witch Girl Idle",
+  "titleKo": "요술사 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAxMjZfNTMg/MDAxNzY5Mzg5OTM3NTUw.onL0mXk2e1rwYiSaetYKMi5f3fNX6h6Zck3O5tFbZTIg.Y7u-h-cXHBVd8FI3-wpm5T2TcWQ3VDBneh0vSVhkSDQg.JPEG/SE-73e13a32-1e97-4163-8d97-80fb37202021.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Witch_Girl_Idle",
+  "sourceUrl": "https://game.naver.com/lounge/Witch_Girl_Idle/board/detail/7625547",
+  "howTo": "",
+  "postCount": 11,
+  "updatedAt": "2026-09-19T03:52:48.942Z",
+  "codes": [
+    {
+      "code": "FORO260214",
+      "reward": "",
+      "expiry": "2027-02-21",
+      "postedAt": "2026-02-23",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "NEWCO260214",
+      "reward": "",
+      "expiry": "2027-02-01",
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "2CHILDDAY6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "2FOOLSDAY6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "SPRING2026",
+      "reward": "",
+      "expiry": "2026-04-25",
+      "postedAt": "2026-03-26",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "KOR0301",
+      "reward": "",
+      "expiry": "2026-03-14",
+      "postedAt": "2026-03-02",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "GDR0302",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-02",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

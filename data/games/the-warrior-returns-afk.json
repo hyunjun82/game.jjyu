@@ -1,0 +1,194 @@
+{
+  "slug": "the-warrior-returns-afk",
+  "titleEn": "The Warrior Returns Afk",
+  "titleKo": "용사가 돌아왔다 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA0MTdfMjI4/MDAxNzc2NDExOTM5NjM0.Lj5cJPlI3yboa4QXBCxRLv9-P1_iznG-K1S-913Y8xsg.LB9IXysbrP1AJI3zfw3hS38pIXCz_YR0tsrSxXb7-WIg.PNG/%EB%9D%A0%EB%B0%B0%EB%84%88_%EC%9D%B4%EB%B2%A4%ED%8A%B8_1400_308.png",
+  "source": "naver-lounge",
+  "loungeId": "The_Warrior_Returns_AFK",
+  "sourceUrl": "https://game.naver.com/lounge/The_Warrior_Returns_AFK/board/detail/8200853",
+  "howTo": "게임을 실행하고 로그인해 주세요. 우측 상단 [메뉴] → [계정] 화면으로 이동해주세요.",
+  "postCount": 14,
+  "updatedAt": "2026-09-19T03:52:34.205Z",
+  "codes": [
+    {
+      "code": "WRGBCONGRATS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "WRGBGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "WRGBTOGETHER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "WRMEETJIWON2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "WRMEETJIWON",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "WRGETDURANKAL",
+      "reward": "",
+      "expiry": "2026-09-14",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRMEETDEMONLORD",
+      "reward": "",
+      "expiry": "2026-09-07",
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRGETCROWN",
+      "reward": "",
+      "expiry": "2026-08-26",
+      "postedAt": "2026-08-20",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRMEETIVAN",
+      "reward": "",
+      "expiry": "2026-08-19",
+      "postedAt": "2026-08-12",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WR100DAYGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WR100DAYTHX",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WR100TOGETHER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WR100DAYTOGETHER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRGETMONOCLE",
+      "reward": "",
+      "expiry": "2026-08-12",
+      "postedAt": "2026-08-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRMEETMARIE",
+      "reward": "",
+      "expiry": "2026-08-05",
+      "postedAt": "2026-07-29",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRBLOOM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRHAPPY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-04",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRFUNNY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-03",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRSPRING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-02",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WRMAY2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

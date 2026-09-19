@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Daksa_RPG/board/detail/8126767",
   "howTo": "",
   "postCount": 331,
-  "updatedAt": "2026-09-19T01:48:56.537Z",
+  "updatedAt": "2026-09-19T03:51:15.510Z",
   "codes": [
+    {
+      "code": "Daksa3Year",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "HappyDaksa69",
       "reward": "",
@@ -92,118 +101,109 @@
       "status": "active"
     },
     {
-      "code": "Daksa3Year",
+      "code": "Daksa2Year",
       "reward": "",
-      "expiry": null,
+      "expiry": "2027-02-07",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
-      "status": "expired"
+      "status": "active"
+    },
+    {
+      "code": "Daksa1Year",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "IAMNEWBIE",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "Daksa1Month",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "BaedonJJang123",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DeveloperNote3",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DeveloperNote4",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DeveloperNote5",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DaksaRPG100Day",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DeveloperNote6",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "DeveloperNote7",
+      "reward": "",
+      "expiry": "2027-02-07",
+      "postedAt": "2023-09-25",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
     },
     {
       "code": "HappyDaksa60",
       "reward": "",
       "expiry": "2026-09-06",
       "postedAt": "2026-03-20",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "Daksa2Year",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "Daksa1Year",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "IAMNEWBIE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "Daksa1Month",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "BaedonJJang123",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "DeveloperNote3",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "DeveloperNote4",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "DeveloperNote5",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "DaksaRPG100Day",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "DeveloperNote6",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "DeveloperNote7",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19",
       "status": "expired"

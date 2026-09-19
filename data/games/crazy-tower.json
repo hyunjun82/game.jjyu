@@ -1,0 +1,41 @@
+{
+  "slug": "crazy-tower",
+  "titleEn": "Crazy Tower",
+  "titleKo": "미친 타워가 되었다 : 노빠꾸 RPG",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjUw/MDAxNzY1ODQ3OTQxMTM0.FmyAxZGBXXFPGlm2l6-8T5nMTY4ZiwTVet0JyFPk7UEg.Ix_5U6VUzaAdQRbGKo9h_gSsQPX5eohJNtU3GsIMfMMg.JPEG/300_300_02.jpg",
+  "source": "naver-lounge",
+  "loungeId": "CrazyTower",
+  "sourceUrl": "https://game.naver.com/lounge/CrazyTower/board/detail/8188693",
+  "howTo": "좌측 상단 프로필 → 개인정보 화면 → 교환권 클릭 이것으로 준비된 출시 1주년 기념 쿠폰 3종이 모두 공개되었습니다! 🎁 아직 사용하지 않은 쿠폰이 있다면 9월 20일까지 잊지 말고 모두 등록해 주세요!",
+  "postCount": 3,
+  "updatedAt": "2026-09-19T03:51:31.396Z",
+  "codes": [
+    {
+      "code": "RISEAGAIN5",
+      "reward": "",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "AIMHIGH7",
+      "reward": "",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-09-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "BREAKLIMIT9",
+      "reward": "",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    }
+  ]
+}

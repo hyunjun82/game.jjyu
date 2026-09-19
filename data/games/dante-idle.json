@@ -1,0 +1,104 @@
+{
+  "slug": "dante-idle",
+  "titleEn": "Dante Idle",
+  "titleKo": "단테키우기 : 지옥의 여정",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTExMThfMTU1/MDAxNzYzNDMzMzgzNDg2.GYRTUg7yxun5EQ-EwAySotfIzcB7sA_pibwoZBOO900g.JvcvGCEW7O3tzJO4Ps3RJxqWOzp7YQdwVWD4RnY_l-Ig.PNG/300_300_-_ChopChopGames.png",
+  "source": "naver-lounge",
+  "loungeId": "Dante_Idle",
+  "sourceUrl": "https://game.naver.com/lounge/Dante_Idle/board/detail/8065114",
+  "howTo": "게임 접속 후 중앙의 채팅 창 선택 (스테이지 3-1에서 채팅 기능이 해금됩니다.) 채팅창에 /쿠폰 KOREA815 or /coupon KOREA815",
+  "postCount": 8,
+  "updatedAt": "2026-09-19T03:51:33.490Z",
+  "codes": [
+    {
+      "code": "KOREA815",
+      "reward": "",
+      "expiry": "2027-08-15",
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEDANTE",
+      "reward": "",
+      "expiry": "2026-08-01",
+      "postedAt": "2026-07-03",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "GUILDSECOND",
+      "reward": "",
+      "expiry": "2026-07-01",
+      "postedAt": "2026-06-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE0610",
+      "reward": "",
+      "expiry": "2026-07-01",
+      "postedAt": "2026-06-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE143",
+      "reward": "",
+      "expiry": "2025-05-04",
+      "postedAt": "2026-05-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMEGUILD",
+      "reward": "",
+      "expiry": "2025-05-04",
+      "postedAt": "2026-05-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE137",
+      "reward": "",
+      "expiry": "2025-04-04",
+      "postedAt": "2026-03-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE139",
+      "reward": "",
+      "expiry": "2025-04-04",
+      "postedAt": "2026-03-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "LUCKYPOCKET",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYPOCKET",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    }
+  ]
+}

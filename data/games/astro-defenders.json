@@ -1,0 +1,41 @@
+{
+  "slug": "astro-defenders",
+  "titleEn": "Astro Defenders",
+  "titleKo": "우르르 수비대",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAyMjNfMzAw/MDAxNzcxODQ2Nzg3NDA5.4wgofA0HZByfCQ3egT2I5q877LcKri-POCl9nM9GFkwg.r5_kUewxKSAzaaMQcJABzb0aicxoIK3SZ1Jpwhb8N4Ig.PNG/image.png",
+  "source": "naver-lounge",
+  "loungeId": "Astro_Defenders",
+  "sourceUrl": "https://game.naver.com/lounge/Astro_Defenders/board/detail/7770786",
+  "howTo": "게임 메인 화면 좌측 상단의 [프로필 이미지]를 터치하여 [설정] 창을 열어주세요. 설정 창 하단의 노란색 [커뮤니티] 버튼을 터치해 주세요. (계정 연동을 하지 않은 게스트 계정은 커뮤니티 버튼을 터치하셔도 쿠폰을 입력할 수 있는 글로벌 허브 페이지에 진입하실 수 없습니다) 게스트 계정을 사용 중이신 분께서는 아래 두 번째 방법인 외부 링크를 통해 간편하게 쿠폰을 사용하실 수 있으니, 아래 항목을 확인 부탁드립니다) 3. 우르르 수비대(Astro Defenders) 글로벌 허브 페이지에 진입하게 됩니다.",
+  "postCount": 3,
+  "updatedAt": "2026-09-19T03:51:27.203Z",
+  "codes": [
+    {
+      "code": "TASTYLUNCH",
+      "reward": "",
+      "expiry": "2027-02-28",
+      "postedAt": "2026-06-09",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "REALLYSORRY",
+      "reward": "",
+      "expiry": "2026-12-13",
+      "postedAt": "2026-05-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
+    {
+      "code": "GALAXYGUARD",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-05-07",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    }
+  ]
+}

@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Blade_idle/board/detail/7263499",
   "howTo": "- [AOS/구글] 게임 내 우측 상단 [메뉴] → [쿠폰]에서 쿠폰 번호를 입력하시면 보상을 획득하실 수 있습니다. - [iOS/애플] 게임 내 채팅창에 /coupon 쿠폰 번호를 입력하시면 쿠폰 사용이 가능합니다. : 예시) /coupon H4PPYIVYRT ​",
   "postCount": 6,
-  "updatedAt": "2026-09-19T01:47:44.189Z",
+  "updatedAt": "2026-09-19T03:50:07.282Z",
   "codes": [
+    {
+      "code": "20GDBYE24",
+      "reward": "Diamond 250,000, Ancient Insignia Fragment 20, Each Dungeon Sweep Ticket 24 (expires January 31st)",
+      "expiry": "2027-01-31",
+      "postedAt": "2022-04-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-19",
+      "status": "active"
+    },
     {
       "code": "2REDHORSSO",
       "reward": "500,000 Diamonds, a [Magic] Resource Choice Chest, 50 of each type of 7 Mine Tickets",
@@ -145,15 +154,6 @@
     {
       "code": "GRANDOPEN",
       "reward": "Rewards: 2000 Diamonds, 1 Enchant Stone Dungeon Ticket, 2x Normal Skill Book Chest",
-      "expiry": null,
-      "postedAt": "2022-04-22",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
-      "code": "20GDBYE24",
-      "reward": "Diamond 250,000, Ancient Insignia Fragment 20, Each Dungeon Sweep Ticket 24 (expires January 31st)",
       "expiry": null,
       "postedAt": "2022-04-22",
       "firstSeen": "2026-08-31",
