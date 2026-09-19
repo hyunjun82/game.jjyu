@@ -86,7 +86,9 @@ export function fetchEvents() {
  *   end  : 'YYYY-MM-DD' 종료일(없으면 null)
  *   open : 종료일 없이 "진행 중"으로 걸려 있는 이벤트 — 게임사가 끝내기 전까지 상시 쿠폰이다.
  */
-const EVENT_TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤/;
+/** 사전예약·사전등록 글도 본다 — 출시 전 게임이 "선물 코드"를 여기에 올린다(소드 앤 프론티아·혼문·요괴잡이소대). */
+const PREREG_RE = /사전\s*(?:예약|등록)/;
+const EVENT_TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 async function eventIndex() {
   const m = new Map();
   for (const e of await fetchEvents()) {
@@ -134,7 +136,7 @@ export function bodyText(raw) {
   return ent(t).split('\n').map((s) => s.replace(/\s+/g, ' ').trim()).filter(Boolean).join('\n');
 }
 
-const BOARD_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트/;
+const BOARD_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트|사전\s*(?:예약|등록)/;
 const LABEL_RE = /쿠폰|리딤|기프트|선물\s*코드|코드|번호|CDK/i;
 const STOP = new Set([
   'GOOGLE','PLAY','STORE','APPLE','ONESTORE','GALAXY','SAMSUNG','ANDROID','IOS','APK',
@@ -378,6 +380,7 @@ function merge(prev, freshCodes) {
       reward: c.reward || old?.reward || '',
       expiry: c.expiry || old?.expiry || null,
       expiryFrom: c.expiryFrom || (c.expiry ? null : old?.expiryFrom) || null,
+      tag: c.tag || old?.tag || null,
       postedAt: c.postedAt || old?.postedAt || null,
       firstSeen: old?.firstSeen || today,
       lastSeen: today,
@@ -398,6 +401,7 @@ function merge(prev, freshCodes) {
       if (gap > MAX_VALID_DAYS) c.expiry = null;
     }
     if (!c.expiryFrom) delete c.expiryFrom;
+    if (!c.tag) delete c.tag;
   }
   for (const c of merged) {
     if (c.expiry) c.status = c.expiry < today ? 'expired' : 'active';
@@ -423,7 +427,7 @@ function merge(prev, freshCodes) {
  *      원스토어·구글플레이 "할인 쿠폰" 글은 게임 리딤 코드가 아니라서 반드시 뺀다.
  */
 const SECTION_RE = /이벤트|공지|혜택/;
-const TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤/;
+const TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
 
 export async function collectOne(g) {
@@ -497,6 +501,8 @@ export async function collectOne(g) {
         if (!howTo) howTo = parseHowTo(text);
       }
       if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
+      // 사전예약 글의 코드는 "사전예약 보상"으로 표시한다 — 출시 후에도 쓰는 코드가 많다(소드 앤 프론티아 2027-06-30까지).
+      if (PREREG_RE.test(ent(title))) for (const c of got) c.tag = '사전예약';
       for (const c of got) addCode(c);
     }
   }
@@ -527,6 +533,7 @@ export async function collectOne(g) {
       if (!howTo) howTo = parseHowTo(text);
     }
     if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
+    if (PREREG_RE.test(ev.title) || PREREG_RE.test(ent(item.feed.title))) for (const c of got) c.tag = '사전예약';
     for (const c of got) addCode(c);
   }
 

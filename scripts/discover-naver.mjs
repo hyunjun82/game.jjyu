@@ -22,7 +22,9 @@ const ROOT = path.resolve(import.meta.dirname, '..');
 const CONF_EXTRA = path.join(ROOT, 'scripts', 'naver-lounges.json');
 const GAMES_DIR = path.join(ROOT, 'data', 'games');
 
-const COUPON_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤/;
+// 사전예약·사전등록 이벤트도 후보로 본다. 코드가 실제로 읽히는 라운지만 들어가므로
+// "SNS 공유 인증" 같은 코드 없는 사전예약 이벤트는 여기서 걸러진다.
+const COUPON_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
