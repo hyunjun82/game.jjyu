@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-19T11:33:56.974Z",
+  "updatedAt": "2026-09-19T14:40:30.842Z",
   "codes": [
     {
       "code": "F5F4D3B2A2",
@@ -256,6 +256,16 @@
       "status": "active"
     },
     {
+      "code": "THEANSWER",
+      "reward": "",
+      "expiry": "2026-08-10",
+      "postedAt": "2026-08-21",
+      "sourceUrl": "https://blog.naver.com/htjeyahruyeqb/224386052815",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19",
+      "status": "expired"
+    },
+    {
       "code": "HEARTOFSWORD",
       "reward": "",
       "expiry": "2026-08-19",
@@ -276,21 +286,11 @@
       "status": "expired"
     },
     {
-      "code": "THEANSWER",
-      "reward": "",
-      "expiry": "2026-08-19",
-      "postedAt": "2026-08-20",
-      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224384882441",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "expired"
-    },
-    {
       "code": "WUTHERINGGIFT",
       "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
       "expiry": "2026-08-19",
-      "postedAt": "2026-08-20",
-      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224384882441",
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/smart_inside99/224403099295",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-19",
       "status": "expired"

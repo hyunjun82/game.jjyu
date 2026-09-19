@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-19T11:36:49.074Z",
+  "generatedAt": "2026-09-19T14:43:08.482Z",
   "today": "2026-09-19",
-  "todayNew": 1073,
+  "todayNew": 1078,
   "totals": {
     "games": 480,
-    "codes": 11751,
-    "active": 9816,
-    "expired": 1935,
-    "withExpiry": 3600
+    "codes": 11756,
+    "active": 9811,
+    "expired": 1945,
+    "withExpiry": 3601
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-19",
-      "count": 1073
+      "count": 1078
     }
   ],
   "expiringSoon": [
@@ -243,30 +243,6 @@
       "days": 2
     },
     {
-      "slug": "honkai-star-rail",
-      "code": "2TKRKAR6YG2X",
-      "expiry": "2026-09-21",
-      "days": 2
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "LSJ9JARPZH33",
-      "expiry": "2026-09-21",
-      "days": 2
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "YAJQ2TR6ZY2P",
-      "expiry": "2026-09-21",
-      "days": 2
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "STARRAILGIFT",
-      "expiry": "2026-09-21",
-      "days": 2
-    },
-    {
       "slug": "idle-hero-but-save-the-world",
       "code": "DUQT154",
       "expiry": "2026-09-21",
@@ -367,6 +343,30 @@
       "code": "HIRUNRUN",
       "expiry": "2026-09-22",
       "days": 3
+    },
+    {
+      "slug": "survivor-io",
+      "code": "SEPDEWS",
+      "expiry": "2026-09-22",
+      "days": 3
+    },
+    {
+      "slug": "tower-of-god",
+      "code": "TOGSUMMERGIFT",
+      "expiry": "2026-09-22",
+      "days": 3
+    },
+    {
+      "slug": "what-the-bug",
+      "code": "GN65M2",
+      "expiry": "2026-09-22",
+      "days": 3
+    },
+    {
+      "slug": "call-of-antia",
+      "code": "BloodyMaria",
+      "expiry": "2026-09-23",
+      "days": 4
     }
   ],
   "topGames": [
