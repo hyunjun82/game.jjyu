@@ -11,9 +11,10 @@ export function generateMetadata({ params }) {
   const g = getGame(params.slug);
   if (!g) return {};
   const month = new Date().toLocaleDateString('ko-KR', { timeZone: 'Asia/Seoul', year: 'numeric', month: 'long' });
+  const pre = g.preReg > 0 ? ' · 사전예약 쿠폰' : '';
   return {
-    title: `${g.name} 쿠폰 코드 — ${month} 사용 가능한 코드 ${g.active.length}개`,
-    description: `${g.name} 쿠폰 코드 ${g.active.length}개를 지금 사용할 수 있습니다. 보상과 만료일, 입력 방법까지 한 번에 확인하세요.`,
+    title: `${g.name} 쿠폰 코드${pre} — ${month} 사용 가능한 코드 ${g.active.length}개`,
+    description: `${g.name} 쿠폰 코드 ${g.active.length}개를 지금 사용할 수 있습니다.${g.preReg > 0 ? ` 사전예약 보상 코드 ${g.preReg}개 포함.` : ''} 보상과 만료일, 입력 방법까지 한 번에 확인하세요.`,
     alternates: { canonical: `/${g.slug}/` },
     openGraph: {
       title: `${g.name} 쿠폰 코드 모음`,
@@ -99,6 +100,7 @@ export default function GamePage({ params }) {
           <h1>{g.name} 쿠폰 코드</h1>
           <p className="game-sub">
             {month} 기준 사용 가능한 코드 <b>{g.active.length}개</b>
+            {g.preReg > 0 && <> · 사전예약 보상 {g.preReg}개</>}
             {g.unverified.length > 0 && <> · 미확인 {g.unverified.length}개</>}
             {g.expired.length > 0 && <> · 만료 {g.expired.length}개</>}
           </p>
