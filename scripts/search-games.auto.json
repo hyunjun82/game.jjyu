@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-19T19:39:43.847Z",
+  "generatedAt": "2026-09-19T21:49:49.774Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -139,12 +139,6 @@
       "loungeId": "ghostsoulm",
       "titleKo": "귀혼M",
       "titleEn": "Ghostsoulm"
-    },
-    {
-      "slug": "raising-a-cheese-cat",
-      "loungeId": "Raising_a_cheese_cat",
-      "titleKo": "치즈냥이 키우기",
-      "titleEn": "Raising A Cheese Cat"
     }
   ]
 }

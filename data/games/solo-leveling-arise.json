@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-35281-1715117393/solo-leveling-arise-sung-jinwoo.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-19T19:48:41.073Z",
+  "updatedAt": "2026-09-19T21:58:53.940Z",
   "codes": [
     {
       "code": "NeWLIGHTBuster",
@@ -462,6 +462,26 @@
       "status": "expired"
     },
     {
+      "code": "JOOHEEARDME",
+      "reward": "",
+      "expiry": "2026-09-10",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394265486",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
+    {
+      "code": "JACKIEISTHEBEST",
+      "reward": "",
+      "expiry": "2026-09-10",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394265486",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
+    {
       "code": "K3YF0R_QNA26",
       "reward": "300 Dungeon Entry Keys, 1 Workshop of Brilliant Light Invitation, 1 Entry Code (expires September 16th)",
       "expiry": "2026-09-16",
@@ -473,22 +493,6 @@
       "code": "260825_LIV3",
       "reward": "3 Mana Power Extracts, 500 Amplification Agents, 500 Advanced Mana Crystals (expires September 16th)",
       "expiry": "2026-09-16",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
-      "code": "JOOHEEARDME",
-      "reward": "",
-      "expiry": "2026-09-10",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
-      "code": "JACKIEISTHEBEST",
-      "reward": "",
-      "expiry": "2026-09-10",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-20",
       "status": "expired"
