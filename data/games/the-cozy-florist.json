@@ -3,13 +3,36 @@
   "titleEn": "The Cozy Florist",
   "titleKo": "더 코지 플로리스트",
   "image": "https://media.pocketgamer.com/artwork/na-38283-1773397365/the-cozy-florist-header.jpg",
-  "sourcePath": "/the-cozy-florist/codes/",
-  "updatedAt": "2026-09-19T23:37:30.724Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-20T00:59:46.480Z",
   "codes": [
+    {
+      "code": "TCF2026",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/knoll0/224417212524",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "active"
+    },
     {
       "code": "20kYTBDM",
       "reward": "",
       "expiry": "2026-09-25",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/knoll0/224417212524",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-20",
+      "status": "active"
+    },
+    {
+      "code": "YTBcf10K",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/knoll0/224417212524",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-20",
       "status": "active"
@@ -248,14 +271,6 @@
       "sourceUrl": "https://blog.naver.com/ruumikong/224378432257",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-14",
-      "status": "expired"
-    },
-    {
-      "code": "YTBcf10K",
-      "reward": "",
-      "expiry": "2026-09-14",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-20",
       "status": "expired"
     },
     {

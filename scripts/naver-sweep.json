@@ -10153,6 +10153,14 @@
   "ONE_DONE": {
    "at": "2026-09-20",
    "error": "쿠폰 보드 없음"
+  },
+  "Burnstation": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "Crypto_Trading_Simulator": {
+   "at": "2026-09-20",
+   "error": "쿠폰 보드 없음"
   }
  }
 }

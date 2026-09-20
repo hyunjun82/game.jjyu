@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-19T23:51:10.110Z",
+  "generatedAt": "2026-09-20T01:03:36.895Z",
   "today": "2026-09-20",
-  "todayNew": 24,
+  "todayNew": 25,
   "totals": {
     "games": 481,
-    "codes": 11780,
-    "active": 9816,
-    "expired": 1964,
-    "withExpiry": 3612
+    "codes": 11781,
+    "active": 9827,
+    "expired": 1954,
+    "withExpiry": 3613
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-20",
-      "count": 24
+      "count": 25
     }
   ],
   "expiringSoon": [
@@ -372,7 +372,7 @@
   "topGames": [
     {
       "slug": "time-princess",
-      "active": 419,
+      "active": 420,
       "total": 423
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "slug": "call-of-antia",
-      "active": 122,
+      "active": 123,
       "total": 133
     },
     {
@@ -457,7 +457,7 @@
     },
     {
       "slug": "survivor-io",
-      "active": 99,
+      "active": 100,
       "total": 104
     },
     {
