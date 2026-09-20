@@ -15,6 +15,23 @@ export const metadata = {
   openGraph: { type: 'website', locale: 'ko_KR', siteName: SITE_NAME },
   robots: { index: true, follow: true },
   alternates: { types: { 'application/rss+xml': `${SITE_URL}/rss.xml` } },
+  // 파비콘이 없으면 구글 검색결과에 기본 지구본이 뜬다(2026-09-21 실측).
+  // 구글은 48px 이상을 요구하고 실제로는 16~20px 로 줄여 그리므로, 작게도 뭉개지지 않는
+  // 번개 한 개짜리 마크를 쓴다. ico 에 16·32·48 을 함께 넣었다.
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: '16x16 32x32 48x48', type: 'image/x-icon' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/icon-512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
+  },
+  manifest: '/site.webmanifest',
+};
+
+export const viewport = {
+  themeColor: '#0a0b10',
 };
 
 const siteJsonLd = {
