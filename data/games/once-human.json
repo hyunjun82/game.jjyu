@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-34218-1748813454/once-human-code-header.jpg",
   "sourcePath": "/once-human/codes/",
-  "updatedAt": "2026-09-20T16:31:27.901Z",
+  "updatedAt": "2026-09-20T19:05:10.818Z",
   "codes": [
     {
       "code": "ysa6pfr4hk",
@@ -253,6 +253,14 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "active"
+    },
+    {
+      "code": "OMAROTM12",
+      "reward": "1 Stardust Secret Crate, 2 Healing Syringes (expires September 10th)",
+      "expiry": "2026-09-10",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
     }
   ]
 }

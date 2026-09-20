@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-38517-1783414841/land-of-arielia-code-header.jpg",
   "sourcePath": "/land-of-arielia/codes/",
-  "updatedAt": "2026-09-20T16:31:23.259Z",
+  "updatedAt": "2026-09-20T19:05:06.744Z",
   "codes": [
     {
       "code": "AA79Uf",
@@ -77,6 +77,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "active"
+    },
+    {
+      "code": "HWNGLZ",
+      "reward": "rewards (Expires September 20th)",
+      "expiry": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
+    },
+    {
+      "code": "WONGZT",
+      "reward": "expires September 13th",
+      "expiry": "2026-09-13",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
     },
     {
       "code": "HWOKDC",

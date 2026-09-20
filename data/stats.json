@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T16:47:32.059Z",
+  "generatedAt": "2026-09-20T19:23:35.013Z",
   "today": "2026-09-21",
-  "todayNew": 3,
+  "todayNew": 25,
   "totals": {
     "games": 481,
-    "codes": 11788,
-    "active": 9820,
-    "expired": 1968,
-    "withExpiry": 3615
+    "codes": 11810,
+    "active": 9834,
+    "expired": 1976,
+    "withExpiry": 3624
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-21",
-      "count": 3
+      "count": 25
     }
   ],
   "expiringSoon": [
@@ -411,14 +411,14 @@
       "total": 187
     },
     {
+      "slug": "warhammer-40k-tacticus",
+      "active": 169,
+      "total": 169
+    },
+    {
       "slug": "shining-nikki",
       "active": 167,
       "total": 168
-    },
-    {
-      "slug": "warhammer-40k-tacticus",
-      "active": 162,
-      "total": 162
     },
     {
       "slug": "infinity-nikki",
@@ -442,8 +442,8 @@
     },
     {
       "slug": "trainstation-2-railway-empire",
-      "active": 112,
-      "total": 112
+      "active": 113,
+      "total": 113
     },
     {
       "slug": "puzzles-survival",

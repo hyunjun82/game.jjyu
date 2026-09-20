@@ -4,16 +4,8 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-33255-1724413590/mythic-heroes-featured-image.jpg",
   "sourcePath": "/mythic-heroes/codes/",
-  "updatedAt": "2026-09-20T16:31:27.605Z",
+  "updatedAt": "2026-09-20T19:05:10.531Z",
   "codes": [
-    {
-      "code": "L7F2X8P",
-      "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-21",
-      "status": "active"
-    },
     {
       "code": "MH8888",
       "reward": "20 Summon Scrolls",
@@ -621,6 +613,22 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "active"
+    },
+    {
+      "code": "L7F2X8P",
+      "reward": "",
+      "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-21",
+      "status": "active"
+    },
+    {
+      "code": "P4V7C9R",
+      "reward": "rewards (expires September 15th)",
+      "expiry": "2026-09-15",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
     },
     {
       "code": "Y2T6H8M",

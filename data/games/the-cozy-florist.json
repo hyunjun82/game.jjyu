@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-38283-1773397365/the-cozy-florist-header.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-20T16:44:21.088Z",
+  "updatedAt": "2026-09-20T19:20:07.793Z",
   "codes": [
     {
       "code": "TCF2026",
@@ -252,6 +252,14 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "active"
+    },
+    {
+      "code": "f289b0c1",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
     },
     {
       "code": "COZYNG20K",

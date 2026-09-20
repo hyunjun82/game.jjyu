@@ -4,12 +4,12 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-29200-1618786707/Lords-Mobile-Header.jpg",
   "sourcePath": "/lords-mobile/codes/",
-  "updatedAt": "2026-09-20T16:31:24.564Z",
+  "updatedAt": "2026-09-20T19:05:07.921Z",
   "codes": [
     {
       "code": "TFRACEWAY",
-      "reward": "200 Artifact Coins x1. 2,000 Energy x1. Speed Up 3h x1. Speed Up Research 3h x1. Relocator x1",
-      "expiry": null,
+      "reward": "rewards (expires September 30th)",
+      "expiry": "2026-09-30",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-21",
       "status": "active"

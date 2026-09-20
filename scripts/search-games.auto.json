@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-20T16:36:48.966Z",
+  "generatedAt": "2026-09-20T19:11:52.523Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -141,10 +141,10 @@
       "titleEn": "Ghostsoulm"
     },
     {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
+      "slug": "langrisser-sea-of-sword",
+      "loungeId": "Langrisser_Sea_of_Sword",
+      "titleKo": "랑그릿사: 검의 바다",
+      "titleEn": "Langrisser Sea Of Sword"
     }
   ]
 }
