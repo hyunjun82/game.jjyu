@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-20T01:00:34.754Z",
+  "updatedAt": "2026-09-20T01:53:52.892Z",
   "codes": [
     {
       "code": "FALLINGSANCTUM",
@@ -42,6 +42,16 @@
       "reward": "Escape from Duckov livery (expires August 19th)",
       "expiry": "2027-08-19",
       "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-20",
+      "status": "active"
+    },
+    {
+      "code": "WUTHERINGGIFT",
+      "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224411529108",
+      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-20",
       "status": "active"
     },
@@ -312,16 +322,6 @@
       "postedAt": "2026-09-02",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224398303224",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
-      "code": "WUTHERINGGIFT",
-      "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
-      "expiry": "2026-08-19",
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/smart_inside99/224403099295",
-      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-20",
       "status": "expired"
     }

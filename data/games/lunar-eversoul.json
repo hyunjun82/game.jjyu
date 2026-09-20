@@ -2,14 +2,23 @@
   "slug": "lunar-eversoul",
   "titleEn": "LUNAR: EverSoul",
   "titleKo": "LUNAR: 에버소울",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTlfNTUg/MDAxNzg3MTA3NzE2NTAz.g7IAdabQSbWDSljj_lEaX47zkaQCadmXn3AK8dh8VPwg.7aE1uycsz7Q66-r-NAW6HeIPPbKZ00Wei4FyafM4FEQg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-800x200.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTlfMjQy/MDAxNzg3MTA3OTc1ODYw.2j1FktYxGfCHlXhCMf8BnEBJ44JJok82smZeqHdoRUgg.0aCp7HnrmOtuRGD_jXcw9IbT9WtacNRya-0WQNqxY9wg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-800x200.jpg",
   "source": "naver-lounge",
   "loungeId": "LUNAR_EverSoul",
-  "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8183852",
+  "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8213835",
   "howTo": "",
-  "postCount": 1318,
-  "updatedAt": "2026-09-20T00:52:12.855Z",
+  "postCount": 1319,
+  "updatedAt": "2026-09-20T01:46:01.585Z",
   "codes": [
+    {
+      "code": "week0004",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-20",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20",
+      "status": "active"
+    },
     {
       "code": "week0333",
       "reward": "",
