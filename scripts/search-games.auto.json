@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-20T01:45:03.205Z",
+  "generatedAt": "2026-09-20T07:08:04.829Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
