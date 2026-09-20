@@ -5,8 +5,48 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-20T07:16:26.226Z",
+  "updatedAt": "2026-09-20T12:38:40.937Z",
   "codes": [
+    {
+      "code": "NIKKE1104",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
+      "status": "active"
+    },
+    {
+      "code": "NIKKEGIFT",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
+      "status": "active"
+    },
+    {
+      "code": "WAVETOYOU2026",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
+    {
+      "code": "UNBREAKABLEMEMORIES",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
     {
       "code": "PUNYQUEEN",
       "reward": "",
@@ -68,36 +108,6 @@
       "status": "expired"
     },
     {
-      "code": "WAVETOYOU2026",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-21",
-      "sourceUrl": "https://blog.naver.com/htjeyahruyeqb/224386000210",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
-      "code": "UNBREAKABLEMEMORIES",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-21",
-      "sourceUrl": "https://blog.naver.com/htjeyahruyeqb/224386000210",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
-      "code": "NIKKE1104",
-      "reward": "",
-      "expiry": "2026-09-17",
-      "postedAt": "2026-09-14",
-      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
       "code": "COMMANDERLOVETRIAL",
       "reward": "",
       "expiry": null,
@@ -135,16 +145,6 @@
       "sourceUrl": "https://blog.naver.com/view_game/224396282221",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-20",
-      "status": "expired"
-    },
-    {
-      "code": "NIKKEGIFT",
-      "reward": "",
-      "expiry": "2026-09-10",
-      "postedAt": "2026-08-24",
-      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388722934",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
       "status": "expired"
     }
   ]
