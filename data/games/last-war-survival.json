@@ -4,7 +4,7 @@
   "titleKo": "라스트 워: 서바이벌",
   "image": "https://media.pocketgamer.com/artwork/na-36488-1721228651/last-war-survival-game-screenshot-1.jpg",
   "sourcePath": "/last-war-survival/codes/",
-  "updatedAt": "2026-09-20T12:27:46.023Z",
+  "updatedAt": "2026-09-20T16:31:24.023Z",
   "codes": [
     {
       "code": "LWVDAY26",
@@ -14,7 +14,7 @@
       "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410807900",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-20",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Happylife2024",
@@ -31,7 +31,7 @@
       "reward": "300 Diamonds, 5 Hero EXP Chests, 1 Universal Legendary Hero Shard",
       "expiry": "2026-02-15",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-21",
       "status": "expired"
     }
   ]
