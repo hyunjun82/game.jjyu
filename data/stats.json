@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T07:31:05.188Z",
+  "generatedAt": "2026-09-21T14:31:51.400Z",
   "today": "2026-09-21",
-  "todayNew": 39,
+  "todayNew": 47,
   "totals": {
     "games": 481,
-    "codes": 11824,
-    "active": 9858,
+    "codes": 11832,
+    "active": 9866,
     "expired": 1966,
-    "withExpiry": 3636
+    "withExpiry": 3639
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-21",
-      "count": 39
+      "count": 47
     }
   ],
   "expiringSoon": [
@@ -155,12 +155,6 @@
     {
       "slug": "potatozombie",
       "code": "F2FNNTA2LMQ9CP",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "raising-souls",
-      "code": "YOUNG",
       "expiry": "2026-09-21",
       "days": 0
     },
@@ -365,6 +359,12 @@
     {
       "slug": "nuksam",
       "code": "SM7MDE",
+      "expiry": "2026-09-25",
+      "days": 4
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG",
       "expiry": "2026-09-25",
       "days": 4
     }

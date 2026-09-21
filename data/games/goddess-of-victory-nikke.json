@@ -5,13 +5,13 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-21T07:27:53.116Z",
+  "updatedAt": "2026-09-21T14:29:10.411Z",
   "codes": [
     {
       "code": "NIKKE1104",
       "reward": "",
       "expiry": "2026-10-15",
-      "postedAt": "2026-09-21",
+      "postedAt": "2026-09-20",
       "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-21",
@@ -21,31 +21,11 @@
       "code": "NIKKEGIFT",
       "reward": "",
       "expiry": "2026-10-15",
-      "postedAt": "2026-09-21",
+      "postedAt": "2026-09-20",
       "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-21",
       "status": "active"
-    },
-    {
-      "code": "WAVETOYOU2026",
-      "reward": "",
-      "expiry": "2026-09-17",
-      "postedAt": "2026-09-14",
-      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-21",
-      "status": "expired"
-    },
-    {
-      "code": "UNBREAKABLEMEMORIES",
-      "reward": "",
-      "expiry": "2026-09-17",
-      "postedAt": "2026-09-14",
-      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-21",
-      "status": "expired"
     },
     {
       "code": "COMMANDERLOVETRIAL",
@@ -113,6 +93,26 @@
       "expiry": "2026-08-23",
       "postedAt": "2026-08-31",
       "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
+    },
+    {
+      "code": "WAVETOYOU2026",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-21",
+      "status": "expired"
+    },
+    {
+      "code": "UNBREAKABLEMEMORIES",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-21",
       "status": "expired"

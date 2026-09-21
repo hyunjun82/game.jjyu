@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA3MjhfMTIg/MDAxNzUzNjcxNDg5OTQx.QL0SKXAy2WEs4gN5FgPxuQl2TJGYyB03LqcmbBqKIBkg.BcwzntPE-XxzFYEKA5Jh5euxZfUOEnokA7KKVrUy01Yg.PNG/title_notice.png",
   "source": "naver-lounge",
   "loungeId": "F_Class_Hero",
-  "sourceUrl": "https://game.naver.com/lounge/F_Class_Hero/board/detail/8200148",
-  "howTo": "1. 게임 내 우측 상단의 메뉴 버튼 터치 > 설정 > 계정 메뉴로 이동 2. 쿠폰 입력 란에 아래의 쿠폰명 입력 (쌍따옴표 안의 텍스트를 쓰시면 됩니다!) 쿠폰명 \" Winner9Fall",
-  "postCount": 178,
-  "updatedAt": "2026-09-21T07:24:34.811Z",
+  "sourceUrl": "https://game.naver.com/lounge/F_Class_Hero/board/detail/8219212",
+  "howTo": "1. 게임 내 우측 상단의 메뉴 버튼 터치 > 설정 > 계정 메뉴로 이동 2. 쿠폰 입력 란에 아래의 쿠폰명 입력 (쌍따옴표 안의 텍스트를 쓰시면 됩니다!) 쿠폰명 \" 9FallBrisk",
+  "postCount": 179,
+  "updatedAt": "2026-09-21T14:25:58.307Z",
   "codes": [
+    {
+      "code": "9FallBrisk",
+      "reward": "",
+      "expiry": "2026-10-05",
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "active"
+    },
     {
       "code": "Winner9Fall",
       "reward": "",

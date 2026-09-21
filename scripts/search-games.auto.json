@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-21T07:18:31.707Z",
+  "generatedAt": "2026-09-21T14:20:26.002Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -135,10 +135,10 @@
       "titleEn": "Ghostsoulm"
     },
     {
-      "slug": "blood-hunter",
-      "loungeId": "Blood_Hunter",
-      "titleKo": "블러드 헌터: 도깨비전",
-      "titleEn": "Blood Hunter"
+      "slug": "overlord-the-lord-of-nazarick",
+      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
+      "titleKo": "오버로드: 나자릭의 왕",
+      "titleEn": "Overlord The Lord Of Nazarick"
     }
   ]
 }

@@ -525,7 +525,7 @@
    "error": "쿠폰 보드 없음"
   },
   "R2": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "쿠폰 보드 없음"
   },
   "Pawnbroker_Simulator": {
@@ -4952,7 +4952,7 @@
    "error": "코드 없음"
   },
   "Legend_of_cats": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "쿠폰 보드 없음"
   },
   "legend_of_immortality": {
@@ -6190,7 +6190,7 @@
    "error": "보드 잠김(가입 필요)"
   },
   "OVERLORD_The_Lord_of_Nazarick": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "보드 잠김(가입 필요)"
   },
   "Overman": {
@@ -8584,7 +8584,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Tower_of_God_Great_Journey": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "코드 없음"
   },
   "towerclimb": {
@@ -10782,6 +10782,70 @@
    "at": "2026-09-21",
    "live": 1,
    "total": 8
+  },
+  "Blueys_Happy_Snaps": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Choo_Choo_Charles": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "REKA": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Unrecord": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Pokemon_Masters": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "The_Ramen_Sensei": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Splinter_Cell": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Guts_And_Goals": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "The_Mermaid_Mask": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Hollow_Knight_Silksong": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Metal_Gear_Solid": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "TV_Superstars": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Pikmin_Bloom": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "ProtoCorgi": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "The_Saviors_Gang": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Pocket_League_Story": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
   }
  }
 }
