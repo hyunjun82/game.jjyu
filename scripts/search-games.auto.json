@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-21T14:20:26.002Z",
+  "generatedAt": "2026-09-21T19:35:43.001Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -9,16 +9,16 @@
       "titleEn": "Tukiers God Tier Life Idle Tycoon"
     },
     {
-      "slug": "lumimaster",
-      "loungeId": "lumimaster",
-      "titleKo": "루미마스터",
-      "titleEn": "Lumimaster"
-    },
-    {
       "slug": "romantic-gangho",
       "loungeId": "RomanticGangho",
       "titleKo": "낭만강호",
       "titleEn": "Romantic Gangho"
+    },
+    {
+      "slug": "lumimaster",
+      "loungeId": "lumimaster",
+      "titleKo": "루미마스터",
+      "titleEn": "Lumimaster"
     },
     {
       "slug": "inferno-nine",
@@ -27,34 +27,16 @@
       "titleEn": "Inferno Nine"
     },
     {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
-    },
-    {
       "slug": "officequeen",
       "loungeId": "officequeen",
       "titleKo": "오피스 퀸 키우기",
       "titleEn": "Officequeen"
     },
     {
-      "slug": "peachland",
-      "loungeId": "peachland",
-      "titleKo": "산너머 도원마을",
-      "titleEn": "Peachland"
-    },
-    {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights Endfield"
-    },
-    {
-      "slug": "racingmaster",
-      "loungeId": "racingmaster",
-      "titleKo": "레이싱 마스터",
-      "titleEn": "Racingmaster"
+      "slug": "pokemon-go",
+      "loungeId": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
+      "titleEn": "Pokemon Go"
     },
     {
       "slug": "tales-runner-rpg",
@@ -63,10 +45,28 @@
       "titleEn": "Tales Runner Rpg"
     },
     {
+      "slug": "peachland",
+      "loungeId": "peachland",
+      "titleKo": "산너머 도원마을",
+      "titleEn": "Peachland"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
+    },
+    {
       "slug": "isekai-fantasy-life",
       "loungeId": "IsekaiFantasyLife",
       "titleKo": "이세계 판타지 라이프",
       "titleEn": "Isekai Fantasy Life"
+    },
+    {
+      "slug": "ragnarok-origin-classic-korean",
+      "loungeId": "Ragnarok_Origin_Classic_Korean",
+      "titleKo": "라그나로크 오리진 클래식",
+      "titleEn": "Ragnarok Origin Classic Korean"
     },
     {
       "slug": "rellion",
@@ -75,16 +75,34 @@
       "titleEn": "Rellion"
     },
     {
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights Endfield"
+    },
+    {
+      "slug": "ghostsoulm",
+      "loungeId": "ghostsoulm",
+      "titleKo": "귀혼M",
+      "titleEn": "Ghostsoulm"
+    },
+    {
+      "slug": "tree-of-savior-neverland",
+      "loungeId": "Tree_Of_Savior_Neverland",
+      "titleKo": "트리 오브 세이비어: 네버랜드",
+      "titleEn": "Tree Of Savior Neverland"
+    },
+    {
+      "slug": "racingmaster",
+      "loungeId": "racingmaster",
+      "titleKo": "레이싱 마스터",
+      "titleEn": "Racingmaster"
+    },
+    {
       "slug": "forest-sigh-neverland",
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
-    },
-    {
-      "slug": "ragnarok-origin-classic-korean",
-      "loungeId": "Ragnarok_Origin_Classic_Korean",
-      "titleKo": "라그나로크 오리진 클래식",
-      "titleEn": "Ragnarok Origin Classic Korean"
     },
     {
       "slug": "gear-paw-defenders",
@@ -97,12 +115,6 @@
       "loungeId": "Heartopia",
       "titleKo": "두근두근타운",
       "titleEn": "Heartopia"
-    },
-    {
-      "slug": "tree-of-savior-neverland",
-      "loungeId": "Tree_Of_Savior_Neverland",
-      "titleKo": "트리 오브 세이비어: 네버랜드",
-      "titleEn": "Tree Of Savior Neverland"
     },
     {
       "slug": "torchlight-infinite",
@@ -127,18 +139,6 @@
       "loungeId": "kingshipfight",
       "titleKo": "삼국지: 패업",
       "titleEn": "Kingshipfight"
-    },
-    {
-      "slug": "ghostsoulm",
-      "loungeId": "ghostsoulm",
-      "titleKo": "귀혼M",
-      "titleEn": "Ghostsoulm"
-    },
-    {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
     }
   ]
 }

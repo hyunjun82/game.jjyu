@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-19T14:42:13.089Z",
+  "updatedAt": "2026-09-21T19:46:31.785Z",
   "codes": [
     {
       "code": "SANFRANCISCO2026",
@@ -14,8 +14,8 @@
       "postedAt": "2026-09-05",
       "sourceUrl": "https://blog.naver.com/inchul9426/224401579337",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "active"
+      "lastSeen": "2026-09-22",
+      "status": "expired"
     },
     {
       "code": "E9K4SY77F5623",
@@ -24,8 +24,8 @@
       "postedAt": "2026-09-05",
       "sourceUrl": "https://blog.naver.com/inchul9426/224401579337",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "active"
+      "lastSeen": "2026-09-22",
+      "status": "expired"
     },
     {
       "code": "S76334522EHWZ",
@@ -34,8 +34,8 @@
       "postedAt": "2026-09-05",
       "sourceUrl": "https://blog.naver.com/inchul9426/224401579337",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19",
-      "status": "active"
+      "lastSeen": "2026-09-22",
+      "status": "expired"
     }
   ]
 }

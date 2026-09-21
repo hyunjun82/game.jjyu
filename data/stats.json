@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-09-21T14:31:51.400Z",
-  "today": "2026-09-21",
-  "todayNew": 47,
+  "generatedAt": "2026-09-21T19:47:56.483Z",
+  "today": "2026-09-22",
+  "todayNew": 1,
   "totals": {
     "games": 481,
-    "codes": 11832,
-    "active": 9866,
-    "expired": 1966,
+    "codes": 11833,
+    "active": 9835,
+    "expired": 1998,
     "withExpiry": 3639
   },
   "newByDate": [
-    {
-      "date": "2026-09-06",
-      "count": 19
-    },
     {
       "date": "2026-09-07",
       "count": 38
@@ -65,308 +61,312 @@
     {
       "date": "2026-09-21",
       "count": 47
+    },
+    {
+      "date": "2026-09-22",
+      "count": 1
     }
   ],
   "expiringSoon": [
     {
-      "slug": "boneagain",
-      "code": "M9GBRS",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "devil-2m",
-      "code": "devjk0914",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "draconia-saga-global",
-      "code": "6BYXB4S5A",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "code": "Dragonheirs4",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "dragonnest-world",
-      "code": "HAPPYWEEKLY18V",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "echocalypse",
-      "code": "T9C4WL",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "H99DRU5",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "SACCollab2023",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "fortress-saga",
-      "code": "FS3RDANNIDAY",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "god-kkaebi",
-      "code": "mjqvl8v6",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "gods-demons",
-      "code": "SURPRISE624",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "gods-demons",
-      "code": "624SURPRISE",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "DUQT154",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "PYKI124",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "potatozombie",
-      "code": "F2FNNTA2LMQ9CP",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "the-walking-dead-survivors",
-      "code": "TWDWTPBG",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
-      "slug": "the-warrior-returns-afk",
-      "code": "WRMEETJIWON",
-      "expiry": "2026-09-21",
-      "days": 0
-    },
-    {
       "slug": "adventure-of-white-chord",
       "code": "Olivia",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "call-of-antia",
       "code": "DeathDeal",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "call-of-antia",
       "code": "GodofFire",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "draconia-saga-global",
       "code": "MAYX3KRNP",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-of-gods",
       "code": "MAGICALGIRL",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghost-hunter",
       "code": "919kvf",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghost-hunter",
       "code": "920ehj",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "my-hotpot-story",
       "code": "HM9H25",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "pixel-tamerz",
       "code": "0819PIXEL",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "pixel-tamerz",
       "code": "OPENGIFT",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "run-goddess",
       "code": "HIRUNRUN",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "survivor-io",
       "code": "SEPDEWS",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "tower-of-god",
       "code": "TOGSUMMERGIFT",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "what-the-bug",
       "code": "GN65M2",
       "expiry": "2026-09-22",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "call-of-antia",
       "code": "BloodyMaria",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "eternal-evolution",
       "code": "S7ZU2N3",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "QUQW131",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tacticsbaseball",
       "code": "GROW2026",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tacticsbaseball",
       "code": "START2026",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tree-of-savior-m",
       "code": "SUMMER",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tree-of-savior-m",
       "code": "FEVER",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "watcher-of-realms",
       "code": "Flames1ofdesire",
       "expiry": "2026-09-23",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "eternal-evolution",
       "code": "F2XB49U",
       "expiry": "2026-09-24",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "SUM0909",
       "expiry": "2026-09-24",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "archero-2",
       "code": "MystlingTheo",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "doomsday-warrior",
       "code": "FALLFEST",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0911676S",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0909FHOI",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0907VB45",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "f-class-hero",
       "code": "Sep2QMid",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "RUNE0910",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "nuksam",
       "code": "SM7MDE",
       "expiry": "2026-09-25",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG",
       "expiry": "2026-09-25",
+      "days": 3
+    },
+    {
+      "slug": "the-cozy-florist",
+      "code": "TCF2026",
+      "expiry": "2026-09-25",
+      "days": 3
+    },
+    {
+      "slug": "the-cozy-florist",
+      "code": "20kYTBDM",
+      "expiry": "2026-09-25",
+      "days": 3
+    },
+    {
+      "slug": "the-cozy-florist",
+      "code": "YTBcf10K",
+      "expiry": "2026-09-25",
+      "days": 3
+    },
+    {
+      "slug": "time-princess",
+      "code": "UCMC42",
+      "expiry": "2026-09-25",
+      "days": 3
+    },
+    {
+      "slug": "watcher-of-realms",
+      "code": "Capricious8Love",
+      "expiry": "2026-09-25",
+      "days": 3
+    },
+    {
+      "slug": "cat-fantasy",
+      "code": "u7ebv37juw",
+      "expiry": "2026-09-26",
       "days": 4
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "GameEE888",
+      "expiry": "2026-09-26",
+      "days": 4
+    },
+    {
+      "slug": "idle-berserker",
+      "code": "SEPSEP2803",
+      "expiry": "2026-09-26",
+      "days": 4
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "LIB0911",
+      "expiry": "2026-09-26",
+      "days": 4
+    },
+    {
+      "slug": "maiden-academy",
+      "code": "TEP9TEM",
+      "expiry": "2026-09-26",
+      "days": 4
+    },
+    {
+      "slug": "purrfect-tale",
+      "code": "MOCELEBRATE0826",
+      "expiry": "2026-09-26",
+      "days": 4
+    },
+    {
+      "slug": "sword-of-convallaria",
+      "code": "SOC365EN",
+      "expiry": "2026-09-26",
+      "days": 4
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "S2X4T5Q",
+      "expiry": "2026-09-27",
+      "days": 5
+    },
+    {
+      "slug": "ghostvengers",
+      "code": "7JWJ5R5A",
+      "expiry": "2026-09-27",
+      "days": 5
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "SUMD0912",
+      "expiry": "2026-09-27",
+      "days": 5
+    },
+    {
+      "slug": "kurobas-sr",
+      "code": "0921AOWNZNVHS",
+      "expiry": "2026-09-27",
+      "days": 5
+    },
+    {
+      "slug": "order-daybreak",
+      "code": "AUTUMNOD",
+      "expiry": "2026-09-27",
+      "days": 5
     }
   ],
   "topGames": [
@@ -392,12 +392,12 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 218,
+      "active": 216,
       "total": 259
     },
     {
       "slug": "echocalypse",
-      "active": 187,
+      "active": 186,
       "total": 189
     },
     {
