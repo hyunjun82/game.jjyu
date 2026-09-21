@@ -3,9 +3,20 @@
   "titleEn": "Heartopia",
   "titleKo": "두근두근타운",
   "image": "https://media.pocketgamer.com/artwork/na-37825-1767889075/heartopia-launch-keyvis.jpg",
-  "sourcePath": "/heartopia/codes/",
-  "updatedAt": "2026-09-21T19:32:52.752Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-21T23:03:11.786Z",
   "codes": [
+    {
+      "code": "r8a4k6p5q3m1",
+      "reward": "",
+      "expiry": "2026-10-09",
+      "postedAt": "2026-09-16",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224413257107",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
     {
       "code": "p3m7r5q9k2",
       "reward": "3 Coffee beans, 3 Wishing Stars, 1 Roaming Oak Timber",
@@ -439,23 +450,23 @@
       "status": "active"
     },
     {
-      "code": "r8a4k6p5q3m1",
+      "code": "p2k8n5r7q1a6",
       "reward": "",
-      "expiry": "2026-10-09",
-      "postedAt": "2026-09-16",
-      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224413257107",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-21",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388804058",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
       "status": "expired"
     },
     {
       "code": "a7m4q9r3k6n2",
       "reward": "",
       "expiry": "2026-08-31",
-      "postedAt": "2026-08-22",
-      "sourceUrl": "https://blog.naver.com/vnamalcytvgvs/224386848902",
+      "postedAt": "2026-08-24",
+      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388804058",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "status": "expired"
     },
     {
