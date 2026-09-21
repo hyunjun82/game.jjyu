@@ -1397,7 +1397,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Blood_Hunter": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "보드 잠김(가입 필요)"
   },
   "BloodSoul": {
@@ -4359,7 +4359,7 @@
    "error": "코드 없음"
   },
   "IdleTranscendent": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "코드 없음"
   },
   "idleunderworld": {
@@ -8125,7 +8125,7 @@
    "total": 1
   },
   "sydg": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "코드 없음"
   },
   "Synergy_Knight": {
@@ -9278,7 +9278,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Tap_Giants": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "쿠폰 보드 없음"
   },
   "Genpei_Chronicles": {
@@ -9434,8 +9434,8 @@
    "error": "쿠폰 보드 없음"
   },
   "pixievalley": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-21",
+   "error": "코드 없음"
   },
   "Shift87": {
    "at": "2026-09-19",
@@ -10713,6 +10713,75 @@
   "Crimson_Oath": {
    "at": "2026-09-21",
    "error": "쿠폰 보드 없음"
+  },
+  "DIGIMON_MASTERS": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "The_Rookie": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "DYNASTY_WARRIORS3_Complete_Edition_Remastered": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "LogiKing": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Firehawk_FPV_Drone_Warfare_Simulator": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "pmang_baduk": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Blockbuster_Inc": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Blanc": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Rescue_Party_Live": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Conan_Exiles": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "shape_of_dreams": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Talking_Tom_Gold_Run": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Need_for_Speed_The_Run": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Tidy_Cauldron": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "BRAVELY_DEFAULT2": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "GRIME": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "DRAGON_RISE": {
+   "at": "2026-09-21",
+   "live": 1,
+   "total": 8
   }
  }
 }

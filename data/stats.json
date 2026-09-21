@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T01:58:42.509Z",
+  "generatedAt": "2026-09-21T07:31:05.188Z",
   "today": "2026-09-21",
-  "todayNew": 32,
+  "todayNew": 39,
   "totals": {
     "games": 481,
-    "codes": 11817,
-    "active": 9851,
+    "codes": 11824,
+    "active": 9858,
     "expired": 1966,
-    "withExpiry": 3631
+    "withExpiry": 3636
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-21",
-      "count": 32
+      "count": 39
     }
   ],
   "expiringSoon": [
@@ -392,8 +392,8 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 217,
-      "total": 258
+      "active": 218,
+      "total": 259
     },
     {
       "slug": "echocalypse",

@@ -2,14 +2,23 @@
   "slug": "eternal-evolution",
   "titleEn": "Eternalevolution",
   "titleKo": "이터널 에볼루션",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfMTUw/MDAxNzg5NzAyMTQzNTM4.P9ULkZBzYDgRsaNZt-X6sKeJtFW6WeuY250LDpk4qIsg.o7OMzUrhI8GAknKREebWaJHg5PY6uxvUXQPXr6cXCCUg.JPEG/_U2_KR_P_%E7%A4%BE%E7%BE%A4%E6%B3%95%E5%B0%94%E7%BB%B4%E5%A8%85_LSZ_800x150_SSY_PRE.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfNDEg/MDAxNzg5OTc0MzU2MTI3.nFC4iRHTY-GVXDCeRPCVTUn-VAofNnduzK7AaIk0X4sg.7Uw4aDjXEvr94YEwqsQj1ZNsZcxxowJJhBOCKNJCfUcg.JPEG/_U2_KR_P_%E7%A4%BE%E7%BE%A4%E6%B3%95%E5%B0%94%E7%BB%B4%E5%A8%85_LSZ_800x150_SSY_PRE.jpg",
   "source": "naver-lounge",
   "loungeId": "eternalevolution",
-  "sourceUrl": "https://game.naver.com/lounge/eternalevolution/board/detail/8206236",
+  "sourceUrl": "https://game.naver.com/lounge/eternalevolution/board/detail/8219023",
   "howTo": "",
-  "postCount": 102,
-  "updatedAt": "2026-09-21T01:52:28.369Z",
+  "postCount": 103,
+  "updatedAt": "2026-09-21T07:24:32.759Z",
   "codes": [
+    {
+      "code": "EE0921V465",
+      "reward": "",
+      "expiry": "2026-10-10",
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21",
+      "status": "active"
+    },
     {
       "code": "EE0918N786",
       "reward": "",
@@ -1960,19 +1969,19 @@
       "status": "expired"
     },
     {
-      "code": "EE0710VDF8",
+      "code": "EE08178V8N",
       "reward": "",
-      "expiry": "2026-07-25",
-      "postedAt": "2026-07-10",
+      "expiry": "2026-09-05",
+      "postedAt": "2026-08-17",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-21",
       "status": "expired"
     },
     {
-      "code": "EE08178V8N",
+      "code": "EE0710VDF8",
       "reward": "",
-      "expiry": "2026-09-05",
-      "postedAt": "2026-08-17",
+      "expiry": "2026-07-25",
+      "postedAt": "2026-07-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-21",
       "status": "expired"

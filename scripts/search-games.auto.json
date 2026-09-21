@@ -1,18 +1,12 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-21T01:46:43.301Z",
+  "generatedAt": "2026-09-21T07:18:31.707Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
       "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
       "titleKo": "갓생 사는 토크: 방치형 타이쿤",
       "titleEn": "Tukiers God Tier Life Idle Tycoon"
-    },
-    {
-      "slug": "kikikiki",
-      "loungeId": "kikikiki",
-      "titleKo": "ㅋㅋㅋㅋ",
-      "titleEn": "Kikikiki"
     },
     {
       "slug": "lumimaster",
@@ -141,10 +135,10 @@
       "titleEn": "Ghostsoulm"
     },
     {
-      "slug": "hunter-world",
-      "loungeId": "Hunter_World",
-      "titleKo": "헌터W",
-      "titleEn": "Hunter World"
+      "slug": "blood-hunter",
+      "loungeId": "Blood_Hunter",
+      "titleKo": "블러드 헌터: 도깨비전",
+      "titleEn": "Blood Hunter"
     }
   ]
 }
