@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-36856-1730200879/flame-of-valhalla-header-1.jpg",
   "sourcePath": "/flame-of-valhalla/codes/",
-  "updatedAt": "2026-09-20T23:35:16.590Z",
+  "updatedAt": "2026-09-21T01:44:22.389Z",
   "codes": [
     {
       "code": "QH4B1G",
@@ -1047,6 +1047,22 @@
       "status": "active"
     },
     {
+      "code": "X8IV1Q",
+      "reward": "Star Diamonds (expires August 22nd)",
+      "expiry": "2027-08-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-21",
+      "status": "active"
+    },
+    {
+      "code": "HDC8ZM",
+      "reward": "Star Diamonds (expires August 22nd)",
+      "expiry": "2027-08-22",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-21",
+      "status": "active"
+    },
+    {
       "code": "JMUQVZ",
       "reward": "free rewards (expires August 15th)",
       "expiry": "2027-08-15",
@@ -1498,22 +1514,6 @@
       "code": "5GJTK7",
       "reward": "free rewards (expires August 31st)",
       "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-21",
-      "status": "expired"
-    },
-    {
-      "code": "X8IV1Q",
-      "reward": "Star Diamonds (expires August 22nd)",
-      "expiry": "2026-08-22",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-21",
-      "status": "expired"
-    },
-    {
-      "code": "HDC8ZM",
-      "reward": "Star Diamonds (expires August 22nd)",
-      "expiry": "2026-08-22",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "expired"

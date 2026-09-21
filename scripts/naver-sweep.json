@@ -4188,7 +4188,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Hunter_World": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "보드 잠김(가입 필요)"
   },
   "HuntingHero": {
@@ -4994,7 +4994,7 @@
    "error": "쿠폰 보드 없음"
   },
   "legendofthegalacticheroes_rondoofwar": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "코드 없음"
   },
   "LegendofYeomra": {
@@ -8979,7 +8979,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Wings_of_the_Goddess": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "live": 0,
    "total": 4
   },
@@ -8992,7 +8992,7 @@
    "error": "코드 없음"
   },
   "Witch_and_Pet": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "live": 0,
    "total": 3
   },
@@ -9018,12 +9018,12 @@
    "error": "코드 없음"
   },
   "With2": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "live": 0,
    "total": 22
   },
   "Wittle_Defender": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "live": 0,
    "total": 14
   },
@@ -9060,7 +9060,7 @@
    "error": "보드 잠김(가입 필요)"
   },
   "Wooga_Wooga_Great_Adventure": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "live": 0,
    "total": 1
   },
@@ -9430,7 +9430,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Dawson_Oaks_Trailer_Park": {
-   "at": "2026-09-19",
+   "at": "2026-09-21",
    "error": "쿠폰 보드 없음"
   },
   "pixievalley": {
@@ -10635,6 +10635,82 @@
    "error": "쿠폰 보드 없음"
   },
   "FIRE_STATE": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Duo_Quest": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Moonsigil_Atlas": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Marvels_Avengers": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Settlement_Survival": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "idleheroes": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Ghostwire_Tokyo": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Love_Cresc": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Spin_Royale": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Yoggy_pang": {
+   "at": "2026-09-21",
+   "error": "코드 없음"
+  },
+  "Cheat_Death": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "SILENT_HILL_The_Short_Message": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Kairobotica": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "TRIBE_NINE": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Pakas_Coffee": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Sengoku_Dynasty": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Twilight_Monk": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "FINAL_FANTASY_VII_REMAKE": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Streetdog_BMX": {
+   "at": "2026-09-21",
+   "error": "쿠폰 보드 없음"
+  },
+  "Crimson_Oath": {
    "at": "2026-09-21",
    "error": "쿠폰 보드 없음"
   }

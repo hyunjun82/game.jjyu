@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T23:52:36.006Z",
+  "generatedAt": "2026-09-21T01:58:42.509Z",
   "today": "2026-09-21",
-  "todayNew": 29,
+  "todayNew": 32,
   "totals": {
     "games": 481,
-    "codes": 11814,
-    "active": 9843,
-    "expired": 1971,
-    "withExpiry": 3628
+    "codes": 11817,
+    "active": 9851,
+    "expired": 1966,
+    "withExpiry": 3631
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-21",
-      "count": 29
+      "count": 32
     }
   ],
   "expiringSoon": [
@@ -392,7 +392,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 216,
+      "active": 217,
       "total": 258
     },
     {
@@ -402,7 +402,7 @@
     },
     {
       "slug": "flame-of-valhalla",
-      "active": 179,
+      "active": 181,
       "total": 189
     },
     {
@@ -461,14 +461,14 @@
       "total": 104
     },
     {
+      "slug": "beast-lord",
+      "active": 98,
+      "total": 104
+    },
+    {
       "slug": "star-stable-online",
       "active": 98,
       "total": 99
-    },
-    {
-      "slug": "beast-lord",
-      "active": 97,
-      "total": 104
     }
   ],
   "noImage": 18

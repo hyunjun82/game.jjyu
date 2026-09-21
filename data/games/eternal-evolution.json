@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/eternalevolution/board/detail/8206236",
   "howTo": "",
   "postCount": 102,
-  "updatedAt": "2026-09-20T23:46:48.249Z",
+  "updatedAt": "2026-09-21T01:52:28.369Z",
   "codes": [
     {
       "code": "EE0918N786",
@@ -61,6 +61,14 @@
       "expiry": "2026-09-25",
       "postedAt": "2026-09-07",
       "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-21",
+      "status": "active"
+    },
+    {
+      "code": "Z8SHW76",
+      "reward": "expires August 22nd",
+      "expiry": "2027-08-22",
+      "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "active"
     },
@@ -1989,14 +1997,6 @@
       "code": "P8W6H23",
       "reward": "expires September 1st",
       "expiry": "2026-09-01",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-21",
-      "status": "expired"
-    },
-    {
-      "code": "Z8SHW76",
-      "reward": "expires August 22nd",
-      "expiry": "2026-08-22",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-21",
       "status": "expired"
