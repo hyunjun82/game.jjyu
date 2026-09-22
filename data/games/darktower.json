@@ -1,0 +1,86 @@
+{
+  "slug": "darktower",
+  "titleEn": "Darktower",
+  "titleKo": "다크타워",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjUg/MDAxNzc3NTM3MDQ3MzIx.41iuIPRnVALPHPp0AZsh6Af21A260BlsSCaSUPSv3kEg.cXrIgnusUlXLrLBXoKMjWaTBPM7CuzUnOoTseYEdlg8g.JPEG/GM_1130x300_%EC%97%90%EB%A9%A7.jpg",
+  "source": "naver-lounge",
+  "loungeId": "darktower",
+  "sourceUrl": "https://game.naver.com/lounge/darktower/board/detail/8188981",
+  "howTo": "우상단 메뉴 선택 설정 선택 쿠폰 입력 번호 입력후 메세지함에서 수령",
+  "postCount": 7,
+  "updatedAt": "2026-09-22T19:30:06.624Z",
+  "codes": [
+    {
+      "code": "darktower1hbd",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "200days",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-04",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "luna2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "100days",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-25",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "apple5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-19",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "globalsupport",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-01",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "dklounge",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-14",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "darktoweropen",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-14",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T16:01:46.378Z",
+  "generatedAt": "2026-09-22T19:34:57.787Z",
   "today": "2026-09-23",
-  "todayNew": 1,
+  "todayNew": 30,
   "totals": {
-    "games": 482,
-    "codes": 11896,
-    "active": 9848,
-    "expired": 2048,
-    "withExpiry": 3682
+    "games": 485,
+    "codes": 11925,
+    "active": 9851,
+    "expired": 2074,
+    "withExpiry": 3688
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-23",
-      "count": 1
+      "count": 30
     }
   ],
   "expiringSoon": [
@@ -255,6 +255,12 @@
       "days": 3
     },
     {
+      "slug": "dragon-n-tiger",
+      "code": "Chuseok925",
+      "expiry": "2026-09-27",
+      "days": 4
+    },
+    {
       "slug": "eternal-evolution",
       "code": "S2X4T5Q",
       "expiry": "2026-09-27",
@@ -359,12 +365,6 @@
     {
       "slug": "honkai-star-rail",
       "code": "YAJQ2TR6ZY2P",
-      "expiry": "2026-09-28",
-      "days": 5
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "NSJR3B97ZZ5X",
       "expiry": "2026-09-28",
       "days": 5
     }
