@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/na-37118-1737713433/soul-land-new-world-fi-1-.jpg",
   "sourcePath": "/soul-land-new-world/codes/",
-  "updatedAt": "2026-09-21T22:50:58.700Z",
+  "updatedAt": "2026-09-22T01:16:06.809Z",
   "codes": [
     {
       "code": "H7Q4N8WJ",
@@ -335,6 +335,14 @@
       "status": "active"
     },
     {
+      "code": "B2T9H5FV",
+      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires August 23rd)",
+      "expiry": "2027-08-23",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
+    {
       "code": "F3L8ZR1Q",
       "reward": "Soul Seal Crystal Shard x10, Blue Basic Collection Pack x10, Gold Soul Coin x5000 (expires August 16th)",
       "expiry": "2027-08-16",
@@ -490,14 +498,6 @@
       "code": "P3G8W4ZB",
       "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires September 13th)",
       "expiry": "2026-09-13",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-22",
-      "status": "expired"
-    },
-    {
-      "code": "B2T9H5FV",
-      "reward": "Blue Obsidian Shard x20, Spirit Crystal Free Pick x10, Blue Crystal x200 (expires August 23rd)",
-      "expiry": "2026-08-23",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-22",
       "status": "expired"

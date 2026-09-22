@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T23:03:53.270Z",
+  "generatedAt": "2026-09-22T01:29:33.843Z",
   "today": "2026-09-22",
-  "todayNew": 2,
+  "todayNew": 5,
   "totals": {
     "games": 481,
-    "codes": 11834,
-    "active": 9836,
-    "expired": 1998,
-    "withExpiry": 3640
+    "codes": 11837,
+    "active": 9844,
+    "expired": 1993,
+    "withExpiry": 3643
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-22",
-      "count": 2
+      "count": 5
     }
   ],
   "expiringSoon": [
@@ -392,7 +392,7 @@
     },
     {
       "slug": "eternal-evolution",
-      "active": 216,
+      "active": 217,
       "total": 259
     },
     {
@@ -456,13 +456,13 @@
       "total": 114
     },
     {
-      "slug": "survivor-io",
+      "slug": "beast-lord",
       "active": 99,
       "total": 104
     },
     {
-      "slug": "beast-lord",
-      "active": 98,
+      "slug": "survivor-io",
+      "active": 99,
       "total": 104
     },
     {

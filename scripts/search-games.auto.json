@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-21T22:52:46.121Z",
+  "generatedAt": "2026-09-22T01:18:23.548Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -141,16 +141,10 @@
       "titleEn": "Kingshipfight"
     },
     {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
+      "slug": "stone-three-kingdoms",
+      "loungeId": "StoneThreeKingdoms",
+      "titleKo": "석기삼국: 타임리프 삼국지",
+      "titleEn": "Stone Three Kingdoms"
     }
   ]
 }
