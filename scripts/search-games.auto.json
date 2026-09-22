@@ -1,7 +1,19 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-22T01:18:23.548Z",
+  "generatedAt": "2026-09-22T02:21:34.776Z",
   "games": [
+    {
+      "slug": "1003bk",
+      "loungeId": "1003bk",
+      "titleKo": "천상비K",
+      "titleEn": "1003bk"
+    },
+    {
+      "slug": "heavenhells",
+      "loungeId": "HEAVENHELLS",
+      "titleKo": "헤븐헬즈",
+      "titleEn": "Heavenhells"
+    },
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
       "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",

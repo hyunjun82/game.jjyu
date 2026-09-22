@@ -325,6 +325,29 @@ export function parseCodes(text, postISO) {
     push(tokenOf(lines[i]), expiryAt(i));
     accepted.add(i);
   }
+  // (마) 펼쳐진 표 — 헤더 셀이 전부 먼저 오고 값 셀이 뒤따르는 형태.
+  //   쿠폰코드 / 시작 날짜 / 종료 날짜 / 보상1 / ...      ← 헤더 줄들
+  //   7MQ3ZK  / 09월 21일 / 09월 22일 / 골드 / ...        ← 값 줄들
+  // 이러면 코드와 "쿠폰코드" 라벨이 15줄까지 벌어져 ±3줄 규칙에 안 걸린다(나 혼자 만렙 키우기 실측).
+  // 헤더 개수만큼 칸을 세어 값 줄을 맞추면 코드도 종료일도 정확히 집힌다. 행이 여러 개면 계속 읽는다.
+  const CODE_LABEL = /^(?:쿠폰\s*(?:코드|명|번호)|코드|교환\s*코드|기프트\s*코드)$/;
+  const END_LABEL = /종료|만료|사용\s*기한|유효/;
+  const HEADER_CELL = /^.{1,14}$/;
+  for (let i = 0; i < lines.length; i++) {
+    if (!CODE_LABEL.test(lines[i])) continue;
+    let j = i + 1;
+    while (j < lines.length && HEADER_CELL.test(lines[j]) && !codeAt[j] && !/^(?:20\d{2}|\d{1,2})\s*[.년/]/.test(lines[j])) j++;
+    const width = j - i;
+    if (width < 2 || !codeAt[j]) continue;                 // 표가 아니거나 첫 값이 코드가 아니면 버린다
+    const headers = lines.slice(i, j);
+    const endAt = headers.findIndex((h) => END_LABEL.test(h));
+    for (let row = j; row + width <= lines.length && codeAt[row]; row += width) {
+      const cells = lines.slice(row, row + width);
+      let exp = null;
+      if (endAt > 0) exp = parseExpiry(cells[endAt] + ' 까지', postISO) || parseExpiry(cells[endAt], postISO, true);
+      push(tokenOf(cells[0]), exp);
+    }
+  }
   return [...found.values()];
 }
 

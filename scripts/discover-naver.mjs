@@ -175,7 +175,7 @@ async function sweepCandidates(known, sweep, today) {
  * 같은 코드가 블로그에 공개되는 게임이 많다(니케·명조 실측). 손으로 적은 search-games.json 과
  * 겹치는 게임은 뺀다. 라운지 목록에 이미 있는 게임은 그 slug 를 써서 페이지가 둘로 안 갈리게 한다.
  */
-function writeSearchAuto(hotAll, sweep, known, lounges) {
+function writeSearchAuto(hotAll, sweep, known, lounges, eventLounges) {
   let manual = [];
   try { manual = JSON.parse(fs.readFileSync(SEARCH_FILE, 'utf8')).games || []; } catch (e) { /* 없음 */ }
   const manualSlugs = new Set(manual.map((g) => g.slug));
@@ -183,7 +183,10 @@ function writeSearchAuto(hotAll, sweep, known, lounges) {
   const manualNames = new Set(manual.map((g) => norm(g.titleKo)));
   const bySlugLounge = new Map(lounges.map((g) => [String(g.loungeId).toLowerCase(), g]));
   const out = [];
-  for (const [id, name] of hotAll) {
+  // 인기 순위에 없어도 쿠폰 이벤트를 올린 라운지는 본다. 천상비K 처럼 순위 밖이면서
+  // 게시판이 회원 전용인 게임은 이 경로가 없으면 영구히 놓친다(2026-09-22 실측).
+  const pool = new Map([...(eventLounges || []), ...hotAll]);
+  for (const [id, name] of pool) {
     const s = sweep.checked[id];
     const inList = bySlugLounge.get(id.toLowerCase());
     // 라운지 목록에 있는데 코드가 0개인 게임도 회원 전용이면 검색으로 보완한다.
@@ -220,6 +223,16 @@ async function main() {
     if (!id || known.has(id.toLowerCase())) continue;
     if (!cand.has(id)) cand.set(id, { loungeId: id, name: cleanName(e.loungeName), titles: [] });
     cand.get(id).titles.push(title);
+  }
+
+  // 쿠폰 이벤트를 올린 라운지 전체(등록 여부 무관) — 회원 전용이면 블로그 검색으로 보완한다.
+  const evLounges = new Map();
+  for (const e of events) {
+    if (!COUPON_RE.test(ent(e.feedTitle))) continue;
+    const end = String(e.eventEndDate || '').slice(0, 10);
+    if (end && end < today) continue;
+    const id = String(e.loungeId || e.originalLoungeId || '');
+    if (id && !evLounges.has(id)) evLounges.set(id, cleanName(e.loungeName));
   }
 
   console.log(`[discover] 1단계 — 이벤트 ${events.length}건 · 쿠폰·사전예약 이벤트 진행 중인 신규 라운지 후보 ${cand.size}개`);
@@ -259,7 +272,7 @@ async function main() {
       const r = await probe(id, g.titleKo, today);
       sweep.checked[id] = { at: today, ...(r.error ? { error: r.error } : { live: r.live, total: r.total }) };
     }
-    const nAuto = writeSearchAuto(hotAll, sweep, known, loadLounges());
+    const nAuto = writeSearchAuto(hotAll, sweep, known, loadLounges(), evLounges);
     console.log(`[discover] 회원 전용 인기 라운지 → 블로그 검색 보완 대상 ${nAuto}개 (search-games.auto.json)`);
   }
 
