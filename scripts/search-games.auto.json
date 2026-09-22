@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-22T02:30:22.325Z",
+  "generatedAt": "2026-09-22T06:21:40.986Z",
   "games": [
     {
       "slug": "1003bk",
@@ -151,12 +151,6 @@
       "loungeId": "kingshipfight",
       "titleKo": "삼국지: 패업",
       "titleEn": "Kingshipfight"
-    },
-    {
-      "slug": "stone-three-kingdoms",
-      "loungeId": "StoneThreeKingdoms",
-      "titleKo": "석기삼국: 타임리프 삼국지",
-      "titleEn": "Stone Three Kingdoms"
     }
   ]
 }

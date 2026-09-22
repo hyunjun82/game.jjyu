@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T02:43:00.636Z",
+  "generatedAt": "2026-09-22T06:32:56.172Z",
   "today": "2026-09-22",
-  "todayNew": 55,
+  "todayNew": 58,
   "totals": {
     "games": 481,
-    "codes": 11887,
-    "active": 9867,
-    "expired": 2020,
-    "withExpiry": 3674
+    "codes": 11890,
+    "active": 9873,
+    "expired": 2017,
+    "withExpiry": 3677
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-22",
-      "count": 55
+      "count": 58
     }
   ],
   "expiringSoon": [
@@ -107,6 +107,12 @@
     {
       "slug": "ghost-hunter",
       "code": "920ehj",
+      "expiry": "2026-09-22",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "P4X8NR",
       "expiry": "2026-09-22",
       "days": 0
     },
@@ -359,12 +365,6 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "SUMD0912",
-      "expiry": "2026-09-27",
-      "days": 5
-    },
-    {
-      "slug": "kurobas-sr",
-      "code": "0921AOWNZNVHS",
       "expiry": "2026-09-27",
       "days": 5
     }

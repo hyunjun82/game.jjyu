@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-22T02:41:05.342Z",
+  "updatedAt": "2026-09-22T06:31:15.493Z",
   "codes": [
     {
       "code": "HAPPYLUMI",
@@ -48,11 +48,21 @@
       "status": "active"
     },
     {
+      "code": "GIFT100",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
+    {
       "code": "LUMIMASTER2026",
       "reward": "",
       "expiry": "2026-09-30",
-      "postedAt": "2026-09-17",
-      "sourceUrl": "https://blog.naver.com/atothez1992/224415276019",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-22",
       "status": "active"
@@ -61,18 +71,8 @@
       "code": "CATCHLUMI",
       "reward": "",
       "expiry": "2026-09-30",
-      "postedAt": "2026-09-17",
-      "sourceUrl": "https://blog.naver.com/atothez1992/224415276019",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-22",
-      "status": "active"
-    },
-    {
-      "code": "GIFT100",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-17",
-      "sourceUrl": "https://blog.naver.com/atothez1992/224415276019",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-22",
       "status": "active"
