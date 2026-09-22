@@ -5,11 +5,47 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA1MTBfMTk5/MDAxNzE1MzMzNDA3NjY0.xkXwAA_LJ098hTiO8Iqyn5ogpQqnVN3VvX3tW8NHMZwg.lpMsR6LkBOtizEHoXDgSbZwdySi0oq3p0Z7S9fbRYPcg.PNG/%EB%A0%88%EC%9D%B4%EC%96%B4_1.png",
   "source": "naver-lounge",
   "loungeId": "Ghost_Hunter",
-  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8206623",
+  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8223664",
   "howTo": "",
-  "postCount": 492,
-  "updatedAt": "2026-09-22T06:27:18.291Z",
+  "postCount": 493,
+  "updatedAt": "2026-09-22T11:58:24.327Z",
   "codes": [
+    {
+      "code": "924chu",
+      "reward": "",
+      "expiry": "2026-09-27",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
+    {
+      "code": "925chu",
+      "reward": "",
+      "expiry": "2026-09-27",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
+    {
+      "code": "926chu",
+      "reward": "",
+      "expiry": "2026-09-27",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
+    {
+      "code": "927chu",
+      "reward": "",
+      "expiry": "2026-09-27",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
     {
       "code": "919kvf",
       "reward": "",
@@ -537,24 +573,6 @@
       "reward": "",
       "expiry": "2026-03-10",
       "postedAt": "2026-03-07",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-22",
-      "status": "expired"
-    },
-    {
-      "code": "227yfy",
-      "reward": "",
-      "expiry": "2026-03-03",
-      "postedAt": "2026-02-28",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-22",
-      "status": "expired"
-    },
-    {
-      "code": "228ycv",
-      "reward": "",
-      "expiry": "2026-03-03",
-      "postedAt": "2026-02-28",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-22",
       "status": "expired"
@@ -1410,6 +1428,24 @@
       "reward": "",
       "expiry": "2024-11-10",
       "postedAt": "2024-11-01",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "227yfy",
+      "reward": "",
+      "expiry": "2026-03-03",
+      "postedAt": "2026-02-28",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "228ycv",
+      "reward": "",
+      "expiry": "2026-03-03",
+      "postedAt": "2026-02-28",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-22",
       "status": "expired"

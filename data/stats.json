@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T06:32:56.172Z",
+  "generatedAt": "2026-09-22T12:04:46.701Z",
   "today": "2026-09-22",
-  "todayNew": 58,
+  "todayNew": 63,
   "totals": {
     "games": 481,
-    "codes": 11890,
-    "active": 9873,
+    "codes": 11895,
+    "active": 9878,
     "expired": 2017,
-    "withExpiry": 3677
+    "withExpiry": 3682
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-22",
-      "count": 58
+      "count": 63
     }
   ],
   "expiringSoon": [
@@ -357,14 +357,14 @@
       "days": 5
     },
     {
-      "slug": "ghostvengers",
-      "code": "7JWJ5R5A",
+      "slug": "ghost-hunter",
+      "code": "924chu",
       "expiry": "2026-09-27",
       "days": 5
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "SUMD0912",
+      "slug": "ghost-hunter",
+      "code": "925chu",
       "expiry": "2026-09-27",
       "days": 5
     }
