@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDJfMjgy/MDAxNzg4MzQxNzI5NTM3.CVKVBjwrcOoW2D3s-wuHroLoR7f8ST4BhITy1DjoEIUg.MKXiV76FiDN2fVPIjvr1IqssruRjZh_SvrdfOLJAgUog.JPEG/Coupon%E8%B4%B4%E7%BD%AE%E9%A1%B6%E5%9B%BE-800%C3%97200.jpg",
   "source": "naver-lounge",
   "loungeId": "Evernight",
-  "sourceUrl": "https://game.naver.com/lounge/Evernight/board/detail/8205902",
+  "sourceUrl": "https://game.naver.com/lounge/Evernight/board/detail/8222190",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-09-22T01:21:45.500Z",
+  "postCount": 4,
+  "updatedAt": "2026-09-22T02:34:07.714Z",
   "codes": [
+    {
+      "code": "evernightday7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "active"
+    },
     {
       "code": "evernight333",
       "reward": "",

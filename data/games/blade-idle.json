@@ -7,8 +7,8 @@
   "loungeId": "Blade_idle",
   "sourceUrl": "https://game.naver.com/lounge/Blade_idle/board/detail/7263499",
   "howTo": "- [AOS/구글] 게임 내 우측 상단 [메뉴] → [쿠폰]에서 쿠폰 번호를 입력하시면 보상을 획득하실 수 있습니다. - [iOS/애플] 게임 내 채팅창에 /coupon 쿠폰 번호를 입력하시면 쿠폰 사용이 가능합니다. : 예시) /coupon H4PPYIVYRT ​",
-  "postCount": 6,
-  "updatedAt": "2026-09-22T01:22:05.259Z",
+  "postCount": 9,
+  "updatedAt": "2026-09-22T02:34:29.248Z",
   "codes": [
     {
       "code": "20GDBYE24",
@@ -42,6 +42,24 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-22",
       "status": "active"
+    },
+    {
+      "code": "2ndESPFOR3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-04-21",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "3rdCollab",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-04-21",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
     },
     {
       "code": "BLADE0318",
@@ -98,19 +116,19 @@
       "status": "expired"
     },
     {
-      "code": "GOINGUP2",
+      "code": "ESPFOR3",
       "reward": "",
       "expiry": null,
-      "postedAt": "2024-03-20",
+      "postedAt": "2025-03-06",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-22",
       "status": "expired"
     },
     {
-      "code": "ESPFOR3",
+      "code": "GOINGUP2",
       "reward": "",
       "expiry": null,
-      "postedAt": "2022-04-22",
+      "postedAt": "2024-03-20",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-22",
       "status": "expired"

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Naman_Dragon/board/detail/7103771",
   "howTo": "을 확인하신 후 사용해주세요!​",
   "postCount": 7,
-  "updatedAt": "2026-09-22T01:23:05.456Z",
+  "updatedAt": "2026-09-22T02:35:36.985Z",
   "codes": [
     {
       "code": "dragonxmas",
@@ -19,6 +19,33 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-22",
       "status": "active"
+    },
+    {
+      "code": "TGIF0919",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-19",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "TGIF0920",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-19",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "TGIF0912",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-12",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
     },
     {
       "code": "JUNE0601",

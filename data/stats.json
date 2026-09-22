@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T01:29:33.843Z",
+  "generatedAt": "2026-09-22T02:43:00.636Z",
   "today": "2026-09-22",
-  "todayNew": 5,
+  "todayNew": 55,
   "totals": {
     "games": 481,
-    "codes": 11837,
-    "active": 9844,
-    "expired": 1993,
-    "withExpiry": 3643
+    "codes": 11887,
+    "active": 9867,
+    "expired": 2020,
+    "withExpiry": 3674
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-22",
-      "count": 5
+      "count": 55
     }
   ],
   "expiringSoon": [
@@ -107,6 +107,12 @@
     {
       "slug": "ghost-hunter",
       "code": "920ehj",
+      "expiry": "2026-09-22",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "7MQ3ZK",
       "expiry": "2026-09-22",
       "days": 0
     },
@@ -359,12 +365,6 @@
     {
       "slug": "kurobas-sr",
       "code": "0921AOWNZNVHS",
-      "expiry": "2026-09-27",
-      "days": 5
-    },
-    {
-      "slug": "order-daybreak",
-      "code": "AUTUMNOD",
       "expiry": "2026-09-27",
       "days": 5
     }

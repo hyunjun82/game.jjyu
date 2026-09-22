@@ -7,8 +7,8 @@
   "loungeId": "Daksa_RPG",
   "sourceUrl": "https://game.naver.com/lounge/Daksa_RPG/board/detail/8126767",
   "howTo": "",
-  "postCount": 331,
-  "updatedAt": "2026-09-22T01:23:15.557Z",
+  "postCount": 334,
+  "updatedAt": "2026-09-22T02:35:47.806Z",
   "codes": [
     {
       "code": "Daksa3Year",
@@ -189,6 +189,123 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-22",
       "status": "active"
+    },
+    {
+      "code": "SZZI0803",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-30",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "SCARY0808",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-30",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "WHITE0811",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-30",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "SCARY0625",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-23",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "BLUE0707",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-23",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "Buri0721",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-23",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "SCARY0508",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-06-16",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "WHITE0516",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-06-16",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "KOREA0608",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-06-16",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "WHITE0411",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-08",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "SCARY0503",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-08",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "SCARY0504",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-08",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "DEB0506",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-08",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22",
+      "status": "expired"
     },
     {
       "code": "HappyDaksa61",
