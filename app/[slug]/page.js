@@ -1,5 +1,4 @@
 import { getAllGames, getGame, formatDate } from '../../lib/games';
-import CouponList from '../../components/CouponList';
 
 const SITE_URL = 'https://game.jjyu.co.kr';
 
@@ -110,8 +109,24 @@ export default function GamePage({ params }) {
 
       {g.active.length > 0 ? (
         <section className="block">
-          <h2 className="block-title">사용 가능한 쿠폰</h2>
-          <CouponList codes={g.active} />
+          <h2 className="block-title">사용 가능한 쿠폰 <span className="count">{g.active.length}</span></h2>
+          {/* 코드를 여기 깔면 복사하고 바로 나간다. 실제 문자열은 HTML 에 넣지 않고
+              길이만 맞춘 가림막을 보여주고, 코드는 다음 페이지에서 공개한다. */}
+          <div className="gate">
+            <ul className="gate-preview" aria-hidden="true">
+              {/* key 에 코드를 쓰면 RSC 페이로드로 HTML 에 그대로 실린다(실측). 인덱스를 쓴다. */}
+              {g.active.slice(0, 4).map((c, i) => (
+                <li key={i}>
+                  <code>{'•'.repeat(Math.min(Math.max(c.code.length, 6), 14))}</code>
+                  {c.tag ? <span className="code-tag">{c.tag}</span> : null}
+                </li>
+              ))}
+            </ul>
+            <a href={`/${g.slug}/coupon/`} className="gate-btn">
+              쿠폰 코드 {g.active.length}개 확인하기
+            </a>
+            <p className="gate-note">다음 화면에서 코드를 눌러 바로 복사할 수 있습니다.</p>
+          </div>
         </section>
       ) : (
         <section className="block">
@@ -124,7 +139,7 @@ export default function GamePage({ params }) {
         <ol className="howto">
           <li>{g.name}을(를) 실행합니다.</li>
           <li>설정 · 프로필 · 이벤트 메뉴에서 쿠폰(코드) 입력란을 엽니다.</li>
-          <li>위에서 복사한 코드를 붙여넣습니다. 대소문자를 그대로 넣어야 합니다.</li>
+          <li>확인 화면에서 복사한 코드를 붙여넣습니다. 대소문자를 그대로 넣어야 합니다.</li>
           <li>확인을 누르면 보상이 우편함으로 들어옵니다.</li>
         </ol>
       </section>
