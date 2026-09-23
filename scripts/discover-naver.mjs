@@ -36,9 +36,17 @@ const GAMES_DIR = path.join(ROOT, 'data', 'games');
 
 /** 한 번에 순회할 라운지 수. --sweep=N 으로 바꾼다. 0이면 순회를 건너뛴다. */
 const SWEEP_PER_RUN = Number((process.argv.find((a) => a.startsWith('--sweep=')) || '').split('=')[1] ?? 60);
-/** 순위·신규 소스와 예전에 코드를 올린 적 있는 라운지는 2일, 나머지는 14일 안에 다시 안 본다. */
+/**
+ * 같은 라운지를 다시 보기까지의 간격.
+ * 14일로 두었더니 9/19 에 "코드 없음"으로 본 라운지가 9/22 에 올린 쿠폰(검선귀환·식물 운빨 디펜스·
+ * 용칼이 키우기 등 12곳)을 10/3 까지 못 보게 되어 있었다(2026-09-23 전수 대조). 전부 2일로 줄이고
+ * 한 번에 보는 수(--sweep)를 늘려 하루 남짓이면 한 바퀴 돌게 한다.
+ */
 const RECHECK_HOT_DAYS = 2;
-const RECHECK_DAYS = 14;
+const RECHECK_DAYS = 2;
+/** --probe=ID1,ID2 : 지정한 라운지를 지금 바로 확인해 코드가 있으면 목록에 넣는다(놓친 라운지 수동 반영용). */
+const PROBE_IDS = ((process.argv.find((a) => a.startsWith('--probe=')) || '').split('=')[1] || '')
+  .split(',').map((s) => s.trim()).filter(Boolean);
 
 // 사전예약·사전등록 이벤트도 후보로 본다. 코드가 실제로 읽히는 라운지만 들어가므로
 // "SNS 공유 인증" 같은 코드 없는 사전예약 이벤트는 여기서 걸러진다.
@@ -247,6 +255,21 @@ async function main() {
     if (!r.live) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
     added.push(r.g); known.add(c.loungeId.toLowerCase());
     console.log(`  + ${c.name} (${c.loungeId}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 근거: ${c.titles[0].slice(0, 50)}`);
+  }
+
+  // 지정 라운지 즉시 확인
+  if (PROBE_IDS.length) {
+    const full = await get(`${B1}/lounge/official`);
+    const names = new Map((full?.content?.officialLounges || []).map((x) => [String(x.loungeId), ent(x.loungeName || x.loungeId)]));
+    for (const id of PROBE_IDS) {
+      if (known.has(id.toLowerCase())) { console.log(`  = ${id}: 이미 목록에 있음`); continue; }
+      const r = await probe(id, names.get(id) || id, today);
+      mark(id, r);
+      if (r.error) { console.log(`  - ${id}: ${r.error}`); continue; }
+      if (!r.live) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+      added.push(r.g); known.add(id.toLowerCase());
+      console.log(`  + ${r.g.titleKo} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 지정 확인`);
+    }
   }
 
   // 2단계 — 전수 순회

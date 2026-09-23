@@ -206,6 +206,20 @@ function parseExpiry(text, postISO, allowRange = false) {
   }
   if (last) return last;
 
+  // "사용 기한: ~2026/9/17 23:59" / "사용 기간: 2026년 9월 23일 ~ 2026년 12월 31일" — 연도가 붙은 라벨 표기.
+  // 물결이 있으면 물결 뒤 날짜가 끝날이다. 라그나로크M 클래식 코드 8개가 이 표기를 못 읽어 만료 후에도
+  // 사용 가능으로 남았다(2026-09-23 검수).
+  const labY = text.match(/(?:사용\s*기한|사용\s*기간|유효\s*기간|만료\s*(?:시간|일자|일))\s*[:：]?\s*([^\n]{0,60})/);
+  if (labY) {
+    const seg = labY[1];
+    const dates = [...seg.matchAll(/(\d{4})\s*[년./-]\s*(\d{1,2})\s*[월./-]\s*(\d{1,2})/g)];
+    if (dates.length) {
+      const tilde = seg.indexOf('~') >= 0 ? seg.indexOf('~') : seg.indexOf('～');
+      const pick = tilde >= 0 ? (dates.find((d) => d.index > tilde) || dates[dates.length - 1]) : dates[dates.length - 1];
+      const v = iso(Number(pick[1]), Number(pick[2]), Number(pick[3]));
+      if (v) return v;
+    }
+  }
   // "유효 기간: ~ 9월 11일", "만료 시간 - [9/5 04:59]" 처럼 까지가 없는 표기는 라벨로 받는다.
   const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일))[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})/);
   if (lab) {
@@ -450,9 +464,26 @@ function merge(prev, freshCodes) {
  *      제목에 쿠폰·선물코드가 들어간 글만 본다. 게시판 전체를 읽으면 잡음이 크다.
  *      원스토어·구글플레이 "할인 쿠폰" 글은 게임 리딤 코드가 아니라서 반드시 뺀다.
  */
-const SECTION_RE = /이벤트|공지|혜택/;
+// 공지·이벤트 말고도 "게임소식"(드래곤에어), "점검&업데이트"(검선귀환)에 코드를 올리는 게임이 있다(2026-09-22 실측).
+// 유저 게시판·끝난 이벤트 게시판은 읽지 않는다.
+const SECTION_RE = /이벤트|공지|혜택|소식|뉴스|업데이트|점검|안내|event|notice|news|update/i;
+const SECTION_SKIP = /종료|당첨|결과|인증|자유|질문|건의|버그|공략|팁|가입|홍보|토론|창작|팬아트|스크린샷|길드|연맹|모집|후기|기대평/;
 const TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
+/**
+ * 본문에 "쿠폰 코드: XXXX" 처럼 라벨 바로 뒤에 코드가 적혀 있는지.
+ * 제목에 쿠폰이 없는 글도 이게 있으면 쿠폰 글로 본다 — 이터널 리턴 "보름달 특별 이벤트 및 패키지 출시 안내"
+ * 안의 ERGIFTBOX, 엘트릭스 "추석 특별 이벤트 안내" 안의 HAPPYCHUSEOK 를 제목 필터 때문에 놓쳤다(2026-09-22).
+ * 제목에 "원스토어"가 들어간 글도 이게 있으면 게임 코드다("[쿠폰] 원스토어 인기순위 TOP 3 기념" 의 PLTONETOP3).
+ */
+const BODY_LABEL_RE = /(?:쿠폰\s*(?:코드|번호)|교환\s*코드|선물\s*코드|기프트\s*코드|리딤\s*코드|CDK)[\s\u200b:：]{0,20}[【「\[(]?\s*[A-Za-z0-9]{5,20}/i;
+/** 코드 앞뒤 세 줄에 "할인 쿠폰"·"% 할인"이 있으면 웹상점·스토어 할인 코드다 — 게임 보상 코드가 아니다(드래곤 엠파이어 WEBSHOP26SEP). */
+function nearDiscount(text, code) {
+  const lines = text.split('\n');
+  const i = lines.findIndex((l) => l.includes(code));
+  if (i < 0) return false;
+  return /할인\s*쿠폰|%\s*할인|할인\s*코드/.test(lines.slice(Math.max(0, i - 3), i + 4).join(' '));
+}
 
 export async function collectOne(g) {
   const boardRes = await get(`${B1}/lounge/${g.loungeId}/board`);
@@ -464,7 +495,7 @@ export async function collectOne(g) {
   const primary = all.filter((b) => BOARD_RE.test(b.boardName));
   // 전용 게시판이 있어도 공지·이벤트는 같이 본다. 전용 게시판을 만들어 두고
   // 정작 코드는 공지에 올리는 게임이 있다(이것이 삼국지다 — 쿠폰 모음 게시판 1건).
-  const secondary = all.filter((b) => SECTION_RE.test(b.boardName) && !primary.includes(b)).slice(0, 4);
+  const secondary = all.filter((b) => SECTION_RE.test(b.boardName) && !SECTION_SKIP.test(b.boardName) && !primary.includes(b)).slice(0, 8);
   const boards = [...primary, ...secondary];
 
   if (!boards.length) return { ...g, error: '쿠폰 보드 없음' };
@@ -504,13 +535,14 @@ export async function collectOne(g) {
     for (const item of feed.content.feeds) {
       if (item.user?.userRoleCode === 'common_user') continue;   // 유저 글 제외
       const title = item.feed.title || '';
-      if (titleOnly && !TITLE_RE.test(title)) continue;
       const text = bodyText(item.feed.contents);
       if (!text) continue;
-      if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400)))) continue;
+      const labeled = BODY_LABEL_RE.test(text);
+      if (titleOnly && !TITLE_RE.test(title) && !labeled) continue;
+      if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400))) && !labeled) continue;
       const d = String(item.feed.createdDate || '');
       const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
-      const got = parseCodes(text, iso);
+      const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code));
       seenFeed.add(Number(item.feed.feedId));
       if (!got.length) continue;
       if (titleOnly) total += 1;
@@ -536,7 +568,6 @@ export async function collectOne(g) {
   for (const [feedId, ev] of events) {
     if (ev.loungeId.toLowerCase() !== String(g.loungeId).toLowerCase()) continue;
     if (!EVENT_TITLE_RE.test(ev.title) || seenFeed.has(feedId)) continue;
-    if (STORE_RE.test(ev.title) && !/쿠폰\s*코드|선물\s*코드/.test(ev.title)) continue;
     const res = await get(`${B1}/community/lounge/${g.loungeId}/feed/${feedId}`);
     await sleep(300);
     seenFeed.add(feedId);
@@ -544,10 +575,12 @@ export async function collectOne(g) {
     if (!item?.feed) { locked = locked || !res; continue; }
     if (item.user?.userRoleCode === 'common_user') continue;
     const text = bodyText(item.feed.contents);
-    if (!text || STORE_RE.test(text.slice(0, 400))) continue;
+    if (!text) continue;
+    // 스토어 할인 이벤트는 거른다. 단 본문에 "쿠폰 코드: …" 가 있으면 게임 코드다.
+    if ((STORE_RE.test(ev.title) || STORE_RE.test(text.slice(0, 400))) && !BODY_LABEL_RE.test(text)) continue;
     const d = String(item.feed.createdDate || '');
     const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
-    const got = parseCodes(text, iso);
+    const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code));
     if (!got.length) continue;
     total += 1;
     applyEvent(got, feedId);

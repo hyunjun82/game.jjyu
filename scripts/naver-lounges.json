@@ -881,6 +881,171 @@
       "titleKo": "용호상박",
       "titleEn": "Dragon N Tiger",
       "auto": "2026-09-23"
+    },
+    {
+      "slug": "lucky-plant-defense",
+      "loungeId": "Lucky_Plant_Defense",
+      "titleKo": "식물 운빨 디펜스",
+      "titleEn": "Lucky Plant Defense",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "sword-immortal",
+      "loungeId": "SwordImmortal",
+      "titleKo": "검선귀환",
+      "titleEn": "Sword Immortal",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "sword-x-staff",
+      "loungeId": "SwordxStaff",
+      "titleKo": "소드 x 스태프",
+      "titleEn": "Swordx Staff",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "realgod",
+      "loungeId": "Realgod",
+      "titleKo": "엘트릭스",
+      "titleEn": "Realgod",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "three-kingdoms-conquering-the-world",
+      "loungeId": "Three_Kingdoms_Conquering_the_World",
+      "titleKo": "삼국지: 구주제패",
+      "titleEn": "Three Kingdoms Conquering The World",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "dragonblade-grow",
+      "loungeId": "Dragonblade_Grow",
+      "titleKo": "용칼이 키우기",
+      "titleEn": "Dragonblade Grow",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "idle-king",
+      "loungeId": "IdleKing",
+      "titleKo": "킹방치: 빵지의 제왕",
+      "titleEn": "Idle King",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "martial-arts",
+      "loungeId": "MartialArts",
+      "titleKo": "정사",
+      "titleEn": "Martial Arts",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "redmythnezha",
+      "loungeId": "redmythnezha",
+      "titleKo": "붉은 신화 : 나타",
+      "titleEn": "Redmythnezha",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "star-of-the-overlord",
+      "loungeId": "Star_of_the_Overlord",
+      "titleKo": "패왕의별M",
+      "titleEn": "Star Of The Overlord",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "stone-three-kingdoms",
+      "loungeId": "StoneThreeKingdoms",
+      "titleKo": "석기삼국: 타임리프 삼국지",
+      "titleEn": "Stone Three Kingdoms",
+      "auto": "2026-09-23"
+    },
+    {
+      "slug": "archero-2",
+      "loungeId": "Archero2",
+      "titleKo": "궁수의 전설2",
+      "titleEn": "Archero 2",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "bleach-soul-resonance",
+      "loungeId": "BLEACH_Soul_Resonance",
+      "titleKo": "블리치: 소울 레조넌스",
+      "titleEn": "Bleach Soul Resonance",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "dragon-village-3",
+      "loungeId": "Dragon_Village3",
+      "titleKo": "드래곤빌리지3",
+      "titleEn": "Dragon Village 3",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "last-asylum-plague",
+      "loungeId": "Last_Asylum_Plague",
+      "titleKo": "라스트 어사일럼: 페스트",
+      "titleEn": "Last Asylum: Plague",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "mech-assemble-zombie-swarm",
+      "loungeId": "Mech_Assemble_Zombie_Swarm",
+      "titleKo": "메카 어셈블:좀비 스웜",
+      "titleEn": "Mech Assemble Zombie Swarm",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "palmon-survival",
+      "loungeId": "PalmonSurvival",
+      "titleKo": "팰몬: 서바이벌",
+      "titleEn": "Palmon Survival",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "the-grand-mafia",
+      "loungeId": "The_Grand_Mafia",
+      "titleKo": "더 그랜드 마피아",
+      "titleEn": "The Grand Mafia",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "valhalla-survival",
+      "loungeId": "valhallasurvival",
+      "titleKo": "발할라 서바이벌",
+      "titleEn": "Valhalla Survival",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "wittle-defender",
+      "loungeId": "Wittle_Defender",
+      "titleKo": "콩콩던전",
+      "titleEn": "Wittle Defender",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
+    },
+    {
+      "slug": "yuyu-hakusho-slugfest",
+      "loungeId": "Yu_Yu_Hakusho_Slugfest",
+      "titleKo": "유유백서: 격전",
+      "titleEn": "Yu Yu Hakusho Slugfest",
+      "auto": "2026-09-23",
+      "note": "해외 소스 페이지를 같은 주소로 한국 라운지에 연결"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
