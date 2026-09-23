@@ -1,0 +1,68 @@
+{
+  "slug": "last-echo",
+  "titleEn": "Last Echo",
+  "titleKo": "라스트 에코",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDJfMjA2/MDAxNzg4MzQwNzg0MDcx.y3Hduk0I3DRTXb2FeqM-ADxqN2sxAmWAnraeHLmKmfcg.YcRSqSdDb3j1SAliV1vDNGN-1gF10xtFc4ustqk1Sg8g.JPEG/900X383_%E9%9F%A9%E6%96%87.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Last_Echo",
+  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8156295",
+  "howTo": "",
+  "postCount": 6,
+  "updatedAt": "2026-09-23T22:37:26.462Z",
+  "codes": [
+    {
+      "code": "FANPACK",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-06",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "code": "DOGDAY",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-26",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "code": "LENGUD",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-18",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "code": "LEFAN25K",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    },
+    {
+      "code": "CATDAYLC",
+      "reward": "",
+      "expiry": "2026-09-01",
+      "postedAt": "2026-08-08",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    },
+    {
+      "code": "DRACULALE",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-05-26",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    }
+  ]
+}

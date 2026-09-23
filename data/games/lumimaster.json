@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-23T19:23:32.756Z",
+  "updatedAt": "2026-09-23T22:40:31.571Z",
   "codes": [
+    {
+      "code": "LUCKY777",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
     {
       "code": "HAPPYJUNE",
       "reward": "",
@@ -23,16 +33,6 @@
       "expiry": null,
       "postedAt": "2026-09-17",
       "sourceUrl": "https://blog.naver.com/orin2611/224415411977",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
-      "status": "active"
-    },
-    {
-      "code": "LUCKY777",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-18",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-24",
       "status": "active"

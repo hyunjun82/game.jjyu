@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T19:24:54.219Z",
+  "generatedAt": "2026-09-23T22:42:14.070Z",
   "today": "2026-09-24",
-  "todayNew": 7,
+  "todayNew": 18,
   "totals": {
-    "games": 173,
-    "codes": 2334,
-    "active": 459,
-    "expired": 1875,
-    "withExpiry": 1431
+    "games": 174,
+    "codes": 2345,
+    "active": 465,
+    "expired": 1880,
+    "withExpiry": 1437
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-24",
-      "count": 7
+      "count": 18
     }
   ],
   "expiringSoon": [
@@ -244,6 +244,12 @@
     },
     {
       "slug": "vardian",
+      "code": "CHUSEOK2026",
+      "expiry": "2026-09-27",
+      "days": 3
+    },
+    {
+      "slug": "vardian",
       "code": "UP921",
       "expiry": "2026-09-27",
       "days": 3
@@ -359,12 +365,6 @@
     {
       "slug": "the-grand-mafia",
       "code": "oktober26f3st",
-      "expiry": "2026-09-28",
-      "days": 4
-    },
-    {
-      "slug": "the-warrior-returns-afk",
-      "code": "WRGETBELT",
       "expiry": "2026-09-28",
       "days": 4
     }
