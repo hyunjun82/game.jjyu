@@ -3,9 +3,20 @@
   "titleEn": "Heartopia",
   "titleKo": "두근두근타운",
   "image": "https://media.pocketgamer.com/artwork/na-37825-1767889075/heartopia-launch-keyvis.jpg",
-  "sourcePath": "/heartopia/codes/",
-  "updatedAt": "2026-09-22T22:16:28.725Z",
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-23T00:56:02.071Z",
   "codes": [
+    {
+      "code": "r8a4k6p5q3m1",
+      "reward": "",
+      "expiry": "2026-10-09",
+      "postedAt": "2026-09-16",
+      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224413257107",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "p3m7r5q9k2",
       "reward": "3 Coffee beans, 3 Wishing Stars, 1 Roaming Oak Timber",
@@ -439,33 +450,33 @@
       "status": "active"
     },
     {
-      "code": "p2k8n5r7q1a6",
+      "code": "k5p1r8a2n6q7",
       "reward": "",
-      "expiry": "2026-08-31",
-      "postedAt": "2026-08-24",
-      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388804058",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-22",
+      "expiry": "2026-09-07",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394255838",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
       "status": "expired"
     },
     {
-      "code": "r8a4k6p5q3m1",
+      "code": "p2k8n5r7q1a6",
       "reward": "",
-      "expiry": "2026-10-09",
-      "postedAt": "2026-09-16",
-      "sourceUrl": "https://blog.naver.com/xihuifevghzr/224413257107",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-22",
+      "expiry": "2026-09-07",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394255838",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "status": "expired"
     },
     {
       "code": "a7m4q9r3k6n2",
       "reward": "",
-      "expiry": "2026-08-31",
-      "postedAt": "2026-08-24",
-      "sourceUrl": "https://blog.naver.com/vnypodpsxjfk/224388804058",
+      "expiry": "2026-09-07",
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394255838",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "status": "expired"
     },
     {

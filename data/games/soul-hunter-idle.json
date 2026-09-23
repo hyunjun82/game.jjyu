@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8000212",
   "howTo": "1. AOS의 경우,",
   "postCount": 13,
-  "updatedAt": "2026-09-22T22:21:40.652Z",
+  "updatedAt": "2026-09-23T00:47:47.361Z",
   "codes": [
+    {
+      "code": "GM0021",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-06",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
     {
       "code": "COLLABO",
       "reward": "",
@@ -101,24 +110,6 @@
       "status": "expired"
     },
     {
-      "code": "GM0019",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-02-06",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "GM0020",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-02-06",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
       "code": "NEW0001",
       "reward": "",
       "expiry": null,
@@ -132,6 +123,24 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2025-12-25",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "GM0019",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "GM0020",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-06",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
       "status": "expired"

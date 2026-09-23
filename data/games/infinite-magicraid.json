@@ -4,7 +4,7 @@
   "titleKo": null,
   "image": "https://media.pocketgamer.com/artwork/ra-91575-1661269831/infinite-magicraid.jpg",
   "sourcePath": "/infinite-magicraid/codes/",
-  "updatedAt": "2026-09-22T22:16:29.886Z",
+  "updatedAt": "2026-09-23T00:39:49.540Z",
   "codes": [
     {
       "code": "TREAT2025",
@@ -82,6 +82,14 @@
       "code": "IM777",
       "reward": "10 Excellent Runes, X777 Diamonds, and 777K Coins",
       "expiry": null,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "PAND1TOFA3",
+      "reward": "1,000 Diamonds (expires August 24th)",
+      "expiry": "2027-08-24",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-23",
       "status": "active"
@@ -986,14 +994,6 @@
       "code": "4THANNIVSIGN",
       "reward": "1,000 Diamonds, 10M Coins (expires August 31st)",
       "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "PAND1TOFA3",
-      "reward": "1,000 Diamonds (expires August 24th)",
-      "expiry": "2026-08-24",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-23",
       "status": "expired"
