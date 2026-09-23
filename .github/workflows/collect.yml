@@ -18,27 +18,35 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 50
     steps:
-      - uses: actions/checkout@v4
+      # v4 는 Node20 위에서 도는 액션이다.
+      # 깃허브가 2026-09-23 자로 러너에서 Node20 을 완전히 제거해서
+      # v4 를 쓰면 매 실행마다 "Node.js 20은 더 이상 사용되지 않습니다" 경고가 붙는다.
+      # v5 가 Node24 로 올라간 첫 메이저 버전이다.
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      # node-version 은 위 경고와 별개다 — 수집 스크립트를 돌릴 Node 다.
+      # Node20 은 2026-04 로 수명이 끝났다. 22 는 LTS 이고 sharp 0.33.5 요구사항
+      # (^18.17 || ^20.3 || >=21)도 만족한다.
+      - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
 
-      - name: 쿠폰 수집
-        id: run
-        run: node scripts/collect.mjs | tee /tmp/out.log
+      # 해외 코드 허브(Pocket Gamer) 수집은 뺐다(2026-09-23). 한국 사람이 영문 게임 쿠폰을 한국 사이트에서
+      # 찾지 않고, 만료 목록 코드를 사용 가능으로 올리는 문제까지 있었다. 한국 출처(네이버 라운지·검색)만 쓴다.
+      - name: 해외 게임 정리
+        run: node scripts/drop-overseas.mjs | tee /tmp/out.log
 
       # 수집 결과를 숫자로 남긴다. 홈의 "오늘 새 쿠폰 N개" 배지와
       # 수집기가 조용히 죽었는지 확인하는 근거가 된다.
       # 쿠폰 내는 라운지를 찾아 목록(scripts/naver-lounges.json)에 자동으로 넣는다.
       #   1단계: 홈 "따끈따끈 이벤트 소식"의 쿠폰·사전예약 이벤트 라운지
-      #   2단계: 공식 라운지 전체(2,300개) 순회 — 신규·인기 순위부터, 한 번에 120개씩
-      #   (깃허브가 예약 실행을 실제로는 2시간에 한 번꼴로 돌려서 60개로는 한 바퀴에 3일 걸린다)
+      #   2단계: 공식 라운지 전체(2,300개) 순회 — 신규·인기 순위부터, 한 번에 180개씩
+      #   (깃허브가 예약 실행을 2시간에 한 번꼴로 돌린다. 180개면 하루 남짓에 한 바퀴 — 라운지마다 2일 안에 다시 본다)
       # 실제 코드가 읽히는 라운지만 넣는다. 순회 기록은 scripts/naver-sweep.json.
       - name: 네이버 쿠폰 라운지 발굴
-        run: node scripts/discover-naver.mjs --sweep=120 | tee -a /tmp/out.log
+        run: node scripts/discover-naver.mjs --sweep=180 | tee -a /tmp/out.log
 
       # 네이버 게임 라운지 — 국내 게임 쿠폰의 주 소스.
       # 삼국지:리버스·넋나간 삼국지는 매주 금요일, 심연 삼국은 주 1~2회 코드를 올린다.
@@ -62,7 +70,7 @@ jobs:
 
       - name: 변경분 커밋
         run: |
-          CHANGED=$(grep -oP 'COLLECT_CHANGED=\K[0-9]+' /tmp/out.log | tail -1)
+          CHANGED=$(grep -oP 'NAVER_CHANGED=\K[0-9]+' /tmp/out.log | tail -1)
           NEW=$(grep -oP 'STATS_TODAY_NEW=\K[0-9]+' /tmp/out.log | tail -1)
           ADDED=$(grep -oP 'DISCOVER_ADDED=\K[0-9]+' /tmp/out.log | tail -1)
           echo "변경된 게임: ${CHANGED:-0} / 오늘 신규 코드: ${NEW:-0} / 새로 찾은 게임: ${ADDED:-0}"
