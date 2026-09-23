@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/tacticsbaseball/board/detail/8210309",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-09-23T10:16:29.690Z",
+  "updatedAt": "2026-09-23T15:17:07.082Z",
   "codes": [
-    {
-      "code": "GROW2026",
-      "reward": "",
-      "expiry": "2026-09-23",
-      "postedAt": "2026-09-19",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
     {
       "code": "KBOMANAGER",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "active"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "active"
     },
     {
@@ -43,8 +34,17 @@
       "expiry": null,
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "active"
+    },
+    {
+      "code": "GROW2026",
+      "reward": "",
+      "expiry": "2026-09-23",
+      "postedAt": "2026-09-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
     },
     {
       "code": "START2026",
@@ -52,8 +52,8 @@
       "expiry": "2026-09-23",
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "lastSeen": "2026-09-24",
+      "status": "expired"
     }
   ]
 }

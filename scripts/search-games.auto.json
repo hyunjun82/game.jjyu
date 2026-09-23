@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-23T10:10:35.952Z",
+  "generatedAt": "2026-09-23T15:11:24.238Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -9,16 +9,16 @@
       "titleEn": "Tukiers God Tier Life Idle Tycoon"
     },
     {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
-    },
-    {
       "slug": "romantic-gangho",
       "loungeId": "RomanticGangho",
       "titleKo": "낭만강호",
       "titleEn": "Romantic Gangho"
+    },
+    {
+      "slug": "rellion",
+      "loungeId": "rellion",
+      "titleKo": "렐리온: NPC들의 생존기",
+      "titleEn": "Rellion"
     },
     {
       "slug": "inferno-nine",
@@ -33,34 +33,16 @@
       "titleEn": "Lumimaster"
     },
     {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
+    },
+    {
       "slug": "tales-runner-rpg",
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
-    },
-    {
-      "slug": "rellion",
-      "loungeId": "rellion",
-      "titleKo": "렐리온: NPC들의 생존기",
-      "titleEn": "Rellion"
-    },
-    {
-      "slug": "isekai-fantasy-life",
-      "loungeId": "IsekaiFantasyLife",
-      "titleKo": "이세계 판타지 라이프",
-      "titleEn": "Isekai Fantasy Life"
-    },
-    {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
-    },
-    {
-      "slug": "ragnarok-origin-classic-korean",
-      "loungeId": "Ragnarok_Origin_Classic_Korean",
-      "titleKo": "라그나로크 오리진 클래식",
-      "titleEn": "Ragnarok Origin Classic Korean"
     },
     {
       "slug": "officequeen",
@@ -69,10 +51,16 @@
       "titleEn": "Officequeen"
     },
     {
-      "slug": "heartopia",
-      "loungeId": "Heartopia",
-      "titleKo": "두근두근타운",
-      "titleEn": "Heartopia"
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights Endfield"
+    },
+    {
+      "slug": "isekai-fantasy-life",
+      "loungeId": "IsekaiFantasyLife",
+      "titleKo": "이세계 판타지 라이프",
+      "titleEn": "Isekai Fantasy Life"
     },
     {
       "slug": "racingmaster",
@@ -81,22 +69,28 @@
       "titleEn": "Racingmaster"
     },
     {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights Endfield"
-    },
-    {
       "slug": "forest-sigh-neverland",
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "ragnarok-origin-classic-korean",
+      "loungeId": "Ragnarok_Origin_Classic_Korean",
+      "titleKo": "라그나로크 오리진 클래식",
+      "titleEn": "Ragnarok Origin Classic Korean"
+    },
+    {
       "slug": "gear-paw-defenders",
       "loungeId": "GearPaw_Defenders",
       "titleKo": "기어몬: 타워 디펜스",
       "titleEn": "Gear Paw Defenders"
+    },
+    {
+      "slug": "heartopia",
+      "loungeId": "Heartopia",
+      "titleKo": "두근두근타운",
+      "titleEn": "Heartopia"
     },
     {
       "slug": "tree-of-savior-neverland",
@@ -129,16 +123,22 @@
       "titleEn": "Kingshipfight"
     },
     {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
+    },
+    {
       "slug": "ghostsoulm",
       "loungeId": "ghostsoulm",
       "titleKo": "귀혼M",
       "titleEn": "Ghostsoulm"
     },
     {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
+      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
+      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
+      "titleKo": "신수의 전설",
+      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
     }
   ]
 }

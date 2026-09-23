@@ -2,14 +2,23 @@
   "slug": "brown-dust-2",
   "titleEn": "Brown Dust 2",
   "titleKo": "브라운더스트2",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjhfMTMg/MDAxNzg3OTEzMjY2NTEz.KlDoVb-eVa-gy-V4wSHAD35hh1C1P1nuUceuWySF_BYg.wZIlwDoXhMvsFhfU6KoccXErU6G9HtFX927bJSX60rMg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMTEy/MDAxNzkwMTU3MTg1MjEy.zuvFQc_Fo_7q7jhmVuswjXHzWqtCCZfbQSc0bnS7UOMg.MD_d_z7dZMrJOFAetA27AVEAwA7H11FheyYaM4qpEyIg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
   "source": "naver-lounge",
   "loungeId": "BrownDust2",
-  "sourceUrl": "https://game.naver.com/lounge/BrownDust2/board/detail/8126633",
-  "howTo": "1. Android 기기는 게임 내 [기타] > [쿠폰 등록]에서 쿠폰을 사용하실 수 있습니다. 2. 브라운더스트2 공식 사이트에서도 쿠폰을 사용하실 수 있습니다.",
+  "sourceUrl": "https://game.naver.com/lounge/BrownDust2/board/detail/8230774",
+  "howTo": "1. Android 기기는 게임 내 [기타] > [쿠폰 등록]에서 쿠폰을 사용하실 수 있습니다. 2. iOS 기기는 아래 링크에서 쿠폰을 사용하실 수 있습니다.",
   "postCount": 1,
-  "updatedAt": "2026-09-23T01:29:22.798Z",
+  "updatedAt": "2026-09-23T15:13:12.259Z",
   "codes": [
+    {
+      "code": "FULLMOON26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
     {
       "code": "2026BD2SEP",
       "reward": "",
