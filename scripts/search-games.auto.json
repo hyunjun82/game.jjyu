@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-23T05:22:04.687Z",
+  "generatedAt": "2026-09-23T10:10:35.952Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -133,6 +133,12 @@
       "loungeId": "ghostsoulm",
       "titleKo": "귀혼M",
       "titleEn": "Ghostsoulm"
+    },
+    {
+      "slug": "tt-tiny-tales",
+      "loungeId": "TT_Tiny_Tales",
+      "titleKo": "TT: 타이니 테일즈",
+      "titleEn": "Tt Tiny Tales"
     }
   ]
 }

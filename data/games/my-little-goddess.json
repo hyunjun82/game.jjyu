@@ -2,19 +2,28 @@
   "slug": "my-little-goddess",
   "titleEn": "My Little Goddess",
   "titleKo": "마이 리틀 가디스: 방치형 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDJfMTUg/MDAxNzg4MzI1MTEyMjk3.ObnjMi0Ri81Q5e8RbQqVaK4dfQaVlnGDi5MhFsSNHPUg.Ui1w3nT02FLB4mPegPpcI7fYPdhtxTl0_-wQrg2JX58g.PNG/Gemini_Generated_Image_u6p6pzu6p6pzu6p6_(1).png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfNjQg/MDAxNzkwMTUyMjc2Nzk0.eoUwv8uSlx3jFSUH4ucbzeFASM9ijxDlgq_eJRuTX6Qg.sLtPwr6wHFR4qjN2rTkuMR85pHbT4GiDREPAJjXm9EEg.PNG/Gemini_Generated_Image_u6p6pzu6p6pzu6p6_(1).png",
   "source": "naver-lounge",
   "loungeId": "MyLittleGoddess",
-  "sourceUrl": "https://game.naver.com/lounge/MyLittleGoddess/board/detail/8135433",
+  "sourceUrl": "https://game.naver.com/lounge/MyLittleGoddess/board/detail/8228853",
   "howTo": "",
-  "postCount": 6,
-  "updatedAt": "2026-09-23T05:30:02.128Z",
+  "postCount": 7,
+  "updatedAt": "2026-09-23T10:17:47.142Z",
   "codes": [
+    {
+      "code": "SEPTEMBER25",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "SEPTEMBER",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-09-02",
+      "postedAt": "2026-09-23",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "active"
@@ -23,7 +32,7 @@
       "code": "SUMMER",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-09-02",
+      "postedAt": "2026-09-23",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "active"
@@ -32,7 +41,7 @@
       "code": "AUGUST15",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-09-02",
+      "postedAt": "2026-09-23",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "active"
@@ -41,7 +50,7 @@
       "code": "JULY17",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-09-02",
+      "postedAt": "2026-09-23",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "active"

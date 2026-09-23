@@ -2,22 +2,58 @@
   "slug": "soul-hunter-idle",
   "titleEn": "Soul Hunter Idle",
   "titleKo": "소울 헌터 키우기: 방치형 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjlfMjcw/MDAxNzg1MzMwNTU5MDk5.g1uj2tu3gixRQNCuOA857zVZHd402hawKUrrr0t_D70g.YlnQxSqVPyTGGljkoKw2Wffk1RmzAbAIZxem5OEHi0sg.PNG/image.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMjUy/MDAxNzkwMTUzOTY5Njc3.PIEEec8Hh2g6OO3a6SWjLdA4FsXOQ8eUUhfN4NzJSJAg.7i4k3bus0_BTZ6AotjOFX01kJZ1dtf_LOEgQcfE0umwg.PNG/sh_clb_htc_main_bg.png",
   "source": "naver-lounge",
   "loungeId": "Soul_Hunter_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8000212",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8229011",
   "howTo": "1. AOS의 경우,",
-  "postCount": 13,
-  "updatedAt": "2026-09-23T05:24:38.503Z",
+  "postCount": 14,
+  "updatedAt": "2026-09-23T10:12:49.083Z",
   "codes": [
+    {
+      "code": "CHUSEOK",
+      "reward": "",
+      "expiry": "2026-12-30",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "GM0021",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-30",
       "postedAt": "2026-02-06",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
+    },
+    {
+      "code": "100DAYTHX",
+      "reward": "",
+      "expiry": "2026-12-30",
+      "postedAt": "2026-02-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "OPEN1217",
+      "reward": "",
+      "expiry": "2026-12-30",
+      "postedAt": "2026-02-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "RANK01",
+      "reward": "",
+      "expiry": "2026-12-30",
+      "postedAt": "2026-02-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "active"
     },
     {
       "code": "COLLABO",
@@ -74,37 +110,10 @@
       "status": "expired"
     },
     {
-      "code": "100DAYTHX",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-03-26",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
       "code": "LUNARYEAR",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-02-14",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "OPEN1217",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-02-06",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "RANK01",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-02-06",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
       "status": "expired"

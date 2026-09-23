@@ -8,7 +8,7 @@
   "1003bk": {
    "at": "2026-09-23",
    "live": 0,
-   "total": 2
+   "total": 1
   },
   "METIN_Prelude_to_Doom": {
    "at": "2026-09-22",
@@ -2186,7 +2186,7 @@
    "error": "코드 없음"
   },
   "DARKEDEN_R": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "DARKEST_DAYS": {
@@ -2195,7 +2195,7 @@
    "total": 6
   },
   "DarkHeroKiugi": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Darklord_Saga": {
@@ -2204,19 +2204,19 @@
    "total": 11
   },
   "darkpellM": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "darkrevenge": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Darkstar_Idle_RPG": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DarkTide": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "darktower": {
@@ -2225,24 +2225,24 @@
    "total": 8
   },
   "darkvalkyrie": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DARMIAN_FAMILY": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Dawns_Edge": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Days_of_Doomsday": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dbbpm": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DDTAAN": {
    "at": "2026-09-23",
@@ -2250,55 +2250,57 @@
    "total": 29
   },
   "Dead_by_Daylight_Mobile": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "sidebullet": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Death_Crow_idle": {
-   "at": "2026-09-19",
-   "error": "코드 없음"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 2
   },
   "Death_Stranding": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "deathbringer": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DeathGard": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "deathknight": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "DEFENDUN": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "defensederby": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "defenseking": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "DEICIDE": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Delusion_Tactical_Idle_RPG": {
-   "at": "2026-09-19",
-   "error": "코드 없음"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 1
   },
   "demigod_idle_rpg": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Demon_Hunter": {
@@ -2312,16 +2314,17 @@
    "total": 28
   },
   "Demon_Hunters_Story": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Demon_Moon": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Demon_Sorceress": {
-   "at": "2026-09-19",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 6
   },
   "Demon_Squad_Idle": {
    "at": "2026-09-23",
@@ -2329,8 +2332,8 @@
    "total": 5
   },
   "Demon_Strike_Corp": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Demon_Sword": {
    "at": "2026-09-23",
@@ -2338,8 +2341,8 @@
    "total": 17
   },
   "Demoncat": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Demonic_Academy": {
    "at": "2026-09-23",
@@ -2347,24 +2350,24 @@
    "total": 2
   },
   "demonictao": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "demonsamguk": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Descendants_of_the_Moon": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Destiny_Child_for_kakao": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Deva_Mara": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Devilbook": {
    "at": "2026-09-23",
@@ -2372,23 +2375,23 @@
    "total": 1
   },
   "DEVIL_BUTLER_WITH_BLACK_CAT": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Devil_Hunter_Idle": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Devil_May_Cry_Peak_of_Combat": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Devil_Note": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "DEVIL_SLAYER": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "devilnote": {
@@ -2397,11 +2400,11 @@
    "total": 4
   },
   "devilsummoner": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Deviruchi": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "JoJo_Dream": {
@@ -2414,16 +2417,16 @@
    "error": "쿠폰 보드 없음"
   },
   "Diablo_Immortal": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Diablo2_Resurrected": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DialogueMoon": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "dicerco": {
    "at": "2026-09-23",
@@ -2431,31 +2434,31 @@
    "total": 3
   },
   "Digimon_Soul_Chaser_Season4": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Digimon_Super_Rumble": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dignity_of_the_Mawang": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DIAN": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dimensional_mercenary": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "discovery_of_treasure": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "DISGAEA_RPG": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dislyte": {
@@ -2469,12 +2472,12 @@
    "total": 5
   },
   "Disney_Realm_Breakers": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Divergence": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Divine_Edge": {
    "at": "2026-09-23",
@@ -2482,24 +2485,26 @@
    "total": 8
   },
   "Divine_Fallen_God": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DK_Mobile_THE_ORIGIN": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dldlef": {
-   "at": "2026-09-19",
-   "error": "코드 없음"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 4
   },
   "DM_EPICNINE": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "DNK": {
-   "at": "2026-09-19",
-   "error": "코드 없음"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 1
   },
   "DoE_Dungeon_of_Exile": {
    "at": "2026-09-23",
@@ -2507,75 +2512,76 @@
    "total": 1
   },
   "DogAdventure": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "dohwagiyeon": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dokkaebi_Girl": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dominations": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Dominion": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Doodle_Hero": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Doodle_Magic_Wizard_vs_Slime": {
-   "at": "2026-09-19",
-   "error": "코드 없음"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 1
   },
   "Dooms_Hair_Salon": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Doomsday_team": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DoomsdayVanguard": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DOSA_Guardians": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DOSA_Survivor": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dothero": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "dotoridoguldan_hamstory": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "doubleuptd": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "draconia": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DragOn": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Blood_Raider": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dragon_Empire": {
@@ -2583,39 +2589,39 @@
    "error": "코드 없음"
   },
   "Dragon_Flight_for_Kakao": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dragon_god_judge": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DQSG": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Rider_Idle": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dragon_ring_Origins": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Slayer_Maker": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Dragon_Village": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Village_Arena": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Village_Collection": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Village_Grand_Battle": {
@@ -2624,15 +2630,15 @@
    "total": 1
   },
   "Dragon_Village_M": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DRAGON_VILLAGE_NEW": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Village_Rumble": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Village_Survival": {
@@ -2641,19 +2647,19 @@
    "total": 1
   },
   "DRAGON_VILLAGE_X": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragon_Village2": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dragon_war": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DRAGON_WRATH": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragonblade_Grow": {
@@ -2661,7 +2667,7 @@
    "error": "보드 잠김(가입 필요)"
   },
   "dragoneersquad": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "DragonEgg_WaroftheGods": {
@@ -2674,16 +2680,16 @@
    "error": "보드 잠김(가입 필요)"
   },
   "Dragonion": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DragonNest_Classic": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DragonNest2_Evolution": {
-   "at": "2026-09-19",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DragonnestWorld": {
    "at": "2026-09-19",
@@ -2696,59 +2702,59 @@
    "total": 4
   },
   "Dragonraid": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dragonraja_Origin": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dragonrajaex": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Dragons_Blood_Curse": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DragonSaver": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "DragonSlayer": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DragonSpear_Myu": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dragonsurvival": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Dragoon_Of_The_Wind": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Drawoolly": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Drawshop": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dream_furniture": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dream_Garden_Cozy_Lite_Management": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dream_Mercenary_Corps": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "dream_samguk": {
@@ -2757,23 +2763,23 @@
    "total": 1
   },
   "dream9p": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "DreamLand": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Drift_Racing_3v3": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DroiyanM": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Dropkick_on_My_Devil": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Druid_Rising": {
@@ -2782,31 +2788,32 @@
    "total": 23
   },
   "Druwa_Dungeon_Origin": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "DTSDJ": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Duet_Night_Abyss": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "dugeundefense": {
-   "at": "2026-09-19",
-   "error": "코드 없음"
+   "at": "2026-09-23",
+   "live": 0,
+   "total": 5
   },
   "Dullahan_Idle": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dune_Awakening": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dungeon_and_warriors": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Dungeon_Breaker": {
@@ -2815,7 +2822,7 @@
    "total": 28
   },
   "Dungeon_English": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Dungeon_Hunter6_Awakening": {
@@ -2843,27 +2850,27 @@
    "total": 11
   },
   "Dungeoncube": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DungeonCubeDefense": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DungeonDrop": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "DungeonDungeon": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "DungeonOfThreeMan": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "dunjeonpang": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "dustadventure": {
@@ -2872,23 +2879,23 @@
    "total": 7
   },
   "Dusty_Derby": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dwarfidlerpg": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "dx_awaken": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Dying_Light_The_Beast": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "dynamiteblue": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Dynasty_Warriors_Overlords": {
@@ -2897,35 +2904,35 @@
    "total": 5
   },
   "earth_defense_club": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "eater": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Echocalypse_Scarlet_Covenant": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Echoes_Of_Mana": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "eclipseknight": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Edena": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "eggmon": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "eggmonkey": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "EggUready_Grow_Together": {
@@ -2944,15 +2951,15 @@
    "total": 3
   },
   "ehrjatjsdur": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "elcaine": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Elderra_Online": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Eldorado": {
@@ -2960,23 +2967,23 @@
    "error": "쿠폰 보드 없음"
   },
   "Eldritch_Survivors": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Elemental_2DMMORPG": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "elementspire": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "elfidle": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "Ellestory": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Elpiece_M": {
@@ -2985,7 +2992,7 @@
    "total": 6
   },
   "emperors_call": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "Empires_Puzzles": {
@@ -2993,23 +3000,23 @@
    "error": "코드 없음"
   },
   "empress": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Emptiness": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "endlesscycle": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "EndlessHeroes": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Energy": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "EoCKR": {
@@ -3018,19 +3025,19 @@
    "total": 1
   },
   "EOE": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "EoR": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "EOS_Idle_Warrior": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "쿠폰 보드 없음"
   },
   "Epic_Age": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "코드 없음"
   },
   "epicarena": {
@@ -4494,8 +4501,8 @@
    "total": 1
   },
   "isekai_life": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "IsekaiFantasyLife": {
    "at": "2026-09-23",
@@ -8667,7 +8674,7 @@
    "error": "코드 없음"
   },
   "TT_Tiny_Tales": {
-   "at": "2026-09-19",
+   "at": "2026-09-23",
    "error": "보드 잠김(가입 필요)"
   },
   "TTTTOWER": {
@@ -9293,8 +9300,8 @@
    "total": 32
   },
   "zshh": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Tap_Giants": {
    "at": "2026-09-23",
@@ -9397,8 +9404,8 @@
    "error": "쿠폰 보드 없음"
   },
   "Ultimate_Fishing_Simulator": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Raising_Animal_Friends": {
    "at": "2026-09-19",
@@ -10494,8 +10501,8 @@
    "error": "쿠폰 보드 없음"
   },
   "StarCraft_Brood_War": {
-   "at": "2026-09-21",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-23",
+   "error": "코드 없음"
   },
   "Alan_Wake_Remastered": {
    "at": "2026-09-21",
@@ -11609,6 +11616,66 @@
    "error": "코드 없음"
   },
   "Merge_Survival_Wasteland": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Songs_of_Glimmerwick": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Go_West_Together": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Eternium": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Street_Fighter6": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Match_War_Puzzle_Defense": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Mewgenics": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Underground_Garage": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "The_Legend_of_Fancy_Realm_Remake": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Tour_de_France2026": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Danganronpa_Trigger_Happy_Havoc": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Football_Manager_2024": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Alan_Wake": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "ChulHyeolSamguk": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Completely_Stretchy": {
+   "at": "2026-09-23",
+   "error": "코드 없음"
+  },
+  "Dark_Pals_The1st_Floor": {
    "at": "2026-09-23",
    "error": "코드 없음"
   }
