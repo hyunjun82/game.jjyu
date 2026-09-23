@@ -73,6 +73,22 @@ export default function CouponPage({ params }) {
         </section>
       )}
 
+      {/* 게임 페이지에 펼쳐 두던 목록. 코드는 확인 화면에서만 보여준다. */}
+      {g.unverified.length > 0 && (
+        <section className="block">
+          <h2 className="block-title muted">확인 안 된 쿠폰 <span className="count">{g.unverified.length}</span></h2>
+          <p className="empty">출처와 만료일이 확인되지 않은 코드입니다. 이미 만료됐을 수 있으니 안 되면 넘어가세요.</p>
+          <ul className="expired-list">
+            {g.unverified.slice(0, 60).map((c) => (
+              <li key={c.code}>
+                <code>{c.code}</code>
+                {c.reward ? <span>{c.reward}</span> : null}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <section className="block">
         <h2 className="block-title">쿠폰 입력 방법</h2>
         <ol className="howto">
