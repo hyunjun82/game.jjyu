@@ -125,12 +125,24 @@ export default function GamePage({ params }) {
             <a href={`/${g.slug}/coupon/`} className="gate-btn">
               쿠폰 코드 {g.active.length}개 확인하기
             </a>
-            <p className="gate-note">다음 화면에서 코드를 눌러 바로 복사할 수 있습니다.</p>
+            <p className="gate-note">
+              다음 화면에서 코드를 눌러 바로 복사할 수 있습니다.
+              {g.unverified.length > 0 && <> 확인 안 된 코드 {g.unverified.length}개도 같은 화면에 있습니다.</>}
+            </p>
           </div>
         </section>
       ) : (
         <section className="block">
           <p className="empty">지금 사용할 수 있는 코드가 없습니다. 새 코드가 나오면 바로 올라옵니다.</p>
+          {/* 미확인 코드도 코드다. 여기 펼쳐 두면 복사하고 나가므로 확인 화면으로 넘긴다. */}
+          {g.unverified.length > 0 && (
+            <div className="gate">
+              <a href={`/${g.slug}/coupon/`} className="gate-btn">
+                확인 안 된 코드 {g.unverified.length}개 보기
+              </a>
+              <p className="gate-note">출처나 만료일이 확인되지 않은 코드입니다. 다음 화면에서 복사할 수 있습니다.</p>
+            </div>
+          )}
         </section>
       )}
 
@@ -155,21 +167,6 @@ export default function GamePage({ params }) {
           ))}
         </div>
       </section>
-
-      {g.unverified.length > 0 && (
-        <section className="block">
-          <h2 className="block-title muted">확인 안 된 쿠폰 <span className="count">{g.unverified.length}</span></h2>
-          <p className="empty">출처와 만료일이 확인되지 않은 코드입니다. 이미 만료됐을 수 있으니 안 되면 넘어가세요.</p>
-          <ul className="expired-list">
-            {g.unverified.slice(0, 60).map((c) => (
-              <li key={c.code}>
-                <code>{c.code}</code>
-                {c.reward ? <span>{c.reward}</span> : null}
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
 
       {g.expired.length > 0 && (
         <section className="block">
