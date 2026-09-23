@@ -8,12 +8,12 @@
   "sourceUrl": "https://game.naver.com/lounge/Dungeon_Hunter6_Awakening/board/detail/8217849",
   "howTo": "①메인 화면 우측 상단 '혜택' ②코드 보상 클릭 ③쿠폰 입력 후 보상 수령 (단, 쿠폰은 20레벨 이상 사용 가능)",
   "postCount": 220,
-  "updatedAt": "2026-09-23T00:51:05.540Z",
+  "updatedAt": "2026-09-23T01:34:15.031Z",
   "codes": [
     {
       "code": "dy5fezh",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-30",
       "postedAt": "2026-09-21",
       "firstSeen": "2026-09-21",
       "lastSeen": "2026-09-23",
@@ -22,7 +22,7 @@
     {
       "code": "dy5fd3p",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-30",
       "postedAt": "2026-09-19",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -31,7 +31,7 @@
     {
       "code": "dy5f2qu",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-30",
       "postedAt": "2026-09-14",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -40,7 +40,7 @@
     {
       "code": "dy5e6v4",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-30",
       "postedAt": "2026-09-12",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -49,7 +49,7 @@
     {
       "code": "dy5ep7c",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-30",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -58,70 +58,70 @@
     {
       "code": "dxc4fjq",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-17",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dxc4epy",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dxc4dji",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dxc42rg",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dxcf6qq",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-08",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dxcfpuu",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-03",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dxcfn5d",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-08-01",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "dx54f76",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-27",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -130,7 +130,7 @@
     {
       "code": "dx54es9",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -139,7 +139,7 @@
     {
       "code": "dx54dhn",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-20",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -148,7 +148,7 @@
     {
       "code": "dx542z9",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-18",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -157,7 +157,7 @@
     {
       "code": "dx5f667",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-17",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -166,7 +166,7 @@
     {
       "code": "dx5fpqr",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-15",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -175,7 +175,7 @@
     {
       "code": "dx5fny3",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-13",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -184,7 +184,7 @@
     {
       "code": "dx5fmyx",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -193,7 +193,7 @@
     {
       "code": "dx5fkyb",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-06",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -202,7 +202,7 @@
     {
       "code": "dx5f449",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-04",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -211,7 +211,7 @@
     {
       "code": "dxmen6",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-29",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -220,7 +220,7 @@
     {
       "code": "dxmem5",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-27",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -229,7 +229,7 @@
     {
       "code": "dxmek6",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -238,7 +238,7 @@
     {
       "code": "dxme46",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-24",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -247,7 +247,7 @@
     {
       "code": "dxmefw",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-22",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -256,7 +256,7 @@
     {
       "code": "dxmeeh",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-20",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -265,7 +265,7 @@
     {
       "code": "dxmed7",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-18",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -274,7 +274,7 @@
     {
       "code": "dxme25",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-06-15",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",

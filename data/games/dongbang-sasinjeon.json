@@ -2,14 +2,23 @@
   "slug": "dongbang-sasinjeon",
   "titleEn": "Dongbang Sasinjeon",
   "titleKo": "동방사신전",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTVfMjc0/MDAxNzg5NDM1NzMxOTE0.AMOS9WFigBDpQYGJp0Eam8zmhizvICkTQ_e8nUjuVhEg.nBoxfcvbkdHevUEwrm4AmLs8MdPLc9Y7VPCPffKL2_kg.JPEG/%EC%A0%95%EC%8B%9D%EC%98%A4%ED%94%88_1200x650.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfNDQg/MDAxNzkwMTI2MDExNTA4.p70PHNDtzpy6WepMt4gjMOVImIb3vtyCeAsNREQV1RAg.boXagavhIzvpeoMt61bwyxGrwUQ27nm2KBm9FyEuMggg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "sasinjeon",
-  "sourceUrl": "https://game.naver.com/lounge/sasinjeon/board/detail/8192302",
+  "sourceUrl": "https://game.naver.com/lounge/sasinjeon/board/detail/8226312",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-09-23T00:49:42.950Z",
+  "postCount": 3,
+  "updatedAt": "2026-09-23T01:32:31.823Z",
   "codes": [
+    {
+      "code": "fullmoon",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "grandopen",
       "reward": "",
@@ -18,6 +27,132 @@
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-23",
       "status": "active"
+    },
+    {
+      "code": "FG44F493",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "LY67P278",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "BK41Q935",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "ZX42M252",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "OE77R785",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "BS99F397",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "ST16V863",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "TO16L417",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "AM94A807",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "PT41R872",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "EF58T692",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "ZV81A336",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "CS78N575",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "UU72Y117",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     }
   ]
 }

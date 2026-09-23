@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA3MTdfMTE3/MDAxNzUyNzE0MjgzNjg4.c60PetK4jHAIX9-R30wu3ekYXIXSmOPFnd6SRRUW8oUg.pDUEjfUN5TFudD1ccqKCmYOD0W8qfY4-NUsi4ov9QHog.JPEG/02.%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg",
   "source": "naver-lounge",
   "loungeId": "Apex_Girls",
-  "sourceUrl": "https://game.naver.com/lounge/Apex_Girls/board/detail/6375585",
+  "sourceUrl": "https://game.naver.com/lounge/Apex_Girls/board/detail/8192325",
   "howTo": "참고해주시기 바랍니다. -> 쿠폰 사용 FAQ [",
-  "postCount": 73,
-  "updatedAt": "2026-09-23T00:50:50.444Z",
+  "postCount": 75,
+  "updatedAt": "2026-09-23T01:33:54.244Z",
   "codes": [
+    {
+      "code": "25year",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "EKD10",
       "reward": "",
@@ -144,6 +153,15 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "active"
+    },
+    {
+      "code": "GW2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-22",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "PL0115",

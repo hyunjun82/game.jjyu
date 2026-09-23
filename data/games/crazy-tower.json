@@ -2,14 +2,23 @@
   "slug": "crazy-tower",
   "titleEn": "Crazy Tower",
   "titleKo": "미친 타워가 되었다 : 노빠꾸 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjUw/MDAxNzY1ODQ3OTQxMTM0.FmyAxZGBXXFPGlm2l6-8T5nMTY4ZiwTVet0JyFPk7UEg.Ix_5U6VUzaAdQRbGKo9h_gSsQPX5eohJNtU3GsIMfMMg.JPEG/300_300_02.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA1MDZfMTIg/MDAxNzc4MDYzMDMxNzE5.Tevz5oAu_rSkXMtG4afMyWusupl6DxBTLoZh7evKelsg.lC32Q_Q7bn3adGgVFSth0Rg-R22yzW-dU-_1Yn86blYg.JPEG/1.jpg",
   "source": "naver-lounge",
   "loungeId": "CrazyTower",
-  "sourceUrl": "https://game.naver.com/lounge/CrazyTower/board/detail/8188693",
-  "howTo": "좌측 상단 프로필 → 개인정보 화면 → 교환권 클릭 이것으로 준비된 출시 1주년 기념 쿠폰 3종이 모두 공개되었습니다! 🎁 아직 사용하지 않은 쿠폰이 있다면 9월 20일까지 잊지 말고 모두 등록해 주세요!",
-  "postCount": 3,
-  "updatedAt": "2026-09-21T07:24:15.568Z",
+  "sourceUrl": "https://game.naver.com/lounge/CrazyTower/board/detail/7631397",
+  "howTo": "좌측 상단 프로필 → 개인정보 화면 → 교환권 클릭 쿠폰 보상 ○ 신화 영웅 랜덤 카드 ×1 ○ 1성 랜덤 전설 장비 상자 ×1 ○ 소환권 ×50",
+  "postCount": 1,
+  "updatedAt": "2026-09-23T01:34:02.979Z",
   "codes": [
+    {
+      "code": "ILOVEMITA",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-05-06",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
     {
       "code": "RISEAGAIN5",
       "reward": "",

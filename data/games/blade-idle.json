@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Blade_idle/board/detail/7263499",
   "howTo": "- [AOS/구글] 게임 내 우측 상단 [메뉴] → [쿠폰]에서 쿠폰 번호를 입력하시면 보상을 획득하실 수 있습니다. - [iOS/애플] 게임 내 채팅창에 /coupon 쿠폰 번호를 입력하시면 쿠폰 사용이 가능합니다. : 예시) /coupon H4PPYIVYRT ​",
   "postCount": 9,
-  "updatedAt": "2026-09-23T00:49:30.552Z",
+  "updatedAt": "2026-09-23T01:32:08.256Z",
   "codes": [
     {
       "code": "20GDBYE24",
@@ -20,33 +20,9 @@
       "status": "active"
     },
     {
-      "code": "2REDHORSSO",
-      "reward": "500,000 Diamonds, a [Magic] Resource Choice Chest, 50 of each type of 7 Mine Tickets",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "BLADE0422",
-      "reward": "3000 Diamonds (requires level 300)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "HA2025PPY",
-      "reward": "Diamond 500,000, Magic Resource Choice Chest 3, Each Mine 1 Hour Sweep Ticket 50 (expires January 31st)",
-      "expiry": "2027-01-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
       "code": "2ndESPFOR3",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-04-21",
       "postedAt": "2025-04-21",
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-09-23",
@@ -55,7 +31,7 @@
     {
       "code": "3rdCollab",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-04-21",
       "postedAt": "2025-04-21",
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-09-23",
@@ -118,7 +94,7 @@
     {
       "code": "ESPFOR3",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-03-06",
       "postedAt": "2025-03-06",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-23",
@@ -127,7 +103,7 @@
     {
       "code": "GOINGUP2",
       "reward": "",
-      "expiry": null,
+      "expiry": "2024-03-20",
       "postedAt": "2024-03-20",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-23",
@@ -145,7 +121,7 @@
     {
       "code": "3rdESPFOR3",
       "reward": "1 Million Diamonds, 10 Sweep Dungeons for Each Dungeon, 20 PvP/Raid Tickets, 2 Box Loot Buff (2,700 times) (Unity Server Zeus only)",
-      "expiry": null,
+      "expiry": "2025-05-22",
       "postedAt": "2025-05-22",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-23",
@@ -154,7 +130,7 @@
     {
       "code": "DEVGIFT2",
       "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
-      "expiry": null,
+      "expiry": "2024-03-21",
       "postedAt": "2024-03-21",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-23",
@@ -163,7 +139,7 @@
     {
       "code": "OPSGIFT2",
       "reward": "Diamond 200,000, Raid Ticket 10, PvP Ticket 10 and [Myth] Ancient Fragment Box 55",
-      "expiry": null,
+      "expiry": "2024-03-21",
       "postedAt": "2024-03-21",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-23",

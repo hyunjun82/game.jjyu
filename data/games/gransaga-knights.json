@@ -7,8 +7,8 @@
   "loungeId": "GranSagaIdle_KNIGHTSxKNIGHTS",
   "sourceUrl": "https://game.naver.com/lounge/GranSagaIdle_KNIGHTSxKNIGHTS/board/detail/8219458",
   "howTo": "① 쿠폰 등록 페이지 링크 클릭 ② 쿠폰 등록 페이지에서 '계정 회원 번호'와 '쿠폰 코드' 입력 ③ 게임 내 우편함에서 쿠폰 보상 수령 ​ ※ 주의",
-  "postCount": 119,
-  "updatedAt": "2026-09-23T00:47:07.290Z",
+  "postCount": 115,
+  "updatedAt": "2026-09-23T01:28:49.850Z",
   "codes": [
     {
       "code": "YADNGL26NKROEA38",
@@ -281,6 +281,33 @@
       "status": "expired"
     },
     {
+      "code": "BYE25W26GSA",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2025-12-23",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "THANKFALL25",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-06",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "GRANDSTARTGSI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-04-24",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
       "code": "GK100BEST",
       "reward": "",
       "expiry": "2024-10-25",
@@ -312,33 +339,6 @@
       "reward": "",
       "expiry": "2024-10-06",
       "postedAt": "2024-09-06",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "BYE25W26GSA",
-      "reward": "",
-      "expiry": "2026-01-31",
-      "postedAt": "2025-12-23",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "THANKFALL25",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2025-10-06",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "GRANDSTARTGSI",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2025-04-24",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
       "status": "expired"

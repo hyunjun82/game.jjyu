@@ -2,10 +2,10 @@
   "slug": "blood-of-youth",
   "titleEn": "The Blood of Youth",
   "titleKo": "소년가행",
-  "image": null,
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDhfMjIy/MDAxNzg4ODYwNjQwODcx.UPyFWcAT33e3PFPiaQ6ZULdUrcx6Odq3Y1y1mr9Gh0gg.TCyRxbqejJRvOqccQed5fU1mxc7DuU27IzEFBViJ7PEg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD2_740x199.png",
   "source": "naver-search",
-  "howTo": "",
-  "updatedAt": "2026-09-23T00:53:26.354Z",
+  "howTo": "프로필 > 교환 코드 메뉴에서 쿠폰 번호를 정확하게 입력해 주세요. 계정당 1회만 사용할 수 있습니다. ⏰ 쿠폰 유효기간 2026년 9월 30일까지",
+  "updatedAt": "2026-09-23T01:37:53.114Z",
   "codes": [
     {
       "code": "GANGHO73186426",
@@ -30,12 +30,30 @@
     {
       "code": "GPLAYNO1",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-09-15",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224411849084",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-23",
       "status": "active"
+    },
+    {
+      "code": "GANGHO",
+      "reward": "",
+      "expiry": "2026-09-18",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "QUIZ7",
+      "reward": "",
+      "expiry": "2026-09-18",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "APPLENO1",

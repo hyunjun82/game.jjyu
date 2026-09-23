@@ -1,552 +1,201 @@
 {
   "slug": "archero-2",
   "titleEn": "Archero 2",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-36772-1732006289/archero-2-header.jpg",
-  "sourcePath": "/archero-2/codes/",
-  "updatedAt": "2026-09-23T00:39:41.290Z",
+  "titleKo": "궁수의 전설2",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfMjM2/MDAxNzg4NTA0MTcxMDg3.8TcoIM8B1HQiEA10RPgmGaxTWFMeAt3Km1W0JpClbX0g.zJTJAoSh_SINu7OP51nT_j2ctnlZLM7RVNlaJ5OmIncg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C-%EA%B0%80%EB%A1%9C.png",
+  "source": "naver-lounge",
+  "loungeId": "Archero2",
+  "sourceUrl": "https://game.naver.com/lounge/Archero2/board/detail/8156919",
+  "howTo": "1. [공식 기프트코드 교환 페이지]로 이동해 주세요: 2. 로그인 후 본인의 게임 계정 정보를 입력합니다. 3. 기프트코드란에",
+  "postCount": 3599,
+  "updatedAt": "2026-09-23T01:36:23.072Z",
   "codes": [
     {
-      "code": "MystlingTheo",
-      "reward": "200 Gems (expires September 25th)",
-      "expiry": "2026-09-25",
-      "firstSeen": "2026-09-20",
+      "code": "bailu2026",
+      "reward": "",
+      "expiry": "2026-09-13",
+      "postedAt": "2026-09-06",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "koeeeWR7",
-      "reward": "200 Gems",
-      "expiry": null,
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "AboveAllKlaus",
-      "reward": "200 Gems",
-      "expiry": null,
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "OneTeamNo1",
-      "reward": "200 Gems",
-      "expiry": null,
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "EXPKid",
-      "reward": "200 Gems",
-      "expiry": null,
-      "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "A2xRM",
-      "reward": "300 Energy, 10 Gems, 10k Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2026-09-12",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "koeeeWR6",
-      "reward": "200 Gems",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "parent2026",
+      "reward": "",
+      "expiry": "2026-05-14",
+      "postedAt": "2026-05-08",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "lucky2026",
-      "reward": "20 Energy, 200 Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "spring2026",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-16",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "Shuhdaow",
-      "reward": "200 Gems (expires August 6th)",
-      "expiry": "2027-08-06",
-      "firstSeen": "2026-08-31",
+      "code": "valentine2026",
+      "reward": "",
+      "expiry": "2026-02-20",
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "Taker151",
-      "reward": "200 Gems (expires August 6th)",
-      "expiry": "2027-08-06",
-      "firstSeen": "2026-08-31",
+      "code": "happy2026",
+      "reward": "",
+      "expiry": "2026-01-08",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Jsanboshu",
-      "reward": "200 Gems (expires July 27th)",
-      "expiry": "2027-07-27",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "koeeeWR5",
-      "reward": "200 Gems (expires July 24th)",
-      "expiry": "2027-07-24",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "koeeeWR4",
-      "reward": "200 Gems (expires July 24th)",
-      "expiry": "2027-07-24",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "F2PWR",
-      "reward": "200 Gems (expires July 2nd)",
-      "expiry": "2027-07-02",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "WhatAJoke",
-      "reward": "200 Gems (expires June 18th)",
-      "expiry": "2027-06-18",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "koeeeWR3",
-      "reward": "200 Gems (expires June 18th)",
-      "expiry": "2027-06-18",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "UncIsTheGoat",
-      "reward": "200 Gems (expires June 19th)",
-      "expiry": "2027-06-19",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "VNJoker",
-      "reward": "200 Gems (expires June 19th)",
-      "expiry": "2027-06-19",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "komaba2",
-      "reward": "200 Gems (expires June 03rd)",
-      "expiry": "2027-06-03",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "koeeeWR2",
-      "reward": "200 Gems (expires June 2nd)",
-      "expiry": "2027-06-02",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "SPRITESFTW",
-      "reward": "200 Gems (expires May 23rd)",
-      "expiry": "2027-05-23",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "LovePVE",
-      "reward": "200 Gems (expires May 23rd)",
-      "expiry": "2027-05-23",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "KLAUS",
-      "reward": "200 Gems (expires May 20th)",
-      "expiry": "2027-05-20",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Pontus",
-      "reward": "200 Gems (expires May 22nd)",
-      "expiry": "2027-05-22",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ClubPenguen",
-      "reward": "200 gems (expires May 7th)",
-      "expiry": "2027-05-07",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "koeeeWR",
-      "reward": "200 gems (expires May 6th)",
-      "expiry": "2027-05-06",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Knube",
-      "reward": "200 Diamonds (expires March 25th)",
-      "expiry": "2027-03-25",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Patrick2026",
-      "reward": "expires March 23rd",
-      "expiry": "2027-03-23",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "AboveAll",
-      "reward": "200 Diamonds (expires March 30th)",
-      "expiry": "2027-03-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "NewStart2026",
-      "reward": "200 Diamonds, 30 Scrolls, 10 Energy (expires March 1st)",
-      "expiry": "2027-03-01",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "GoodLuck",
-      "reward": "200 Diamonds (expires February 18th)",
-      "expiry": "2027-02-18",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "PureChaos",
-      "reward": "200 Diamonds (expires February 5th)",
-      "expiry": "2027-02-05",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "komaba",
-      "reward": "rewards (expires 12th January)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Happy2026",
-      "reward": "rewards (expires 08th January)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "xmas2025",
-      "reward": "rewards (expires 09th January)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2026-01-10",
+      "postedAt": "2025-12-19",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "VINHIX",
-      "reward": "rewards (expires 02nd January)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "thanksgiving2025",
+      "reward": "",
+      "expiry": "2025-12-06",
+      "postedAt": "2025-11-27",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Thanksgiving2025",
-      "reward": "200 Gems, 8000 Gold, 10 Energy",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "dragonboat2025",
-      "reward": "100 Gems, 8,000 Gold, 1 Key",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "lucky2025",
-      "reward": "20 energy, 200 gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "stpatricksday",
-      "reward": "100 Gems, 2,000 Gold, 10 Scrolls, 10 Energy",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "DCPYWLZX",
-      "reward": "Limited use code - 50 Gems, 1,000 Gold, 10 Energy",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2DC20K",
-      "reward": "200 Gems, 2,000 Gold, 10 Energy",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "archerhol",
-      "reward": "100 Gems, 500 Gold, 1 Silver Key",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2KR1121",
-      "reward": "1,000 Gold, 1 Silver Key",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2TW1121",
-      "reward": "1,000 Gold, 10 Energy",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "A2Discord6000",
-      "reward": "500 Gold, 50 Diamonds, 5 Energy",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2NAVER",
-      "reward": "500 Gold, 100 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2TWOB",
-      "reward": "50 Gems, 1 Silver Key",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "vip666",
-      "reward": "3 Silver Chest keys",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "vip777",
-      "reward": "500 Gold, 5 random gear scrolls",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "vip888",
-      "reward": "200 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "lucky2024",
-      "reward": "20 Energy, 200 Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "StarsWR999",
-      "reward": "rewards (expires December 16th)",
-      "expiry": "2026-12-16",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Halloween2025",
-      "reward": "100 Gems, 20 Scrolls, 1 Key",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-11-06",
+      "postedAt": "2025-10-31",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "MOONFESTIVAL25",
+      "reward": "",
+      "expiry": "2025-10-20",
+      "postedAt": "2025-10-05",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "Gwangbok0815",
+      "reward": "",
+      "expiry": "2025-08-23",
+      "postedAt": "2025-08-15",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "dragonboat2025",
+      "reward": "",
+      "expiry": "2025-06-08",
+      "postedAt": "2025-05-28",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "goldenweek2025",
-      "reward": "200 Gems, 4,000 Gold, 20 Scrolls",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-05-10",
+      "postedAt": "2025-04-29",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "valentine2025",
-      "reward": "100 Gems, 10 Scrolls",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "a2qm2025",
+      "reward": "",
+      "expiry": "2025-04-07",
+      "postedAt": "2025-04-03",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "spring0320",
+      "reward": "",
+      "expiry": "2025-03-23",
+      "postedAt": "2025-03-20",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "spring2025",
-      "reward": "200 Gems, 10 Energy, 2 Scrolls, 2 Keys (expires February 8th)",
-      "expiry": "2027-02-08",
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-02-09",
+      "postedAt": "2025-01-27",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Archero2GL",
-      "reward": "200 Gems, 10 Energy, 2 Keys (expires February 8th)",
-      "expiry": "2027-02-08",
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-02-08",
+      "postedAt": "2025-01-08",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "AgeDay2025",
-      "reward": "100 Gems, 2,000 Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Archero2NY2025",
-      "reward": "10 Scrolls, 1 Key, 10 Energy (expires January 5th)",
-      "expiry": "2027-01-05",
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-01-05",
+      "postedAt": "2025-01-01",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "Archero2CAFE",
-      "reward": "100 Gems, 1,000 Gold, 3 Silver Key (Expires December 31)",
-      "expiry": "2026-12-31",
-      "firstSeen": "2026-08-31",
+      "code": "Christmas2024",
+      "reward": "",
+      "expiry": "2024-12-28",
+      "postedAt": "2024-12-23",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2DCDec",
-      "reward": "Rewards (Expires December 31)",
-      "expiry": "2026-12-31",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "Archero2DC10K",
-      "reward": "100 Gems, 5 Energy, 5 Random Gear Scroll (expires 5th December)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Thanksgiving2024",
-      "reward": "200 Gems, 1 Silver Key (expires 3rd December)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2024-12-03",
+      "postedAt": "2024-11-28",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Archero2KR1126",
-      "reward": "100 Gems, 10 Energy (expires 2nd December)",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "SlySly",
-      "reward": "200 Gems (expires August 30th)",
-      "expiry": "2026-08-30",
-      "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "F2PArmy",
-      "reward": "200 Gems (expires August 30th)",
-      "expiry": "2026-08-30",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "Welcome0825",
-      "reward": "100 Gems, 8,000 Gold (expires August 31st)",
-      "expiry": "2026-08-31",
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2024-12-02",
+      "postedAt": "2024-11-26",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "expired"
     }

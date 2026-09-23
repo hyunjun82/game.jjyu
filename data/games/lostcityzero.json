@@ -8,30 +8,30 @@
   "sourceUrl": "https://game.naver.com/lounge/LOSTCITYZERO/board/detail/8177576",
   "howTo": "",
   "postCount": 30,
-  "updatedAt": "2026-09-23T00:52:19.067Z",
+  "updatedAt": "2026-09-23T01:35:51.580Z",
   "codes": [
     {
       "code": "LOSTCITY",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-11",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "LOSTCITY444901",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-11",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "LOSTCITY333820",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-28",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -40,7 +40,7 @@
     {
       "code": "LOSTCITY226491",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-31",
       "postedAt": "2026-07-31",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -49,7 +49,7 @@
     {
       "code": "LOSTCITY91200739",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-24",
       "postedAt": "2026-04-24",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -58,7 +58,7 @@
     {
       "code": "LOSTCITY7907580",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-13",
       "postedAt": "2026-03-13",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -67,7 +67,7 @@
     {
       "code": "LOSTCITY972220",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-04",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -76,7 +76,7 @@
     {
       "code": "LOSTCITY629220",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-21",
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -85,7 +85,7 @@
     {
       "code": "LOSTCITY289721",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-14",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -94,7 +94,7 @@
     {
       "code": "LOSTCITY582661",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-07",
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -103,7 +103,7 @@
     {
       "code": "LOSTCITY109463",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-24",
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -112,7 +112,7 @@
     {
       "code": "LOSTCITY16209463",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-16",
       "postedAt": "2026-07-16",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -121,7 +121,7 @@
     {
       "code": "LOSTCITY65277463",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-10",
       "postedAt": "2026-07-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -130,7 +130,7 @@
     {
       "code": "LOSTCITY21293463",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-03",
       "postedAt": "2026-07-03",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -139,7 +139,7 @@
     {
       "code": "LOSTCITY86023463",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-29",
       "postedAt": "2026-06-26",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -148,7 +148,7 @@
     {
       "code": "LOSTCIT999086463",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-29",
       "postedAt": "2026-06-26",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -157,7 +157,7 @@
     {
       "code": "LOSTCITY23966631",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-05",
       "postedAt": "2026-06-05",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -166,7 +166,7 @@
     {
       "code": "LOSTCITY32210739",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-05-29",
       "postedAt": "2026-05-29",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -175,7 +175,7 @@
     {
       "code": "LOSTCITY56212331",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-05-22",
       "postedAt": "2026-05-22",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -184,7 +184,7 @@
     {
       "code": "LOSTCITY41933739",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-05-15",
       "postedAt": "2026-05-15",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -193,7 +193,7 @@
     {
       "code": "LOSTCITY85300782",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-05-08",
       "postedAt": "2026-05-08",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -202,7 +202,7 @@
     {
       "code": "LOSTCITY88088739",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-17",
       "postedAt": "2026-04-17",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -211,7 +211,7 @@
     {
       "code": "LOSTCITY89428719",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-10",
       "postedAt": "2026-04-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -220,7 +220,7 @@
     {
       "code": "LOSTCITY66622780",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-03",
       "postedAt": "2026-04-03",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -229,7 +229,7 @@
     {
       "code": "LOSTCITY79997760",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-27",
       "postedAt": "2026-03-27",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -238,7 +238,7 @@
     {
       "code": "LOSTCITY75552560",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-20",
       "postedAt": "2026-03-20",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -247,7 +247,7 @@
     {
       "code": "LOSTCITY7882280",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-06",
       "postedAt": "2026-03-06",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -256,7 +256,7 @@
     {
       "code": "LOSTCITY3450030",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-27",
       "postedAt": "2026-02-27",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -265,7 +265,7 @@
     {
       "code": "LOSTCITY7229130",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-20",
       "postedAt": "2026-02-20",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -274,7 +274,7 @@
     {
       "code": "LOSTCITY7857160",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-13",
       "postedAt": "2026-02-13",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -283,7 +283,7 @@
     {
       "code": "LOSTCITY7328971",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-06",
       "postedAt": "2026-02-06",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
@@ -292,7 +292,7 @@
     {
       "code": "LOSTCITY710612",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-01-30",
       "postedAt": "2026-01-30",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",

@@ -1,82 +1,284 @@
 {
   "slug": "mech-assemble-zombie-swarm",
   "titleEn": "Mech Assemble Zombie Swarm",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37608-1750414533/mech-assemble-zombie-swarm-header.jpg",
-  "sourcePath": "/mech-assemble-zombie-swarm/codes/",
-  "updatedAt": "2026-09-23T00:39:51.850Z",
+  "titleKo": "메카 어셈블:좀비 스웜",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA4MjlfMTg5/MDAxNzU2NDQwOTQ0MDg2.KEDN6OzLccWhD8nOfnx8KIIx3KvRm6Y3DKoifs-eXXkg.YZl4vHw-BcqjmLkn8JfhtqU5BHIkRekKJ7sMuc1kYvAg.JPEG/1.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Mech_Assemble_Zombie_Swarm",
+  "sourceUrl": "https://game.naver.com/lounge/Mech_Assemble_Zombie_Swarm/board/detail/8078652",
+  "howTo": "",
+  "postCount": 32,
+  "updatedAt": "2026-09-23T01:36:38.358Z",
   "codes": [
     {
-      "code": "MECH9999",
-      "reward": "7777 Gold, 5 Mech Shards, 177 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "MGAUG2608",
+      "reward": "",
+      "expiry": "2026-08-28",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MGPLAY777",
-      "reward": "200 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "MGEAJULY8888",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-31",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MECH2025",
-      "reward": "2777 Gold, 1 Part Chest Key, 77 Diamonds",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "MGEAJULY777",
+      "reward": "",
+      "expiry": "2026-07-17",
+      "postedAt": "2026-07-03",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MGAPR666",
-      "reward": "rewards (expires May 07th)",
-      "expiry": "2027-05-07",
-      "firstSeen": "2026-08-31",
+      "code": "MG1ST777",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-18",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MGAPR888",
-      "reward": "rewards (expires April 20th)",
-      "expiry": "2027-04-20",
-      "firstSeen": "2026-08-31",
+      "code": "JUN666",
+      "reward": "",
+      "expiry": "2026-06-15",
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MGAPR111",
-      "reward": "rewards (expires April 08th)",
-      "expiry": "2027-04-08",
-      "firstSeen": "2026-08-31",
+      "code": "MGEAMAY555",
+      "reward": "",
+      "expiry": "2026-06-10",
+      "postedAt": "2026-05-29",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "MGMAR888",
-      "reward": "rewards (expires March 27th)",
-      "expiry": "2027-03-27",
-      "firstSeen": "2026-08-31",
+      "code": "MGEAMAY222",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-05-15",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "MGEAAPR999",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-17",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGEASTER99",
+      "reward": "",
+      "expiry": "2026-04-13",
+      "postedAt": "2026-04-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGEAMAR111",
+      "reward": "",
+      "expiry": "2026-04-01",
+      "postedAt": "2026-03-25",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGEAMAR777",
+      "reward": "",
+      "expiry": "2026-03-24",
+      "postedAt": "2026-03-17",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGFEB999",
+      "reward": "",
+      "expiry": "2026-03-10",
+      "postedAt": "2026-02-28",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGLOVE2026",
+      "reward": "",
+      "expiry": "2026-02-24",
+      "postedAt": "2026-02-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGFEB777",
+      "reward": "",
+      "expiry": "2026-02-20",
+      "postedAt": "2026-02-07",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGJAN888",
+      "reward": "",
+      "expiry": "2026-02-05",
+      "postedAt": "2026-01-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGJAN777",
+      "reward": "",
+      "expiry": "2026-01-23",
+      "postedAt": "2026-01-09",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYNY2026",
+      "reward": "",
+      "expiry": "2026-01-15",
+      "postedAt": "2025-12-26",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MERRYXMAS25",
+      "reward": "",
+      "expiry": "2026-01-08",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGDEC777",
+      "reward": "",
+      "expiry": "2025-12-19",
+      "postedAt": "2025-12-09",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGNOV777",
+      "reward": "",
+      "expiry": "2025-12-15",
+      "postedAt": "2025-11-28",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MG2025NOV",
+      "reward": "",
+      "expiry": "2025-11-30",
+      "postedAt": "2025-11-14",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MG2025HW2",
+      "reward": "",
+      "expiry": "2025-11-21",
+      "postedAt": "2025-10-31",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MG2025HW",
+      "reward": "",
+      "expiry": "2025-11-20",
+      "postedAt": "2025-10-27",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGOCT777",
+      "reward": "",
+      "expiry": "2025-10-20",
+      "postedAt": "2025-10-11",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGSEP999",
+      "reward": "",
+      "expiry": "2025-10-11",
+      "postedAt": "2025-09-26",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGSEP777",
+      "reward": "",
+      "expiry": "2025-09-25",
+      "postedAt": "2025-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGAUG777",
+      "reward": "",
+      "expiry": "2025-09-08",
+      "postedAt": "2025-08-29",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MGAUG999",
+      "reward": "",
+      "expiry": "2025-08-25",
+      "postedAt": "2025-08-15",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "MGAUG888",
-      "reward": "rewards (expires August 21st)",
-      "expiry": "2027-08-21",
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-08-21",
+      "postedAt": "2025-08-08",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "MGJULY888",
-      "reward": "rewards (expires August 6th)",
-      "expiry": "2027-08-06",
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-08-06",
+      "postedAt": "2025-07-25",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

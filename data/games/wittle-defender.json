@@ -1,74 +1,140 @@
 {
   "slug": "wittle-defender",
   "titleEn": "Wittle Defender",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37397-1749645626/wittle-defender-header-codes.jpg",
-  "sourcePath": "/wittle-defender/codes/",
-  "updatedAt": "2026-09-23T00:40:01.624Z",
+  "titleKo": "콩콩던전",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTlfMjg5/MDAxNzgxODQ5MjUyMzk3.5dJQtCFb6by6XDfTGkN--1m1ESqAKE1fowwUKA64J3gg.l6WceE47GAVYE0qphiueD26ob_8vOUf4oZ_2xyGx2Rog.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "source": "naver-lounge",
+  "loungeId": "Wittle_Defender",
+  "sourceUrl": "https://game.naver.com/lounge/Wittle_Defender/board/detail/7821576",
+  "howTo": "다음 링크를 접속하여 기프트코드 ( 2026boat ) 를 입력해 선물을 받으세요!",
+  "postCount": 634,
+  "updatedAt": "2026-09-23T01:36:53.801Z",
   "codes": [
     {
-      "code": "dc40k666",
-      "reward": "300 Gems, 3000 Gold, 10 Stamina",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "2026boat",
+      "reward": "",
+      "expiry": "2026-06-27",
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "Felizsep01",
-      "reward": "200 Gems, 10000 Gold, 5 Stamina",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "happymay26",
+      "reward": "",
+      "expiry": "2026-05-07",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "dc0719",
-      "reward": "200 Gems, 100 Stamina",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "happymay2026",
+      "reward": "",
+      "expiry": "2026-05-07",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "wd888",
-      "reward": "100 Gens, 10k Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "wd1stanniv",
+      "reward": "",
+      "expiry": "2026-04-13",
+      "postedAt": "2026-04-08",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "topwd666",
-      "reward": "1 Hero Summon Ticket, 100 Gems",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "happy2026",
+      "reward": "",
+      "expiry": "2026-03-01",
+      "postedAt": "2026-02-16",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
+    },
+    {
+      "code": "WDNEWYEAR2026",
+      "reward": "",
+      "expiry": "2026-01-05",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "wd2026xmas",
+      "reward": "",
+      "expiry": "2025-12-29",
+      "postedAt": "2025-12-25",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "Happy2025Tday",
+      "reward": "",
+      "expiry": "2025-12-07",
+      "postedAt": "2025-11-27",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "halloween2025wd",
+      "reward": "",
+      "expiry": "2025-11-09",
+      "postedAt": "2025-10-31",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "wittleautumn",
+      "reward": "",
+      "expiry": "2025-10-20",
+      "postedAt": "2025-10-13",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "FULLMOON2025",
+      "reward": "",
+      "expiry": "2025-10-20",
+      "postedAt": "2025-10-06",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "Gwangbok25",
+      "reward": "",
+      "expiry": "2025-08-22",
+      "postedAt": "2025-08-15",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "koreatop1",
+      "reward": "",
+      "expiry": "2025-06-16",
+      "postedAt": "2025-06-11",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "ob888",
-      "reward": "60 Gems, 600 Gold, 30 Promotion Stones, 1 Hero Summon Ticket, 2 Common Hammers, 1 Goddess Water, 1 Ice Essence",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-06-10",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "top2025",
-      "reward": "1 Random Legendary Hero Pack, 10k Gold",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "wd666",
-      "reward": "100 Gems, 2 Goddess Water",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

@@ -7,9 +7,18 @@
   "loungeId": "Divine_Keeper_of_the_Gods",
   "sourceUrl": "https://game.naver.com/lounge/Divine_Keeper_of_the_Gods/board/detail/7823440",
   "howTo": "",
-  "postCount": 64,
-  "updatedAt": "2026-09-23T00:46:23.345Z",
+  "postCount": 65,
+  "updatedAt": "2026-09-23T01:27:53.993Z",
   "codes": [
+    {
+      "code": "opengift",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-05",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
     {
       "code": "Qw4Er5Ty",
       "reward": "",

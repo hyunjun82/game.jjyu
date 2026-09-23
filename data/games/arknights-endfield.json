@@ -38,22 +38,6 @@
       "status": "active"
     },
     {
-      "code": "ALLFIELD",
-      "reward": "1.5k Oroberyl, 6k T-Creds, 30 Elementary Combat Records, 5 Protodisks, 1 Mark of Perseverance, 5 Protoprisms, 30 Arms Inspectors [expires January 29]",
-      "expiry": "2027-01-29",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "RETURNOFALL",
-      "reward": "500 Oroberyl, 6k T-Creds, 30 Elementary Combat Records, 5 Protodisks, 5 Protoprisms, 30 Arms Inspectors [expires January 29]",
-      "expiry": "2027-01-29",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
       "code": "ENDFIELDRENEW",
       "reward": "",
       "expiry": "2026-08-22",

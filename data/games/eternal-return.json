@@ -5,11 +5,29 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDNfMjI1/MDAxNzg4Mzk3NzYxNTg3.Drnmm0wujGOkpRY_0mnAui7dW4DOVfD4KsV6kvNjQOYg.YkMVfJjny7_Is7oLaYL0WuijkaPiqlCGy3gRE_Bm22kg.PNG/%EC%8B%9C%EC%A6%8C12%EC%8A%A4%ED%83%80%ED%8A%B8%EC%BF%A0%ED%8F%B0_%EC%BB%A4%EB%AE%A4_kr.png",
   "source": "naver-lounge",
   "loungeId": "Eternal_Return",
-  "sourceUrl": "https://game.naver.com/lounge/Eternal_Return/board/detail/8143761",
+  "sourceUrl": "https://game.naver.com/lounge/Eternal_Return/board/detail/8223883",
   "howTo": "- 쿠폰 번호는 인게임 [옵션] → [서비스] → [쿠폰] 입력란에 입력 가능합니다. - 쿠폰의 사용 기간은 표시된 기간에만 사용 가능합니다. - 1계정 1회만 사용 가능합니다. 새로운 시즌의 완벽한 출발, 스타트 쿠폰과 함께하시길 바랍니다!",
-  "postCount": 1,
-  "updatedAt": "2026-09-23T00:47:20.834Z",
+  "postCount": 3,
+  "updatedAt": "2026-09-23T01:29:06.548Z",
   "codes": [
+    {
+      "code": "ERGIFTBOX",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "ERP5RLAURA",
+      "reward": "",
+      "expiry": "2026-04-15",
+      "postedAt": "2026-04-02",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
     {
       "code": "GOS12SAILING",
       "reward": "",

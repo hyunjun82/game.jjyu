@@ -2,14 +2,23 @@
   "slug": "yulgang-hwaryong",
   "titleEn": "Yulgang: Fire Dragon Tale",
   "titleKo": "열혈강호: 화룡전",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTExMDNfMjA1/MDAxNzYyMTMxOTQ0MDc4.nq7KIv0qPVRaEfpOWKlkxckD7eEIrnio4n3cB7bo2SIg.zEiKjMcL_ZVY5VWOPFJkLazbM9Lk5gwJzhfRLVnqFWcg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTExMDNfMTQ5/MDAxNzYyMTMxMzA3OTI1.xkVyijgn6DRkMdFoWuoFRU0l9TJMQy2q2ag9MC6xV3kg.jid81x9Gp0idWTa08HZwfFDjM1FWQm4bfA_0Ysl2cr0g.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Yulgang_Fire_Dragon_Tale",
   "sourceUrl": "https://game.naver.com/lounge/Yulgang_Fire_Dragon_Tale/board/detail/8130726",
   "howTo": "",
-  "postCount": 7,
-  "updatedAt": "2026-09-23T00:49:45.780Z",
+  "postCount": 8,
+  "updatedAt": "2026-09-23T01:32:36.057Z",
   "codes": [
+    {
+      "code": "0716HELLO",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "SEPITGO",
       "reward": "",

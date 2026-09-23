@@ -7,9 +7,18 @@
   "loungeId": "busysavior",
   "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8213838",
   "howTo": "1. 화면 중앙 우측 [더보기] 클릭 2. [설정] 버튼 클릭 3. [교환코드] 버튼 클릭 4. 교환코드 입력 후 확인 오늘 하루도 비지 세이비어와 함께 행복한 하루 되시길 바랍니다.",
-  "postCount": 656,
-  "updatedAt": "2026-09-23T00:46:48.923Z",
+  "postCount": 662,
+  "updatedAt": "2026-09-23T01:28:26.812Z",
   "codes": [
+    {
+      "code": "fall2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "h6fj4zrm",
       "reward": "",
@@ -83,6 +92,60 @@
       "status": "active"
     },
     {
+      "code": "WC2026",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "WISDOM26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-28",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "MAGPIEBRIDGE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "kickoff",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-15",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "football2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-29",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "surfing",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-11",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
       "code": "t5gr9xvc",
       "reward": "",
       "expiry": "2026-08-31",
@@ -141,15 +204,6 @@
       "reward": "",
       "expiry": "2026-07-15",
       "postedAt": "2026-06-14",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-23",
-      "status": "expired"
-    },
-    {
-      "code": "WC2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-06-12",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
       "status": "expired"

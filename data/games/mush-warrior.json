@@ -5,15 +5,24 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA2MjVfOTIg/MDAxNzgyMzU3NTk3ODI1.Ac3EZC4Kho7U7SW2YQK4jUNm2OqC3UIdNHHRsMh7SU0g.vbriOf-IuNWxdGwlquhGB26je28FsF8ajx7P_DCt-wQg.JPEG/banner_800%C3%97600.jpg",
   "source": "naver-lounge",
   "loungeId": "MushWarrior",
-  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/7850364",
+  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/7942106",
   "howTo": "",
-  "postCount": 3485,
-  "updatedAt": "2026-09-23T00:46:20.144Z",
+  "postCount": 3486,
+  "updatedAt": "2026-09-23T01:27:50.178Z",
   "codes": [
+    {
+      "code": "MUSHLORD",
+      "reward": "",
+      "expiry": "2026-08-01",
+      "postedAt": "2026-07-17",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
     {
       "code": "OVERLORD",
       "reward": "",
-      "expiry": "2026-07-23",
+      "expiry": "2026-08-01",
       "postedAt": "2026-06-26",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",

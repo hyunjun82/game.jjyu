@@ -2,197 +2,156 @@
   "slug": "ragnarok-m-classic",
   "titleEn": "Ragnarok M: Classic",
   "titleKo": "라그나로크M: Classic",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjRfNTQg/MDAxNzg0ODU1ODYzNTAx.duO9nQZwkwS65bp0qmsv-wGAr_ky1AtpZb-wi3O7IeAg.4_YZ880bymi7o37pVjmMvX85WaeI786tDBsQJey8e00g.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-270.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTFfMTYz/MDAxNzg5MDkwMDIwNzA1.ATWR3_rsVz49gdjDe6DXlQS0SyQvRut3ld9LLmsyUJog.9bzECjfy2Zff5HtbQPZS-NzjZQcevUTxbwkiszdhOcgg.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-270.jpg",
   "source": "naver-lounge",
   "loungeId": "Ragnarok_M_Classic",
-  "sourceUrl": "https://game.naver.com/lounge/Ragnarok_M_Classic/board/detail/7974521",
-  "howTo": "- 선물 코드 사용 시 우편으로 지급된 보상은 14일 동안 보관됩니다. 기한 내에 받아 주시기 바랍니다. 라그나로크M: Classic에 보내주시는 성원에 감사드립니다.",
-  "postCount": 2,
-  "updatedAt": "2026-09-23T00:47:51.507Z",
+  "sourceUrl": "https://game.naver.com/lounge/Ragnarok_M_Classic/board/detail/8182950",
+  "howTo": "- 선물 코드 사용 시 우편으로 지급된 보상은 14일 동안 보관됩니다. 기한 내에 받아 주시기 바랍니다. 마지막으로 이번 시즌컵의 보상을 함께 감상해 보시죠!",
+  "postCount": 9,
+  "updatedAt": "2026-09-23T01:29:52.336Z",
   "codes": [
     {
-      "code": "EYTE3L7IJ",
+      "code": "ROMCWELCOME",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "R5DHX1XM",
+      "code": "32ROMCPARTY",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "I52RH8KE",
+      "code": "16ROMCGIFT",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "IR0YK12JBE",
+      "code": "8BAOPFWNE4",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "SJ16JWNDAB",
+      "code": "6V6COUNTDOWN",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "V14F2HT54",
+      "code": "4OWTCFMA2",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "ITXD6QJG9",
+      "code": "2THEFINAL1",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "09RUCZJRF7",
+      "code": "ROMCLOUNGE",
       "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-07-17",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "K8W63CQQL5",
+      "code": "ROMCSTART",
       "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "FKQN8ZKTS",
+      "code": "ROMCGIFT",
       "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "expiry": "2026-09-30",
+      "tag": "사전예약",
+      "postedAt": "2026-07-15",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
-      "code": "6HF7TVXBKW",
+      "code": "ROMCTHANKS",
       "reward": "",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROM555AY",
-      "reward": "50 Mora Gold Coin, 150 Nolan Cards",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROM555KL",
-      "reward": "1 Enhancement Crystallization, 150 Nolan Cards",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROM888CP",
-      "reward": "3 Praying Card Packs, 150 Nolan Cards",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROM888UU",
-      "reward": "1 Enhancement Crystallization, 200 Nolan Cards",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROMLOVE9A",
-      "reward": "5 Praying Card Packs, 150 Nolan Cards",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROMC8MCELB",
-      "reward": "1 Gram Crystal, 1 Elite Adventurer's Chest, 3 Veteran Adventurer's Chests, 5 Novice Adventurer's Chests",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROMCJOYFUL",
-      "reward": "700000 Zeny, 4 Gold Medals, 1 Master Adventurer's Chest, 5 Mora Gold Coins, 5 Oracle Crystals",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "ROMCFREE",
-      "reward": "1 Enhancement Crystallization, 100 Eden Coins, 2 Food Vouchers, 200 Adventure Riceballs, 2 Praying Card Packs",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "KAFRAGIFT",
-      "reward": "15 Kafra EXP Cards",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "VSJBWPVAHA",
-      "reward": "10 Mora Gold Coin, 10 Dragon Bone Rubbing, 10 Omnipotent Poring Lollipop(expires February 28th)",
-      "expiry": "2027-02-28",
-      "firstSeen": "2026-08-31",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-07-19",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "active"
     },
     {
       "code": "YQD156BC",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "YQD312FL",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "ROMCGOAL",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "KPL716HA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "ROMCGOGOGO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-18",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
       "status": "expired"
     },

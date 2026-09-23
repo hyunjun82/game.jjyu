@@ -1,122 +1,32 @@
 {
   "slug": "palmon-survival",
   "titleEn": "Palmon Survival",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37099-1768864336/palmon-survival-android-ios-barkplig-and-platyputz-palmon-running-forward-1-.jpg",
-  "sourcePath": "/palmon-survival/codes/",
-  "updatedAt": "2026-09-23T00:39:54.261Z",
+  "titleKo": "팰몬: 서바이벌",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjhfMTQ4/MDAxNzg1MjI1ODc1MjYw.z5Y6dE2W6aXx5z41XmsQj1J8rt9iHVykepLI8Js9EiYg.-3KXvQJ_uFjMill6kvMG_qEAvzzDP_O7cqmif6GTMV0g.JPEG/PTSLG%E3%80%90%E5%85%A8%E5%8C%BA%E3%80%91_%E5%9B%BD%E9%99%85%E5%8F%8B%E8%B0%8A%E6%97%A5%E7%A4%BC%E5%8C%85%E7%A0%81_KO.jpg",
+  "source": "naver-lounge",
+  "loungeId": "PalmonSurvival",
+  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8000714",
+  "howTo": "",
+  "postCount": 65,
+  "updatedAt": "2026-09-23T01:36:41.504Z",
   "codes": [
     {
-      "code": "DRAGONBOAT2026",
-      "reward": "500 Pallite, 1M Lumber Chest, 1M Steel Chest, 5-Min Speedup &times;20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "LILITH13TH",
-      "reward": "500 Pallite, 1M Lumber Chest, 1M Steel Chest, 5-Min Speedup &times;20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "2026MOTHERSDAY",
-      "reward": "500 Pallite, 1M Lumber Chest, 1M Steel Chest, 5-Min Speedup &times;20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "2026WORKPALMON",
-      "reward": "500 Pallite, 1M Lumber Chest, 1M Steel Chest, 5-Min Speedup &times;20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "2026EARTHDAY",
-      "reward": "500 Pallite, 1M Lumber Chest, 1M Steel Chest, 20 5-Min Speedup",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "2026APRILFOOLS",
-      "reward": "500 Pallite, 1M Lumber Chest, 1M Steel Chest, 20 5-Min Speedup",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "2026WOMENSDAY",
-      "reward": "500 Pallite",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "FACEBOOK100K",
-      "reward": "500 Pallite, 1M XP, Resource Choice Chest, 50 AP",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "2026SpringFestival",
+      "code": "2026FRIENDSHIPDAY",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-07-30",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "2026Valentine",
+      "code": "2026FATHERSDAY",
       "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-06-21",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "PALMONYEARONE",
-      "reward": "5 Palmon Egg, 5 UR Palmon Omni-Token, 5 Mount Shoe, 100 Legendary Skillfruit, 3M Gold Chest, 3M Lumber Chest, 3M Steel Chest, 800 Pallite (expires June 19th)",
-      "expiry": "2027-06-19",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "THANKYOUEXPLORER",
-      "reward": "500 Pallite, 1 million Lumber chest, 1 million steel chest, 5-minute speedup x20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "HAPPYNEWYEAR",
-      "reward": "500 Pallite, 1 million Lumber chest, 1 million steel chest, 5-minute speedup x20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "MERRYCHRISTMAS",
-      "reward": "500 Pallite, 1 million Lumber chest, 1 million steel chest, 5-minute speedup x20",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

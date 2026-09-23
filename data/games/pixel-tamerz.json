@@ -2,14 +2,32 @@
   "slug": "pixel-tamerz",
   "titleEn": "Pixel Tamerz",
   "titleKo": "픽셀 테이머즈",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjdfMjQ5/MDAxNzg3Nzk4MTkyMTQ0.dSMM28NtQj2GUc3F96itUeeD4CrEW_ecNW0hJUm9x24g.1sbNrJFWZhAJGmF0xLfK2RC4jUlJGYyXS7U1g7TJmgUg.PNG/banner_lounge_long_notice.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDhfMjUg/MDAxNzg4ODU4NzQ0NzQ5.P0IebxvioXXrRe9uWIIe_l5Wi_JXo3j5_iH_4QpyMn4g.LCzhUixsKMEz5anXm3PGwnMzZVKJUF-O16MnuW5M9Jwg.JPEG/MAX_IM_Ranked_1st_KR_1200x1200.jpg",
   "source": "naver-lounge",
   "loungeId": "PIXEL_TAMERZ",
-  "sourceUrl": "https://game.naver.com/lounge/PIXEL_TAMERZ/board/detail/8109272",
-  "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-09-23T00:49:49.201Z",
+  "sourceUrl": "https://game.naver.com/lounge/PIXEL_TAMERZ/board/detail/8165630",
+  "howTo": "1. 게임 접속 후",
+  "postCount": 4,
+  "updatedAt": "2026-09-23T01:32:42.147Z",
   "codes": [
+    {
+      "code": "TAMERZTOP",
+      "reward": "",
+      "expiry": "2026-10-03",
+      "postedAt": "2026-09-08",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "APPLETOP",
+      "reward": "",
+      "expiry": "2026-10-03",
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "SORRYRAID",
       "reward": "",

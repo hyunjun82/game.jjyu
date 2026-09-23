@@ -5,11 +5,38 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTNfNSAg/MDAxNzg2NTg3NDIxOTU1.nq8IoNx2OK_L6NB2w0i-2hf35fsa6T0hK9vB71hy71Yg.yBfz2I1yt2YJEsN2YboMDszFckWTK3IwUMtbaFVayHog.JPEG/%EC%84%A0%EB%AC%BC%EC%BD%94%EB%93%9C.jpg",
   "source": "naver-lounge",
   "loungeId": "Sword_Frontier",
-  "sourceUrl": "https://game.naver.com/lounge/Sword_Frontier/board/detail/8135741",
+  "sourceUrl": "https://game.naver.com/lounge/Sword_Frontier/board/detail/8167592",
   "howTo": "",
-  "postCount": 2328,
-  "updatedAt": "2026-09-23T00:47:25.502Z",
+  "postCount": 2336,
+  "updatedAt": "2026-09-23T01:29:12.400Z",
   "codes": [
+    {
+      "code": "WEEK26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "OPENDAY",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
+    {
+      "code": "DOWNLOAD26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "SwordFronti5r",
       "reward": "",
@@ -59,6 +86,73 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
       "status": "active"
+    },
+    {
+      "code": "SMSF2026",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "ONESF2026",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "PREGIFT26",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-08-17",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "PRE2026",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-08-17",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "SVIP666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "SVIP777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "SVIP888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "COUNTDOWN01",

@@ -2,14 +2,23 @@
   "slug": "star-savior",
   "titleEn": "Star Savior",
   "titleKo": "스타세이비어",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA0MTZfMTEz/MDAxNzc2MzMyMjE1MDI1.0ZJL6sbUArtnQ3ZwjBccTIOuQpMI7WRNnJ5n0uBG8pMg.crXnq1EWzQEXjdr84LhXC99TFzN_W8p9yQTHkcUN-d4g.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDNfMTcy/MDAxNzg4NDAxMTI5MTEz.vUld5sWvFO6N550aBU5e0T0KBOmv8iX68ftexUPtNeEg.WLva2kBpL236DTxIlSNKLaOtCS5inoL_po7Y00_XoLkg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Starsavior",
-  "sourceUrl": "https://game.naver.com/lounge/Starsavior/board/detail/7544045",
-  "howTo": "",
+  "sourceUrl": "https://game.naver.com/lounge/Starsavior/board/detail/8148783",
+  "howTo": "다가오는 특별 방송에도 단장님들의 많은 관심과 시청을 부탁드립니다.",
   "postCount": 1,
-  "updatedAt": "2026-09-23T00:48:15.625Z",
+  "updatedAt": "2026-09-23T01:30:28.857Z",
   "codes": [
+    {
+      "code": "READY26AUTUMNGIFT",
+      "reward": "",
+      "expiry": "2026-10-01",
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "04WINDMOONSECT16",
       "reward": "",

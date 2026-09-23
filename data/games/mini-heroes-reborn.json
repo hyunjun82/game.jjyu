@@ -7,8 +7,8 @@
   "loungeId": "MiniHeroesReborn",
   "sourceUrl": "https://game.naver.com/lounge/MiniHeroesReborn/board/detail/8210468",
   "howTo": "게임 화면 밑에 오른쪽 [≡] 버튼 클릭 > 설정 버튼 클릭 > 교환 코드 클릭 > 코드 입력 주의 사항 쿠폰은 계정 당 1회만 사용 가능하오니 사용하셨던 코드 다시 입력하시면 안 된다는 점 유념해 주시기 바랍니다. 쿠폰 코드를 정확하게 입력하지 않거나 공백이 포함되어 있을 경우 사용이 불가하오니 정확히 입력해 주세요. 사용 가능한 시간을 잘 유의하시기 바랍니다.",
-  "postCount": 144,
-  "updatedAt": "2026-09-23T00:51:39.958Z",
+  "postCount": 146,
+  "updatedAt": "2026-09-23T01:34:56.252Z",
   "codes": [
     {
       "code": "SM7MDE",
@@ -27,6 +27,15 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "active"
+    },
+    {
+      "code": "M300000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-07-10",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
     },
     {
       "code": "ZPXKLU",
@@ -295,7 +304,7 @@
       "reward": "",
       "expiry": null,
       "tag": "사전예약",
-      "postedAt": "2024-07-02",
+      "postedAt": "2024-07-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
       "status": "expired"

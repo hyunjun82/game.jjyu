@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/SoulEater_Idle/board/detail/7933671",
   "howTo": "에 대하여 안내 드리도록 하겠습니다. 쿠폰 정보 2026.08.31  업데이트 grandopen0409",
   "postCount": 3,
-  "updatedAt": "2026-09-23T00:48:18.626Z",
+  "updatedAt": "2026-09-23T01:30:32.076Z",
   "codes": [
     {
       "code": "souleateridle",
@@ -310,8 +310,8 @@
     {
       "code": "THX100DAY",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2025-06-09",
+      "expiry": "2025-07-17",
+      "postedAt": "2025-07-16",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-23",
       "status": "expired"

@@ -7,9 +7,36 @@
   "loungeId": "what_the_bug",
   "sourceUrl": "https://game.naver.com/lounge/what_the_bug/board/detail/8210473",
   "howTo": "① 게임 메인 화면의 왼쪽 상단에 있는 [프로필] 을 클릭하세요. ② [🎫쿠폰 번호] 버튼 클릭 ③ 위 쿠폰을 입력하고 확인 버튼을 클릭하면 보상을 받으실 수 있습니다. 여러분, 즉시 사용하세요~",
-  "postCount": 89,
-  "updatedAt": "2026-09-23T00:52:13.934Z",
+  "postCount": 92,
+  "updatedAt": "2026-09-23T01:35:44.645Z",
   "codes": [
+    {
+      "code": "WTB80W",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-30",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "WTB60W",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-27",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
+    {
+      "code": "WTB50W",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-21",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "expired"
+    },
     {
       "code": "GN65M2",
       "reward": "",

@@ -1,18 +1,23 @@
 {
   "slug": "yuyu-hakusho-slugfest",
   "titleEn": "Yu Yu Hakusho Slugfest",
-  "titleKo": null,
-  "image": "https://media.pocketgamer.com/artwork/na-37639-1751367475/yu-yu-hakusho-slugfest-ios-android-announcement-cover.jpg",
-  "sourcePath": "/yuyu-hakusho-slugfest/codes/",
-  "updatedAt": "2026-09-23T00:40:02.251Z",
+  "titleKo": "유유백서: 격전",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjRfMTM3/MDAxNzg3NTQxODQ5Mzg5.68sMfJaSDnDsCTM6M1Im_2YXabohEbRDoOvJCl2-0NQg.JKzwvRdqPcYkRcAMDeoLwHEF9E_cJTw1vrcTaNsGX9Qg.JPEG/%E5%85%91%E6%8D%A2%E7%A0%81%E9%9F%A9%E8%AF%AD.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Yu_Yu_Hakusho_Slugfest",
+  "sourceUrl": "https://game.naver.com/lounge/Yu_Yu_Hakusho_Slugfest/board/detail/8096916",
+  "howTo": "",
+  "postCount": 1056,
+  "updatedAt": "2026-09-23T01:36:56.979Z",
   "codes": [
     {
-      "code": "ASTOP1",
-      "reward": "Bond Scrolls x 10; Unparalleled Awakener x1",
+      "code": "YYHAUG10",
+      "reward": "",
       "expiry": null,
-      "firstSeen": "2026-08-31",
+      "postedAt": "2026-08-24",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

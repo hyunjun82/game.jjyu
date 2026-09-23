@@ -7,9 +7,18 @@
   "loungeId": "potatozombie",
   "sourceUrl": "https://game.naver.com/lounge/potatozombie/board/detail/8217590",
   "howTo": "1. 좌측 상단의 캐릭터 프로필 클릭 2. [교환코드] 버튼 클릭 후 교환코드 입력 3. 보상 수령",
-  "postCount": 479,
-  "updatedAt": "2026-09-23T00:51:47.756Z",
+  "postCount": 480,
+  "updatedAt": "2026-09-23T01:35:05.383Z",
   "codes": [
+    {
+      "code": "2025chuseok",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2025-10-06",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "DFY3NPBRCE5GCQ",
       "reward": "",

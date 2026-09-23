@@ -7,32 +7,26 @@
   "loungeId": "FotressSaga",
   "sourceUrl": "https://game.naver.com/lounge/FotressSaga/board/detail/8081731",
   "howTo": "<",
-  "postCount": 6,
-  "updatedAt": "2026-09-23T00:47:42.890Z",
+  "postCount": 8,
+  "updatedAt": "2026-09-23T01:29:39.190Z",
   "codes": [
     {
-      "code": "THANKYOUFO",
-      "reward": "1000 Gems",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "FS3RDANNID1",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
-      "code": "1003DAY",
-      "reward": "3000 Gems, 3 Cake",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
+      "code": "FS3RDANNID2",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-18",
+      "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23",
-      "status": "active"
-    },
-    {
-      "code": "FSBESTONE",
-      "reward": "30 Repair Cat Tickets, 30 Cannon Tickets, 10 Hero Ticket",
-      "expiry": null,
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "FS3RDANNIDAY",
