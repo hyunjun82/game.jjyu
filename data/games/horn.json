@@ -2,14 +2,23 @@
   "slug": "horn",
   "titleEn": "Horn",
   "titleKo": "혼(Horn)",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MDNfMjU2/MDAxNzg1NzQ2NTM1MDIy.gqbw-kzZqxUK04ljSb3EQezigaHvBsTSnhq1XaHsYAUg.56v_RjHS1vMJfH2zPo_EedUF0_17QAJbCD4KxjecQ-gg.PNG/gsg_horn_lounge_preview_event_all.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDFfNDEg/MDAxNzg4MjQ5MjEyNTE1.mEbbuLjBXg-nwEJ59yIAdzkmD_Xs-lwTVPx9H5su7SEg.22BryYCzCZqz7v22AUxo5ryEz2h-4fGhxYsh5HRvCkMg.PNG/gsg_horn_lounge_preview_event_all.png",
   "source": "naver-lounge",
   "loungeId": "horn",
-  "sourceUrl": "https://game.naver.com/lounge/horn/board/detail/8058781",
-  "howTo": "📢 쿠폰 코드 및 선물 쿠폰 사용 기한 쿠폰 코드 쿠폰 구성품 2026년 8월 14일(금)",
-  "postCount": 151,
-  "updatedAt": "2026-09-23T01:33:18.727Z",
+  "sourceUrl": "https://game.naver.com/lounge/horn/board/detail/8226753",
+  "howTo": "📢 쿠폰 코드 및 선물 쿠폰 사용 기한 쿠폰 코드 쿠폰 구성품 2026년 9월 23일(수)",
+  "postCount": 152,
+  "updatedAt": "2026-09-23T05:28:16.861Z",
   "codes": [
+    {
+      "code": "fullmoon",
+      "reward": "",
+      "expiry": "2026-10-21",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "bdaygift",
       "reward": "",

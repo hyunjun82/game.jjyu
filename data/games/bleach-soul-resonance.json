@@ -2,14 +2,23 @@
   "slug": "bleach-soul-resonance",
   "titleEn": "Bleach Soul Resonance",
   "titleKo": "블리치: 소울 레조넌스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDJfNTMg/MDAxNzg4MzE1NDE0Njc3.makL6l6OBkvHC_YlRGA71oCZsl-J4iKJ_kmvT8hPS9og._hjjqzTNTc_oyM_9uhxk1n1iEF_33EXMkaNpuTgBSY8g.PNG/kr_game_notice.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMjg4/MDAxNzkwMTI4NjgwNDI1.ZIizhWx8x1Cq3XnzELZT9GSzCJscpkxjRyzxX-cp3DIg.8fwFruYKIN0SylyvRGJtZOMvece8c9EErT2L4sC6HSEg.PNG/kr_game_notice.png",
   "source": "naver-lounge",
   "loungeId": "BLEACH_Soul_Resonance",
-  "sourceUrl": "https://game.naver.com/lounge/BLEACH_Soul_Resonance/board/detail/8134874",
+  "sourceUrl": "https://game.naver.com/lounge/BLEACH_Soul_Resonance/board/detail/8226440",
   "howTo": "",
-  "postCount": 5,
-  "updatedAt": "2026-09-23T01:36:25.766Z",
+  "postCount": 6,
+  "updatedAt": "2026-09-23T05:31:27.329Z",
   "codes": [
+    {
+      "code": "TEAMFINESSE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "MYRESOLVE",
       "reward": "",

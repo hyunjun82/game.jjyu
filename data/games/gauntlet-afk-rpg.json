@@ -2,14 +2,23 @@
   "slug": "gauntlet-afk-rpg",
   "titleEn": "Gauntlet AFK RPG",
   "titleKo": "건틀렛: 방치형 액션 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfOTMg/MDAxNzg5NzIyNDA3MDIy.-FDKFMCTEliMZ6PsaopGe_bwDfKjqdWRc8Jd3LatE0Qg.ZhOM5I_qTFnHZI57r-A9VBiAZhaasQFskPnDW6hcF8Mg.JPEG/NhkYS.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMTIg/MDAxNzkwMTM1OTk3NTA1.xKw4L5ASk463ghBjyDNIo3Kh0PzrcGHrPgrUg8bOj1Ug.DCeWtXQOsBuQzNY2nO56P7ohmN3WRzRi9wxnMv6jY74g.PNG/Gemini_Generated_Image_ghq2rpghq2rpghq2.png",
   "source": "naver-lounge",
   "loungeId": "Gauntlet_AFKRPG",
-  "sourceUrl": "https://game.naver.com/lounge/Gauntlet_AFKRPG/board/detail/8207782",
+  "sourceUrl": "https://game.naver.com/lounge/Gauntlet_AFKRPG/board/detail/8227199",
   "howTo": "게임 내 [우측 상단 메뉴 → 설정 → 쿠폰 등록] 메뉴에서 쿠폰 코드를 입력해 주세요. 대소문자는 구분하지 않습니다. 보상은 우편함으로 지급됩니다.",
-  "postCount": 24,
-  "updatedAt": "2026-09-23T01:29:27.397Z",
+  "postCount": 26,
+  "updatedAt": "2026-09-23T05:24:19.790Z",
   "codes": [
+    {
+      "code": "2026THANKSGIVING",
+      "reward": "",
+      "expiry": "2026-09-23",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "GROWTOGETHER",
       "reward": "",

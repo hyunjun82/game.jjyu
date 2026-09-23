@@ -2,14 +2,23 @@
   "slug": "kingdomssiege",
   "titleEn": "Kingdomssiege",
   "titleKo": "삼국지 공성판",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MDVfNzYg/MDAxNzg1ODk4NzY2MDEy.9s8mpQq7d0kAVo55w9sSguq1R7Blsp8UaZ_2ps0x_xkg.eYX8NIqH0JwmwE1hpavmyRily48s7tqfH_cXvbRjvcog.JPEG/kingdomskr_lounge_preview_event_all.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTFfMjEw/MDAxNzg5MTIwMDY5OTYz.ac64BSwHgNCkqNn2zG3-vBsvj4BVSrIEwUd45FMnohEg.IzWCChT1QW7KBcLovDWjulyUiv-TrPplPu6gA3A6Lucg.JPEG/kingdomskr_lounge_preview_event_all.jpg",
   "source": "naver-lounge",
   "loungeId": "kingdomssiege",
-  "sourceUrl": "https://game.naver.com/lounge/kingdomssiege/board/detail/8058782",
-  "howTo": "📌 공용 쿠폰 코드 쿠폰 코드 gwangbok ※ 본 쿠폰은 2026년 9월 11일(금)까지만 사용할 수 있습니다.",
-  "postCount": 151,
-  "updatedAt": "2026-09-23T01:33:30.772Z",
+  "sourceUrl": "https://game.naver.com/lounge/kingdomssiege/board/detail/8226755",
+  "howTo": "📌 공용 쿠폰 코드 쿠폰 코드 fullmoon ※ 본 쿠폰은 2026년 10월 21일(수)까지만 사용할 수 있습니다.",
+  "postCount": 152,
+  "updatedAt": "2026-09-23T05:28:29.211Z",
   "codes": [
+    {
+      "code": "fullmoon",
+      "reward": "",
+      "expiry": "2026-10-21",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "present",
       "reward": "",

@@ -2,14 +2,23 @@
   "slug": "chosun-classic",
   "titleEn": "Chosun Classic",
   "titleKo": "조선협객전 클래식",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTdfNSAg/MDAxNzg5NjM3MjE3NzQ2.mpoTuS4qaDkoTI0HIAfYLueNOIlUNuzHtUpHkGF_Z7gg.QWWjJjQ5tjV_p3pgmGzLiGc1lM-814F6uVHtUm3VUOIg.JPEG/760x150_4.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMjQ1/MDAxNzkwMDY2NzE3ODc0.1zNW7cDWyMb57q9KcSe1oNbPDcIh75vridibfivqlqog.nqf3YP7WI6VrxbWItiRVMOIhxeqD5bw4mT2mYKZDjv0g.JPEG/760x150_6.jpg",
   "source": "naver-lounge",
   "loungeId": "chosunclassic",
-  "sourceUrl": "https://game.naver.com/lounge/chosunclassic/board/detail/8201944",
+  "sourceUrl": "https://game.naver.com/lounge/chosunclassic/board/detail/8227531",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-09-23T01:32:29.527Z",
+  "postCount": 2,
+  "updatedAt": "2026-09-23T05:27:25.939Z",
   "codes": [
+    {
+      "code": "eventclassic0923",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "eventclassic0917",
       "reward": "",

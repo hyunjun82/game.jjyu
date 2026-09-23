@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA0MDNfMTUg/MDAxNzc1MTk0NTM3NTc3.iKgkMGxIJGuB0q6LjJHqBRHHWWNay2RZCfzla7P4JEsg.995DW3VlSKdoDuitxoFt9zZtHKKAY3cxJQerSiuTAIYg.PNG/3_%EB%9D%BC%EC%9A%B4%EC%A7%80_%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC_%EC%9D%B4%EB%B2%A4%ED%8A%B8_540x540.png",
   "source": "naver-lounge",
   "loungeId": "valhallasurvival",
-  "sourceUrl": "https://game.naver.com/lounge/valhallasurvival/board/detail/8135089",
+  "sourceUrl": "https://game.naver.com/lounge/valhallasurvival/board/detail/8227519",
   "howTo": "- 웹 페이지 발할라 서바이벌 공식 홈페이지 상단의 [쿠폰 입력] 페이지에서 사용 가능 - 게임 설정 > 계정 설정 > [쿠폰 입력] 페이지에서 사용 가능 ■ 쿠폰 사용 가능 기간",
-  "postCount": 13,
-  "updatedAt": "2026-09-23T01:36:48.630Z",
+  "postCount": 14,
+  "updatedAt": "2026-09-23T05:31:50.877Z",
   "codes": [
+    {
+      "code": "2026CHUSEOK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23",
+      "status": "active"
+    },
     {
       "code": "EASTEREGG26",
       "reward": "",
