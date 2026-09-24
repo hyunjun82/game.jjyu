@@ -2,14 +2,23 @@
   "slug": "ttukkapet",
   "titleEn": "Ttukkapet",
   "titleKo": "뚜까펫: 서바이벌",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjhfMTUz/MDAxNzg3ODk5MjE3Nzg2.zlYBJONTUBc37YReiz_9JWnwtxVFvCN3u-gIAOv-00cg.DrUdSeW1LgYsdVE8qGLB6TYE4uZf81EoR_Bs_Gh6AlMg.PNG/img_v3_02150_25f970cb-e2be-40a2-8143-bd0ec525bdfg.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjU0/MDAxNzkwMjQxNzI1ODcx.SqFREhpX3TvP0HKkLbh0ltlzdqQrFAPjROIN6O6hGKAg.orE8zyBbS6x9xv14xoVH36jlyakovSpLgreI1gw9Px0g.JPEG/%EC%B6%94%EC%84%9D.jpg",
   "source": "naver-lounge",
   "loungeId": "ttukkapet",
-  "sourceUrl": "https://game.naver.com/lounge/ttukkapet/board/detail/8118607",
+  "sourceUrl": "https://game.naver.com/lounge/ttukkapet/board/detail/8237736",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-09-24T15:50:52.296Z",
+  "postCount": 4,
+  "updatedAt": "2026-09-24T19:47:05.329Z",
   "codes": [
+    {
+      "code": "tatamoon",
+      "reward": "",
+      "expiry": "2026-10-24",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "openfesta26",
       "reward": "",

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-24T15:40:17.915Z",
+  "generatedAt": "2026-09-24T19:37:10.459Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -85,18 +85,6 @@
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
       "titleEn": "Watcher Of Realms"
-    },
-    {
-      "slug": "neural-cloud",
-      "loungeId": "Neural_Cloud",
-      "titleKo": "뉴럴 클라우드",
-      "titleEn": "Neural Cloud"
-    },
-    {
-      "slug": "assetonline",
-      "loungeId": "assetonline",
-      "titleKo": "에셋온라인",
-      "titleEn": "Assetonline"
     }
   ]
 }
