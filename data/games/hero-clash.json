@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-24T10:48:47.823Z",
+  "updatedAt": "2026-09-24T22:58:03.686Z",
   "codes": [
     {
       "code": "SEPHCAUT09",
@@ -34,7 +34,7 @@
       "postedAt": "2026-08-30",
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224395190262",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-08-30",
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224395190262",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     }
   ]

@@ -1925,7 +1925,7 @@
    "error": "코드 없음"
   },
   "Control": {
-   "at": "2026-09-23",
+   "at": "2026-09-25",
    "error": "코드 없음"
   },
   "Control_Ultimate_Edition": {
@@ -6128,7 +6128,7 @@
    "error": "쿠폰 보드 없음"
   },
   "nslm": {
-   "at": "2026-09-22",
+   "at": "2026-09-25",
    "error": "코드 없음"
   },
   "NUEVA_SALIDA": {
@@ -7449,7 +7449,7 @@
    "total": 5
   },
   "shadowbrides": {
-   "at": "2026-09-21",
+   "at": "2026-09-25",
    "live": 0,
    "total": 46
   },
@@ -7712,7 +7712,7 @@
    "total": 32
   },
   "Sorceress_Idle": {
-   "at": "2026-09-21",
+   "at": "2026-09-25",
    "live": 0,
    "total": 7
   },
@@ -10323,8 +10323,8 @@
    "error": "쿠폰 보드 없음"
   },
   "Age_of_Empires4": {
-   "at": "2026-09-20",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-09-25",
+   "error": "코드 없음"
   },
   "Umineko_When_They_Cry_Question_Arcs": {
    "at": "2026-09-20",
@@ -12304,6 +12304,58 @@
    "error": "코드 없음"
   },
   "KRITIKA_ZERO": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Edge_of_Memories": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Category6": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Ys_The_Oath_in_Felghana": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Bus_World": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Top_Troops": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "DRIFT_ISLAND": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Wreckreation": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Bubble_Bobble": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Love_n_Dream": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "100Miami_Cats": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Kirby_Air_Riders": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Ragnarok_Tactics": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "ARK2": {
    "at": "2026-09-25",
    "error": "코드 없음"
   }
