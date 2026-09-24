@@ -20,42 +20,6 @@
       "status": "active"
     },
     {
-      "code": "STEP1",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-09-24",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "STEP2",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-09-24",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "STEP3",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-09-24",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "STEP4",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-09-24",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
       "code": "OFFICEQUEEN",
       "reward": "",
       "expiry": null,

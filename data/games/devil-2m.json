@@ -21,24 +21,6 @@
       "status": "expired"
     },
     {
-      "code": "Step1",
-      "reward": "",
-      "expiry": "2025-08-31",
-      "postedAt": "2025-07-11",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
-      "code": "Step2",
-      "reward": "",
-      "expiry": "2025-08-31",
-      "postedAt": "2025-07-11",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
       "code": "devjk0914",
       "reward": "",
       "expiry": "2026-09-21",
