@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-24T10:50:12.366Z",
+  "updatedAt": "2026-09-24T15:52:47.350Z",
   "codes": [
     {
       "code": "NIKKE1104",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-20",
       "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -24,8 +24,78 @@
       "postedAt": "2026-09-20",
       "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
+    },
+    {
+      "code": "COMMANDERLOVETRIAL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "PROTECTARKSTAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "CHEERFORANIS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "ENCOUNTERONCEMORE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "2026EATBETTER",
+      "reward": "",
+      "expiry": "2026-08-23",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "2026LETSDANCE",
+      "reward": "",
+      "expiry": "2026-08-23",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "2026HAPPYNEWYEAR",
+      "reward": "",
+      "expiry": "2026-08-23",
+      "postedAt": "2026-08-31",
+      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
     },
     {
       "code": "WAVETOYOU2026",
@@ -43,76 +113,6 @@
       "expiry": "2026-09-17",
       "postedAt": "2026-09-14",
       "sourceUrl": "https://blog.naver.com/xihuifevghzr/224410812239",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "COMMANDERLOVETRIAL",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "PROTECTARKSTAR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "CHEERFORANIS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "ENCOUNTERONCEMORE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "2026EATBETTER",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "2026LETSDANCE",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "2026HAPPYNEWYEAR",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
       "status": "expired"

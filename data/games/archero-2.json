@@ -2,21 +2,30 @@
   "slug": "archero-2",
   "titleEn": "Archero 2",
   "titleKo": "궁수의 전설2",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfMjM2/MDAxNzg4NTA0MTcxMDg3.8TcoIM8B1HQiEA10RPgmGaxTWFMeAt3Km1W0JpClbX0g.zJTJAoSh_SINu7OP51nT_j2ctnlZLM7RVNlaJ5OmIncg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C-%EA%B0%80%EB%A1%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfNTEg/MDAxNzkwMTU1NzEzMjI1.t3gU0vqqjxLiua-DCmMTOYWKyj-TWVI3PehqusB83fQg.tvB_ij188EmLBZKoYvDTcKIQI_jKaqPUI5XQFH9mNBkg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C-%EA%B0%80%EB%A1%9C.png",
   "source": "naver-lounge",
   "loungeId": "Archero2",
-  "sourceUrl": "https://game.naver.com/lounge/Archero2/board/detail/8156919",
-  "howTo": "1. [공식 기프트코드 교환 페이지]로 이동해 주세요: 2. 로그인 후 본인의 게임 계정 정보를 입력합니다. 3. 기프트코드란에",
-  "postCount": 3599,
-  "updatedAt": "2026-09-24T10:47:31.008Z",
+  "sourceUrl": "https://game.naver.com/lounge/Archero2/board/detail/8234728",
+  "howTo": "다음 링크를 접속하여 기프트코드 ( autumn2026 ) 를 입력해 선물을 받으세요!",
+  "postCount": 3600,
+  "updatedAt": "2026-09-24T15:49:53.933Z",
   "codes": [
+    {
+      "code": "autumn2026",
+      "reward": "",
+      "expiry": "2026-10-01",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "bailu2026",
       "reward": "",
       "expiry": "2026-09-13",
       "postedAt": "2026-09-06",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-09-12",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-05-14",
       "postedAt": "2026-05-08",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": "2026-02-28",
       "postedAt": "2026-02-16",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-02-20",
       "postedAt": "2026-02-14",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": "2026-01-08",
       "postedAt": "2026-01-01",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": "2026-01-10",
       "postedAt": "2025-12-19",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": "2025-12-06",
       "postedAt": "2025-11-27",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -88,7 +97,7 @@
       "expiry": "2025-11-06",
       "postedAt": "2025-10-31",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -97,7 +106,7 @@
       "expiry": "2025-10-20",
       "postedAt": "2025-10-05",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -106,7 +115,7 @@
       "expiry": "2025-08-23",
       "postedAt": "2025-08-15",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -115,7 +124,7 @@
       "expiry": "2025-06-08",
       "postedAt": "2025-05-28",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -124,7 +133,7 @@
       "expiry": "2025-05-10",
       "postedAt": "2025-04-29",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -133,7 +142,7 @@
       "expiry": "2025-04-07",
       "postedAt": "2025-04-03",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -142,7 +151,7 @@
       "expiry": "2025-03-23",
       "postedAt": "2025-03-20",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -151,7 +160,7 @@
       "expiry": "2025-02-09",
       "postedAt": "2025-01-27",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -160,7 +169,7 @@
       "expiry": "2025-02-08",
       "postedAt": "2025-01-08",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -169,7 +178,7 @@
       "expiry": "2025-01-05",
       "postedAt": "2025-01-01",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -178,7 +187,7 @@
       "expiry": "2024-12-28",
       "postedAt": "2024-12-23",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -187,7 +196,7 @@
       "expiry": "2024-12-03",
       "postedAt": "2024-11-28",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -196,7 +205,7 @@
       "expiry": "2024-12-02",
       "postedAt": "2024-11-26",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     }
   ]

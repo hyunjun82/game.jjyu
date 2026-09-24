@@ -5,28 +5,8 @@
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-24T10:50:21.886Z",
+  "updatedAt": "2026-09-24T15:52:54.969Z",
   "codes": [
-    {
-      "code": "FALLINGSANCTUM",
-      "reward": "",
-      "expiry": "2026-09-29",
-      "postedAt": "2026-09-20",
-      "sourceUrl": "https://blog.naver.com/mshqdopwvzge/224417468035",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-24",
-      "status": "active"
-    },
-    {
-      "code": "FINDSENTINEL",
-      "reward": "",
-      "expiry": "2026-09-29",
-      "postedAt": "2026-09-20",
-      "sourceUrl": "https://blog.naver.com/mshqdopwvzge/224417468035",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-24",
-      "status": "active"
-    },
     {
       "code": "WAKINGMOON",
       "reward": "",
@@ -46,6 +26,26 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-24",
       "status": "active"
+    },
+    {
+      "code": "FALLINGSANCTUM",
+      "reward": "",
+      "expiry": "2026-09-22",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/dh_k_0824/224417369297",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "FINDSENTINEL",
+      "reward": "",
+      "expiry": "2026-09-22",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/dh_k_0824/224417369297",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
     },
     {
       "code": "HEARTOFSWORD",

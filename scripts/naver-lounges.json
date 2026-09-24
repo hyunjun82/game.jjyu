@@ -1088,6 +1088,48 @@
       "titleKo": "프로젝트 오리진 : X",
       "titleEn": "Projectoriginx",
       "auto": "2026-09-24"
+    },
+    {
+      "slug": "ban-g-dream-our-notes",
+      "loungeId": "BanG_Dream_Our_Notes",
+      "titleKo": "뱅드림! 아워 노트",
+      "titleEn": "Ban G Dream Our Notes",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "z-route-redemption",
+      "loungeId": "Z_Route_Redemption",
+      "titleKo": "Z 루트: 리뎀션",
+      "titleEn": "Z Route Redemption",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "ttukkapet",
+      "loungeId": "ttukkapet",
+      "titleKo": "뚜까펫: 서바이벌",
+      "titleEn": "Ttukkapet",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "officequeen",
+      "loungeId": "officequeen",
+      "titleKo": "오피스 퀸 키우기",
+      "titleEn": "Officequeen",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "heros-land-m",
+      "loungeId": "HerosLandM",
+      "titleKo": "히어로 랜드M",
+      "titleEn": "Heros Land M",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "kingshipfight",
+      "loungeId": "kingshipfight",
+      "titleKo": "삼국지: 패업",
+      "titleEn": "Kingshipfight",
+      "auto": "2026-09-25"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

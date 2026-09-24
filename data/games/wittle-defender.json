@@ -2,21 +2,30 @@
   "slug": "wittle-defender",
   "titleEn": "Wittle Defender",
   "titleKo": "콩콩던전",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTlfMjg5/MDAxNzgxODQ5MjUyMzk3.5dJQtCFb6by6XDfTGkN--1m1ESqAKE1fowwUKA64J3gg.l6WceE47GAVYE0qphiueD26ob_8vOUf4oZ_2xyGx2Rog.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMjE3/MDAxNzkwMDY5MDU1ODQ5.cKV453-kBGCJvQRA3h_-aBxkao_anjpTVqo4dInubSUg.HfxlEbeeL-SNRiVgD3dkMxaY_RQKs75uN3Hi87_djD0g.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Wittle_Defender",
-  "sourceUrl": "https://game.naver.com/lounge/Wittle_Defender/board/detail/7821576",
-  "howTo": "다음 링크를 접속하여 기프트코드 ( 2026boat ) 를 입력해 선물을 받으세요!",
-  "postCount": 634,
-  "updatedAt": "2026-09-24T10:48:03.291Z",
+  "sourceUrl": "https://game.naver.com/lounge/Wittle_Defender/board/detail/8234725",
+  "howTo": "2026zq ) 를 입력해 선물을 받으세요!",
+  "postCount": 635,
+  "updatedAt": "2026-09-24T15:50:25.311Z",
   "codes": [
+    {
+      "code": "2026zq",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "2026boat",
       "reward": "",
       "expiry": "2026-06-27",
       "postedAt": "2026-06-19",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": "2026-04-13",
       "postedAt": "2026-04-08",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-03-01",
       "postedAt": "2026-02-16",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": "2026-01-05",
       "postedAt": "2026-01-01",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": "2025-12-29",
       "postedAt": "2025-12-25",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": "2025-12-07",
       "postedAt": "2025-11-27",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -88,7 +97,7 @@
       "expiry": "2025-11-09",
       "postedAt": "2025-10-31",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -97,7 +106,7 @@
       "expiry": "2025-10-20",
       "postedAt": "2025-10-13",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -106,7 +115,7 @@
       "expiry": "2025-10-20",
       "postedAt": "2025-10-06",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -115,7 +124,7 @@
       "expiry": "2025-08-22",
       "postedAt": "2025-08-15",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -124,7 +133,7 @@
       "expiry": "2025-06-16",
       "postedAt": "2025-06-11",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     },
     {
@@ -133,7 +142,7 @@
       "expiry": "2025-12-31",
       "postedAt": "2025-06-10",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "expired"
     }
   ]

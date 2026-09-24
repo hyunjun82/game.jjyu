@@ -1,0 +1,32 @@
+{
+  "slug": "z-route-redemption",
+  "titleEn": "Z Route Redemption",
+  "titleKo": "Z 루트: 리뎀션",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTZfODIg/MDAxNzgxNjA2ODk3MjU4.QV3kCBzjQ4Bxzp0B0rUTwWS1iFv6wVFpamI74Iw8uWQg.zXsjsg_M6iYzt0GKmvH1Vcr7mPyA7b4OEw_A6zYygGMg.PNG/%E9%9F%A9%E5%9B%BDLounge%E7%A4%BE%E5%8C%BA-%E8%B4%B4%E6%96%87banner-2.png",
+  "source": "naver-lounge",
+  "loungeId": "Z_Route_Redemption",
+  "sourceUrl": "https://game.naver.com/lounge/Z_Route_Redemption/board/detail/8232111",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-09-24T15:50:50.198Z",
+  "codes": [
+    {
+      "code": "ZRTSML09",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "ZR26ALLY",
+      "reward": "",
+      "expiry": "2026-08-16",
+      "postedAt": "2026-07-29",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

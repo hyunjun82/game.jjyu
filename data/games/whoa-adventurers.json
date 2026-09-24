@@ -2,48 +2,57 @@
   "slug": "whoa-adventurers",
   "titleEn": "Whoa Adventurers",
   "titleKo": "우와 모험단",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTlfNzAg/MDAxNzgxODI5NDE4ODUy.L-OoZv-P4ab-nYZelUZH3g_-Oi35pXg5TbWEBkJJs_Qg.rI6sNYa9Di_U1Zvs5b6N4kTV0sZgyuD-lsfk9oArNFQg.PNG/FOOTBALL_(1).png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfOTEg/MDAxNzkwMTUzMjU0Mzkz.LO8B0Qc8Goq4UY4zIx9kRvQhPT3DPXLiSFiiyukubagg.wK057cM_Y2TeGzD8s1PNIr-2kDIA-EWmfPSgI5NnWMAg.PNG/123111333.png",
   "source": "naver-lounge",
   "loungeId": "whoaadventurers",
-  "sourceUrl": "https://game.naver.com/lounge/whoaadventurers/board/detail/7819428",
+  "sourceUrl": "https://game.naver.com/lounge/whoaadventurers/board/detail/8237391",
   "howTo": "Step1. 메인화면 왼쪽 상단의 프로필 아이콘 Step2. 중앙 하단의 [설정] 버튼 Step3. 왼쪽 하단의 [교환코드] 버튼 Step4. 쿠폰(교환코드) 입력 후 확인 버튼",
-  "postCount": 1097,
-  "updatedAt": "2026-09-24T10:40:57.376Z",
+  "postCount": 1098,
+  "updatedAt": "2026-09-24T15:43:09.067Z",
   "codes": [
+    {
+      "code": "autumn26",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "Step1",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-06-19",
+      "postedAt": "2026-09-25",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
       "code": "Step2",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-06-19",
+      "postedAt": "2026-09-25",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
       "code": "Step3",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-06-19",
+      "postedAt": "2026-09-25",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
       "code": "Step4",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-06-19",
+      "postedAt": "2026-09-25",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-03-20",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-06-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-06-13",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-05-08",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -88,7 +97,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-05-08",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -97,7 +106,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-05-05",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -106,7 +115,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-03-20",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {
@@ -115,7 +124,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-03-20",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {

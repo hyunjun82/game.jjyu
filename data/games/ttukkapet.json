@@ -1,0 +1,41 @@
+{
+  "slug": "ttukkapet",
+  "titleEn": "Ttukkapet",
+  "titleKo": "뚜까펫: 서바이벌",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjhfMTUz/MDAxNzg3ODk5MjE3Nzg2.zlYBJONTUBc37YReiz_9JWnwtxVFvCN3u-gIAOv-00cg.DrUdSeW1LgYsdVE8qGLB6TYE4uZf81EoR_Bs_Gh6AlMg.PNG/img_v3_02150_25f970cb-e2be-40a2-8143-bd0ec525bdfg.png",
+  "source": "naver-lounge",
+  "loungeId": "ttukkapet",
+  "sourceUrl": "https://game.naver.com/lounge/ttukkapet/board/detail/8118607",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-09-24T15:50:52.296Z",
+  "codes": [
+    {
+      "code": "openfesta26",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-08-29",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "openfestb26",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-08-28",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "openfestc26",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    }
+  ]
+}
