@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T00:55:13.142Z",
+  "generatedAt": "2026-09-24T05:53:03.030Z",
   "today": "2026-09-24",
-  "todayNew": 34,
+  "todayNew": 45,
   "totals": {
-    "games": 176,
-    "codes": 2361,
-    "active": 470,
-    "expired": 1891,
-    "withExpiry": 1439
+    "games": 178,
+    "codes": 2372,
+    "active": 485,
+    "expired": 1887,
+    "withExpiry": 1449
   },
   "newByDate": [
     {
@@ -64,13 +64,19 @@
     },
     {
       "date": "2026-09-24",
-      "count": 34
+      "count": 45
     }
   ],
   "expiringSoon": [
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "SUM0909",
+      "expiry": "2026-09-24",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "R8V5KC",
       "expiry": "2026-09-24",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "EVEFES0929COMES",
       "expiry": "2026-09-28",
       "days": 4
-    },
-    {
-      "slug": "the-grand-mafia",
-      "code": "oktober26f3st",
-      "expiry": "2026-09-28",
-      "days": 4
     }
   ],
   "topGames": [
@@ -387,8 +387,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 21
+      "active": 16,
+      "total": 22
     },
     {
       "slug": "honkai-star-rail",
@@ -396,14 +396,14 @@
       "total": 19
     },
     {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 51
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 14,
       "total": 14
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 50
     },
     {
       "slug": "ragnarok-m-classic",
@@ -447,8 +447,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 9,
-      "total": 9
+      "active": 10,
+      "total": 10
     },
     {
       "slug": "sword-frontier",

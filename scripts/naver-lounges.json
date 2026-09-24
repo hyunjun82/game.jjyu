@@ -1074,6 +1074,20 @@
       "titleKo": "추억의 잡화점",
       "titleEn": "Nostalgic Corner Store",
       "auto": "2026-09-24"
+    },
+    {
+      "slug": "metin-prelude-to-doom",
+      "loungeId": "METIN_Prelude_to_Doom",
+      "titleKo": "메틴: 파멸의 서곡",
+      "titleEn": "Metin Prelude To Doom",
+      "auto": "2026-09-24"
+    },
+    {
+      "slug": "projectoriginx",
+      "loungeId": "projectoriginx",
+      "titleKo": "프로젝트 오리진 : X",
+      "titleEn": "Projectoriginx",
+      "auto": "2026-09-24"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

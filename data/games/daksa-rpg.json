@@ -2,23 +2,14 @@
   "slug": "daksa-rpg",
   "titleEn": "Daksa Rpg",
   "titleKo": "닥사RPG : 파밍용사키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MTVfMTcy/MDAxNzg0MDU4MjM5ODQ2.6Doou7n4AFZVMRU5Q_q2CQ2frmp7HvlTqgyb3XeDsX8g.RKALO7IsDj3zg4DqoW2Wxw2Xc2llFOf9Qg8O570Bctsg.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%8C%EC%9E%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%95%84%EC%9D%B4%EC%BD%98_%EC%9D%B4%EB%B2%A4%ED%8A%B8_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTAxMTFfNDEg/MDAxNzM2NTM3NjU2MTE3.WMHZZyYyoyC50TkEukhi27bKIJ7rRp-4EFopokYPKaIg.gjsDMplSgcpY5sxTHlE5fBVKuIUqXp2yXvyZHBldPT0g.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%8C%EC%9E%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%95%84%EC%9D%B4%EC%BD%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Daksa_RPG",
   "sourceUrl": "https://game.naver.com/lounge/Daksa_RPG/board/detail/8126767",
   "howTo": "",
   "postCount": 313,
-  "updatedAt": "2026-09-24T00:46:52.951Z",
+  "updatedAt": "2026-09-24T05:44:29.353Z",
   "codes": [
-    {
-      "code": "Daksa3Year",
-      "reward": "",
-      "expiry": "2027-02-07",
-      "postedAt": "2023-09-25",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "active"
-    },
     {
       "code": "HappyDaksa69",
       "reward": "",
@@ -42,6 +33,15 @@
       "reward": "",
       "expiry": "2027-01-10",
       "postedAt": "2026-08-03",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "code": "Daksa3Year",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
       "status": "active"
@@ -94,7 +94,7 @@
     {
       "code": "Daksa2Year",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -103,7 +103,7 @@
     {
       "code": "Daksa1Year",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -112,7 +112,7 @@
     {
       "code": "DaksaRPG100Day",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -121,7 +121,7 @@
     {
       "code": "IAMNEWBIE",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -130,7 +130,7 @@
     {
       "code": "Daksa1Month",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -139,7 +139,7 @@
     {
       "code": "BaedonJJang123",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -148,7 +148,7 @@
     {
       "code": "DeveloperNote3",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -157,7 +157,7 @@
     {
       "code": "DeveloperNote4",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -166,7 +166,7 @@
     {
       "code": "DeveloperNote5",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -175,7 +175,7 @@
     {
       "code": "DeveloperNote6",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
@@ -184,7 +184,7 @@
     {
       "code": "DeveloperNote7",
       "reward": "",
-      "expiry": "2027-02-07",
+      "expiry": "2026-10-25",
       "postedAt": "2023-09-25",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",

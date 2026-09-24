@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfNjcg/MDAxNzg5NzE2MDU1NDc0.Doepa7YaOTm7R8I_HdDPMltlJfPhIUN5HD06P58zLP4g.m66182NnPFNx3uzi1_uPdC-fIJMvkciUyaeayXpYodAg.PNG/%EA%B2%8C%EC%8B%9C%EA%B8%80_%EB%9D%A0_%EB%B0%B0%EB%84%88(%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD).png",
   "source": "naver-lounge",
   "loungeId": "Lucky_Plant_Defense",
-  "sourceUrl": "https://game.naver.com/lounge/Lucky_Plant_Defense/board/detail/8223852",
+  "sourceUrl": "https://game.naver.com/lounge/Lucky_Plant_Defense/board/detail/8232543",
   "howTo": "- 사용 기간 : 2026년 09월 00일 ~ 2026년 10월 31일 23:59 📌 쿠폰 사용 시 유의사항 쿠폰은 계정당 1회만 사용할 수 있으며, 대소문자를 구별합니다. 쿠폰 사용 기간이 종료된 이후에는 보상을 수령할 수 없습니다.",
-  "postCount": 3,
-  "updatedAt": "2026-09-24T00:49:14.939Z",
+  "postCount": 4,
+  "updatedAt": "2026-09-24T05:46:57.542Z",
   "codes": [
+    {
+      "code": "26GOLDKOR1",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
     {
       "code": "PLTONETOP3",
       "reward": "",
