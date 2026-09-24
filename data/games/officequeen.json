@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-23T10:23:10.351Z",
+  "updatedAt": "2026-09-24T00:53:50.639Z",
   "codes": [
+    {
+      "code": "OFFICEQUEEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394312376",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    },
+    {
+      "code": "OPENING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-29",
+      "sourceUrl": "https://blog.naver.com/gpuk3g739nuj/224394312376",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    },
     {
       "code": "OQ1ST",
       "reward": "",

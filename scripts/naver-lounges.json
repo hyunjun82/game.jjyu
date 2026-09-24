@@ -1060,6 +1060,20 @@
       "titleKo": "라스트 에코",
       "titleEn": "Last Echo",
       "auto": "2026-09-24"
+    },
+    {
+      "slug": "nekofighteridle",
+      "loungeId": "nekofighteridle",
+      "titleKo": "냥투가키우기",
+      "titleEn": "Nekofighteridle",
+      "auto": "2026-09-24"
+    },
+    {
+      "slug": "nostalgic-corner-store",
+      "loungeId": "Nostalgic_Corner_Store",
+      "titleKo": "추억의 잡화점",
+      "titleEn": "Nostalgic Corner Store",
+      "auto": "2026-09-24"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

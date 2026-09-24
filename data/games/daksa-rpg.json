@@ -7,8 +7,8 @@
   "loungeId": "Daksa_RPG",
   "sourceUrl": "https://game.naver.com/lounge/Daksa_RPG/board/detail/8126767",
   "howTo": "",
-  "postCount": 315,
-  "updatedAt": "2026-09-23T22:34:01.849Z",
+  "postCount": 313,
+  "updatedAt": "2026-09-24T00:46:52.951Z",
   "codes": [
     {
       "code": "Daksa3Year",
@@ -317,24 +317,6 @@
       "status": "expired"
     },
     {
-      "code": "HappyDaksa61",
-      "reward": "",
-      "expiry": "2026-09-20",
-      "postedAt": "2026-04-01",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "HappyDaksa60",
-      "reward": "",
-      "expiry": "2026-09-06",
-      "postedAt": "2026-03-20",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
       "code": "CP2000T",
       "reward": "",
       "expiry": null,
@@ -384,6 +366,24 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2023-07-14",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    },
+    {
+      "code": "HappyDaksa61",
+      "reward": "",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-24",
+      "status": "expired"
+    },
+    {
+      "code": "HappyDaksa60",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-03-20",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-24",
       "status": "expired"

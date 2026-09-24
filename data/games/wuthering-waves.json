@@ -5,8 +5,28 @@
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-23T22:39:18.515Z",
+  "updatedAt": "2026-09-24T00:52:24.138Z",
   "codes": [
+    {
+      "code": "FALLINGSANCTUM",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/mshqdopwvzge/224417468035",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
+    {
+      "code": "FINDSENTINEL",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-20",
+      "sourceUrl": "https://blog.naver.com/mshqdopwvzge/224417468035",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-24",
+      "status": "active"
+    },
     {
       "code": "WAKINGMOON",
       "reward": "",
@@ -14,38 +34,18 @@
       "postedAt": "2026-09-20",
       "sourceUrl": "https://blog.naver.com/mshqdopwvzge/224417468035",
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "active"
     },
     {
       "code": "WUTHERINGGIFT",
       "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
       "expiry": "2026-09-29",
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/smart_inside99/224403099295",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419440518",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-24",
       "status": "active"
-    },
-    {
-      "code": "FALLINGSANCTUM",
-      "reward": "",
-      "expiry": "2026-09-22",
-      "postedAt": "2026-09-20",
-      "sourceUrl": "https://blog.naver.com/dh_k_0824/224417369297",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
-    },
-    {
-      "code": "FINDSENTINEL",
-      "reward": "",
-      "expiry": "2026-09-22",
-      "postedAt": "2026-09-20",
-      "sourceUrl": "https://blog.naver.com/dh_k_0824/224417369297",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-24",
-      "status": "expired"
     },
     {
       "code": "HEARTOFSWORD",
@@ -54,7 +54,7 @@
       "postedAt": "2026-09-02",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224398303224",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "expired"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-09-02",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224398303224",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-09-02",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224398303224",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "status": "expired"
     }
   ]
