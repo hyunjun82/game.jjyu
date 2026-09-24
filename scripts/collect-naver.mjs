@@ -136,7 +136,7 @@ export function bodyText(raw) {
   return ent(t).split('\n').map((s) => s.replace(/\s+/g, ' ').trim()).filter(Boolean).join('\n');
 }
 
-const BOARD_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트|사전\s*(?:예약|등록)/;
+const BOARD_RE = /쿠폰|교환\s*코드|선물\s*코드|코드\s*선물|기프트|사전\s*(?:예약|등록)/;
 const LABEL_RE = /쿠폰|리딤|기프트|선물\s*코드|코드|번호|CDK/i;
 const STOP = new Set([
   'GOOGLE','PLAY','STORE','APPLE','ONESTORE','GALAXY','SAMSUNG','ANDROID','IOS','APK',
@@ -154,8 +154,12 @@ const STOP = new Set([
 /** 코드처럼 생겼는지. 숫자만·너무 짧은 것·흔한 영단어는 버린다. */
 function isSaneCode(c, labeled = false) {
   if (!c) return false;
+  // "6984-63786bf85-1" 처럼 하이픈으로 끊은 코드(삼국지 오리진2). 영문·숫자가 섞인 것만 — 날짜(2026-10-01)는 거른다.
+  if (c.includes('-')) return /^[A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}$/.test(c) && c.length <= 24 && /[A-Za-z]/.test(c) && /\d/.test(c);
   if (c.length < 5 || c.length > 20) return false;
   if (!/^[A-Za-z0-9]+$/.test(c)) return false;
+  // 입력 방법 안내의 "STEP1", "Step2" 가 코드로 잡혔다(오피스 퀸 키우기·우와 모험단·데블2M, 2026-09-25).
+  if (/^(?:step|page|day|lv|no|ver|part|week|round|stage)\d{1,2}$/i.test(c)) return false;
   if (STOP.has(c.toUpperCase())) return false;
   if (/^\d+$/.test(c)) return false;                    // 숫자만
   if (/^(19|20)\d{2}$/.test(c)) return false;           // 연도
@@ -209,7 +213,7 @@ function parseExpiry(text, postISO, allowRange = false) {
   // "사용 기한: ~2026/9/17 23:59" / "사용 기간: 2026년 9월 23일 ~ 2026년 12월 31일" — 연도가 붙은 라벨 표기.
   // 물결이 있으면 물결 뒤 날짜가 끝날이다. 라그나로크M 클래식 코드 8개가 이 표기를 못 읽어 만료 후에도
   // 사용 가능으로 남았다(2026-09-23 검수).
-  const labY = text.match(/(?:사용\s*기한|사용\s*기간|유효\s*기간|만료\s*(?:시간|일자|일))\s*[:：]?\s*([^\n]{0,60})/);
+  const labY = text.match(/(?:사용\s*기한|사용\s*기간|유효\s*기간|만료\s*(?:시간|일자|일)|종료\s*(?:시간|일시|일))\s*[:：]?\s*([^\n]{0,60})/);
   if (labY) {
     const seg = labY[1];
     const dates = [...seg.matchAll(/(\d{4})\s*[년./-]\s*(\d{1,2})\s*[월./-]\s*(\d{1,2})/g)];
@@ -259,7 +263,7 @@ const BULLET = /^(?:[^A-Za-z0-9가-힣]+|\d{1,2}[.)]\s)\s*/u;
 
 /** 줄이 코드 한 개로만 이뤄졌으면 그 코드를, 아니면 빈 문자열을. 뒤에 괄호는 허용한다. */
 function tokenOf(line) {
-  const m = line.match(/^([A-Za-z0-9]{5,20})\s*(.*)$/);
+  const m = line.match(/^([A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}|[A-Za-z0-9]{5,20})\s*(.*)$/);
   if (!m) return '';
   const rest = m[2].trim();
   // 뒤에 괄호나 장식(<<, «, ✨)만 붙은 건 허용한다. "TOP 3 팀" 처럼 글자가 이어지면 버린다.
@@ -286,11 +290,19 @@ export function parseCodes(text, postISO) {
   const inlineOf = (line) => line.match(/(?:코드|번호|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i)
     || line.match(/(?:코드|번호|CDK)\s*[:：]\s*([A-Za-z0-9]{5,20})(?![A-Za-z0-9])/i)
     || (LABEL_RE.test(line) && line.match(/(?:>>|»|【|「|\[)\s*([A-Za-z0-9]{5,20})\s*(?:<<|«|】|」|\])/));
+  // "🎁：shuubun2026" — 선물 아이콘 뒤에 코드만 적는 발행처(에이펙스 걸스). 줄머리 기호를 떼기 전 원문으로 본다.
+  for (const raw of text.split('\n')) {
+    const g = raw.trim().match(/^🎁\s*[:：]\s*([A-Za-z0-9]{5,20})\s*$/u);
+    if (g) push(g[1], parseExpiry(text, postISO), true);
+  }
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const inline = inlineOf(line);
     if (!inline) continue;
-    const labeled = /쿠폰\s*코드\s*[:：]\s*[A-Za-z0-9]/i.test(line);
+    const labeled = /(?:쿠폰\s*(?:코드|번호)|교환\s*코드|선물\s*코드|리딤\s*코드|기프트\s*코드)\s*[:：]\s*[A-Za-z0-9]/i.test(line);
+    // "쿠폰번호 : autumn26, moon26" — 한 줄에 쉼표로 여러 개(우와 모험단). 첫 코드 뒤의 것도 받는다.
+    const tail = line.slice(line.indexOf(inline[1]) + inline[1].length);
+    const more = /^\s*[,，/]/.test(tail) ? tail.split(/[,，/]/).map((x) => x.trim()).filter((x) => /^[A-Za-z0-9]{5,20}$/.test(x)) : [];
     // 같은 줄, 없으면 바로 아래 두 줄에 적힌 "기간 ~ 9.18" 이 그 코드만의 만료일이다.
     // 글 전체 기준 날짜로 떨어지면 첫 코드의 기간을 둘째 코드가 물려받는다(주말 쿠폰 사고).
     let expiry = parseExpiry(line, postISO, true);
@@ -299,6 +311,7 @@ export function parseCodes(text, postISO) {
       expiry = parseExpiry(lines[k], postISO, true);
     }
     push(inline[1], expiry, labeled);
+    for (const x of more) push(x, expiry, labeled);
   }
 
   // 코드 줄의 만료일: 그 줄(뒤 괄호), 없으면 다음 코드 줄 전까지 최대 3줄 안의 "까지" 날짜.
@@ -466,9 +479,9 @@ function merge(prev, freshCodes) {
  */
 // 공지·이벤트 말고도 "게임소식"(드래곤에어), "점검&업데이트"(검선귀환)에 코드를 올리는 게임이 있다(2026-09-22 실측).
 // 유저 게시판·끝난 이벤트 게시판은 읽지 않는다.
-const SECTION_RE = /이벤트|공지|혜택|소식|뉴스|업데이트|점검|안내|event|notice|news|update/i;
+const SECTION_RE = /이벤트|공지|혜택|소식|뉴스|업데이트|점검|안내|선물|event|notice|news|update/i;
 const SECTION_SKIP = /종료|당첨|결과|인증|자유|질문|건의|버그|공략|팁|가입|홍보|토론|창작|팬아트|스크린샷|길드|연맹|모집|후기|기대평/;
-const TITLE_RE = /쿠폰|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
+const TITLE_RE = /쿠폰|교환\s*코드|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
 /**
  * 본문에 "쿠폰 코드: XXXX" 처럼 라벨 바로 뒤에 코드가 적혀 있는지.
@@ -476,7 +489,7 @@ const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스�
  * 안의 ERGIFTBOX, 엘트릭스 "추석 특별 이벤트 안내" 안의 HAPPYCHUSEOK 를 제목 필터 때문에 놓쳤다(2026-09-22).
  * 제목에 "원스토어"가 들어간 글도 이게 있으면 게임 코드다("[쿠폰] 원스토어 인기순위 TOP 3 기념" 의 PLTONETOP3).
  */
-const BODY_LABEL_RE = /(?:쿠폰\s*(?:코드|번호)|교환\s*코드|선물\s*코드|기프트\s*코드|리딤\s*코드|CDK)[\s\u200b:：]{0,20}[【「\[(]?\s*[A-Za-z0-9]{5,20}/i;
+const BODY_LABEL_RE = /(?:쿠폰\s*(?:코드|번호)|교환\s*코드|선물\s*코드|기프트\s*코드|리딤\s*코드|CDK)[\s\u200b:：\-•·▶■]{0,20}[【「\[(]?\s*[A-Za-z0-9]{5,20}/i;
 /** 코드 앞뒤 세 줄에 "할인 쿠폰"·"% 할인"이 있으면 웹상점·스토어 할인 코드다 — 게임 보상 코드가 아니다(드래곤 엠파이어 WEBSHOP26SEP). */
 function nearDiscount(text, code) {
   const lines = text.split('\n');
@@ -500,6 +513,8 @@ export async function collectOne(g) {
 
   if (!boards.length) return { ...g, error: '쿠폰 보드 없음' };
 
+  // 게임 이름의 영문 단어("LUNAR：에버소울"의 LUNAR)는 본문 머리에 늘 적혀 코드로 잡힌다.
+  const nameWords = new Set(String(g.titleKo || '').toUpperCase().split(/[^A-Z0-9]+/).filter((w) => w.length >= 4));
   const codes = [];
   let howTo = '', image = null, total = 0, latest = null, sourceUrl = null, locked = false;
   const events = await eventIndex();
@@ -542,7 +557,7 @@ export async function collectOne(g) {
       if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400))) && !labeled) continue;
       const d = String(item.feed.createdDate || '');
       const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
-      const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code));
+      const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
       seenFeed.add(Number(item.feed.feedId));
       if (!got.length) continue;
       if (titleOnly) total += 1;
@@ -580,7 +595,7 @@ export async function collectOne(g) {
     if ((STORE_RE.test(ev.title) || STORE_RE.test(text.slice(0, 400))) && !BODY_LABEL_RE.test(text)) continue;
     const d = String(item.feed.createdDate || '');
     const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
-    const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code));
+    const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
     if (!got.length) continue;
     total += 1;
     applyEvent(got, feedId);

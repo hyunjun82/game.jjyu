@@ -1144,6 +1144,55 @@
       "titleKo": "발키리아",
       "titleEn": "Valkyrie Of Desire",
       "auto": "2026-09-25"
+    },
+    {
+      "slug": "bang-bang-survivor",
+      "loungeId": "BangBang_Survivor",
+      "titleKo": "빵빵 좀비단",
+      "titleEn": "Bang Bang Survivor",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "ete-chronicle",
+      "loungeId": "ETE_CHRONICLE",
+      "titleKo": "에타 크로니클",
+      "titleEn": "Ete Chronicle",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "immortal-rising",
+      "loungeId": "ImmortalRising",
+      "titleKo": "이모탈 라이징: 불멸의 각성",
+      "titleEn": "Immortal Rising",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "palace-brilliant-dream",
+      "loungeId": "Palace_brilliant_dream",
+      "titleKo": "궁:영롱몽",
+      "titleEn": "Palace Brilliant Dream",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "samgukji-origin2",
+      "loungeId": "samgukji_origin2",
+      "titleKo": "삼국지 오리진2: 적벽대전",
+      "titleEn": "Samgukji Origin2",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "gungsin-idle-rpg",
+      "loungeId": "Gungsin_Idle_RPG",
+      "titleKo": "궁신 : 방치형 RPG",
+      "titleEn": "Gungsin Idle Rpg",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "into-the-dungeon-reborn",
+      "loungeId": "Into_the_dungeon_Reborn",
+      "titleKo": "인투더던전:리본",
+      "titleEn": "Into The Dungeon Reborn",
+      "auto": "2026-09-25"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
