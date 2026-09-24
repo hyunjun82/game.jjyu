@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T05:53:03.030Z",
+  "generatedAt": "2026-09-24T10:53:17.553Z",
   "today": "2026-09-24",
-  "todayNew": 45,
+  "todayNew": 51,
   "totals": {
     "games": 178,
-    "codes": 2372,
-    "active": 485,
+    "codes": 2378,
+    "active": 491,
     "expired": 1887,
-    "withExpiry": 1449
+    "withExpiry": 1453
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-24",
-      "count": 45
+      "count": 51
     }
   ],
   "expiringSoon": [
@@ -376,19 +376,24 @@
       "total": 61
     },
     {
+      "slug": "idle-berserker",
+      "active": 17,
+      "total": 45
+    },
+    {
       "slug": "apex-girls",
       "active": 16,
       "total": 24
     },
     {
-      "slug": "idle-berserker",
-      "active": 16,
-      "total": 44
-    },
-    {
       "slug": "idle-hero-but-save-the-world",
       "active": 16,
       "total": 22
+    },
+    {
+      "slug": "sabuk-ice-kingdom",
+      "active": 15,
+      "total": 15
     },
     {
       "slug": "honkai-star-rail",
@@ -399,11 +404,6 @@
       "slug": "max-level-idle",
       "active": 14,
       "total": 51
-    },
-    {
-      "slug": "sabuk-ice-kingdom",
-      "active": 14,
-      "total": 14
     },
     {
       "slug": "ragnarok-m-classic",
@@ -456,6 +456,11 @@
       "total": 20
     },
     {
+      "slug": "yep-raising-feet-up",
+      "active": 9,
+      "total": 9
+    },
+    {
       "slug": "eternal-evolution",
       "active": 8,
       "total": 39
@@ -464,11 +469,6 @@
       "slug": "last-light-defense",
       "active": 8,
       "total": 9
-    },
-    {
-      "slug": "yep-raising-feet-up",
-      "active": 8,
-      "total": 8
     }
   ],
   "noImage": 18

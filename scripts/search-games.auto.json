@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-24T05:38:10.043Z",
+  "generatedAt": "2026-09-24T10:38:10.606Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -133,12 +133,6 @@
       "loungeId": "ghostsoulm",
       "titleKo": "귀혼M",
       "titleEn": "Ghostsoulm"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
     }
   ]
 }
