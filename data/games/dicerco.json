@@ -1,0 +1,50 @@
+{
+  "slug": "dicerco",
+  "titleEn": "Dicerco",
+  "titleKo": "딸깍 다이스",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMTY2/MDAxNzkwMTUyNDIwMTg2.g-wpni5y4jWnIzbpiRn38pxBOG7viCBY4yWEpnI0TOog.MeeZ07TZJ-WFycjBE-1BnYbtXLastLKV1kyq7g2axVMg.PNG/event.png",
+  "source": "naver-lounge",
+  "loungeId": "dicerco",
+  "sourceUrl": "https://game.naver.com/lounge/dicerco/board/detail/8240227",
+  "howTo": "",
+  "postCount": 5,
+  "updatedAt": "2026-09-25T12:17:31.855Z",
+  "codes": [
+    {
+      "code": "midautumn26",
+      "reward": "",
+      "expiry": "2026-10-08",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "update172",
+      "reward": "",
+      "expiry": "2026-09-01",
+      "postedAt": "2026-08-18",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "141update",
+      "reward": "",
+      "expiry": "2026-06-25",
+      "postedAt": "2026-06-18",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "dicerotop1",
+      "reward": "",
+      "expiry": "2026-05-01",
+      "postedAt": "2026-04-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

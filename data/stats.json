@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T06:30:37.538Z",
+  "generatedAt": "2026-09-25T12:22:06.673Z",
   "today": "2026-09-25",
-  "todayNew": 251,
+  "todayNew": 290,
   "totals": {
-    "games": 201,
-    "codes": 2623,
-    "active": 563,
-    "expired": 2060,
-    "withExpiry": 1551
+    "games": 204,
+    "codes": 2662,
+    "active": 574,
+    "expired": 2088,
+    "withExpiry": 1562
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-25",
-      "count": 251
+      "count": 290
     }
   ],
   "expiringSoon": [
@@ -119,6 +119,12 @@
     {
       "slug": "nuksam",
       "code": "SM7MDE",
+      "expiry": "2026-09-25",
+      "days": 0
+    },
+    {
+      "slug": "peachland",
+      "code": "MOONGIFT",
       "expiry": "2026-09-25",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "THANKS2026",
       "expiry": "2026-09-28",
       "days": 3
-    },
-    {
-      "slug": "my-goddess-idle-rpg",
-      "code": "OPENGIFT",
-      "expiry": "2026-09-28",
-      "days": 3
     }
   ],
   "topGames": [
@@ -381,14 +381,14 @@
       "total": 61
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 17,
+      "total": 22
+    },
+    {
       "slug": "idle-berserker",
       "active": 17,
       "total": 45
-    },
-    {
-      "slug": "honkai-star-rail",
-      "active": 16,
-      "total": 21
     },
     {
       "slug": "idle-hero-but-save-the-world",

@@ -1,0 +1,50 @@
+{
+  "slug": "do-e-dungeon-of-exile",
+  "titleEn": "Do E Dungeon Of Exile",
+  "titleKo": "DoE: 던전앤엑자일",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMTU4/MDAxNzkwMDcwNjU5NTQ4.eIM8IBoXstXEc6-ZYRHnkSN56L3QwRO_BDgw6LDeQC8g.AFROU0xECYkcQUDh9tQeIqVj7XOgniwtfpjPEphA2jMg.JPEG/doe-%E7%A4%BE%E7%BE%A4-%E4%B8%AD%E7%A7%8B%E7%A4%BC%E5%8C%85%E7%A0%81-1200-CZW-%E9%87%91%E9%93%B6%E5%AE%9E-%E9%9F%A9.jpg",
+  "source": "naver-lounge",
+  "loungeId": "DoE_Dungeon_of_Exile",
+  "sourceUrl": "https://game.naver.com/lounge/DoE_Dungeon_of_Exile/board/detail/8239951",
+  "howTo": "",
+  "postCount": 4,
+  "updatedAt": "2026-09-25T12:17:34.561Z",
+  "codes": [
+    {
+      "code": "SEPT26",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "DOE1STYEAR",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "doe0729",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-07-29",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "51GIFT",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

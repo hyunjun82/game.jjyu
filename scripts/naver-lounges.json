@@ -1256,6 +1256,27 @@
       "titleKo": "X 클래시",
       "titleEn": "X Clash",
       "auto": "2026-09-25"
+    },
+    {
+      "slug": "dicerco",
+      "loungeId": "dicerco",
+      "titleKo": "딸깍 다이스",
+      "titleEn": "Dicerco",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "do-e-dungeon-of-exile",
+      "loungeId": "DoE_Dungeon_of_Exile",
+      "titleKo": "DoE: 던전앤엑자일",
+      "titleEn": "Do E Dungeon Of Exile",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "druid-rising",
+      "loungeId": "Druid_Rising",
+      "titleKo": "변신해라! 정령술사",
+      "titleEn": "Druid Rising",
+      "auto": "2026-09-25"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

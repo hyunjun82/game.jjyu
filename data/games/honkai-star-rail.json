@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-25T06:28:45.837Z",
+  "updatedAt": "2026-09-25T12:20:02.053Z",
   "codes": [
     {
       "code": "QS395DJQU4HK",
@@ -23,6 +23,16 @@
       "expiry": null,
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "WA4AV2F24PYX",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422537509",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-25",
       "status": "active"
@@ -70,11 +80,11 @@
     {
       "code": "WAVEFLAIRSTYLE",
       "reward": "",
-      "expiry": "2026-10-19",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419441221",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422537509",
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-25",
       "status": "active"
     },
     {

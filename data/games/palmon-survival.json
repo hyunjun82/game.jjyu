@@ -2,14 +2,23 @@
   "slug": "palmon-survival",
   "titleEn": "Palmon Survival",
   "titleKo": "팰몬: 서바이벌",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjhfMTQ4/MDAxNzg1MjI1ODc1MjYw.z5Y6dE2W6aXx5z41XmsQj1J8rt9iHVykepLI8Js9EiYg.-3KXvQJ_uFjMill6kvMG_qEAvzzDP_O7cqmif6GTMV0g.JPEG/PTSLG%E3%80%90%E5%85%A8%E5%8C%BA%E3%80%91_%E5%9B%BD%E9%99%85%E5%8F%8B%E8%B0%8A%E6%97%A5%E7%A4%BC%E5%8C%85%E7%A0%81_KO.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTA4/MDAxNzkwMjM3NjI4NjE5.0vOjV7xAOZ0XGvb9_F32oyalZ9Ao3nsVN16ciAFwgI8g.Dkbw8ZKKDUf5BMoRJjpcOka_-80pPCb_iUs0_-Woah8g.PNG/556547.png",
   "source": "naver-lounge",
   "loungeId": "PalmonSurvival",
-  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8000714",
+  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8242178",
   "howTo": "",
-  "postCount": 65,
-  "updatedAt": "2026-09-25T06:24:23.069Z",
+  "postCount": 66,
+  "updatedAt": "2026-09-25T12:15:30.279Z",
   "codes": [
+    {
+      "code": "palmonmoon2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "2026FRIENDSHIPDAY",
       "reward": "",

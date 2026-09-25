@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-25T06:14:20.642Z",
+  "generatedAt": "2026-09-25T12:05:32.130Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -85,6 +85,12 @@
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
       "titleEn": "Watcher Of Realms"
+    },
+    {
+      "slug": "pixel-heroes-adventure",
+      "loungeId": "PixelHeroesAdventure",
+      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
+      "titleEn": "Pixel Heroes Adventure"
     }
   ]
 }

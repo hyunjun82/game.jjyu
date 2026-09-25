@@ -1,0 +1,230 @@
+{
+  "slug": "druid-rising",
+  "titleEn": "Druid Rising",
+  "titleKo": "변신해라! 정령술사",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTExMjRfMjY2/MDAxNzYzOTY3NjU0ODU4.-KqKSFezzWxEd7sTnyLWIeasWbnESLGsPDjzgBYVORQg.ykfwKvU9xaY1zAMe8qvMDiYeY8Xh8IN1Xm-R30L2G1gg.PNG/%EC%88%98%EC%A0%95%EB%90%A8_%EC%84%9C%EB%B8%8C%ED%8E%98%EC%9D%B4%EC%A7%80_02%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "source": "naver-lounge",
+  "loungeId": "Druid_Rising",
+  "sourceUrl": "https://game.naver.com/lounge/Druid_Rising/board/detail/8228544",
+  "howTo": "",
+  "postCount": 23,
+  "updatedAt": "2026-09-25T12:17:37.327Z",
+  "codes": [
+    {
+      "code": "2026CHUSEOK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "KOREA815",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "JULYGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "260625WAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "BWC2LOSE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "BWC1LOSE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "BWC1WIN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "JUNEGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-02",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "MAYBONUS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-13",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "MAYGIFT2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-30",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "APRIL2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-22",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "FOOLSDAY2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR0323",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-23",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "SWEETDAY2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "SAMILDAY2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-27",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "LUNAR2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "VALENTINE2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR0127",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-27",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR0115",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-15",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR0107",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-07",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR1224",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR1225",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "DR1218",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-18",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "COMINGWINTER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-10",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}
