@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-25T01:16:27.674Z",
+  "updatedAt": "2026-09-25T06:28:11.388Z",
   "codes": [
+    {
+      "code": "NIKKEPC",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/gebcljwnmpee/224422390460",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "NIKKE1104",
       "reward": "",

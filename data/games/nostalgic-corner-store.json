@@ -2,14 +2,23 @@
   "slug": "nostalgic-corner-store",
   "titleEn": "Nostalgic Corner Store",
   "titleKo": "추억의 잡화점",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTJfMjIy/MDAxNzg5MTk2NDY4OTkz.vIAiKrxWxKx5Qu9fC-S9-VIs-vhvxoxbMpQ34l60fQ0g.Dwex4rHniuh7UGPwkWp5w5FzEZb_fawLSg80uzuSa_Eg.PNG/Naver-%E6%AF%8F%E5%91%A8%E7%A6%8F%E5%88%A9.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfNzAg/MDAxNzkwMjM4OTUzNDE3.0GS5DTR7vziX3Sbl2Nq-FQ76zaURGj7gMzyzQaLdY5Ug.ZwauCQO4e9jnYUCVigg6QsQqjOb3XQ6I4T0ePv-rTdwg.PNG/Naver-%E7%A4%BE%E7%BE%A4%E7%A6%8F%E5%88%A9.png",
   "source": "naver-lounge",
   "loungeId": "Nostalgic_Corner_Store",
-  "sourceUrl": "https://game.naver.com/lounge/Nostalgic_Corner_Store/board/detail/8207410",
-  "howTo": "게임 접속 후, 마을 화면 왼쪽의 파란 삼각형 클릭 → 설정 선택 → 쿠폰 코드 입력 후 교환 (대소문자 구분) 교환 마감일: 2026년 9월 25일 0:00 (UTC+9) •••✦🍭••✧🕰️••✦🏪••✧🧸•••",
+  "sourceUrl": "https://game.naver.com/lounge/Nostalgic_Corner_Store/board/detail/8239876",
+  "howTo": "1. 게임에 접속 후, 읍면 화면 왼쪽의 파란 삼각형을 클릭 → 설정 선택 → 쿠폰 코드 입력 후 교환 (대소문자 구분) 2. 교환 마감일: 2025.10.13 0:00 (UTC+9) •••✦🍭••✧🕰️••✦🏪••✧🧸•••",
   "postCount": 13,
-  "updatedAt": "2026-09-25T01:13:04.083Z",
+  "updatedAt": "2026-09-25T06:24:47.668Z",
   "codes": [
+    {
+      "code": "GiftChuseok",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "GIFTRGNNfW",
       "reward": "",

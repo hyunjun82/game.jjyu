@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T01:19:07.787Z",
+  "generatedAt": "2026-09-25T06:30:37.538Z",
   "today": "2026-09-25",
-  "todayNew": 236,
+  "todayNew": 251,
   "totals": {
     "games": 201,
-    "codes": 2608,
-    "active": 548,
+    "codes": 2623,
+    "active": 563,
     "expired": 2060,
-    "withExpiry": 1539
+    "withExpiry": 1551
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-25",
-      "count": 236
+      "count": 251
     }
   ],
   "expiringSoon": [
@@ -107,6 +107,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "RUNE0910",
+      "expiry": "2026-09-25",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "3ZN7WP",
       "expiry": "2026-09-25",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "OPENGIFT",
       "expiry": "2026-09-28",
       "days": 3
-    },
-    {
-      "slug": "my-goddess-idle-rpg",
-      "code": "GRANDOPENING1",
-      "expiry": "2026-09-28",
-      "days": 3
     }
   ],
   "topGames": [
@@ -392,8 +392,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 22
+      "active": 16,
+      "total": 23
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -401,14 +401,19 @@
       "total": 15
     },
     {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 52
+    },
+    {
       "slug": "byeolbyeol-hero",
       "active": 13,
       "total": 13
     },
     {
-      "slug": "max-level-idle",
+      "slug": "dungeon-hunter6-awakening",
       "active": 13,
-      "total": 51
+      "total": 32
     },
     {
       "slug": "ragnarok-m-classic",
@@ -416,14 +421,19 @@
       "total": 18
     },
     {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 12,
-      "total": 31
-    },
-    {
       "slug": "busy-savior",
       "active": 11,
       "total": 27
+    },
+    {
+      "slug": "rogw-remains-of-gods",
+      "active": 11,
+      "total": 11
+    },
+    {
+      "slug": "yep-raising-feet-up",
+      "active": 11,
+      "total": 11
     },
     {
       "slug": "astro-defenders",
@@ -441,11 +451,6 @@
       "total": 10
     },
     {
-      "slug": "rogw-remains-of-gods",
-      "active": 10,
-      "total": 10
-    },
-    {
       "slug": "whoa-adventurers",
       "active": 10,
       "total": 11
@@ -459,11 +464,6 @@
       "slug": "sword-frontier",
       "active": 9,
       "total": 20
-    },
-    {
-      "slug": "yep-raising-feet-up",
-      "active": 9,
-      "total": 9
     },
     {
       "slug": "last-light-defense",

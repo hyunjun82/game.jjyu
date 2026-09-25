@@ -3494,9 +3494,8 @@
    "error": "쿠폰 보드 없음"
   },
   "GangCheolSamGuk": {
-   "at": "2026-09-23",
-   "live": 0,
-   "total": 14
+   "at": "2026-09-25",
+   "error": "코드 없음"
   },
   "Ganghobulpae": {
    "at": "2026-09-24",
@@ -12425,6 +12424,74 @@
    "error": "코드 없음"
   },
   "Marked_For_Mayhem": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Death_Kitchen": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Rise_Up": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Squid_Game_Unleashed": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Lost_in_Vivo": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Rogue_Legacy2": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Satsuman": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Yonder_The_Cloud_Catcher_Chronicles": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Blasphemous": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Rhythm_Heaven_FEVER": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "The_Girl_in_the_Window": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Keep_Digging": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "PICO_PARK": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Crossings": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Song_of_Nunu_A_League_of_Legends_Story": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Dragon_Summoner": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Sultans_Game": {
+   "at": "2026-09-25",
+   "error": "코드 없음"
+  },
+  "Gamevil_Professional_baseball_Superstars": {
    "at": "2026-09-25",
    "error": "코드 없음"
   }
