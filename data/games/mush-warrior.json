@@ -2,14 +2,41 @@
   "slug": "mush-warrior",
   "titleEn": "Legend of Mushroom",
   "titleKo": "버섯커 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MjVfOTIg/MDAxNzgyMzU3NTk3ODI1.Ac3EZC4Kho7U7SW2YQK4jUNm2OqC3UIdNHHRsMh7SU0g.vbriOf-IuNWxdGwlquhGB26je28FsF8ajx7P_DCt-wQg.JPEG/banner_800%C3%97600.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMTQ2/MDAxNzkwMTM0MDMzODA3.NqsuHlhZ8fTlPJ1ROE3iwhXSEQLkafv0_77Q1dsndj4g.qdGv6aI8Yu2JLzgHXa9iXr5w_07fJo8Lzf5BooDhFvgg.JPEG/2560_1480.jpg",
   "source": "naver-lounge",
   "loungeId": "MushWarrior",
-  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/7942106",
+  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/8232361",
   "howTo": "",
-  "postCount": 3486,
-  "updatedAt": "2026-09-24T22:47:52.766Z",
+  "postCount": 3489,
+  "updatedAt": "2026-09-24T23:58:32.718Z",
   "codes": [
+    {
+      "code": "MoonGift",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "Gwangbok",
+      "reward": "",
+      "expiry": "2026-10-01",
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "Family",
+      "reward": "",
+      "expiry": "2026-06-01",
+      "postedAt": "2026-05-05",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
     {
       "code": "MUSHLORD",
       "reward": "",

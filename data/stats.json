@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T23:01:46.252Z",
+  "generatedAt": "2026-09-25T00:13:35.238Z",
   "today": "2026-09-25",
-  "todayNew": 28,
+  "todayNew": 197,
   "totals": {
-    "games": 185,
-    "codes": 2406,
-    "active": 510,
-    "expired": 1896,
-    "withExpiry": 1476
+    "games": 201,
+    "codes": 2569,
+    "active": 531,
+    "expired": 2038,
+    "withExpiry": 1533
   },
   "newByDate": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "date": "2026-09-19",
-      "count": 1076
+      "count": 1070
     },
     {
       "date": "2026-09-20",
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-25",
-      "count": 28
+      "count": 197
     }
   ],
   "expiringSoon": [
@@ -225,6 +225,12 @@
       "days": 2
     },
     {
+      "slug": "samgukji-origin2",
+      "code": "7008-07e1cc3cc-1",
+      "expiry": "2026-09-27",
+      "days": 2
+    },
+    {
       "slug": "soul-strike",
       "code": "SS9HAPPY",
       "expiry": "2026-09-27",
@@ -253,6 +259,12 @@
       "code": "UP921",
       "expiry": "2026-09-27",
       "days": 2
+    },
+    {
+      "slug": "dragonnest-world",
+      "code": "HAPPYWEEKLY25T",
+      "expiry": "2026-09-28",
+      "days": 3
     },
     {
       "slug": "god-kkaebi",
@@ -321,6 +333,12 @@
       "days": 3
     },
     {
+      "slug": "into-the-dungeon-reborn",
+      "code": "2ZNAESF8KK3",
+      "expiry": "2026-09-28",
+      "days": 3
+    },
+    {
       "slug": "my-goddess-idle-rpg",
       "code": "UPUP111",
       "expiry": "2026-09-28",
@@ -347,24 +365,6 @@
     {
       "slug": "my-goddess-idle-rpg",
       "code": "VIP111",
-      "expiry": "2026-09-28",
-      "days": 3
-    },
-    {
-      "slug": "potatozombie",
-      "code": "DFY3NPBRCE5GCQ",
-      "expiry": "2026-09-28",
-      "days": 3
-    },
-    {
-      "slug": "spirit-king",
-      "code": "EVEFES0929COMES",
-      "expiry": "2026-09-28",
-      "days": 3
-    },
-    {
-      "slug": "the-grand-mafia",
-      "code": "oktober26f3st",
       "expiry": "2026-09-28",
       "days": 3
     }
@@ -411,11 +411,6 @@
       "total": 18
     },
     {
-      "slug": "whoa-adventurers",
-      "active": 13,
-      "total": 14
-    },
-    {
       "slug": "byeolbyeol-hero",
       "active": 12,
       "total": 12
@@ -433,7 +428,7 @@
     {
       "slug": "busy-savior",
       "active": 10,
-      "total": 25
+      "total": 26
     },
     {
       "slug": "inferno-nine",
@@ -449,6 +444,11 @@
       "slug": "rogw-remains-of-gods",
       "active": 10,
       "total": 10
+    },
+    {
+      "slug": "whoa-adventurers",
+      "active": 10,
+      "total": 11
     },
     {
       "slug": "eternal-evolution",

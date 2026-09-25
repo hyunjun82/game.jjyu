@@ -1,0 +1,50 @@
+{
+  "slug": "total-football",
+  "titleEn": "Total Football",
+  "titleKo": "Total Football - 25/26 시즌",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTdfMjE5/MDAxNzg5NjM2NDQyNzY0.soSqjfVx8YCrjnfA9KNwwsjbOxB8FO5CCQvfb6PGDocg.hvQe5qocnBZXxKZycXTlk0OKqP64coaAOSV9uJRMIzYg.JPEG/TF24_%EC%9D%B4%EB%B2%A4%ED%8A%B8_8000x180.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Total_Football",
+  "sourceUrl": "https://game.naver.com/lounge/Total_Football/board/detail/8213839",
+  "howTo": "",
+  "postCount": 4,
+  "updatedAt": "2026-09-25T00:08:17.267Z",
+  "codes": [
+    {
+      "code": "CHUSEOK2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-20",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "FIGHTINGKOREA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "2026FOOTBALLCUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "totalfootballcup26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

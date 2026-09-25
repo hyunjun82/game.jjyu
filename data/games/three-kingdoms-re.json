@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Three_Kingdoms_re/board/detail/8210304",
   "howTo": "",
   "postCount": 60,
-  "updatedAt": "2026-09-24T22:47:33.283Z",
+  "updatedAt": "2026-09-24T23:58:13.513Z",
   "codes": [
     {
       "code": "51we5",
@@ -110,15 +110,6 @@
       "status": "expired"
     },
     {
-      "code": "week93",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-04",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
       "code": "3week93",
       "reward": "",
       "expiry": null,
@@ -182,28 +173,10 @@
       "status": "expired"
     },
     {
-      "code": "week87",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-05-09",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
       "code": "trw114",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-05-01",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
-      "code": "week66",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-04-25",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-25",
       "status": "expired"
@@ -227,24 +200,6 @@
       "status": "expired"
     },
     {
-      "code": "week03",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-04-04",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
-      "code": "week02",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-03-28",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
-    {
       "code": "week045",
       "reward": "",
       "expiry": null,
@@ -258,6 +213,51 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-03-14",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "week93",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-04",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "week87",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-09",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "week66",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-25",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "week03",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-04",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "week02",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-28",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-25",
       "status": "expired"

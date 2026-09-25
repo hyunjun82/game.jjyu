@@ -1,0 +1,32 @@
+{
+  "slug": "immortal-rising",
+  "titleEn": "Immortal Rising",
+  "titleKo": "이모탈 라이징: 불멸의 각성",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfNzQg/MDAxNzkwMjExNzg1OTI0.rQtQUErSGmlk20slFnpN6Hjki7beLcUSv9XtbFlWRy0g.LTy3ETTaLMk2sAX2KT-slvaAU4i4h_pR9g1716XR_awg.JPEG/%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%80%E6%9C%8D_1024x500.jpg",
+  "source": "naver-lounge",
+  "loungeId": "ImmortalRising",
+  "sourceUrl": "https://game.naver.com/lounge/ImmortalRising/board/detail/8231924",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-09-25T00:07:53.913Z",
+  "codes": [
+    {
+      "code": "IMMORTAL24",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "IMNAVER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    }
+  ]
+}

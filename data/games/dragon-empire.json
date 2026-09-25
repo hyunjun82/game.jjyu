@@ -1,0 +1,50 @@
+{
+  "slug": "dragon-empire",
+  "titleEn": "Dragon Empire",
+  "titleKo": "드래곤 엠파이어",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDdfMjgw/MDAxNzg4NzY0MDYwMjIy.LJqyGMTmR8zuBhx4QjxXpZDlHdq0FeftkN3-PMc1LWsg.Obz-EJ7G2tV_CDfmRFH-b2RBi8Yfpvc0DL9_fiwDSUIg.PNG/231206_%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%83%81%EB%8B%A8%EB%B0%B0%EB%84%88_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "source": "naver-lounge",
+  "loungeId": "Dragon_Empire",
+  "sourceUrl": "https://game.naver.com/lounge/Dragon_Empire/board/detail/8228530",
+  "howTo": "- 좌측 상단 [프로필] 선택 > 우측 하단 [톱니바퀴] 선택 > [쿠폰 입력]을 통해 쿠폰 코드를 입력해 주세요. 📌 쿠폰 이용 안내 - 해당 쿠폰은 계정당 1회만 사용할 수 있습니다. - 해당 쿠폰은 2026/10/10 23:59:59 (KST)까지 사용할 수 있습니다. - 사용 기간이 지난 쿠폰은 사용할 수 없으니 기간 내 꼭 입력해 주세요.",
+  "postCount": 5,
+  "updatedAt": "2026-09-25T00:08:36.662Z",
+  "codes": [
+    {
+      "code": "HHHOLIDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "Event1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-20",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "Event3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-20",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "PCBUFFNOW",
+      "reward": "",
+      "expiry": "2024-07-29",
+      "postedAt": "2024-07-17",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "x-clash",
+  "titleEn": "X Clash",
+  "titleKo": "X 클래시",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MDNfMTMy/MDAxNzgzMDQ1MDg4MDE2.2dIoJfUk2F7Ds4NSEkMtina8jBNUxQ4XZH870RuuV1sg.W7_gTrpdEiS6sT_eyip7ehh0DpcqRS9_KKqYc_lIPwQg.JPEG/%E9%9F%A9%E6%96%87.jpg",
+  "source": "naver-lounge",
+  "loungeId": "X_CLASH",
+  "sourceUrl": "https://game.naver.com/lounge/X_CLASH/board/detail/8217595",
+  "howTo": "풍요롭고 행복한 한가위 보내세요.🥰 --Discord: https://discord.gg/3cEhkY4Tx3 --충전 센터: https://xclash-ea.q1.com/pay/",
+  "postCount": 5,
+  "updatedAt": "2026-09-25T00:08:39.956Z",
+  "codes": [
+    {
+      "code": "MOON2026",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "DOGDAY",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-26",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "NEWSTART",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-03",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "COMMUNITY",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-04-28",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "HOTDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

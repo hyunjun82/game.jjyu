@@ -1193,6 +1193,69 @@
       "titleKo": "인투더던전:리본",
       "titleEn": "Into The Dungeon Reborn",
       "auto": "2026-09-25"
+    },
+    {
+      "slug": "raising-reincarnated-sword-mage",
+      "loungeId": "Raising_Reincarnated_SwordMage",
+      "titleKo": "환생 마검사 키우기",
+      "titleEn": "Raising Reincarnated Sword Mage",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "samgukji2022",
+      "loungeId": "Samgukji2022",
+      "titleKo": "삼국지 2022",
+      "titleEn": "Samgukji2022",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "sinbbal-online",
+      "loungeId": "Sinbbal_Online",
+      "titleKo": "신빨 키우기: 뇌 빼고 수련 RPG",
+      "titleEn": "Sinbbal Online",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "total-football",
+      "loungeId": "Total_Football",
+      "titleKo": "Total Football - 25/26 시즌",
+      "titleEn": "Total Football",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "trash-king",
+      "loungeId": "Trash_King",
+      "titleKo": "쓰레기왕 키우기",
+      "titleEn": "Trash King",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "twelvesky-m-the-one",
+      "loungeId": "TwelveskyM_TheONE",
+      "titleKo": "십이지천M The ONE",
+      "titleEn": "Twelvesky M The One",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "wings-of-the-goddess",
+      "loungeId": "Wings_of_the_Goddess",
+      "titleKo": "다크엔젤: 심연의 날개",
+      "titleEn": "Wings Of The Goddess",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "dragon-empire",
+      "loungeId": "Dragon_Empire",
+      "titleKo": "드래곤 엠파이어",
+      "titleEn": "Dragon Empire",
+      "auto": "2026-09-25"
+    },
+    {
+      "slug": "x-clash",
+      "loungeId": "X_CLASH",
+      "titleKo": "X 클래시",
+      "titleEn": "X Clash",
+      "auto": "2026-09-25"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

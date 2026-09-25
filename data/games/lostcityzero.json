@@ -5,20 +5,11 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTFfMTEg/MDAxNzg5MTEyNzI4Mzcz.m32Xr31IBbAC4wfVqbHUNm2Nja5evxkiv16RmbXXOxgg.7cFYPfCkMwYk_IRALfF7YHO9p3pSebxbhMM33UcXeFIg.PNG/3.png",
   "source": "naver-lounge",
   "loungeId": "LOSTCITYZERO",
-  "sourceUrl": "https://game.naver.com/lounge/LOSTCITYZERO/board/detail/8226783",
+  "sourceUrl": "https://game.naver.com/lounge/LOSTCITYZERO/board/detail/8177576",
   "howTo": "",
-  "postCount": 29,
-  "updatedAt": "2026-09-24T22:55:55.381Z",
+  "postCount": 28,
+  "updatedAt": "2026-09-25T00:06:12.944Z",
   "codes": [
-    {
-      "code": "LOSTCITY",
-      "reward": "",
-      "expiry": "2026-09-11",
-      "postedAt": "2026-09-11",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "status": "expired"
-    },
     {
       "code": "LOSTCITY444901",
       "reward": "",
@@ -276,6 +267,15 @@
       "reward": "",
       "expiry": "2026-02-13",
       "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "LOSTCITY",
+      "reward": "",
+      "expiry": "2026-09-11",
+      "postedAt": "2026-09-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-25",
       "status": "expired"

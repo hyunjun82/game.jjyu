@@ -1,0 +1,77 @@
+{
+  "slug": "ete-chronicle",
+  "titleEn": "Ete Chronicle",
+  "titleKo": "에타 크로니클",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTg4/MDAxNzkwMjI0MzQzNjky.b8XABMKmbY2fkQL6ySqI3_LOLl9iaEN_OJGgU5P7FCAg.dSapfNsvH7ixLLhzD4mxmXuRTHdoYp1PJwUhYIfLht8g.JPEG/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260923150632_108_19.jpg",
+  "source": "naver-lounge",
+  "loungeId": "ETE_CHRONICLE",
+  "sourceUrl": "https://game.naver.com/lounge/ETE_CHRONICLE/board/detail/8232663",
+  "howTo": "",
+  "postCount": 7,
+  "updatedAt": "2026-09-25T00:07:52.429Z",
+  "codes": [
+    {
+      "code": "ETEQZJ2026",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "ETELDJ2026",
+      "reward": "",
+      "expiry": "2026-05-30",
+      "postedAt": "2026-04-30",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "ETEYXKL2026",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-03",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "ETEIMD2026",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-01",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "ETE2026",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-17",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "HappyNewYear2026",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    },
+    {
+      "code": "MerryChristmas2025",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

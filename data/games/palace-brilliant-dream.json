@@ -1,0 +1,32 @@
+{
+  "slug": "palace-brilliant-dream",
+  "titleEn": "Palace Brilliant Dream",
+  "titleKo": "궁:영롱몽",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjIw/MDAxNzkwMjEzMjkwNjU0.imW7V3Ekzns8JVdZUtnuieoJOdR_547l2eivL3uiJeUg.zcbOf1BpZjZ5-B4PJWIriMxiLyPvYUKyqxOWyOyMh74g.PNG/04_02.png",
+  "source": "naver-lounge",
+  "loungeId": "Palace_brilliant_dream",
+  "sourceUrl": "https://game.naver.com/lounge/Palace_brilliant_dream/board/detail/8233522",
+  "howTo": "STEP1: 홈 화면 \"혜택\" 선택 STEP2: 혜택 리스트 중 \"기타\" 선택 STEP3: 기타 리스트 중 \"교환 코드\" 선택 STEP4: 교환 코드를 입력 후 \"보상 수령\"을 클릭하면 아이템 지급 즐거운 한가위 되세요~",
+  "postCount": 2,
+  "updatedAt": "2026-09-25T00:07:58.021Z",
+  "codes": [
+    {
+      "code": "r8o6yqxpyf",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
+    {
+      "code": "UPDATE0623",
+      "reward": "",
+      "expiry": "2025-07-31",
+      "postedAt": "2025-06-18",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
   "loungeId": "Last_Echo",
   "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8156295",
   "howTo": "",
-  "postCount": 6,
-  "updatedAt": "2026-09-24T22:57:09.019Z",
+  "postCount": 7,
+  "updatedAt": "2026-09-25T00:07:18.499Z",
   "codes": [
     {
       "code": "FANPACK",
@@ -36,6 +36,15 @@
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-09-25",
       "status": "active"
+    },
+    {
+      "code": "LCEASTER26",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-04",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
     },
     {
       "code": "LEFAN25K",

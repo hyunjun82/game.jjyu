@@ -7,8 +7,8 @@
   "loungeId": "busysavior",
   "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8213838",
   "howTo": "1. 화면 중앙 우측 [더보기] 클릭 2. [설정] 버튼 클릭 3. [교환코드] 버튼 클릭 4. 교환코드 입력 후 확인 오늘 하루도 비지 세이비어와 함께 행복한 하루 되시길 바랍니다.",
-  "postCount": 662,
-  "updatedAt": "2026-09-24T22:48:31.861Z",
+  "postCount": 663,
+  "updatedAt": "2026-09-24T23:59:11.262Z",
   "codes": [
     {
       "code": "fall2026",
@@ -99,6 +99,15 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-25",
       "status": "active"
+    },
+    {
+      "code": "Fortunate",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-30",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
     },
     {
       "code": "WISDOM26",
