@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Raising_Souls/board/detail/7987575",
   "howTo": "1. 채팅창 진입 2. /coupon 쿠폰 번호 입력 후 등록",
   "postCount": 1,
-  "updatedAt": "2026-09-25T12:11:45.399Z",
+  "updatedAt": "2026-09-25T17:32:48.672Z",
   "codes": [
+    {
+      "code": "EUNUG5R0RX",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-28",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
     {
       "code": "YOUNG",
       "reward": "",
@@ -17,15 +26,6 @@
       "expiryFrom": "event",
       "postedAt": "2026-09-21",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "EUNUG5R0RX",
-      "reward": "",
-      "expiry": "2026-07-31",
-      "postedAt": "2026-07-28",
-      "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-25",
       "status": "expired"
     }

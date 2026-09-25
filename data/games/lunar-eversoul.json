@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8238719",
   "howTo": "",
   "postCount": 1322,
-  "updatedAt": "2026-09-25T12:06:48.745Z",
+  "updatedAt": "2026-09-25T17:28:05.536Z",
   "codes": [
     {
       "code": "HAPPYCHUSEOK2026",
@@ -16,7 +16,25 @@
       "expiry": null,
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "week0004",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-20",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "week0333",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-13",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-26",
       "status": "active"
     },
     {
@@ -26,25 +44,7 @@
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "week0004",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-20",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "week0333",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-13",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-25",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "OP888888",
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {
@@ -62,7 +62,7 @@
       "tag": "사전예약",
       "postedAt": "2026-08-19",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {

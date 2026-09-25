@@ -3,9 +3,12 @@
   "titleEn": "Sabuk: Ice Kingdom",
   "titleKo": "사북: 아이스 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjY1/MDAxNzkwMjQxNDY4MjA4.Q7quhvNZHijYFPE78TE5HzRS2C8QuZgGZbUE5XEIQ8Qg.TOurJQxG2O0VKjHTaNYCpVfSL2MeHkcuMN482I36wKUg.JPEG/%E8%B4%B4%E6%96%87%E5%BA%95%E9%83%A8banner-800-190.jpg",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "icekingdom",
+  "sourceUrl": "https://game.naver.com/lounge/icekingdom/board/detail/8233687",
   "howTo": "설정-패키지 코드 교환-입력 및 확인 입력 후 우편을 통하여 수령이 가능합니다. 즐거운 주말 되세요! 🎮✨",
-  "updatedAt": "2026-09-25T12:19:19.246Z",
+  "postCount": 170,
+  "updatedAt": "2026-09-25T17:30:49.133Z",
   "codes": [
     {
       "code": "MOON111",
@@ -13,7 +16,115 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "WEEKXB1",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "500BOX",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "GRANDOPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "VIP666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "VIP777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "VIP888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "VIP999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "ICE666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "ICE777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "ICE888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "ICE999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "ICE000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-26",
       "status": "active"
     },
     {
@@ -24,16 +135,7 @@
       "sourceUrl": "https://blog.naver.com/youneedtochill/224413859801",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "WEEKXB1",
-      "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-09-19",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-25",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "O1369",
@@ -43,106 +145,7 @@
       "sourceUrl": "https://blog.naver.com/doni21/224415109516",
       "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "500BOX",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "GRANDOPEN",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "VIP666",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "VIP777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "VIP888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "VIP999",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "ICE666",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "ICE777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "ICE888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "ICE999",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "ICE000",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-25",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

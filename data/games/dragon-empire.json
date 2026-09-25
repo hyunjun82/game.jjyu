@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Dragon_Empire/board/detail/8228530",
   "howTo": "- 좌측 상단 [프로필] 선택 > 우측 하단 [톱니바퀴] 선택 > [쿠폰 입력]을 통해 쿠폰 코드를 입력해 주세요. 📌 쿠폰 이용 안내 - 해당 쿠폰은 계정당 1회만 사용할 수 있습니다. - 해당 쿠폰은 2026/10/10 23:59:59 (KST)까지 사용할 수 있습니다. - 사용 기간이 지난 쿠폰은 사용할 수 없으니 기간 내 꼭 입력해 주세요.",
   "postCount": 5,
-  "updatedAt": "2026-09-25T12:17:24.043Z",
+  "updatedAt": "2026-09-25T17:38:05.164Z",
   "codes": [
     {
       "code": "HHHOLIDAY",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-04-20",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-04-20",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2024-07-29",
       "postedAt": "2024-07-17",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     }
   ]

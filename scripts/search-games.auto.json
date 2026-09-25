@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-25T12:05:32.130Z",
+  "generatedAt": "2026-09-25T17:26:57.658Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -21,12 +21,6 @@
       "titleEn": "Romantic Gangho"
     },
     {
-      "slug": "gear-paw-defenders",
-      "loungeId": "GearPaw_Defenders",
-      "titleKo": "기어몬: 타워 디펜스",
-      "titleEn": "Gear Paw Defenders"
-    },
-    {
       "slug": "heroes-tales2",
       "loungeId": "Heroes_tales2",
       "titleKo": "히어로즈 테일즈2",
@@ -39,46 +33,10 @@
       "titleEn": "Lumimaster"
     },
     {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
-    },
-    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights Endfield"
-    },
-    {
-      "slug": "forest-sigh-neverland",
-      "loungeId": "Forest_Sigh_Neverland",
-      "titleKo": "포레스트 사이: 네버랜드​",
-      "titleEn": "Forest Sigh Neverland"
-    },
-    {
-      "slug": "ragnarok-origin-classic-korean",
-      "loungeId": "Ragnarok_Origin_Classic_Korean",
-      "titleKo": "라그나로크 오리진 클래식",
-      "titleEn": "Ragnarok Origin Classic Korean"
-    },
-    {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
-    },
-    {
-      "slug": "toysamguk",
-      "loungeId": "toysamguk",
-      "titleKo": "토이 삼국",
-      "titleEn": "Toysamguk"
-    },
-    {
-      "slug": "oops-tomb-raid",
-      "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
-      "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "watcher-of-realms",
@@ -87,10 +45,40 @@
       "titleEn": "Watcher Of Realms"
     },
     {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
+      "slug": "toysamguk",
+      "loungeId": "toysamguk",
+      "titleKo": "토이 삼국",
+      "titleEn": "Toysamguk"
+    },
+    {
+      "slug": "gear-paw-defenders",
+      "loungeId": "GearPaw_Defenders",
+      "titleKo": "기어몬: 타워 디펜스",
+      "titleEn": "Gear Paw Defenders"
+    },
+    {
+      "slug": "ragnarok-origin-classic-korean",
+      "loungeId": "Ragnarok_Origin_Classic_Korean",
+      "titleKo": "라그나로크 오리진 클래식",
+      "titleEn": "Ragnarok Origin Classic Korean"
+    },
+    {
+      "slug": "forest-sigh-neverland",
+      "loungeId": "Forest_Sigh_Neverland",
+      "titleKo": "포레스트 사이: 네버랜드​",
+      "titleEn": "Forest Sigh Neverland"
+    },
+    {
+      "slug": "torchlight-infinite",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight Infinite"
+    },
+    {
+      "slug": "oops-tomb-raid",
+      "loungeId": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
+      "titleEn": "Oops Tomb Raid"
     }
   ]
 }

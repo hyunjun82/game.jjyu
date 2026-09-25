@@ -1,0 +1,59 @@
+{
+  "slug": "kanatales",
+  "titleEn": "Kanatales",
+  "titleKo": "카나테일즈",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjJfMjc3/MDAxNzg0NzA5NjMwMTc1.w-d3UF0ogL_x9oxu_lUVRqwuXhApcInRvQ5AxBplnTkg.s-cnmVkN8uklGMVjYrNdAtWNYTYbVEXA24hHh3Ne0nsg.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg",
+  "source": "naver-lounge",
+  "loungeId": "kanatales",
+  "sourceUrl": "https://game.naver.com/lounge/kanatales/board/detail/8213416",
+  "howTo": "",
+  "postCount": 6,
+  "updatedAt": "2026-09-25T17:38:31.715Z",
+  "codes": [
+    {
+      "code": "KTSICC2609",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-20",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "KTAGAIN",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-03-17",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "KTSORRY2606",
+      "reward": "",
+      "expiry": "2026-07-13",
+      "postedAt": "2026-06-13",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "KTEV2606",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-08",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "KT26NEW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    }
+  ]
+}

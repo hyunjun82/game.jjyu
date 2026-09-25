@@ -1,0 +1,77 @@
+{
+  "slug": "mookhon",
+  "titleEn": "Mookhon",
+  "titleKo": "묵혼",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MTNfNjkg/MDAxNzgzOTA1MTMyMTM4.AVOeCEZ-LT4M4ERb5PNmFzKfJTGRYwlcpRoMLMNFoMwg.gQomAtyF4R6jPEhsSWeeNXVvoaMm2-SMHp_3wMcujKYg.PNG/Gemini_Generated_Image_kv41k2kv41k2kv41_(1)_(1).png",
+  "source": "naver-lounge",
+  "loungeId": "MOOKHON",
+  "sourceUrl": "https://game.naver.com/lounge/MOOKHON/board/detail/7924064",
+  "howTo": "",
+  "postCount": 7,
+  "updatedAt": "2026-09-25T17:38:41.158Z",
+  "codes": [
+    {
+      "code": "HAPPYSUMMER26",
+      "reward": "",
+      "expiry": "2027-07-04",
+      "postedAt": "2026-07-13",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "20VALENTINE26",
+      "reward": "",
+      "expiry": "2027-01-31",
+      "postedAt": "2026-02-10",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "XMAS2025",
+      "reward": "",
+      "expiry": "2026-12-13",
+      "postedAt": "2025-12-15",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "HALLOWEEN2025",
+      "reward": "",
+      "expiry": "2026-10-18",
+      "postedAt": "2025-10-20",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-29",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "NEWRAIDBOSS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-28",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "TOWEROFENDLESS",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2025-12-19",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    }
+  ]
+}

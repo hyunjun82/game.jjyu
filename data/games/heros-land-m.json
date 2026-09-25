@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/HerosLandM/board/detail/8233406",
   "howTo": "",
   "postCount": 7,
-  "updatedAt": "2026-09-25T12:16:15.071Z",
+  "updatedAt": "2026-09-25T17:37:04.541Z",
   "codes": [
     {
       "code": "67D6UPUh",
@@ -16,16 +16,7 @@
       "expiry": "2026-10-02",
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
-      "status": "active"
-    },
-    {
-      "code": "eaCUT6kX",
-      "reward": "",
-      "expiry": "2026-09-25",
-      "postedAt": "2026-09-18",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "active"
     },
     {
@@ -34,8 +25,17 @@
       "expiry": "2027-08-08",
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "active"
+    },
+    {
+      "code": "eaCUT6kX",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
     },
     {
       "code": "na5vTeDp",
@@ -43,7 +43,7 @@
       "expiry": "2026-09-18",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-09-04",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-08-28",
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": "2026-08-21",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "status": "expired"
     }
   ]

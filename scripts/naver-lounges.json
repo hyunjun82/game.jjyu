@@ -1277,6 +1277,62 @@
       "titleKo": "변신해라! 정령술사",
       "titleEn": "Druid Rising",
       "auto": "2026-09-25"
+    },
+    {
+      "slug": "endlesscycle",
+      "loungeId": "endlesscycle",
+      "titleKo": "엔들리스 사이클",
+      "titleEn": "Endlesscycle",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "eo-ckr",
+      "loungeId": "EoCKR",
+      "titleKo": "EOC: 제국정복",
+      "titleEn": "Eo Ckr",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "heroic-alliance",
+      "loungeId": "Heroic_Alliance",
+      "titleKo": "신탑전기",
+      "titleEn": "Heroic Alliance",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "kalpa-of-universe",
+      "loungeId": "KALPA_OF_UNIVERSE",
+      "titleKo": "천지겁",
+      "titleEn": "Kalpa Of Universe",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "kanatales",
+      "loungeId": "kanatales",
+      "titleKo": "카나테일즈",
+      "titleEn": "Kanatales",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "master-of-munchkin",
+      "loungeId": "Master_of_Munchkin",
+      "titleKo": "마스터 오브 먼치킨",
+      "titleEn": "Master Of Munchkin",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "monster-hunter-idle-rpg",
+      "loungeId": "Monster_Hunter_Idle_RPG",
+      "titleKo": "헌터 파티 키우기: 방치형 RPG",
+      "titleEn": "Monster Hunter Idle Rpg",
+      "auto": "2026-09-26"
+    },
+    {
+      "slug": "mookhon",
+      "loungeId": "MOOKHON",
+      "titleKo": "묵혼",
+      "titleEn": "Mookhon",
+      "auto": "2026-09-26"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
