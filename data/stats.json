@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-25T00:13:35.238Z",
+  "generatedAt": "2026-09-25T00:42:16.148Z",
   "today": "2026-09-25",
-  "todayNew": 197,
+  "todayNew": 225,
   "totals": {
     "games": 201,
-    "codes": 2569,
-    "active": 531,
-    "expired": 2038,
+    "codes": 2597,
+    "active": 538,
+    "expired": 2059,
     "withExpiry": 1533
   },
   "newByDate": [
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-25",
-      "count": 197
+      "count": 225
     }
   ],
   "expiringSoon": [
@@ -371,6 +371,11 @@
   ],
   "topGames": [
     {
+      "slug": "apex-girls",
+      "active": 23,
+      "total": 52
+    },
+    {
       "slug": "daksa-rpg",
       "active": 20,
       "total": 61
@@ -379,11 +384,6 @@
       "slug": "idle-berserker",
       "active": 17,
       "total": 45
-    },
-    {
-      "slug": "apex-girls",
-      "active": 16,
-      "total": 24
     },
     {
       "slug": "idle-hero-but-save-the-world",
