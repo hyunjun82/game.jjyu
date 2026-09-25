@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-25T17:43:23.967Z",
+  "generatedAt": "2026-09-25T20:53:30.427Z",
   "today": "2026-09-26",
-  "todayNew": 118,
+  "todayNew": 120,
   "totals": {
-    "games": 212,
-    "codes": 2780,
-    "active": 565,
-    "expired": 2215,
+    "games": 214,
+    "codes": 2782,
+    "active": 557,
+    "expired": 2225,
     "withExpiry": 1619
   },
   "newByDate": [
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-26",
-      "count": 118
+      "count": 120
     }
   ],
   "expiringSoon": [
@@ -381,11 +381,6 @@
       "total": 61
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 17,
-      "total": 22
-    },
-    {
       "slug": "idle-berserker",
       "active": 16,
       "total": 45
@@ -394,6 +389,16 @@
       "slug": "idle-hero-but-save-the-world",
       "active": 15,
       "total": 23
+    },
+    {
+      "slug": "sabuk-ice-kingdom",
+      "active": 15,
+      "total": 15
+    },
+    {
+      "slug": "honkai-star-rail",
+      "active": 14,
+      "total": 22
     },
     {
       "slug": "byeolbyeol-hero",
@@ -414,11 +419,6 @@
       "slug": "ragnarok-m-classic",
       "active": 13,
       "total": 18
-    },
-    {
-      "slug": "sabuk-ice-kingdom",
-      "active": 13,
-      "total": 15
     },
     {
       "slug": "busy-savior",
@@ -446,11 +446,6 @@
       "total": 10
     },
     {
-      "slug": "lumimaster",
-      "active": 10,
-      "total": 10
-    },
-    {
       "slug": "whoa-adventurers",
       "active": 10,
       "total": 11
@@ -469,6 +464,11 @@
       "slug": "genshin-impact",
       "active": 7,
       "total": 10
+    },
+    {
+      "slug": "heartopia",
+      "active": 7,
+      "total": 7
     }
   ],
   "noImage": 17

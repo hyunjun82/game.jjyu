@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-25T17:26:57.658Z",
+  "generatedAt": "2026-09-25T20:38:26.667Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -79,6 +79,12 @@
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "game-of-money",
+      "loungeId": "Game_Of_Money",
+      "titleKo": "대표님을 부탁해",
+      "titleEn": "Game Of Money"
     }
   ]
 }
