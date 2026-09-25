@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T00:42:16.148Z",
+  "generatedAt": "2026-09-25T01:19:07.787Z",
   "today": "2026-09-25",
-  "todayNew": 225,
+  "todayNew": 236,
   "totals": {
     "games": 201,
-    "codes": 2597,
-    "active": 538,
-    "expired": 2059,
-    "withExpiry": 1533
+    "codes": 2608,
+    "active": 548,
+    "expired": 2060,
+    "withExpiry": 1539
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-25",
-      "count": 225
+      "count": 236
     }
   ],
   "expiringSoon": [
@@ -119,6 +119,12 @@
     {
       "slug": "raising-souls",
       "code": "YOUNG",
+      "expiry": "2026-09-25",
+      "days": 0
+    },
+    {
+      "slug": "soul-ferryman",
+      "code": "MOON777",
       "expiry": "2026-09-25",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "GRANDOPENING1",
       "expiry": "2026-09-28",
       "days": 3
-    },
-    {
-      "slug": "my-goddess-idle-rpg",
-      "code": "VIP111",
-      "expiry": "2026-09-28",
-      "days": 3
     }
   ],
   "topGames": [
@@ -386,6 +386,11 @@
       "total": 45
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 16,
+      "total": 21
+    },
+    {
       "slug": "idle-hero-but-save-the-world",
       "active": 15,
       "total": 22
@@ -396,9 +401,9 @@
       "total": 15
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 14,
-      "total": 19
+      "slug": "byeolbyeol-hero",
+      "active": 13,
+      "total": 13
     },
     {
       "slug": "max-level-idle",
@@ -411,24 +416,19 @@
       "total": 18
     },
     {
-      "slug": "byeolbyeol-hero",
-      "active": 12,
-      "total": 12
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
       "active": 12,
       "total": 31
     },
     {
+      "slug": "busy-savior",
+      "active": 11,
+      "total": 27
+    },
+    {
       "slug": "astro-defenders",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 10,
-      "total": 26
     },
     {
       "slug": "inferno-nine",

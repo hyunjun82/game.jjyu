@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
   "howTo": "",
   "postCount": 8,
-  "updatedAt": "2026-09-25T00:29:49.404Z",
+  "updatedAt": "2026-09-25T01:05:25.455Z",
   "codes": [
     {
       "code": "LUCKYSAILORS777",
@@ -36,6 +36,15 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-09-25",
       "status": "active"
+    },
+    {
+      "code": "SAILOR0925",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "expired"
     },
     {
       "code": "MUSHROOM0902",

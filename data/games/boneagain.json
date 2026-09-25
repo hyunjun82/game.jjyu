@@ -2,14 +2,23 @@
   "slug": "boneagain",
   "titleEn": "Boneagain",
   "titleKo": "본 어게인: 해골히어로",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfMjU0/MDAxNzg5NzAwMjQ5MDg2.wcgbiqUcVR8AR8KK4IyfVpB-8-4MKqKAi3-DRa6uAhkg.qtGVQaG2OaoEG5Fwsu32p9zAcsdWhcO4ADD1jswFtFMg.PNG/%E7%A6%8F%E5%88%A9%E6%94%BE%E9%80%81.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfNiAg/MDAxNzkwMjMwMjcxMTI3.LulgYdiCMVQoQpeTKzq-tVOVzAcHeq8IUGREuNQG4_og.8WGbTi8Ozxnh02IeMTbQc9T6cb5vWM7w3tEZ5upYK1Mg.PNG/%E7%A6%8F%E5%88%A9%E6%94%BE%E9%80%81.png",
   "source": "naver-lounge",
   "loungeId": "boneagain",
-  "sourceUrl": "https://game.naver.com/lounge/boneagain/board/detail/8210132",
+  "sourceUrl": "https://game.naver.com/lounge/boneagain/board/detail/8239282",
   "howTo": "① 게임 메인 화면에서 프로필 클릭 ② [교환 코드] 클릭 ③ 쿠폰 코드를 입력 후 [수령] 클릭 쿠폰은 반드시 기간 내 사용해 주세요~",
-  "postCount": 57,
-  "updatedAt": "2026-09-25T00:33:41.859Z",
+  "postCount": 58,
+  "updatedAt": "2026-09-25T01:09:40.098Z",
   "codes": [
+    {
+      "code": "L8GBES",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25",
+      "status": "active"
+    },
     {
       "code": "M9GBRS",
       "reward": "",
