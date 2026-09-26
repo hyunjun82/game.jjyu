@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-26T02:24:28.376Z",
+  "generatedAt": "2026-09-26T08:09:39.733Z",
   "today": "2026-09-26",
-  "todayNew": 145,
+  "todayNew": 149,
   "totals": {
-    "games": 215,
-    "codes": 2807,
-    "active": 571,
+    "games": 216,
+    "codes": 2811,
+    "active": 575,
     "expired": 2236,
-    "withExpiry": 1639
+    "withExpiry": 1642
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-26",
-      "count": 145
+      "count": 149
     }
   ],
   "expiringSoon": [
@@ -77,6 +77,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "LIB0911",
+      "expiry": "2026-09-26",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "F9Q4XT",
       "expiry": "2026-09-26",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "qZC0Iy",
       "expiry": "2026-09-29",
       "days": 3
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "MtQOM8",
-      "expiry": "2026-09-29",
-      "days": 3
     }
   ],
   "topGames": [
@@ -386,19 +386,24 @@
       "total": 45
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 24
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 16,
       "total": 16
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 23
-    },
-    {
       "slug": "honkai-star-rail",
       "active": 14,
       "total": 22
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 53
     },
     {
       "slug": "byeolbyeol-hero",
@@ -411,11 +416,6 @@
       "total": 32
     },
     {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 52
-    },
-    {
       "slug": "ragnarok-m-classic",
       "active": 13,
       "total": 18
@@ -426,14 +426,14 @@
       "total": 12
     },
     {
+      "slug": "yep-raising-feet-up",
+      "active": 12,
+      "total": 12
+    },
+    {
       "slug": "busy-savior",
       "active": 11,
       "total": 27
-    },
-    {
-      "slug": "yep-raising-feet-up",
-      "active": 11,
-      "total": 11
     },
     {
       "slug": "astro-defenders",
