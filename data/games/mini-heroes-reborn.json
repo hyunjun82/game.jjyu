@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/MiniHeroesReborn/board/detail/8244357",
   "howTo": "게임 화면 밑에 오른쪽 [≡] 버튼 클릭 > 설정 버튼 클릭 > 교환 코드 클릭 > 코드 입력 주의 사항 쿠폰은 계정 당 1회만 사용 가능하오니 사용하셨던 코드 다시 입력하시면 안 된다는 점 유념해 주시기 바랍니다. 쿠폰 코드를 정확하게 입력하지 않거나 공백이 포함되어 있을 경우 사용이 불가하오니 정확히 입력해 주세요. 사용 가능한 시간을 잘 유의하시기 바랍니다.",
   "postCount": 147,
-  "updatedAt": "2026-09-26T12:43:47.293Z",
+  "updatedAt": "2026-09-26T17:01:38.756Z",
   "codes": [
     {
       "code": "9K24GQ",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-26",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "active"
     },
     {
@@ -25,16 +25,7 @@
       "expiry": null,
       "postedAt": "2026-09-19",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
-      "status": "active"
-    },
-    {
-      "code": "AR38HW",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "active"
     },
     {
@@ -43,7 +34,16 @@
       "expiry": null,
       "postedAt": "2024-07-10",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
+      "status": "expired"
+    },
+    {
+      "code": "AR38HW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-09-05",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-08-29",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -79,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -88,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-08-08",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -97,7 +97,7 @@
       "expiry": null,
       "postedAt": "2026-08-01",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -106,7 +106,7 @@
       "expiry": null,
       "postedAt": "2026-07-25",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "expiry": null,
       "postedAt": "2026-07-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -124,7 +124,7 @@
       "expiry": null,
       "postedAt": "2026-07-11",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -133,7 +133,7 @@
       "expiry": null,
       "postedAt": "2026-07-06",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -142,7 +142,7 @@
       "expiry": null,
       "postedAt": "2026-06-27",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -151,7 +151,7 @@
       "expiry": null,
       "postedAt": "2026-06-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -160,7 +160,7 @@
       "expiry": null,
       "postedAt": "2026-06-13",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -169,7 +169,7 @@
       "expiry": null,
       "postedAt": "2026-06-06",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -178,7 +178,7 @@
       "expiry": null,
       "postedAt": "2026-05-30",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -187,7 +187,7 @@
       "expiry": null,
       "postedAt": "2026-05-23",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -196,7 +196,7 @@
       "expiry": null,
       "postedAt": "2026-05-23",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -205,7 +205,7 @@
       "expiry": null,
       "postedAt": "2026-05-09",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -214,7 +214,7 @@
       "expiry": null,
       "postedAt": "2026-05-02",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -223,7 +223,7 @@
       "expiry": null,
       "postedAt": "2026-04-25",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -232,7 +232,7 @@
       "expiry": null,
       "postedAt": "2026-04-18",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -241,7 +241,7 @@
       "expiry": null,
       "postedAt": "2026-04-11",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -250,7 +250,7 @@
       "expiry": null,
       "postedAt": "2026-04-04",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -259,7 +259,7 @@
       "expiry": null,
       "postedAt": "2026-03-28",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -268,7 +268,7 @@
       "expiry": null,
       "postedAt": "2026-03-21",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -277,7 +277,7 @@
       "expiry": null,
       "postedAt": "2026-03-14",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -287,7 +287,7 @@
       "tag": "사전예약",
       "postedAt": "2024-07-05",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -296,7 +296,7 @@
       "expiry": null,
       "postedAt": "2024-06-28",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {
@@ -306,7 +306,7 @@
       "tag": "사전예약",
       "postedAt": "2024-07-10",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "expired"
     },
     {

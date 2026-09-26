@@ -1361,6 +1361,41 @@
       "titleKo": "네메시스: 나인",
       "titleEn": "Nemesisnine",
       "auto": "2026-09-26"
+    },
+    {
+      "slug": "merge-teahouse",
+      "loungeId": "MergeTeahouse",
+      "titleKo": "동방 찻집",
+      "titleEn": "Merge Teahouse",
+      "auto": "2026-09-27"
+    },
+    {
+      "slug": "lumimaster",
+      "loungeId": "lumimaster",
+      "titleKo": "루미마스터",
+      "titleEn": "Lumimaster",
+      "auto": "2026-09-27"
+    },
+    {
+      "slug": "horde-war-avengers-summon",
+      "loungeId": "Horde_War_Avengers_Summon",
+      "titleKo": "호드 워:어벤저의 소환",
+      "titleEn": "Horde War Avengers Summon",
+      "auto": "2026-09-27"
+    },
+    {
+      "slug": "ragnarok-origin-classic-korean",
+      "loungeId": "Ragnarok_Origin_Classic_Korean",
+      "titleKo": "라그나로크 오리진 클래식",
+      "titleEn": "Ragnarok Origin Classic Korean",
+      "auto": "2026-09-27"
+    },
+    {
+      "slug": "dragon-traveler",
+      "loungeId": "Dragon_Traveler",
+      "titleKo": "그놈은 드래곤",
+      "titleEn": "Dragon Traveler",
+      "auto": "2026-09-27"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

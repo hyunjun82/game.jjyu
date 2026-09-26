@@ -2,21 +2,30 @@
   "slug": "nekofighteridle",
   "titleEn": "Nekofighteridle",
   "titleKo": "냥투가키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMjUg/MDAxNzg5OTgzNTQ0Mjg5.z-SFGzV2dDMGjzMKaMVdbM7hiZln7K2mAc1SkaOu0jQg.k8AnDJY34yOyHputGu1gpgT4009gryukrAs4s2iYrIgg.PNG/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8_%ED%85%9C%ED%94%8C%EB%A6%BF_1200x400.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjdfNDUg/MDAxNzkwNDM2MzM3NDQw.2vrez1Hj0tA_d0QVuAjljGomqu2GSRlF8ct2vdiQQ9Yg.9KxskqsFSj8nXBpqti9TS8hwU6GPa3Qukk-OxkBbjWog.PNG/%EC%BF%A0%ED%8F%B0_%ED%85%9C%ED%94%8C%EB%A6%BF_1200x400.png",
   "source": "naver-lounge",
   "loungeId": "nekofighteridle",
-  "sourceUrl": "https://game.naver.com/lounge/nekofighteridle/board/detail/8219639",
+  "sourceUrl": "https://game.naver.com/lounge/nekofighteridle/board/detail/8247035",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-09-26T12:45:44.832Z",
+  "postCount": 2,
+  "updatedAt": "2026-09-26T17:03:34.335Z",
   "codes": [
+    {
+      "code": "WISH25",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-27",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "status": "active"
+    },
     {
       "code": "UPDATE777",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-21",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "status": "active"
     }
   ]
