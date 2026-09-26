@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-26T08:09:39.733Z",
+  "generatedAt": "2026-09-26T12:51:36.021Z",
   "today": "2026-09-26",
-  "todayNew": 149,
+  "todayNew": 151,
   "totals": {
     "games": 216,
-    "codes": 2811,
-    "active": 575,
-    "expired": 2236,
-    "withExpiry": 1642
+    "codes": 2813,
+    "active": 582,
+    "expired": 2231,
+    "withExpiry": 1643
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-26",
-      "count": 149
+      "count": 151
     }
   ],
   "expiringSoon": [
@@ -451,6 +451,11 @@
       "total": 11
     },
     {
+      "slug": "lumimaster",
+      "active": 9,
+      "total": 10
+    },
+    {
       "slug": "sword-frontier",
       "active": 9,
       "total": 20
@@ -464,11 +469,6 @@
       "slug": "genshin-impact",
       "active": 7,
       "total": 10
-    },
-    {
-      "slug": "heartopia",
-      "active": 7,
-      "total": 7
     }
   ],
   "noImage": 17
