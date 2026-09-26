@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-26T00:00:26.813Z",
+  "generatedAt": "2026-09-26T02:24:28.376Z",
   "today": "2026-09-26",
-  "todayNew": 120,
+  "todayNew": 145,
   "totals": {
-    "games": 214,
-    "codes": 2782,
-    "active": 557,
-    "expired": 2225,
-    "withExpiry": 1619
+    "games": 215,
+    "codes": 2807,
+    "active": 571,
+    "expired": 2236,
+    "withExpiry": 1639
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-26",
-      "count": 120
+      "count": 145
     }
   ],
   "expiringSoon": [
@@ -143,6 +143,12 @@
     {
       "slug": "martial-arts",
       "code": "Chuseok925",
+      "expiry": "2026-09-27",
+      "days": 1
+    },
+    {
+      "slug": "merge-seasons",
+      "code": "sweetcandy",
       "expiry": "2026-09-27",
       "days": 1
     },
@@ -361,19 +367,13 @@
       "code": "MtQOM8",
       "expiry": "2026-09-29",
       "days": 3
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "27aoO5",
-      "expiry": "2026-09-29",
-      "days": 3
     }
   ],
   "topGames": [
     {
       "slug": "apex-girls",
-      "active": 22,
-      "total": 52
+      "active": 23,
+      "total": 53
     },
     {
       "slug": "daksa-rpg",
@@ -386,14 +386,14 @@
       "total": 45
     },
     {
+      "slug": "sabuk-ice-kingdom",
+      "active": 16,
+      "total": 16
+    },
+    {
       "slug": "idle-hero-but-save-the-world",
       "active": 15,
       "total": 23
-    },
-    {
-      "slug": "sabuk-ice-kingdom",
-      "active": 15,
-      "total": 15
     },
     {
       "slug": "honkai-star-rail",
@@ -421,14 +421,14 @@
       "total": 18
     },
     {
+      "slug": "rogw-remains-of-gods",
+      "active": 12,
+      "total": 12
+    },
+    {
       "slug": "busy-savior",
       "active": 11,
       "total": 27
-    },
-    {
-      "slug": "rogw-remains-of-gods",
-      "active": 11,
-      "total": 11
     },
     {
       "slug": "yep-raising-feet-up",

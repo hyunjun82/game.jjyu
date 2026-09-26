@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA2MDdfMTc4/MDAxNzE3NzI0NDU4MDQ3.EU6IlRxu14iaFt3aQwXzE5gb7BCHUNxZlq1tptp18gEg.bsSr-BBMQtFzm6Iqh2k0pRIlDGpzyXBqVq2Bkoob7Vwg.PNG/ICON.png",
   "source": "naver-lounge",
   "loungeId": "MiniHeroesReborn",
-  "sourceUrl": "https://game.naver.com/lounge/MiniHeroesReborn/board/detail/8210468",
+  "sourceUrl": "https://game.naver.com/lounge/MiniHeroesReborn/board/detail/8244357",
   "howTo": "게임 화면 밑에 오른쪽 [≡] 버튼 클릭 > 설정 버튼 클릭 > 교환 코드 클릭 > 코드 입력 주의 사항 쿠폰은 계정 당 1회만 사용 가능하오니 사용하셨던 코드 다시 입력하시면 안 된다는 점 유념해 주시기 바랍니다. 쿠폰 코드를 정확하게 입력하지 않거나 공백이 포함되어 있을 경우 사용이 불가하오니 정확히 입력해 주세요. 사용 가능한 시간을 잘 유의하시기 바랍니다.",
-  "postCount": 146,
-  "updatedAt": "2026-09-25T23:51:25.987Z",
+  "postCount": 147,
+  "updatedAt": "2026-09-26T02:16:26.252Z",
   "codes": [
+    {
+      "code": "9K24GQ",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-26",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
     {
       "code": "SM7MDE",
       "reward": "",
@@ -272,15 +281,6 @@
       "status": "expired"
     },
     {
-      "code": "DFNABV",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-03-07",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
-      "status": "expired"
-    },
-    {
       "code": "M500000",
       "reward": "",
       "expiry": null,
@@ -305,6 +305,15 @@
       "expiry": null,
       "tag": "사전예약",
       "postedAt": "2024-07-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "DFNABV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-07",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-26",
       "status": "expired"

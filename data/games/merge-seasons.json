@@ -1,0 +1,158 @@
+{
+  "slug": "merge-seasons",
+  "titleEn": "Merge Seasons",
+  "titleKo": "머지 시즌스",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjc0/MDAxNzkwMjE0MjE4MDMx.zFyHQ6EHq8wQlhL078apeP-NQ1xwC7QoZXGYTo1Gogkg.jcFr126LjMg8Pq8rCCdJrOJlIvYp6oDEMEbXoi1CPxEg.PNG/%EC%B6%94%EC%84%9D.png",
+  "source": "naver-lounge",
+  "loungeId": "Merge_Seasons",
+  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8239571",
+  "howTo": "1️⃣ 게임 메인 화면으로 접속해 주세요. 2️⃣ 왼쪽 상단 [노란색 삼각형 아이콘 ◀️]을 눌러 [설정]으로 들어가세요. 3️⃣ [교환 코드]를 찾아 [ fullmoon ] 을 입력하면 선물이 숑!",
+  "postCount": 16,
+  "updatedAt": "2026-09-26T02:20:30.403Z",
+  "codes": [
+    {
+      "code": "fullmoon",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "sweetcandy",
+      "reward": "",
+      "expiry": "2026-09-27",
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "warmautumn",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "active"
+    },
+    {
+      "code": "youthmelody",
+      "reward": "",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "beachfun",
+      "reward": "",
+      "expiry": "2026-09-13",
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "mousekitchen",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "summertime",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-03",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "summerchill",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-09",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "mothersday",
+      "reward": "",
+      "expiry": "2026-05-24",
+      "postedAt": "2026-05-10",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "workersday",
+      "reward": "",
+      "expiry": "2026-05-30",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "grainrain",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-20",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "lovelyspring",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-07",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "springequinox",
+      "reward": "",
+      "expiry": "2026-04-03",
+      "postedAt": "2026-03-20",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "springcoming",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-01",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "seasonssupply",
+      "reward": "",
+      "expiry": "2026-03-06",
+      "postedAt": "2026-02-28",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "everythingnew",
+      "reward": "",
+      "expiry": "2026-03-01",
+      "postedAt": "2026-02-03",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    }
+  ]
+}
