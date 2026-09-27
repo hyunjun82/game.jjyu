@@ -2,14 +2,24 @@
   "slug": "trickcal-revive",
   "titleEn": "Trickcal Revive",
   "titleKo": "트릭컬 리바이브",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjVfMTM1/MDAxNzkwMzA0NzIzOTkz.rB2QX5_7nfIiXIOHfmcQd77kUOdH6U9PCTmeYWHoWbAg.Vp765G86XMsyXLEzXEJhfVjk0Z8uBxeou_vH_4OFegEg.PNG/3_3.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjdfMjM3/MDAxNzkwNDk4MDExOTc4.Itpf88hRC6uSX3P-_hQQHnBuWsrCKJ-VM6MMU0NE-Rog.Da8mG_8_GjuOL7-omXScQSGafoXoA82uSQeE_s4j_-wg.PNG/3_3.png",
   "source": "naver-lounge",
   "loungeId": "Trickcal",
-  "sourceUrl": "https://game.naver.com/lounge/Trickcal/board/detail/8239854",
+  "sourceUrl": "https://game.naver.com/lounge/Trickcal/board/detail/8249600",
   "howTo": "- AOS : 게임 접속 - 우측상단 햄버거 버튼 (三) - 설정 - 기타 - 쿠폰등록 버튼으로 입력 - IOS :",
-  "postCount": 2864,
-  "updatedAt": "2026-09-27T06:01:22.087Z",
+  "postCount": 2866,
+  "updatedAt": "2026-09-27T11:00:02.378Z",
   "codes": [
+    {
+      "code": "3RDBOLTHDAY",
+      "reward": "",
+      "expiry": "2026-10-22",
+      "expiryFrom": "event",
+      "postedAt": "2026-09-27",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "status": "active"
+    },
     {
       "code": "BOLEUMDAL",
       "reward": "",

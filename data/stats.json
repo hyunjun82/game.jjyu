@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T06:16:39.148Z",
+  "generatedAt": "2026-09-27T11:14:39.050Z",
   "today": "2026-09-27",
-  "todayNew": 65,
+  "todayNew": 97,
   "totals": {
-    "games": 221,
-    "codes": 2878,
-    "active": 586,
-    "expired": 2292,
-    "withExpiry": 1668
+    "games": 222,
+    "codes": 2910,
+    "active": 590,
+    "expired": 2320,
+    "withExpiry": 1699
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-27",
-      "count": 65
+      "count": 97
     }
   ],
   "expiringSoon": [
@@ -456,6 +456,11 @@
       "total": 9
     },
     {
+      "slug": "lucky-plant-defense",
+      "active": 8,
+      "total": 8
+    },
+    {
       "slug": "genshin-impact",
       "active": 7,
       "total": 10
@@ -464,11 +469,6 @@
       "slug": "heartopia",
       "active": 7,
       "total": 7
-    },
-    {
-      "slug": "infinite-immortal-path",
-      "active": 7,
-      "total": 30
     }
   ],
   "noImage": 17
