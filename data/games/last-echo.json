@@ -2,14 +2,23 @@
   "slug": "last-echo",
   "titleEn": "Last Echo",
   "titleKo": "라스트 에코",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDJfMjA2/MDAxNzg4MzQwNzg0MDcx.y3Hduk0I3DRTXb2FeqM-ADxqN2sxAmWAnraeHLmKmfcg.YcRSqSdDb3j1SAliV1vDNGN-1gF10xtFc4ustqk1Sg8g.JPEG/900X383_%E9%9F%A9%E6%96%87.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMjE3/MDAxNzg5OTgwMDI2OTY2.6YTyyU_zK4Btgycp26VwJFEKEarQdyfEf61NIYTgoucg.1FGmbbdOIj5CI2ObL7mt0HauD0d0wT65TnwPJ0GHFFAg.JPEG/%E9%9F%A9%E8%AF%AD.jpg",
   "source": "naver-lounge",
   "loungeId": "Last_Echo",
-  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8156295",
+  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8247953",
   "howTo": "",
-  "postCount": 7,
-  "updatedAt": "2026-09-27T00:56:31.115Z",
+  "postCount": 8,
+  "updatedAt": "2026-09-27T06:09:27.424Z",
   "codes": [
+    {
+      "code": "TRAVEL99",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-27",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27",
+      "status": "active"
+    },
     {
       "code": "FANPACK",
       "reward": "",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T01:02:45.049Z",
+  "generatedAt": "2026-09-27T06:16:39.148Z",
   "today": "2026-09-27",
-  "todayNew": 58,
+  "todayNew": 65,
   "totals": {
     "games": 221,
-    "codes": 2871,
-    "active": 579,
+    "codes": 2878,
+    "active": 586,
     "expired": 2292,
-    "withExpiry": 1663
+    "withExpiry": 1668
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-27",
-      "count": 58
+      "count": 65
     }
   ],
   "expiringSoon": [
@@ -137,6 +137,12 @@
     {
       "slug": "martial-arts",
       "code": "Chuseok925",
+      "expiry": "2026-09-27",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "M2K8RY",
       "expiry": "2026-09-27",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "MtQOM8",
       "expiry": "2026-09-29",
       "days": 2
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "27aoO5",
-      "expiry": "2026-09-29",
-      "days": 2
     }
   ],
   "topGames": [
@@ -381,6 +381,11 @@
       "total": 61
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 25
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 16,
       "total": 16
@@ -391,14 +396,14 @@
       "total": 45
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 24
-    },
-    {
       "slug": "honkai-star-rail",
       "active": 14,
       "total": 22
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 54
     },
     {
       "slug": "byeolbyeol-hero",
@@ -411,24 +416,19 @@
       "total": 32
     },
     {
-      "slug": "max-level-idle",
+      "slug": "yep-raising-feet-up",
       "active": 13,
-      "total": 53
+      "total": 13
+    },
+    {
+      "slug": "busy-savior",
+      "active": 12,
+      "total": 28
     },
     {
       "slug": "rogw-remains-of-gods",
       "active": 12,
       "total": 12
-    },
-    {
-      "slug": "yep-raising-feet-up",
-      "active": 12,
-      "total": 12
-    },
-    {
-      "slug": "busy-savior",
-      "active": 11,
-      "total": 27
     },
     {
       "slug": "astro-defenders",
