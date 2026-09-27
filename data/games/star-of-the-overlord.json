@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/Star_of_the_Overlord/board/detail/8225221",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-09-27T11:07:05.409Z",
+  "updatedAt": "2026-09-27T15:38:16.107Z",
   "codes": [
-    {
-      "code": "Chuseok925",
-      "reward": "",
-      "expiry": "2026-09-27",
-      "postedAt": "2026-09-23",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
-      "status": "active"
-    },
     {
       "code": "StarF1rst",
       "reward": "",
       "expiry": "2026-06-14",
       "postedAt": "2026-05-28",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
@@ -34,7 +25,16 @@
       "expiry": "2026-06-14",
       "postedAt": "2026-05-27",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "Chuseok925",
+      "reward": "",
+      "expiry": "2026-09-27",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-28",
       "status": "expired"
     }
   ]
