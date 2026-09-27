@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-27T19:25:57.215Z",
+  "updatedAt": "2026-09-27T22:37:14.329Z",
   "codes": [
     {
       "code": "NIKKEPC",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/gebcljwnmpee/224422390460",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "status": "active"
     },
     {
@@ -33,6 +33,36 @@
       "expiry": "2026-10-15",
       "postedAt": "2026-09-20",
       "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "2026HAPPYNEWYEAR",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/bauvvhvbtcxbe/224424369155",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "2026EATBETTER",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/bauvvhvbtcxbe/224424369155",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "2026LETSDANCE",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/bauvvhvbtcxbe/224424369155",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
@@ -71,36 +101,6 @@
       "code": "ENCOUNTERONCEMORE",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "expired"
-    },
-    {
-      "code": "2026EATBETTER",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "expired"
-    },
-    {
-      "code": "2026LETSDANCE",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-31",
-      "sourceUrl": "https://blog.naver.com/view_game/224396282221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "expired"
-    },
-    {
-      "code": "2026HAPPYNEWYEAR",
-      "reward": "",
-      "expiry": "2026-08-23",
       "postedAt": "2026-08-31",
       "sourceUrl": "https://blog.naver.com/view_game/224396282221",
       "firstSeen": "2026-09-19",

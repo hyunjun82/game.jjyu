@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-27T19:11:11.503Z",
+  "generatedAt": "2026-09-27T22:24:02.818Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -73,6 +73,12 @@
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "spirit-girl-idle",
+      "loungeId": "Spirit_Girl_Idle",
+      "titleKo": "혼령 소녀 키우기",
+      "titleEn": "Spirit Girl Idle"
     }
   ]
 }
