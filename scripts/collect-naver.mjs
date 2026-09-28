@@ -517,6 +517,15 @@ function nearDiscount(text, code) {
   return /할인\s*쿠폰|%\s*할인|할인\s*코드/.test(lines.slice(Math.max(0, i - 3), i + 4).join(' '));
 }
 
+/** scripts/naver-extra-posts.json — 자가 점검이 적어 둔 글 번호(라운지별). */
+let EXTRA = null;
+function extraPosts() {
+  if (EXTRA) return EXTRA;
+  try { EXTRA = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts', 'naver-extra-posts.json'), 'utf8')).posts || {}; }
+  catch (e) { EXTRA = {}; }
+  return EXTRA;
+}
+
 export async function collectOne(g) {
   const boardRes = await get(`${B1}/lounge/${g.loungeId}/board`);
   if (!boardRes) return { ...g, error: '보드 조회 실패' };
@@ -629,6 +638,33 @@ export async function collectOne(g) {
     }
     if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
     if (PREREG_RE.test(ev.title) || PREREG_RE.test(ent(item.feed.title))) for (const c of got) c.tag = '사전예약';
+    for (const c of got) addCode(c);
+  }
+
+  // 자가 점검(audit-naver)이 찾아 둔 글 — 게시판 이름·제목 조건과 상관없이 직접 읽는다.
+  for (const x of extraPosts()[g.loungeId] || []) {
+    const feedId = Number(x.feedId);
+    if (seenFeed.has(feedId)) continue;
+    const res = await get(`${B1}/community/lounge/${g.loungeId}/feed/${feedId}`);
+    await sleep(300);
+    seenFeed.add(feedId);
+    const item = res?.content;
+    if (!item?.feed || item.user?.userRoleCode === 'common_user') continue;
+    const text = bodyText(item.feed.contents);
+    if (!text) continue;
+    const d = String(item.feed.createdDate || '');
+    const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
+    const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
+    if (!got.length) continue;
+    total += 1;
+    applyEvent(got, feedId);
+    if (!latest || (iso && iso > latest)) {
+      latest = iso;
+      sourceUrl = item.feedLink?.pc || `https://game.naver.com/lounge/${g.loungeId}/board/detail/${feedId}`;
+      if (!howTo) howTo = parseHowTo(text);
+    }
+    if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
+    if (PREREG_RE.test(ent(item.feed.title))) for (const c of got) c.tag = '사전예약';
     for (const c of got) addCode(c);
   }
 
