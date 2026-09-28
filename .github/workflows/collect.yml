@@ -65,6 +65,10 @@ jobs:
           npm install --no-save --no-audit --no-fund sharp@0.33.5 > /dev/null 2>&1 || true
           node scripts/images.mjs | tee -a /tmp/out.log || true
 
+      # 자정을 넘겨 끝나거나 이번에 다시 안 읽은 게임의 만료 코드를 내린다(발행 점검 실패 방지)
+      - name: 만료 코드 정리
+        run: node scripts/expire.mjs | tee -a /tmp/out.log
+
       - name: 통계 생성
         run: node scripts/stats.mjs | tee -a /tmp/out.log
 

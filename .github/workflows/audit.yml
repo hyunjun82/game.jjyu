@@ -4,10 +4,10 @@ name: 쿠폰 누락 자가 점검
 # 사이트에 없는 코드가 있으면 그 글을 수집 대상에 넣고(scripts/naver-extra-posts.json)
 # 추적하지 않던 라운지는 목록에 추가한 뒤 바로 수집한다.
 # 사람이 매번 "놓친 거 없냐"고 대조하던 일을 대신한다(2026-09-28 도입).
-# 한 번에 15분 남짓 걸려서 수집(2시간 간격)과 따로 하루 4번 돈다.
+# 한 번에 30분 남짓 걸려서 수집(2시간 간격)과 따로 하루 4번 돈다.
 on:
   schedule:
-    - cron: '7 1,7,13,19 * * *'   # KST 10:07 · 16:07 · 22:07 · 04:07
+    - cron: '7 0,6,12,18 * * *'   # KST 09:07 · 15:07 · 21:07 · 03:07 (자정 걸치지 않게)
   workflow_dispatch: {}
 
 permissions:
@@ -38,6 +38,10 @@ jobs:
         run: |
           npm install --no-save --no-audit --no-fund sharp@0.33.5 > /dev/null 2>&1 || true
           node scripts/images.mjs | tee -a /tmp/out.log || true
+
+      # 자정을 넘겨 끝나거나 이번에 다시 안 읽은 게임의 만료 코드를 내린다(발행 점검 실패 방지)
+      - name: 만료 코드 정리
+        run: node scripts/expire.mjs | tee -a /tmp/out.log
 
       - name: 통계 생성
         run: node scripts/stats.mjs | tee -a /tmp/out.log
