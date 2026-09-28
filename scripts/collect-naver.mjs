@@ -213,7 +213,10 @@ function parseExpiry(text, postISO, allowRange = false) {
   // "사용 기한: ~2026/9/17 23:59" / "사용 기간: 2026년 9월 23일 ~ 2026년 12월 31일" — 연도가 붙은 라벨 표기.
   // 물결이 있으면 물결 뒤 날짜가 끝날이다. 라그나로크M 클래식 코드 8개가 이 표기를 못 읽어 만료 후에도
   // 사용 가능으로 남았다(2026-09-23 검수).
-  const labY = text.match(/(?:사용\s*기한|사용\s*기간|유효\s*기간|만료\s*(?:시간|일자|일)|종료\s*(?:시간|일시|일))\s*[:：]?\s*([^\n]{0,60})/);
+  // 라벨 바로 앞 40자 안에 쿠폰·코드가 있어야 한다 — "아이템 사용 기간: 2026년 12월 13일" 같은 보상 아이템의
+  // 기한을 코드 만료일로 집어 2025년 크리스마스 코드가 사용 가능으로 남았다(묵혼, 2026-09-28).
+  const labY = [...text.matchAll(/(?:사용\s*기한|사용\s*기간|유효\s*기간|만료\s*(?:시간|일자|일)|종료\s*(?:시간|일시|일))\s*[:：]?\s*([^\n]{0,60})/g)]
+    .find((m) => /쿠폰|코드/.test(text.slice(Math.max(0, m.index - 40), m.index)));
   if (labY) {
     const seg = labY[1];
     const dates = [...seg.matchAll(/(\d{4})\s*[년./-]\s*(\d{1,2})\s*[월./-]\s*(\d{1,2})/g)];
@@ -225,9 +228,11 @@ function parseExpiry(text, postISO, allowRange = false) {
     }
   }
   // "유효 기간: ~ 9월 11일", "만료 시간 - [9/5 04:59]" 처럼 까지가 없는 표기는 라벨로 받는다.
-  const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일))[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})/);
+  // "유효 기간:9월 25일~10월 1일" 처럼 범위면 물결 뒤 끝날을 쓴다(첫 날짜를 집어 원죄·영혼 인도자 MOON777 이
+  // 첫날 만료로 떨어졌다, 2026-09-28).
+  const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일))[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})\s*일?\s*(?:\([^)]{0,3}\))?(?:[^~～\n]{0,12}[~～-]\s*(\d{1,2})\s*[월/.]\s*(\d{1,2}))?/);
   if (lab) {
-    const mon = Number(lab[1]), day = Number(lab[2]);
+    const mon = Number(lab[3] || lab[1]), day = Number(lab[4] || lab[2]);
     let year = base.getUTCFullYear();
     if (mon < base.getUTCMonth() + 1 - 6) year += 1;
     return iso(year, mon, day);
@@ -235,6 +240,17 @@ function parseExpiry(text, postISO, allowRange = false) {
 
   // "기간: 9.18 ~ 9.25 17:00" / "기간: 2026년 9월 18일(금) ~ 2026년 9월 22일(화)"
   // 물결 뒤의 날짜가 끝날이다. "기간" 이 앞에 있을 때만 받는다 — 본문에 그냥 적힌 범위는 점검 시간일 수 있다.
+  if (allowRange) {
+    // 끝날에 연도가 빠지면("2026년 7월 14일 점검 후 - 7월 28일") 앞 날짜의 연도를 쓴다.
+    const ds = [...text.matchAll(/(?:(\d{4})\s*년\s*)?(\d{1,2})\s*월\s*(\d{1,2})\s*일/g)];
+    if (ds.length >= 2 && ds[0][1] && /\s[-~～]\s|[~～]/.test(text)) {
+      let y = Number(ds[0][1]);
+      for (const d of ds) if (d[1]) y = Number(d[1]);
+      const e = ds[ds.length - 1];
+      const v = iso(e[1] ? Number(e[1]) : y, Number(e[2]), Number(e[3]));
+      if (v) return v;
+    }
+  }
   const rng = allowRange && text.match(RE_RANGE);
   if (rng) {
     const mon = Number(rng[2]), day = Number(rng[3]);
@@ -275,7 +291,10 @@ export function parseCodes(text, postISO) {
   const lines = text.split('\n').map((s) => s.trim().replace(BULLET, '').trim()).filter(Boolean);
   const labelAt = lines.map((l) => LABEL_RE.test(l));
   const codeAt = lines.map((l) => { const t = tokenOf(l); return !!t && isSaneCode(t); });
-  const postExpiry = parseExpiry(text, postISO);
+  // 글 전체에서 뽑은 만료일은 "까지" 날짜가 하나뿐일 때만 믿는다. 이벤트 공지 하나에 컬렉션·아이템 기한이 여럿
+  // 섞이면 엉뚱한 날짜가 코드 만료일이 된다(묵혼 XMAS2025 가 컬렉션 기한 2026-12-13 을 물려받아 사용 가능으로 남음).
+  const untilDates = new Set([...text.matchAll(RE_KO)].map((m) => m[0]).concat([...text.matchAll(RE_SLASH)].map((m) => m[0])));
+  const postExpiry = untilDates.size <= 1 ? parseExpiry(text, postISO) : null;
   const found = new Map();
 
   const push = (code, expiry, labeled = false) => {
@@ -481,7 +500,7 @@ function merge(prev, freshCodes) {
 // 유저 게시판·끝난 이벤트 게시판은 읽지 않는다.
 const SECTION_RE = /이벤트|공지|혜택|소식|뉴스|업데이트|점검|안내|선물|event|notice|news|update/i;
 const SECTION_SKIP = /종료|당첨|결과|인증|자유|질문|건의|버그|공략|팁|가입|홍보|토론|창작|팬아트|스크린샷|길드|연맹|모집|후기|기대평/;
-const TITLE_RE = /쿠폰|교환\s*코드|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
+const TITLE_RE = /쿠폰|선물|교환\s*코드|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
 /**
  * 본문에 "쿠폰 코드: XXXX" 처럼 라벨 바로 뒤에 코드가 적혀 있는지.
@@ -509,6 +528,10 @@ export async function collectOne(g) {
   // 전용 게시판이 있어도 공지·이벤트는 같이 본다. 전용 게시판을 만들어 두고
   // 정작 코드는 공지에 올리는 게임이 있다(이것이 삼국지다 — 쿠폰 모음 게시판 1건).
   const secondary = all.filter((b) => SECTION_RE.test(b.boardName) && !SECTION_SKIP.test(b.boardName) && !primary.includes(b)).slice(0, 8);
+  // 이름이 제각각인 공식 게시판("일러스트", "무공 비법")에 쿠폰을 끼워 올리는 게임이 있다(천지겁, 2026-09-28).
+  // 제목·본문 라벨 조건은 똑같이 걸린다. 요청이 늘어나므로 4개까지만.
+  const extra = all.filter((b) => !primary.includes(b) && !secondary.includes(b) && !SECTION_SKIP.test(b.boardName) && !b.memberAccessBoard).slice(0, 4);
+  secondary.push(...extra);
   const boards = [...primary, ...secondary];
 
   if (!boards.length) return { ...g, error: '쿠폰 보드 없음' };

@@ -1403,6 +1403,20 @@
       "titleKo": "각성소녀: 욕망의 여정",
       "titleEn": "Tales Of Angels",
       "auto": "2026-09-27"
+    },
+    {
+      "slug": "ehrpis",
+      "loungeId": "Ehrpis",
+      "titleKo": "에르피스",
+      "titleEn": "Ehrpis",
+      "auto": "2026-09-28"
+    },
+    {
+      "slug": "primal-sin-divine-judgment",
+      "loungeId": "Primal_Sin_Divine_Judgment",
+      "titleKo": "원죄: 신의 심판",
+      "titleEn": "Primal Sin Divine Judgment",
+      "auto": "2026-09-28"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
