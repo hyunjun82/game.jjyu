@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Tales_of_Angels/board/detail/8241380",
   "howTo": "",
   "postCount": 29,
-  "updatedAt": "2026-09-28T01:11:51.722Z",
+  "updatedAt": "2026-09-28T06:22:28.879Z",
   "codes": [
+    {
+      "code": "H7Q3VM",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "CHUSEOK2026",
       "reward": "",
@@ -20,28 +29,19 @@
       "status": "active"
     },
     {
-      "code": "A8ZL73",
-      "reward": "",
-      "expiry": "2025-12-12",
-      "postedAt": "2025-12-12",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
-      "status": "expired"
-    },
-    {
-      "code": "H7Q3VM",
-      "reward": "",
-      "expiry": "2026-09-25",
-      "postedAt": "2026-09-25",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
-      "status": "expired"
-    },
-    {
       "code": "S3Z9HF",
       "reward": "",
-      "expiry": "2026-09-18",
+      "expiry": "2026-10-02",
       "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "A8ZL73",
+      "reward": "",
+      "expiry": "2026-01-02",
+      "postedAt": "2025-12-12",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
       "status": "expired"
@@ -49,7 +49,7 @@
     {
       "code": "J5K6WN",
       "reward": "",
-      "expiry": "2026-09-11",
+      "expiry": "2026-09-25",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -58,7 +58,7 @@
     {
       "code": "V8C1RT",
       "reward": "",
-      "expiry": "2026-09-04",
+      "expiry": "2026-09-18",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -67,7 +67,7 @@
     {
       "code": "G2P4LX",
       "reward": "",
-      "expiry": "2026-08-28",
+      "expiry": "2026-09-11",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -76,7 +76,7 @@
     {
       "code": "U7M9DS",
       "reward": "",
-      "expiry": "2026-08-21",
+      "expiry": "2026-09-04",
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -85,7 +85,7 @@
     {
       "code": "Y3T8KH",
       "reward": "",
-      "expiry": "2026-08-14",
+      "expiry": "2026-08-28",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -94,7 +94,7 @@
     {
       "code": "P9Z4BJ",
       "reward": "",
-      "expiry": "2026-08-07",
+      "expiry": "2026-08-21",
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -103,7 +103,7 @@
     {
       "code": "S1N6VR",
       "reward": "",
-      "expiry": "2026-07-31",
+      "expiry": "2026-08-14",
       "postedAt": "2026-07-31",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -112,7 +112,7 @@
     {
       "code": "D7X5QL",
       "reward": "",
-      "expiry": "2026-07-24",
+      "expiry": "2026-08-07",
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -121,7 +121,7 @@
     {
       "code": "F2G8MK",
       "reward": "",
-      "expiry": "2026-07-17",
+      "expiry": "2026-07-31",
       "postedAt": "2026-07-17",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -130,7 +130,7 @@
     {
       "code": "J6C3WS",
       "reward": "",
-      "expiry": "2026-07-10",
+      "expiry": "2026-07-24",
       "postedAt": "2026-07-10",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -139,7 +139,7 @@
     {
       "code": "B4H9PN",
       "reward": "",
-      "expiry": "2026-07-03",
+      "expiry": "2026-07-17",
       "postedAt": "2026-07-03",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -148,7 +148,7 @@
     {
       "code": "V8L1ZX",
       "reward": "",
-      "expiry": "2026-06-26",
+      "expiry": "2026-07-10",
       "postedAt": "2026-06-26",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -157,7 +157,7 @@
     {
       "code": "M5T2QF",
       "reward": "",
-      "expiry": "2026-06-19",
+      "expiry": "2026-07-03",
       "postedAt": "2026-06-19",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -166,7 +166,7 @@
     {
       "code": "K3R7YD",
       "reward": "",
-      "expiry": "2026-06-12",
+      "expiry": "2026-06-26",
       "postedAt": "2026-06-12",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -175,7 +175,7 @@
     {
       "code": "Q7M5ZX",
       "reward": "",
-      "expiry": "2026-06-05",
+      "expiry": "2026-06-19",
       "postedAt": "2026-06-05",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -184,7 +184,7 @@
     {
       "code": "L3W8CV",
       "reward": "",
-      "expiry": "2026-05-29",
+      "expiry": "2026-06-12",
       "postedAt": "2026-05-29",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -193,7 +193,7 @@
     {
       "code": "X9T2KF",
       "reward": "",
-      "expiry": "2026-05-22",
+      "expiry": "2026-06-05",
       "postedAt": "2026-05-22",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -202,7 +202,7 @@
     {
       "code": "B6Y4QM",
       "reward": "",
-      "expiry": "2026-05-15",
+      "expiry": "2026-05-29",
       "postedAt": "2026-05-15",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -229,7 +229,7 @@
     {
       "code": "C2V8KP",
       "reward": "",
-      "expiry": "2026-04-24",
+      "expiry": "2026-05-08",
       "postedAt": "2026-04-24",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -238,7 +238,7 @@
     {
       "code": "F9L4XN",
       "reward": "",
-      "expiry": "2026-04-17",
+      "expiry": "2026-05-01",
       "postedAt": "2026-04-17",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -247,7 +247,7 @@
     {
       "code": "D7Q2YA",
       "reward": "",
-      "expiry": "2026-04-10",
+      "expiry": "2026-04-17",
       "postedAt": "2026-04-10",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",
@@ -265,7 +265,7 @@
     {
       "code": "W3M5RD",
       "reward": "",
-      "expiry": "2026-04-03",
+      "expiry": "2026-04-17",
       "postedAt": "2026-04-03",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-28",

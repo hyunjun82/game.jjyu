@@ -7,8 +7,8 @@
   "loungeId": "HerosLandM",
   "sourceUrl": "https://game.naver.com/lounge/HerosLandM/board/detail/8233406",
   "howTo": "",
-  "postCount": 7,
-  "updatedAt": "2026-09-28T01:09:26.716Z",
+  "postCount": 8,
+  "updatedAt": "2026-09-28T06:19:14.354Z",
   "codes": [
     {
       "code": "67D6UPUh",
@@ -27,6 +27,15 @@
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "HL2026kr",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-07",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "eaCUT6kX",

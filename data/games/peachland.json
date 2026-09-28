@@ -7,9 +7,18 @@
   "loungeId": "peachland",
   "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8241383",
   "howTo": "밝은 보름달처럼 마음까지 환해지는 연휴가 되길 바라며, 산민 여러분 모두 즐겁고 풍성한 추석 보내세요! 💛",
-  "postCount": 2,
-  "updatedAt": "2026-09-28T01:07:46.123Z",
+  "postCount": 3,
+  "updatedAt": "2026-09-28T06:16:51.227Z",
   "codes": [
+    {
+      "code": "MOONGIFT",
+      "reward": "",
+      "expiry": "2026-10-04",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "MUMUTOWN",
       "reward": "",
@@ -20,11 +29,11 @@
       "status": "active"
     },
     {
-      "code": "MOONGIFT",
+      "code": "PEACHLAND",
       "reward": "",
-      "expiry": "2026-09-25",
-      "postedAt": "2026-09-25",
-      "firstSeen": "2026-09-25",
+      "expiry": null,
+      "postedAt": "2026-07-14",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "status": "expired"
     }

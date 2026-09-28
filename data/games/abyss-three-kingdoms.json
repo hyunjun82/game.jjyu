@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTRfMTc4/MDAxNzg2NzA0MTcxMTA1.Ud8EQ2cbQ0xR1_Yu95s1Q-2CHBl4oBoKkHXjK2gV2XAg.OkFWaDeG8zY7Y0wFX1N4FCSbIyBATiBJk5o3Iuf-TvMg.JPEG/5-%E8%B4%B4%E6%96%87%E5%86%85%E5%9B%BA%E5%AE%9A%E9%85%8D%E5%9B%BE5.jpg",
   "source": "naver-lounge",
   "loungeId": "Abyss_Three_Kingdoms",
-  "sourceUrl": "https://game.naver.com/lounge/Abyss_Three_Kingdoms/board/detail/8214120",
+  "sourceUrl": "https://game.naver.com/lounge/Abyss_Three_Kingdoms/board/detail/8239868",
   "howTo": "게임 화면 좌측 상단의 프로필을 클릭한 후, 정보 페이지에서 [설정] 버튼을 선택해 주세요. 이후 [패키지 교환] 버튼을 클릭하고 쿠폰 코드를 입력하면 보상을 교환할 수 있습니다. 교환된 보상은 가방으로 바로 지급됩니다.",
-  "postCount": 13,
-  "updatedAt": "2026-09-28T00:58:42.303Z",
+  "postCount": 15,
+  "updatedAt": "2026-09-28T06:04:56.022Z",
   "codes": [
+    {
+      "code": "FZZQ888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "MZFL1388",
       "reward": "",
@@ -18,6 +27,16 @@
       "firstSeen": "2026-09-20",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "ABYSS1",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-08-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "sysg1300",

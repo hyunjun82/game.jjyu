@@ -7,8 +7,8 @@
   "loungeId": "Spirit_King",
   "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8233087",
   "howTo": "",
-  "postCount": 34,
-  "updatedAt": "2026-09-28T01:00:04.121Z",
+  "postCount": 40,
+  "updatedAt": "2026-09-28T06:06:51.608Z",
   "codes": [
     {
       "code": "R9IQPBZLK",
@@ -36,6 +36,69 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "STAY09WITH29US8",
+      "reward": "",
+      "expiry": "2026-09-04",
+      "postedAt": "2026-08-28",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "26SWEET0214",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "NEWY2A9XS8I6ITS",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XMASCMGIFT",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-12-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "SPIRIT50DAYS",
+      "reward": "",
+      "expiry": "2025-11-30",
+      "postedAt": "2025-11-17",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HANGAWI2025",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "SPIRITLAUNCH",
+      "reward": "",
+      "expiry": "2025-10-12",
+      "postedAt": "2025-09-29",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "FOUNZKWOLL",

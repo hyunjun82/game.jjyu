@@ -5,11 +5,29 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAzMjdfMjU0/MDAxNzc0NjEwNjIzMTQ3.3E5J50Pb9CxqsSDOPrpKPjQXFeUYCg2fM52fgBQIyNAg.VV61iJjaCa5fl9cwRkVDz3C8IJchWR_bnbTEJPo-nDgg.PNG/%E5%85%AC%E5%91%8A.png",
   "source": "naver-lounge",
   "loungeId": "Soul_Ferryman",
-  "sourceUrl": "https://game.naver.com/lounge/Soul_Ferryman/board/detail/8239280",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Ferryman/board/detail/8252539",
   "howTo": "",
-  "postCount": 1206,
-  "updatedAt": "2026-09-28T01:07:10.303Z",
+  "postCount": 1207,
+  "updatedAt": "2026-09-28T06:16:05.794Z",
   "codes": [
+    {
+      "code": "G1X7R3T9",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "MOON777",
+      "reward": "",
+      "expiry": "2026-10-01",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "E5H2M8Z4",
       "reward": "",
@@ -27,15 +45,6 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
-    },
-    {
-      "code": "MOON777",
-      "reward": "",
-      "expiry": "2026-09-25",
-      "postedAt": "2026-09-25",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-28",
-      "status": "expired"
     },
     {
       "code": "F2N7B5Q8",
@@ -166,7 +175,7 @@
     {
       "code": "MOON0426",
       "reward": "",
-      "expiry": "2026-04-26",
+      "expiry": "2026-05-02",
       "postedAt": "2026-04-26",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",

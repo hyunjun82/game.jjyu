@@ -7,9 +7,36 @@
   "loungeId": "Last_Asylum_Plague",
   "sourceUrl": "https://game.naver.com/lounge/Last_Asylum_Plague/board/detail/8210480",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-09-28T01:08:33.226Z",
+  "postCount": 4,
+  "updatedAt": "2026-09-28T06:17:57.454Z",
   "codes": [
+    {
+      "code": "LAKR15K9A",
+      "reward": "",
+      "expiry": "2029-12-31",
+      "postedAt": "2026-08-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "LAKR12K7O",
+      "reward": "",
+      "expiry": "2029-12-31",
+      "postedAt": "2026-07-28",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "LAKR10K6L",
+      "reward": "",
+      "expiry": "2029-12-31",
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "LAOKT26",
       "reward": "",

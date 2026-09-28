@@ -1,0 +1,266 @@
+{
+  "slug": "moe",
+  "titleEn": "Moe",
+  "titleKo": "모에라이: 운명의 계약",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA2MTlfMjgy/MDAxNzUwMjk2NzI2NDE4.E9kiU2TMs1aLXbMHjSwOiHC0rRNABgCc0Su2T-LyMEkg.KQoZRL1IwPmulPiiaghb6RxkGXHagS79o9y3fkBYhIQg.PNG/800x200-4.png",
+  "source": "naver-lounge",
+  "loungeId": "moe",
+  "sourceUrl": "https://game.naver.com/lounge/moe/board/detail/8232367",
+  "howTo": "1.인 게임 로비 화면 왼쪽 상단 프로필 클릭 2.유저정보 화면에서 [교환 쿠폰] 버튼을 클릭 3.쿠폰 입력창에 쿠폰 코드 입력 *쿠폰 교환 기능은 단장 레벨 20레벨 달성 시 해제됩니다.",
+  "postCount": 500,
+  "updatedAt": "2026-09-28T06:22:46.593Z",
+  "codes": [
+    {
+      "code": "2026CHUSEOK",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY2609",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "26Gwangbok",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2608",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2607",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "moe1st",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2606",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2605",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2604",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2603",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "Happy2026",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2602",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY01",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "MOE2026",
+      "reward": "",
+      "expiry": "2026-01-31",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "Xmas2025",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-12-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY12",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-12-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY11",
+      "reward": "",
+      "expiry": "2025-11-30",
+      "postedAt": "2025-11-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "2025CHUSEOK",
+      "reward": "",
+      "expiry": "2025-10-15",
+      "postedAt": "2025-10-06",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY10",
+      "reward": "",
+      "expiry": "2025-10-31",
+      "postedAt": "2025-10-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY09",
+      "reward": "",
+      "expiry": "2025-09-30",
+      "postedAt": "2025-09-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "2025Gwangbok",
+      "reward": "",
+      "expiry": "2025-08-31",
+      "postedAt": "2025-08-15",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY08",
+      "reward": "",
+      "expiry": "2025-08-31",
+      "postedAt": "2025-08-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "moe728",
+      "reward": "",
+      "expiry": "2025-08-03",
+      "postedAt": "2025-07-28",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "moe721",
+      "reward": "",
+      "expiry": "2025-07-27",
+      "postedAt": "2025-07-21",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "moe715",
+      "reward": "",
+      "expiry": "2025-07-20",
+      "postedAt": "2025-07-15",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "MOETOP1",
+      "reward": "",
+      "expiry": "2025-06-29",
+      "postedAt": "2025-06-23",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "POWER",
+      "reward": "",
+      "expiry": "2025-06-22",
+      "postedAt": "2025-06-19",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "moe0619",
+      "reward": "",
+      "expiry": "2025-06-30",
+      "postedAt": "2025-06-19",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    }
+  ]
+}

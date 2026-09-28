@@ -7,9 +7,18 @@
   "loungeId": "The_Warrior_Returns_AFK",
   "sourceUrl": "https://game.naver.com/lounge/The_Warrior_Returns_AFK/board/detail/8219370",
   "howTo": "게임을 실행하고 로그인해 주세요. 우측 상단 [메뉴] → [계정] 화면으로 이동해주세요.",
-  "postCount": 16,
-  "updatedAt": "2026-09-28T01:07:14.513Z",
+  "postCount": 22,
+  "updatedAt": "2026-09-28T06:16:11.284Z",
   "codes": [
+    {
+      "code": "WR108UPDATE",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "WRGETBELT",
       "reward": "",
@@ -54,6 +63,51 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "WR107UPDATE",
+      "reward": "",
+      "expiry": "2026-09-02",
+      "postedAt": "2026-08-24",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "WR106UPDATE",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "WR105UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "WR629",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-06-29",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "WRTHXTOU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-30",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "WRSUMMER",

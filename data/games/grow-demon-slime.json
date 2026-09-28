@@ -7,8 +7,8 @@
   "loungeId": "GrowDemonSlime",
   "sourceUrl": "https://game.naver.com/lounge/GrowDemonSlime/board/detail/8132369",
   "howTo": "",
-  "postCount": 18,
-  "updatedAt": "2026-09-28T01:06:26.573Z",
+  "postCount": 19,
+  "updatedAt": "2026-09-28T06:15:12.351Z",
   "codes": [
     {
       "code": "BREEZ9",
@@ -18,6 +18,15 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "K2M649",
+      "reward": "",
+      "expiry": "2025-01-08",
+      "postedAt": "2025-01-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "SPRINGGIFT25",

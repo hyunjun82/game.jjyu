@@ -7,8 +7,8 @@
   "loungeId": "Wings_of_the_Goddess",
   "sourceUrl": "https://game.naver.com/lounge/Wings_of_the_Goddess/board/detail/8061962",
   "howTo": "",
-  "postCount": 45,
-  "updatedAt": "2026-09-28T01:10:27.929Z",
+  "postCount": 46,
+  "updatedAt": "2026-09-28T06:20:31.524Z",
   "codes": [
     {
       "code": "AUG15X",
@@ -18,6 +18,15 @@
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "7B4E1C9D6A",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-05-03",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "APR15F3D8B",

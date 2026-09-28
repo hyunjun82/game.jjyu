@@ -7,8 +7,8 @@
   "loungeId": "tkic",
   "sourceUrl": "https://game.naver.com/lounge/tkic/board/detail/7111076",
   "howTo": "- 쿠폰 등록 페이지에서 등록하기 : 쿠폰 등록 페이지",
-  "postCount": 9,
-  "updatedAt": "2026-09-28T01:07:27.794Z",
+  "postCount": 10,
+  "updatedAt": "2026-09-28T06:16:28.230Z",
   "codes": [
     {
       "code": "XmasWithSBL1",
@@ -27,6 +27,15 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "SSORRYLORD",
+      "reward": "",
+      "expiry": "2025-08-31",
+      "postedAt": "2025-07-08",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "1stBirthday",

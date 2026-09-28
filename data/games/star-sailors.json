@@ -5,11 +5,56 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjBfNjkg/MDAxNzg0NTM1MzczMTg0.a7vXRAJrym4uq-4jYbYlGL71-DFkg5XdOBbKx1FWOuEg.AyZ3kkEyh0MI2VkpEbcXF6NbGLI064iIgazu2jLUaPEg.PNG/260210_event_500_ko.png",
   "source": "naver-lounge",
   "loungeId": "Star_Sailors",
-  "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/7959950",
-  "howTo": "",
-  "postCount": 8,
-  "updatedAt": "2026-09-28T01:01:22.992Z",
+  "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/8238993",
+  "howTo": "쿠폰 보상은 서버 계정당 1회만 수령하실 수 있습니다. 입력하신 쿠폰 보상은 우편함으로 지급됩니다. 사용 기간이 지나면 쿠폰 입력이 불가능하니 꼭 기간 내에 사용해 주시길 바랍니다.",
+  "postCount": 22,
+  "updatedAt": "2026-09-28T06:08:40.012Z",
   "codes": [
+    {
+      "code": "SAILOR0925",
+      "reward": "",
+      "expiry": "2026-10-01",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "MUSHROOM0902",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "MUSHDIA09",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-05",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "SAILOR09SEP",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "DIAMUSH09",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "LUCKYSAILORS777",
       "reward": "Silver Compass x5 (expires July 13th)",
@@ -38,57 +83,75 @@
       "status": "active"
     },
     {
-      "code": "SAILOR0925",
+      "code": "LOVESAILORS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-25",
+      "postedAt": "2026-07-30",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
-      "code": "MUSHROOM0902",
+      "code": "UPDATE0826",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-19",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-22",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
-      "code": "MUSHDIA09",
+      "code": "WAITINGREMI",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-19",
+      "postedAt": "2026-08-07",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
-      "code": "SAILOR09SEP",
+      "code": "MONDAY0803",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-19",
+      "expiry": "2026-08-07",
+      "postedAt": "2026-08-03",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
-      "code": "DIAMUSH09",
+      "code": "AUGUSTSAILORS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-19",
+      "postedAt": "2026-07-31",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "EVILEYESAI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-27",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HOTSUMMER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-13",
+      "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
       "code": "ACADEMYSURVIVAL",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-20",
+      "expiry": "2026-09-23",
+      "postedAt": "2026-08-27",
       "firstSeen": "2026-09-16",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
       "status": "expired"
     },
     {
@@ -137,6 +200,15 @@
       "status": "expired"
     },
     {
+      "code": "PDGIFT0817",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-17",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
       "code": "LEVELUP1203",
       "reward": "",
       "expiry": null,
@@ -152,15 +224,6 @@
       "postedAt": "2025-12-02",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-09-15",
-      "status": "expired"
-    },
-    {
-      "code": "PDGIFT0817",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-14",
       "status": "expired"
     }
   ]

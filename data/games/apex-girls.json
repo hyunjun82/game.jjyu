@@ -7,8 +7,8 @@
   "loungeId": "Apex_Girls",
   "sourceUrl": "https://game.naver.com/lounge/Apex_Girls/board/detail/8244067",
   "howTo": "참고해주시기 바랍니다. -> 쿠폰 사용 FAQ [",
-  "postCount": 105,
-  "updatedAt": "2026-09-28T01:05:36.229Z",
+  "postCount": 107,
+  "updatedAt": "2026-09-28T06:14:04.849Z",
   "codes": [
     {
       "code": "X260925",
@@ -216,6 +216,24 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "2ndfes",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "2026VD",
+      "reward": "",
+      "expiry": "2026-03-22",
+      "postedAt": "2026-02-12",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "X260320",

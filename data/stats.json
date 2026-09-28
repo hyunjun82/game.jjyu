@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T01:16:07.943Z",
+  "generatedAt": "2026-09-28T06:26:46.583Z",
   "today": "2026-09-28",
-  "todayNew": 5,
+  "todayNew": 220,
   "totals": {
-    "games": 223,
-    "codes": 2915,
-    "active": 572,
-    "expired": 2343,
-    "withExpiry": 1703
+    "games": 228,
+    "codes": 3130,
+    "active": 616,
+    "expired": 2514,
+    "withExpiry": 1812
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-28",
-      "count": 5
+      "count": 220
     }
   ],
   "expiringSoon": [
@@ -77,6 +77,36 @@
     {
       "slug": "god-kkaebi",
       "code": "qrpe8utm",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "WA4AV2F24PYX",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "KA5SV3FJM7WX",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "7S4AD2X35NE3",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "MALSV2F247FP",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
+      "slug": "honkai-star-rail",
+      "code": "WAVEFLAIRSTYLE",
       "expiry": "2026-09-28",
       "days": 0
     },
@@ -147,6 +177,12 @@
       "days": 0
     },
     {
+      "slug": "max-level-idle",
+      "code": "V7P3NX",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
       "slug": "my-goddess-idle-rpg",
       "code": "UPUP111",
       "expiry": "2026-09-28",
@@ -179,6 +215,12 @@
     {
       "slug": "potatozombie",
       "code": "DFY3NPBRCE5GCQ",
+      "expiry": "2026-09-28",
+      "days": 0
+    },
+    {
+      "slug": "run-goddess",
+      "code": "SEPTWISDOM",
       "expiry": "2026-09-28",
       "days": 0
     },
@@ -255,6 +297,12 @@
       "days": 1
     },
     {
+      "slug": "wuthering-waves",
+      "code": "WUTHERINGGIFT",
+      "expiry": "2026-09-29",
+      "days": 1
+    },
+    {
       "slug": "arknights-endfield",
       "code": "ZAU2SYXHWX5L4ZH",
       "expiry": "2026-09-30",
@@ -319,66 +367,28 @@
       "code": "100dayanniv",
       "expiry": "2026-09-30",
       "days": 2
-    },
-    {
-      "slug": "dal-to-ki",
-      "code": "0915UPDATE",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dragon-rise",
-      "code": "DRAGONRISE9",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dragonnest-world",
-      "code": "HAPPYFRIDAY1",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "code": "dxc4fjq",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "code": "dxc4epy",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "code": "dxc4dji",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "code": "dxc42rg",
-      "expiry": "2026-09-30",
-      "days": 2
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "code": "dxcf6qq",
-      "expiry": "2026-09-30",
-      "days": 2
     }
   ],
   "topGames": [
     {
       "slug": "apex-girls",
       "active": 23,
-      "total": 53
+      "total": 55
     },
     {
       "slug": "daksa-rpg",
       "active": 20,
       "total": 61
+    },
+    {
+      "slug": "honkai-star-rail",
+      "active": 16,
+      "total": 22
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 26
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -391,29 +401,19 @@
       "total": 45
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 25
+      "slug": "dungeon-hunter6-awakening",
+      "active": 14,
+      "total": 33
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 55
     },
     {
       "slug": "byeolbyeol-hero",
       "active": 13,
       "total": 13
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 13,
-      "total": 32
-    },
-    {
-      "slug": "honkai-star-rail",
-      "active": 13,
-      "total": 22
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 54
     },
     {
       "slug": "yep-raising-feet-up",
@@ -448,7 +448,7 @@
     {
       "slug": "sword-frontier",
       "active": 9,
-      "total": 20
+      "total": 21
     },
     {
       "slug": "last-light-defense",
@@ -461,14 +461,14 @@
       "total": 8
     },
     {
+      "slug": "star-sailors",
+      "active": 8,
+      "total": 24
+    },
+    {
       "slug": "heartopia",
       "active": 7,
       "total": 7
-    },
-    {
-      "slug": "infinite-immortal-path",
-      "active": 7,
-      "total": 30
     }
   ],
   "noImage": 18

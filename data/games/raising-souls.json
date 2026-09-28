@@ -7,9 +7,36 @@
   "loungeId": "Raising_Souls",
   "sourceUrl": "https://game.naver.com/lounge/Raising_Souls/board/detail/7987575",
   "howTo": "1. 채팅창 진입 2. /coupon 쿠폰 번호 입력 후 등록",
-  "postCount": 1,
-  "updatedAt": "2026-09-28T01:04:48.979Z",
+  "postCount": 4,
+  "updatedAt": "2026-09-28T06:13:02.183Z",
   "codes": [
+    {
+      "code": "CELEBRATE300D",
+      "reward": "",
+      "expiry": "2025-08-13",
+      "postedAt": "2025-07-02",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HALFANNIV",
+      "reward": "",
+      "expiry": "2025-03-31",
+      "postedAt": "2025-03-05",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL50DAY",
+      "reward": "",
+      "expiry": "2024-11-20",
+      "postedAt": "2024-10-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
     {
       "code": "EUNUG5R0RX",
       "reward": "",

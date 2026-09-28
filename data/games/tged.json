@@ -7,8 +7,8 @@
   "loungeId": "TGED",
   "sourceUrl": "https://game.naver.com/lounge/TGED/board/detail/8229223",
   "howTo": "",
-  "postCount": 4,
-  "updatedAt": "2026-09-28T01:01:25.383Z",
+  "postCount": 5,
+  "updatedAt": "2026-09-28T06:08:45.137Z",
   "codes": [
     {
       "code": "CHUSEOK",
@@ -36,6 +36,15 @@
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "ROADMAP2026",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-09",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "GRANDMARCH4",

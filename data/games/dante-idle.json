@@ -7,8 +7,8 @@
   "loungeId": "Dante_Idle",
   "sourceUrl": "https://game.naver.com/lounge/Dante_Idle/board/detail/8065114",
   "howTo": "게임 접속 후 중앙의 채팅 창 선택 (스테이지 3-1에서 채팅 기능이 해금됩니다.) 채팅창에 /쿠폰 KOREA815 or /coupon KOREA815",
-  "postCount": 8,
-  "updatedAt": "2026-09-28T01:05:48.777Z",
+  "postCount": 9,
+  "updatedAt": "2026-09-28T06:14:22.036Z",
   "codes": [
     {
       "code": "KOREA815",
@@ -18,6 +18,24 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "SORRY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-19",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "SORRYSORRY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-01-19",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "WELCOMEDANTE",
@@ -67,7 +85,7 @@
     {
       "code": "UPDATE137",
       "reward": "",
-      "expiry": "2025-04-04",
+      "expiry": "2025-04-01",
       "postedAt": "2026-03-16",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-28",

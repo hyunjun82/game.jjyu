@@ -7,8 +7,8 @@
   "loungeId": "kingshipfight",
   "sourceUrl": "https://game.naver.com/lounge/kingshipfight/board/detail/8235558",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-09-28T01:09:28.559Z",
+  "postCount": 6,
+  "updatedAt": "2026-09-28T06:19:16.120Z",
   "codes": [
     {
       "code": "Chuseok09",
@@ -18,6 +18,42 @@
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "liberation999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "soso07",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-07",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "zT3OLe",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-20",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "Sprout333",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-20",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "Child777",

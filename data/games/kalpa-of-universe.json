@@ -2,14 +2,50 @@
   "slug": "kalpa-of-universe",
   "titleEn": "Kalpa Of Universe",
   "titleKo": "천지겁",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMTE2/MDAxNzkwMDQ3NzA3ODUx.foSI9ES3xTpgnByNSpkwahOPbJ7-1LgSBBr16UxolRIg.WWWrqQqzxBH3n2tNYQ9UaHqWclu9X43cA5MY41CS8p8g.PNG/05_2_%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%95%88%EB%82%B4.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfMjU2/MDAxNzg4NDgzOTIwNjM4.4mXxGWLsVTHniBrs13m9Vr9rncxM1VAWebat-Uh1q10g.uNJt9YerEWtgIb7D53fupdnUT3WUZF4yISZ4tJ98qtgg.PNG/01_2_%EB%8C%80%ED%91%9C_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "KALPA_OF_UNIVERSE",
-  "sourceUrl": "https://game.naver.com/lounge/KALPA_OF_UNIVERSE/board/detail/8239882",
+  "sourceUrl": "https://game.naver.com/lounge/KALPA_OF_UNIVERSE/board/detail/8252534",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-09-28T01:11:00.645Z",
+  "postCount": 25,
+  "updatedAt": "2026-09-28T06:21:14.246Z",
   "codes": [
+    {
+      "code": "Version0812",
+      "reward": "",
+      "expiry": "2026-11-03",
+      "postedAt": "2026-08-07",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "HEROSKILL0926",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-26",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "HEROSKILL0924",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
+    {
+      "code": "2026October",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "active"
+    },
     {
       "code": "2026MidAutumn",
       "reward": "",
@@ -18,6 +54,168 @@
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "Version0909",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "Version0715",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "Version0617",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL912",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL910",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0831",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0827",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0815",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0813",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0730",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-30",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0716",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0713",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0704",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-04",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0702",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0620",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-20",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0618",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-18",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0606",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-06",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "HEROSKILL0604",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-04",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "6MonthsGift",

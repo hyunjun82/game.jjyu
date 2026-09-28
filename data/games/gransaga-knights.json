@@ -7,8 +7,8 @@
   "loungeId": "GranSagaIdle_KNIGHTSxKNIGHTS",
   "sourceUrl": "https://game.naver.com/lounge/GranSagaIdle_KNIGHTSxKNIGHTS/board/detail/8219458",
   "howTo": "① 쿠폰 등록 페이지 링크 클릭 ② 쿠폰 등록 페이지에서 '계정 회원 번호'와 '쿠폰 코드' 입력 ③ 게임 내 우편함에서 쿠폰 보상 수령 ​ ※ 주의",
-  "postCount": 118,
-  "updatedAt": "2026-09-28T01:00:10.228Z",
+  "postCount": 140,
+  "updatedAt": "2026-09-28T06:06:58.098Z",
   "codes": [
     {
       "code": "YADNGL26NKROEA38",
@@ -27,6 +27,204 @@
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-09-28",
       "status": "active"
+    },
+    {
+      "code": "DEVNOTE33GIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-04",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "THEGRANDPARTY43",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-21",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "GSIFIREPARTY12",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-03-12",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "BACK2GSI14FEB",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-02-14",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "25FIRSTNOTE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-01-31",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "ISHMAELXENON5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-20",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENONSTOWER13",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "DRAGONXENON23",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-29",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENONFRIENDS22",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-21",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "LOVEGRANKI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-15",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "BREAKLIMIT08",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-08",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "1101XENONOVTE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-01",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENONLUVCAPS25",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-10-25",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENON4YOU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-10-18",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENONGIFT1011",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-10-11",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENONGIFT1004",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-10-04",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "XENONGIFT27",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-27",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "ALWAYSPLAYUS12",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-20",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "GIFTRAINING13",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-13",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "WISHCOMETRUE7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-06",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "UPGSIPLZ0830",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-30",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
+    },
+    {
+      "code": "GSISUMMER2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-02",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-09-28",
+      "status": "expired"
     },
     {
       "code": "MUMUAPRIL",
