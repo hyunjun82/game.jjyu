@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T06:26:46.583Z",
+  "generatedAt": "2026-09-28T07:01:15.677Z",
   "today": "2026-09-28",
-  "todayNew": 220,
+  "todayNew": 221,
   "totals": {
     "games": 228,
-    "codes": 3130,
-    "active": 616,
+    "codes": 3131,
+    "active": 617,
     "expired": 2514,
-    "withExpiry": 1812
+    "withExpiry": 1813
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-28",
-      "count": 220
+      "count": 221
     }
   ],
   "expiringSoon": [
@@ -367,6 +367,12 @@
       "code": "100dayanniv",
       "expiry": "2026-09-30",
       "days": 2
+    },
+    {
+      "slug": "cheonsangbi-m",
+      "code": "1003BMDEV09",
+      "expiry": "2026-09-30",
+      "days": 2
     }
   ],
   "topGames": [
@@ -466,9 +472,9 @@
       "total": 24
     },
     {
-      "slug": "heartopia",
+      "slug": "eternal-evolution",
       "active": 7,
-      "total": 7
+      "total": 41
     }
   ],
   "noImage": 18
