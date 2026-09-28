@@ -1,0 +1,62 @@
+name: 쿠폰 누락 자가 점검
+
+# 공식 라운지 전체(약 2,300개)의 최근 3일 운영자 글을 수집기와 같은 파서로 다시 읽어,
+# 사이트에 없는 코드가 있으면 그 글을 수집 대상에 넣고(scripts/naver-extra-posts.json)
+# 추적하지 않던 라운지는 목록에 추가한 뒤 바로 수집한다.
+# 사람이 매번 "놓친 거 없냐"고 대조하던 일을 대신한다(2026-09-28 도입).
+# 한 번에 15분 남짓 걸려서 수집(2시간 간격)과 따로 하루 4번 돈다.
+on:
+  schedule:
+    - cron: '7 1,7,13,19 * * *'   # KST 10:07 · 16:07 · 22:07 · 04:07
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: 누락 점검
+        run: node scripts/audit-naver.mjs | tee /tmp/out.log
+
+      - name: 네이버 라운지 수집
+        run: node scripts/collect-naver.mjs | tee -a /tmp/out.log
+
+      - name: 게임 이미지 받기
+        run: |
+          npm install --no-save --no-audit --no-fund sharp@0.33.5 > /dev/null 2>&1 || true
+          node scripts/images.mjs | tee -a /tmp/out.log || true
+
+      - name: 통계 생성
+        run: node scripts/stats.mjs | tee -a /tmp/out.log
+
+      - name: 변경분 커밋
+        run: |
+          FIXED=$(grep -oP 'AUDIT_FIXED=\K[0-9]+' /tmp/out.log | tail -1)
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-extra-posts.json scripts/audit-report.json public/g
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          STAMP=$(TZ=Asia/Seoul date '+%m-%d %H:%M')
+          git commit -m "audit: ${STAMP} 자가 점검 · 놓친 글/라운지 ${FIXED:-0}건 반영"
+          for i in 1 2 3; do
+            if git push; then echo "푸시 완료(시도 ${i}회)"; exit 0; fi
+            git fetch origin main
+            git rebase -X theirs origin/main || { git rebase --abort; echo "리베이스 실패"; exit 1; }
+          done
+          git push
+
+      - name: 발행 점검
+        run: node scripts/verify.mjs
