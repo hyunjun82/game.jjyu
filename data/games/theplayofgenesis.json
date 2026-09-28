@@ -1,0 +1,131 @@
+{
+  "slug": "theplayofgenesis",
+  "titleEn": "Theplayofgenesis",
+  "titleKo": "창세기전 모바일",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMTYz/MDAxNzg5OTc4NTc2MDI2.wm4nLrIfs1e1dSjiWV-fFHTjv4iEmApEiXtl84uB_LAg.oO6wCo3JuHXoVFKszEWrxEH-SFxTANjemI5EmKqVR7Ag.PNG/%EC%9E%91%EC%9D%80-%EB%B0%B0%EB%84%88_%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%85%B8%ED%8A%B8.png",
+  "source": "naver-lounge",
+  "loungeId": "theplayofgenesis",
+  "sourceUrl": "https://game.naver.com/lounge/theplayofgenesis/board/detail/8219525",
+  "howTo": "※ 쿠폰이 정상적으로 사용되지 않을 경우, 게임을 완전히 종료하여 재실행 후 쿠폰 코드를 다시 입력해 주시기 바랍니다. ◆ 쿠폰 코드 FULLMOON71 ◆ 쿠폰 보상 - 인연의 큐브*10개",
+  "postCount": 13,
+  "updatedAt": "2026-09-28T21:06:44.631Z",
+  "codes": [
+    {
+      "code": "FULLMOON71",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
+    {
+      "code": "DEVSLETTER46",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "DIRECTORNAM97",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "DEVSLETTER68",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "GENESIS0819",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "ANEMONE66",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "KOSMOSSAGA2ARK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-28",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "LUCIFER0710",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "KOSMOSSAGA0708",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-08",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "DEVNOTE0619",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSANNIV0707",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-16",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "KOSMOSSAGA2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-12",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "GUILDWARLAB0423",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-24",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    }
+  ]
+}

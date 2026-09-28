@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-28T15:51:43.089Z",
+  "generatedAt": "2026-09-28T21:10:13.111Z",
   "today": "2026-09-29",
-  "todayNew": 13,
+  "todayNew": 26,
   "totals": {
-    "games": 230,
-    "codes": 3149,
-    "active": 597,
-    "expired": 2552,
+    "games": 231,
+    "codes": 3162,
+    "active": 592,
+    "expired": 2570,
     "withExpiry": 1829
   },
   "newByDate": [
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-29",
-      "count": 13
+      "count": 26
     }
   ],
   "expiringSoon": [
@@ -113,12 +113,6 @@
     {
       "slug": "what-the-bug",
       "code": "OC98E8",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "wuthering-waves",
-      "code": "WUTHERINGGIFT",
       "expiry": "2026-09-29",
       "days": 0
     },
@@ -367,6 +361,12 @@
       "code": "BETASEASONLETSGO",
       "expiry": "2026-09-30",
       "days": 1
+    },
+    {
+      "slug": "last-echo",
+      "code": "FANPACK",
+      "expiry": "2026-09-30",
+      "days": 1
     }
   ],
   "topGames": [
@@ -381,9 +381,9 @@
       "total": 61
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 17,
-      "total": 23
+      "slug": "sabuk-ice-kingdom",
+      "active": 16,
+      "total": 16
     },
     {
       "slug": "idle-berserker",
@@ -399,11 +399,6 @@
       "slug": "dungeon-hunter6-awakening",
       "active": 14,
       "total": 33
-    },
-    {
-      "slug": "sabuk-ice-kingdom",
-      "active": 14,
-      "total": 16
     },
     {
       "slug": "byeolbyeol-hero",
@@ -469,6 +464,11 @@
       "slug": "eternal-evolution",
       "active": 7,
       "total": 41
+    },
+    {
+      "slug": "genshin-impact",
+      "active": 7,
+      "total": 12
     }
   ],
   "noImage": 18
