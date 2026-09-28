@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/My_Goddess_Idle_RPG/board/detail/8148534",
   "howTo": "━━━━━━━━━━━━━━━ 주인공(하단메뉴) ▶️ 정보 ▶️ ⚙️ 톱니바퀴 아이콘 ▶️ 교환코드 ▶️ 쿠폰 입력! ━━━━━━━━━━━━━━━ ⚠️ 유의사항",
   "postCount": 8,
-  "updatedAt": "2026-09-28T14:28:18.376Z",
+  "updatedAt": "2026-09-28T15:44:12.463Z",
   "codes": [
     {
       "code": "UPUP111",
@@ -16,8 +16,8 @@
       "expiry": "2026-09-28",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "active"
+      "lastSeen": "2026-09-29",
+      "status": "expired"
     },
     {
       "code": "THANKS2026",
@@ -25,8 +25,8 @@
       "expiry": "2026-09-28",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "active"
+      "lastSeen": "2026-09-29",
+      "status": "expired"
     },
     {
       "code": "OPENGIFT",
@@ -34,8 +34,8 @@
       "expiry": "2026-09-28",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "active"
+      "lastSeen": "2026-09-29",
+      "status": "expired"
     },
     {
       "code": "GRANDOPENING1",
@@ -43,17 +43,8 @@
       "expiry": "2026-09-28",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "active"
-    },
-    {
-      "code": "VIP111",
-      "reward": "",
-      "expiry": "2026-09-28",
-      "postedAt": "2026-09-04",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
-      "status": "active"
+      "lastSeen": "2026-09-29",
+      "status": "expired"
     },
     {
       "code": "GRANDOPENING2",
@@ -61,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -70,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -79,7 +70,16 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "VIP111",
+      "reward": "",
+      "expiry": "2026-09-28",
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -88,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -97,7 +97,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -106,7 +106,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     }
   ]

@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8188534",
   "howTo": "",
   "postCount": 16,
-  "updatedAt": "2026-09-28T14:35:36.235Z",
+  "updatedAt": "2026-09-28T15:51:02.313Z",
   "codes": [
-    {
-      "code": "LBMMNBY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-14",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
-      "status": "active"
-    },
     {
       "code": "Jing312",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-03-09",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-01-18",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -43,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-01-18",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -52,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-01-14",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -61,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-08-30",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -70,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-08-20",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -79,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-07-13",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -88,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-06-12",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -97,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -106,7 +97,16 @@
       "expiry": null,
       "postedAt": "2026-03-06",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "LBMMNBY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "expiry": null,
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -124,7 +124,7 @@
       "expiry": null,
       "postedAt": "2026-07-21",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -133,7 +133,7 @@
       "expiry": null,
       "postedAt": "2026-07-07",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -142,7 +142,7 @@
       "expiry": null,
       "postedAt": "2026-07-01",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -151,7 +151,7 @@
       "expiry": null,
       "postedAt": "2026-05-05",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
@@ -160,7 +160,7 @@
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "expired"
     }
   ]

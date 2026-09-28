@@ -8,15 +8,24 @@
   "sourceUrl": "https://game.naver.com/lounge/nekofighteridle/board/detail/8247035",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-09-28T14:31:35.136Z",
+  "updatedAt": "2026-09-28T15:47:12.743Z",
   "codes": [
+    {
+      "code": "WISH75",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-27",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
     {
       "code": "WISH50",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "active"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "active"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-09-21",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "status": "active"
     }
   ]
