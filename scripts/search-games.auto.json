@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-28T06:37:20.553Z",
+  "generatedAt": "2026-09-28T14:16:14.339Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -75,10 +75,10 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "gumiho-tales",
-      "loungeId": "Gumiho_Tales",
-      "titleKo": "구미호 키우기",
-      "titleEn": "Gumiho Tales"
+      "slug": "legendof-yeomra",
+      "loungeId": "LegendofYeomra",
+      "titleKo": "염라대왕 키우기",
+      "titleEn": "Legendof Yeomra"
     }
   ]
 }

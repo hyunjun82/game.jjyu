@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T07:01:15.677Z",
+  "generatedAt": "2026-09-28T14:40:09.754Z",
   "today": "2026-09-28",
-  "todayNew": 221,
+  "todayNew": 226,
   "totals": {
     "games": 228,
-    "codes": 3131,
-    "active": 617,
-    "expired": 2514,
-    "withExpiry": 1813
+    "codes": 3136,
+    "active": 620,
+    "expired": 2516,
+    "withExpiry": 1818
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-28",
-      "count": 221
+      "count": 226
     }
   ],
   "expiringSoon": [
@@ -83,24 +83,6 @@
     {
       "slug": "honkai-star-rail",
       "code": "WA4AV2F24PYX",
-      "expiry": "2026-09-28",
-      "days": 0
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "KA5SV3FJM7WX",
-      "expiry": "2026-09-28",
-      "days": 0
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "7S4AD2X35NE3",
-      "expiry": "2026-09-28",
-      "days": 0
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "MALSV2F247FP",
       "expiry": "2026-09-28",
       "days": 0
     },
@@ -143,18 +125,6 @@
     {
       "slug": "honkai-star-rail",
       "code": "CREATIONNYMPH",
-      "expiry": "2026-09-28",
-      "days": 0
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "FAREWELL",
-      "expiry": "2026-09-28",
-      "days": 0
-    },
-    {
-      "slug": "honkai-star-rail",
-      "code": "IFYOUAREREADINGTHIS",
       "expiry": "2026-09-28",
       "days": 0
     },
@@ -373,6 +343,30 @@
       "code": "1003BMDEV09",
       "expiry": "2026-09-30",
       "days": 2
+    },
+    {
+      "slug": "dal-to-ki",
+      "code": "0915UPDATE",
+      "expiry": "2026-09-30",
+      "days": 2
+    },
+    {
+      "slug": "dragon-rise",
+      "code": "DRAGONRISE9",
+      "expiry": "2026-09-30",
+      "days": 2
+    },
+    {
+      "slug": "dragonnest-world",
+      "code": "HAPPYFRIDAY1",
+      "expiry": "2026-09-30",
+      "days": 2
+    },
+    {
+      "slug": "dungeon-hunter6-awakening",
+      "code": "dxc4fjq",
+      "expiry": "2026-09-30",
+      "days": 2
     }
   ],
   "topGames": [
@@ -388,8 +382,8 @@
     },
     {
       "slug": "honkai-star-rail",
-      "active": 16,
-      "total": 22
+      "active": 17,
+      "total": 23
     },
     {
       "slug": "idle-hero-but-save-the-world",
