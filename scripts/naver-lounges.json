@@ -1462,6 +1462,30 @@
       "titleKo": "레퀴엠M",
       "titleEn": "Requiem M",
       "auto": "2026-09-29"
+    },
+    {
+      "slug": "heartquake-chronicles",
+      "loungeId": "Heartquake_Chronicles",
+      "titleKo": "심쿵신궁 연대기",
+      "titleEn": "Heartquake_Chronicles",
+      "auto": "2026-09-29",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "nte",
+      "loungeId": "NTE",
+      "titleKo": "이환",
+      "titleEn": "NTE",
+      "auto": "2026-09-29",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "raid-shadow-legends",
+      "loungeId": "Raid_Shadow_Legends",
+      "titleKo": "레이드 : 그림자의 전설",
+      "titleEn": "Raid_Shadow_Legends",
+      "auto": "2026-09-29",
+      "note": "자가 점검(audit-naver)에서 발견"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
