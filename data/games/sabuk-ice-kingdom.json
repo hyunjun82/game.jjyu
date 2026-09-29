@@ -3,9 +3,12 @@
   "titleEn": "Sabuk: Ice Kingdom",
   "titleKo": "사북: 아이스 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfMjkg/MDAxNzg5NzE2Mzc3MTUy.Nu4b_99VFoLte9B01FZ3E60pp2nvEAFtun8ujZl-1_Ig.-jQV8EC7kg8INNa7w2W1PgCI9vy0ckvLEEJ3bTjmV8Eg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81banner-800-190.jpg",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "icekingdom",
+  "sourceUrl": "https://game.naver.com/lounge/icekingdom/board/detail/8244147",
   "howTo": "설정-패키지 코드 교환-입력 및 확인 입력 후 우편을 통하여 수령이 가능합니다. 즐거운 주말 되세요! 🎮✨",
-  "updatedAt": "2026-09-28T21:08:12.569Z",
+  "postCount": 171,
+  "updatedAt": "2026-09-29T00:52:46.190Z",
   "codes": [
     {
       "code": "WEEKMA2",
@@ -41,16 +44,6 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-09-19",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-29",
-      "status": "active"
-    },
-    {
-      "code": "O1369",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-17",
-      "sourceUrl": "https://blog.naver.com/doni21/224415109516",
-      "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-29",
       "status": "active"
     },
@@ -149,6 +142,16 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
+    {
+      "code": "O1369",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "sourceUrl": "https://blog.naver.com/doni21/224415109516",
       "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-29",
       "status": "active"
