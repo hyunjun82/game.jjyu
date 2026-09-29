@@ -1,0 +1,42 @@
+{
+  "slug": "requiem-m",
+  "titleEn": "Requiem M",
+  "titleKo": "레퀴엠M",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfOTcg/MDAxNzkwMTI5ODA0ODIx.AcciQho8m0-AaC4QWArsarWs3nVLVO0WPdNRbmRDCWAg.4yQCOcT5857ddYn0kJeYs3Gm453casWaw-I-L3vY4AMg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EA%B3%B5%EC%A7%80%EC%83%81%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
+  "source": "naver-lounge",
+  "loungeId": "RequiemM",
+  "sourceUrl": "https://game.naver.com/lounge/RequiemM/board/detail/8258435",
+  "howTo": "게임 상단 펼침 메뉴 '혜택센터' 클릭 시 '<일반 쿠폰>' 확인 가능 ※ '혜택센터'는 13레벨에 오픈됩니다. ※ 참고사항 - 쿠폰은 이벤트 기간 내 계정당 1회만 사용이 가능합니다. - 쿠폰 사용 시 반드시 대/소문자를 구분해 입력해 주시기 바랍니다.",
+  "postCount": 3,
+  "updatedAt": "2026-09-29T06:43:41.953Z",
+  "codes": [
+    {
+      "code": "1003GAECHEON",
+      "reward": "",
+      "expiry": "2026-10-13",
+      "expiryFrom": "event",
+      "postedAt": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
+    {
+      "code": "SECRETSUN719",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "RQMSPDSUN0182",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    }
+  ]
+}
