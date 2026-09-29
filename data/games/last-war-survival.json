@@ -1,0 +1,31 @@
+{
+  "slug": "last-war-survival",
+  "titleEn": "Last War: Survival",
+  "titleKo": "라스트 워: 서바이벌",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-09-29T13:41:42.018Z",
+  "codes": [
+    {
+      "code": "LWVDAY26",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419391204",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "LWDC400K",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419391204",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29",
+      "status": "expired"
+    }
+  ]
+}

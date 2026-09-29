@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T13:14:18.236Z",
+  "generatedAt": "2026-09-29T13:42:57.508Z",
   "today": "2026-09-29",
-  "todayNew": 51,
+  "todayNew": 43,
   "totals": {
-    "games": 235,
-    "codes": 3187,
-    "active": 613,
-    "expired": 2574,
-    "withExpiry": 1844
+    "games": 233,
+    "codes": 3179,
+    "active": 607,
+    "expired": 2572,
+    "withExpiry": 1840
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-29",
-      "count": 51
+      "count": 43
     }
   ],
   "expiringSoon": [
@@ -119,6 +119,30 @@
     {
       "slug": "what-the-bug",
       "code": "OC98E8",
+      "expiry": "2026-09-29",
+      "days": 0
+    },
+    {
+      "slug": "wuthering-waves",
+      "code": "FALLINGSANCTUM",
+      "expiry": "2026-09-29",
+      "days": 0
+    },
+    {
+      "slug": "wuthering-waves",
+      "code": "FINDSENTINEL",
+      "expiry": "2026-09-29",
+      "days": 0
+    },
+    {
+      "slug": "wuthering-waves",
+      "code": "WAKINGMOON",
+      "expiry": "2026-09-29",
+      "days": 0
+    },
+    {
+      "slug": "wuthering-waves",
+      "code": "WUTHERINGGIFT",
       "expiry": "2026-09-29",
       "days": 0
     },
@@ -343,30 +367,6 @@
       "code": "SEPHCAUT09",
       "expiry": "2026-09-30",
       "days": 1
-    },
-    {
-      "slug": "hero-clash",
-      "code": "HCSNAPSHOT",
-      "expiry": "2026-09-30",
-      "days": 1
-    },
-    {
-      "slug": "hero-clash",
-      "code": "MANGGUSOUL",
-      "expiry": "2026-09-30",
-      "days": 1
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "HERO0915",
-      "expiry": "2026-09-30",
-      "days": 1
-    },
-    {
-      "slug": "jo-jo-dream",
-      "code": "LOVE365",
-      "expiry": "2026-09-30",
-      "days": 1
     }
   ],
   "topGames": [
@@ -446,6 +446,11 @@
       "total": 21
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 8,
+      "total": 23
+    },
+    {
       "slug": "last-light-defense",
       "active": 8,
       "total": 9
@@ -464,12 +469,7 @@
       "slug": "eternal-evolution",
       "active": 7,
       "total": 41
-    },
-    {
-      "slug": "genshin-impact",
-      "active": 7,
-      "total": 12
     }
   ],
-  "noImage": 18
+  "noImage": 19
 }

@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-28T21:08:50.830Z",
+  "updatedAt": "2026-09-29T13:41:20.352Z",
   "codes": [
     {
       "code": "SSK9MC6HJWC7",
@@ -34,6 +34,36 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
       "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
+    {
+      "code": "KA5SV3FJM7WX",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
+    {
+      "code": "7S4AD2X35NE3",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-29",
+      "status": "active"
+    },
+    {
+      "code": "MALSV2F247FP",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
+      "firstSeen": "2026-09-21",
       "lastSeen": "2026-09-29",
       "status": "active"
     },
@@ -75,36 +105,6 @@
       "sourceUrl": "https://blog.naver.com/atothez1992/224419260307",
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-09-27",
-      "status": "expired"
-    },
-    {
-      "code": "KA5SV3FJM7WX",
-      "reward": "",
-      "expiry": "2026-09-28",
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/bauvvhvbtcxbe/224424373318",
-      "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-29",
-      "status": "expired"
-    },
-    {
-      "code": "7S4AD2X35NE3",
-      "reward": "",
-      "expiry": "2026-09-28",
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/bauvvhvbtcxbe/224424373318",
-      "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-29",
-      "status": "expired"
-    },
-    {
-      "code": "MALSV2F247FP",
-      "reward": "",
-      "expiry": "2026-09-28",
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/bauvvhvbtcxbe/224424373318",
-      "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-29",
       "status": "expired"
     },
     {
