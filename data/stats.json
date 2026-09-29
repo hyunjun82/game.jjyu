@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T01:12:40.059Z",
+  "generatedAt": "2026-09-29T05:56:56.970Z",
   "today": "2026-09-29",
-  "todayNew": 26,
+  "todayNew": 36,
   "totals": {
     "games": 231,
-    "codes": 3162,
-    "active": 592,
-    "expired": 2570,
-    "withExpiry": 1829
+    "codes": 3172,
+    "active": 601,
+    "expired": 2571,
+    "withExpiry": 1835
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-29",
-      "count": 26
+      "count": 36
     }
   ],
   "expiringSoon": [
@@ -107,6 +107,12 @@
     {
       "slug": "last-light-defense",
       "code": "27aoO5",
+      "expiry": "2026-09-29",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "Q5H9MC",
       "expiry": "2026-09-29",
       "days": 0
     },
@@ -291,6 +297,24 @@
       "days": 1
     },
     {
+      "slug": "fortess-samguk-defense",
+      "code": "FORTa1",
+      "expiry": "2026-09-30",
+      "days": 1
+    },
+    {
+      "slug": "fortess-samguk-defense",
+      "code": "3FORTc",
+      "expiry": "2026-09-30",
+      "days": 1
+    },
+    {
+      "slug": "fortess-samguk-defense",
+      "code": "4FORTd4",
+      "expiry": "2026-09-30",
+      "days": 1
+    },
+    {
       "slug": "genshin-impact",
       "code": "DUGODWKRHAKDNJ",
       "expiry": "2026-09-30",
@@ -343,42 +367,23 @@
       "code": "LOVE365",
       "expiry": "2026-09-30",
       "days": 1
-    },
-    {
-      "slug": "jo-jo-dream",
-      "code": "JOJO365",
-      "expiry": "2026-09-30",
-      "days": 1
-    },
-    {
-      "slug": "kaion-m",
-      "code": "00LULYIJ",
-      "expiry": "2026-09-30",
-      "days": 1
-    },
-    {
-      "slug": "kkutu",
-      "code": "BETASEASONLETSGO",
-      "expiry": "2026-09-30",
-      "days": 1
-    },
-    {
-      "slug": "last-echo",
-      "code": "FANPACK",
-      "expiry": "2026-09-30",
-      "days": 1
     }
   ],
   "topGames": [
     {
       "slug": "apex-girls",
-      "active": 21,
-      "total": 55
+      "active": 22,
+      "total": 56
     },
     {
       "slug": "daksa-rpg",
       "active": 20,
       "total": 61
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 27
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -391,14 +396,19 @@
       "total": 45
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 26
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
       "active": 14,
       "total": 33
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 56
+    },
+    {
+      "slug": "busy-savior",
+      "active": 13,
+      "total": 29
     },
     {
       "slug": "byeolbyeol-hero",
@@ -406,19 +416,9 @@
       "total": 13
     },
     {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 55
-    },
-    {
       "slug": "yep-raising-feet-up",
       "active": 13,
       "total": 13
-    },
-    {
-      "slug": "busy-savior",
-      "active": 12,
-      "total": 28
     },
     {
       "slug": "rogw-remains-of-gods",
