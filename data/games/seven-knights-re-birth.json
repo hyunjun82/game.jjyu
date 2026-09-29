@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/sena_rebirth/board/detail/6851988",
   "howTo": "- 세븐나이츠 리버스 쿠폰 사용 방법 안내",
   "postCount": 1,
-  "updatedAt": "2026-09-29T13:26:16.685Z",
+  "updatedAt": "2026-09-29T18:58:14.561Z",
   "codes": [
     {
       "code": "7KFULLMOONREBIRTH",
@@ -17,7 +17,7 @@
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-09-29",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "HAPPY7KSENA",
@@ -26,7 +26,7 @@
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-09-29",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "7SENEVKMOON",
@@ -35,7 +35,7 @@
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-29",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "HAPPYFULLMOON7",
@@ -44,7 +44,7 @@
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-09-29",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "WEB7SUNSET",
@@ -115,7 +115,7 @@
       "expiry": null,
       "postedAt": "2025-10-28",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "status": "expired"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-29T13:18:01.445Z",
+  "generatedAt": "2026-09-29T18:51:00.310Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -21,16 +21,34 @@
       "titleEn": "Romantic Gangho"
     },
     {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
+    },
+    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights Endfield"
     },
     {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
+      "slug": "cabal-red",
+      "loungeId": "CABAL_RED",
+      "titleKo": "카발RED",
+      "titleEn": "Cabal Red"
+    },
+    {
+      "slug": "plantis-zombie-gangsters",
+      "loungeId": "Plantis_Zombie_Gangsters",
+      "titleKo": "플랜티스와 좀비깡패",
+      "titleEn": "Plantis Zombie Gangsters"
+    },
+    {
+      "slug": "toysamguk",
+      "loungeId": "toysamguk",
+      "titleKo": "토이 삼국",
+      "titleEn": "Toysamguk"
     },
     {
       "slug": "watcher-of-realms",
@@ -57,16 +75,16 @@
       "titleEn": "Torchlight Infinite"
     },
     {
-      "slug": "toysamguk",
-      "loungeId": "toysamguk",
-      "titleKo": "토이 삼국",
-      "titleEn": "Toysamguk"
-    },
-    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "w-cross-world",
+      "loungeId": "W_CROSS_WORLD",
+      "titleKo": "더블유: 크로스월드",
+      "titleEn": "W Cross World"
     }
   ]
 }

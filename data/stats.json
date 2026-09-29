@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-09-29T13:42:57.508Z",
-  "today": "2026-09-29",
-  "todayNew": 43,
+  "generatedAt": "2026-09-29T19:13:40.554Z",
+  "today": "2026-09-30",
+  "todayNew": 1,
   "totals": {
-    "games": 233,
-    "codes": 3179,
-    "active": 607,
-    "expired": 2572,
-    "withExpiry": 1840
+    "games": 236,
+    "codes": 3191,
+    "active": 589,
+    "expired": 2602,
+    "withExpiry": 1846
   },
   "newByDate": [
-    {
-      "date": "2026-09-16",
-      "count": 6
-    },
     {
       "date": "2026-09-17",
       "count": 12
@@ -64,326 +60,325 @@
     },
     {
       "date": "2026-09-29",
-      "count": 43
+      "count": 54
+    },
+    {
+      "date": "2026-09-30",
+      "count": 1
     }
   ],
   "expiringSoon": [
     {
-      "slug": "boneagain",
-      "code": "L8GBES",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "doomsday-warrior",
-      "code": "Artemis",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "SOUL0914",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "oO5L3y",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "qZC0Iy",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "MtQOM8",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "last-light-defense",
-      "code": "27aoO5",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "max-level-idle",
-      "code": "Q5H9MC",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "what-the-bug",
-      "code": "OC98E8",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "wuthering-waves",
-      "code": "FALLINGSANCTUM",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "wuthering-waves",
-      "code": "FINDSENTINEL",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "wuthering-waves",
-      "code": "WAKINGMOON",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
-      "slug": "wuthering-waves",
-      "code": "WUTHERINGGIFT",
-      "expiry": "2026-09-29",
-      "days": 0
-    },
-    {
       "slug": "arknights-endfield",
       "code": "ZAU2SYXHWX5L4ZH",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "arknights-endfield",
       "code": "ENDFIELDGIFT",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "arknights-endfield",
       "code": "ENDFIELD4PC",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "blood-of-youth",
       "code": "GPLAYNO1",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "busy-savior",
       "code": "m2qy8kxr",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "busy-savior",
       "code": "z6nb1fqe",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "busy-savior",
       "code": "r9ct3hvg",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "busy-savior",
       "code": "p4xd7wla",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "busy-savior",
       "code": "k8mv2qzn",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "byeolbyeol-hero",
       "code": "youarethehero",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "byeolbyeol-hero",
       "code": "100dayanniv",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "cheonsangbi-m",
       "code": "1003BMDEV09",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dal-to-ki",
       "code": "0915UPDATE",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragon-rise",
       "code": "DRAGONRISE9",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragonnest-world",
       "code": "HAPPYFRIDAY1",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxc4fjq",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxc4epy",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxc4dji",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxc42rg",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxcf6qq",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxcfpuu",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "code": "dxcfn5d",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dynasty-warriors-overlords",
       "code": "chuseok26",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dynasty-warriors-overlords",
       "code": "b65MKXufk",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dynasty-warriors-overlords",
       "code": "KEVELQHDL",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dynasty-warriors-overlords",
       "code": "r9BZGDQ6b",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0918N786",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0916C87B",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "eternal-evolution",
       "code": "EE09148BIM",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "fortess-samguk-defense",
       "code": "FORTa1",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "fortess-samguk-defense",
       "code": "3FORTc",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "fortess-samguk-defense",
       "code": "4FORTd4",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "genshin-impact",
       "code": "DUGODWKRHAKDNJ",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghostvengers",
       "code": "chuseok",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "grow-demon-slime",
       "code": "BREEZ9",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "gungsin-idle-rpg",
       "code": "Moonlight",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "hero-clash",
       "code": "SEPHCAUT09",
       "expiry": "2026-09-30",
-      "days": 1
+      "days": 0
+    },
+    {
+      "slug": "hero-clash",
+      "code": "HCSNAPSHOT",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "hero-clash",
+      "code": "MANGGUSOUL",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "HERO0915",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "jo-jo-dream",
+      "code": "LOVE365",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "jo-jo-dream",
+      "code": "JOJO365",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "kaion-m",
+      "code": "00LULYIJ",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "kkutu",
+      "code": "BETASEASONLETSGO",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "last-echo",
+      "code": "FANPACK",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "last-echo",
+      "code": "DOGDAY",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "last-echo",
+      "code": "LENGUD",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "last-light-defense",
+      "code": "PURRFECT",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "lucky-plant-defense",
+      "code": "26GOLDKOR1",
+      "expiry": "2026-09-30",
+      "days": 0
+    },
+    {
+      "slug": "lumimaster",
+      "code": "LUCKY777",
+      "expiry": "2026-09-30",
+      "days": 0
     }
   ],
   "topGames": [
     {
       "slug": "apex-girls",
-      "active": 22,
+      "active": 21,
       "total": 56
     },
     {
       "slug": "daksa-rpg",
       "active": 20,
       "total": 61
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 16,
-      "total": 27
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -396,14 +391,14 @@
       "total": 45
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 15,
+      "total": 27
+    },
+    {
       "slug": "dungeon-hunter6-awakening",
       "active": 14,
       "total": 33
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 14,
-      "total": 56
     },
     {
       "slug": "busy-savior",
@@ -414,6 +409,11 @@
       "slug": "byeolbyeol-hero",
       "active": 13,
       "total": 13
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 13,
+      "total": 56
     },
     {
       "slug": "yep-raising-feet-up",
@@ -451,11 +451,6 @@
       "total": 23
     },
     {
-      "slug": "last-light-defense",
-      "active": 8,
-      "total": 9
-    },
-    {
       "slug": "lucky-plant-defense",
       "active": 8,
       "total": 8
@@ -469,6 +464,11 @@
       "slug": "eternal-evolution",
       "active": 7,
       "total": 41
+    },
+    {
+      "slug": "heartopia",
+      "active": 7,
+      "total": 7
     }
   ],
   "noImage": 19
