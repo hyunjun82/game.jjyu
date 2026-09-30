@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-30T07:41:18.391Z",
+  "generatedAt": "2026-09-30T14:25:29.998Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -81,16 +81,10 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
-    },
-    {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
+      "slug": "moeverse-live",
+      "loungeId": "MOEVERSE_LIVE",
+      "titleKo": "모에버스:라이브",
+      "titleEn": "Moeverse Live"
     }
   ]
 }

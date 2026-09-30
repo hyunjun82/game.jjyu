@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-30T13:02:06.795Z",
+  "generatedAt": "2026-09-30T14:48:32.280Z",
   "today": "2026-09-30",
   "todayNew": 47,
   "totals": {
     "games": 240,
     "codes": 3237,
-    "active": 610,
-    "expired": 2627,
+    "active": 611,
+    "expired": 2626,
     "withExpiry": 1870
   },
   "newByDate": [
@@ -441,6 +441,11 @@
       "total": 11
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 9,
+      "total": 23
+    },
+    {
       "slug": "lucky-plant-defense",
       "active": 9,
       "total": 9
@@ -454,11 +459,6 @@
       "slug": "eternal-evolution",
       "active": 8,
       "total": 42
-    },
-    {
-      "slug": "honkai-star-rail",
-      "active": 8,
-      "total": 23
     },
     {
       "slug": "star-sailors",
