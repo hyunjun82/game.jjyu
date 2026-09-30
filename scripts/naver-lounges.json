@@ -1493,6 +1493,38 @@
       "titleKo": "아케론: 종말의 서곡",
       "titleEn": "Origin Of Chaos",
       "auto": "2026-09-30"
+    },
+    {
+      "slug": "pjsekai",
+      "loungeId": "pjsekai",
+      "titleKo": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
+      "titleEn": "pjsekai",
+      "auto": "2026-09-30",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "samguk-origin",
+      "loungeId": "Samguk_Origin",
+      "titleKo": "삼국지 오리진",
+      "titleEn": "Samguk_Origin",
+      "auto": "2026-09-30",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "samgukji-lords-war",
+      "loungeId": "Samgukji_Lords_War",
+      "titleKo": "삼국지: 제후의 전쟁",
+      "titleEn": "Samgukji_Lords_War",
+      "auto": "2026-09-30",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "wooparoo-odyssey",
+      "loungeId": "Wooparoo_Odyssey",
+      "titleKo": "우파루 오딧세이",
+      "titleEn": "Wooparoo_Odyssey",
+      "auto": "2026-09-30",
+      "note": "자가 점검(audit-naver)에서 발견"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

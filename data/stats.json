@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T02:17:46.933Z",
+  "generatedAt": "2026-09-30T05:55:07.214Z",
   "today": "2026-09-30",
-  "todayNew": 22,
+  "todayNew": 38,
   "totals": {
-    "games": 237,
-    "codes": 3212,
-    "active": 592,
-    "expired": 2620,
-    "withExpiry": 1858
+    "games": 239,
+    "codes": 3228,
+    "active": 607,
+    "expired": 2621,
+    "withExpiry": 1868
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-09-30",
-      "count": 22
+      "count": 38
     }
   ],
   "expiringSoon": [
@@ -358,13 +358,13 @@
     },
     {
       "slug": "lucky-plant-defense",
-      "code": "26GOLDKOR1",
+      "code": "PLTIOSOPEN",
       "expiry": "2026-09-30",
       "days": 0
     },
     {
-      "slug": "lumimaster",
-      "code": "LUCKY777",
+      "slug": "lucky-plant-defense",
+      "code": "26GOLDKOR1",
       "expiry": "2026-09-30",
       "days": 0
     }
@@ -381,6 +381,11 @@
       "total": 61
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 28
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 16,
       "total": 16
@@ -391,14 +396,14 @@
       "total": 45
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 27
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
       "active": 14,
       "total": 33
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 57
     },
     {
       "slug": "busy-savior",
@@ -411,19 +416,14 @@
       "total": 13
     },
     {
-      "slug": "max-level-idle",
+      "slug": "rogw-remains-of-gods",
       "active": 13,
-      "total": 56
+      "total": 13
     },
     {
       "slug": "yep-raising-feet-up",
       "active": 13,
       "total": 13
-    },
-    {
-      "slug": "rogw-remains-of-gods",
-      "active": 12,
-      "total": 12
     },
     {
       "slug": "astro-defenders",
@@ -441,9 +441,19 @@
       "total": 11
     },
     {
+      "slug": "lucky-plant-defense",
+      "active": 9,
+      "total": 9
+    },
+    {
       "slug": "sword-frontier",
       "active": 9,
       "total": 21
+    },
+    {
+      "slug": "eternal-evolution",
+      "active": 8,
+      "total": 42
     },
     {
       "slug": "honkai-star-rail",
@@ -451,19 +461,9 @@
       "total": 23
     },
     {
-      "slug": "lucky-plant-defense",
-      "active": 8,
-      "total": 8
-    },
-    {
       "slug": "star-sailors",
       "active": 8,
       "total": 24
-    },
-    {
-      "slug": "eternal-evolution",
-      "active": 7,
-      "total": 41
     },
     {
       "slug": "heartopia",

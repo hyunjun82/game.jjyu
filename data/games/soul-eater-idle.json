@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA1MDRfMjQg/MDAxNzQ2MzU1MTQ3NTMz.HAYzw3p8yZapCdRcuyYqPlJ3zA_ZoRMJqIvVEHGHiLEg.G86ChFh05BXXQV758-DwnrlHmsuDY0KGcVdgsDfOMccg.PNG/%EC%BF%A0%ED%8F%B0%EC%A0%95%EB%B3%B4_512x512.png",
   "source": "naver-lounge",
   "loungeId": "SoulEater_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/SoulEater_Idle/board/detail/7933671",
-  "howTo": "에 대하여 안내 드리도록 하겠습니다. 쿠폰 정보 2026.08.31  업데이트 grandopen0409",
-  "postCount": 4,
-  "updatedAt": "2026-09-30T01:55:44.659Z",
+  "sourceUrl": "https://game.naver.com/lounge/SoulEater_Idle/board/detail/8264761",
+  "howTo": "에 대하여 안내 드리도록 하겠습니다. 쿠폰 정보 2026.09.30  업데이트 grandopen0409",
+  "postCount": 5,
+  "updatedAt": "2026-09-30T05:39:35.339Z",
   "codes": [
+    {
+      "code": "devthx21",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-06-09",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    },
     {
       "code": "souleateridle",
       "reward": "",
