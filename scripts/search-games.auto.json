@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-09-30T14:25:29.998Z",
+  "generatedAt": "2026-09-30T19:39:04.711Z",
   "games": [
     {
       "slug": "tukiers-god-tier-life-idle-tycoon",
@@ -9,10 +9,10 @@
       "titleEn": "Tukiers God Tier Life Idle Tycoon"
     },
     {
-      "slug": "heartopia",
-      "loungeId": "Heartopia",
-      "titleKo": "두근두근타운",
-      "titleEn": "Heartopia"
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "romantic-gangho",
@@ -21,34 +21,10 @@
       "titleEn": "Romantic Gangho"
     },
     {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
-    },
-    {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights Endfield"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "plantis-zombie-gangsters",
-      "loungeId": "Plantis_Zombie_Gangsters",
-      "titleKo": "플랜티스와 좀비깡패",
-      "titleEn": "Plantis Zombie Gangsters"
-    },
-    {
-      "slug": "toysamguk",
-      "loungeId": "toysamguk",
-      "titleKo": "토이 삼국",
-      "titleEn": "Toysamguk"
+      "slug": "heartopia",
+      "loungeId": "Heartopia",
+      "titleKo": "두근두근타운",
+      "titleEn": "Heartopia"
     },
     {
       "slug": "watcher-of-realms",
@@ -57,10 +33,10 @@
       "titleEn": "Watcher Of Realms"
     },
     {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
     },
     {
       "slug": "heroes-tales2",
@@ -69,22 +45,28 @@
       "titleEn": "Heroes Tales2"
     },
     {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights Endfield"
     },
     {
-      "slug": "oops-tomb-raid",
-      "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
-      "titleEn": "Oops Tomb Raid"
+      "slug": "toysamguk",
+      "loungeId": "toysamguk",
+      "titleKo": "토이 삼국",
+      "titleEn": "Toysamguk"
     },
     {
-      "slug": "moeverse-live",
-      "loungeId": "MOEVERSE_LIVE",
-      "titleKo": "모에버스:라이브",
-      "titleEn": "Moeverse Live"
+      "slug": "forest-sigh-neverland",
+      "loungeId": "Forest_Sigh_Neverland",
+      "titleKo": "포레스트 사이: 네버랜드​",
+      "titleEn": "Forest Sigh Neverland"
+    },
+    {
+      "slug": "play-together",
+      "loungeId": "Play_Together",
+      "titleKo": "플레이투게더",
+      "titleEn": "Play Together"
     }
   ]
 }

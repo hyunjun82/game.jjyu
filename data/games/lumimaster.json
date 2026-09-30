@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/lumimaster/board/detail/8245691",
   "howTo": "",
   "postCount": 1,
-  "updatedAt": "2026-09-30T14:42:55.763Z",
+  "updatedAt": "2026-09-30T19:58:14.512Z",
   "codes": [
     {
       "code": "LUMIOL0917",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-26",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -27,37 +27,7 @@
       "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-26",
-      "status": "active"
-    },
-    {
-      "code": "GIFT100",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-18",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
-      "status": "active"
-    },
-    {
-      "code": "LUMIMASTER2026",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-18",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
-      "status": "active"
-    },
-    {
-      "code": "CATCHLUMI",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-18",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "HAPPYJUNE",
@@ -116,6 +86,36 @@
       "postedAt": "2026-09-17",
       "sourceUrl": "https://blog.naver.com/orin2611/224415411977",
       "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "GIFT100",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "LUMIMASTER2026",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-26",
+      "status": "expired"
+    },
+    {
+      "code": "CATCHLUMI",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224416545634",
+      "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-26",
       "status": "expired"
     }

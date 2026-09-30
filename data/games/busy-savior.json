@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8258655",
   "howTo": "1. 화면 중앙 우측 [더보기] 클릭 2. [설정] 버튼 클릭 3. [교환코드] 버튼 클릭 4. 교환코드 입력 후 확인 오늘 하루도 비지 세이비어와 함께 행복한 하루 되시길 바랍니다.",
   "postCount": 663,
-  "updatedAt": "2026-09-30T14:27:05.864Z",
+  "updatedAt": "2026-09-30T19:40:52.847Z",
   "codes": [
     {
       "code": "MAPLEWISH",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -34,16 +34,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "fall2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-16",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -52,7 +43,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -61,7 +52,7 @@
       "expiry": "2026-10-30",
       "postedAt": "2026-09-13",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -70,52 +61,7 @@
       "expiry": "2026-10-30",
       "postedAt": "2026-09-06",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "m2qy8kxr",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "z6nb1fqe",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-08-23",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "r9ct3hvg",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-08-16",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "p4xd7wla",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-08-09",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "k8mv2qzn",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-08-02",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -133,7 +79,16 @@
       "expiry": null,
       "postedAt": "2026-07-30",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "fall2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -142,7 +97,7 @@
       "expiry": null,
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -151,7 +106,7 @@
       "expiry": null,
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -160,7 +115,7 @@
       "expiry": null,
       "postedAt": "2026-07-15",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -169,7 +124,7 @@
       "expiry": null,
       "postedAt": "2026-06-29",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -182,12 +137,57 @@
       "status": "expired"
     },
     {
+      "code": "m2qy8kxr",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "z6nb1fqe",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-23",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "r9ct3hvg",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-16",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "p4xd7wla",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-09",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "k8mv2qzn",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-02",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
       "code": "t5gr9xvc",
       "reward": "",
       "expiry": "2026-08-31",
       "postedAt": "2026-07-26",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -196,7 +196,7 @@
       "expiry": "2026-08-31",
       "postedAt": "2026-07-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -205,7 +205,7 @@
       "expiry": "2026-08-15",
       "postedAt": "2026-07-12",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -214,7 +214,7 @@
       "expiry": "2026-08-15",
       "postedAt": "2026-07-05",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -223,7 +223,7 @@
       "expiry": "2026-07-31",
       "postedAt": "2026-06-28",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -232,7 +232,7 @@
       "expiry": "2026-07-31",
       "postedAt": "2026-06-21",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -241,7 +241,7 @@
       "expiry": "2026-07-15",
       "postedAt": "2026-06-14",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {

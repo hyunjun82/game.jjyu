@@ -8,24 +8,24 @@
   "sourceUrl": "https://game.naver.com/lounge/Wings_of_the_Goddess/board/detail/8061962",
   "howTo": "",
   "postCount": 46,
-  "updatedAt": "2026-09-30T14:41:24.800Z",
+  "updatedAt": "2026-09-30T19:56:35.109Z",
   "codes": [
-    {
-      "code": "AUG15X",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-08-15",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
     {
       "code": "7B4E1C9D6A",
       "reward": "",
       "expiry": "2026-06-30",
       "postedAt": "2026-05-03",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "AUG15X",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-15",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2026-06-30",
       "postedAt": "2026-04-15",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-03-31",
       "postedAt": "2026-03-15",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-03-31",
       "postedAt": "2026-02-15",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     }
   ]

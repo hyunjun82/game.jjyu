@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/This_is_Three_kingdoms/board/detail/8253049",
   "howTo": "",
   "postCount": 6,
-  "updatedAt": "2026-09-30T14:26:44.675Z",
+  "updatedAt": "2026-09-30T19:40:29.762Z",
   "codes": [
     {
       "code": "Fourthgold",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-09-28",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-07-10",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-07-10",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-07-10",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-09-14",
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     }
   ]

@@ -8,16 +8,97 @@
   "sourceUrl": "https://game.naver.com/lounge/Ragnarok_M_Classic/board/detail/8182950",
   "howTo": "- 선물 코드 사용 시 우편으로 지급된 보상은 14일 동안 보관됩니다. 기한 내에 받아 주시기 바랍니다. 마지막으로 이번 시즌컵의 보상을 함께 감상해 보시죠!",
   "postCount": 8,
-  "updatedAt": "2026-09-30T14:29:21.732Z",
+  "updatedAt": "2026-09-30T19:43:23.581Z",
   "codes": [
+    {
+      "code": "ROMCWELCOME",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "32ROMCPARTY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "16ROMCGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "8BAOPFWNE4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "6V6COUNTDOWN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "4OWTCFMA2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "2THEFINAL1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ROMCGOAL",
+      "reward": "",
+      "expiry": "2026-09-17",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "KPL716HA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
     {
       "code": "ROMCLOUNGE",
       "reward": "",
       "expiry": "2026-09-30",
       "postedAt": "2026-07-17",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "active"
+      "lastSeen": "2026-10-01",
+      "status": "expired"
     },
     {
       "code": "ROMCSTART",
@@ -25,8 +106,8 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-07-16",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "active"
+      "lastSeen": "2026-10-01",
+      "status": "expired"
     },
     {
       "code": "ROMCTHANKS",
@@ -34,8 +115,17 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-07-19",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "active"
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ROMCGOGOGO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-18",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
     },
     {
       "code": "ROMCGIFT",
@@ -45,7 +135,7 @@
       "postedAt": "2026-07-15",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-28",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "YQD156BC",
@@ -53,8 +143,8 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
+      "lastSeen": "2026-10-01",
+      "status": "expired"
     },
     {
       "code": "YQD312FL",
@@ -62,97 +152,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
-      "status": "active"
-    },
-    {
-      "code": "ROMCWELCOME",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "32ROMCPARTY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "16ROMCGIFT",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "8BAOPFWNE4",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "6V6COUNTDOWN",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "4OWTCFMA2",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "2THEFINAL1",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "ROMCGOAL",
-      "reward": "",
-      "expiry": "2026-09-17",
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "KPL716HA",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
-      "status": "expired"
-    },
-    {
-      "code": "ROMCGOGOGO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-07-18",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -161,7 +161,7 @@
       "expiry": "2026-08-31",
       "postedAt": "2026-07-16",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     },
     {
@@ -170,7 +170,7 @@
       "expiry": "2026-08-31",
       "postedAt": "2026-07-16",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "status": "expired"
     }
   ]

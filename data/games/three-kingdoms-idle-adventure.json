@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Three_kingdoms_Idle_Adventure/board/detail/8130729",
   "howTo": "🎁 특별 접속 보상 🎁 일자 (KST 기준) 보상 09.24(목) 15:00 장수 돌파석 x 2,000 + 위나라 특별 장수 선택권 x 1",
   "postCount": 1,
-  "updatedAt": "2026-09-30T14:37:09.296Z",
+  "updatedAt": "2026-09-30T19:51:54.212Z",
   "codes": [
     {
       "code": "FULLMOON",
@@ -17,7 +17,7 @@
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-09-30",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "2026SEPT",
@@ -25,8 +25,8 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-09-01",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-30",
-      "status": "active"
+      "lastSeen": "2026-10-01",
+      "status": "expired"
     }
   ]
 }
