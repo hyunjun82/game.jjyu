@@ -1,0 +1,77 @@
+{
+  "slug": "animals-garden",
+  "titleEn": "Animals Garden",
+  "titleKo": "애니멀 가든",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAzMjdfODgg/MDAxNzc0NTk3NTAzOTI0.yJ22B13q-0Wbjmi2Rs_QjKqbNPLfvAuM94v_12L5CIAg.RCjMH3m_xWH1jvjjn9TG17V3CuaBzuDGnBnxwapyhbcg.PNG/2.png",
+  "source": "naver-lounge",
+  "loungeId": "Animals_Garden",
+  "sourceUrl": "https://game.naver.com/lounge/Animals_Garden/board/detail/8237398",
+  "howTo": "보름달처럼 빛나는 즐거운 한가위 보내세요!",
+  "postCount": 7,
+  "updatedAt": "2026-09-30T08:04:39.226Z",
+  "codes": [
+    {
+      "code": "LUNA2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "active"
+    },
+    {
+      "code": "GIFT747",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-26",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    },
+    {
+      "code": "260512ERT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-12",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    },
+    {
+      "code": "Flower2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-22",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    },
+    {
+      "code": "WKND87",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-07",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMER7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-15",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    },
+    {
+      "code": "WEEKEND7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-27",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "status": "expired"
+    }
+  ]
+}
