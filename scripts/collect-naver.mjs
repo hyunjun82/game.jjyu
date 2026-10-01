@@ -182,7 +182,7 @@ function isSaneCode(c, labeled = false) {
  * 이벤트 시작일이나 점검일인 경우가 많아서 집으면 안 된다.
  * 기간이 "A부터 B까지"로 적히면 마지막에 걸린 B가 남는다.
  */
-const TAIL = String.raw`(?:\([^)]{0,6}\))?\s*(?:\d{1,2}\s*[:시]\s*\d{2}\s*분?)?\s*(?:\((?:UTC|KST)\))?\s*(?:까지|마감)`;
+const TAIL = String.raw`(?:\([^)]{0,6}\))?\s*(?:\d{1,2}\s*(?:[:시]\s*\d{2}\s*분?|시))?\s*(?:[(\[](?:UTC|KST)[)\]])?\s*(?:까지|마감)`;
 const RE_KO = new RegExp(String.raw`(?:(\d{4})\s*년\s*)?(\d{1,2})\s*월\s*(\d{1,2})\s*일\s*` + TAIL, 'g');
 const RE_SLASH = new RegExp(String.raw`(\d{2,4})\s*[./-]\s*(\d{1,2})\s*[./-]\s*(\d{1,2})\s*` + TAIL, 'g');
 
@@ -277,6 +277,21 @@ const RE_RANGE = new RegExp(String.raw`기간[^0-9\n]{0,6}(?:` + RE_DATE1 + Stri
  */
 const BULLET = /^(?:[^A-Za-z0-9가-힣]+|\d{1,2}[.)]\s)\s*/u;
 
+/**
+ * 제목에만 적힌 기한 — "잔망💗쿠폰[ZANMANGLOOPY](~11/30)" (에브리타운, 2026-10-01). 본문에 기한이 없을 때만 쓴다.
+ */
+function applyTitleExpiry(got, title, postISO) {
+  const m = String(title || '').match(/\(\s*[~～]\s*(\d{1,2})\s*[./]\s*(\d{1,2})\s*\)|[~～]\s*(\d{1,2})\s*[./월]\s*(\d{1,2})\s*일?\s*\)?\s*$/);
+  if (!m) return;
+  const base = postISO ? new Date(postISO + 'T00:00:00Z') : new Date();
+  const mon = Number(m[1] || m[3]), day = Number(m[2] || m[4]);
+  let year = base.getUTCFullYear();
+  if (mon < base.getUTCMonth() + 1 - 6) year += 1;
+  const v = iso(year, mon, day);
+  if (!v || (postISO && v < postISO)) return;
+  for (const c of got) if (!c.expiry) c.expiry = v;
+}
+
 /** 줄이 코드 한 개로만 이뤄졌으면 그 코드를, 아니면 빈 문자열을. 뒤에 괄호는 허용한다. */
 function tokenOf(line) {
   const m = line.match(/^([A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}|[A-Za-z0-9]{5,20})\s*(.*)$/);
@@ -284,6 +299,8 @@ function tokenOf(line) {
   const rest = m[2].trim();
   // 뒤에 괄호나 장식(<<, «, ✨)만 붙은 건 허용한다. "TOP 3 팀" 처럼 글자가 이어지면 버린다.
   if (rest && !/^[(（[]/.test(rest) && /^[A-Za-z0-9가-힣]/u.test(rest)) return '';
+  // "dicero.habby.com" — 교환 페이지 주소의 앞부분이 코드로 잡혔다(딸깍 다이스, 2026-10-02).
+  if (/^\.[A-Za-z]/.test(rest)) return '';
   return m[1];
 }
 
@@ -313,8 +330,9 @@ export function parseCodes(text, postISO) {
   };
 
   // (가) 인라인 — "쿠폰 코드: 311k93" / "쿠폰코드: FALLFEST ✨ 기간: 9.18 ~ 9.25" / "쿠폰 >> FIRSTSNOW2025 << 코드"
+  // "쿠폰: UPDATE261001" — 코드·번호 없이 "쿠폰:" 만 붙이는 발행처(광전사 키우기, 2026-10-01).
   const inlineOf = (line) => line.match(/(?:코드|번호|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i)
-    || line.match(/(?:코드|번호|CDK)\s*[:：]\s*([A-Za-z0-9]{5,20})(?![A-Za-z0-9])/i)
+    || line.match(/(?:코드|번호|CDK|쿠폰)\s*[:：]\s*([A-Za-z0-9]{5,20})(?![A-Za-z0-9])/i)
     || (LABEL_RE.test(line) && line.match(/(?:>>|»|【|「|\[)\s*([A-Za-z0-9]{5,20})\s*(?:<<|«|】|」|\])/));
   // "🎁：shuubun2026" — 선물 아이콘 뒤에 코드만 적는 발행처(에이펙스 걸스). 줄머리 기호를 떼기 전 원문으로 본다.
   for (const raw of text.split('\n')) {
@@ -608,6 +626,7 @@ export async function collectOne(g) {
       const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
       seenFeed.add(Number(item.feed.feedId));
       if (!got.length) continue;
+      applyTitleExpiry(got, title, iso);
       if (titleOnly) total += 1;
 
       // 본문에 만료일이 없으면 게임사가 이벤트에 적어 둔 종료일을 쓴다.
@@ -645,6 +664,7 @@ export async function collectOne(g) {
     const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
     const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
     if (!got.length) continue;
+    applyTitleExpiry(got, ent(item.feed.title || ''), iso);
     total += 1;
     applyEvent(got, feedId);
     if (!latest || (iso && iso > latest)) {
@@ -672,6 +692,7 @@ export async function collectOne(g) {
     const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
     const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
     if (!got.length) continue;
+    applyTitleExpiry(got, ent(item.feed.title || ''), iso);
     total += 1;
     applyEvent(got, feedId);
     if (!latest || (iso && iso > latest)) {
