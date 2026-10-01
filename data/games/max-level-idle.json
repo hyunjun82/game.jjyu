@@ -7,13 +7,22 @@
   "loungeId": "Max_Level_Idle",
   "sourceUrl": "https://game.naver.com/lounge/Max_Level_Idle/board/detail/8269927",
   "howTo": "",
-  "postCount": 104,
-  "updatedAt": "2026-10-01T09:16:17.323Z",
+  "postCount": 105,
+  "updatedAt": "2026-10-01T13:19:12.161Z",
   "codes": [
     {
       "code": "X4R7PN",
       "reward": "",
       "expiry": "2026-10-01",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "MAXTHANKYOU5",
+      "reward": "",
+      "expiry": null,
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T09:35:50.758Z",
+  "generatedAt": "2026-10-01T13:36:02.761Z",
   "today": "2026-10-01",
-  "todayNew": 239,
+  "todayNew": 242,
   "totals": {
     "games": 246,
-    "codes": 3475,
-    "active": 548,
+    "codes": 3478,
+    "active": 551,
     "expired": 2927,
-    "withExpiry": 2059
+    "withExpiry": 2061
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-01",
-      "count": 239
+      "count": 242
     }
   ],
   "expiringSoon": [
@@ -401,14 +401,14 @@
       "total": 16
     },
     {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 59
+    },
+    {
       "slug": "rogw-remains-of-gods",
       "active": 14,
       "total": 14
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 58
     },
     {
       "slug": "astro-defenders",
