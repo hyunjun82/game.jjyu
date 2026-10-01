@@ -2,14 +2,23 @@
   "slug": "doomsday-last-survivors-kr",
   "titleEn": "Doomsday: Last Survivors",
   "titleKo": "둠스데이: 라스트 서바이버",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDVfMzkg/MDAxNzg4NjAyODAyOTE1.mfOULFdhIhUIj-TcHVXOGvY9AmYR44SY1X-mZgrUlO8g.Yg-seFMOSktlXany3ThGkHnf0GHItkq34jhGNSPDiU4g.JPEG/%EA%B2%8C%EC%8B%9C%ED%8C%90_%EB%82%B4_%EB%9D%A0%EB%B0%B0%EB%84%88_GM%EB%85%B8%ED%8A%B8_900x230_(1).jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDFfMjY2/MDAxNzkwODE4MzAyNjU0.lq3kza8LkB3pOMGqNCUIo0SQ5LC_2DkIfK6gw9vzEugg.ipkVOvW7Q8Blpis6YKtHKMVVicVn2jiVxwAoqsUEbBEg.JPEG/DLS_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EB%82%B4_%EB%9D%A0%EB%B0%B0%EB%84%88_%EC%9D%B4%EB%B2%A4%ED%8A%B8_900x230.jpg",
   "source": "naver-lounge",
   "loungeId": "Doomsday_Last_Survivors",
-  "sourceUrl": "https://game.naver.com/lounge/Doomsday_Last_Survivors/board/detail/8155266",
+  "sourceUrl": "https://game.naver.com/lounge/Doomsday_Last_Survivors/board/detail/8269316",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-09-30T23:24:16.233Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-01T02:17:18.755Z",
   "codes": [
+    {
+      "code": "DLSBRIDE",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
     {
       "code": "DLSWORLDRECORD",
       "reward": "",

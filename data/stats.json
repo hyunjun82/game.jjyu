@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T23:47:02.064Z",
+  "generatedAt": "2026-10-01T02:41:46.048Z",
   "today": "2026-10-01",
-  "todayNew": 2,
+  "todayNew": 13,
   "totals": {
     "games": 240,
-    "codes": 3239,
-    "active": 512,
+    "codes": 3250,
+    "active": 523,
     "expired": 2727,
-    "withExpiry": 1872
+    "withExpiry": 1879
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-01",
-      "count": 2
+      "count": 13
     }
   ],
   "expiringSoon": [
@@ -397,8 +397,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 13,
-      "total": 13
+      "active": 14,
+      "total": 14
     },
     {
       "slug": "max-level-idle",

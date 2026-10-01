@@ -2,14 +2,23 @@
   "slug": "nba-basketball-world",
   "titleEn": "NBA Basketball World 2026",
   "titleKo": "NBA 바스켓볼 월드 2026",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MjJfMjA3/MDAxNzgyMDk4NjE5NjU3.dxUMIbi2mfoAIZZ6iEY1v3xLYtKnXghPsJWdbA_cDS8g.WeOY6nepHroQEXNcfpC3Syksp0_wSK1OMk7GRKJM1JQg.PNG/ChatGPT_Image_2026%EB%85%84_5%EC%9B%94_12%EC%9D%BC_%EC%98%A4%ED%9B%84_05_30_08_(3).png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA1MTFfMTY5/MDAxNzc4NDg2NDMwMjY3.8PTva8HV_yLyDQFGoiGbHzJWHIaXymbtNGNfHf3NUEMg.HXKD4NKM1YfoHKJuAZhIeoQsV-FTj2DnWYULfPkrlLAg.PNG/2.png",
   "source": "naver-lounge",
   "loungeId": "NBABW2026",
-  "sourceUrl": "https://game.naver.com/lounge/NBABW2026/board/detail/7831510",
+  "sourceUrl": "https://game.naver.com/lounge/NBABW2026/board/detail/8269283",
   "howTo": "게임 접속 후 활성화 코드 입력 메뉴 에서 쿠폰 코드를 입력하시면 보상을 수령하실 수 있습니다. ⚠️ 유의사항 쿠폰은 계정당 1회만 사용할 수 있습니다.",
-  "postCount": 3,
-  "updatedAt": "2026-09-30T23:30:49.030Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-01T02:24:30.705Z",
   "codes": [
+    {
+      "code": "2026TO2027",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
     {
       "code": "DRAGON26",
       "reward": "",

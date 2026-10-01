@@ -2,14 +2,23 @@
   "slug": "peachland",
   "titleEn": "Peachland",
   "titleKo": "산너머 도원마을",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMTAg/MDAxNzkwMDcyMDQwMzcx.6OrfnD-xfG8jfj3dlrRs7Baf_LPnvtKZphOrP28H8J0g.YE7l8kNL4-rMDmaQglpHzDf6b6oTbFdoqQh36XaRgIYg.PNG/0924%E4%B8%AD%E7%A7%8B%E8%AE%A1%E5%88%92%E5%85%91%E6%8D%A2%E7%A0%81.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMjY0/MDAxNzkwNTkxNzg3OTc1.bf-u82csgmDcut_x-WCKcrvhsggBOp8TZoWHOb4HHe8g.vGT8FgevXqCzxeHUyOYmExFcZSSo0DFMsr9GLuwUNDkg.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "peachland",
-  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8241383",
-  "howTo": "밝은 보름달처럼 마음까지 환해지는 연휴가 되길 바라며, 산민 여러분 모두 즐겁고 풍성한 추석 보내세요! 💛",
-  "postCount": 3,
-  "updatedAt": "2026-09-30T23:35:15.241Z",
+  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8269056",
+  "howTo": "선선한 가을바람과 함께 도원마을에서 여유롭고 행복한 10월 보내시길 바라며, 산민 여러분 모두 따뜻하고 풍성한 가을 보내세요! 🍁",
+  "postCount": 4,
+  "updatedAt": "2026-10-01T02:29:17.051Z",
   "codes": [
+    {
+      "code": "GIFT2026OCT",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
     {
       "code": "MOONGIFT",
       "reward": "",
