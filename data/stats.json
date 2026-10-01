@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T03:11:38.471Z",
+  "generatedAt": "2026-10-01T06:13:27.739Z",
   "today": "2026-10-01",
-  "todayNew": 227,
+  "todayNew": 235,
   "totals": {
-    "games": 245,
-    "codes": 3463,
-    "active": 544,
-    "expired": 2919,
-    "withExpiry": 2051
+    "games": 246,
+    "codes": 3471,
+    "active": 551,
+    "expired": 2920,
+    "withExpiry": 2055
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-01",
-      "count": 227
+      "count": 235
     }
   ],
   "expiringSoon": [
@@ -113,6 +113,12 @@
     {
       "slug": "lucky-plant-defense",
       "code": "26GOLDKOR2",
+      "expiry": "2026-10-01",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "X4R7PN",
       "expiry": "2026-10-01",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "br8fgf97",
       "expiry": "2026-10-05",
       "days": 4
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "BOOK752",
-      "expiry": "2026-10-05",
-      "days": 4
     }
   ],
   "topGames": [
@@ -386,14 +386,14 @@
       "total": 67
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 29
+    },
+    {
       "slug": "idle-berserker",
       "active": 15,
       "total": 45
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 28
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -407,8 +407,8 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 12,
-      "total": 57
+      "active": 13,
+      "total": 58
     },
     {
       "slug": "astro-defenders",
