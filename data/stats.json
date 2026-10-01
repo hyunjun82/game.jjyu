@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T06:13:27.739Z",
+  "generatedAt": "2026-10-01T09:35:50.758Z",
   "today": "2026-10-01",
-  "todayNew": 235,
+  "todayNew": 239,
   "totals": {
     "games": 246,
-    "codes": 3471,
-    "active": 551,
-    "expired": 2920,
-    "withExpiry": 2055
+    "codes": 3475,
+    "active": 548,
+    "expired": 2927,
+    "withExpiry": 2059
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-01",
-      "count": 235
+      "count": 239
     }
   ],
   "expiringSoon": [
@@ -431,11 +431,6 @@
       "total": 11
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 9,
-      "total": 23
-    },
-    {
       "slug": "sword-frontier",
       "active": 9,
       "total": 21
@@ -454,6 +449,11 @@
       "slug": "heartopia",
       "active": 7,
       "total": 7
+    },
+    {
+      "slug": "honkai-star-rail",
+      "active": 7,
+      "total": 23
     },
     {
       "slug": "horizon-walker",
