@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/dicerco/board/detail/8271712",
   "howTo": "",
   "postCount": 6,
-  "updatedAt": "2026-10-01T13:31:39.877Z",
+  "updatedAt": "2026-10-01T16:52:43.849Z",
   "codes": [
     {
       "code": "hioctober26",
@@ -16,7 +16,7 @@
       "expiry": "2026-10-08",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": "2026-10-01",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-01",
-      "status": "active"
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     },
     {
       "code": "update172",
@@ -34,7 +34,7 @@
       "expiry": "2026-09-01",
       "postedAt": "2026-08-18",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-06-25",
       "postedAt": "2026-06-18",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-05-01",
       "postedAt": "2026-04-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "status": "expired"
     }
   ]
