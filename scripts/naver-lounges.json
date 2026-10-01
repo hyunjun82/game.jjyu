@@ -1532,6 +1532,41 @@
       "titleKo": "애니멀 가든",
       "titleEn": "Animals Garden",
       "auto": "2026-09-30"
+    },
+    {
+      "slug": "sindorim-with-naver-webtoon",
+      "loungeId": "Sindorim_with_NAVER_WEBTOON",
+      "titleKo": "신도림 with NAVER WEBTOON",
+      "titleEn": "Sindorim With Naver Webtoon",
+      "auto": "2026-10-01"
+    },
+    {
+      "slug": "dark-angel-angel-advent",
+      "loungeId": "Dark_Angel_Angel_Advent",
+      "titleKo": "다크엔젤:천사 강림",
+      "titleEn": "Dark Angel Angel Advent",
+      "auto": "2026-10-01"
+    },
+    {
+      "slug": "saintess",
+      "loungeId": "saintess",
+      "titleKo": "성녀 키우기",
+      "titleEn": "Saintess",
+      "auto": "2026-10-01"
+    },
+    {
+      "slug": "mir2-winner-is-the-king",
+      "loungeId": "MIR2Winner_is_the_King",
+      "titleKo": "미르의 전설: 승자위왕",
+      "titleEn": "Mir2 Winner Is The King",
+      "auto": "2026-10-01"
+    },
+    {
+      "slug": "exile-avenging-fire",
+      "loungeId": "Exile_Avenging_Fire",
+      "titleKo": "베놈: 다크 벤전스",
+      "titleEn": "Exile Avenging Fire",
+      "auto": "2026-10-01"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

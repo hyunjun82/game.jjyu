@@ -192,16 +192,16 @@ const iso = (y, mo, dy) =>
     : null;
 
 /** @param allowRange "기간: A ~ B" 표기를 받을지. 줄 단위로만 켠다 — 글 전체에서 집으면 다른 이벤트 기간이 섞인다. */
-function parseExpiry(text, postISO, allowRange = false) {
+function parseExpiry(text, postISO, allowRange = false, labelOnly = false) {
   // 글이 올라온 해를 기준으로 삼는다. 오늘 기준으로 잡으면 6월 글의 "7월 3일"이 내년으로 튄다.
   const base = postISO ? new Date(postISO + 'T00:00:00Z') : new Date();
   let last = null;
 
-  for (const m of text.matchAll(RE_SLASH)) {
+  for (const m of labelOnly ? [] : text.matchAll(RE_SLASH)) {
     let y = Number(m[1]); if (y < 100) y += 2000;
     last = iso(y, Number(m[2]), Number(m[3])) || last;
   }
-  for (const m of text.matchAll(RE_KO)) {
+  for (const m of labelOnly ? [] : text.matchAll(RE_KO)) {
     const mon = Number(m[2]), day = Number(m[3]);
     let year = m[1] ? Number(m[1]) : base.getUTCFullYear();
     // 12월 글에 "1월 5일"처럼 해를 넘기는 표기만 +1 한다
@@ -215,7 +215,7 @@ function parseExpiry(text, postISO, allowRange = false) {
   // 사용 가능으로 남았다(2026-09-23 검수).
   // 라벨 바로 앞 40자 안에 쿠폰·코드가 있어야 한다 — "아이템 사용 기간: 2026년 12월 13일" 같은 보상 아이템의
   // 기한을 코드 만료일로 집어 2025년 크리스마스 코드가 사용 가능으로 남았다(묵혼, 2026-09-28).
-  const labY = [...text.matchAll(/(?:사용\s*기한|사용\s*기간|유효\s*기간|만료\s*(?:시간|일자|일)|종료\s*(?:시간|일시|일))\s*[:：]?\s*([^\n]{0,60})/g)]
+  const labY = [...text.matchAll(/(?:사용\s*기한|사용\s*기간|유효\s*기간|수령\s*기간|만료\s*(?:시간|일자|일)|종료\s*(?:시간|일시|일)|마감\s*일)\s*[:：]?\s*([^\n]{0,60})/g)]
     .find((m) => /쿠폰|코드/.test(text.slice(Math.max(0, m.index - 40), m.index)));
   if (labY) {
     const seg = labY[1];
@@ -230,7 +230,7 @@ function parseExpiry(text, postISO, allowRange = false) {
   // "유효 기간: ~ 9월 11일", "만료 시간 - [9/5 04:59]" 처럼 까지가 없는 표기는 라벨로 받는다.
   // "유효 기간:9월 25일~10월 1일" 처럼 범위면 물결 뒤 끝날을 쓴다(첫 날짜를 집어 원죄·영혼 인도자 MOON777 이
   // 첫날 만료로 떨어졌다, 2026-09-28).
-  const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일))[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})\s*일?\s*(?:\([^)]{0,3}\))?(?:[^~～\n]{0,12}[~～-]\s*(\d{1,2})\s*[월/.]\s*(\d{1,2}))?/);
+  const lab = text.match(/(?:유효\s*기간|만료\s*(?:시간|일자|일)|마감\s*일)[^0-9]{0,12}(\d{1,2})\s*[월/.]\s*(\d{1,2})\s*일?\s*(?:\([^)]{0,3}\))?(?:[^~～\n]{0,12}[~～-]\s*(\d{1,2})\s*[월/.]\s*(\d{1,2}))?/);
   if (lab) {
     const mon = Number(lab[3] || lab[1]), day = Number(lab[4] || lab[2]);
     let year = base.getUTCFullYear();
@@ -288,20 +288,27 @@ function tokenOf(line) {
 }
 
 export function parseCodes(text, postISO) {
+  // 메일 주소의 앞부분("ryonggame2@gmail.com")이 코드로 잡혔다(소울 헌터 키우기, 2026-10-01). 주소는 통째로 지운다.
+  // 퀴즈 정답을 끼워 넣어야 완성되는 코드("1574-(정답1)ab0d4d51-1")는 그대로 쓸 수 없는 반쪽이라 줄째 버린다(삼국지 오리진).
+  text = String(text || '').replace(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g, ' ').replace(/[^\n]*\n?[^\S\n]*\((?:정답|답)\s*\d*\)[^\S\n]*\n?[^\n]*/g, ' ');
   const lines = text.split('\n').map((s) => s.trim().replace(BULLET, '').trim()).filter(Boolean);
   const labelAt = lines.map((l) => LABEL_RE.test(l));
   const codeAt = lines.map((l) => { const t = tokenOf(l); return !!t && isSaneCode(t); });
   // 글 전체에서 뽑은 만료일은 "까지" 날짜가 하나뿐일 때만 믿는다. 이벤트 공지 하나에 컬렉션·아이템 기한이 여럿
   // 섞이면 엉뚱한 날짜가 코드 만료일이 된다(묵혼 XMAS2025 가 컬렉션 기한 2026-12-13 을 물려받아 사용 가능으로 남음).
   const untilDates = new Set([...text.matchAll(RE_KO)].map((m) => m[0]).concat([...text.matchAll(RE_SLASH)].map((m) => m[0])));
-  const postExpiry = untilDates.size <= 1 ? parseExpiry(text, postISO) : null;
+  // "까지" 날짜가 여럿이어도 "쿠폰 사용 기간: 발급일 ~ 2026년 10월 31일" 처럼 쿠폰·코드 라벨이 붙은 기한은 코드의 것이다(열혈강호: 화룡전).
+  const postExpiry = untilDates.size <= 1 ? parseExpiry(text, postISO) : parseExpiry(text, postISO, false, true);
   const found = new Map();
 
   const push = (code, expiry, labeled = false) => {
     if (!isSaneCode(code, labeled)) return;
     const key = code.toUpperCase();
     if (!found.has(key)) {
-      found.set(key, { code, reward: '', expiry: expiry || postExpiry, postedAt: postISO || null });
+      let exp = expiry || postExpiry;
+      // 글보다 앞선 만료일은 발행처 오타다("마감일: 2025.10.13" — 2026-09-25 추석 글, 추억의 잡화점). 믿지 않는다.
+      if (exp && postISO && exp < postISO) exp = null;
+      found.set(key, { code, reward: '', expiry: exp, postedAt: postISO || null });
     }
   };
 
@@ -376,22 +383,31 @@ export function parseCodes(text, postISO) {
   //   7MQ3ZK  / 09월 21일 / 09월 22일 / 골드 / ...        ← 값 줄들
   // 이러면 코드와 "쿠폰코드" 라벨이 15줄까지 벌어져 ±3줄 규칙에 안 걸린다(나 혼자 만렙 키우기 실측).
   // 헤더 개수만큼 칸을 세어 값 줄을 맞추면 코드도 종료일도 정확히 집힌다. 행이 여러 개면 계속 읽는다.
-  const CODE_LABEL = /^(?:쿠폰\s*(?:코드|명|번호)|코드|교환\s*코드|기프트\s*코드)$/;
+  const CODE_LABEL = /^(?:쿠폰\s*(?:코드|명|번호)|코드|교환\s*코드|선물\s*코드|기프트\s*코드)$/;
   const END_LABEL = /종료|만료|사용\s*기한|유효/;
   const HEADER_CELL = /^.{1,14}$/;
+  // 코드 칸 자리에 온 값은 "GXGGSalome", "FirethiefGoddess" 처럼 대소문자 섞인 영문만이어도 코드다 — 헤더가 라벨 구실을 한다.
+  // 이걸 못 받아 그놈은 드래곤 코드 2개를 놓쳤다(2026-10-01 검수).
+  const cellCode = (k) => codeAt[k] || (/^[A-Za-z0-9]{5,20}$/.test(lines[k]) && isSaneCode(lines[k], true));
   for (let i = 0; i < lines.length; i++) {
     if (!CODE_LABEL.test(lines[i])) continue;
     let j = i + 1;
-    while (j < lines.length && HEADER_CELL.test(lines[j]) && !codeAt[j] && !/^(?:20\d{2}|\d{1,2})\s*[.년/]/.test(lines[j])) j++;
+    while (j < lines.length && HEADER_CELL.test(lines[j]) && !cellCode(j) && !/^(?:20\d{2}|\d{1,2})\s*[.년/]/.test(lines[j])) j++;
     const width = j - i;
-    if (width < 2 || !codeAt[j]) continue;                 // 표가 아니거나 첫 값이 코드가 아니면 버린다
+    // 헤더 밑에 붙은 괄호 주석("(시작일 UTC00:00~종료일UTC11:59)")은 칸이 아니다(신도림 with NAVER WEBTOON).
+    while (j < lines.length && /^[(（]?[^()（）]*[)）]$/.test(lines[j])) j++;   // 줄머리 기호 제거로 여는 괄호가 떨어져 있다
+    if (width < 2 || !cellCode(j)) continue;               // 표가 아니거나 첫 값이 코드가 아니면 버린다
     const headers = lines.slice(i, j);
     const endAt = headers.findIndex((h) => END_LABEL.test(h));
-    for (let row = j; row + width <= lines.length && codeAt[row]; row += width) {
+    for (let row = j; row + width <= lines.length && cellCode(row); row += width) {
       const cells = lines.slice(row, row + width);
       let exp = null;
       if (endAt > 0) exp = parseExpiry(cells[endAt] + ' 까지', postISO) || parseExpiry(cells[endAt], postISO, true);
-      push(tokenOf(cells[0]), exp);
+      const code = tokenOf(cells[0]);
+      push(code, exp, true);
+      // 앞 규칙이 같은 코드를 만료일 없이 먼저 넣었으면 표의 종료일 칸으로 채운다.
+      const prev = found.get(code.toUpperCase());
+      if (prev && !prev.expiry && exp && !(postISO && exp < postISO)) prev.expiry = exp;
     }
   }
   return [...found.values()];

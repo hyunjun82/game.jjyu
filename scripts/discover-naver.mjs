@@ -125,7 +125,19 @@ async function probe(loungeId, name, today) {
   await sleep(300);
   if (r.error) return { g, error: r.error };
   const live = liveCount(r.codes, today);
-  return { g, live, total: r.codes.length };
+  const last = r.codes.map((c) => c.postedAt).filter(Boolean).sort().at(-1) || null;
+  return { g, live, total: r.codes.length, last };
+}
+
+/**
+ * 지금 살아 있는 코드가 없어도 넣을 라운지 — 코드를 3개 이상 냈고 마지막 코드가 45일 안이면 꾸준히 내는 곳이다.
+ * 월간 쿠폰만 내는 곳은 달이 바뀌는 사이에 순회하면 "전부 만료"로 보류돼 다음 달 코드를 놓쳤다
+ * (신도림 with NAVER WEBTOON: 코드 28개, 2026-10-01 새 쿠폰이 자동 수집에서 빠짐).
+ */
+const RECENT_DAYS = 45;
+function keepable(r, today) {
+  if (r.live) return true;
+  return r.total >= 3 && !!r.last && (Date.parse(today) - Date.parse(r.last)) / 86400000 <= RECENT_DAYS;
 }
 
 function loadSweep() {
@@ -252,7 +264,7 @@ async function main() {
     const r = await probe(c.loungeId, c.name, today);
     mark(c.loungeId, r);
     if (r.error) { console.log(`  - ${c.name} (${c.loungeId}): ${r.error}`); continue; }
-    if (!r.live) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+    if (!keepable(r, today)) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
     added.push(r.g); known.add(c.loungeId.toLowerCase());
     console.log(`  + ${c.name} (${c.loungeId}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 근거: ${c.titles[0].slice(0, 50)}`);
   }
@@ -266,7 +278,7 @@ async function main() {
       const r = await probe(id, names.get(id) || id, today);
       mark(id, r);
       if (r.error) { console.log(`  - ${id}: ${r.error}`); continue; }
-      if (!r.live) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+      if (!keepable(r, today)) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
       added.push(r.g); known.add(id.toLowerCase());
       console.log(`  + ${r.g.titleKo} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 지정 확인`);
     }
@@ -283,7 +295,7 @@ async function main() {
       const r = await probe(id, name, today);
       mark(id, r);
       n++;
-      if (r.error || !r.live) continue;
+      if (r.error || !keepable(r, today)) continue;
       added.push(r.g); known.add(id.toLowerCase());
       console.log(`  + ${cleanName(name)} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 순회에서 발견`);
     }
