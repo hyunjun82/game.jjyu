@@ -1,0 +1,284 @@
+{
+  "slug": "sindorim-with-naver-webtoon",
+  "titleEn": "Sindorim With Naver Webtoon",
+  "titleKo": "신도림 with NAVER WEBTOON",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAxMTlfMTY0/MDAxNzY4ODAxODA3OTEw.4X-jEZPd0B6pmHwJqv5mFE1iCRidHzcAMyxgYwwfr_Mg.5FaXV98EHPuTPx5QP-PuZuXNpLxzxmYjQ4X8Wb1KC0og.PNG/%EA%B3%B5%ED%86%B5%EC%BF%A0%ED%8F%B0%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%8C%8C%EB%9E%91.png",
+  "source": "naver-lounge",
+  "loungeId": "Sindorim_with_NAVER_WEBTOON",
+  "sourceUrl": "https://game.naver.com/lounge/Sindorim_with_NAVER_WEBTOON/board/detail/8269052",
+  "howTo": "",
+  "postCount": 15,
+  "updatedAt": "2026-10-01T03:06:49.939Z",
+  "codes": [
+    {
+      "code": "DIA2610",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "TICKET2610",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "DIA2609",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2609",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2608",
+      "reward": "",
+      "expiry": "2026-08-30",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2608",
+      "reward": "",
+      "expiry": "2026-08-30",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2607",
+      "reward": "",
+      "expiry": "2026-07-30",
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2607",
+      "reward": "",
+      "expiry": "2026-07-30",
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2606",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2606",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2605",
+      "reward": "",
+      "expiry": "2026-05-30",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2605",
+      "reward": "",
+      "expiry": "2026-05-30",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2604",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2604",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2603",
+      "reward": "",
+      "expiry": "2026-03-30",
+      "postedAt": "2026-03-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2603",
+      "reward": "",
+      "expiry": "2026-03-30",
+      "postedAt": "2026-03-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2602",
+      "reward": "",
+      "expiry": "2026-02-27",
+      "postedAt": "2026-02-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2602",
+      "reward": "",
+      "expiry": "2026-02-27",
+      "postedAt": "2026-02-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2601",
+      "reward": "",
+      "expiry": "2026-01-30",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2601",
+      "reward": "",
+      "expiry": "2026-01-30",
+      "postedAt": "2026-01-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2512",
+      "reward": "",
+      "expiry": "2025-12-30",
+      "postedAt": "2025-12-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2512",
+      "reward": "",
+      "expiry": "2025-12-30",
+      "postedAt": "2025-12-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2511",
+      "reward": "",
+      "expiry": "2025-11-30",
+      "postedAt": "2025-11-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2511",
+      "reward": "",
+      "expiry": "2025-11-30",
+      "postedAt": "2025-11-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2510",
+      "reward": "",
+      "expiry": "2025-10-30",
+      "postedAt": "2025-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2510",
+      "reward": "",
+      "expiry": "2025-10-30",
+      "postedAt": "2025-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2509",
+      "reward": "",
+      "expiry": "2025-09-30",
+      "postedAt": "2025-09-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2509",
+      "reward": "",
+      "expiry": "2025-09-30",
+      "postedAt": "2025-09-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "DIA2508",
+      "reward": "",
+      "expiry": "2025-08-30",
+      "postedAt": "2025-08-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "TICKET2508",
+      "reward": "",
+      "expiry": "2025-08-30",
+      "postedAt": "2025-08-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    }
+  ]
+}

@@ -2,18 +2,27 @@
   "slug": "top-heroes",
   "titleEn": "Top Heroes",
   "titleKo": "탑 히어로즈",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjAzMDVfMjcw/MDAxNzcyNzA0NzM5NzAz.Z3HKQuBGuO3Q0UTdnmruMZbBC1jS3HLiGfKKuB0vdTMg.QuZfCyQVut23jJOZrXM9eggHBkQ0ZZH_i2NU2n7XtLog.PNG/%EA%B3%B5%EC%A7%80.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA0MjFfMjUy/MDAxNzc2NzQzMTY1NDE2.1eOEJnvgFYwFsoUeWVPy0TkCaVm2WQL__vDJUqo-hogg.yIVdU2Mb3Za_tPO1hH0YQP51_BOt03k6Mg_MDhl-eYsg.PNG/%EB%B6%84%EC%9F%81%EC%9D%98_%EC%8B%9C%EB%8C%80.png",
   "source": "naver-lounge",
   "loungeId": "Top_Heroes",
   "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/8244496",
   "howTo": "",
-  "postCount": 23,
-  "updatedAt": "2026-10-01T02:20:33.041Z",
+  "postCount": 25,
+  "updatedAt": "2026-10-01T02:50:06.022Z",
   "codes": [
+    {
+      "code": "LandofStrife",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-04-21",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
     {
       "code": "GB333955463E",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-10-01",
       "postedAt": "2026-09-26",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -22,17 +31,8 @@
     {
       "code": "GBA0A5C5C8",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-10-02",
       "postedAt": "2026-09-26",
-      "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-01",
-      "status": "active"
-    },
-    {
-      "code": "GB90C904EB",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-18",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
       "status": "active"
@@ -56,9 +56,27 @@
       "status": "active"
     },
     {
+      "code": "MysteryGB",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-23",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "GB90C904EB",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
       "code": "GB5926056F7",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-18",
       "postedAt": "2026-09-12",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -67,7 +85,7 @@
     {
       "code": "GBBF4DA191",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-11",
       "postedAt": "2026-09-05",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -76,7 +94,7 @@
     {
       "code": "GBF348DFAB8",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-05",
       "postedAt": "2026-08-29",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -85,7 +103,7 @@
     {
       "code": "GB833A225E9A",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-29",
       "postedAt": "2026-08-22",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -94,7 +112,7 @@
     {
       "code": "GB3414BFEC5",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-22",
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -103,7 +121,7 @@
     {
       "code": "GB79DEF53FF",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-13",
       "postedAt": "2026-08-08",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -112,7 +130,7 @@
     {
       "code": "B5F0ED2AC1",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-08",
       "postedAt": "2026-07-25",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -220,7 +238,7 @@
     {
       "code": "699B50CC48",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-01",
       "postedAt": "2026-07-18",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",

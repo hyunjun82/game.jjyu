@@ -2,13 +2,13 @@
   "slug": "tkic",
   "titleEn": "Tkic",
   "titleKo": "삼국블레이드 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTEyMjZfNDUg/MDAxNzY2NzM1NzI5OTMy.HcYTdXSnoWnSaV_pH0oP_EpeUrPiJQO4QxOOUK5Ha80g.4E52-Tn2Fuerh_0wTTciJGC8gSBg7W-3mn5zkGwkR6Ug.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%93%A8%ED%84%B0.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAzMTNfMjQ3/MDAxNzczMzk2MTU5NzI3.9-ewQT0-lrm0pGpm5NTyPrujLYITK4Y4ISN6b-NdGowg.5T-8hFhSUQdw5cp7s7qH4yDRy3i575gwmCeVMmUjZpQg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%93%A8%ED%84%B0.png",
   "source": "naver-lounge",
   "loungeId": "tkic",
-  "sourceUrl": "https://game.naver.com/lounge/tkic/board/detail/7111076",
+  "sourceUrl": "https://game.naver.com/lounge/tkic/board/detail/7409696",
   "howTo": "- 쿠폰 등록 페이지에서 등록하기 : 쿠폰 등록 페이지",
   "postCount": 10,
-  "updatedAt": "2026-10-01T02:28:51.089Z",
+  "updatedAt": "2026-10-01T02:58:14.243Z",
   "codes": [
     {
       "code": "XmasWithSBL1",
@@ -27,6 +27,24 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-01",
       "status": "active"
+    },
+    {
+      "code": "SweetCandy",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "SweetChowa",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-12",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
     },
     {
       "code": "SSORRYLORD",

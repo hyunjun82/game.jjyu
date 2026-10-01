@@ -8,12 +8,12 @@
   "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8269054",
   "howTo": "",
   "postCount": 13,
-  "updatedAt": "2026-10-01T02:35:38.521Z",
+  "updatedAt": "2026-10-01T03:04:57.027Z",
   "codes": [
     {
       "code": "101ENVOY",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-10-07",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01",
@@ -22,7 +22,7 @@
     {
       "code": "AUTUMN2026",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -31,7 +31,7 @@
     {
       "code": "BLESSING26",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2026-09-26",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -40,7 +40,7 @@
     {
       "code": "FULLMOON26",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -49,8 +49,17 @@
     {
       "code": "CHUSEOK26",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-12-31",
       "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "HALFANNIVTY",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-08-05",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
       "status": "active"
@@ -58,7 +67,7 @@
     {
       "code": "THXLOVEU",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-09-09",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -67,7 +76,7 @@
     {
       "code": "STARLIGHT",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-09-08",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -76,17 +85,8 @@
     {
       "code": "FLAMEGIFT",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-30",
       "postedAt": "2026-09-07",
-      "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-01",
-      "status": "expired"
-    },
-    {
-      "code": "HALFANNIVTY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-05",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
       "status": "expired"

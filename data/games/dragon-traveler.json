@@ -5,15 +5,501 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTJfMTg1/MDAxNzgxMjM0MjcxODUz.4dbOlDOC-f9nVnTRHuyNyDssYyaZ5IwqVnugx4kIm_gg.P1PG42OeL64P0Gsgar4vElDuXIjcaUNNYlLbafM-mkIg.PNG/2_%EB%8C%80%ED%91%9C_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Dragon_Traveler",
-  "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8188534",
+  "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8264203",
   "howTo": "",
-  "postCount": 16,
-  "updatedAt": "2026-10-01T02:35:28.329Z",
+  "postCount": 65,
+  "updatedAt": "2026-10-01T03:04:46.763Z",
   "codes": [
+    {
+      "code": "GXGGSalome",
+      "reward": "",
+      "expiry": "2026-11-07",
+      "postedAt": "2026-09-29",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "GXGGlsmwlbm",
+      "reward": "",
+      "expiry": "2026-10-06",
+      "postedAt": "2026-08-18",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "FirethiefGoddess",
+      "reward": "",
+      "expiry": "2026-11-07",
+      "postedAt": "2026-09-30",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "DancerSLM",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "LilithLLS",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "RinLBM",
+      "reward": "",
+      "expiry": "2026-10-06",
+      "postedAt": "2026-08-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "Salome",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "BZGoldenNight",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "JSNCArtemis",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "CTNFLilith",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-08",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "Fortunebringer",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-06",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "XJZMGullveig",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "GoldenNight",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "Prometheus",
+      "reward": "",
+      "expiry": "2026-10-06",
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "RinPFSX",
+      "reward": "",
+      "expiry": "2026-10-06",
+      "postedAt": "2026-08-25",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "DHZSPLMXS",
+      "reward": "",
+      "expiry": "2026-10-06",
+      "postedAt": "2026-08-30",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "BUFFetBZ88",
+      "reward": "",
+      "expiry": "2026-10-06",
+      "postedAt": "2026-08-20",
+      "firstSeen": "2026-09-28",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "LBMMNBY",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "GXGGMNBBLB",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-01",
+      "status": "active"
+    },
+    {
+      "code": "BUFFet",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ChaosWarlord",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-10",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "YuZaoQian",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-26",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Artemis",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-20",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "StarlightWitch",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "GiantofWisdom",
+      "reward": "",
+      "expiry": "2026-08-09",
+      "postedAt": "2026-06-29",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ThunderGoddess",
+      "reward": "",
+      "expiry": "2026-07-26",
+      "postedAt": "2026-06-08",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Xuanwu",
+      "reward": "",
+      "expiry": "2026-07-05",
+      "postedAt": "2026-05-28",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Asmodeus",
+      "reward": "",
+      "expiry": "2026-07-05",
+      "postedAt": "2026-05-18",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "SpimoLiBao",
+      "reward": "",
+      "expiry": "2026-06-16",
+      "postedAt": "2026-05-04",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "LuoJiDengC",
+      "reward": "",
+      "expiry": "2026-05-25",
+      "postedAt": "2026-04-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "KaiXPrincess",
+      "reward": "",
+      "expiry": "2026-05-25",
+      "postedAt": "2026-04-19",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ZhuQue",
+      "reward": "",
+      "expiry": "2026-05-22",
+      "postedAt": "2026-04-05",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Zagreus",
+      "reward": "",
+      "expiry": "2026-05-07",
+      "postedAt": "2026-03-23",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "HeartthrobVenus",
+      "reward": "",
+      "expiry": "2026-04-02",
+      "postedAt": "2026-03-17",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Pompey",
+      "reward": "",
+      "expiry": "2026-03-09",
+      "postedAt": "2026-02-22",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "QingLong",
+      "reward": "",
+      "expiry": "2026-02-22",
+      "postedAt": "2026-02-09",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Apollo",
+      "reward": "",
+      "expiry": "2026-02-22",
+      "postedAt": "2026-01-30",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Hitomi",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-11",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "CosVns",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "CosVVA",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-06",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "CosIfrit",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-04",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "CosYuZaoQ",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-08-03",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "BUFFetVideo",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-30",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "BUFFetVenus",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-29",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "BUFFetVivienne",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-28",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "FoxEnchantress",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Flamefiend",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-25",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ShenBMH",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-15",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "Morgana",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "SwimsuitCOS",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "SummerFestival",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-08",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "VolleyballGirl",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-07-06",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "BeachAngel",
+      "reward": "",
+      "expiry": "2026-08-09",
+      "postedAt": "2026-07-05",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "FenrirLbm",
+      "reward": "",
+      "expiry": "2026-08-09",
+      "postedAt": "2026-07-04",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
     {
       "code": "Jing312",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-02",
       "postedAt": "2026-03-09",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -47,27 +533,9 @@
       "status": "expired"
     },
     {
-      "code": "DHZSPLMXS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-30",
-      "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-01",
-      "status": "expired"
-    },
-    {
-      "code": "BUFFetBZ88",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-20",
-      "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-01",
-      "status": "expired"
-    },
-    {
       "code": "HALFVOYAGE",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-23",
       "postedAt": "2026-07-13",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-01",
@@ -76,7 +544,7 @@
     {
       "code": "GOGOAL2026",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-01",
       "postedAt": "2026-06-12",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
@@ -85,35 +553,8 @@
     {
       "code": "YAYKOREA",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-11",
       "postedAt": "2026-03-10",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-01",
-      "status": "expired"
-    },
-    {
-      "code": "WIN4KOR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-03-06",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-01",
-      "status": "expired"
-    },
-    {
-      "code": "LBMMNBY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-14",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-01",
-      "status": "expired"
-    },
-    {
-      "code": "GXGGMNBBLB",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-01",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
       "status": "expired"
@@ -121,7 +562,7 @@
     {
       "code": "GXGGYLNS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-06",
       "postedAt": "2026-07-21",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
@@ -130,7 +571,7 @@
     {
       "code": "GXGGBZNQ",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-21",
       "postedAt": "2026-07-07",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
@@ -139,7 +580,7 @@
     {
       "code": "BZNFLHD",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-09",
       "postedAt": "2026-07-01",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
@@ -148,7 +589,7 @@
     {
       "code": "HAPPY0505DT",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-05-12",
       "postedAt": "2026-05-05",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
@@ -159,6 +600,15 @@
       "reward": "",
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "WIN4KOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-06",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-01",
       "status": "expired"

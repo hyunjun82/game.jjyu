@@ -1,0 +1,554 @@
+{
+  "slug": "saintess",
+  "titleEn": "Saintess",
+  "titleKo": "성녀 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjZfMjQ0/MDAxNzg3NzE1OTg1MjAy.0JcL5zkII26RzDbmtiREKm2rjXhVQE7XOQhXOuIMeakg.qR7rGCTQ9lL5QwjaG96F59J6-v_S5_tFyMA-qKPIUCQg.JPEG/home_banner_04_coupon_300x300.jpg",
+  "source": "naver-lounge",
+  "loungeId": "saintess",
+  "sourceUrl": "https://game.naver.com/lounge/saintess/board/detail/8105090",
+  "howTo": "",
+  "postCount": 33,
+  "updatedAt": "2026-10-01T03:07:07.430Z",
+  "codes": [
+    {
+      "code": "2yearswithyou",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-26",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "fsdq1259",
+      "reward": "",
+      "expiry": "2026-08-20",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "dfg4357",
+      "reward": "",
+      "expiry": "2026-05-10",
+      "postedAt": "2026-04-08",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "iemnc912",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "dnu3490",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "vai1029",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "aneu5738",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "aben1204",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "jkhg9457",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "cdw5785",
+      "reward": "",
+      "expiry": "2026-01-15",
+      "postedAt": "2026-01-05",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "meci5940",
+      "reward": "",
+      "expiry": "2026-02-01",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "featured2025",
+      "reward": "",
+      "expiry": "2026-02-01",
+      "postedAt": "2025-12-11",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "hndu2497",
+      "reward": "",
+      "expiry": "2025-11-20",
+      "postedAt": "2025-11-13",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "nryh4827",
+      "reward": "",
+      "expiry": "2025-12-01",
+      "postedAt": "2025-11-07",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ndj1982",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "uvn7868",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "rbd7842",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "cfk1092",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "qwek5903",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "qeb9084",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "rbhd4873",
+      "reward": "",
+      "expiry": "2025-10-09",
+      "postedAt": "2025-10-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "rncu5847",
+      "reward": "",
+      "expiry": "2025-08-25",
+      "postedAt": "2025-08-15",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "tnfx5929",
+      "reward": "",
+      "expiry": "2025-06-30",
+      "postedAt": "2025-06-05",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "tnf5831",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-05-19",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "fac4912",
+      "reward": "",
+      "expiry": "2025-05-06",
+      "postedAt": "2025-05-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "vjf6941",
+      "reward": "",
+      "expiry": "2025-05-06",
+      "postedAt": "2025-05-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "tjg7953",
+      "reward": "",
+      "expiry": "2025-05-06",
+      "postedAt": "2025-05-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "eas1532",
+      "reward": "",
+      "expiry": "2025-05-06",
+      "postedAt": "2025-05-02",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "tr5392",
+      "reward": "",
+      "expiry": "2025-05-01",
+      "postedAt": "2025-04-17",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "tb534",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-03-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "NEWGM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-03-04",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "qd15da9",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "afc932ds",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "vvs93kd9",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "dfpw93",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "fzdk23",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "ald903",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "blf94kd",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "dkj293a",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "l9ds02da",
+      "reward": "",
+      "expiry": "2025-02-02",
+      "postedAt": "2025-01-24",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "D-5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24dt53",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "D-4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24dt4yz",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "D-3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24dk3pc",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "D-2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24dw2qm",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "D-1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "byebye24",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "NEW2025",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-27",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "100DAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-12-03",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "BINGO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-26",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "STATUE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-21",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24C7T",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24CFB36",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24C779",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24CM74",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "24CWP99",
+      "reward": "",
+      "expiry": "2024-09-23",
+      "postedAt": "2024-09-14",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOME",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-07",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01",
+      "status": "expired"
+    }
+  ]
+}

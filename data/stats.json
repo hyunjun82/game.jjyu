@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T02:41:46.048Z",
+  "generatedAt": "2026-10-01T03:11:38.471Z",
   "today": "2026-10-01",
-  "todayNew": 13,
+  "todayNew": 227,
   "totals": {
-    "games": 240,
-    "codes": 3250,
-    "active": 523,
-    "expired": 2727,
-    "withExpiry": 1879
+    "games": 245,
+    "codes": 3463,
+    "active": 544,
+    "expired": 2919,
+    "withExpiry": 2051
   },
   "newByDate": [
     {
@@ -60,11 +60,11 @@
     },
     {
       "date": "2026-09-30",
-      "count": 47
+      "count": 46
     },
     {
       "date": "2026-10-01",
-      "count": 13
+      "count": 227
     }
   ],
   "expiringSoon": [
@@ -171,6 +171,12 @@
       "days": 0
     },
     {
+      "slug": "top-heroes",
+      "code": "GB333955463E",
+      "expiry": "2026-10-01",
+      "days": 0
+    },
+    {
       "slug": "trickcal-revive",
       "code": "BOLEUMDAL",
       "expiry": "2026-10-01",
@@ -195,6 +201,12 @@
       "days": 1
     },
     {
+      "slug": "nostalgic-corner-store",
+      "code": "GIFTGuaRpW",
+      "expiry": "2026-10-02",
+      "days": 1
+    },
+    {
       "slug": "nuksam",
       "code": "9K24GQ",
       "expiry": "2026-10-02",
@@ -209,6 +221,12 @@
     {
       "slug": "tged",
       "code": "HANGAWI",
+      "expiry": "2026-10-02",
+      "days": 1
+    },
+    {
+      "slug": "top-heroes",
+      "code": "GBA0A5C5C8",
       "expiry": "2026-10-02",
       "days": 1
     },
@@ -349,24 +367,6 @@
       "code": "BOOK752",
       "expiry": "2026-10-05",
       "days": 4
-    },
-    {
-      "slug": "potatozombie",
-      "code": "7NFYNPBCZL7FCR",
-      "expiry": "2026-10-05",
-      "days": 4
-    },
-    {
-      "slug": "the-grand-mafia",
-      "code": "dN43jekj",
-      "expiry": "2026-10-05",
-      "days": 4
-    },
-    {
-      "slug": "toysamguk",
-      "code": "Gt3e9R",
-      "expiry": "2026-10-05",
-      "days": 4
     }
   ],
   "topGames": [
@@ -379,6 +379,11 @@
       "slug": "daksa-rpg",
       "active": 20,
       "total": 61
+    },
+    {
+      "slug": "dragon-traveler",
+      "active": 19,
+      "total": 67
     },
     {
       "slug": "idle-berserker",
@@ -406,14 +411,14 @@
       "total": 57
     },
     {
-      "slug": "byeolbyeol-hero",
-      "active": 11,
-      "total": 13
-    },
-    {
       "slug": "astro-defenders",
       "active": 10,
       "total": 10
+    },
+    {
+      "slug": "byeolbyeol-hero",
+      "active": 10,
+      "total": 13
     },
     {
       "slug": "inferno-nine",
@@ -464,11 +469,6 @@
       "slug": "lucky-plant-defense",
       "active": 7,
       "total": 9
-    },
-    {
-      "slug": "goddess-of-victory-nikke",
-      "active": 6,
-      "total": 15
     }
   ],
   "noImage": 19
