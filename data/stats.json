@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T00:08:31.782Z",
+  "generatedAt": "2026-10-02T01:38:24.867Z",
   "today": "2026-10-02",
-  "todayNew": 26,
+  "todayNew": 34,
   "totals": {
     "games": 246,
-    "codes": 3504,
-    "active": 518,
+    "codes": 3512,
+    "active": 526,
     "expired": 2986,
-    "withExpiry": 2115
+    "withExpiry": 2117
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-02",
-      "count": 26
+      "count": 34
     }
   ],
   "expiringSoon": [
@@ -249,6 +249,12 @@
       "days": 3
     },
     {
+      "slug": "dragonnest-world",
+      "code": "HAPPYWEEKLY1026",
+      "expiry": "2026-10-05",
+      "days": 3
+    },
+    {
       "slug": "f-class-hero",
       "code": "9FallBrisk",
       "expiry": "2026-10-05",
@@ -359,12 +365,6 @@
     {
       "slug": "dragon-traveler",
       "code": "Prometheus",
-      "expiry": "2026-10-06",
-      "days": 4
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "RinPFSX",
       "expiry": "2026-10-06",
       "days": 4
     }
