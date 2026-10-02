@@ -1,18 +1,12 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-02T01:14:11.253Z",
+  "generatedAt": "2026-10-02T07:05:56.635Z",
   "games": [
     {
       "slug": "kaind-idle",
       "loungeId": "Kaind_idle",
       "titleKo": "원정대 키우기",
       "titleEn": "Kaind Idle"
-    },
-    {
-      "slug": "tukiers-god-tier-life-idle-tycoon",
-      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
-      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
-      "titleEn": "Tukiers God Tier Life Idle Tycoon"
     },
     {
       "slug": "tales-runner-rpg",
@@ -69,10 +63,130 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
+      "slug": "finalhunter",
+      "loungeId": "finalhunter",
+      "titleKo": "파이널 헌터",
+      "titleEn": "Finalhunter"
+    },
+    {
+      "slug": "fantasysamgook",
+      "loungeId": "fantasysamgook",
+      "titleKo": "판타지 삼국",
+      "titleEn": "Fantasysamgook"
+    },
+    {
+      "slug": "pokemon-go",
+      "loungeId": "Pokemon_GO",
+      "titleKo": "Pokemon_GO",
+      "titleEn": "Pokemon Go"
+    },
+    {
+      "slug": "torchlight-infinite",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "Torchlight_Infinite",
+      "titleEn": "Torchlight Infinite"
+    },
+    {
+      "slug": "oops-tomb-raid",
+      "loungeId": "Oops_Tomb_Raid",
+      "titleKo": "Oops_Tomb_Raid",
+      "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "along-with-the-ghost",
+      "loungeId": "Along_with_the_ghost",
+      "titleKo": "Along_with_the_ghost",
+      "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "dokkaebi-girl",
+      "loungeId": "Dokkaebi_Girl",
+      "titleKo": "Dokkaebi_Girl",
+      "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dragonblade-grow",
+      "loungeId": "Dragonblade_Grow",
+      "titleKo": "용칼이 키우기",
+      "titleEn": "Dragonblade Grow"
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "dream-garden-cozy-lite-management",
+      "loungeId": "Dream_Garden_Cozy_Lite_Management",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
+      "titleEn": "Dream Garden Cozy Lite Management"
+    },
+    {
+      "slug": "eternal-chronicle",
+      "loungeId": "Eternal_Chronicle",
+      "titleKo": "Eternal_Chronicle",
+      "titleEn": "Eternal Chronicle"
+    },
+    {
+      "slug": "weapon-master",
+      "loungeId": "WeaponMaster",
+      "titleKo": "WeaponMaster",
+      "titleEn": "Weapon Master"
+    },
+    {
+      "slug": "idle-king",
+      "loungeId": "IdleKing",
+      "titleKo": "킹방치: 빵지의 제왕",
+      "titleEn": "Idle King"
+    },
+    {
+      "slug": "kungfuchaos",
+      "loungeId": "kungfuchaos",
+      "titleKo": "kungfuchaos",
+      "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "pmang-new-matgo",
+      "loungeId": "Pmang_new_matgo",
+      "titleKo": "Pmang_new_matgo",
+      "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "redmythnezha",
+      "loungeId": "redmythnezha",
+      "titleKo": "붉은 신화 : 나타",
+      "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "rush-three-kingdom",
+      "loungeId": "RushThreeKingdom",
+      "titleKo": "RushThreeKingdom",
+      "titleEn": "Rush Three Kingdom"
+    },
+    {
+      "slug": "star-of-the-overlord",
+      "loungeId": "Star_of_the_Overlord",
+      "titleKo": "패왕의별M",
+      "titleEn": "Star Of The Overlord"
+    },
+    {
+      "slug": "stone-three-kingdoms",
+      "loungeId": "StoneThreeKingdoms",
+      "titleKo": "석기삼국: 타임리프 삼국지",
+      "titleEn": "Stone Three Kingdoms"
+    },
+    {
+      "slug": "survivorio",
+      "loungeId": "Survivorio",
+      "titleKo": "Survivorio",
+      "titleEn": "Survivorio"
+    },
+    {
+      "slug": "toy-immortals",
+      "loungeId": "Toy_Immortals",
+      "titleKo": "Toy_Immortals",
+      "titleEn": "Toy Immortals"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T05:47:31.223Z",
+  "generatedAt": "2026-10-02T07:18:21.498Z",
   "today": "2026-10-02",
-  "todayNew": 3498,
+  "todayNew": 3501,
   "totals": {
     "games": 628,
-    "codes": 6976,
-    "active": 588,
-    "expired": 6388,
-    "withExpiry": 3824
+    "codes": 6979,
+    "active": 594,
+    "expired": 6385,
+    "withExpiry": 3827
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-02",
-      "count": 3498
+      "count": 3501
     }
   ],
   "expiringSoon": [
@@ -279,6 +279,18 @@
       "days": 3
     },
     {
+      "slug": "ghost-hunter",
+      "code": "1003jgt",
+      "expiry": "2026-10-05",
+      "days": 3
+    },
+    {
+      "slug": "ghost-hunter",
+      "code": "1004ftr",
+      "expiry": "2026-10-05",
+      "days": 3
+    },
+    {
       "slug": "god-kkaebi",
       "code": "br8fgf97",
       "expiry": "2026-10-05",
@@ -353,18 +365,6 @@
     {
       "slug": "toysamguk",
       "code": "toy777",
-      "expiry": "2026-10-05",
-      "days": 3
-    },
-    {
-      "slug": "toysamguk",
-      "code": "toy2026",
-      "expiry": "2026-10-05",
-      "days": 3
-    },
-    {
-      "slug": "toysamguk",
-      "code": "Toy1M",
       "expiry": "2026-10-05",
       "days": 3
     }

@@ -5,20 +5,10 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-02T01:36:53.634Z",
+  "updatedAt": "2026-10-02T07:15:52.958Z",
   "codes": [
     {
       "code": "HUNTER777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
-      "status": "expired"
-    },
-    {
-      "code": "NEWSERVER",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-07",
@@ -39,6 +29,16 @@
     },
     {
       "code": "GROWTH100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NEWSERVER",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-07",
