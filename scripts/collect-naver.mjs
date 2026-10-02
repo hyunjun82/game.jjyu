@@ -155,6 +155,8 @@ const STOP = new Set([
 function isSaneCode(c, labeled = false) {
   if (!c) return false;
   // "6984-63786bf85-1" 처럼 하이픈으로 끊은 코드(삼국지 오리진2). 영문·숫자가 섞인 것만 — 날짜(2026-10-01)는 거른다.
+  // "RAINY_JULY" — 밑줄로 이은 코드(랜덤 히어로즈). 영문이 들어 있어야 한다.
+  if (c.includes('_')) return /^[A-Za-z0-9]+(?:_[A-Za-z0-9]+){1,3}$/.test(c) && c.length <= 24 && /[A-Za-z]{2}/.test(c);
   if (c.includes('-')) return /^[A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}$/.test(c) && c.length <= 24 && /[A-Za-z]/.test(c) && /\d/.test(c);
   if (c.length < 5 || c.length > 20) return false;
   if (!/^[A-Za-z0-9]+$/.test(c)) return false;
@@ -294,13 +296,15 @@ function applyTitleExpiry(got, title, postISO) {
 
 /** 줄이 코드 한 개로만 이뤄졌으면 그 코드를, 아니면 빈 문자열을. 뒤에 괄호는 허용한다. */
 function tokenOf(line) {
-  const m = line.match(/^([A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}|[A-Za-z0-9]{5,20})\s*(.*)$/);
+  const m = line.match(/^([A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}|[A-Za-z0-9]+(?:_[A-Za-z0-9]+){1,3}|[A-Za-z0-9]{5,20})\s*(.*)$/);
   if (!m) return '';
   const rest = m[2].trim();
   // 뒤에 괄호나 장식(<<, «, ✨)만 붙은 건 허용한다. "TOP 3 팀" 처럼 글자가 이어지면 버린다.
   if (rest && !/^[(（[]/.test(rest) && /^[A-Za-z0-9가-힣]/u.test(rest)) return '';
   // "dicero.habby.com" — 교환 페이지 주소의 앞부분이 코드로 잡혔다(딸깍 다이스, 2026-10-02).
   if (/^\.[A-Za-z]/.test(rest)) return '';
+  // "(lucile***)" — 당첨자 발표의 가린 아이디. "CDKEY：hero2406" — 라벨 뒤에 코드가 붙은 줄은 라벨이 코드가 아니다.
+  if (/^[*＊]/.test(rest) || /^[:：]\s*[A-Za-z0-9_-]{4,}\s*$/.test(rest)) return '';
   return m[1];
 }
 
@@ -308,7 +312,8 @@ export function parseCodes(text, postISO) {
   // 메일 주소의 앞부분("ryonggame2@gmail.com")이 코드로 잡혔다(소울 헌터 키우기, 2026-10-01). 주소는 통째로 지운다.
   // 퀴즈 정답을 끼워 넣어야 완성되는 코드("1574-(정답1)ab0d4d51-1")는 그대로 쓸 수 없는 반쪽이라 줄째 버린다(삼국지 오리진).
   text = String(text || '').replace(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g, ' ').replace(/[^\n]*\n?[^\S\n]*\((?:정답|답)\s*\d*\)[^\S\n]*\n?[^\n]*/g, ' ');
-  const lines = text.split('\n').map((s) => s.trim().replace(BULLET, '').trim()).filter(Boolean);
+  // "@seohui_day" — 당첨자 발표의 SNS 아이디(듄: 어웨이크닝). 줄머리 기호를 떼기 전에 버린다.
+  const lines = text.split('\n').map((s) => s.trim()).map((s) => (/^@/.test(s) ? '' : s.replace(BULLET, '').trim())).filter(Boolean);
   const labelAt = lines.map((l) => LABEL_RE.test(l));
   const codeAt = lines.map((l) => { const t = tokenOf(l); return !!t && isSaneCode(t); });
   // 글 전체에서 뽑은 만료일은 "까지" 날짜가 하나뿐일 때만 믿는다. 이벤트 공지 하나에 컬렉션·아이템 기한이 여럿
@@ -331,8 +336,8 @@ export function parseCodes(text, postISO) {
 
   // (가) 인라인 — "쿠폰 코드: 311k93" / "쿠폰코드: FALLFEST ✨ 기간: 9.18 ~ 9.25" / "쿠폰 >> FIRSTSNOW2025 << 코드"
   // "쿠폰: UPDATE261001" — 코드·번호 없이 "쿠폰:" 만 붙이는 발행처(광전사 키우기, 2026-10-01).
-  const inlineOf = (line) => line.match(/(?:코드|번호|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i)
-    || line.match(/(?:코드|번호|CDK|쿠폰)\s*[:：]\s*([A-Za-z0-9]{5,20})(?![A-Za-z0-9])/i)
+  const inlineOf = (line) => line.match(/(?:코드|번호|CDKEY|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i)
+    || line.match(/(?:코드|번호|CDKEY|CDK|쿠폰)\s*[:：]\s*([A-Za-z0-9_]{5,24})(?![A-Za-z0-9])/i)
     || (LABEL_RE.test(line) && line.match(/(?:>>|»|【|「|\[)\s*([A-Za-z0-9]{5,20})\s*(?:<<|«|】|」|\])/));
   // "🎁：shuubun2026" — 선물 아이콘 뒤에 코드만 적는 발행처(에이펙스 걸스). 줄머리 기호를 떼기 전 원문으로 본다.
   for (const raw of text.split('\n')) {
@@ -720,16 +725,20 @@ async function main() {
   console.log(`[naver] ${targets.length}개 라운지 수집 시작`);
   let ok = 0, skip = 0, changed = 0, newCodes = 0;
 
-  for (const g of targets) {
+  // 라운지가 600곳을 넘어 한 줄로 돌면 수집 시간(50분)을 넘긴다. 6곳씩 동시에 읽는다.
+  // 수동 순회에서 동시 8곳으로 1만 6천 번 요청해도 실패 0이었다(2026-10-01).
+  let next = 0;
+  const worker = async () => { while (next < targets.length) { const g = targets[next++]; await one(g); } };
+  const one = async (g) => {
     const r = await collectOne(g).catch((e) => ({ ...g, error: String(e.message || e) }));
-    if (r.error) { console.log(`  - ${r.titleKo}: ${r.error}`); skip++; await sleep(300); continue; }
+    if (r.error) { console.log(`  - ${r.titleKo}: ${r.error}`); skip++; await sleep(300); return; }
 
     const file = path.join(GAMES_DIR, `${g.slug}.json`);
     const prev = !fresh && fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : null;
     const codes = merge(prev, r.codes);
     const before = prev ? JSON.stringify(prev.codes) : '';
 
-    const next = {
+    const out = {
       slug: g.slug,
       titleEn: g.titleEn || prev?.titleEn || g.slug,
       titleKo: g.titleKo,
@@ -742,14 +751,15 @@ async function main() {
       updatedAt: new Date().toISOString(),
       codes,
     };
-    fs.writeFileSync(file, JSON.stringify(next, null, 2) + '\n');
+    fs.writeFileSync(file, JSON.stringify(out, null, 2) + '\n');
     if (before !== JSON.stringify(codes)) changed++;
     newCodes += codes.filter((c) => c.firstSeen === todayISO()).length;
     ok++;
     const act = codes.filter((c) => c.status === 'active').length;
     console.log(`  + ${g.titleKo}: 코드 ${codes.length}개(사용가능 ${act}) · 누적글 ${r.total} · 최신 ${r.latest}`);
     await sleep(300);
-  }
+  };
+  await Promise.all(Array.from({ length: Math.min(6, targets.length) }, worker));
 
   console.log(`[naver] 완료 — 성공 ${ok} · 건너뜀 ${skip} · 변경 ${changed}`);
   console.log(`NAVER_CHANGED=${changed}`);

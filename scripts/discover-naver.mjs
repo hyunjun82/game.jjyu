@@ -118,7 +118,7 @@ function existingSlugFor(loungeId) {
 }
 
 /** 라운지 하나를 실제로 읽어 본다. 사용 가능한 코드가 있으면 목록에 넣을 항목을 돌려준다. */
-async function probe(loungeId, name, today) {
+export async function probe(loungeId, name, today) {
   const slug = existingSlugFor(loungeId) || slugOf(loungeId);
   const g = { slug, loungeId, titleKo: cleanName(name), titleEn: titleEnOf(loungeId), auto: today };
   const r = await collectOne(g).catch((e) => ({ error: String(e.message || e) }));
@@ -130,14 +130,14 @@ async function probe(loungeId, name, today) {
 }
 
 /**
- * 지금 살아 있는 코드가 없어도 넣을 라운지 — 코드를 3개 이상 냈고 마지막 코드가 45일 안이면 꾸준히 내는 곳이다.
+ * 쿠폰 코드를 한 번이라도 낸 라운지는 전부 넣는다(2026-10-02 방침: 쿠폰 나오는 한국 게임은 전부 등록).
+ * 지금 살아 있는 코드가 없어도 페이지를 만들어 두고, 새 코드가 나오면 수집이 채운다.
+ * 예전 기준(코드 3개 이상 · 45일 안)은 기어몬·고냥이 마법사처럼 코드를 가끔 내는 게임을 빠뜨렸다.
  * 월간 쿠폰만 내는 곳은 달이 바뀌는 사이에 순회하면 "전부 만료"로 보류돼 다음 달 코드를 놓쳤다
  * (신도림 with NAVER WEBTOON: 코드 28개, 2026-10-01 새 쿠폰이 자동 수집에서 빠짐).
  */
-const RECENT_DAYS = 45;
-function keepable(r, today) {
-  if (r.live) return true;
-  return r.total >= 3 && !!r.last && (Date.parse(today) - Date.parse(r.last)) / 86400000 <= RECENT_DAYS;
+export function keepable(r) {
+  return r.live > 0 || r.total >= 1;
 }
 
 function loadSweep() {
@@ -187,7 +187,12 @@ async function sweepCandidates(known, sweep, today) {
   const hotList = [...hot].filter(([id]) => due(id));
   const allList = [...all].filter(([id]) => !hot.has(id) && due(id))
     .sort((a, b) => ageDays(b[0]) - ageDays(a[0]));   // 오래 안 본 것부터
-  return { hotList, allList, hotTotal: hot.size, allTotal: all.size, hotAll };
+  const names = new Map([...hotAll]);
+  for (const x of full?.content?.officialLounges || []) {
+    const id = String(x?.loungeId || x?.originalLoungeId || '');
+    if (id && !names.has(id)) names.set(id, ent(x.loungeName || id));
+  }
+  return { hotList, allList, hotTotal: hot.size, allTotal: all.size, hotAll, names };
 }
 
 /**
@@ -216,6 +221,7 @@ function writeSearchAuto(hotAll, sweep, known, lounges, eventLounges) {
     const titleKo = inList ? inList.titleKo : cleanName(name);
     if (manualSlugs.has(slug) || manualNames.has(norm(titleKo))) continue;
     if (titleKo.replace(/\s/g, '').length < 3) continue;     // 너무 짧은 이름은 검색이 엉뚱한 글을 문다
+    if (/^[ㄱ-ㅎㅏ-ㅣ\s]+$/.test(titleKo)) continue;            // "ㅋㅋㅋㅋ" 같은 이름은 아무 블로그 글이나 문다
     out.push({ slug, loungeId: id, titleKo, titleEn: inList?.titleEn || titleEnOf(id) });
   }
   fs.writeFileSync(SEARCH_AUTO_FILE, JSON.stringify({
@@ -264,7 +270,7 @@ async function main() {
     const r = await probe(c.loungeId, c.name, today);
     mark(c.loungeId, r);
     if (r.error) { console.log(`  - ${c.name} (${c.loungeId}): ${r.error}`); continue; }
-    if (!keepable(r, today)) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+    if (!keepable(r)) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
     added.push(r.g); known.add(c.loungeId.toLowerCase());
     console.log(`  + ${c.name} (${c.loungeId}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 근거: ${c.titles[0].slice(0, 50)}`);
   }
@@ -278,7 +284,7 @@ async function main() {
       const r = await probe(id, names.get(id) || id, today);
       mark(id, r);
       if (r.error) { console.log(`  - ${id}: ${r.error}`); continue; }
-      if (!keepable(r, today)) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+      if (!keepable(r)) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
       added.push(r.g); known.add(id.toLowerCase());
       console.log(`  + ${r.g.titleKo} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 지정 확인`);
     }
@@ -286,7 +292,7 @@ async function main() {
 
   // 2단계 — 전수 순회
   if (SWEEP_PER_RUN > 0) {
-    const { hotList, allList, hotTotal, allTotal, hotAll } = await sweepCandidates(known, sweep, today);
+    const { hotList, allList, hotTotal, allTotal, hotAll, names } = await sweepCandidates(known, sweep, today);
     // 신규·순위 라운지가 앞, 전체 목록이 뒤. 한 번에 SWEEP_PER_RUN 개까지만 — 넘치면 다음 실행이 이어서 본다.
     const queue = [...hotList, ...allList].slice(0, SWEEP_PER_RUN);
     console.log(`[discover] 2단계 — 신규·순위 라운지 ${hotTotal}개(볼 것 ${hotList.length}) · 전체 ${allTotal}개(안 본 지 ${RECHECK_DAYS}일 넘은 것 ${allList.length}) · 이번에 ${queue.length}개`);
@@ -295,7 +301,7 @@ async function main() {
       const r = await probe(id, name, today);
       mark(id, r);
       n++;
-      if (r.error || !keepable(r, today)) continue;
+      if (r.error || !keepable(r)) continue;
       added.push(r.g); known.add(id.toLowerCase());
       console.log(`  + ${cleanName(name)} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 순회에서 발견`);
     }
@@ -307,7 +313,16 @@ async function main() {
       const r = await probe(id, g.titleKo, today);
       sweep.checked[id] = { at: today, ...(r.error ? { error: r.error } : { live: r.live, total: r.total }) };
     }
-    const nAuto = writeSearchAuto(hotAll, sweep, known, loadLounges(), evLounges);
+    // 회원 전용 라운지는 인기 순위와 상관없이 전부 블로그 검색으로 본다. 이번 순회에서 확인한 것(이틀에 한 번씩 돈다)과
+    // 이미 검색으로 페이지가 생긴 것만 넣는다 — 247곳을 매번 다 검색하면 수집 시간 50분을 넘긴다.
+    const lockedPool = new Map();
+    const queued = new Set(queue.map(([id]) => id));
+    for (const [id, s] of Object.entries(sweep.checked)) {
+      if (!/잠김/.test(s?.error || '')) continue;
+      const hasPage = fs.existsSync(path.join(GAMES_DIR, `${slugOf(id)}.json`));
+      if (queued.has(id) || hasPage) lockedPool.set(id, names.get(id) || id);
+    }
+    const nAuto = writeSearchAuto(new Map([...hotAll, ...lockedPool]), sweep, known, loadLounges(), evLounges);
     console.log(`[discover] 회원 전용 인기 라운지 → 블로그 검색 보완 대상 ${nAuto}개 (search-games.auto.json)`);
   }
 
