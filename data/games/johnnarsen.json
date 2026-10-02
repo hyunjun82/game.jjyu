@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/johnnarsen/board/detail/7127902",
   "howTo": "- 쿠폰 번호는 메인 화면 오른쪽 상단 [메뉴 → 설정 → 교환]에서 입력하실 수 있으며, 쿠폰 입력 시 우편을 통해 보상이 지급됩니다. ​ 🚨 유의사항 ※ 쿠폰은 1회만 입력할 수 있으며, 중복으로 입력되지 않습니다.",
   "postCount": 4,
-  "updatedAt": "2026-10-02T14:10:26.045Z",
+  "updatedAt": "2026-10-02T19:39:17.048Z",
   "codes": [
     {
       "code": "WELCOME2026",
@@ -16,7 +16,7 @@
       "expiry": "2026-01-13",
       "postedAt": "2025-12-31",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": "2025-12-31",
       "postedAt": "2025-12-23",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2025-12-29",
       "postedAt": "2025-12-16",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-06-06",
       "postedAt": "2025-12-09",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]

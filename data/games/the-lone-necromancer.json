@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/The_Lone_Necromancer/board/detail/7373215",
   "howTo": "게임 내 설정 → 쿠폰코드입력 → 웹사이트에서 UUID 및 쿠폰코드 입력 *쿠폰 입력 사이트 ->",
   "postCount": 2,
-  "updatedAt": "2026-10-02T14:12:16.121Z",
+  "updatedAt": "2026-10-02T19:41:07.387Z",
   "codes": [
     {
       "code": "NECRO1YEAR",
@@ -16,7 +16,7 @@
       "expiry": "2026-05-05",
       "postedAt": "2026-03-03",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2025-03-05",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2025-03-05",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]

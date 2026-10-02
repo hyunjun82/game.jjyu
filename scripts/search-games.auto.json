@@ -1,18 +1,12 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-02T14:04:33.508Z",
+  "generatedAt": "2026-10-02T19:33:27.266Z",
   "games": [
     {
       "slug": "kaind-idle",
       "loungeId": "Kaind_idle",
       "titleKo": "원정대 키우기",
       "titleEn": "Kaind Idle"
-    },
-    {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "romantic-gangho",
@@ -27,10 +21,10 @@
       "titleEn": "Heartopia"
     },
     {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "solo-exorcist",
@@ -39,16 +33,28 @@
       "titleEn": "Solo Exorcist"
     },
     {
-      "slug": "heroes-tales2",
-      "loungeId": "Heroes_tales2",
-      "titleKo": "히어로즈 테일즈2",
-      "titleEn": "Heroes Tales2"
-    },
-    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights Endfield"
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
+    },
+    {
+      "slug": "heroes-tales2",
+      "loungeId": "Heroes_tales2",
+      "titleKo": "히어로즈 테일즈2",
+      "titleEn": "Heroes Tales2"
     },
     {
       "slug": "toysamguk",
@@ -61,12 +67,6 @@
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
-    },
-    {
-      "slug": "the-war-of-light-and-darkness",
-      "loungeId": "The_War_of_Light_and_Darkness",
-      "titleKo": "빛과 어둠의 전쟁",
-      "titleEn": "The War Of Light And Darkness"
     },
     {
       "slug": "pokemon-go",
@@ -93,106 +93,16 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "awesome-devil",
-      "loungeId": "Awesome_Devil",
-      "titleKo": "어쩌다 멋진 마왕",
-      "titleEn": "Awesome Devil"
+      "slug": "cheon-sam-mu",
+      "loungeId": "CheonSamMu",
+      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
+      "titleEn": "Cheon Sam Mu"
     },
     {
-      "slug": "badminton-blitz",
-      "loungeId": "Badminton_Blitz",
-      "titleKo": "배드민턴 달인",
-      "titleEn": "Badminton Blitz"
-    },
-    {
-      "slug": "bang-bang",
-      "loungeId": "BangBang",
-      "titleKo": "빵야빵야",
-      "titleEn": "Bang Bang"
-    },
-    {
-      "slug": "battlemage-idle-pixel-adventure",
-      "loungeId": "Battlemage_Idle_Pixel_Adventure",
-      "titleKo": "배틀메이지 키우기",
-      "titleEn": "Battlemage Idle Pixel Adventure"
-    },
-    {
-      "slug": "become-a-lord",
-      "loungeId": "Become_a_lord",
-      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
-      "titleEn": "Become A Lord"
-    },
-    {
-      "slug": "billionaire",
-      "loungeId": "Billionaire",
-      "titleKo": "억만장자",
-      "titleEn": "Billionaire"
-    },
-    {
-      "slug": "black-shadow-idle-rpg",
-      "loungeId": "Black_Shadow_Idle_RPG",
-      "titleKo": "블랙 쉐도우 키우기",
-      "titleEn": "Black Shadow Idle Rpg"
-    },
-    {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
-    },
-    {
-      "slug": "blood-soul",
-      "loungeId": "BloodSoul",
-      "titleKo": "ASURA: 블러드 앤 소울",
-      "titleEn": "Blood Soul"
-    },
-    {
-      "slug": "blood-witch",
-      "loungeId": "Blood_Witch",
-      "titleKo": "블러드 위치",
-      "titleEn": "Blood Witch"
-    },
-    {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
-    },
-    {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "capybara-go",
-      "loungeId": "Capybara_Go",
-      "titleKo": "카피바라 Go!",
-      "titleEn": "Capybara Go"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
     },
     {
       "slug": "dokkaebi-girl",
@@ -205,12 +115,6 @@
       "loungeId": "Dragonblade_Grow",
       "titleKo": "용칼이 키우기",
       "titleEn": "Dragonblade Grow"
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
     },
     {
       "slug": "dream-garden-cozy-lite-management",
@@ -249,40 +153,82 @@
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
-    },
-    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
     },
     {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
+      "slug": "running-three-kingdoms",
+      "loungeId": "RunningThreeKingdoms",
+      "titleKo": "런닝 삼국",
+      "titleEn": "Running Three Kingdoms"
     },
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
       "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
+    },
+    {
+      "slug": "saint-girl",
+      "loungeId": "Saint_Girl",
+      "titleKo": "이세계 성녀 키우기",
+      "titleEn": "Saint Girl"
+    },
+    {
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji Kingdom"
+    },
+    {
+      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
+      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
+      "titleKo": "신수의 전설",
+      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
+    },
+    {
+      "slug": "seollaesamguk",
+      "loungeId": "seollaesamguk",
+      "titleKo": "설레 삼국:미인계",
+      "titleEn": "Seollaesamguk"
+    },
+    {
+      "slug": "seondo-m",
+      "loungeId": "Seondo_M",
+      "titleKo": "선도M : 선마결전",
+      "titleEn": "Seondo M"
+    },
+    {
+      "slug": "sera-eternals",
+      "loungeId": "SERA_ETERNALS",
+      "titleKo": "세라: 이터널스",
+      "titleEn": "Sera Eternals"
+    },
+    {
+      "slug": "seraphim-saga",
+      "loungeId": "Seraphim_Saga",
+      "titleKo": "세라핌 사가: 날개소녀 키우기",
+      "titleEn": "Seraphim Saga"
+    },
+    {
+      "slug": "shoot-shoot",
+      "loungeId": "ShootShoot",
+      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
+      "titleEn": "Shoot Shoot"
+    },
+    {
+      "slug": "silver-and-blood",
+      "loungeId": "Silver_And_Blood",
+      "titleKo": "실버 앤 블러드",
+      "titleEn": "Silver And Blood"
     },
     {
       "slug": "star-of-the-overlord",
@@ -307,6 +253,12 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "tt-tiny-tales",
+      "loungeId": "TT_Tiny_Tales",
+      "titleKo": "TT: 타이니 테일즈",
+      "titleEn": "Tt Tiny Tales"
     }
   ]
 }

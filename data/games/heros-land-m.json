@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/HerosLandM/board/detail/8275836",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-10-02T14:07:08.184Z",
+  "updatedAt": "2026-10-02T19:36:02.675Z",
   "codes": [
     {
       "code": "C6xWqqYy",
@@ -16,16 +16,7 @@
       "expiry": "2026-10-09",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
-      "status": "active"
-    },
-    {
-      "code": "67D6UPUh",
-      "reward": "",
-      "expiry": "2026-10-02",
-      "postedAt": "2026-09-24",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "active"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": "2027-08-08",
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "active"
     },
     {
@@ -43,7 +34,16 @@
       "expiry": null,
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "67D6UPUh",
+      "reward": "",
+      "expiry": "2026-10-02",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-09-25",
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-09-18",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": "2026-09-04",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -79,7 +79,7 @@
       "expiry": "2026-08-28",
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -88,7 +88,7 @@
       "expiry": "2026-08-21",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/idledragonprincess/board/detail/5256465",
   "howTo": "1. 게임 화면 우측 상단의 메뉴 터치 2. 하단의 설정(톱니바퀴 모양) 터치 3. 서비스 버튼 터치 후 상단의 쿠폰 버튼 터치 4. 쿠폰 코드를 입력 후 확인 버튼을 누르면 우편으로 보상이 지급됩니다. ​",
   "postCount": 5,
-  "updatedAt": "2026-10-02T14:10:15.287Z",
+  "updatedAt": "2026-10-02T19:39:06.855Z",
   "codes": [
     {
       "code": "SANTA1",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2024-12-07",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2024-11-30",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2024-11-25",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2024-11-19",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -53,7 +53,7 @@
       "tag": "사전예약",
       "postedAt": "2024-11-19",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Tales_Of_Ashborn/board/detail/4913466",
   "howTo": "로비 화면에서 왼쪽 상단의 프로필을 클릭하세요. 프로필 화면에서 쿠폰입력 버튼을 클릭하세요. 쿠폰 번호를 입력하고 보상을 받으세요! 쿠폰 유효기간 2024년 10월 31일까지",
   "postCount": 5,
-  "updatedAt": "2026-10-02T14:12:09.718Z",
+  "updatedAt": "2026-10-02T19:41:01.425Z",
   "codes": [
     {
       "code": "12THUPDATE",
@@ -16,7 +16,7 @@
       "expiry": "2024-10-31",
       "postedAt": "2024-10-17",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": "2024-09-20",
       "postedAt": "2024-09-13",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2024-09-30",
       "postedAt": "2024-09-05",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2024-07-30",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2024-07-03",
       "postedAt": "2024-06-27",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]
