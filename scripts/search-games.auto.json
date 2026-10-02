@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-02T19:33:27.266Z",
+  "generatedAt": "2026-10-02T23:12:59.042Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -69,6 +69,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "devil-knights-idle",
+      "loungeId": "Devil_Knights_Idle",
+      "titleKo": "데빌 나이츠 키우기",
+      "titleEn": "Devil Knights Idle"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -93,16 +99,94 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "cheon-sam-mu",
-      "loungeId": "CheonSamMu",
-      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
-      "titleEn": "Cheon Sam Mu"
+      "slug": "come-on-alien",
+      "loungeId": "Come_on_Alien",
+      "titleKo": "덤벼라 외계인!",
+      "titleEn": "Come On Alien"
     },
     {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-slayer-sd",
+      "loungeId": "Dark_Slayer_SD",
+      "titleKo": "다크슬레이어2",
+      "titleEn": "Dark Slayer Sd"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
+    },
+    {
+      "slug": "dark-hero-kiugi",
+      "loungeId": "DarkHeroKiugi",
+      "titleKo": "다크 히어로 키우기",
+      "titleEn": "Dark Hero Kiugi"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-hunter-idle",
+      "loungeId": "Devil_Hunter_Idle",
+      "titleKo": "데빌 헌터 키우기",
+      "titleEn": "Devil Hunter Idle"
+    },
+    {
+      "slug": "devilnote",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
+    },
+    {
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
+    },
+    {
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
+    },
+    {
+      "slug": "dm-epicnine",
+      "loungeId": "DM_EPICNINE",
+      "titleKo": "에픽나인",
+      "titleEn": "Dm Epicnine"
     },
     {
       "slug": "dokkaebi-girl",
@@ -111,10 +195,46 @@
       "titleEn": "Dokkaebi Girl"
     },
     {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
+    },
+    {
+      "slug": "dragon-blood-raider",
+      "loungeId": "Dragon_Blood_Raider",
+      "titleKo": "드래곤 블러드: 레이더",
+      "titleEn": "Dragon Blood Raider"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
+    },
+    {
       "slug": "dragonblade-grow",
       "loungeId": "Dragonblade_Grow",
       "titleKo": "용칼이 키우기",
       "titleEn": "Dragonblade Grow"
+    },
+    {
+      "slug": "dragon-saver",
+      "loungeId": "DragonSaver",
+      "titleKo": "드래곤 세이버: 용과 소녀의 모험 방치형 키우기 RPG",
+      "titleEn": "Dragon Saver"
+    },
+    {
+      "slug": "dragoon-of-the-wind",
+      "loungeId": "Dragoon_Of_The_Wind",
+      "titleKo": "바람의 드래군M",
+      "titleEn": "Dragoon Of The Wind"
+    },
+    {
+      "slug": "dream-furniture",
+      "loungeId": "dream_furniture",
+      "titleKo": "꿈꾸는 가구점",
+      "titleEn": "Dream Furniture"
     },
     {
       "slug": "dream-garden-cozy-lite-management",
@@ -159,76 +279,16 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
       "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
-      "slug": "saint-girl",
-      "loungeId": "Saint_Girl",
-      "titleKo": "이세계 성녀 키우기",
-      "titleEn": "Saint Girl"
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji Kingdom"
-    },
-    {
-      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
-      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
-      "titleKo": "신수의 전설",
-      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
-    },
-    {
-      "slug": "seollaesamguk",
-      "loungeId": "seollaesamguk",
-      "titleKo": "설레 삼국:미인계",
-      "titleEn": "Seollaesamguk"
-    },
-    {
-      "slug": "seondo-m",
-      "loungeId": "Seondo_M",
-      "titleKo": "선도M : 선마결전",
-      "titleEn": "Seondo M"
-    },
-    {
-      "slug": "sera-eternals",
-      "loungeId": "SERA_ETERNALS",
-      "titleKo": "세라: 이터널스",
-      "titleEn": "Sera Eternals"
-    },
-    {
-      "slug": "seraphim-saga",
-      "loungeId": "Seraphim_Saga",
-      "titleKo": "세라핌 사가: 날개소녀 키우기",
-      "titleEn": "Seraphim Saga"
-    },
-    {
-      "slug": "shoot-shoot",
-      "loungeId": "ShootShoot",
-      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
-      "titleEn": "Shoot Shoot"
-    },
-    {
-      "slug": "silver-and-blood",
-      "loungeId": "Silver_And_Blood",
-      "titleKo": "실버 앤 블러드",
-      "titleEn": "Silver And Blood"
+      "slug": "samguk-origin",
+      "loungeId": "Samguk_Origin",
+      "titleKo": "삼국지 오리진",
+      "titleEn": "Samguk_Origin"
     },
     {
       "slug": "star-of-the-overlord",
@@ -253,12 +313,6 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
     }
   ]
 }
