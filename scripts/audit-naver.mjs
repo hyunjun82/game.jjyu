@@ -104,7 +104,8 @@ async function main() {
             // OCR 은 DOE1STYEAR 를 DOEASTYEAR 로 읽었다 — 틀린 코드를 올릴 수 없어 자동 반영하지 않고 사람이 보도록 남긴다.
             const title = ent(it.feed.title);
             if (/쿠폰|교환\s*코드|선물\s*코드|기프트\s*코드|리딤/.test(title) && !/당첨|결과|종료|할인|패키지|상점|스토어/.test(title)) {
-              const imgs = [...new Set([...String(it.feed.contents || '').matchAll(/https?:\/\/nng-phinf\.pstatic\.net\/[^"'\s\\]+?\.(?:png|jpe?g|gif|webp)/gi)].map((m) => m[0]))];
+              // 주소 중간의 ".PNG/" 에서 끊으면 404 다(실제 파일명은 그 뒤에 온다, 2026-10-02 첫 실행). 따옴표까지 통째로 잡는다.
+              const imgs = [...new Set([...String(it.feed.contents || '').matchAll(/https?:\/\/nng-phinf\.pstatic\.net\/[^"'\s\\<>]+/gi)].map((m) => m[0].replace(/&amp;/g, '&')).filter((u) => /\.(?:png|jpe?g|gif|webp)/i.test(u)))];
               if (imgs.length) report.imageOnly.push({ game: ent(L.loungeName), loungeId: id, feedId: it.feed.feedId, date: iso, title: title.slice(0, 60), images: imgs.slice(0, 6) });
             }
             continue;
