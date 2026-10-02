@@ -1,0 +1,32 @@
+{
+  "slug": "death-crow-idle",
+  "titleEn": "Death Crow Idle",
+  "titleKo": "데스크로우 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA5MDZfNTIg/MDAxNjkzOTY2NzIyMTMw.peNe-xKitv10U1AtZEQSfQN6yVaRAawqyYd3sWwbEW0g.yZi2hWq1DAvtNLAPZR1oxxEfjSYYrhJeUvwLTI2zo3Qg.PNG/DC_open_event_800_kr_02.png",
+  "source": "naver-lounge",
+  "loungeId": "Death_Crow_idle",
+  "sourceUrl": "https://game.naver.com/lounge/Death_Crow_idle/board/detail/3923448",
+  "howTo": "이상 GM삐약이 였습니다!",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:42:52.286Z",
+  "codes": [
+    {
+      "code": "DCOPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-09-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "2024DC",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-04-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

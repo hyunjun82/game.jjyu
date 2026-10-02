@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/8269297",
   "howTo": "",
   "postCount": 26,
-  "updatedAt": "2026-10-02T01:18:39.909Z",
+  "updatedAt": "2026-10-02T05:39:08.581Z",
   "codes": [
     {
       "code": "LandofStrife",
@@ -54,6 +54,15 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "1일차",
+      "reward": "",
+      "expiry": "2026-07-22",
+      "postedAt": "2026-07-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     },
     {
       "code": "MysteryGB",

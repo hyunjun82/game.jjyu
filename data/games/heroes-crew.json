@@ -1,0 +1,158 @@
+{
+  "slug": "heroes-crew",
+  "titleEn": "Heroes Crew",
+  "titleKo": "히어로즈크루",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTEwMjhfMyAg/MDAxNzYxNjI5MDA4MjM0.7J1kf4euIbl8iZaTw01w2zssYPyoRLrBRZP6SKhlLfwg.BegCwm5DdR6LMXyykJyRI7tou64iKeHysGQkTs2zBscg.PNG/%ED%95%A0%EB%A1%9C%EC%9C%88.png",
+  "source": "naver-lounge",
+  "loungeId": "Heroes_Crew",
+  "sourceUrl": "https://game.naver.com/lounge/Heroes_Crew/board/detail/7103542",
+  "howTo": "",
+  "postCount": 14,
+  "updatedAt": "2026-10-02T05:43:38.643Z",
+  "codes": [
+    {
+      "code": "HCHLWN",
+      "reward": "",
+      "expiry": "2025-10-31",
+      "postedAt": "2025-10-28",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HC100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HCNEW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S9UPDATE",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HCXMAS1",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HCXMAS2",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-12-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S8UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S7UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-11-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S6UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-23",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S5UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-10-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S45UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-22",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S4UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-09-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S3UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HCDEV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-07",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "S2UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HCTATICS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-07-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

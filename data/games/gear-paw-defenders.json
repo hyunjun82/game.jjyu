@@ -2,11 +2,32 @@
   "slug": "gear-paw-defenders",
   "titleEn": "Gear Paw Defenders",
   "titleKo": "기어몬: 타워 디펜스",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDhfMjU4/MDAxNzg4ODM5NDQ4NTAy.tRs2Jy7aLL1Xrig4Mz86mvbUJAGSHqGQIahkDfMNd-kg.2zK6W05Ie1hs4fUIS1DbNakE_zo08z22ThRBNgwrmO4g.JPEG/%EC%82%AC%EC%9D%B4%ED%8A%B8_%EC%9D%B4%EC%A0%84_800x250.jpg",
+  "source": "naver-lounge",
+  "loungeId": "GearPaw_Defenders",
+  "sourceUrl": "https://game.naver.com/lounge/GearPaw_Defenders/board/detail/8166836",
   "howTo": "",
-  "updatedAt": "2026-09-20T23:51:47.067Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:41:52.882Z",
   "codes": [
+    {
+      "code": "ZLVMHN4TAH6O",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "JOINPAWS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-12-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
     {
       "code": "GEARMON2026",
       "reward": "",

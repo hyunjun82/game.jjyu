@@ -1,0 +1,32 @@
+{
+  "slug": "wsmssf",
+  "titleEn": "Wsmssf",
+  "titleKo": "다크 도미네이트",
+  "image": "https://cafeptthumb-phinf.pstatic.net/MjAyMzAyMTFfMTE1/MDAxNjc2MDgxODI4OTgx.IpDmbGVvT5l0vMUBE02QQVJQZxx2yCl6vQxC32pgxLsg.3Ha_ejTRR9ylADmXicysdxdzaMsRyJeLzB348O2mN-Ig.PNG/%E6%83%85%E4%BA%BA%E8%8A%821.png",
+  "source": "naver-lounge",
+  "loungeId": "wsmssf",
+  "sourceUrl": "https://game.naver.com/lounge/wsmssf/board/detail/1570202",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:46:03.998Z",
+  "codes": [
+    {
+      "code": "VLT214",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-02-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "VIP2023",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

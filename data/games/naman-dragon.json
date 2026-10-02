@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Naman_Dragon/board/detail/7103771",
   "howTo": "을 확인하신 후 사용해주세요!​",
   "postCount": 6,
-  "updatedAt": "2026-10-02T01:23:09.051Z",
+  "updatedAt": "2026-10-02T05:39:52.464Z",
   "codes": [
     {
       "code": "NOV1101",
@@ -50,6 +50,7 @@
       "code": "dragonxmas",
       "reward": "",
       "expiry": "2025-12-25",
+      "expiryFrom": "event-open",
       "postedAt": "2025-12-24",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
@@ -185,7 +186,7 @@
       "code": "QUIZ0429",
       "reward": "",
       "expiry": "2025-04-29",
-      "postedAt": "2025-04-29",
+      "postedAt": "2025-06-05",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
       "status": "expired"
@@ -194,7 +195,7 @@
       "code": "QUIZ0418",
       "reward": "",
       "expiry": "2025-04-18",
-      "postedAt": "2025-04-18",
+      "postedAt": "2025-06-05",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
       "status": "expired"

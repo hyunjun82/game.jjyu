@@ -1,0 +1,60 @@
+{
+  "slug": "pets-war",
+  "titleEn": "Pets War",
+  "titleKo": "좀많이 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA4MjBfMTY2/MDAxNzI0MTQ1NDc2Mjcz.Lw-_9jvaUxkKVmBDmX_voLM-bXFy5xN9-q-ni6JTbvsg.6ltYtHqhdBvBFmiQLMJaWaLZEyrD1H_khB0bnvLzT5Yg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80SDK%EB%B0%B0%EB%84%88_700x154_02.%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4_%281%29.png",
+  "source": "naver-lounge",
+  "loungeId": "Pets_War",
+  "sourceUrl": "https://game.naver.com/lounge/Pets_War/board/detail/4838420",
+  "howTo": "​ 인게임 우측 상단 메뉴 중 톱니바퀴(설정) 터치 ! *메뉴가 접혀있다면 화살표 모양을 터치해서 열어주세요 2. '리딤 코드' 터치 ! 3. 쿠폰 번호를 입력해주세요 !",
+  "postCount": 5,
+  "updatedAt": "2026-10-02T05:44:45.468Z",
+  "codes": [
+    {
+      "code": "국군여러분감사합니다",
+      "reward": "",
+      "expiry": "2024-10-01",
+      "postedAt": "2024-10-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "TGIF0920",
+      "reward": "",
+      "expiry": "2024-09-26",
+      "postedAt": "2024-09-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "manymany003",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-06",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "manymany002",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "manymany001",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-08-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

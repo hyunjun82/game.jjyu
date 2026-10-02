@@ -1,0 +1,32 @@
+{
+  "slug": "gavengers",
+  "titleEn": "Gavengers",
+  "titleKo": "개판오분전",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDEyMzFfMjQz/MDAxNzM1NjM2NzM5NTYy.FatKGgunrOIofrV6ucxHXfQL-dynpHISuePhOMt6EDAg.sTmriPrbsDvQEQ7xoMC1XzvPeYfzO1nk0YfXEuyIN_Eg.JPEG/%E7%BD%91%E7%90%83%E8%AF%B8%E8%91%9B%E4%BA%AE-750x451.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Gavengers",
+  "sourceUrl": "https://game.naver.com/lounge/Gavengers/board/detail/5398324",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:43:21.039Z",
+  "codes": [
+    {
+      "code": "gift2025",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-01-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "halloween",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

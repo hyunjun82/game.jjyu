@@ -2,10 +2,13 @@
   "slug": "inferno-nine",
   "titleEn": "Inferno Nine",
   "titleKo": "I9: 인페르노 나인",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA0MjhfMzEg/MDAxNzc3MzU3MDQ4Mzgw.d48BHgbpjhrFW8pKk4lSqUizxGvmmdsR5oDnuDKjyBog.CasVS-hstVlOvi1DPPq81FE0m8pFhpOLL7OlCN31w2Qg.JPEG/%ED%95%AB-%EB%89%B4%EC%8A%A4%E5%B8%96%E6%96%87banner-700x154.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Inferno_Nine",
+  "sourceUrl": "https://game.naver.com/lounge/Inferno_Nine/board/detail/7603792",
   "howTo": "",
-  "updatedAt": "2026-09-24T05:51:03.738Z",
+  "postCount": 5,
+  "updatedAt": "2026-10-02T05:41:50.194Z",
   "codes": [
     {
       "code": "hope999",
@@ -48,23 +51,48 @@
       "status": "active"
     },
     {
-      "code": "I9HBD1YR",
-      "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-09-13",
-      "sourceUrl": "https://blog.naver.com/chdiwjkmmsjipj/224410432241",
-      "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-24",
-      "status": "active"
-    },
-    {
       "code": "HAPPYMAYI9",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-09-13",
-      "sourceUrl": "https://blog.naver.com/chdiwjkmmsjipj/224410432241",
+      "postedAt": "2026-04-30",
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "I9HBD1YR",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-01-19",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "ANNIVGIFT",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-01-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "inferno1st",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-01-19",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "I9LOUNGE",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-01-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-02",
       "status": "active"
     },
     {
@@ -78,34 +106,31 @@
       "status": "active"
     },
     {
-      "code": "ANNIVGIFT",
+      "code": "newyear2026",
       "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-09-13",
-      "sourceUrl": "https://blog.naver.com/chdiwjkmmsjipj/224410432241",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "active"
+      "expiry": null,
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     },
     {
-      "code": "INFERNO1ST",
+      "code": "seollal2025",
       "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-09-13",
-      "sourceUrl": "https://blog.naver.com/chdiwjkmmsjipj/224410432241",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "active"
+      "expiry": "2025-06-30",
+      "postedAt": "2025-01-29",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     },
     {
-      "code": "I9LOUNGE",
+      "code": "happysnake",
       "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-09-13",
-      "sourceUrl": "https://blog.naver.com/chdiwjkmmsjipj/224410432241",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-24",
-      "status": "active"
+      "expiry": "2025-06-30",
+      "postedAt": "2025-01-29",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     }
   ]
 }

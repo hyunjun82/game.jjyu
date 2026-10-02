@@ -1,11 +1,25 @@
 {
- "generatedAt": "2026-10-01T22:37:14.523Z",
+ "generatedAt": "2026-10-02T05:24:58.383Z",
  "window": "20260930~20261002",
  "lounges": 2312,
- "posts": 726,
- "couponPosts": 56,
+ "posts": 827,
+ "couponPosts": 75,
  "fixedTracked": [
-  "광전사 키우기 | UPDATE261001 | 10월 01일 업데이트 상세 안내"
+  "다크엔젤:천사 강림 | DA26107K | [쿠폰] 10월 쿠폰 선물 도착💖",
+  "이터널 에볼루션 | EE1002V69B | 주간 선물 코드",
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | VRMG2854 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/2 깜짝 쿠폰!",
+  "천지겁 | Version1008 | 1주년 기념 및 콜라보 버전 「청사편」 업데이트 정보!✨ (깜짝 선물 포",
+  "천지겁 | SKILLUPGRADE1008 | 청사편 버전 신규 무공 각성 미리보기! 💪(깜짝 선물 포함🎁)",
+  "루미마스터 | CHARWYN1002 | [루미 소식] 🎁 주간 쿠폰 코드가 도착했습니다!",
+  "나 혼자 만렙 키우기 | C6M9QK | 10/02 사천당가에서 온 매일 매일 쿠폰 이벤트",
+  "추억의 잡화점 | happy1ANNIV | 🎂[1주년 축제-셋째 날]🎂",
+  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-WAVE | [이벤트] 영혼 키우기 데일리 쿠폰! ◈ 10월 2일 (금)",
+  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-FIRE | [이벤트] 영혼 키우기 데일리 쿠폰! ◈ 10월 1일 (목)",
+  "스타 세일러 | OPENSKY26 | 🍂 개천절 GM 쿠폰 선물 안내 🎁",
+  "창세기전 모바일 | DEVSLETTER72 | 창세기전 모바일 : 개발자 노트 72편",
+  "삼국지 올스타 | SKY2026K | [이벤트] 개천절 특별 쿠폰 도착!",
+  "다크엔젤: 심연의 날개 | DA10A | [쿠폰] 10월 쿠폰 선물 도착🌰",
+  "요괴잡이소대 | 단풍놀이 | [쿠폰] 10월 특별선물"
  ],
  "addedLounges": [],
  "labelOnly": [
@@ -19,13 +33,48 @@
   "인투더던전:리본 | 2026-09-30 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (9/30 - 10/6)",
   "여신 키우기: 방치형 RPG | 2026-09-30 | 📬[공지] 커뮤니티 이벤트 재안내 연장 안내 ~ 10월 31일까지!!",
   "아케론: 종말의 서곡 | 2026-10-01 | [이벤트] 한글날 기념 퀴즈 이벤트✅️（10/1-10/10）",
-  "영혼 키우기 : 두 얼굴의 소녀들 | 2026-10-01 | [이벤트] 영혼 키우기 데일리 쿠폰! ◈ 10월 1일 (목)",
   "삼국지 오리진 | 2026-09-30 | 주간 퀴즈 이벤트 362탄",
   "삼국지: 제후의 전쟁 | 2026-09-30 | [제후의 전쟁] 주간 퀴즈 이벤트 4탄 (내용 수정)",
   "세븐나이츠 리버스 | 2026-10-01 | [세나리 x 귀멸의 칼날] 로비에 숨겨진 쿠폰을 찾아라! 이벤트 안내",
   "스카이 어비스: 혈맹의 서약 | 2026-10-02 | [⭐최대 20%아이템 캐시백]10/2~10/4 한정 누적 충전 혜택 안내",
   "삼국블레이드 키우기 | 2026-09-30 | 📢. (내용 추가)이제 【삼국블레이드 키우기】, 'VALOFE' 에서!!",
-  "명조:워더링 웨이브 | 2026-09-30 | 🎥 『명조:워더링 웨이브』 3.7 버전 라이브 드롭스 이벤트",
-  "요괴잡이소대 X 대환장 MMORPG | 2026-10-01 | [쿠폰] 10월 특별선물"
+  "Total Football - 25/26 시즌 | 2026-10-02 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (10/5 ~ 10/11)",
+  "명조:워더링 웨이브 | 2026-09-30 | 🎥 『명조:워더링 웨이브』 3.7 버전 라이브 드롭스 이벤트"
+ ],
+ "imageOnly": [
+  {
+   "game": "이사만루26",
+   "loungeId": "24manru3",
+   "feedId": 8270365,
+   "date": "2026-10-01",
+   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG"
+   ]
+  },
+  {
+   "game": "마왕 슬라임 키우기 : 방치형 RPG",
+   "loungeId": "GrowDemonSlime",
+   "feedId": 8267743,
+   "date": "2026-09-30",
+   "title": "[이벤트] 쿠폰닷컴 X 마왕 슬라임 키우기 전용 쿠폰 5종 공개🎁",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMTg1/MDAxNzkwNzc5MDczNzE0.b54Xp_eja7HyNsNCRi0ZCkrUJQGkTBUu1TC4mfBsWLIg.XhcygCaeyOF2ev_X1LmG93T_jj0_UIKGgmX4J3hlNfwg.PNG",
+    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMTg1/MDAxNzkwNzc5MDgxNjEx.QtYN_1WeBy6DmKtjhwpFPxoQEGuQFMhhysAp9ng4uBQg.e3ylj0MffgQHz5HxjTt8-ZNRS9qetrwQSSz5e46yzN4g.PNG",
+    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMjQ4/MDAxNzkwNzc5MjU0MjA0.2gM41w1yV9f7UEOVDvucnZODnucRwhokYzo1rR6EegIg.nBLc1TNGp3jECDm8n-6ZgoXIrZMIZlnKdoqhpQqT_j0g.PNG"
+   ]
+  },
+  {
+   "game": "세븐나이츠 리버스",
+   "loungeId": "sena_rebirth",
+   "feedId": 8269541,
+   "date": "2026-10-01",
+   "title": "[세나리 x 귀멸의 칼날] 로비에 숨겨진 쿠폰을 찾아라! 이벤트 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDFfMjE3/MDAxNzkwODE4NTUyMTM0.jCoF_IiNHOO0-TPfHC_6-b647N7bVVouX2DyW7_iyE8g.QQ8VJuqEgyEvaG_y5r6csaHdVLx5uIHgFS7zrIRJBlwg.PNG",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDFfMjgz/MDAxNzkwODE4NjAyODk3.baUCVOJHtzmQFKCsP6KZURI8uiERDB6KVA3ATEwXUOkg.HCaQmbC_X9fZPcHrrvSO3_1rg3jSjVljFNnk1gCwIZYg.JPEG",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDFfODQg/MDAxNzkwODE4NjM4MDY5.kqI_2smX62AJRKWc4WHNM-aYxVEYQkEE7D8-96bOxAMg.iVjvz8fuyysiFHiOtXX1n-YzFFUwz-qth6Yplek8Sfwg.PNG"
+   ]
+  }
  ]
 }

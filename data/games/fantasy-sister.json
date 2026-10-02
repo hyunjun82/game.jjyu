@@ -1,0 +1,77 @@
+{
+  "slug": "fantasy-sister",
+  "titleEn": "Fantasy Sister",
+  "titleKo": "판타지 여동생 : 수집형 방치 RPG",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA4MTVfMTE0/MDAxNjkyMDY0NzY4MjE0.57bDcn72nasrzPMAOhhn74ZmH8ucO9KLtxRQX4PPatEg.6uofZbhMGzYyNc_SWh5-BBuyDe5I2ruJ90ExTxSbcokg.PNG/Cafe_Event.png",
+  "source": "naver-lounge",
+  "loungeId": "Fantasy_Sister",
+  "sourceUrl": "https://game.naver.com/lounge/Fantasy_Sister/board/detail/2611953",
+  "howTo": "",
+  "postCount": 7,
+  "updatedAt": "2026-10-02T05:43:18.033Z",
+  "codes": [
+    {
+      "code": "FANTASY815",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-08-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GLOBALOPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-08-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NEWSERVER",
+      "reward": "",
+      "expiry": "2023-08-20",
+      "postedAt": "2023-07-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "FS1YEARRASPBERRY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-06-23",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "FS1YEARTRISTEPIN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-06-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "FS1YEARPIRIM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-06-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "1STANNIVERSARY",
+      "reward": "",
+      "expiry": "2023-06-30",
+      "postedAt": "2023-06-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

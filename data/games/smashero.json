@@ -1,0 +1,86 @@
+{
+  "slug": "smashero",
+  "titleEn": "Smashero",
+  "titleKo": "초전박살 스매시히어로",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA0MDRfNTAg/MDAxNzQzNzM2Mzg2NDQ0.AKO31X8rttzHQnhDT1GVEufIRzc8ooovwxm3DhSqI2sg.Ll3hR1G-Xt_gh5LoD8kiyoFgXjVNHN8YWZRRF5_ibJog.JPEG/event_1762x275.jpg",
+  "source": "naver-lounge",
+  "loungeId": "smashero",
+  "sourceUrl": "https://game.naver.com/lounge/smashero/board/detail/5965781",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-10-02T05:45:36.798Z",
+  "codes": [
+    {
+      "code": "SMASHEROMAY796",
+      "reward": "",
+      "expiry": "2025-05-31",
+      "postedAt": "2025-05-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHEROMAY537",
+      "reward": "",
+      "expiry": "2025-05-31",
+      "postedAt": "2025-05-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHEQUIP305",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-04-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHEROES248",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-04-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHENHANCE194",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-04-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHSTAGE482",
+      "reward": "",
+      "expiry": "2025-12-31",
+      "postedAt": "2025-04-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHEROAPR512",
+      "reward": "",
+      "expiry": "2025-04-30",
+      "postedAt": "2025-04-04",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SMASHEROAPR381",
+      "reward": "",
+      "expiry": "2025-04-30",
+      "postedAt": "2025-04-04",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

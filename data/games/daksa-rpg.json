@@ -5,11 +5,29 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTAxMTFfNDEg/MDAxNzM2NTM3NjU2MTE3.WMHZZyYyoyC50TkEukhi27bKIJ7rRp-4EFopokYPKaIg.gjsDMplSgcpY5sxTHlE5fBVKuIUqXp2yXvyZHBldPT0g.PNG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EA%B2%8C%EC%9E%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%95%84%EC%9D%B4%EC%BD%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Daksa_RPG",
-  "sourceUrl": "https://game.naver.com/lounge/Daksa_RPG/board/detail/8126767",
+  "sourceUrl": "https://game.naver.com/lounge/Daksa_RPG/board/detail/8231963",
   "howTo": "",
-  "postCount": 313,
-  "updatedAt": "2026-10-02T01:23:26.832Z",
+  "postCount": 316,
+  "updatedAt": "2026-10-02T05:39:56.183Z",
   "codes": [
+    {
+      "code": "추석2026",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "사파이어777",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-05-29",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
     {
       "code": "HappyDaksa69",
       "reward": "",
@@ -201,6 +219,24 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "전투력4탄1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "목표전투력",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     },
     {
       "code": "Sorry0110",

@@ -1,0 +1,32 @@
+{
+  "slug": "another-city",
+  "titleEn": "Another City",
+  "titleKo": "어나더시티",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjEwMTZfODEg/MDAxNjY1OTIxNDA2MjY2.H0vK4HxrBUXOnQBadkefCvHJCm2mWGoAczSA1TCGWXIg.s_30sFmgHH3VPKZyTA4xC_r2AzecgEoq92-mtJZPoVYg.JPEG/%EC%B9%B4%ED%8E%98_1000x160_%EA%B2%8C%EC%8B%9C%EA%B8%80%EB%B0%B0%EB%84%88-%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
+  "source": "naver-lounge",
+  "loungeId": "AnotherCity",
+  "sourceUrl": "https://game.naver.com/lounge/AnotherCity/board/detail/1521835",
+  "howTo": "게임 내 프로필 이미지 → 기프트 코드 → 쿠폰 입력 → 메일함에 보상 지급 ※ 쿠폰 보상은 계정당 1회만 받을 수 있습니다. ​",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:41:58.892Z",
+  "codes": [
+    {
+      "code": "HBDPATTON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-10-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "감사합니다01",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-02-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

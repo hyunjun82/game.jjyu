@@ -1,0 +1,23 @@
+{
+  "slug": "the-quester",
+  "titleEn": "The Quester",
+  "titleKo": "더퀘스터",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjAyMDdfMTMg/MDAxNjQ0MjAyMTk5NDI1.ZzkmY-4uDDT9Q1afIxnOI1PDUFvVpKflKsekyBndQK0g.JAiQthNR0d9SyeZGhPH5iuCvKg3AGEIDZYzltaZbniQg.PNG/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98%28300x300%29_final.png",
+  "source": "naver-lounge",
+  "loungeId": "THE_QUESTER",
+  "sourceUrl": "https://game.naver.com/lounge/THE_QUESTER/board/detail/536179",
+  "howTo": "더퀘스터 게임을 실행합니다. 마을(메인로비) 우측 상단에 있는 아이콘 그룹 선택 후 [설정]을 클릭합니다. 환경설정 창에서 하단 버튼 중 [계정]을 선택합니다.",
+  "postCount": 1,
+  "updatedAt": "2026-10-02T05:45:50.303Z",
+  "codes": [
+    {
+      "code": "THEQUESTER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-03-31",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

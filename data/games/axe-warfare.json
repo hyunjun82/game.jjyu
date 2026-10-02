@@ -1,0 +1,32 @@
+{
+  "slug": "axe-warfare",
+  "titleEn": "Axe Warfare",
+  "titleKo": "액스 : 워페어",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjAyMTRfMjU2/MDAxNjQ0ODI4OTQ4MjUw.MY3Exsjv8X73CkhPOLjUcJfnAq6WgvPUk-NczPjgyRcg.g1BoXXcETGdLzGbsAz-gQzBLdKhQe32E-NXADXF-WEAg.PNG/9YmMTj6w_7_%EC%95%B1_%EC%95%84%EC%9D%B4%EC%BD%98_%EB%9D%BC%EC%9A%B4%EC%A7%80%28300x300%29_ccexpress.png",
+  "source": "naver-lounge",
+  "loungeId": "AXE_Warfare",
+  "sourceUrl": "https://game.naver.com/lounge/AXE_Warfare/board/detail/592727",
+  "howTo": "※주의사항 1.쿠폰 사용은 계정 당 1회 참여 가능합니다. 2.쿠폰은 5월 31일까지 등록가능하며, 이후 기간만료로 사용불가합니다.",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:42:11.187Z",
+  "codes": [
+    {
+      "code": "MAYCOUPON",
+      "reward": "",
+      "expiry": "2022-05-31",
+      "postedAt": "2022-05-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "ILOVEAXE",
+      "reward": "",
+      "expiry": "2022-12-31",
+      "postedAt": "2022-02-23",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

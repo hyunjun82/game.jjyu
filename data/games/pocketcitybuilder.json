@@ -1,0 +1,33 @@
+{
+  "slug": "pocketcitybuilder",
+  "titleEn": "Pocketcitybuilder",
+  "titleKo": "포켓시티빌더",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTAyMjFfMjA0/MDAxNzQwMTIxODk1NzI5.6l-69qH6ybgarElflqqGLKmhnrZSU_VILYdA8K-3Nfkg.MU3_JOig5VXLVgq17e0cSUMd9YuTxOAmUCA9grnKlzsg.PNG/Q1.png",
+  "source": "naver-lounge",
+  "loungeId": "Pocketcitybuilder",
+  "sourceUrl": "https://game.naver.com/lounge/Pocketcitybuilder/board/detail/5684914",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:44:48.275Z",
+  "codes": [
+    {
+      "code": "PCBPRERESE24",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2025-02-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "CITYR66M7EAS",
+      "reward": "",
+      "expiry": "2025-05-30",
+      "postedAt": "2025-02-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

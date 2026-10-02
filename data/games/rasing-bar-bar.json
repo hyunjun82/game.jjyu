@@ -1,0 +1,32 @@
+{
+  "slug": "rasing-bar-bar",
+  "titleEn": "Rasing Bar Bar",
+  "titleKo": "라이징 바바",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjAzMDhfOTYg/MDAxNjQ2NzIzMzc3NDk3.vBYTWxLUJEpS7NMopNx9ciEDaLo4JNM-N7XyUXcJZkQg.WmNW4kTsGBH0HmsQwXfp3MJ05XcdDWCcBh26zhybm14g.PNG/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98.png",
+  "source": "naver-lounge",
+  "loungeId": "RasingBarBar",
+  "sourceUrl": "https://game.naver.com/lounge/RasingBarBar/board/detail/618184",
+  "howTo": "설정 > 쿠폰번호",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:45:01.337Z",
+  "codes": [
+    {
+      "code": "GUARDBARBAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-05-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "OPENBARBAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-03-30",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

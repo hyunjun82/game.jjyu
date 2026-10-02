@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T01:38:24.867Z",
+  "generatedAt": "2026-10-02T05:47:31.223Z",
   "today": "2026-10-02",
-  "todayNew": 34,
+  "todayNew": 3498,
   "totals": {
-    "games": 246,
-    "codes": 3512,
-    "active": 526,
-    "expired": 2986,
-    "withExpiry": 2117
+    "games": 628,
+    "codes": 6976,
+    "active": 588,
+    "expired": 6388,
+    "withExpiry": 3824
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-02",
-      "count": 34
+      "count": 3498
     }
   ],
   "expiringSoon": [
@@ -83,6 +83,12 @@
     {
       "slug": "lucky-plant-defense",
       "code": "26GOLDKOR4",
+      "expiry": "2026-10-02",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "C6M9QK",
       "expiry": "2026-10-02",
       "days": 0
     },
@@ -147,6 +153,12 @@
       "days": 1
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-FIRE",
+      "expiry": "2026-10-03",
+      "days": 1
+    },
+    {
       "slug": "tged",
       "code": "HOLIDAY",
       "expiry": "2026-10-03",
@@ -203,6 +215,12 @@
     {
       "slug": "peachland",
       "code": "MOONGIFT",
+      "expiry": "2026-10-04",
+      "days": 2
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG-WAVE",
       "expiry": "2026-10-04",
       "days": 2
     },
@@ -349,36 +367,18 @@
       "code": "Toy1M",
       "expiry": "2026-10-05",
       "days": 3
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "GXGGlsmwlbm",
-      "expiry": "2026-10-06",
-      "days": 4
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "RinLBM",
-      "expiry": "2026-10-06",
-      "days": 4
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "Prometheus",
-      "expiry": "2026-10-06",
-      "days": 4
     }
   ],
   "topGames": [
     {
+      "slug": "daksa-rpg",
+      "active": 22,
+      "total": 65
+    },
+    {
       "slug": "apex-girls",
       "active": 21,
       "total": 56
-    },
-    {
-      "slug": "daksa-rpg",
-      "active": 20,
-      "total": 61
     },
     {
       "slug": "dragon-traveler",
@@ -392,8 +392,13 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 29
+      "active": 16,
+      "total": 30
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 60
     },
     {
       "slug": "rogw-remains-of-gods",
@@ -401,9 +406,9 @@
       "total": 14
     },
     {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 59
+      "slug": "along-with-the-ghost",
+      "active": 12,
+      "total": 12
     },
     {
       "slug": "astro-defenders",
@@ -418,12 +423,17 @@
     {
       "slug": "inferno-nine",
       "active": 10,
-      "total": 10
+      "total": 13
     },
     {
       "slug": "whoa-adventurers",
       "active": 10,
       "total": 11
+    },
+    {
+      "slug": "dokkaebi-girl",
+      "active": 9,
+      "total": 9
     },
     {
       "slug": "sword-frontier",
@@ -459,17 +469,7 @@
       "slug": "infinite-immortal-path",
       "active": 7,
       "total": 30
-    },
-    {
-      "slug": "ehrpis",
-      "active": 6,
-      "total": 13
-    },
-    {
-      "slug": "goddess-of-victory-nikke",
-      "active": 6,
-      "total": 15
     }
   ],
-  "noImage": 19
+  "noImage": 23
 }

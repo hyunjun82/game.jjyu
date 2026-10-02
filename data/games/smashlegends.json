@@ -1,0 +1,23 @@
+{
+  "slug": "smashlegends",
+  "titleEn": "Smashlegends",
+  "titleKo": "스매시 레전드",
+  "image": "https://smashlegends.com/wp-content/uploads/2023/12/image-51-1.png",
+  "source": "naver-lounge",
+  "loungeId": "smashlegends",
+  "sourceUrl": "https://game.naver.com/lounge/smashlegends/board/detail/3223303",
+  "howTo": "",
+  "postCount": 1,
+  "updatedAt": "2026-10-02T05:45:34.095Z",
+  "codes": [
+    {
+      "code": "MerrySLmasUPD36",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-12-06",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

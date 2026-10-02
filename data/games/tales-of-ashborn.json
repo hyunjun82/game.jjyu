@@ -1,0 +1,59 @@
+{
+  "slug": "tales-of-ashborn",
+  "titleEn": "Tales Of Ashborn",
+  "titleKo": "미소녀전기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA1MzFfMTEy/MDAxNzE3MTI0MDQyOTY0.MZC44_eAzJle_UZnlzEvrVqf0dzTwVI7HxBGsRTHxwog.bKq-t1TXq79fsqMHqQL_ut9uDE3MCDL60X2YBFR0xecg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_%281%29.png",
+  "source": "naver-lounge",
+  "loungeId": "Tales_Of_Ashborn",
+  "sourceUrl": "https://game.naver.com/lounge/Tales_Of_Ashborn/board/detail/4913466",
+  "howTo": "로비 화면에서 왼쪽 상단의 프로필을 클릭하세요. 프로필 화면에서 쿠폰입력 버튼을 클릭하세요. 쿠폰 번호를 입력하고 보상을 받으세요! 쿠폰 유효기간 2024년 10월 31일까지",
+  "postCount": 5,
+  "updatedAt": "2026-10-02T05:45:41.369Z",
+  "codes": [
+    {
+      "code": "12THUPDATE",
+      "reward": "",
+      "expiry": "2024-10-31",
+      "postedAt": "2024-10-17",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "2024TGD",
+      "reward": "",
+      "expiry": "2024-09-20",
+      "postedAt": "2024-09-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "2024SEP",
+      "reward": "",
+      "expiry": "2024-09-30",
+      "postedAt": "2024-09-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GOOGLEOPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-07-30",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "TOA2UPDATE",
+      "reward": "",
+      "expiry": "2024-07-03",
+      "postedAt": "2024-06-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

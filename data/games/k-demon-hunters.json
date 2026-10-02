@@ -1,0 +1,41 @@
+{
+  "slug": "k-demon-hunters",
+  "titleEn": "K Demon Hunters",
+  "titleKo": "K데몬헌터스",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA4MjJfMjkz/MDAxNzU1ODMwNTU4NTg0.Be_kqGPl6yTOmelfa00TSnnaOhvssXXxBPTy0U_3IDgg.qdhVT3nsxgBkLBtiRKkTWvgyrI8t0f8_MeD5DKKne1Eg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "source": "naver-lounge",
+  "loungeId": "K_DemonHunters",
+  "sourceUrl": "https://game.naver.com/lounge/K_DemonHunters/board/detail/6563095",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-10-02T05:43:57.738Z",
+  "codes": [
+    {
+      "code": "P1ayStore1",
+      "reward": "",
+      "expiry": "2025-09-30",
+      "postedAt": "2025-08-22",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "1One1Store",
+      "reward": "",
+      "expiry": "2025-09-30",
+      "postedAt": "2025-08-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "OpenKDHunters",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "master-chef",
+  "titleEn": "Master Chef",
+  "titleKo": "식당의 하루",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA3MTlfMTM2/MDAxNzIxMzgwNTkzMjM0.-aenBgSXH6feIdj28lJQ9b6h9-7NcAmhKuFC92JdoNAg.UOSCI7aIE-mkTQiNrQJHKf2UBc2fWfkVGyiLqjxkOYYg.JPEG/%E7%A4%BE%E5%8C%BA%E8%B5%84%E8%AE%AF-%E3%80%90%E6%A6%9C%E5%8D%95%E7%BB%93%E7%AE%97%E8%AF%B4%E6%98%8E%E3%80%91-h.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Master_Chef",
+  "sourceUrl": "https://game.naver.com/lounge/Master_Chef/board/detail/4489706",
+  "howTo": "1. 화면 오른쪽 상단의 '설정' 아이콘 클릭 2. '교환 코드' 버튼 클릭 3. 코드를 입력하여 보상 수령",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:44:19.879Z",
+  "codes": [
+    {
+      "code": "LISTGUIDE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-07-22",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "DAYONE999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-05-30",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

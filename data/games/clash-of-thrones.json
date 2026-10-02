@@ -1,0 +1,41 @@
+{
+  "slug": "clash-of-thrones",
+  "titleEn": "Clash Of Thrones",
+  "titleKo": "클래시 오브 스론 : 여정",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA0MTFfMjUy/MDAxNzQ0MzU5NTc3MzUz.1Ky4am-cmTDzokoBtgMWQxsI3hBYEN1uaMhjN0XLS2og.Pv0zxBrRsKDYpvaN4-Ln0ndFAm7eFzsqRzA7noasI70g.JPEG/50%EC%9D%BC_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%8C%9D%EC%97%85_%EB%B0%B0%EB%84%88.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Clash_Of_Thrones",
+  "sourceUrl": "https://game.naver.com/lounge/Clash_Of_Thrones/board/detail/5876025",
+  "howTo": "1. 게임 내 설정 > 쿠폰 탭으로 이동 2. 쿠폰 코드 입력 후 보상 받기! ​",
+  "postCount": 3,
+  "updatedAt": "2026-10-02T05:42:30.510Z",
+  "codes": [
+    {
+      "code": "COT50DAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-04-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "APRILFOOL401",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-04-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "FREEDOM31",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-03-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

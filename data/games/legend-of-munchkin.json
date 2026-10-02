@@ -1,0 +1,32 @@
+{
+  "slug": "legend-of-munchkin",
+  "titleEn": "Legend Of Munchkin",
+  "titleKo": "먼치킨 전설",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTAxMDJfMTQ5/MDAxNzM1ODAxMjUyNjk2.oAoEFHPCe9J8olFf8kqIuovP3iu2I5EQUb5lRGC8r_Qg.5wjBb5nPf-j2WHUWTsQaoWhXvq2yxE3qVvXunsqMMnAg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EA%B3%B5%EC%A7%80%EC%9D%B4%EB%AF%B8%EC%A7%80.png",
+  "source": "naver-lounge",
+  "loungeId": "Legend_of_Munchkin",
+  "sourceUrl": "https://game.naver.com/lounge/Legend_of_Munchkin/board/detail/5408315",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:44:09.667Z",
+  "codes": [
+    {
+      "code": "NEWYEARMUNCHKIN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-01-02",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "ALLYOUNEEDISLOVE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-09-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

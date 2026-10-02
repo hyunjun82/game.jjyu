@@ -1,0 +1,41 @@
+{
+  "slug": "muya",
+  "titleEn": "Muya",
+  "titleKo": "무야강호",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA2MTZfNDEg/MDAxNjg2OTEwNjU4MzA3.bxZQtqAguGCBUB6o9QUxKTBRnBjNgpUxX_Mh7HxANuog.MuUjRAZD32Gy5a2NmvYV9AbifxZ2ZDhPXakNRjRYZmEg.JPEG/6.-%EC%8B%A0%EC%84%9C%EB%B2%84-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%84%A0%EB%AC%BC.jpg",
+  "source": "naver-lounge",
+  "loungeId": "MUYA",
+  "sourceUrl": "https://game.naver.com/lounge/MUYA/board/detail/2208006",
+  "howTo": "",
+  "postCount": 157,
+  "updatedAt": "2026-10-02T05:44:37.307Z",
+  "codes": [
+    {
+      "code": "welcome64",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-06-17",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYMUYA23",
+      "reward": "",
+      "expiry": "2023-03-31",
+      "postedAt": "2023-01-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMEMUYA23",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

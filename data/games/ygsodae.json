@@ -2,14 +2,41 @@
   "slug": "ygsodae",
   "titleEn": "Ygsodae",
   "titleKo": "요괴잡이소대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTEwMjlfMjM5/MDAxNzYxNzIyMzg0MjA4.vIbil1mX_4MfBBMHuLW1ysYFF7DqACTWrTUHbNBr780g.wWiajERAI5rrV_kpWIpKbDA-b8AZ5SiEkoIqcnNnOawg.PNG/sodae_lounge_preview_event_all.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfNTAg/MDAxNzkwNTg3MTI4MTQ3.s3Hn__ml2BE_4QFKrwzL99pvvQrB8KHrTx3eeGJws7cg.xoF9zG_6UOfoGHIMWeObR0dUieAi_TMTWwXjA1sYPjcg.PNG/sodae_lounge_preview_event_all.png",
   "source": "naver-lounge",
   "loungeId": "ygsodae",
-  "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/6860280",
-  "howTo": "​ 🔸 쿠폰 보상 ​ ​ 🔸참고해주세요!",
-  "postCount": 1,
-  "updatedAt": "2026-10-02T01:22:50.885Z",
+  "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/8269055",
+  "howTo": "🔸10월 특별선물 쿠폰 보상 쿠폰 코드 쿠폰 보상 유효 기간 단풍놀이",
+  "postCount": 10,
+  "updatedAt": "2026-10-02T05:39:46.858Z",
   "codes": [
+    {
+      "code": "단풍놀이",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "추석선물",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "300일선물",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-08-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
     {
       "code": "FREEGIFT",
       "reward": "",
@@ -20,6 +47,60 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "천고마비",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "여름휴가",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "칠월칠석",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "호국보훈",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "가정의달",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "봄맞이선물",
+      "reward": "",
+      "expiry": "2026-04-26",
+      "postedAt": "2026-03-23",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     }
   ]
 }

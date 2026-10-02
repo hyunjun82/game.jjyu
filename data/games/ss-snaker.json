@@ -1,0 +1,68 @@
+{
+  "slug": "ss-snaker",
+  "titleEn": "Ss Snaker",
+  "titleKo": "배배배뱀",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA1MjhfODAg/MDAxNjg1Mjc5MzQwNjk5.GgbS_LwIg9jTuURrMTUNDTtboBQ5AX0ZIq1QB3U0uCEg.s_NoMeT3zaX03-2k_IEiAvXz2tV6GPTxdbdWCjrHFjkg.PNG/BANNER.png",
+  "source": "naver-lounge",
+  "loungeId": "SSSnaker",
+  "sourceUrl": "https://game.naver.com/lounge/SSSnaker/board/detail/3815413",
+  "howTo": "기프트코드 사용 링크를 접속하여 기프트코드 delay 를 입력해 선물을 받으세요!",
+  "postCount": 6,
+  "updatedAt": "2026-10-02T05:45:37.835Z",
+  "codes": [
+    {
+      "code": "delay",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-05-28",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "1yearsnake",
+      "reward": "",
+      "expiry": "2024-03-27",
+      "postedAt": "2024-03-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "snake2024",
+      "reward": "",
+      "expiry": "2024-01-04",
+      "postedAt": "2023-12-31",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "77snake",
+      "reward": "",
+      "expiry": "2023-08-25",
+      "postedAt": "2023-08-22",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "snakeboat666",
+      "reward": "",
+      "expiry": "2023-06-26",
+      "postedAt": "2023-06-22",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "sssnaker51",
+      "reward": "",
+      "expiry": "2023-05-02",
+      "postedAt": "2023-04-28",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "demon-sorceress",
+  "titleEn": "Demon Sorceress",
+  "titleKo": "데몬 소서리스 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA4MDVfNjEg/MDAxNzIyODIwMTgwMzA2.Ii9a6OgPQk2P0V8TR9vuX-dlqKsYKX5zG8CXvRs07Ogg.H3FdYruDRQUuPbdzqWL2a_VbaMMpQVUCocw3jni9au4g.PNG/LoungeIcon.png",
+  "source": "naver-lounge",
+  "loungeId": "Demon_Sorceress",
+  "sourceUrl": "https://game.naver.com/lounge/Demon_Sorceress/board/detail/7827356",
+  "howTo": "",
+  "postCount": 6,
+  "updatedAt": "2026-10-02T05:42:47.512Z",
+  "codes": [
+    {
+      "code": "20260621GUILDCONTENT",
+      "reward": "",
+      "expiry": "2026-07-22",
+      "postedAt": "2026-06-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "20260531ADVENTURE",
+      "reward": "",
+      "expiry": "2026-07-15",
+      "postedAt": "2026-05-31",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "ATTENDANCE_ERROR",
+      "reward": "",
+      "expiry": "2026-03-04",
+      "postedAt": "2026-02-12",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "20260129ERROR",
+      "reward": "",
+      "expiry": "2026-02-13",
+      "postedAt": "2026-01-29",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "20260104ERROR",
+      "reward": "",
+      "expiry": "2026-01-18",
+      "postedAt": "2026-01-04",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "ANCFAMILIAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-04-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

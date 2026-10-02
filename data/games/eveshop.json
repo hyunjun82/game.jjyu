@@ -1,0 +1,41 @@
+{
+  "slug": "eveshop",
+  "titleEn": "Eveshop",
+  "titleKo": "이브의 쇼핑몰",
+  "image": "https://cafeptthumb-phinf.pstatic.net/MjAyNDAzMjhfMjg0/MDAxNzExNjAwNTI5MzAw.PWa3fImllfRmMxMDxfutoVfz1Ui0L7cdjDIdIYoFlLUg.jilVAbzEZjSLZaNwCWM5Ovc7XPFRtXPklykeym9ASo4g.PNG/SE-b037682f-f046-44be-a313-0fcbeec066a7.png",
+  "source": "naver-lounge",
+  "loungeId": "eveshop",
+  "sourceUrl": "https://game.naver.com/lounge/eveshop/board/detail/4559939",
+  "howTo": "※ 계정당 1회 사용 가능합니다. ※ 쿠폰 코드 입력 후 보상 지급까지 약간의 시간이 소요될 수 있습니다. ※ 본 내용은 사전 안내를 거쳐 변경될 수 있습니다. 배치모드와 함께 더욱 풍성한 이브의 쇼핑몰을 즐겨보세요 !",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:43:04.218Z",
+  "codes": [
+    {
+      "code": "D7ZK9Y3D46",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "X5O1JW74OV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "AVHL2CBQVA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

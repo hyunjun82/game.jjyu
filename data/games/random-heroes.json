@@ -1,0 +1,23 @@
+{
+  "slug": "random-heroes",
+  "titleEn": "Random Heroes",
+  "titleKo": "랜덤 히어로즈",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA3MDVfMTI1/MDAxNjg4NTM3Mzk0MTM3.5PyQz-vdLo9O3U_y035OZS7a9vvPZIat_8LiCdup51Ug.j6iwlxW31RofTPDHLzmYVe7EoCJWPwQel-1f6NXjbxwg.PNG/IMG_0053.png",
+  "source": "naver-lounge",
+  "loungeId": "RandomHeroes",
+  "sourceUrl": "https://game.naver.com/lounge/RandomHeroes/board/detail/2325768",
+  "howTo": "",
+  "postCount": 1,
+  "updatedAt": "2026-10-02T05:44:59.732Z",
+  "codes": [
+    {
+      "code": "RAINY_JULY",
+      "reward": "",
+      "expiry": "2023-07-31",
+      "postedAt": "2023-07-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

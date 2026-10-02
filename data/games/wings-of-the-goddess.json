@@ -2,14 +2,131 @@
   "slug": "wings-of-the-goddess",
   "titleEn": "Wings Of The Goddess",
   "titleKo": "다크엔젤: 심연의 날개",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjFfMTUw/MDAxNzg0NTk5NTk3MTM1.Lo6fkvrkkFvs9fsNTq1rTW9WZo24v71zCNq6j0QPR70g.GdmfkGIENERSu-6kmDU3avvTz1vx4SMfHA2XZ7KtvUAg.PNG/8%EC%9B%94_%EC%BF%A0%ED%8F%B0%EC%84%A0%EB%AC%BC.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjVfMTkw/MDAxNzg3NjQyNjE0NDYx.VzbNYZ_cOSP7wXX5iA50uQn459iv31eGVwpDwGpbu4sg.I2nGQ7X1kIX5ykctzVntZ0ZAYjvbtuAf7hn0iXvR_Hsg.PNG/9%EC%9B%94_%EC%B4%88_%EC%BF%A0%ED%8F%B0.png",
   "source": "naver-lounge",
   "loungeId": "Wings_of_the_Goddess",
-  "sourceUrl": "https://game.naver.com/lounge/Wings_of_the_Goddess/board/detail/8061962",
+  "sourceUrl": "https://game.naver.com/lounge/Wings_of_the_Goddess/board/detail/8267822",
   "howTo": "",
-  "postCount": 46,
-  "updatedAt": "2026-10-02T01:30:13.596Z",
+  "postCount": 47,
+  "updatedAt": "2026-10-02T05:41:07.578Z",
   "codes": [
+    {
+      "code": "DA10A",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "ANG915",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "ANG901",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "AUG01X",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "JULYGIFT01",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-07-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMER7",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-07-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "WZHO4C8E1B",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "WCHU7A9D2F",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "MAY15C3E8B",
+      "reward": "",
+      "expiry": "2026-07-01",
+      "postedAt": "2026-05-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "MAY01F7A9D",
+      "reward": "",
+      "expiry": "2026-07-01",
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "APR01E7C9A",
+      "reward": "",
+      "expiry": "2026-07-01",
+      "postedAt": "2026-04-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "A290819AA4",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-03-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "D229121FE5",
+      "reward": "",
+      "expiry": "2026-03-31",
+      "postedAt": "2026-02-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
     {
       "code": "7B4E1C9D6A",
       "reward": "",

@@ -1,0 +1,86 @@
+{
+  "slug": "returned-warrior-rpg",
+  "titleEn": "Returned Warrior Rpg",
+  "titleKo": "귀환병 전기 : 레트로RPG",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDAyMTRfMTA1/MDAxNzA3ODc0ODQ5MjM0.C1VLhfzagKXZ4QOgnyHLMhZyz0M6PtwkHrmBSqD2WcUg.zT6mzhir-PuGgL6bDKt3EW_DkeEB89KnbtTj4i6Spbsg.PNG/event.png",
+  "source": "naver-lounge",
+  "loungeId": "Returned_Warrior_RPG",
+  "sourceUrl": "https://game.naver.com/lounge/Returned_Warrior_RPG/board/detail/5326520",
+  "howTo": "",
+  "postCount": 8,
+  "updatedAt": "2026-10-02T05:45:09.073Z",
+  "codes": [
+    {
+      "code": "x2024mas",
+      "reward": "",
+      "expiry": "2024-12-31",
+      "postedAt": "2024-12-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "halloweenday",
+      "reward": "",
+      "expiry": "2024-11-10",
+      "postedAt": "2024-10-25",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "thanksgiving",
+      "reward": "",
+      "expiry": "2024-09-25",
+      "postedAt": "2024-09-12",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "summertime",
+      "reward": "",
+      "expiry": "2024-07-31",
+      "postedAt": "2024-07-04",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "familymonth",
+      "reward": "",
+      "expiry": "2024-05-15",
+      "postedAt": "2024-05-04",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "happymay",
+      "reward": "",
+      "expiry": "2024-05-31",
+      "postedAt": "2024-05-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "april24",
+      "reward": "",
+      "expiry": "2024-04-30",
+      "postedAt": "2024-04-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "lunanewday",
+      "reward": "",
+      "expiry": "2024-02-22",
+      "postedAt": "2024-02-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

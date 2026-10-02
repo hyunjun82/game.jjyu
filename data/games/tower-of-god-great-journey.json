@@ -1,0 +1,32 @@
+{
+  "slug": "tower-of-god-great-journey",
+  "titleEn": "Tower Of God Great Journey",
+  "titleKo": "신의 탑M : 위대한 여정",
+  "image": "https://nng-phinf.pstatic.net/MjAyMTExMDlfOCAg/MDAxNjM2NDM5MzE1MDU1.3WONIqtOoYUs99t4hxpOriuU5vTdP5wTgJfg_Pgz9AAg.-5ahIPTUqy3cWlL44KPzKW3AbmCwE34FwqWWqQURNzUg.JPEG/decFnM9p_7_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_300_300.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Tower_of_God_Great_Journey",
+  "sourceUrl": "https://game.naver.com/lounge/Tower_of_God_Great_Journey/board/detail/665921",
+  "howTo": "- 게임 내 [메뉴] - [옵션] - [계정] - [쿠폰 입력]을 통해 입력하시면 아이템을 지급 받을 수 있습니다. (AOS기기 사용자 한정) - [ 쿠폰 입력 페이지 ]에서 Account ID와 쿠폰 코드를 입력하신 후, [사용하기]를 눌러 아이템을 지급 받을 수 있습니다. - 쿠폰을 통해 지급된 아이템은 [우편함]을 통해 확인하실 수 있습니다.",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:45:55.323Z",
+  "codes": [
+    {
+      "code": "ONETOG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-06-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "DREAMTOG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-06-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "magician-cat-idle",
+  "titleEn": "Magician Cat Idle",
+  "titleKo": "고냥이 마법사",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTJfOTEg/MDAxNzgxMjMzNjAyNDA1.WykaGi2LsfNc2-lde34z7MeqS2VQA5s3qsdkd9jrTMcg.0ZkR3oJnYVto4Hr4mIqLWIuP1liYzIlHQvDn18WYr2og.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "source": "naver-lounge",
+  "loungeId": "magician_cat_idle",
+  "sourceUrl": "https://game.naver.com/lounge/magician_cat_idle/board/detail/8110084",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:44:16.785Z",
+  "codes": [
+    {
+      "code": "SORRY0827",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "CATBUTLER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-12",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

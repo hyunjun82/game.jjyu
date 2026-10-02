@@ -1,0 +1,41 @@
+{
+  "slug": "mjmc",
+  "titleEn": "Mjmc",
+  "titleKo": "강시:감염 위기",
+  "image": "https://cafeptthumb-phinf.pstatic.net/MjAyMzAzMjRfMjI2/MDAxNjc5NjQwMTg2NTc2.0xIJFES1iCbAYV85Yl5KR4AdgMvPU38vM9ZVZNuw5tEg.wBSHKYSOjotLOl0whdj-BY4I4QPsbkyijm8UhfNj4J0g.PNG/835-200.png",
+  "source": "naver-lounge",
+  "loungeId": "mjmc",
+  "sourceUrl": "https://game.naver.com/lounge/mjmc/board/detail/1728430",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-10-02T05:44:28.959Z",
+  "codes": [
+    {
+      "code": "VIP2023",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-03-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GM0214",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-02-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "2023XCKL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "maniac-m",
+  "titleEn": "Maniac M",
+  "titleKo": "매니악M",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA1MjJfMjQ2/MDAxNzE2MzQ3ODk2NzMw.9SdtVxn-zoARuwjG7ccU_jOBoO3AHrC7yjSuPAF701sg.kAyY5ZXbXUno3zb1LJw_xrPMqUXSfIrAv7pNKwzMGT0g.JPEG/05-Lounge%E8%B4%B4%E6%96%87banner%E5%9B%BE-%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%AC%E5%BC%80.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Maniac_M",
+  "sourceUrl": "https://game.naver.com/lounge/Maniac_M/board/detail/4200873",
+  "howTo": "",
+  "postCount": 8,
+  "updatedAt": "2026-10-02T05:44:24.688Z",
+  "codes": [
+    {
+      "code": "LEVEL20021",
+      "reward": "",
+      "expiry": "2024-07-31",
+      "postedAt": "2024-06-07",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "FIGHT10025",
+      "reward": "",
+      "expiry": "2024-07-31",
+      "postedAt": "2024-06-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HELLO24",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-05-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NRESEARCH1",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-05-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "Maniac41936",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-05-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GOOD238",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-05-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "LoungeNew149",
+      "reward": "",
+      "expiry": "2024-07-31",
+      "postedAt": "2024-05-17",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "LoungeNew138",
+      "reward": "",
+      "expiry": "2024-07-31",
+      "postedAt": "2024-05-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "LoungeNew125",
+      "reward": "",
+      "expiry": "2024-07-31",
+      "postedAt": "2024-05-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

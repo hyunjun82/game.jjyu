@@ -1,0 +1,32 @@
+{
+  "slug": "hunter-world",
+  "titleEn": "Hunter World",
+  "titleKo": "헌터W",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA5MDFfMTYx/MDAxNjkzNTUwNDg0OTA4.gZghQNfQ5EbKIpZchJmkfIvqXwzdWQNGnWS-3Bk_hs8g.SDiZlEbSkt5OHpq0y4qhbxdp4xlPB13EWis6GIMwhPkg.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD1.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Hunter_World",
+  "sourceUrl": "https://game.naver.com/lounge/Hunter_World/board/detail/2713928",
+  "howTo": "항상 보내주시는 응원과 성원에 감사드리며 더욱 재미있는 콘텐츠로 찾아뵙겠습니다.",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:43:44.157Z",
+  "codes": [
+    {
+      "code": "HappySep",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-09-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NAVER07",
+      "reward": "",
+      "expiry": "2023-07-31",
+      "postedAt": "2023-07-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

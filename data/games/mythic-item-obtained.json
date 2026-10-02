@@ -1,0 +1,86 @@
+{
+  "slug": "mythic-item-obtained",
+  "titleEn": "Mythic Item Obtained",
+  "titleKo": "신화급 귀속 아이템을 손에 넣었다 : 방치형 RPG",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA3MThfMjg2/MDAxNzUyODQwNzQxNzEx.oc_RL7FhqBhldpbglOxQZSHY3pHcpn__lBnETqxThikg.aNHoztY3da8Io_T7HV401fIv05fYHul6251l_rnUwiEg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_100x100.png",
+  "source": "naver-lounge",
+  "loungeId": "Mythic_Item_Obtained",
+  "sourceUrl": "https://game.naver.com/lounge/Mythic_Item_Obtained/board/detail/7546746",
+  "howTo": "쿠폰 사용은 메인 화면 오른쪽 상단 [≡] - [옵션] - [쿠폰 입력]에서 입력하실 수 있으며, 쿠폰 입력 시 우편함을 통해 보상이 지급됩니다. 🚨 유의사항 ※ 쿠폰은 1회만 입력할 수 있으며, 중복으로 입력되지 않습니다. ※ 쿠폰 입력 시 띄어쓰기 없이, 영문 대/소문자를 구별하여 작성을 부탁드리겠습니다.",
+  "postCount": 8,
+  "updatedAt": "2026-10-02T05:44:33.719Z",
+  "codes": [
+    {
+      "code": "HEART4U",
+      "reward": "",
+      "expiry": "2025-08-08",
+      "postedAt": "2025-07-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "Picnic53",
+      "reward": "",
+      "expiry": "2026-04-23",
+      "postedAt": "2026-04-17",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "Blossom52",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-10",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "20ArborDay26",
+      "reward": "",
+      "expiry": "2026-04-09",
+      "postedAt": "2026-04-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "Mythic1st",
+      "reward": "",
+      "expiry": "2026-04-01",
+      "postedAt": "2026-03-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "WHITECANDY",
+      "reward": "",
+      "expiry": "2026-03-19",
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NewYear2026",
+      "reward": "",
+      "expiry": "2026-02-18",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "Surprise300Day",
+      "reward": "",
+      "expiry": "2026-02-01",
+      "postedAt": "2026-01-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

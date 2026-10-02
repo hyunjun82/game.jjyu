@@ -5,11 +5,254 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjhfMjc2/MDAxNzg1MjIwNjY5NjI4.PmetJrydkBFbC-YxIPBVj7zofAqa1g3Q9Ev8eUaYsP8g.63HzQOiXEPbfLg9HpH39GVusCaBis6cVgFlMDEvDTtAg.PNG/1280X1280_(2).png",
   "source": "naver-lounge",
   "loungeId": "Raising_Souls",
-  "sourceUrl": "https://game.naver.com/lounge/Raising_Souls/board/detail/7987575",
+  "sourceUrl": "https://game.naver.com/lounge/Raising_Souls/board/detail/8274935",
   "howTo": "1. 채팅창 진입 2. /coupon 쿠폰 번호 입력 후 등록",
-  "postCount": 4,
-  "updatedAt": "2026-10-02T01:22:46.063Z",
+  "postCount": 31,
+  "updatedAt": "2026-10-02T05:39:47.083Z",
   "codes": [
+    {
+      "code": "YOUNG-WAVE",
+      "reward": "",
+      "expiry": "2026-10-04",
+      "postedAt": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "YOUNG-FIRE",
+      "reward": "",
+      "expiry": "2026-10-03",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "YOUNG-FLASH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "SOUL-BRIGHT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "YOUNG-HOPE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-17",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-SPARK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-LIGHT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-FRIDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-BOOST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-BLOOM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-BLAZE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-RISE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-WISH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-DREAM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-GLOW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-02",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-SHINE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-GIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-31",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-DREAM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-UPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-25",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-YOUNG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-LUCKY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-IDLE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-LOVE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-SMILE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-PLAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOUL-HAPPY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-12",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNG-UP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
     {
       "code": "CELEBRATE300D",
       "reward": "",

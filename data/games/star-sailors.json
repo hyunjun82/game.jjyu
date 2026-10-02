@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjBfNjkg/MDAxNzg0NTM1MzczMTg0.a7vXRAJrym4uq-4jYbYlGL71-DFkg5XdOBbKx1FWOuEg.AyZ3kkEyh0MI2VkpEbcXF6NbGLI064iIgazu2jLUaPEg.PNG/260210_event_500_ko.png",
   "source": "naver-lounge",
   "loungeId": "Star_Sailors",
-  "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/8270114",
+  "sourceUrl": "https://game.naver.com/lounge/Star_Sailors/board/detail/8274648",
   "howTo": "쿠폰 보상은 서버 계정당 1회만 수령하실 수 있습니다. 입력하신 쿠폰 보상은 우편함으로 지급됩니다. 사용 기간이 지나면 쿠폰 입력이 불가능하니 꼭 기간 내에 사용해 주시길 바랍니다.",
-  "postCount": 22,
-  "updatedAt": "2026-10-02T01:18:15.282Z",
+  "postCount": 23,
+  "updatedAt": "2026-10-02T05:39:05.142Z",
   "codes": [
+    {
+      "code": "OPENSKY26",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-02",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
     {
       "code": "SAILOROCT26",
       "reward": "",
@@ -85,7 +94,7 @@
     {
       "code": "AUGUSTSAILORS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-31",
       "postedAt": "2026-07-31",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-02",

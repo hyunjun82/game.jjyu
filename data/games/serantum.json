@@ -1,0 +1,32 @@
+{
+  "slug": "serantum",
+  "titleEn": "Serantum",
+  "titleKo": "세란텀: 은하 대개척",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MThfOTkg/MDAxNzg3MDI0NjMzMTU5.Jkd5Wuh_2udp1Z3akpFBXep_7Fral3dOA7R1euF44Wcg.p2CgZGxJNRKTsi_m1JU5hlVLfgtMsgKzSuSdcz2W_Xog.PNG/2.png",
+  "source": "naver-lounge",
+  "loungeId": "SERANTUM",
+  "sourceUrl": "https://game.naver.com/lounge/SERANTUM/board/detail/8093945",
+  "howTo": "쿠폰 코드 ROAMER4000 을 게임내 [설정 -> 계정 지원 -> 쿠폰] 에 입력한다. 쿠폰 입력 후 에테르 100개",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:45:18.587Z",
+  "codes": [
+    {
+      "code": "ROAMER4000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-23",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SERANTUM2026",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-18",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

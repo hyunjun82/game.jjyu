@@ -1,0 +1,32 @@
+{
+  "slug": "revenger-saga",
+  "titleEn": "Revenger Saga",
+  "titleKo": "리벤저 사가",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDExMjdfMSAg/MDAxNzMyNjk1MDA0OTc0.HnxqtF2rTzOSHtFzi5T5bjjRi8poQLHb9QjUuS3CIF4g.NZqqjb3Q_jUT69Go44bRyyt5B7seDDknU6M5XvZiCHEg.PNG/GM%EC%86%8C%EC%8B%9D.png",
+  "source": "naver-lounge",
+  "loungeId": "Revenger_Saga",
+  "sourceUrl": "https://game.naver.com/lounge/Revenger_Saga/board/detail/5194139",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:45:15.074Z",
+  "codes": [
+    {
+      "code": "class12",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-11-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "AISHACOOL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-06-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "disney-catch",
+  "titleEn": "Disney Catch",
+  "titleKo": "디즈니 틀린그림찾기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjAzMTNfMTQg/MDAxNzczMzc5OTU5OTEy.ZGm7hrw5DNwOXbFS1KQ022JkVm3LYx0DThOjjy74WvEg.880CnJ1ge8xMWTeN7enLIWxvSeAXikNdVvNwXFPr2EUg.JPEG/%EC%83%88_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Disney_Catch",
+  "sourceUrl": "https://game.naver.com/lounge/Disney_Catch/board/detail/7542767",
+  "howTo": "1. 안드로이드 쿠폰 입력 방법 - 게임 내 설정 → 쿠폰 → 쿠폰번호 입력 → 우편함에 지급 2. 쿠폰 사이트를 통한 입력 방법 - 사이트 접속 → 회원번호와 쿠폰번호 입력 → 우편함에 지급 - 사이트 URL :",
+  "postCount": 6,
+  "updatedAt": "2026-10-02T05:42:53.592Z",
+  "codes": [
+    {
+      "code": "LUNO0313",
+      "reward": "",
+      "expiry": "2026-03-21",
+      "postedAt": "2026-03-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "LUNO0312",
+      "reward": "",
+      "expiry": "2026-03-21",
+      "postedAt": "2026-03-12",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SafetyDay0416",
+      "reward": "",
+      "expiry": "2026-04-30",
+      "postedAt": "2026-04-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SAMILDAY2026",
+      "reward": "",
+      "expiry": "2026-03-02",
+      "postedAt": "2026-02-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "LD0217",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "VD0214",
+      "reward": "",
+      "expiry": "2026-02-28",
+      "postedAt": "2026-02-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

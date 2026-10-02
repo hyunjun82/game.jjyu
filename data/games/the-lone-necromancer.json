@@ -1,0 +1,41 @@
+{
+  "slug": "the-lone-necromancer",
+  "titleEn": "The Lone Necromancer",
+  "titleKo": "나 혼자 네크로맨서",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTAzMTJfMTI3/MDAxNzQxNzc1MzkxNzg4.kNqFoRoIsZUKiwFV1OBAO85B5cx-ImY0mC3MFFBunBYg.XygiTzNZG-eyPofVECYjOO5l345tMBKVqx-CtlxIbuIg.PNG/%EB%B0%B0%EB%84%88_%EA%B0%80%EC%9D%B4%EB%93%9C.png",
+  "source": "naver-lounge",
+  "loungeId": "The_Lone_Necromancer",
+  "sourceUrl": "https://game.naver.com/lounge/The_Lone_Necromancer/board/detail/7373215",
+  "howTo": "게임 내 설정 → 쿠폰코드입력 → 웹사이트에서 UUID 및 쿠폰코드 입력 *쿠폰 입력 사이트 ->",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:45:46.858Z",
+  "codes": [
+    {
+      "code": "NECRO1YEAR",
+      "reward": "",
+      "expiry": "2026-05-05",
+      "postedAt": "2026-03-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NECROMANCER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-03-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GRANDOPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-03-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

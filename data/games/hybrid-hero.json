@@ -1,0 +1,23 @@
+{
+  "slug": "hybrid-hero",
+  "titleEn": "Hybrid Hero",
+  "titleKo": "잡캐키우기 온라인",
+  "image": "https://navercafe.s3.ap-northeast-2.amazonaws.com/fe8bec1af0201827b0b4d072ea45914b_9b33233ab885d7c7.png",
+  "source": "naver-lounge",
+  "loungeId": "Hybrid_Hero",
+  "sourceUrl": "https://game.naver.com/lounge/Hybrid_Hero/board/detail/3176721",
+  "howTo": "모바일 원스토어앱/원게임루프 > 마이 > ‘내쿠폰’ ㅁ 쿠폰 난수 입력으로 지급되는 할인 쿠폰은 3회 사용 가능한 쿠폰 1종입니다. ㅁ 할인 쿠폰은 쿠폰 난수를 입력한 원스토어 계정으로 지급됩니다. (다른 계정으로 재지급 불가) ㅁ 쿠폰 난수는 띄어쓰기 없이 입력되어야 하며 영문은 대문자로 입력해주세요. ㅁ 구매 취소 후 복구된 쿠폰은 재사용 가능하나, 보너스 쿠폰은 재지급되지 않습니다.",
+  "postCount": 1,
+  "updatedAt": "2026-10-02T05:43:45.985Z",
+  "codes": [
+    {
+      "code": "CYBERMONDAY1127",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-11-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

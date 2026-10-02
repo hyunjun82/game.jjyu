@@ -1,0 +1,32 @@
+{
+  "slug": "fall-in-dungeon",
+  "titleEn": "Fall In Dungeon",
+  "titleKo": "던전에빠지다",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjA1MTFfMTA5/MDAxNjUyMjc0OTQ5MDcx.j0qzyBorut1l39PsxR2RFeMD5Q5meDY_I7roNWgWkdog.58RQXTEtioV7IFhgsWqm1nv2h8yGEaI3Y9x9xAnF5QYg.PNG/%EC%95%B1%EC%95%84%EC%9D%B4%EC%BD%98300.png",
+  "source": "naver-lounge",
+  "loungeId": "Fall_in_Dungeon",
+  "sourceUrl": "https://game.naver.com/lounge/Fall_in_Dungeon/board/detail/691261",
+  "howTo": "1.메인화면 채팅창 위의 화살표[펼치기] 아이콘 터치 2.[설정] 아이콘 터치 3.쿠폰 코드 입력 후[입력] 버튼 터치시 보상지급",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:43:12.323Z",
+  "codes": [
+    {
+      "code": "FALLINDUNGEON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-06-25",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "LAUNCHDELAYGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-05-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

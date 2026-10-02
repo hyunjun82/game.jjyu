@@ -1,0 +1,41 @@
+{
+  "slug": "demon-hunter",
+  "titleEn": "Demon Hunter",
+  "titleKo": "데몬헌터",
+  "image": "https://storep-phinf.pstatic.net/ogq_58f1f5bf4517a/original_3.png",
+  "source": "naver-lounge",
+  "loungeId": "Demon_Hunter",
+  "sourceUrl": "https://game.naver.com/lounge/Demon_Hunter/board/detail/4218322",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-10-02T05:42:43.211Z",
+  "codes": [
+    {
+      "code": "DH0610Dano",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-06-10",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "060624DH",
+      "reward": "",
+      "expiry": "2024-06-06",
+      "postedAt": "2024-06-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "DHFamily123",
+      "reward": "",
+      "expiry": "2024-05-12",
+      "postedAt": "2024-05-06",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

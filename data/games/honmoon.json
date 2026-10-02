@@ -2,14 +2,34 @@
   "slug": "honmoon",
   "titleEn": "Honmoon",
   "titleKo": "혼문",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA1MTJfMTc4/MDAxNzc4NTk3NTQ1NzY1.dMAWicUj2ykCfgODuiKM1RObuOL4_cSyoqVH_9kRBxIg.66LRid7YPGpMrVVZNRbJUDYIJf8jUa2-0iIk30L8Y_4g.JPEG/honmoon_lounge_preview_event_all.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfODYg/MDAxNzg4NDg1MTM0NjUz.bA03-p1gvYTYTyWB1Pj3d42Jo4vTzxZDv3luQm-9V5gg.ERPB8x4lhljGsCKiS9TfFxQgY2Uh8nAl5PnSRU6L9l0g.JPEG/honmoon_lounge_preview_event_all.jpg",
   "source": "naver-lounge",
   "loungeId": "honmoon",
-  "sourceUrl": "https://game.naver.com/lounge/honmoon/board/detail/7658607",
-  "howTo": "플레이어님들 덕에 무사히 정식 출시를 할 수 있었습니다. 최선의 서비스를 제공할 수 있도록 온 힘을 다하겠습니다.",
-  "postCount": 1,
-  "updatedAt": "2026-10-02T01:23:01.441Z",
+  "sourceUrl": "https://game.naver.com/lounge/honmoon/board/detail/8226754",
+  "howTo": "추석 보름달에 빈 플레이어님들의 소원이 이루어 지기를 진심으로 바라겠습니다.",
+  "postCount": 7,
+  "updatedAt": "2026-10-02T05:39:50.353Z",
   "codes": [
+    {
+      "code": "소원을말해봐",
+      "reward": "",
+      "expiry": "2026-10-21",
+      "expiryFrom": "event",
+      "postedAt": "2026-09-23",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "다이아10억",
+      "reward": "",
+      "expiry": "2030-12-20",
+      "expiryFrom": "event",
+      "postedAt": "2026-05-13",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
     {
       "code": "HONMOON",
       "reward": "",
@@ -19,6 +39,42 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "815광복절",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "법보선물",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "호국보훈",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "석가탄신일",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-22",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     }
   ]
 }

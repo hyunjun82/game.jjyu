@@ -1,0 +1,50 @@
+{
+  "slug": "realm-of-deity",
+  "titleEn": "Realm Of Deity",
+  "titleKo": "신의 영역",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA1MjVfNjcg/MDAxNjg0OTg1MTExMjYy.lpDHJ9HLF8AGPVJTWh-g_4o7MROsHD4HCbY6e33nBjkg.6h8Q46g2IKBVgzX1Eb5hIm4qJ3Hc2JQrSViNdKTbaFIg.JPEG/%E8%AE%BA%E5%9D%9B%E5%8F%91%E5%B8%96%E5%9B%BE_%E6%B4%BB%E5%8A%A8.jpg",
+  "source": "naver-lounge",
+  "loungeId": "REALM_OF_DEITY",
+  "sourceUrl": "https://game.naver.com/lounge/REALM_OF_DEITY/board/detail/2604159",
+  "howTo": "",
+  "postCount": 4,
+  "updatedAt": "2026-10-02T05:45:07.400Z",
+  "codes": [
+    {
+      "code": "AUGUST",
+      "reward": "",
+      "expiry": "2023-12-31",
+      "postedAt": "2023-08-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "korea0301",
+      "reward": "",
+      "expiry": "2023-03-15",
+      "postedAt": "2023-02-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "love2023",
+      "reward": "",
+      "expiry": "2023-02-28",
+      "postedAt": "2023-02-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "Lunar2023",
+      "reward": "",
+      "expiry": "2023-02-14",
+      "postedAt": "2023-01-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

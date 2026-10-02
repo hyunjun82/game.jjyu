@@ -1,0 +1,64 @@
+{
+  "slug": "unmyeong-m",
+  "titleEn": "Unmyeong M",
+  "titleKo": "검은 수녀: 운명M",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDAxMTlfMjAw/MDAxNzA1NjY0OTUwNDk4.BA6HfnbfEqy1WCAf4oqFW6AsD0gSdQyu0vxCpaYioR0g.ZSCJBgPniQspF69b6hSjAZ-ZcQppmMxrH46_qGh2V1Mg.JPEG/50%E4%B8%87%E9%A2%84%E7%BA%A6%E7%AA%81%E7%A0%B4.jpg",
+  "source": "naver-lounge",
+  "loungeId": "UnmyeongM",
+  "sourceUrl": "https://game.naver.com/lounge/UnmyeongM/board/detail/3461168",
+  "howTo": "",
+  "postCount": 6,
+  "updatedAt": "2026-10-02T05:46:00.337Z",
+  "codes": [
+    {
+      "code": "umpre50",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-01-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "umpre40",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-01-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "umpre30",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-01-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "umpre20",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-01-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "umpre10",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2024-01-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

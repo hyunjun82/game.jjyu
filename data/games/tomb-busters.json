@@ -1,0 +1,41 @@
+{
+  "slug": "tomb-busters",
+  "titleEn": "Tomb Busters",
+  "titleKo": "초자연 작전팀",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA1MjdfMjM3/MDAxNzc5ODc2MzQzNDE5.c5luoqFlO6T3RjFJ3L2z9smqUc4PRKxDnI_FPhTfKq4g.FFavsKUVgWgzUHCNpTWNcJpus5YKw7GUSGygM2v1YHwg.JPEG/img_v3_02105_7806efae-ab1e-4d8f-93c8-4b1d251d3bcg.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Tomb_Busters",
+  "sourceUrl": "https://game.naver.com/lounge/Tomb_Busters/board/detail/8010175",
+  "howTo": "「설정」 → 「계정 설정」 → 「교환 코드」 ※ 교환 코드는 게임 UID당 1회만 사용하실 수 있습니다. 깜짝 선물을 받아 「여름 탐험 축제」 이벤트를 더욱 신나게 즐겨 주세요~! ✨",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:45:58.300Z",
+  "codes": [
+    {
+      "code": "TB321",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "TB2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "KIMODAMESHI",
+      "reward": "",
+      "expiry": "2026-09-01",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

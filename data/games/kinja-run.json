@@ -1,0 +1,32 @@
+{
+  "slug": "kinja-run",
+  "titleEn": "Kinja Run",
+  "titleKo": "닌자캣런",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjA2MjhfMTg3/MDAxNjU2MzgyMzU2NDc3.mEzcYv60mLhtHyBRrI-QDxFL86D6xeVwAIL-BIM8hTsg.7PmvGg43TEry6d6BBSzsfSx1YudOBAU-C2JfdAxvLhYg.PNG/kR4DoKNX_7_1024.png",
+  "source": "naver-lounge",
+  "loungeId": "Kinja_Run",
+  "sourceUrl": "https://game.naver.com/lounge/Kinja_Run/board/detail/883819",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:44:00.496Z",
+  "codes": [
+    {
+      "code": "moonfest",
+      "reward": "",
+      "expiry": "2022-09-12",
+      "postedAt": "2022-09-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "epicninja",
+      "reward": "",
+      "expiry": "2022-09-05",
+      "postedAt": "2022-08-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

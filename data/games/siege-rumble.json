@@ -1,0 +1,86 @@
+{
+  "slug": "siege-rumble",
+  "titleEn": "Siege Rumble",
+  "titleKo": "와르르 공성대",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA4MjVfMjMz/MDAxNzU2MDgzODc4OTY3.Mi-6zdZ-M0yC3_ho_zy2AZK5Hn7l8SqU5aHFVEhwDQYg.X9OANqS-h5h_oud7de4sb2aTAT9mvb-J7cFhF3B2o5Eg.JPEG/KR_%EC%BF%A0%ED%8F%B0.jpg",
+  "source": "naver-lounge",
+  "loungeId": "SiegeRumble",
+  "sourceUrl": "https://game.naver.com/lounge/SiegeRumble/board/detail/6575916",
+  "howTo": "- [인게임] > [메뉴] > [설정] > [계정 정보] > 하단 [쿠폰 입력] 칸에 쿠폰 입력 > [쿠폰 적용] ⚠ 주의사항 ※ 쿠폰은 계정당 1회만 사용 가능합니다. ※ 보상은 우편함으로 지급되며, 기간 내에 꼭 수령해주세요! ※ 쿠폰 사용 기한이 지나면 보상 수령이 불가능합니다.",
+  "postCount": 8,
+  "updatedAt": "2026-10-02T05:45:28.343Z",
+  "codes": [
+    {
+      "code": "SRHALFANNIV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-08-25",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "JUNEBDAY",
+      "reward": "",
+      "expiry": "2025-07-13",
+      "postedAt": "2025-06-16",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SR100THANKS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-06-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "MAYBDAY",
+      "reward": "",
+      "expiry": "2025-06-15",
+      "postedAt": "2025-05-19",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYMAYGIFT",
+      "reward": "",
+      "expiry": "2025-05-31",
+      "postedAt": "2025-05-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "APRILBDAY",
+      "reward": "",
+      "expiry": "2025-05-18",
+      "postedAt": "2025-04-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SRWHITECANDY",
+      "reward": "",
+      "expiry": "2025-04-14",
+      "postedAt": "2025-03-14",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SERIA",
+      "reward": "",
+      "expiry": "2025-06-09",
+      "postedAt": "2025-05-27",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

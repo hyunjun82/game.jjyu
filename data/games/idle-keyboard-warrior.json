@@ -1,0 +1,122 @@
+{
+  "slug": "idle-keyboard-warrior",
+  "titleEn": "Idle Keyboard Warrior",
+  "titleKo": "방구석 여포",
+  "image": "https://nng-phinf.pstatic.net/MjAyMTEyMDhfODcg/MDAxNjM4OTUzNTc0MjY2.Lzzk3U_VgLXOXzOE1fD70CdUDGngnvgylT-2IIyKGY8g.ZyO11J2o-qwH6kabKCCsZF1FstyWC0pyRGHKhDf8PzQg.PNG/ksn8iL9z_7_icon_2.png",
+  "source": "naver-lounge",
+  "loungeId": "idle_keyboard_warrior",
+  "sourceUrl": "https://game.naver.com/lounge/idle_keyboard_warrior/board/detail/945328",
+  "howTo": "게임 메인화면 → 왼쪽 상단 캐릭터 아이콘 → 쿠폰 등록",
+  "postCount": 11,
+  "updatedAt": "2026-10-02T05:43:45.402Z",
+  "codes": [
+    {
+      "code": "20220322OPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-05-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NEWBIE1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-05-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NEWBIELOVE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-05-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NEWBIEKING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-05-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "2022DANGUN",
+      "reward": "",
+      "expiry": "2022-10-09",
+      "postedAt": "2022-10-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "2022HANGAWI",
+      "reward": "",
+      "expiry": "2022-09-14",
+      "postedAt": "2022-09-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "0815YEOPO",
+      "reward": "",
+      "expiry": "2022-08-31",
+      "postedAt": "2022-08-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "YEOPO100DAY",
+      "reward": "",
+      "expiry": "2022-07-05",
+      "postedAt": "2022-06-29",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "0505YEOPO",
+      "reward": "",
+      "expiry": "2022-05-10",
+      "postedAt": "2022-05-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GMYEOPOSARANG",
+      "reward": "",
+      "expiry": "2022-02-17",
+      "postedAt": "2022-02-11",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYNEWYEOPO",
+      "reward": "",
+      "expiry": "2022-01-20",
+      "postedAt": "2022-01-07",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "WELCOMEYEOPO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-01-05",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

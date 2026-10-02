@@ -1,0 +1,32 @@
+{
+  "slug": "guardians-defense-war",
+  "titleEn": "Guardians Defense War",
+  "titleKo": "가디언즈 디펜스 워 : 개인 사각 랜덤 디펜스",
+  "image": "https://iopen.kakaocdn.net/img/og/v2/ko_scrap_sv_001.png",
+  "source": "naver-lounge",
+  "loungeId": "GuardiansDefenseWar",
+  "sourceUrl": "https://game.naver.com/lounge/GuardiansDefenseWar/board/detail/4334394",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:43:32.665Z",
+  "codes": [
+    {
+      "code": "OPENGD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-03-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "NAVERGD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-03-26",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

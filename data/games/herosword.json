@@ -1,0 +1,104 @@
+{
+  "slug": "herosword",
+  "titleEn": "Herosword",
+  "titleKo": "용사는 검이 되었다",
+  "image": "https://nng-phinf.pstatic.net/MjAyMjA5MTlfNDkg/MDAxNjYzNTc1MzIxNTE0.fgYlcoiVUeyRcGcdn_9wHfx8d8-oPfKuiuoc3k2_2QIg.DyWFBIdd9r8eIqcVq0S7Kpb7e4ux4kipBXIk_SiLGpUg.PNG/icon_key.png?type=w1678",
+  "source": "naver-lounge",
+  "loungeId": "herosword",
+  "sourceUrl": "https://game.naver.com/lounge/herosword/board/detail/1517028",
+  "howTo": "설정 > 쿠폰 > 쿠폰코드 입력",
+  "postCount": 10,
+  "updatedAt": "2026-10-02T05:43:36.192Z",
+  "codes": [
+    {
+      "code": "SORRYGOLD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-02-02",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SORRY112",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-31",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "USER10000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPY2023",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-20",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "RABBIT2023",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-01-02",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "16GANG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-12-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "THANK2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-11-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE1108",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-11-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "ONEMONTH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-11-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "GIFT2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2022-11-08",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

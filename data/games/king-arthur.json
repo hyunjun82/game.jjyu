@@ -1,0 +1,32 @@
+{
+  "slug": "king-arthur",
+  "titleEn": "King Arthur",
+  "titleKo": "아서왕 키우기 : 전략적 성장 방치형 RPG",
+  "image": "https://nng-phinf.pstatic.net/MjAyMTEyMDFfNzkg/MDAxNjM4MzM1NDk3Nzcy.bDS7MJKxIZbpHX9xSjGLA6-Q-WfIk3wVKt1n8OFaHeUg.jbQ6B7OJQQEv_9PRkmcjxN2RiRDBPuEacfvRSE8bObAg.PNG/rWBsT25I_7_AppIcon_300.png",
+  "source": "naver-lounge",
+  "loungeId": "King_Arthur",
+  "sourceUrl": "https://game.naver.com/lounge/King_Arthur/board/detail/431534",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-02T05:43:58.218Z",
+  "codes": [
+    {
+      "code": "kingarthur1217",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2021-12-17",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "kingarthur1207",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2021-12-06",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}

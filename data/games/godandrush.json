@@ -1,0 +1,50 @@
+{
+  "slug": "godandrush",
+  "titleEn": "Godandrush",
+  "titleKo": "갓앤러쉬",
+  "image": "https://nng-phinf.pstatic.net/MjAyMzA4MThfMTMy/MDAxNjkyMzM5MTU1MDE1.Z-XbAh_k1a8WvyN5L0BtgIE6f7q08D9oED6DBap1e3cg.Jq8rY-LEs4b5JHwPIW9H09e49b7_zUPTdjbjCjA4f0Ug.PNG/45.png",
+  "source": "naver-lounge",
+  "loungeId": "godandrush",
+  "sourceUrl": "https://game.naver.com/lounge/godandrush/board/detail/3328195",
+  "howTo": "",
+  "postCount": 4,
+  "updatedAt": "2026-10-02T05:43:28.056Z",
+  "codes": [
+    {
+      "code": "SANTARUSH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-12-24",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "TARTARUSH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-11-30",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "SOULRUSH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-11-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "KINGGODRUSH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2023-11-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    }
+  ]
+}
