@@ -1,0 +1,51 @@
+{
+  "slug": "toy-immortals",
+  "titleEn": "Toy_Immortals",
+  "titleKo": "토이 신선",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-02T01:17:55.577Z",
+  "codes": [
+    {
+      "code": "TOYSOPEN",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "TOYONE1",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "TOYS500K",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/youneedtochill/224419871545",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "TOYMRZPRE",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/youneedtochill/224419871545",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    }
+  ]
+}
