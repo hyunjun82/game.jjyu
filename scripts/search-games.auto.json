@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-02T07:05:56.635Z",
+  "generatedAt": "2026-10-02T14:04:33.508Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -63,45 +63,141 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
+      "slug": "the-war-of-light-and-darkness",
+      "loungeId": "The_War_of_Light_and_Darkness",
+      "titleKo": "빛과 어둠의 전쟁",
+      "titleEn": "The War Of Light And Darkness"
     },
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "torchlight-infinite",
       "loungeId": "Torchlight_Infinite",
-      "titleKo": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
       "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "Along_with_the_ghost",
+      "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "badminton-blitz",
+      "loungeId": "Badminton_Blitz",
+      "titleKo": "배드민턴 달인",
+      "titleEn": "Badminton Blitz"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
+    },
+    {
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
+    },
+    {
+      "slug": "become-a-lord",
+      "loungeId": "Become_a_lord",
+      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
+      "titleEn": "Become A Lord"
+    },
+    {
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
+    },
+    {
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
+    },
+    {
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
+    },
+    {
+      "slug": "blood-soul",
+      "loungeId": "BloodSoul",
+      "titleKo": "ASURA: 블러드 앤 소울",
+      "titleEn": "Blood Soul"
+    },
+    {
+      "slug": "blood-witch",
+      "loungeId": "Blood_Witch",
+      "titleKo": "블러드 위치",
+      "titleEn": "Blood Witch"
+    },
+    {
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
+    },
+    {
+      "slug": "brave-puppy",
+      "loungeId": "BravePuppy",
+      "titleKo": "용감한 댕댕이",
+      "titleEn": "Brave Puppy"
+    },
+    {
+      "slug": "break3-k",
+      "loungeId": "Break3K",
+      "titleKo": "돌파 삼국지",
+      "titleEn": "Break3 K"
+    },
+    {
+      "slug": "bum-the-age-of-romance",
+      "loungeId": "BUM_The_age_of_Romance",
+      "titleKo": "범:낭만의 시대",
+      "titleEn": "Bum The Age Of Romance"
+    },
+    {
+      "slug": "cabal-red",
+      "loungeId": "CABAL_RED",
+      "titleKo": "카발RED",
+      "titleEn": "Cabal Red"
+    },
+    {
+      "slug": "capybara-go",
+      "loungeId": "Capybara_Go",
+      "titleKo": "카피바라 Go!",
+      "titleEn": "Capybara Go"
+    },
+    {
+      "slug": "catoutdoor",
+      "loungeId": "catoutdoor",
+      "titleKo": "숲속 고양이마을",
+      "titleEn": "Catoutdoor"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -119,19 +215,19 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "Dream_Garden_Cozy_Lite_Management",
+      "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "Eternal_Chronicle",
+      "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
     },
     {
       "slug": "weapon-master",
       "loungeId": "WeaponMaster",
-      "titleKo": "WeaponMaster",
+      "titleKo": "웨폰마스터 키우기",
       "titleEn": "Weapon Master"
     },
     {
@@ -143,14 +239,20 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "red-city",
+      "loungeId": "red_city",
+      "titleKo": "붉은 도시",
+      "titleEn": "Red City"
     },
     {
       "slug": "redmythnezha",
@@ -159,9 +261,27 @@
       "titleEn": "Redmythnezha"
     },
     {
+      "slug": "res",
+      "loungeId": "RES",
+      "titleKo": "레조넌스",
+      "titleEn": "Res"
+    },
+    {
+      "slug": "rin-m",
+      "loungeId": "RinM",
+      "titleKo": "린M:잊혀진 유산",
+      "titleEn": "Rin M"
+    },
+    {
+      "slug": "rise-god-idle",
+      "loungeId": "Rise_God_Idle",
+      "titleKo": "라이즈 신 키우기",
+      "titleEn": "Rise God Idle"
+    },
+    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -179,13 +299,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "Survivorio",
+      "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "Toy_Immortals",
+      "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-02T12:44:29.780Z",
+  "generatedAt": "2026-10-02T14:21:24.508Z",
   "today": "2026-10-02",
-  "todayNew": 3511,
+  "todayNew": 3512,
   "totals": {
     "games": 629,
-    "codes": 6989,
-    "active": 604,
-    "expired": 6385,
+    "codes": 6990,
+    "active": 610,
+    "expired": 6380,
     "withExpiry": 3834
   },
   "newByDate": [
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-02",
-      "count": 3511
+      "count": 3512
     }
   ],
   "expiringSoon": [
@@ -411,6 +411,11 @@
       "total": 12
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 12,
+      "total": 23
+    },
+    {
       "slug": "astro-defenders",
       "active": 10,
       "total": 10
@@ -454,11 +459,6 @@
       "slug": "heartopia",
       "active": 7,
       "total": 7
-    },
-    {
-      "slug": "honkai-star-rail",
-      "active": 7,
-      "total": 23
     },
     {
       "slug": "horizon-walker",
