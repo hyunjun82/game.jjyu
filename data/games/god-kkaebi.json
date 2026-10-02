@@ -7,8 +7,8 @@
   "loungeId": "godkkaebi",
   "sourceUrl": "https://game.naver.com/lounge/godkkaebi/board/detail/8252145",
   "howTo": "💖GM갓깨비가 드리는 쿠폰 선물 - 쿠폰 번호 : br8fgf97 *유효 기간 : 2026년 9월 28일부터 2026년 10월 5일까지 🎮갓깨비 키우기 쿠폰 입력 방법 안내",
-  "postCount": 80,
-  "updatedAt": "2026-10-01T22:52:29.390Z",
+  "postCount": 81,
+  "updatedAt": "2026-10-01T23:43:38.338Z",
   "codes": [
     {
       "code": "br8fgf97",
@@ -36,6 +36,15 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "DANMACHI",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-06-15",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
     },
     {
       "code": "qrpe8utm",

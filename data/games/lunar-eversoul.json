@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8247951",
   "howTo": "",
   "postCount": 1326,
-  "updatedAt": "2026-10-01T22:51:43.625Z",
+  "updatedAt": "2026-10-01T23:42:50.614Z",
   "codes": [
+    {
+      "code": "month9999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "active"
+    },
     {
       "code": "week0055",
       "reward": "",

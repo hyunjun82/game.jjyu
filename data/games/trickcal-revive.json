@@ -8,13 +8,12 @@
   "sourceUrl": "https://game.naver.com/lounge/Trickcal/board/detail/8271053",
   "howTo": "- AOS : 게임 접속 - 우측상단 햄버거 버튼 (三) - 설정 - 기타 - 쿠폰등록 버튼으로 입력 - IOS :",
   "postCount": 2893,
-  "updatedAt": "2026-10-01T22:53:12.467Z",
+  "updatedAt": "2026-10-01T23:44:21.932Z",
   "codes": [
     {
       "code": "GOOGLETOP3",
       "reward": "",
       "expiry": "2026-10-22",
-      "expiryFrom": "event",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-02",
@@ -24,18 +23,8 @@
       "code": "3RDBOLTHDAY",
       "reward": "",
       "expiry": "2026-10-22",
-      "expiryFrom": "event",
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-02",
-      "status": "active"
-    },
-    {
-      "code": "3YEARGIFT",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-18",
-      "firstSeen": "2026-09-18",
       "lastSeen": "2026-10-02",
       "status": "active"
     },
@@ -49,9 +38,18 @@
       "status": "expired"
     },
     {
+      "code": "3YEARGIFT",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
       "code": "BOL100MANGAE",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-10",
       "postedAt": "2026-08-31",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -60,7 +58,7 @@
     {
       "code": "X3MANGIFT",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-13",
       "postedAt": "2026-08-03",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -69,7 +67,7 @@
     {
       "code": "ENERGYBOL",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-06",
       "postedAt": "2026-07-30",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -78,7 +76,7 @@
     {
       "code": "THANKYOU90K",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-07-09",
       "postedAt": "2026-07-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -87,7 +85,7 @@
     {
       "code": "GYOJU1KDAYS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-28",
       "postedAt": "2026-06-22",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -96,7 +94,7 @@
     {
       "code": "MEMORIAL",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-06-13",
       "postedAt": "2026-06-06",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -123,7 +121,7 @@
     {
       "code": "80KYOUTUBE",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-30",
       "postedAt": "2026-04-20",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -141,7 +139,7 @@
     {
       "code": "APRILBOLS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-04-09",
       "postedAt": "2026-04-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -150,7 +148,7 @@
     {
       "code": "BACK2SCHOOL",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-03-12",
       "postedAt": "2026-03-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -159,7 +157,7 @@
     {
       "code": "YOUTUBE70K",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-26",
       "postedAt": "2026-02-18",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -168,7 +166,7 @@
     {
       "code": "CUAYOCUAYO",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-26",
       "postedAt": "2026-02-16",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -177,7 +175,7 @@
     {
       "code": "SAEHAEBOL",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-23",
       "postedAt": "2026-02-14",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -186,7 +184,7 @@
     {
       "code": "5FREESET",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-05",
       "postedAt": "2026-01-29",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -195,7 +193,7 @@
     {
       "code": "NOTEREVIVE",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-02-12",
       "postedAt": "2026-01-22",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -204,7 +202,7 @@
     {
       "code": "TRICKCAL2026",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-01-15",
       "postedAt": "2026-01-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -213,7 +211,7 @@
     {
       "code": "WINTERGIFT",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-12-31",
       "postedAt": "2025-12-25",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -222,7 +220,7 @@
     {
       "code": "TRICKCALWORLD",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-12-25",
       "postedAt": "2025-12-18",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -231,7 +229,7 @@
     {
       "code": "6TUBE2MANX",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-12-18",
       "postedAt": "2025-12-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -240,7 +238,7 @@
     {
       "code": "WINTERPREP",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-11-27",
       "postedAt": "2025-11-20",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -249,7 +247,7 @@
     {
       "code": "6STARS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-11-20",
       "postedAt": "2025-11-10",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -258,7 +256,7 @@
     {
       "code": "PEPEROHNE",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-11-15",
       "postedAt": "2025-11-01",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",
@@ -267,7 +265,7 @@
     {
       "code": "GLOBOLOPEN",
       "reward": "",
-      "expiry": null,
+      "expiry": "2025-10-19",
       "postedAt": "2025-10-13",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-02",

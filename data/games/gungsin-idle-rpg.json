@@ -7,9 +7,18 @@
   "loungeId": "Gungsin_Idle_RPG",
   "sourceUrl": "https://game.naver.com/lounge/Gungsin_Idle_RPG/board/detail/8233270",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-10-01T23:07:12.791Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-01T23:58:31.081Z",
   "codes": [
+    {
+      "code": "NA123456",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-09",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
     {
       "code": "Moonlight",
       "reward": "",

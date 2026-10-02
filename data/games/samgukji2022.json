@@ -8,39 +8,21 @@
   "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8239283",
   "howTo": "",
   "postCount": 9,
-  "updatedAt": "2026-10-01T23:07:27.000Z",
+  "updatedAt": "2026-10-01T23:58:45.026Z",
   "codes": [
     {
       "code": "CHUSOK2026",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-27",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-02",
-      "status": "active"
-    },
-    {
-      "code": "ULD0UV8D",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-25",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
-      "status": "active"
-    },
-    {
-      "code": "3ESLJDLO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-18",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "VV4V4FHZ",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-03",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-02",
@@ -49,7 +31,7 @@
     {
       "code": "XGXDWHPI",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-27",
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-02",
@@ -58,16 +40,34 @@
     {
       "code": "SWS1N0BW",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-20",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-10-02",
       "status": "expired"
     },
     {
+      "code": "ULD0UV8D",
+      "reward": "",
+      "expiry": "2026-10-01",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
+      "code": "3ESLJDLO",
+      "reward": "",
+      "expiry": "2026-09-24",
+      "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-10-02",
+      "status": "expired"
+    },
+    {
       "code": "Y9DLY9MM",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-17",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-10-02",
@@ -76,7 +76,7 @@
     {
       "code": "Y4GGUYD3",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-09-10",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-10-02",
@@ -85,7 +85,7 @@
     {
       "code": "GWANGBOK",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-08-21",
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-10-02",

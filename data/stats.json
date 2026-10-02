@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-01T23:12:53.702Z",
+  "generatedAt": "2026-10-02T00:08:31.782Z",
   "today": "2026-10-02",
-  "todayNew": 7,
+  "todayNew": 26,
   "totals": {
     "games": 246,
-    "codes": 3485,
-    "active": 519,
-    "expired": 2966,
-    "withExpiry": 2068
+    "codes": 3504,
+    "active": 518,
+    "expired": 2986,
+    "withExpiry": 2115
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-02",
-      "count": 7
+      "count": 26
     }
   ],
   "expiringSoon": [
@@ -387,8 +387,8 @@
     },
     {
       "slug": "idle-berserker",
-      "active": 15,
-      "total": 45
+      "active": 16,
+      "total": 46
     },
     {
       "slug": "idle-hero-but-save-the-world",
