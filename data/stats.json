@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T07:18:21.498Z",
+  "generatedAt": "2026-10-02T12:44:29.780Z",
   "today": "2026-10-02",
-  "todayNew": 3501,
+  "todayNew": 3511,
   "totals": {
-    "games": 628,
-    "codes": 6979,
-    "active": 594,
+    "games": 629,
+    "codes": 6989,
+    "active": 604,
     "expired": 6385,
-    "withExpiry": 3827
+    "withExpiry": 3834
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-02",
-      "count": 3501
+      "count": 3511
     }
   ],
   "expiringSoon": [
@@ -191,6 +191,12 @@
     {
       "slug": "ghostvengers",
       "code": "9KHV5WLT",
+      "expiry": "2026-10-04",
+      "days": 2
+    },
+    {
+      "slug": "horde-war-avengers-summon",
+      "code": "aedfcvgv",
       "expiry": "2026-10-04",
       "days": 2
     },
@@ -361,12 +367,6 @@
       "code": "toy39",
       "expiry": "2026-10-05",
       "days": 3
-    },
-    {
-      "slug": "toysamguk",
-      "code": "toy777",
-      "expiry": "2026-10-05",
-      "days": 3
     }
   ],
   "topGames": [
@@ -387,8 +387,8 @@
     },
     {
       "slug": "idle-berserker",
-      "active": 16,
-      "total": 46
+      "active": 17,
+      "total": 47
     },
     {
       "slug": "idle-hero-but-save-the-world",
