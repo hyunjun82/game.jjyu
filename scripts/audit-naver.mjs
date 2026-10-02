@@ -72,7 +72,7 @@ async function main() {
 
   const extra = loadJSON(EXTRA_POSTS, { _설명: 'audit-naver.mjs 가 쓴다. 수집기가 게시판·제목 조건과 상관없이 직접 읽을 글.', posts: {} });
   const conf = loadJSON(CONF_EXTRA, { lounges: [] });
-  const report = { generatedAt: new Date().toISOString(), window: `${from}~${isoDaysAgo(0)}`, lounges: official.length, posts: 0, couponPosts: 0, fixedTracked: [], addedLounges: [], labelOnly: [] };
+  const report = { generatedAt: new Date().toISOString(), window: `${from}~${isoDaysAgo(0)}`, lounges: official.length, posts: 0, couponPosts: 0, fixedTracked: [], addedLounges: [], labelOnly: [], imageOnly: [] };
   const newLounges = new Map();
 
   let i = 0;
@@ -100,6 +100,13 @@ async function main() {
           const got = parseCodes(text, iso).filter((c) => !nameWords.has(c.code.toUpperCase()));
           if (!got.length) {
             if (LABEL_ONLY.test(text)) report.labelOnly.push(`${ent(L.loungeName)} | ${iso} | ${ent(it.feed.title).slice(0, 50)}`);
+            // 제목은 쿠폰 글인데 본문 글자에서 코드가 안 나오고 이미지가 있으면, 코드가 이미지 안에 있을 수 있다(DoE: 던전앤엑자일 1주년).
+            // OCR 은 DOE1STYEAR 를 DOEASTYEAR 로 읽었다 — 틀린 코드를 올릴 수 없어 자동 반영하지 않고 사람이 보도록 남긴다.
+            const title = ent(it.feed.title);
+            if (/쿠폰|교환\s*코드|선물\s*코드|기프트\s*코드|리딤/.test(title) && !/당첨|결과|종료|할인|패키지|상점|스토어/.test(title)) {
+              const imgs = [...new Set([...String(it.feed.contents || '').matchAll(/https?:\/\/nng-phinf\.pstatic\.net\/[^"'\s\\]+?\.(?:png|jpe?g|gif|webp)/gi)].map((m) => m[0]))];
+              if (imgs.length) report.imageOnly.push({ game: ent(L.loungeName), loungeId: id, feedId: it.feed.feedId, date: iso, title: title.slice(0, 60), images: imgs.slice(0, 6) });
+            }
             continue;
           }
           report.couponPosts++;
@@ -148,6 +155,7 @@ async function main() {
   console.log(`[audit] 추적 라운지에서 놓친 글 ${report.fixedTracked.length} · 새 라운지 ${report.addedLounges.length} · 파서가 못 읽은 라벨 글 ${report.labelOnly.length}`);
   for (const s of report.fixedTracked) console.log(`  + ${s}`);
   for (const s of report.addedLounges) console.log(`  ++ ${s}`);
+  for (const s of report.imageOnly) console.log(`  [이미지 확인 필요] ${s.game} | ${s.date} | ${s.title}`);
   console.log(`AUDIT_FIXED=${report.fixedTracked.length + report.addedLounges.length}`);
 }
 

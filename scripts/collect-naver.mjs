@@ -157,7 +157,9 @@ function isSaneCode(c, labeled = false) {
   // "6984-63786bf85-1" 처럼 하이픈으로 끊은 코드(삼국지 오리진2). 영문·숫자가 섞인 것만 — 날짜(2026-10-01)는 거른다.
   // "RAINY_JULY" — 밑줄로 이은 코드(랜덤 히어로즈). 영문이 들어 있어야 한다.
   if (c.includes('_')) return /^[A-Za-z0-9]+(?:_[A-Za-z0-9]+){1,3}$/.test(c) && c.length <= 24 && /[A-Za-z]{2}/.test(c);
-  if (c.includes('-')) return /^[A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}$/.test(c) && c.length <= 24 && /[A-Za-z]/.test(c) && /\d/.test(c);
+  // 대문자만으로 이은 "YOUNG-FIRE" 도 코드다(영혼 키우기 데일리 쿠폰). 소문자·숫자 없는 하이픈 단어(e-mail)는 거른다.
+  if (c.includes('-')) return /^[A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}$/.test(c) && c.length <= 24 && /[A-Za-z]/.test(c)
+    && (/\d/.test(c) || (/^[A-Z]+(?:-[A-Z]+){1,3}$/.test(c) && c.length >= 6));
   if (c.length < 5 || c.length > 20) return false;
   if (!/^[A-Za-z0-9]+$/.test(c)) return false;
   // 입력 방법 안내의 "STEP1", "Step2" 가 코드로 잡혔다(오피스 퀸 키우기·우와 모험단·데블2M, 2026-09-25).
@@ -184,7 +186,7 @@ function isSaneCode(c, labeled = false) {
  * 이벤트 시작일이나 점검일인 경우가 많아서 집으면 안 된다.
  * 기간이 "A부터 B까지"로 적히면 마지막에 걸린 B가 남는다.
  */
-const TAIL = String.raw`(?:\([^)]{0,6}\))?\s*(?:\d{1,2}\s*(?:[:시]\s*\d{2}\s*분?|시))?\s*(?:[(\[](?:UTC|KST)[)\]])?\s*(?:까지|마감)`;
+const TAIL = String.raw`(?:\([^)]{0,6}\)|\s*[월화수목금토일]요일)?\s*(?:\d{1,2}\s*(?:[:시]\s*\d{2}\s*분?|시))?\s*(?:[(\[](?:UTC|KST)[)\]])?\s*(?:까지|마감)`;
 const RE_KO = new RegExp(String.raw`(?:(\d{4})\s*년\s*)?(\d{1,2})\s*월\s*(\d{1,2})\s*일\s*` + TAIL, 'g');
 const RE_SLASH = new RegExp(String.raw`(\d{2,4})\s*[./-]\s*(\d{1,2})\s*[./-]\s*(\d{1,2})\s*` + TAIL, 'g');
 
@@ -218,14 +220,15 @@ function parseExpiry(text, postISO, allowRange = false, labelOnly = false) {
   // 라벨 바로 앞 40자 안에 쿠폰·코드가 있어야 한다 — "아이템 사용 기간: 2026년 12월 13일" 같은 보상 아이템의
   // 기한을 코드 만료일로 집어 2025년 크리스마스 코드가 사용 가능으로 남았다(묵혼, 2026-09-28).
   const labY = [...text.matchAll(/(?:사용\s*기한|사용\s*기간|유효\s*기간|수령\s*기간|만료\s*(?:시간|일자|일)|종료\s*(?:시간|일시|일)|마감\s*일)\s*[:：]?\s*([^\n]{0,60})/g)]
-    .find((m) => /쿠폰|코드/.test(text.slice(Math.max(0, m.index - 40), m.index)));
+    .find((m) => allowRange || /쿠폰|코드/.test(text.slice(Math.max(0, m.index - 40), m.index)));
   if (labY) {
     const seg = labY[1];
     const dates = [...seg.matchAll(/(\d{4})\s*[년./-]\s*(\d{1,2})\s*[월./-]\s*(\d{1,2})/g)];
     if (dates.length) {
       const tilde = seg.indexOf('~') >= 0 ? seg.indexOf('~') : seg.indexOf('～');
-      const pick = tilde >= 0 ? (dates.find((d) => d.index > tilde) || dates[dates.length - 1]) : dates[dates.length - 1];
-      const v = iso(Number(pick[1]), Number(pick[2]), Number(pick[3]));
+      // 물결 뒤 끝날에 연도가 없으면("2026년 10월 1일~ 10월 31일") 여기서 정하지 않는다 — 시작일을 집게 된다(산너머 도원마을).
+      const pick = tilde >= 0 ? dates.find((d) => d.index > tilde) : dates[dates.length - 1];
+      const v = pick && iso(Number(pick[1]), Number(pick[2]), Number(pick[3]));
       if (v) return v;
     }
   }
@@ -294,6 +297,15 @@ function applyTitleExpiry(got, title, postISO) {
   for (const c of got) if (!c.expiry) c.expiry = v;
 }
 
+/**
+ * 한글 코드 — "단풍놀이", "26추석" (요괴잡이소대·스킬 마법사 키우기, 2026-09/10). 표의 코드 칸이나
+ * "쿠폰 명" 라벨 바로 아랫줄에 있을 때만 받는다. 표 머리 낱말(보상·기간…)은 코드가 아니다.
+ */
+const KO_HEADER = /모음|목록|리스트|정리|가이드|확인|바로가기|보상|기간|기한|내용|코드|쿠폰|구성|일정|비고|방법|조건|수량|대상|아이템|일시|날짜|시작|종료|만료|사용|입력|안내|참고|지급|혜택|이벤트/;
+function hangulCode(t) {
+  return /^[가-힣A-Za-z0-9]{2,15}$/.test(t) && /[가-힣]/.test(t) && !KO_HEADER.test(t);
+}
+
 /** 줄이 코드 한 개로만 이뤄졌으면 그 코드를, 아니면 빈 문자열을. 뒤에 괄호는 허용한다. */
 function tokenOf(line) {
   const m = line.match(/^([A-Za-z0-9]+(?:-[A-Za-z0-9]+){1,4}|[A-Za-z0-9]+(?:_[A-Za-z0-9]+){1,3}|[A-Za-z0-9]{5,20})\s*(.*)$/);
@@ -304,6 +316,8 @@ function tokenOf(line) {
   // "dicero.habby.com" — 교환 페이지 주소의 앞부분이 코드로 잡혔다(딸깍 다이스, 2026-10-02).
   if (/^\.[A-Za-z]/.test(rest)) return '';
   // "(lucile***)" — 당첨자 발표의 가린 아이디. "CDKEY：hero2406" — 라벨 뒤에 코드가 붙은 줄은 라벨이 코드가 아니다.
+  // 숫자 없는 하이픈 단어("G-TASK · 상점 · 패스")는 그 줄에 홀로 있을 때만 코드로 본다(다이너마이트 블루).
+  if (rest && /^[A-Za-z]+(?:-[A-Za-z]+)+$/.test(m[1])) return '';
   if (/^[*＊]/.test(rest) || /^[:：]\s*[A-Za-z0-9_-]{4,}\s*$/.test(rest)) return '';
   return m[1];
 }
@@ -311,20 +325,23 @@ function tokenOf(line) {
 export function parseCodes(text, postISO) {
   // 메일 주소의 앞부분("ryonggame2@gmail.com")이 코드로 잡혔다(소울 헌터 키우기, 2026-10-01). 주소는 통째로 지운다.
   // 퀴즈 정답을 끼워 넣어야 완성되는 코드("1574-(정답1)ab0d4d51-1")는 그대로 쓸 수 없는 반쪽이라 줄째 버린다(삼국지 오리진).
-  text = String(text || '').replace(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g, ' ').replace(/[^\n]*\n?[^\S\n]*\((?:정답|답)\s*\d*\)[^\S\n]*\n?[^\n]*/g, ' ');
+  // 제로폭 문자 — 쿠폰명 "​GiftSep9End" 의 따옴표 안에 숨어 코드를 끊었다(F급 용사 키우기, 2026-09-30).
+  text = String(text || '').replace(/[\u200b-\u200d\u2060\ufeff]/g, '').replace(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g, ' ').replace(/[^\n]*\n?[^\S\n]*\((?:정답|답)\s*\d*\)[^\S\n]*\n?[^\n]*/g, ' ');
   // "@seohui_day" — 당첨자 발표의 SNS 아이디(듄: 어웨이크닝). 줄머리 기호를 떼기 전에 버린다.
   const lines = text.split('\n').map((s) => s.trim()).map((s) => (/^@/.test(s) ? '' : s.replace(BULLET, '').trim())).filter(Boolean);
   const labelAt = lines.map((l) => LABEL_RE.test(l));
   const codeAt = lines.map((l) => { const t = tokenOf(l); return !!t && isSaneCode(t); });
   // 글 전체에서 뽑은 만료일은 "까지" 날짜가 하나뿐일 때만 믿는다. 이벤트 공지 하나에 컬렉션·아이템 기한이 여럿
   // 섞이면 엉뚱한 날짜가 코드 만료일이 된다(묵혼 XMAS2025 가 컬렉션 기한 2026-12-13 을 물려받아 사용 가능으로 남음).
-  const untilDates = new Set([...text.matchAll(RE_KO)].map((m) => m[0]).concat([...text.matchAll(RE_SLASH)].map((m) => m[0])));
+  // "10월 3일 토요일 ⏎ 까지" 처럼 까지가 다음 줄로 떨어진 표기(영혼 키우기)도 잇는다. 공백만 다른 같은 날짜는 하나로 센다.
+  const textJ = text.replace(/\n\s*(까지|마감)/g, ' $1');
+  const untilDates = new Set([...textJ.matchAll(RE_KO)].map((m) => m[0].replace(/\s/g, '')).concat([...textJ.matchAll(RE_SLASH)].map((m) => m[0].replace(/\s/g, ''))));
   // "까지" 날짜가 여럿이어도 "쿠폰 사용 기간: 발급일 ~ 2026년 10월 31일" 처럼 쿠폰·코드 라벨이 붙은 기한은 코드의 것이다(열혈강호: 화룡전).
-  const postExpiry = untilDates.size <= 1 ? parseExpiry(text, postISO) : parseExpiry(text, postISO, false, true);
+  const postExpiry = untilDates.size <= 1 ? parseExpiry(textJ, postISO) : parseExpiry(text, postISO, false, true);
   const found = new Map();
 
-  const push = (code, expiry, labeled = false) => {
-    if (!isSaneCode(code, labeled)) return;
+  const push = (code, expiry, labeled = false, ko = false) => {
+    if (!(ko ? hangulCode(code) : isSaneCode(code, labeled))) return;
     const key = code.toUpperCase();
     if (!found.has(key)) {
       let exp = expiry || postExpiry;
@@ -336,8 +353,12 @@ export function parseCodes(text, postISO) {
 
   // (가) 인라인 — "쿠폰 코드: 311k93" / "쿠폰코드: FALLFEST ✨ 기간: 9.18 ~ 9.25" / "쿠폰 >> FIRSTSNOW2025 << 코드"
   // "쿠폰: UPDATE261001" — 코드·번호 없이 "쿠폰:" 만 붙이는 발행처(광전사 키우기, 2026-10-01).
+  // "쿠폰명 "GiftSep9End" :" — 따옴표로 감싼 코드. "쿠폰 키워드: kinggwakbeen" — 키워드라고 부르는 발행처(9UP 프로야구).
+  // "개천절쿠폰 MGUENCTP" / "첫 번째 쿠폰 MELPTYLL" — 쿠폰 뒤에 대문자 코드만 붙인 줄(조조의 꿈, 2026-09-29).
   const inlineOf = (line) => line.match(/(?:코드|번호|CDKEY|CDK)\s*[:：]?\s*([A-Za-z0-9]{5,20})\s*$/i)
-    || line.match(/(?:코드|번호|CDKEY|CDK|쿠폰)\s*[:：]\s*([A-Za-z0-9_]{5,24})(?![A-Za-z0-9])/i)
+    || line.match(/(?:코드|번호|키워드|CDKEY|CDK|쿠폰)\s*[:：]\s*([A-Za-z0-9_]{5,24})(?![A-Za-z0-9])/i)
+    || line.match(/쿠폰\s*(?:명|코드|번호)?\s*[:：]?\s*["“”'‘’]([A-Za-z0-9_-]{4,24})["“”'‘’]/)
+    || line.match(/쿠폰\s+([A-Z0-9]{6,20})\s*$/)
     || (LABEL_RE.test(line) && line.match(/(?:>>|»|【|「|\[)\s*([A-Za-z0-9]{5,20})\s*(?:<<|«|】|」|\])/));
   // "🎁：shuubun2026" — 선물 아이콘 뒤에 코드만 적는 발행처(에이펙스 걸스). 줄머리 기호를 떼기 전 원문으로 본다.
   for (const raw of text.split('\n')) {
@@ -348,7 +369,8 @@ export function parseCodes(text, postISO) {
     const line = lines[i];
     const inline = inlineOf(line);
     if (!inline) continue;
-    const labeled = /(?:쿠폰\s*(?:코드|번호)|교환\s*코드|선물\s*코드|리딤\s*코드|기프트\s*코드)\s*[:：]\s*[A-Za-z0-9]/i.test(line);
+    const labeled = /(?:쿠폰\s*(?:코드|번호|키워드)|교환\s*코드|선물\s*코드|리딤\s*코드|기프트\s*코드)\s*[:：]\s*[A-Za-z0-9]/i.test(line)
+      || /쿠폰\s*(?:명|코드|번호)?\s*[:：]?\s*["“”'‘’][A-Za-z0-9]/.test(line);
     // "쿠폰번호 : autumn26, moon26" — 한 줄에 쉼표로 여러 개(우와 모험단). 첫 코드 뒤의 것도 받는다.
     const tail = line.slice(line.indexOf(inline[1]) + inline[1].length);
     const more = /^\s*[,，/]/.test(tail) ? tail.split(/[,，/]/).map((x) => x.trim()).filter((x) => /^[A-Za-z0-9]{5,20}$/.test(x)) : [];
@@ -377,8 +399,10 @@ export function parseCodes(text, postISO) {
     if (!codeAt[i]) { i++; continue; }
     let j = i;
     while (j + 1 < lines.length && codeAt[j + 1]) j++;
+    // 라벨 없이 코드 바로 아래에 "유효기간: 2026/12/31" 만 적는 발행처(다크엔젤, 2026-10-01)도 받는다.
     const near = labelAt.slice(Math.max(0, i - 3), i).some(Boolean)
-      || labelAt.slice(j + 1, j + 4).some(Boolean);
+      || labelAt.slice(j + 1, j + 4).some(Boolean)
+      || (j + 1 < lines.length && /^(?:유효\s*기간|사용\s*기한|사용\s*기간)\s*[:：]/.test(lines[j + 1]));
     if (near && j - i + 1 <= 40) {
       for (let k = i; k <= j; k++) { push(tokenOf(lines[k]), expiryAt(k)); accepted.add(k); }
     }
@@ -412,26 +436,37 @@ export function parseCodes(text, postISO) {
   // 코드 칸 자리에 온 값은 "GXGGSalome", "FirethiefGoddess" 처럼 대소문자 섞인 영문만이어도 코드다 — 헤더가 라벨 구실을 한다.
   // 이걸 못 받아 그놈은 드래곤 코드 2개를 놓쳤다(2026-10-01 검수).
   const cellCode = (k) => codeAt[k] || (/^[A-Za-z0-9]{5,20}$/.test(lines[k]) && isSaneCode(lines[k], true));
+  // 한글 코드 칸은 머리가 "코드 · 보상 · 기간" 처럼 갖춰진 표의 첫 행에서만 받는다. 둘째 행부터의 한글은 보상 이름(모루석)이다.
+  const koCell = (i, j) => j - i >= 2 && lines.slice(i, j).some((h) => /보상|기간|기한/.test(h)) && hangulCode(lines[j]);
   for (let i = 0; i < lines.length; i++) {
     if (!CODE_LABEL.test(lines[i])) continue;
     let j = i + 1;
-    while (j < lines.length && HEADER_CELL.test(lines[j]) && !cellCode(j) && !/^(?:20\d{2}|\d{1,2})\s*[.년/]/.test(lines[j])) j++;
+    while (j < lines.length && HEADER_CELL.test(lines[j]) && !cellCode(j) && !koCell(i, j) && !/^(?:20\d{2}|\d{1,2})\s*[.년/]/.test(lines[j])) j++;
     const width = j - i;
     // 헤더 밑에 붙은 괄호 주석("(시작일 UTC00:00~종료일UTC11:59)")은 칸이 아니다(신도림 with NAVER WEBTOON).
     while (j < lines.length && /^[(（]?[^()（）]*[)）]$/.test(lines[j])) j++;   // 줄머리 기호 제거로 여는 괄호가 떨어져 있다
-    if (width < 2 || !cellCode(j)) continue;               // 표가 아니거나 첫 값이 코드가 아니면 버린다
+    if (width < 2 || !(cellCode(j) || koCell(i, j))) continue;               // 표가 아니거나 첫 값이 코드가 아니면 버린다
     const headers = lines.slice(i, j);
     const endAt = headers.findIndex((h) => END_LABEL.test(h));
-    for (let row = j; row + width <= lines.length && cellCode(row); row += width) {
+    for (let row = j; row + width <= lines.length && (cellCode(row) || (row === j && koCell(i, j))); row += width) {
       const cells = lines.slice(row, row + width);
       let exp = null;
       if (endAt > 0) exp = parseExpiry(cells[endAt] + ' 까지', postISO) || parseExpiry(cells[endAt], postISO, true);
-      const code = tokenOf(cells[0]);
-      push(code, exp, true);
+      const code = tokenOf(cells[0]) || cells[0];
+      push(code, exp, true, hangulCode(cells[0]));
       // 앞 규칙이 같은 코드를 만료일 없이 먼저 넣었으면 표의 종료일 칸으로 채운다.
       const prev = found.get(code.toUpperCase());
       if (prev && !prev.expiry && exp && !(postISO && exp < postISO)) prev.expiry = exp;
     }
+  }
+  // (바) "쿠폰 명" 라벨 바로 아랫줄의 한글 코드 — "🎫 쿠폰 명 / -. 26추석".
+  for (let i = 0; i + 1 < lines.length; i++) {
+    if (!/^(?:쿠폰\s*(?:명|코드|번호)|교환\s*코드|선물\s*코드)\s*[:：]?$/.test(lines[i])) continue;
+    const t = lines[i + 1].replace(/^[-.·•\s]+/, '');
+    if (!hangulCode(t)) continue;
+    let exp = null;
+    for (let k = i + 2; !exp && k < Math.min(lines.length, i + 25); k++) if (/사용\s*기한|유효\s*기간|사용\s*기간/.test(lines[k])) exp = parseExpiry(lines[k] + ' ' + (lines[k + 1] || ''), postISO, true);
+    push(t, exp, true, true);
   }
   return [...found.values()];
 }
