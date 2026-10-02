@@ -600,6 +600,15 @@ function extraPosts() {
   return EXTRA;
 }
 
+/** 이미지 속 쿠폰 코드 — scripts/image-codes.mjs 가 Claude 로 읽어 둔 것. */
+let IMGCODES = null;
+function imageCodes() {
+  if (IMGCODES) return IMGCODES;
+  try { IMGCODES = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts', 'image-codes.json'), 'utf8')).lounges || {}; }
+  catch (e) { IMGCODES = {}; }
+  return IMGCODES;
+}
+
 export async function collectOne(g) {
   const boardRes = await get(`${B1}/lounge/${g.loungeId}/board`);
   if (!boardRes) return { ...g, error: '보드 조회 실패' };
@@ -743,6 +752,12 @@ export async function collectOne(g) {
     if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
     if (PREREG_RE.test(ent(item.feed.title))) for (const c of got) c.tag = '사전예약';
     for (const c of got) addCode(c);
+  }
+
+  // 이미지에서 읽은 코드(DoE: 던전앤엑자일 1주년 배너의 DOE1STYEAR 처럼 글자로는 없는 코드)
+  for (const x of imageCodes()[g.loungeId] || []) {
+    addCode({ code: x.code, reward: '', expiry: x.expiry || null, postedAt: x.postedAt || null });
+    if (!sourceUrl) sourceUrl = x.sourceUrl;
   }
 
   if (!codes.length) return { ...g, error: locked ? '보드 잠김(가입 필요)' : '코드 없음', total };
