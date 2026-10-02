@@ -31,6 +31,23 @@ jobs:
       - name: 누락 점검
         run: node scripts/audit-naver.mjs | tee /tmp/out.log
 
+      # 쿠폰 글인데 코드가 이미지에만 있는 글은 Claude 가 이미지를 직접 읽는다(맥스 구독 토큰 사용).
+      # 토큰이 없거나 Claude 가 실패해도 나머지 단계는 그대로 돈다.
+      - name: 이미지 속 쿠폰 읽기
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          node scripts/image-codes.mjs prepare | tee -a /tmp/out.log
+          N=$(grep -oP 'IMAGE_POSTS=\K[0-9]+' /tmp/out.log | tail -1)
+          if [ "${N:-0}" = "0" ] || [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then echo "읽을 이미지 없음 또는 토큰 없음"; exit 0; fi
+          npm install -g @anthropic-ai/claude-code > /dev/null 2>&1 || { echo "Claude Code 설치 실패"; exit 0; }
+          cd /tmp/imgjobs
+          timeout 900 claude -p "$(cat "$GITHUB_WORKSPACE/scripts/image-codes.prompt.md")" \
+            --allowedTools "Read,Write" --permission-mode acceptEdits \
+            | tail -5 || echo "Claude 실행 실패 — 다음 점검에서 다시 봄"
+          cd "$GITHUB_WORKSPACE"
+          node scripts/image-codes.mjs apply | tee -a /tmp/out.log
+
       - name: 네이버 라운지 수집
         run: node scripts/collect-naver.mjs | tee -a /tmp/out.log
 
@@ -51,7 +68,7 @@ jobs:
           FIXED=$(grep -oP 'AUDIT_FIXED=\K[0-9]+' /tmp/out.log | tail -1)
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-extra-posts.json scripts/audit-report.json public/g
+          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-extra-posts.json scripts/audit-report.json scripts/image-codes.json public/g
           if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
           STAMP=$(TZ=Asia/Seoul date '+%m-%d %H:%M')
           git commit -m "audit: ${STAMP} 자가 점검 · 놓친 글/라운지 ${FIXED:-0}건 반영"
