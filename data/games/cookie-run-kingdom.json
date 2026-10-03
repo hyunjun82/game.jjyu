@@ -1,0 +1,51 @@
+{
+  "slug": "cookie-run-kingdom",
+  "titleEn": "cookie-run-kingdom",
+  "titleKo": "쿠키런: 킹덤",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:22:34.186Z",
+  "codes": [
+    {
+      "code": "CRKCHRONOSLIVE26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/dbs_jln/224422131241",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "DEVNOW2026THANKU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/dbs_jln/224422131241",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "TODEARESTEROMIHWAN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/dbs_jln/224422131241",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "MISSEARTHBREAD26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-04",
+      "sourceUrl": "https://blog.naver.com/hyjueng/224400314583",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}

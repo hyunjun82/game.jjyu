@@ -1,0 +1,41 @@
+{
+  "slug": "gold-mine-defender",
+  "titleEn": "gold-mine-defender",
+  "titleKo": "골드 마인 디펜더",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:30.616Z",
+  "codes": [
+    {
+      "code": "GOLD2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224423002020",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "GMDDEFENDER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224423002020",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "YUEGAMEGMD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224423002020",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    }
+  ]
+}

@@ -2,14 +2,23 @@
   "slug": "yulgang-next",
   "titleEn": "Yulgang: Next",
   "titleKo": "열혈강호: 넥스트",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjI1/MDAxNzkwMjQ1MTkyMzAx.LHgmWAKyJlsi6MO2oWT94yYghNOEMSJcFs5R1W-H-5Ig.eTLOyLS94VnNJwHJJJ3SYXw-iLl55aBp21X7cWW-H-sg.PNG/%E7%A4%BC%E5%93%81%E7%A0%81.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjdfMTkg/MDAxNzkwNTA0Nzg0NDE3.rm6_REQ4GTLv3FXRiSfJBI1c-Cf2wGwZse5LPfWcjZ0g.GZ9slp6VoEeoKRWXGHeV-ODRAOQB1PX9mv9mGmZgoHUg.PNG/%E7%A4%BC%E5%93%81%E7%A0%81.png",
   "source": "naver-lounge",
   "loungeId": "yulgang_next",
-  "sourceUrl": "https://game.naver.com/lounge/yulgang_next/board/detail/8239577",
+  "sourceUrl": "https://game.naver.com/lounge/yulgang_next/board/detail/8279542",
   "howTo": "",
-  "postCount": 6756,
-  "updatedAt": "2026-10-03T00:22:54.637Z",
+  "postCount": 6757,
+  "updatedAt": "2026-10-03T02:14:26.231Z",
   "codes": [
+    {
+      "code": "happy1003",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "happymoon",
       "reward": "",

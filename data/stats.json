@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T00:33:33.040Z",
+  "generatedAt": "2026-10-03T02:26:28.619Z",
   "today": "2026-10-03",
-  "todayNew": 5,
+  "todayNew": 94,
   "totals": {
-    "games": 268,
-    "codes": 3842,
-    "active": 592,
-    "expired": 3250,
-    "withExpiry": 2273
+    "games": 287,
+    "codes": 3931,
+    "active": 667,
+    "expired": 3264,
+    "withExpiry": 2294
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-03",
-      "count": 5
+      "count": 94
     }
   ],
   "expiringSoon": [
@@ -397,8 +397,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 14,
-      "total": 14
+      "active": 15,
+      "total": 15
     },
     {
       "slug": "max-level-idle",
@@ -413,6 +413,11 @@
     {
       "slug": "honkai-star-rail",
       "active": 12,
+      "total": 23
+    },
+    {
+      "slug": "sword-frontier",
+      "active": 11,
       "total": 23
     },
     {
@@ -441,19 +446,14 @@
       "total": 9
     },
     {
-      "slug": "sword-frontier",
-      "active": 9,
-      "total": 21
+      "slug": "dungeon-hunter6-awakening",
+      "active": 8,
+      "total": 34
     },
     {
       "slug": "busy-savior",
       "active": 7,
       "total": 29
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 7,
-      "total": 33
     },
     {
       "slug": "heartopia",
@@ -471,5 +471,5 @@
       "total": 30
     }
   ],
-  "noImage": 23
+  "noImage": 41
 }

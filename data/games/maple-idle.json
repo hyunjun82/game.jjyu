@@ -1,0 +1,61 @@
+{
+  "slug": "maple-idle",
+  "titleEn": "maple-idle",
+  "titleKo": "메이플키우기",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:46.824Z",
+  "codes": [
+    {
+      "code": "50CUBECOUPON",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/2k1y4/224419488941",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "MAPLEIDLE2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224427683502",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "HEROOFMAPLE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224427683502",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "IDLEMAPLE1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224427683502",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "PINKBEANATTACK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-13",
+      "sourceUrl": "https://blog.naver.com/12512512/224410372601",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}

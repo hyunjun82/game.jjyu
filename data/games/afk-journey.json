@@ -1,0 +1,61 @@
+{
+  "slug": "afk-journey",
+  "titleEn": "afk-journey",
+  "titleKo": "AFK 새로운 여정",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:16.925Z",
+  "codes": [
+    {
+      "code": "VeilofMemories0923",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/naakey/224421272362",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "6kMtRBeUa5nH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/naakey/224421272362",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "PATCH174ERYNDOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "AFKJN2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "AFKJOURNEYKOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    }
+  ]
+}

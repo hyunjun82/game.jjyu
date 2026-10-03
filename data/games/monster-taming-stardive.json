@@ -1,0 +1,91 @@
+{
+  "slug": "monster-taming-stardive",
+  "titleEn": "monster-taming-stardive",
+  "titleKo": "몬길: 스타다이브",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:54.843Z",
+  "codes": [
+    {
+      "code": "NEWEPISODE7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "DIVEWITHISABELLA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "BUNNYSHOW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-08",
+      "sourceUrl": "https://blog.naver.com/greedady/224404209689",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "PLAYMONGIL",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "MONGILDISCORD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-08",
+      "sourceUrl": "https://blog.naver.com/rjdlrose/224405133628",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "JOINMONGIL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-08",
+      "sourceUrl": "https://blog.naver.com/rjdlrose/224405133628",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "LOVEMONGIL",
+      "reward": "",
+      "expiry": "2026-07-29",
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403203929",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "FINDSTAR10",
+      "reward": "",
+      "expiry": "2026-07-29",
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403203929",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}

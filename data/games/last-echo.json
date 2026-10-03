@@ -2,14 +2,23 @@
   "slug": "last-echo",
   "titleEn": "Last Echo",
   "titleKo": "라스트 에코",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMjE3/MDAxNzg5OTgwMDI2OTY2.6YTyyU_zK4Btgycp26VwJFEKEarQdyfEf61NIYTgoucg.1FGmbbdOIj5CI2ObL7mt0HauD0d0wT65TnwPJ0GHFFAg.JPEG/%E9%9F%A9%E8%AF%AD.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMTky/MDAxNzkwMDUxMzAzNzM0.DGdJCkX_ZW8CKaBXqQ_EIjRXFIzrNtfhWkg2g0OUjXEg.EvldJxBmY2x0ZkIftLAaE4dGkQYBj_13t2z8_qNk8tEg.JPEG/800-800.jpg",
   "source": "naver-lounge",
   "loungeId": "Last_Echo",
-  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8247953",
+  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8279536",
   "howTo": "",
-  "postCount": 8,
-  "updatedAt": "2026-10-03T00:25:10.860Z",
+  "postCount": 9,
+  "updatedAt": "2026-10-03T02:16:39.814Z",
   "codes": [
+    {
+      "code": "DANGUN2026",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "TRAVEL99",
       "reward": "",

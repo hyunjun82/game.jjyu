@@ -1,0 +1,41 @@
+{
+  "slug": "aniimo",
+  "titleEn": "Aniimo",
+  "titleKo": "애니모",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:09.678Z",
+  "codes": [
+    {
+      "code": "aniimolaunch2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/t326598/224421947470",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "Aniimo2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/meln_/224418663415",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "ANIIMOGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/meln_/224418663415",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    }
+  ]
+}

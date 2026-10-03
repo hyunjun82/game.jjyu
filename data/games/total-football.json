@@ -2,14 +2,23 @@
   "slug": "total-football",
   "titleEn": "Total Football",
   "titleKo": "Total Football - 25/26 시즌",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTdfMjE5/MDAxNzg5NjM2NDQyNzY0.soSqjfVx8YCrjnfA9KNwwsjbOxB8FO5CCQvfb6PGDocg.hvQe5qocnBZXxKZycXTlk0OKqP64coaAOSV9uJRMIzYg.JPEG/TF24_%EC%9D%B4%EB%B2%A4%ED%8A%B8_8000x180.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MzBfNzMg/MDAxNzkwNzM0NjI1MTIy.pUFuQJp4-a_jWAtkg1w03JLe3F2vC2oxHWfRlJxz_DMg.NZUG_BOBdDDLQhBzqrCINxGgL1JcaTNFvvDuemDNO0Ug.JPEG/TF24_%EC%9D%B4%EB%B2%A4%ED%8A%B8_8000x180.jpg",
   "source": "naver-lounge",
   "loungeId": "Total_Football",
-  "sourceUrl": "https://game.naver.com/lounge/Total_Football/board/detail/8213839",
+  "sourceUrl": "https://game.naver.com/lounge/Total_Football/board/detail/8279551",
   "howTo": "",
-  "postCount": 4,
-  "updatedAt": "2026-10-03T00:25:28.394Z",
+  "postCount": 5,
+  "updatedAt": "2026-10-03T02:16:56.967Z",
   "codes": [
+    {
+      "code": "HAPPYOCTOBER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "CHUSEOK2026",
       "reward": "",

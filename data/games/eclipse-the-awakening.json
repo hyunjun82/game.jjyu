@@ -1,0 +1,41 @@
+{
+  "slug": "eclipse-the-awakening",
+  "titleEn": "eclipse-the-awakening",
+  "titleKo": "이클립스: 더 어웨이크닝",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:24.039Z",
+  "codes": [
+    {
+      "code": "0910ECLIPSE",
+      "reward": "",
+      "expiry": "2026-11-10",
+      "postedAt": "2026-09-06",
+      "sourceUrl": "https://blog.naver.com/mysecretgames/224402716076",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "0914ECLIPSE1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/zzabaeegi/224411687664",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "0914ECLIPSE2ND",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/zzabaeegi/224411687664",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}

@@ -2,14 +2,23 @@
   "slug": "bang-bang-survivor",
   "titleEn": "Bang Bang Survivor",
   "titleKo": "빵빵 좀비단",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMjI2/MDAxNzg5OTY5NjAzMjE1.ooEo7flwqKbMxlpa5d8t5IDqW0aq0DnInDFZ5NE9hyYg.BIvSZnBZW0nE7hk1O-iIxFaW-zSnlGLiXkz85g0pLUUg.JPEG/%E4%B8%AD%E7%A7%8B%E7%AF%80-%E9%9F%A9%E6%96%87(1).jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA0MjZfMjcy/MDAxNzE0MTE1NTU3MjU0.k35hZPvDFM7crdN_itk6E2RVAqqdXp1EjvxKo-IEi8kg.nLHPJPDtpYP1XdZacx7OoxUgjQL_RHQVy30g93bfUHcg.JPEG/%EB%B9%B5%EB%B9%B5_%EC%A2%80%EB%B9%84%EB%8B%A8icon.jpg",
   "source": "naver-lounge",
   "loungeId": "BangBang_Survivor",
-  "sourceUrl": "https://game.naver.com/lounge/BangBang_Survivor/board/detail/8230756",
+  "sourceUrl": "https://game.naver.com/lounge/BangBang_Survivor/board/detail/8279549",
   "howTo": "",
-  "postCount": 229,
-  "updatedAt": "2026-10-03T00:25:19.270Z",
+  "postCount": 230,
+  "updatedAt": "2026-10-03T02:16:48.361Z",
   "codes": [
+    {
+      "code": "Gaecheon26",
+      "reward": "",
+      "expiry": "2027-01-31",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "MOON8214",
       "reward": "",

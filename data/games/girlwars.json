@@ -1,0 +1,41 @@
+{
+  "slug": "girlwars",
+  "titleEn": "girlwars",
+  "titleKo": "소녀전쟁: 환상의 천하통일전",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:22:51.752Z",
+  "codes": [
+    {
+      "code": "VIP2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-19",
+      "sourceUrl": "https://blog.naver.com/emdabckybsvk/224416748167",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "FBGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-19",
+      "sourceUrl": "https://blog.naver.com/emdabckybsvk/224416748167",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "DCGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-19",
+      "sourceUrl": "https://blog.naver.com/emdabckybsvk/224416748167",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    }
+  ]
+}

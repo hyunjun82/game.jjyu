@@ -1,0 +1,81 @@
+{
+  "slug": "police-chief",
+  "titleEn": "police-chief",
+  "titleKo": "폴리스 치프",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:22:49.377Z",
+  "codes": [
+    {
+      "code": "CHIEFTRAVELS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/2mindaddy/224427984884",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "DCSPATROL26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/2mindaddy/224427984884",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "FBCHIEF2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/2mindaddy/224427984884",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "CHUSEOCK26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/hyah408/224420102404",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "CAFECHIEF",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/hyah408/224420102404",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "SIRENOFF",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224416489775",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "LIBERTYBELL74",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224416489775",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}

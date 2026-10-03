@@ -1,0 +1,41 @@
+{
+  "slug": "1000years-again",
+  "titleEn": "1000yearsAgain",
+  "titleKo": "천년 어게인",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:21:14.417Z",
+  "codes": [
+    {
+      "code": "1000Y",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224418158486",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "1000ZB",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224418158486",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "1000YPC",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403204934",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}

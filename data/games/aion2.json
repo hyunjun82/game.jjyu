@@ -1,0 +1,31 @@
+{
+  "slug": "aion2",
+  "titleEn": "aion2",
+  "titleKo": "아이온2",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-03T02:22:11.667Z",
+  "codes": [
+    {
+      "code": "HAPPYCHUSEOKAION2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/bebe_rabit/224420280353",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "AION2CHAPTERONE",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-05",
+      "sourceUrl": "https://blog.naver.com/hyjueng/224402049475",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    }
+  ]
+}
