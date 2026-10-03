@@ -2,14 +2,23 @@
   "slug": "skill-wizard-idle",
   "titleEn": "Skill Wizard Idle",
   "titleKo": "스킬 마법사 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfODQg/MDAxNzkwMTQ1MjkxOTM5.AuvXM6M04HhvllbEeWS_lL9o0j8u8zJqOYkGG_mcKlYg.CWZ7N6xtWj3uvYZLFU_KHifbsF6helk-lJ3QiMHQ_w8g.PNG/4.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTAg/MDAxNzkwOTMzNTY1MTA1.fAAomwGFvQ3bPaKqXmnzVEjoVplKPT4eyPAR2rRW6BYg.gUeKYOXVpVaBd440-hW0P66pOR60cif0HPZGZWrNUGAg.PNG/4.png",
   "source": "naver-lounge",
   "loungeId": "Skill_Wizard_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Skill_Wizard_Idle/board/detail/8239873",
-  "howTo": "-. 게임 접속 - 우측상단 버튼 - 설정 - 계정 - 쿠폰 사용 버튼으로 입력 스마키를 사랑해주시는 모든 유저분들 사랑합니다!",
-  "postCount": 84,
-  "updatedAt": "2026-10-03T02:15:26.900Z",
+  "sourceUrl": "https://game.naver.com/lounge/Skill_Wizard_Idle/board/detail/8280090",
+  "howTo": "-. 게임 접속 - 우측상단 버튼 - 설정 - 계정 - 쿠폰 사용 버튼으로 입력 스마키를 사랑해주시는 모든 유저분들을 사랑합니다!",
+  "postCount": 85,
+  "updatedAt": "2026-10-03T05:19:28.028Z",
   "codes": [
+    {
+      "code": "26개천절",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "26추석",
       "reward": "",

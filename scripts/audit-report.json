@@ -1,43 +1,31 @@
 {
- "generatedAt": "2026-10-02T12:23:02.821Z",
- "window": "20260930~20261002",
+ "generatedAt": "2026-10-03T05:07:08.970Z",
+ "window": "20261001~20261003",
  "lounges": 2313,
- "posts": 944,
- "couponPosts": 87,
+ "posts": 622,
+ "couponPosts": 102,
  "fixedTracked": [
-  "호드 워:어벤저의 소환 | aedfcvgv | 🎁주말 특별 혜택(10/3-10/4)",
-  "광전사 키우기 | OCTOCT5726 | 위클리 쿠폰",
-  "동방 찻집 | pygazujfww | 🍵찻집의 주말 보급품 도착! 38탄",
-  "추억의 잡화점 | GIFT9U7kwW | 🎈주간 혜택 지급🎈",
-  "각성소녀: 욕망의 여정 | R2N8KC | 🎁 친애하는 기사님, 소녀들이 특별한 선물을 준비했어요!",
-  "창세기전 모바일 | GENESIS1000DAYS | 🎉창세기전 모바일 1000일 기념 감사 쿠폰 안내",
-  "용사가 돌아왔다 키우기 | WR109UPDATE | 개발자노트#10 - v1.09.00 업데이트",
-  "바르디안 | EVENT1003 | 개천절 기념 쿠폰 선물",
-  "LOSTCITY : ZERO | LOSTCITY676295 | 10월 2일 (금) 주말 쿠폰 이벤트"
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | PQNV638 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/3 깜짝 쿠폰!",
+  "삼국지: 패업 | Gaecheong26 | 10월 개천절 한정 충전 이벤트",
+  "나 혼자 만렙 키우기 | N3V8YT | 10/03 사천당가에서 온 매일 매일 쿠폰 이벤트",
+  "레알팜 | Event3, Event4 | 10월 05일 (월) 레알리 14주년 하루 잔치 예고",
+  "스킬 마법사 키우기 | 26개천절 | 🎁[ 쿠폰 ] 하늘이 열린 날, 하늘에서 내려오는 쿠폰🎉"
  ],
- "addedLounges": [
-  "레알팜 (REAL_FARM) → /real-farm/ | Event3, Event4"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "이사만루26 | 2026-10-01 | [이벤트] 키워드 쿠폰 이벤트 안내",
-  "뱅드림! 아워 노트 | 2026-09-30 | 무겐다이 뮤타입, millsage, 일가 Dumb Rock! 싱글 정식 발매!",
+  "다크엔젤:천사 강림 | 2026-10-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (10.3~10.9)",
   "드래곤에어 : 침묵의 신 | 2026-10-02 | 【이벤트】 🎨 혼돈의 후예 스킨 아이디어 공모전! 👑",
   "드림 가든: 추억의 힐링 경영 | 2026-10-02 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "꿈의 여행자: 별빛 여정 | 2026-09-30 | [이벤트]🐾여행자의 최애 패밀리어는?",
   "다이너마이트 블루 | 2026-10-01 | [안내] 10월 1일 종합 안내 (X 팔로워 보상 · 그라운드패스 · iOS 사양 · FA",
-  "마왕 슬라임 키우기 : 방치형 RPG | 2026-09-30 | [이벤트] 쿠폰닷컴 X 마왕 슬라임 키우기 전용 쿠폰 5종 공개🎁",
   "호드 워:어벤저의 소환 | 2026-10-01 | 주간 이벤트-틀린 그림 찾아 주세요!(10/1-10/6)",
-  "이모탈 라이징: 불멸의 각성 | 2026-09-30 | 신규 신 [나타] 강림 임박",
-  "인투더던전:리본 | 2026-09-30 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (9/30 - 10/6)",
-  "여신 키우기: 방치형 RPG | 2026-09-30 | 📬[공지] 커뮤니티 이벤트 재안내 연장 안내 ~ 10월 31일까지!!",
+  "버섯커 키우기 | 2026-10-03 | 개천절 기념 쿠폰 안내",
+  "아케론: 종말의 서곡 | 2026-10-03 | [쿠폰] 개천절 기념 선물",
   "아케론: 종말의 서곡 | 2026-10-01 | [이벤트] 한글날 기념 퀴즈 이벤트✅️（10/1-10/10）",
-  "삼국지 오리진 | 2026-09-30 | 주간 퀴즈 이벤트 362탄",
-  "삼국지: 제후의 전쟁 | 2026-09-30 | [제후의 전쟁] 주간 퀴즈 이벤트 4탄 (내용 수정)",
   "세븐나이츠 리버스 | 2026-10-01 | [세나리 x 귀멸의 칼날] 로비에 숨겨진 쿠폰을 찾아라! 이벤트 안내",
   "스카이 어비스: 혈맹의 서약 | 2026-10-02 | [⭐최대 20%아이템 캐시백]10/2~10/4 한정 누적 충전 혜택 안내",
-  "삼국블레이드 키우기 | 2026-09-30 | 📢. (내용 추가)이제 【삼국블레이드 키우기】, 'VALOFE' 에서!!",
   "Total Football - 25/26 시즌 | 2026-10-02 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (10/5 ~ 10/11)",
-  "명조:워더링 웨이브 | 2026-09-30 | 🎥 『명조:워더링 웨이브』 3.7 버전 라이브 드롭스 이벤트"
+  "다크엔젤: 심연의 날개 | 2026-10-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (10.3~10.9) "
  ],
  "imageOnly": [
   {
@@ -51,27 +39,23 @@
    ]
   },
   {
-   "game": "마왕 슬라임 키우기 : 방치형 RPG",
-   "loungeId": "GrowDemonSlime",
-   "feedId": 8267743,
-   "date": "2026-09-30",
-   "title": "[이벤트] 쿠폰닷컴 X 마왕 슬라임 키우기 전용 쿠폰 5종 공개🎁",
+   "game": "버섯커 키우기",
+   "loungeId": "MushWarrior",
+   "feedId": 8279552,
+   "date": "2026-10-03",
+   "title": "개천절 기념 쿠폰 안내",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMTg1/MDAxNzkwNzc5MDczNzE0.b54Xp_eja7HyNsNCRi0ZCkrUJQGkTBUu1TC4mfBsWLIg.XhcygCaeyOF2ev_X1LmG93T_jj0_UIKGgmX4J3hlNfwg.PNG/NAVER_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMTg1/MDAxNzkwNzc5MDgxNjEx.QtYN_1WeBy6DmKtjhwpFPxoQEGuQFMhhysAp9ng4uBQg.e3ylj0MffgQHz5HxjTt8-ZNRS9qetrwQSSz5e46yzN4g.PNG/KR_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMjQ4/MDAxNzkwNzc5MjU0MjA0.2gM41w1yV9f7UEOVDvucnZODnucRwhokYzo1rR6EegIg.nBLc1TNGp3jECDm8n-6ZgoXIrZMIZlnKdoqhpQqT_j0g.PNG/%EB%A7%88%EC%99%95%EC%8A%AC%EB%9D%BC%EC%9E%84%ED%82%A4%EC%9A%B0%EA%B8%B0_%EC%BF%A0%ED%8F%B0%EB%8B%B7%EC%BB%B4_%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%B0%B0%EB%84%88_%EC%8B%9C%EC%95%88_v1..png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMTA0/MDAxNzkwNzQxNzYwMzYx.7xrLNnri_MJU2EUu21SOJihM-SfP-ddPQ7UjpOlQBE4g.NtMB4_BOcPWbVLc1CSNObuykqAnKj_eWiZn3y8OZtosg.JPEG/%E5%BC%80%E5%A4%A9%E8%8A%82_(1).jpg?type=w1678"
    ]
   },
   {
-   "game": "레알팜",
-   "loungeId": "REAL_FARM",
-   "feedId": 8275649,
-   "date": "2026-10-02",
-   "title": "개발자노트 | 새로운 레알쿠폰 이벤트와 콘텐츠를 준비하고 있습니다!",
+   "game": "아케론: 종말의 서곡",
+   "loungeId": "Origin_of_Chaos",
+   "feedId": 8278158,
+   "date": "2026-10-03",
+   "title": "[쿠폰] 개천절 기념 선물",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTA5/MDAxNzkwOTIxMDA5NzY3.HMjn3VHbtu-vin8GAtDP9eegmXiubuMdAPHbG1KBeZgg.dnr8hs9HKCTZ0Fgdltx_0caJ-TYuaMHP601ahzExhQkg.PNG/developer_note_700x700_ratio.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjgw/MDAxNzkwOTIxMDM2OTIx.DUn5CayAQJX5KqaLLgiAoauM8rrzrvA908nAJgHiSc0g.RsdgvjufHVVaS84cmStK6McGv9fqaytGPfwI5GbSWRIg.PNG/261105_%EB%82%9A%EC%8B%9C_%EC%8B%9C%EC%84%A4.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjYy/MDAxNzkwOTIxMDQyNzg0.YhpY0wf5y7MwFPuAY53Vy3dFKSPJqCLLjA2g7vjBm1wg.Qt_TYgAixMUbl8VzGUzDto6WJRbcqTP88JNDzepvPqog.PNG/image_(8).png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMjY2/MDAxNzkwMDQ2NzM5MTU0.KrS1JKbPZqFLA9t665RD28iCBoP3gxow1J7_CG10rDIg.yEnbdY1OsgTa4DW9aJsyVA-vbNR8_fgl2r2jlws2vBwg.PNG/261003-261010_(1).png?type=w1678"
    ]
   },
   {
@@ -89,6 +73,18 @@
    ]
   },
   {
+   "game": "레알팜",
+   "loungeId": "REAL_FARM",
+   "feedId": 8275649,
+   "date": "2026-10-02",
+   "title": "개발자노트 | 새로운 레알쿠폰 이벤트와 콘텐츠를 준비하고 있습니다!",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTA5/MDAxNzkwOTIxMDA5NzY3.HMjn3VHbtu-vin8GAtDP9eegmXiubuMdAPHbG1KBeZgg.dnr8hs9HKCTZ0Fgdltx_0caJ-TYuaMHP601ahzExhQkg.PNG/developer_note_700x700_ratio.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjgw/MDAxNzkwOTIxMDM2OTIx.DUn5CayAQJX5KqaLLgiAoauM8rrzrvA908nAJgHiSc0g.RsdgvjufHVVaS84cmStK6McGv9fqaytGPfwI5GbSWRIg.PNG/261105_%EB%82%9A%EC%8B%9C_%EC%8B%9C%EC%84%A4.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjYy/MDAxNzkwOTIxMDQyNzg0.YhpY0wf5y7MwFPuAY53Vy3dFKSPJqCLLjA2g7vjBm1wg.Qt_TYgAixMUbl8VzGUzDto6WJRbcqTP88JNDzepvPqog.PNG/image_(8).png?type=w1678"
+   ]
+  },
+  {
    "game": "세븐나이츠 리버스",
    "loungeId": "sena_rebirth",
    "feedId": 8269541,
@@ -98,6 +94,16 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMDFfMjE3/MDAxNzkwODE4NTUyMTM0.jCoF_IiNHOO0-TPfHC_6-b647N7bVVouX2DyW7_iyE8g.QQ8VJuqEgyEvaG_y5r6csaHdVLx5uIHgFS7zrIRJBlwg.PNG/260306_%EC%84%B8%EB%82%98%EB%A6%AC%EB%B2%84%EC%8A%A4_%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%83%81%EB%8B%A8%EB%B0%B0%EB%84%88_07_%EC%9D%B4%EB%B2%A4%ED%8A%B8_740x210_KR.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMDFfMjgz/MDAxNzkwODE4NjAyODk3.baUCVOJHtzmQFKCsP6KZURI8uiERDB6KVA3ATEwXUOkg.HCaQmbC_X9fZPcHrrvSO3_1rg3jSjVljFNnk1gCwIZYg.JPEG/260903_%EC%84%B8%EB%82%98%EB%A6%AC%EB%B2%84%EC%8A%A4_%EB%A1%9C%EB%B9%84%EC%97%90%EC%88%A8%EA%B2%A8%EC%A7%84%EC%BF%A0%ED%8F%B0%EC%9D%84%EC%B0%BE%EC%95%84%EB%9D%BC_(3).jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMDFfODQg/MDAxNzkwODE4NjM4MDY5.kqI_2smX62AJRKWc4WHNM-aYxVEYQkEE7D8-96bOxAMg.iVjvz8fuyysiFHiOtXX1n-YzFFUwz-qth6Yplek8Sfwg.PNG/03_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678"
+   ]
+  },
+  {
+   "game": "다크엔젤: 심연의 날개",
+   "loungeId": "Wings_of_the_Goddess",
+   "feedId": 8278156,
+   "date": "2026-10-03",
+   "title": "[이벤트] Ustore 포인트 20배 반환 & 무료 쿠폰 증정 이벤트 (10/3~10/5)",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA5MjBfMTAw/MDAxNzg5ODg2MTI1NzQ4.k5f_nA2m1SwYe1iM7wVXNy59GXND2Nt77r6lJEbz1ykg.On7x_AKDSCv6WaYptRm7vGWLjJyvyGzrno0vEsepETog.JPEG/700x154_3.jpg?type=w1678"
    ]
   }
  ]

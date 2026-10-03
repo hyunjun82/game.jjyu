@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T02:26:28.619Z",
+  "generatedAt": "2026-10-03T05:21:46.387Z",
   "today": "2026-10-03",
-  "todayNew": 94,
+  "todayNew": 99,
   "totals": {
     "games": 287,
-    "codes": 3931,
-    "active": 667,
+    "codes": 3936,
+    "active": 672,
     "expired": 3264,
-    "withExpiry": 2294
+    "withExpiry": 2296
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-03",
-      "count": 94
+      "count": 99
     }
   ],
   "expiringSoon": [
@@ -83,6 +83,12 @@
     {
       "slug": "lucky-plant-defense",
       "code": "26GOLDKOR5",
+      "expiry": "2026-10-03",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "N3V8YT",
       "expiry": "2026-10-03",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "Prometheus",
       "expiry": "2026-10-06",
       "days": 3
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "RinPFSX",
-      "expiry": "2026-10-06",
-      "days": 3
     }
   ],
   "topGames": [
@@ -392,8 +392,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 30
+      "active": 16,
+      "total": 31
     },
     {
       "slug": "rogw-remains-of-gods",
@@ -402,8 +402,8 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 60
+      "active": 14,
+      "total": 61
     },
     {
       "slug": "along-with-the-ghost",
