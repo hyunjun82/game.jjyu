@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-03T13:47:48.009Z",
+  "updatedAt": "2026-10-03T17:55:25.658Z",
   "codes": [
     {
       "code": "VIP2024",
@@ -14,8 +14,8 @@
       "postedAt": "2026-09-19",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224416748167",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "status": "active"
+      "lastSeen": "2026-10-04",
+      "status": "expired"
     },
     {
       "code": "FBGIFT",
@@ -24,8 +24,8 @@
       "postedAt": "2026-09-19",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224416748167",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "status": "active"
+      "lastSeen": "2026-10-04",
+      "status": "expired"
     },
     {
       "code": "DCGIFT",
@@ -34,8 +34,8 @@
       "postedAt": "2026-09-19",
       "sourceUrl": "https://blog.naver.com/emdabckybsvk/224416748167",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "status": "active"
+      "lastSeen": "2026-10-04",
+      "status": "expired"
     }
   ]
 }

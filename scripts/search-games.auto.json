@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-03T13:39:37.899Z",
+  "generatedAt": "2026-10-03T17:47:47.301Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -9,40 +9,16 @@
       "titleEn": "Kaind Idle"
     },
     {
-      "slug": "romantic-gangho",
-      "loungeId": "RomanticGangho",
-      "titleKo": "낭만강호",
-      "titleEn": "Romantic Gangho"
-    },
-    {
-      "slug": "heartopia",
-      "loungeId": "Heartopia",
-      "titleKo": "두근두근타운",
-      "titleEn": "Heartopia"
-    },
-    {
       "slug": "tales-runner-rpg",
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
-    },
-    {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights Endfield"
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
+      "slug": "romantic-gangho",
+      "loungeId": "RomanticGangho",
+      "titleKo": "낭만강호",
+      "titleEn": "Romantic Gangho"
     },
     {
       "slug": "watcher-of-realms",
@@ -51,10 +27,34 @@
       "titleEn": "Watcher Of Realms"
     },
     {
+      "slug": "heartopia",
+      "loungeId": "Heartopia",
+      "titleKo": "두근두근타운",
+      "titleEn": "Heartopia"
+    },
+    {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
+    },
+    {
+      "slug": "torchlight-infinite",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight Infinite"
+    },
+    {
       "slug": "heroes-tales2",
       "loungeId": "Heroes_tales2",
       "titleKo": "히어로즈 테일즈2",
       "titleEn": "Heroes Tales2"
+    },
+    {
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights Endfield"
     },
     {
       "slug": "toysamguk",
@@ -73,12 +73,6 @@
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
-    },
-    {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
@@ -105,6 +99,12 @@
       "titleEn": "Dragonblade Grow"
     },
     {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
       "titleKo": "드림 가든: 추억의 힐링 경영",
@@ -115,6 +115,12 @@
       "loungeId": "Eternal_Chronicle",
       "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
+    },
+    {
+      "slug": "grim-soul",
+      "loungeId": "Grim_Soul",
+      "titleKo": "그림소울",
+      "titleEn": "Grim Soul"
     },
     {
       "slug": "idle-king",
@@ -129,40 +135,10 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
-      "slug": "plantis-zombie-gangsters",
-      "loungeId": "Plantis_Zombie_Gangsters",
-      "titleKo": "플랜티스와 좀비깡패",
-      "titleEn": "Plantis Zombie Gangsters"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
-    },
-    {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
     },
     {
       "slug": "redmythnezha",
@@ -183,46 +159,10 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "silver-palace",
-      "loungeId": "Silver_Palace",
-      "titleKo": "실버 팰리스",
-      "titleEn": "Silver Palace"
-    },
-    {
-      "slug": "skull-defense",
-      "loungeId": "Skull_Defense",
-      "titleKo": "스컬디펜스",
-      "titleEn": "Skull Defense"
-    },
-    {
-      "slug": "slingshooter",
-      "loungeId": "slingshooter",
-      "titleKo": "용사의 모험: 슬링슈터",
-      "titleEn": "Slingshooter"
-    },
-    {
-      "slug": "solosamguk",
-      "loungeId": "solosamguk",
-      "titleKo": "나 혼자 만렙 삼국",
-      "titleEn": "Solosamguk"
-    },
-    {
-      "slug": "soul-land-second-coming",
-      "loungeId": "Soul_Land_Second_Coming",
-      "titleKo": "소울랜드:세컨드 커밍",
-      "titleEn": "Soul Land Second Coming"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
       "titleEn": "Star Of The Overlord"
-    },
-    {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
     },
     {
       "slug": "stone-three-kingdoms",
@@ -231,16 +171,10 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
+      "slug": "survivor-warriors",
+      "loungeId": "Survivor_Warriors",
+      "titleKo": "서바이버 워리어즈",
+      "titleEn": "Survivor Warriors"
     },
     {
       "slug": "survivorio",
@@ -249,10 +183,88 @@
       "titleEn": "Survivorio"
     },
     {
+      "slug": "swordgirl-hero",
+      "loungeId": "swordgirl_hero",
+      "titleKo": "칼잽이소녀",
+      "titleEn": "Swordgirl Hero"
+    },
+    {
+      "slug": "syungsyung",
+      "loungeId": "syungsyung",
+      "titleKo": "슝슝 수련기",
+      "titleEn": "Syungsyung"
+    },
+    {
+      "slug": "tamer",
+      "loungeId": "Tamer",
+      "titleKo": "테이머 키우기 : 드래곤 소녀 RPG",
+      "titleEn": "Tamer"
+    },
+    {
+      "slug": "taptap-hero",
+      "loungeId": "Taptap_Hero",
+      "titleKo": "탑탑 히어로",
+      "titleEn": "Taptap Hero"
+    },
+    {
+      "slug": "the-ace-banker",
+      "loungeId": "The_Ace_Banker",
+      "titleKo": "사장님의 이중생활",
+      "titleEn": "The Ace Banker"
+    },
+    {
+      "slug": "the-contract-of-blood",
+      "loungeId": "The_contract_of_Blood",
+      "titleKo": "피의 계약: 언데드",
+      "titleEn": "The Contract Of Blood"
+    },
+    {
+      "slug": "the-first-hunter-vanguard",
+      "loungeId": "The_First_Hunter_Vanguard",
+      "titleKo": "최초의 헌터: 뱅가드",
+      "titleEn": "The First Hunter Vanguard"
+    },
+    {
+      "slug": "the-last-chronicle",
+      "loungeId": "The_Last_Chronicle",
+      "titleKo": "마지막 연대기",
+      "titleEn": "The Last Chronicle"
+    },
+    {
+      "slug": "the-legend-of-neverland",
+      "loungeId": "The_Legend_of_Neverland",
+      "titleKo": "레오네S: 레전드 오브 네버랜드",
+      "titleEn": "The Legend Of Neverland"
+    },
+    {
+      "slug": "the-pixel-ark",
+      "loungeId": "THE_PIXEL_ARK",
+      "titleKo": "픽셀방주",
+      "titleEn": "The Pixel Ark"
+    },
+    {
+      "slug": "three-kingdoms-card-clash",
+      "loungeId": "Three_Kingdoms_Card_Clash",
+      "titleKo": "삼국 칸따먹기",
+      "titleEn": "Three Kingdoms Card Clash"
+    },
+    {
+      "slug": "three-kingdoms-rise-of-warlords",
+      "loungeId": "Three_kingdoms_Rise_of_Warlords",
+      "titleKo": "삼국지: 군웅할거",
+      "titleEn": "Three Kingdoms Rise Of Warlords"
+    },
+    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "w-cross-world",
+      "loungeId": "W_CROSS_WORLD",
+      "titleKo": "더블유: 크로스월드",
+      "titleEn": "W Cross World"
     }
   ]
 }
