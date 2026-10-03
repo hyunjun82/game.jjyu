@@ -130,15 +130,18 @@ export async function probe(loungeId, name, today) {
 }
 
 /**
- * 쿠폰 코드를 한 번이라도 낸 라운지는 전부 넣는다(2026-10-02 방침: 쿠폰 나오는 한국 게임은 전부 등록).
- * 지금 살아 있는 코드가 없어도 페이지를 만들어 두고, 새 코드가 나오면 수집이 채운다.
+ * 등록 기준: 지금 쓸 코드가 있거나, 마지막 코드가 90일 안인 라운지(코드 개수는 따지지 않는다).
  * 예전 기준(코드 3개 이상 · 45일 안)은 기어몬·고냥이 마법사처럼 코드를 가끔 내는 게임을 빠뜨렸다.
  * 월간 쿠폰만 내는 곳은 달이 바뀌는 사이에 순회하면 "전부 만료"로 보류돼 다음 달 코드를 놓쳤다
  * (신도림 with NAVER WEBTOON: 코드 28개, 2026-10-01 새 쿠폰이 자동 수집에서 빠짐).
  */
-export function keepable(r) {
-  return r.live > 0 || r.total >= 1;
+export function keepable(r, today) {
+  if (r.live > 0) return true;
+  // 지금 쓸 코드가 없으면 마지막 코드가 90일 안일 때만 넣는다. "한 번이라도 낸 적 있으면 전부"로 넣었다가
+  // 1~2년 전에 쿠폰이 끊긴 게임 363개가 빈 페이지로 올라갔다(2026-10-02 → 10-03 되돌림).
+  return !!r.last && (Date.parse(today) - Date.parse(r.last)) / 86400000 <= RECENT_DAYS;
 }
+const RECENT_DAYS = 90;
 
 function loadSweep() {
   try { return JSON.parse(fs.readFileSync(SWEEP_FILE, 'utf8')); } catch (e) { return { _설명: '라운지별 마지막 순회 결과. discover-naver.mjs 가 쓴다.', checked: {} }; }
@@ -270,7 +273,7 @@ async function main() {
     const r = await probe(c.loungeId, c.name, today);
     mark(c.loungeId, r);
     if (r.error) { console.log(`  - ${c.name} (${c.loungeId}): ${r.error}`); continue; }
-    if (!keepable(r)) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+    if (!keepable(r, today)) { console.log(`  - ${c.name}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
     added.push(r.g); known.add(c.loungeId.toLowerCase());
     console.log(`  + ${c.name} (${c.loungeId}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 근거: ${c.titles[0].slice(0, 50)}`);
   }
@@ -284,7 +287,7 @@ async function main() {
       const r = await probe(id, names.get(id) || id, today);
       mark(id, r);
       if (r.error) { console.log(`  - ${id}: ${r.error}`); continue; }
-      if (!keepable(r)) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
+      if (!keepable(r, today)) { console.log(`  - ${id}: 코드 ${r.total}개 전부 만료 — 보류`); continue; }
       added.push(r.g); known.add(id.toLowerCase());
       console.log(`  + ${r.g.titleKo} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 지정 확인`);
     }
@@ -301,7 +304,7 @@ async function main() {
       const r = await probe(id, name, today);
       mark(id, r);
       n++;
-      if (r.error || !keepable(r)) continue;
+      if (r.error || !keepable(r, today)) continue;
       added.push(r.g); known.add(id.toLowerCase());
       console.log(`  + ${cleanName(name)} (${id}) → /${r.g.slug}/ · 코드 ${r.total}개(사용가능 ${r.live}) · 순회에서 발견`);
     }

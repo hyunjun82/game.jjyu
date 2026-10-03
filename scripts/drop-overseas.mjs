@@ -22,6 +22,13 @@ for (const f of fs.readdirSync('data/games')) {
     if (g.sourcePath || before !== g.codes.length) { stripped += before - g.codes.length; keptShared++; delete g.sourcePath; fs.writeFileSync(file, JSON.stringify(g, null, 2) + '\n'); }
     continue;
   }
+  // 라운지 목록에서 빠진 네이버 라운지 게임(2026-10-03: 1~2년 전에 쿠폰이 끊긴 363개를 목록에서 뺐다)은 페이지도 내린다.
+  // 다시 쿠폰을 내면 discover-naver 가 목록에 넣고 collect-naver 가 페이지를 새로 만든다.
+  if (g.source === 'naver-lounge' && !korean.has(slug)) {
+    fs.unlinkSync(file); del++;
+    for (const ext of ['webp', 'png', 'jpg']) { const p = `public/g/${slug}.${ext}`; if (fs.existsSync(p)) { fs.unlinkSync(p); img++; } }
+    continue;
+  }
   if (!g.source || g.source === 'pocketgamer') {
     fs.unlinkSync(file); del++;
     for (const ext of ['webp', 'png', 'jpg']) { const p = `public/g/${slug}.${ext}`; if (fs.existsSync(p)) { fs.unlinkSync(p); img++; } }
