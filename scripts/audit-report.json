@@ -1,15 +1,11 @@
 {
- "generatedAt": "2026-10-03T05:07:08.970Z",
+ "generatedAt": "2026-10-03T11:33:32.523Z",
  "window": "20261001~20261003",
  "lounges": 2313,
- "posts": 622,
+ "posts": 650,
  "couponPosts": 102,
  "fixedTracked": [
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | PQNV638 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/3 깜짝 쿠폰!",
-  "삼국지: 패업 | Gaecheong26 | 10월 개천절 한정 충전 이벤트",
-  "나 혼자 만렙 키우기 | N3V8YT | 10/03 사천당가에서 온 매일 매일 쿠폰 이벤트",
-  "레알팜 | Event3, Event4 | 10월 05일 (월) 레알리 14주년 하루 잔치 예고",
-  "스킬 마법사 키우기 | 26개천절 | 🎁[ 쿠폰 ] 하늘이 열린 날, 하늘에서 내려오는 쿠폰🎉"
+  "레알팜 | Event3, Event4 | 10월 05일 (월) 레알리 14주년 하루 잔치 예고"
  ],
  "addedLounges": [],
  "labelOnly": [
@@ -18,6 +14,7 @@
   "드래곤에어 : 침묵의 신 | 2026-10-02 | 【이벤트】 🎨 혼돈의 후예 스킨 아이디어 공모전! 👑",
   "드림 가든: 추억의 힐링 경영 | 2026-10-02 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "다이너마이트 블루 | 2026-10-01 | [안내] 10월 1일 종합 안내 (X 팔로워 보상 · 그라운드패스 · iOS 사양 · FA",
+  "진 삼국무쌍 오버로드 | 2026-10-03 | 주말 선물 쿠폰",
   "호드 워:어벤저의 소환 | 2026-10-01 | 주간 이벤트-틀린 그림 찾아 주세요!(10/1-10/6)",
   "버섯커 키우기 | 2026-10-03 | 개천절 기념 쿠폰 안내",
   "아케론: 종말의 서곡 | 2026-10-03 | [쿠폰] 개천절 기념 선물",
@@ -36,6 +33,16 @@
    "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "진 삼국무쌍 오버로드",
+   "loungeId": "Dynasty_Warriors_Overlords",
+   "feedId": 8280685,
+   "date": "2026-10-03",
+   "title": "주말 선물 쿠폰",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDNfNCAg/MDAxNzkxMDA1MDE4NjI4.9yWB6Oig4KB5e10de4SfOOWsCSv_BSnzqTZ6383-w1Eg.1Wf8rbQn65j6HOAcSiLfKrDJzjJ06XJ9hIz_NBNcFSwg.PNG/code_2.png?type=w1678"
    ]
   },
   {
@@ -59,6 +66,18 @@
    ]
   },
   {
+   "game": "레알팜",
+   "loungeId": "REAL_FARM",
+   "feedId": 8275649,
+   "date": "2026-10-02",
+   "title": "개발자노트 | 새로운 레알쿠폰 이벤트와 콘텐츠를 준비하고 있습니다!",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTA5/MDAxNzkwOTIxMDA5NzY3.HMjn3VHbtu-vin8GAtDP9eegmXiubuMdAPHbG1KBeZgg.dnr8hs9HKCTZ0Fgdltx_0caJ-TYuaMHP601ahzExhQkg.PNG/developer_note_700x700_ratio.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjgw/MDAxNzkwOTIxMDM2OTIx.DUn5CayAQJX5KqaLLgiAoauM8rrzrvA908nAJgHiSc0g.RsdgvjufHVVaS84cmStK6McGv9fqaytGPfwI5GbSWRIg.PNG/261105_%EB%82%9A%EC%8B%9C_%EC%8B%9C%EC%84%A4.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjYy/MDAxNzkwOTIxMDQyNzg0.YhpY0wf5y7MwFPuAY53Vy3dFKSPJqCLLjA2g7vjBm1wg.Qt_TYgAixMUbl8VzGUzDto6WJRbcqTP88JNDzepvPqog.PNG/image_(8).png?type=w1678"
+   ]
+  },
+  {
    "game": "레알팜 크래프트",
    "loungeId": "REALFARM_CRAFT",
    "feedId": 8276673,
@@ -70,18 +89,6 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTM4/MDAxNzkwOTMxNjkyMzU0.qySM1GK0u6ofe0zzaYhMt-1Hx3JC0U_EMBazgjVi8PQg.rzvQD1ZgU2dPKZrkDIYkV17vKMT9_Mj-e3FrOXOOTVIg.JPEG/%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B8_%EC%B9%B4%ED%94%84%EB%A0%88%EC%A0%9C.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTQw/MDAxNzkwOTMxNjkyMzYz.Rsyj0qshszW2Wm3tkPlVOMCXji9zRZi1ADqeT6-hg6Eg.vEjChCW5TY_NAVoUoXVN88YhHTvtRO9P9pSsqbXPSQQg.JPEG/%EC%8A%A4%ED%8E%99_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84_%EC%B9%B4%ED%94%84%EB%A0%88%EC%A0%9C.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjA5MThfNzUg/MDAxNzg5NzA2NTgzNzcw.52hgocWGSUWFyQqV7KyUIbAYqvbbTOJ_uliaY9gqCe0g.qZLoxH_PsIYiEJc2RBPJdkY3dqkJkmUbm2_uz_OgTxQg.PNG/%EA%B7%B8%EB%A6%BC13.png?type=w1678"
-   ]
-  },
-  {
-   "game": "레알팜",
-   "loungeId": "REAL_FARM",
-   "feedId": 8275649,
-   "date": "2026-10-02",
-   "title": "개발자노트 | 새로운 레알쿠폰 이벤트와 콘텐츠를 준비하고 있습니다!",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTA5/MDAxNzkwOTIxMDA5NzY3.HMjn3VHbtu-vin8GAtDP9eegmXiubuMdAPHbG1KBeZgg.dnr8hs9HKCTZ0Fgdltx_0caJ-TYuaMHP601ahzExhQkg.PNG/developer_note_700x700_ratio.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjgw/MDAxNzkwOTIxMDM2OTIx.DUn5CayAQJX5KqaLLgiAoauM8rrzrvA908nAJgHiSc0g.RsdgvjufHVVaS84cmStK6McGv9fqaytGPfwI5GbSWRIg.PNG/261105_%EB%82%9A%EC%8B%9C_%EC%8B%9C%EC%84%A4.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjYy/MDAxNzkwOTIxMDQyNzg0.YhpY0wf5y7MwFPuAY53Vy3dFKSPJqCLLjA2g7vjBm1wg.Qt_TYgAixMUbl8VzGUzDto6WJRbcqTP88JNDzepvPqog.PNG/image_(8).png?type=w1678"
    ]
   },
   {
