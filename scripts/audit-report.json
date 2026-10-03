@@ -1,15 +1,13 @@
 {
- "generatedAt": "2026-10-03T16:09:03.036Z",
+ "generatedAt": "2026-10-03T21:06:43.158Z",
  "window": "20261002~20261004",
  "lounges": 2313,
- "posts": 363,
+ "posts": 365,
  "couponPosts": 70,
  "fixedTracked": [
   "레알팜 | Event3, Event4 | 10월 05일 (월) 레알리 14주년 하루 잔치 예고"
  ],
- "addedLounges": [
-  "포트블록스: 이동요새 GO! (FORTBLOX) → /fortblox/ | TOP1FORTBLOX"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "다크엔젤:천사 강림 | 2026-10-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (10.3~10.9)",
   "드래곤에어 : 침묵의 신 | 2026-10-02 | 【이벤트】 🎨 혼돈의 후예 스킨 아이디어 공모전! 👑",
@@ -53,6 +51,18 @@
    ]
   },
   {
+   "game": "레알팜",
+   "loungeId": "REAL_FARM",
+   "feedId": 8275649,
+   "date": "2026-10-02",
+   "title": "개발자노트 | 새로운 레알쿠폰 이벤트와 콘텐츠를 준비하고 있습니다!",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTA5/MDAxNzkwOTIxMDA5NzY3.HMjn3VHbtu-vin8GAtDP9eegmXiubuMdAPHbG1KBeZgg.dnr8hs9HKCTZ0Fgdltx_0caJ-TYuaMHP601ahzExhQkg.PNG/developer_note_700x700_ratio.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjgw/MDAxNzkwOTIxMDM2OTIx.DUn5CayAQJX5KqaLLgiAoauM8rrzrvA908nAJgHiSc0g.RsdgvjufHVVaS84cmStK6McGv9fqaytGPfwI5GbSWRIg.PNG/261105_%EB%82%9A%EC%8B%9C_%EC%8B%9C%EC%84%A4.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjYy/MDAxNzkwOTIxMDQyNzg0.YhpY0wf5y7MwFPuAY53Vy3dFKSPJqCLLjA2g7vjBm1wg.Qt_TYgAixMUbl8VzGUzDto6WJRbcqTP88JNDzepvPqog.PNG/image_(8).png?type=w1678"
+   ]
+  },
+  {
    "game": "레알팜 크래프트",
    "loungeId": "REALFARM_CRAFT",
    "feedId": 8276673,
@@ -64,18 +74,6 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTM4/MDAxNzkwOTMxNjkyMzU0.qySM1GK0u6ofe0zzaYhMt-1Hx3JC0U_EMBazgjVi8PQg.rzvQD1ZgU2dPKZrkDIYkV17vKMT9_Mj-e3FrOXOOTVIg.JPEG/%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B8_%EC%B9%B4%ED%94%84%EB%A0%88%EC%A0%9C.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTQw/MDAxNzkwOTMxNjkyMzYz.Rsyj0qshszW2Wm3tkPlVOMCXji9zRZi1ADqeT6-hg6Eg.vEjChCW5TY_NAVoUoXVN88YhHTvtRO9P9pSsqbXPSQQg.JPEG/%EC%8A%A4%ED%8E%99_%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84_%EC%B9%B4%ED%94%84%EB%A0%88%EC%A0%9C.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjA5MThfNzUg/MDAxNzg5NzA2NTgzNzcw.52hgocWGSUWFyQqV7KyUIbAYqvbbTOJ_uliaY9gqCe0g.qZLoxH_PsIYiEJc2RBPJdkY3dqkJkmUbm2_uz_OgTxQg.PNG/%EA%B7%B8%EB%A6%BC13.png?type=w1678"
-   ]
-  },
-  {
-   "game": "레알팜",
-   "loungeId": "REAL_FARM",
-   "feedId": 8275649,
-   "date": "2026-10-02",
-   "title": "개발자노트 | 새로운 레알쿠폰 이벤트와 콘텐츠를 준비하고 있습니다!",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTA5/MDAxNzkwOTIxMDA5NzY3.HMjn3VHbtu-vin8GAtDP9eegmXiubuMdAPHbG1KBeZgg.dnr8hs9HKCTZ0Fgdltx_0caJ-TYuaMHP601ahzExhQkg.PNG/developer_note_700x700_ratio.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjgw/MDAxNzkwOTIxMDM2OTIx.DUn5CayAQJX5KqaLLgiAoauM8rrzrvA908nAJgHiSc0g.RsdgvjufHVVaS84cmStK6McGv9fqaytGPfwI5GbSWRIg.PNG/261105_%EB%82%9A%EC%8B%9C_%EC%8B%9C%EC%84%A4.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjYy/MDAxNzkwOTIxMDQyNzg0.YhpY0wf5y7MwFPuAY53Vy3dFKSPJqCLLjA2g7vjBm1wg.Qt_TYgAixMUbl8VzGUzDto6WJRbcqTP88JNDzepvPqog.PNG/image_(8).png?type=w1678"
    ]
   },
   {
