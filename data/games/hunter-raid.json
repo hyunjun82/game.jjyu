@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-02T14:15:28.654Z",
+  "updatedAt": "2026-10-03T00:29:30.240Z",
   "codes": [
     {
       "code": "HUNTER777",
@@ -14,27 +14,7 @@
       "postedAt": "2026-09-07",
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
-      "status": "expired"
-    },
-    {
-      "code": "UPDATE2024",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
-      "status": "expired"
-    },
-    {
-      "code": "GROWTH100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
@@ -44,7 +24,27 @@
       "postedAt": "2026-09-07",
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "UPDATE2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "GROWTH100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403215141",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
