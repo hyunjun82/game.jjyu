@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-03T17:54:49.967Z",
+  "updatedAt": "2026-10-03T20:31:58.448Z",
   "codes": [
+    {
+      "code": "TAKEFLIGHTAION2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/game_gallery/224430798014",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04",
+      "status": "active"
+    },
     {
       "code": "HAPPYCHUSEOKAION2",
       "reward": "",

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-03T17:47:47.301Z",
+  "generatedAt": "2026-10-03T20:24:04.988Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -69,6 +69,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "godsamgook",
+      "loungeId": "godsamgook",
+      "titleKo": "갓삼국",
+      "titleEn": "Godsamgook"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -117,16 +123,100 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "grim-soul",
-      "loungeId": "Grim_Soul",
-      "titleKo": "그림소울",
-      "titleEn": "Grim Soul"
+      "slug": "gumihomobile",
+      "loungeId": "gumihomobile",
+      "titleKo": "요신:구미호뎐",
+      "titleEn": "Gumihomobile"
+    },
+    {
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
+    },
+    {
+      "slug": "helmet-corps",
+      "loungeId": "HelmetCorps",
+      "titleKo": "냄비뚜껑 용병단",
+      "titleEn": "Helmet Corps"
+    },
+    {
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
+    },
+    {
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
+    },
+    {
+      "slug": "adventureofheroes",
+      "loungeId": "adventureofheroes",
+      "titleKo": "히어로 모험단",
+      "titleEn": "Adventureofheroes"
+    },
+    {
+      "slug": "hidden-heroes-fortune-dungeon",
+      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
+      "titleKo": "미확인용사단 : 운빨방치RPG",
+      "titleEn": "Hidden Heroes Fortune Dungeon"
+    },
+    {
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
+    },
+    {
+      "slug": "hiki",
+      "loungeId": "hiki",
+      "titleKo": "히어로즈 키우기",
+      "titleEn": "Hiki"
+    },
+    {
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
+    },
+    {
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
+    },
+    {
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
+    },
+    {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
     },
     {
       "slug": "kungfuchaos",
@@ -171,100 +261,16 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "survivor-warriors",
-      "loungeId": "Survivor_Warriors",
-      "titleKo": "서바이버 워리어즈",
-      "titleEn": "Survivor Warriors"
-    },
-    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
-      "slug": "swordgirl-hero",
-      "loungeId": "swordgirl_hero",
-      "titleKo": "칼잽이소녀",
-      "titleEn": "Swordgirl Hero"
-    },
-    {
-      "slug": "syungsyung",
-      "loungeId": "syungsyung",
-      "titleKo": "슝슝 수련기",
-      "titleEn": "Syungsyung"
-    },
-    {
-      "slug": "tamer",
-      "loungeId": "Tamer",
-      "titleKo": "테이머 키우기 : 드래곤 소녀 RPG",
-      "titleEn": "Tamer"
-    },
-    {
-      "slug": "taptap-hero",
-      "loungeId": "Taptap_Hero",
-      "titleKo": "탑탑 히어로",
-      "titleEn": "Taptap Hero"
-    },
-    {
-      "slug": "the-ace-banker",
-      "loungeId": "The_Ace_Banker",
-      "titleKo": "사장님의 이중생활",
-      "titleEn": "The Ace Banker"
-    },
-    {
-      "slug": "the-contract-of-blood",
-      "loungeId": "The_contract_of_Blood",
-      "titleKo": "피의 계약: 언데드",
-      "titleEn": "The Contract Of Blood"
-    },
-    {
-      "slug": "the-first-hunter-vanguard",
-      "loungeId": "The_First_Hunter_Vanguard",
-      "titleKo": "최초의 헌터: 뱅가드",
-      "titleEn": "The First Hunter Vanguard"
-    },
-    {
-      "slug": "the-last-chronicle",
-      "loungeId": "The_Last_Chronicle",
-      "titleKo": "마지막 연대기",
-      "titleEn": "The Last Chronicle"
-    },
-    {
-      "slug": "the-legend-of-neverland",
-      "loungeId": "The_Legend_of_Neverland",
-      "titleKo": "레오네S: 레전드 오브 네버랜드",
-      "titleEn": "The Legend Of Neverland"
-    },
-    {
-      "slug": "the-pixel-ark",
-      "loungeId": "THE_PIXEL_ARK",
-      "titleKo": "픽셀방주",
-      "titleEn": "The Pixel Ark"
-    },
-    {
-      "slug": "three-kingdoms-card-clash",
-      "loungeId": "Three_Kingdoms_Card_Clash",
-      "titleKo": "삼국 칸따먹기",
-      "titleEn": "Three Kingdoms Card Clash"
-    },
-    {
-      "slug": "three-kingdoms-rise-of-warlords",
-      "loungeId": "Three_kingdoms_Rise_of_Warlords",
-      "titleKo": "삼국지: 군웅할거",
-      "titleEn": "Three Kingdoms Rise Of Warlords"
-    },
-    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
     }
   ]
 }
