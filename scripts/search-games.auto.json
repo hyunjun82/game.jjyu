@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-03T02:14:14.553Z",
+  "generatedAt": "2026-10-03T08:17:56.579Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -71,31 +71,31 @@
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "torchlight-infinite",
       "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
+      "titleKo": "Torchlight_Infinite",
       "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "귀신과 함께",
+      "titleKo": "Along_with_the_ghost",
       "titleEn": "Along With The Ghost"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -107,80 +107,14 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
+      "titleKo": "Eternal_Chronicle",
       "titleEn": "Eternal Chronicle"
-    },
-    {
-      "slug": "final-guild",
-      "loungeId": "FinalGuild",
-      "titleKo": "파이널길드",
-      "titleEn": "Final Guild"
-    },
-    {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
-    },
-    {
-      "slug": "football-top-manager",
-      "loungeId": "Football_Top_Manager",
-      "titleKo": "풋볼 탑 매니저",
-      "titleEn": "Football Top Manager"
-    },
-    {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "gaiam",
-      "loungeId": "GAIAM",
-      "titleKo": "가이아M",
-      "titleEn": "Gaiam"
-    },
-    {
-      "slug": "game-of-money",
-      "loungeId": "Game_Of_Money",
-      "titleKo": "대표님을 부탁해",
-      "titleEn": "Game Of Money"
-    },
-    {
-      "slug": "gg-go-masters",
-      "loungeId": "GGGoMasters",
-      "titleKo": "고고 고수들",
-      "titleEn": "Gg Go Masters"
-    },
-    {
-      "slug": "ghost-soul-afk",
-      "loungeId": "GhostSoulAFK",
-      "titleKo": "귀혼키우기",
-      "titleEn": "Ghost Soul Afk"
-    },
-    {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
-    },
-    {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
-    },
-    {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
     },
     {
       "slug": "idle-king",
@@ -191,43 +125,13 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
-    },
-    {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
-    },
-    {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
-    },
-    {
-      "slug": "mnlkr",
-      "loungeId": "mnlkr",
-      "titleKo": "머지데이 나잇 라이브",
-      "titleEn": "Mnlkr"
-    },
-    {
-      "slug": "moeverse-live",
-      "loungeId": "MOEVERSE_LIVE",
-      "titleKo": "모에버스:라이브",
-      "titleEn": "Moeverse Live"
-    },
-    {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -239,7 +143,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -263,13 +167,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "탕탕특공대",
+      "titleKo": "Survivorio",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "토이 신선",
+      "titleKo": "Toy_Immortals",
       "titleEn": "Toy Immortals"
     }
   ]
