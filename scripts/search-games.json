@@ -126,6 +126,101 @@
       "slug": "whiteout-survival",
       "titleKo": "화이트아웃 서바이벌",
       "titleEn": "Whiteout Survival"
+    },
+    {
+      "slug": "miracle-sword-m",
+      "titleKo": "기적의 검",
+      "titleEn": "MiracleSwordM",
+      "loungeId": "MiracleSwordM"
+    },
+    {
+      "slug": "agatha-idle-rpg",
+      "titleKo": "아가타 키우기",
+      "titleEn": "AGATHA_Idle_RPG",
+      "loungeId": "AGATHA_Idle_RPG"
+    },
+    {
+      "slug": "aniimo",
+      "titleKo": "애니모",
+      "titleEn": "Aniimo",
+      "loungeId": "Aniimo"
+    },
+    {
+      "slug": "1000years-again",
+      "titleKo": "천년 어게인",
+      "titleEn": "1000yearsAgain",
+      "loungeId": "1000yearsAgain"
+    },
+    {
+      "slug": "afk-journey",
+      "titleKo": "AFK 새로운 여정",
+      "titleEn": "afk-journey"
+    },
+    {
+      "slug": "eclipse-the-awakening",
+      "titleKo": "이클립스: 더 어웨이크닝",
+      "titleEn": "eclipse-the-awakening"
+    },
+    {
+      "slug": "gold-mine-defender",
+      "titleKo": "골드 마인 디펜더",
+      "titleEn": "gold-mine-defender"
+    },
+    {
+      "slug": "rogue-legend",
+      "titleKo": "로그레전드",
+      "titleEn": "rogue-legend"
+    },
+    {
+      "slug": "maple-idle",
+      "titleKo": "메이플키우기",
+      "titleEn": "maple-idle"
+    },
+    {
+      "slug": "monster-taming-stardive",
+      "titleKo": "몬길: 스타다이브",
+      "titleEn": "monster-taming-stardive"
+    },
+    {
+      "slug": "pporok-magic-defense",
+      "titleKo": "뽀록 마법 디펜스",
+      "titleEn": "pporok-magic-defense"
+    },
+    {
+      "slug": "aion2",
+      "titleKo": "아이온2",
+      "titleEn": "aion2"
+    },
+    {
+      "slug": "zanmang-tikitaka",
+      "titleKo": "잔망 티키타카",
+      "titleEn": "zanmang-tikitaka"
+    },
+    {
+      "slug": "cookie-run-crumble",
+      "titleKo": "쿠키런: 크럼블",
+      "titleEn": "cookie-run-crumble"
+    },
+    {
+      "slug": "cookie-run-kingdom",
+      "titleKo": "쿠키런: 킹덤",
+      "titleEn": "cookie-run-kingdom"
+    },
+    {
+      "slug": "tile-survival",
+      "titleKo": "타일 서바이벌",
+      "titleEn": "tile-survival"
+    },
+    {
+      "slug": "police-chief",
+      "titleKo": "폴리스 치프",
+      "titleEn": "police-chief"
+    },
+    {
+      "slug": "girlwars",
+      "titleKo": "소녀전쟁: 환상의 천하통일전",
+      "titleEn": "girlwars",
+      "loungeId": "girlwars"
     }
   ],
   "_제외": "메이플스토리·마비노기 모바일·로스트아크·던전앤파이터·아가타 키우기·라그나로크 오리진 클래식·세븐나이츠 키우기 — 2026-09-18 실측 결과 쿠폰 코드를 안 쓰는 게임이라 뺐다."

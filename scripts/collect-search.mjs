@@ -258,6 +258,8 @@ async function collectOne(g) {
 
     for (const c of parseCodes(text, posted)) {
       if (foreign.has(c.code.toUpperCase())) continue;               // 다른 게임 코드
+      // 블로그 주인 아이디("rs1616", "storyteller99100")가 본문 머리·서명에 찍혀 코드로 잡혔다(FC온라인·브롤스타즈, 2026-10-03).
+      if (c.code.toLowerCase() === id.toLowerCase() || text.includes(`blog.naver.com/${c.code}`)) continue;
       if (codes.some((x) => x.code.toUpperCase() === c.code.toUpperCase())) continue;
       codes.push({ ...c, sourceUrl: `https://blog.naver.com/${id}/${no}` });
     }
