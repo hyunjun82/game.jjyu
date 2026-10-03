@@ -5,26 +5,56 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-29T13:41:42.018Z",
+  "updatedAt": "2026-10-03T13:45:38.031Z",
   "codes": [
+    {
+      "code": "Happy2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430458527",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "LastWar2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430458527",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "6Fv6eM7JOQ9t",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430458527",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "LWVDAY26",
       "reward": "",
       "expiry": "2026-09-21",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419391204",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430458527",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     },
     {
       "code": "LWDC400K",
       "reward": "",
       "expiry": "2026-09-21",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419391204",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430458527",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]

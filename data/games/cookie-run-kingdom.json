@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-03T08:26:25.861Z",
+  "updatedAt": "2026-10-03T13:47:31.614Z",
   "codes": [
+    {
+      "code": "MISSEARTHBREAD26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224423705563",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "CRKCHRONOSLIVE26",
       "reward": "",
@@ -36,16 +46,6 @@
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-03",
       "status": "active"
-    },
-    {
-      "code": "MISSEARTHBREAD26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-04",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224400314583",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "status": "expired"
     }
   ]
 }

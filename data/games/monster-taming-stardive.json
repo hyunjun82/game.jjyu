@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-03T08:25:48.843Z",
+  "updatedAt": "2026-10-03T13:46:55.074Z",
   "codes": [
     {
       "code": "NEWEPISODE7",
@@ -33,16 +33,6 @@
       "expiry": null,
       "postedAt": "2026-09-08",
       "sourceUrl": "https://blog.naver.com/greedady/224404209689",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
-      "status": "expired"
-    },
-    {
-      "code": "PLAYMONGIL",
-      "reward": "",
-      "expiry": "2026-09-29",
-      "postedAt": "2026-09-27",
-      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-03",
       "status": "expired"
@@ -83,6 +73,16 @@
       "expiry": "2026-07-29",
       "postedAt": "2026-09-07",
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403203929",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "expired"
+    },
+    {
+      "code": "PLAYMONGIL",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-03",
       "status": "expired"

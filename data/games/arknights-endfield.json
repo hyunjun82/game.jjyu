@@ -5,8 +5,28 @@
   "image": "https://media.pocketgamer.com/artwork/na-33994-1769339305/endfield-intro.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-03T08:27:23.888Z",
+  "updatedAt": "2026-10-03T13:48:25.847Z",
   "codes": [
+    {
+      "code": "AKENDFIELDSUB",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430485244",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
+    {
+      "code": "ENDFIELD4PC",
+      "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/asdnqnkwbt31/224430485244",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-10-03",
+      "status": "active"
+    },
     {
       "code": "ZAU2SYXHWX5L4ZH",
       "reward": "",
@@ -35,16 +55,6 @@
       "sourceUrl": "https://blog.naver.com/jjsabu/224422000247",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-10-03",
-      "status": "expired"
-    },
-    {
-      "code": "ENDFIELD4PC",
-      "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419791487",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-02",
       "status": "expired"
     }
   ]

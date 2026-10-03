@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-03T08:17:56.579Z",
+  "generatedAt": "2026-10-03T13:39:37.899Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -71,31 +71,31 @@
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "torchlight-infinite",
       "loungeId": "Torchlight_Infinite",
-      "titleKo": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
       "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "Along_with_the_ghost",
+      "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -107,13 +107,13 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "Dream_Garden_Cozy_Lite_Management",
+      "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "Eternal_Chronicle",
+      "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -125,14 +125,44 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "pixel-heroes-adventure",
+      "loungeId": "PixelHeroesAdventure",
+      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
+      "titleEn": "Pixel Heroes Adventure"
+    },
+    {
+      "slug": "plantis-zombie-gangsters",
+      "loungeId": "Plantis_Zombie_Gangsters",
+      "titleKo": "플랜티스와 좀비깡패",
+      "titleEn": "Plantis Zombie Gangsters"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "ptrctlt",
+      "loungeId": "ptrctlt",
+      "titleKo": "파트롱2:컨트랙트",
+      "titleEn": "Ptrctlt"
+    },
+    {
+      "slug": "puppy-three-kingdoms",
+      "loungeId": "puppy_three_kingdoms",
+      "titleKo": "멍멍삼국",
+      "titleEn": "Puppy Three Kingdoms"
+    },
+    {
+      "slug": "queen-of-tower",
+      "loungeId": "Queen_of_Tower",
+      "titleKo": "연무무쌍 : Queen of Tower",
+      "titleEn": "Queen Of Tower"
     },
     {
       "slug": "redmythnezha",
@@ -143,7 +173,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -153,10 +183,46 @@
       "titleEn": "Samguk_Origin"
     },
     {
+      "slug": "silver-palace",
+      "loungeId": "Silver_Palace",
+      "titleKo": "실버 팰리스",
+      "titleEn": "Silver Palace"
+    },
+    {
+      "slug": "skull-defense",
+      "loungeId": "Skull_Defense",
+      "titleKo": "스컬디펜스",
+      "titleEn": "Skull Defense"
+    },
+    {
+      "slug": "slingshooter",
+      "loungeId": "slingshooter",
+      "titleKo": "용사의 모험: 슬링슈터",
+      "titleEn": "Slingshooter"
+    },
+    {
+      "slug": "solosamguk",
+      "loungeId": "solosamguk",
+      "titleKo": "나 혼자 만렙 삼국",
+      "titleEn": "Solosamguk"
+    },
+    {
+      "slug": "soul-land-second-coming",
+      "loungeId": "Soul_Land_Second_Coming",
+      "titleKo": "소울랜드:세컨드 커밍",
+      "titleEn": "Soul Land Second Coming"
+    },
+    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
       "titleEn": "Star Of The Overlord"
+    },
+    {
+      "slug": "stellar-traveler",
+      "loungeId": "stellar_traveler",
+      "titleKo": "별빛 여행자",
+      "titleEn": "Stellar Traveler"
     },
     {
       "slug": "stone-three-kingdoms",
@@ -165,15 +231,27 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
+      "slug": "striked-fixer",
+      "loungeId": "Striked_Fixer",
+      "titleKo": "내리침 해결사",
+      "titleEn": "Striked Fixer"
+    },
+    {
+      "slug": "stylight",
+      "loungeId": "stylight",
+      "titleKo": "스타일라잇",
+      "titleEn": "Stylight"
+    },
+    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "Survivorio",
+      "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "Toy_Immortals",
+      "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
     }
   ]
