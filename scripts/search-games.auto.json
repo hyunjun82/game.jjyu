@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-04T18:35:30.671Z",
+  "generatedAt": "2026-10-04T22:02:14.131Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -63,33 +63,33 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "seollaesamguk",
-      "loungeId": "seollaesamguk",
-      "titleKo": "설레 삼국:미인계",
-      "titleEn": "Seollaesamguk"
+      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
+      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
+      "titleKo": "신수의 전설",
+      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
     },
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "귀신과 함께",
+      "titleKo": "Along_with_the_ghost",
       "titleEn": "Along With The Ghost"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -107,13 +107,13 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
+      "titleKo": "Eternal_Chronicle",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -125,56 +125,14 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "popucom",
-      "loungeId": "POPUCOM",
-      "titleKo": "팝유컴",
-      "titleEn": "Popucom"
-    },
-    {
-      "slug": "primal-conquest-dino-era",
-      "loungeId": "Primal_Conquest_Dino_Era",
-      "titleKo": "쥬라기 대륙: 디노시아",
-      "titleEn": "Primal Conquest Dino Era"
-    },
-    {
-      "slug": "prime-football-manager",
-      "loungeId": "Prime_Football_Manager",
-      "titleKo": "프라임 풋볼 매니저",
-      "titleEn": "Prime Football Manager"
-    },
-    {
-      "slug": "pro-soccer-legend-eleven",
-      "loungeId": "Pro_Soccer_Legend_Eleven",
-      "titleKo": "프로사커: 레전드 일레븐",
-      "titleEn": "Pro Soccer Legend Eleven"
-    },
-    {
-      "slug": "promise-of-lingyun",
-      "loungeId": "Promise_of_Lingyun",
-      "titleKo": "능운낙",
-      "titleEn": "Promise Of Lingyun"
-    },
-    {
-      "slug": "promisekr",
-      "loungeId": "promisekr",
-      "titleKo": "궁과 약속",
-      "titleEn": "Promisekr"
-    },
-    {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
     },
     {
       "slug": "redmythnezha",
@@ -183,27 +141,9 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -227,25 +167,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "탕탕특공대",
+      "titleKo": "Survivorio",
       "titleEn": "Survivorio"
-    },
-    {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
-    },
-    {
-      "slug": "the-war-of-light-and-darkness",
-      "loungeId": "The_War_of_Light_and_Darkness",
-      "titleKo": "빛과 어둠의 전쟁",
-      "titleEn": "The War Of Light And Darkness"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "토이 신선",
+      "titleKo": "Toy_Immortals",
       "titleEn": "Toy Immortals"
     }
   ]

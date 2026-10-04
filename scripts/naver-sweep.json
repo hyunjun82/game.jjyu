@@ -6216,7 +6216,7 @@
    "error": "코드 없음"
   },
   "onitk": {
-   "at": "2026-10-03",
+   "at": "2026-10-05",
    "live": 0,
    "total": 19
   },
@@ -7330,7 +7330,7 @@
    "error": "코드 없음"
   },
   "SanHaeKyeong_Sinsu_ui_Jeonseol": {
-   "at": "2026-10-03",
+   "at": "2026-10-05",
    "error": "보드 잠김(가입 필요)"
   },
   "Sapphire_Spear": {
@@ -8805,7 +8805,7 @@
    "error": "코드 없음"
   },
   "Uglyhood_Puzzle_Defense": {
-   "at": "2026-10-02",
+   "at": "2026-10-05",
    "error": "코드 없음"
   },
   "Ulala_Heroes": {
@@ -9995,8 +9995,8 @@
    "error": "쿠폰 보드 없음"
   },
   "Carry_The_Glass": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-10-05",
+   "error": "코드 없음"
   },
   "Endless_Arena": {
    "at": "2026-09-19",
@@ -10448,7 +10448,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Legend_Of_Darkness": {
-   "at": "2026-09-30",
+   "at": "2026-10-05",
    "error": "코드 없음"
   },
   "Puppergeist": {
@@ -14228,7 +14228,7 @@
    "error": "코드 없음"
   },
   "Earth_Atlantis_Abyss": {
-   "at": "2026-10-01",
+   "at": "2026-10-05",
    "error": "코드 없음"
   },
   "Chronicle_of_the_Great_Voyages": {
@@ -15129,7 +15129,7 @@
    "error": "코드 없음"
   },
   "Luigis_Mansion3": {
-   "at": "2026-10-03",
+   "at": "2026-10-05",
    "error": "코드 없음"
   },
   "Yojikyung": {
@@ -15535,6 +15535,54 @@
    "error": "코드 없음"
   },
   "Portal": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "NOXON": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "ModooMarble_for_kakao": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Kirbys_Dream_Buffet": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Girls_Frontline": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Luckyloop": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Supermarket_Simulator": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Dream_Channel_Zero": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "SonOgong_Defense": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Terrafactor": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Battle_of_Hei_Ankyo": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Synthwave_Tunnel": {
+   "at": "2026-10-05",
+   "error": "코드 없음"
+  },
+  "Tokyo_Xanadu_eX": {
    "at": "2026-10-05",
    "error": "코드 없음"
   }
