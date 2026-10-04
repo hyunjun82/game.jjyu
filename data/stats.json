@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T03:04:08.032Z",
+  "generatedAt": "2026-10-04T05:57:56.640Z",
   "today": "2026-10-04",
-  "todayNew": 12,
+  "todayNew": 15,
   "totals": {
     "games": 288,
-    "codes": 3952,
-    "active": 671,
+    "codes": 3955,
+    "active": 674,
     "expired": 3281,
-    "withExpiry": 2301
+    "withExpiry": 2303
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-04",
-      "count": 12
+      "count": 15
     }
   ],
   "expiringSoon": [
@@ -107,6 +107,12 @@
     {
       "slug": "kurobas-sr",
       "code": "0928AOWNZNVHS",
+      "expiry": "2026-10-04",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "K7X5RM",
       "expiry": "2026-10-04",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "101ENVOY",
       "expiry": "2026-10-07",
       "days": 3
-    },
-    {
-      "slug": "ete-chronicle",
-      "code": "ETEQZJ2026",
-      "expiry": "2026-10-07",
-      "days": 3
     }
   ],
   "topGames": [
@@ -391,14 +391,14 @@
       "total": 47
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 32
+    },
+    {
       "slug": "honkai-star-rail",
       "active": 15,
       "total": 27
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 31
     },
     {
       "slug": "rogw-remains-of-gods",
@@ -407,8 +407,8 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 61
+      "active": 14,
+      "total": 62
     },
     {
       "slug": "along-with-the-ghost",
