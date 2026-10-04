@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-04T09:04:49.886Z",
+  "updatedAt": "2026-10-04T14:43:35.412Z",
   "codes": [
     {
       "code": "HSRGIFT",
@@ -54,7 +54,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
       "status": "active"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
       "status": "active"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
       "status": "active"
     },
     {
@@ -104,7 +104,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
       "status": "active"
     },
     {
@@ -115,6 +115,26 @@
       "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419441221",
       "firstSeen": "2026-09-20",
       "lastSeen": "2026-10-02",
+      "status": "active"
+    },
+    {
+      "code": "IFYOUAREREADINGTHIS",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-04",
+      "status": "active"
+    },
+    {
+      "code": "FAREWELL",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-04",
       "status": "active"
     },
     {
@@ -129,26 +149,6 @@
     },
     {
       "code": "CREATIONNYMPH",
-      "reward": "",
-      "expiry": "2026-10-19",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419441221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
-      "status": "active"
-    },
-    {
-      "code": "FAREWELL",
-      "reward": "",
-      "expiry": "2026-10-19",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/puewjchbbmjiwq/224419441221",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-02",
-      "status": "active"
-    },
-    {
-      "code": "IFYOUAREREADINGTHIS",
       "reward": "",
       "expiry": "2026-10-19",
       "postedAt": "2026-09-22",

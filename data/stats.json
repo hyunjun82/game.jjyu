@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T12:18:21.844Z",
+  "generatedAt": "2026-10-04T14:50:37.024Z",
   "today": "2026-10-04",
-  "todayNew": 15,
+  "todayNew": 33,
   "totals": {
     "games": 288,
-    "codes": 3955,
-    "active": 676,
+    "codes": 3973,
+    "active": 694,
     "expired": 3279,
     "withExpiry": 2303
   },
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-04",
-      "count": 15
+      "count": 33
     }
   ],
   "expiringSoon": [
@@ -381,6 +381,11 @@
       "total": 56
     },
     {
+      "slug": "cookie-run-kingdom",
+      "active": 19,
+      "total": 19
+    },
+    {
       "slug": "dragon-traveler",
       "active": 19,
       "total": 67
@@ -456,19 +461,14 @@
       "total": 34
     },
     {
+      "slug": "toy-immortals",
+      "active": 8,
+      "total": 8
+    },
+    {
       "slug": "afk-journey",
       "active": 7,
       "total": 7
-    },
-    {
-      "slug": "heartopia",
-      "active": 7,
-      "total": 7
-    },
-    {
-      "slug": "horizon-walker",
-      "active": 7,
-      "total": 9
     }
   ],
   "noImage": 41

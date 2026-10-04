@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-04T08:59:04.544Z",
+  "generatedAt": "2026-10-04T14:37:29.268Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -87,162 +87,6 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "anotherthreekingdoms",
-      "loungeId": "anotherthreekingdoms",
-      "titleKo": "이세계 삼국지",
-      "titleEn": "Anotherthreekingdoms"
-    },
-    {
-      "slug": "aof",
-      "loungeId": "aof",
-      "titleKo": "에테르 오브 판타지",
-      "titleEn": "Aof"
-    },
-    {
-      "slug": "archercat2",
-      "loungeId": "archercat2",
-      "titleKo": "아처캣2",
-      "titleEn": "Archercat2"
-    },
-    {
-      "slug": "arisen-ants",
-      "loungeId": "Arisen_Ants",
-      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
-      "titleEn": "Arisen Ants"
-    },
-    {
-      "slug": "armored-girls",
-      "loungeId": "Armored_Girls",
-      "titleKo": "삼국무장소녀",
-      "titleEn": "Armored Girls"
-    },
-    {
-      "slug": "asap-arena",
-      "loungeId": "ASAP_ARENA",
-      "titleKo": "ASAP 아레나",
-      "titleEn": "Asap Arena"
-    },
-    {
-      "slug": "ash-n-veil",
-      "loungeId": "AshNVeil",
-      "titleKo": "애쉬앤베일",
-      "titleEn": "Ash N Veil"
-    },
-    {
-      "slug": "assetonline",
-      "loungeId": "assetonline",
-      "titleKo": "에셋온라인",
-      "titleEn": "Assetonline"
-    },
-    {
-      "slug": "avatar-hero-battle",
-      "loungeId": "Avatar_Hero_Battle",
-      "titleKo": "아바타 영웅 대전",
-      "titleEn": "Avatar Hero Battle"
-    },
-    {
-      "slug": "awesome-devil",
-      "loungeId": "Awesome_Devil",
-      "titleKo": "어쩌다 멋진 마왕",
-      "titleEn": "Awesome Devil"
-    },
-    {
-      "slug": "badminton-blitz",
-      "loungeId": "Badminton_Blitz",
-      "titleKo": "배드민턴 달인",
-      "titleEn": "Badminton Blitz"
-    },
-    {
-      "slug": "bang-bang",
-      "loungeId": "BangBang",
-      "titleKo": "빵야빵야",
-      "titleEn": "Bang Bang"
-    },
-    {
-      "slug": "battlemage-idle-pixel-adventure",
-      "loungeId": "Battlemage_Idle_Pixel_Adventure",
-      "titleKo": "배틀메이지 키우기",
-      "titleEn": "Battlemage Idle Pixel Adventure"
-    },
-    {
-      "slug": "become-a-lord",
-      "loungeId": "Become_a_lord",
-      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
-      "titleEn": "Become A Lord"
-    },
-    {
-      "slug": "billionaire",
-      "loungeId": "Billionaire",
-      "titleKo": "억만장자",
-      "titleEn": "Billionaire"
-    },
-    {
-      "slug": "black-shadow-idle-rpg",
-      "loungeId": "Black_Shadow_Idle_RPG",
-      "titleKo": "블랙 쉐도우 키우기",
-      "titleEn": "Black Shadow Idle Rpg"
-    },
-    {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
-    },
-    {
-      "slug": "blood-soul",
-      "loungeId": "BloodSoul",
-      "titleKo": "ASURA: 블러드 앤 소울",
-      "titleEn": "Blood Soul"
-    },
-    {
-      "slug": "blood-witch",
-      "loungeId": "Blood_Witch",
-      "titleKo": "블러드 위치",
-      "titleEn": "Blood Witch"
-    },
-    {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
-    },
-    {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "capybara-go",
-      "loungeId": "Capybara_Go",
-      "titleKo": "카피바라 Go!",
-      "titleEn": "Capybara Go"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
@@ -273,6 +117,18 @@
       "titleEn": "Eternal Chronicle"
     },
     {
+      "slug": "fantasysamgook",
+      "loungeId": "fantasysamgook",
+      "titleKo": "판타지 삼국",
+      "titleEn": "Fantasysamgook"
+    },
+    {
+      "slug": "finalhunter",
+      "loungeId": "finalhunter",
+      "titleKo": "파이널 헌터",
+      "titleEn": "Finalhunter"
+    },
+    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -285,10 +141,130 @@
       "titleEn": "Kungfuchaos"
     },
     {
+      "slug": "monster-never-cry",
+      "loungeId": "Monster_Never_Cry",
+      "titleKo": "마왕만만세",
+      "titleEn": "Monster Never Cry"
+    },
+    {
+      "slug": "monsterhunteroutlanders",
+      "loungeId": "monsterhunteroutlanders",
+      "titleKo": "몬스터헌터 아웃랜더스",
+      "titleEn": "Monsterhunteroutlanders"
+    },
+    {
+      "slug": "fellow-moon",
+      "loungeId": "FellowMoon",
+      "titleKo": "신월동행",
+      "titleEn": "Fellow Moon"
+    },
+    {
+      "slug": "moris-nightmare-hide-and-seek-multi",
+      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
+      "titleKo": "공포의 술래잡기",
+      "titleEn": "Moris Nightmare Hide And Seek Multi"
+    },
+    {
+      "slug": "mushroom-hero",
+      "loungeId": "mushroom_hero",
+      "titleKo": "버섯 키우기: 머쉬룸 히어로",
+      "titleEn": "Mushroom Hero"
+    },
+    {
+      "slug": "my-little-paradise",
+      "loungeId": "MY_LITTLE_PARADISE",
+      "titleKo": "마이 리틀 파라다이스",
+      "titleEn": "My Little Paradise"
+    },
+    {
+      "slug": "mzsamguk",
+      "loungeId": "MZSAMGUK",
+      "titleKo": "MZ삼국지",
+      "titleEn": "Mzsamguk"
+    },
+    {
+      "slug": "nam-tat-defense",
+      "loungeId": "nam_tat_defense",
+      "titleKo": "남탓 디펜스",
+      "titleEn": "Nam Tat Defense"
+    },
+    {
+      "slug": "neural-cloud",
+      "loungeId": "Neural_Cloud",
+      "titleKo": "뉴럴 클라우드",
+      "titleEn": "Neural Cloud"
+    },
+    {
+      "slug": "the-tale-of-five-kingdoms2",
+      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
+      "titleKo": "다섯 왕국 이야기2",
+      "titleEn": "The Tale Of Five Kingdoms2"
+    },
+    {
+      "slug": "ninety-thousand-acres",
+      "loungeId": "NINETY_THOUSAND_ACRES",
+      "titleKo": "9만 에이커",
+      "titleEn": "Ninety Thousand Acres"
+    },
+    {
+      "slug": "opmkr",
+      "loungeId": "opmkr",
+      "titleKo": "원펀맨:영웅의 길",
+      "titleEn": "Opmkr"
+    },
+    {
+      "slug": "ordinaryday",
+      "loungeId": "ordinaryday",
+      "titleKo": "평범한날 : 청하구 편",
+      "titleEn": "Ordinaryday"
+    },
+    {
+      "slug": "immortal-soul",
+      "loungeId": "Immortal_Soul",
+      "titleKo": "이모탈 소울",
+      "titleEn": "Immortal Soul"
+    },
+    {
+      "slug": "passion-rpg",
+      "loungeId": "PassionRPG",
+      "titleKo": "열정RPG",
+      "titleEn": "Passion Rpg"
+    },
+    {
+      "slug": "path-of-rising",
+      "loungeId": "Path_Of_Rising",
+      "titleKo": "패스 오브 라이징",
+      "titleEn": "Path Of Rising"
+    },
+    {
+      "slug": "pirate",
+      "loungeId": "pirate",
+      "titleKo": "우당탕탕 해적단",
+      "titleEn": "Pirate"
+    },
+    {
+      "slug": "pixel-heroic-legend",
+      "loungeId": "Pixel_Heroic_Legend",
+      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
+      "titleEn": "Pixel Heroic Legend"
+    },
+    {
+      "slug": "pk-world",
+      "loungeId": "PkWorld",
+      "titleKo": "PK월드",
+      "titleEn": "Pk World"
+    },
+    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "pocket-knight",
+      "loungeId": "Pocket_Knight",
+      "titleKo": "로얄 나이트 키우기",
+      "titleEn": "Pocket Knight"
     },
     {
       "slug": "redmythnezha",
