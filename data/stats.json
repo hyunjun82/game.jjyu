@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-04T14:50:37.024Z",
-  "today": "2026-10-04",
-  "todayNew": 33,
+  "generatedAt": "2026-10-04T18:46:18.162Z",
+  "today": "2026-10-05",
+  "todayNew": 0,
   "totals": {
     "games": 288,
     "codes": 3973,
-    "active": 694,
-    "expired": 3279,
+    "active": 674,
+    "expired": 3299,
     "withExpiry": 2303
   },
   "newByDate": [
@@ -69,315 +69,315 @@
   ],
   "expiringSoon": [
     {
-      "slug": "beast-lord-the-new-land",
-      "code": "BLXDJKY5Y",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "daksa-rpg",
-      "code": "HappyDaksa62",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "fortress-saga",
-      "code": "SEPTGIFTFS26",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "ghostvengers",
-      "code": "9KHV5WLT",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "horde-war-avengers-summon",
-      "code": "aedfcvgv",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "RUNE619",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "kurobas-sr",
-      "code": "0928AOWNZNVHS",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "max-level-idle",
-      "code": "K7X5RM",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "merge-seasons",
-      "code": "byeseptember",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "peachland",
-      "code": "MOONGIFT",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "raising-souls",
-      "code": "YOUNG-WAVE",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "soul-strike",
-      "code": "SS09RL4X",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "tacticsbaseball",
-      "code": "HANGAWI26",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "tacticsbaseball",
-      "code": "CHUSEOK26",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
-      "slug": "vardian",
-      "code": "UP928",
-      "expiry": "2026-10-04",
-      "days": 0
-    },
-    {
       "slug": "devil-2m",
       "code": "devvc0928",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragon-n-tiger",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragonblade-grow",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragonnest-world",
       "code": "HAPPYWEEKLY1026",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "f-class-hero",
       "code": "9FallBrisk",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghost-hunter",
       "code": "1003jgt",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghost-hunter",
       "code": "1004ftr",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "god-kkaebi",
       "code": "br8fgf97",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "BOOK752",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-king",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "martial-arts",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "potatozombie",
       "code": "7NFYNPBCZL7FCR",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "redmythnezha",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "star-of-the-overlord",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "stone-three-kingdoms",
       "code": "GAECHUN103",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "the-grand-mafia",
       "code": "dN43jekj",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "toysamguk",
       "code": "Gt3e9R",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "toysamguk",
       "code": "KOR815",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "toysamguk",
       "code": "toy39",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "toysamguk",
       "code": "toy777",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "toysamguk",
       "code": "toy2026",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "toysamguk",
       "code": "Toy1M",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "vardian",
       "code": "EVENT1003",
       "expiry": "2026-10-05",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "boneagain",
       "code": "OUHNES",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "GXGGlsmwlbm",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "RinLBM",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "Prometheus",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "RinPFSX",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "DHZSPLMXS",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "BUFFetBZ88",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "HERO921",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "the-ragnarok",
       "code": "1003SKYOPEN",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "what-the-bug",
       "code": "GCHN03",
       "expiry": "2026-10-06",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "arknights-endfield",
       "code": "AKENDFIELDSUB",
       "expiry": "2026-10-07",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "ehrpis",
       "code": "101ENVOY",
       "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "ete-chronicle",
+      "code": "ETEQZJ2026",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "fortess-samguk-defense",
+      "code": "One1FsD1",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "fortess-samguk-defense",
+      "code": "pLayFsd1",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "SUMM527",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "into-the-dungeon-reborn",
+      "code": "3CYJ7KE7PPU",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "maple-idle",
+      "code": "50CUBECOUPON",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "mush-warrior",
+      "code": "MoonGift",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "samgukji-origin2",
+      "code": "7006-c55de1dd3-1",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "tales-of-angels",
+      "code": "H7Q3VM",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "the-warrior-returns-afk",
+      "code": "WR108UPDATE",
+      "expiry": "2026-10-07",
+      "days": 2
+    },
+    {
+      "slug": "dicerco",
+      "code": "hioctober26",
+      "expiry": "2026-10-08",
+      "days": 3
+    },
+    {
+      "slug": "idle-berserker",
+      "code": "UPDATE261001",
+      "expiry": "2026-10-08",
+      "days": 3
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "GOLD923",
+      "expiry": "2026-10-08",
+      "days": 3
+    },
+    {
+      "slug": "nostalgic-corner-store",
+      "code": "1HappyANNIV",
+      "expiry": "2026-10-08",
+      "days": 3
+    },
+    {
+      "slug": "samguk-origin",
+      "code": "1621-c2444e6e6-1",
+      "expiry": "2026-10-08",
       "days": 3
     }
   ],
   "topGames": [
     {
       "slug": "daksa-rpg",
-      "active": 22,
+      "active": 21,
       "total": 65
     },
     {
       "slug": "apex-girls",
-      "active": 21,
+      "active": 20,
       "total": 56
     },
     {
@@ -396,14 +396,14 @@
       "total": 47
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 16,
-      "total": 32
-    },
-    {
       "slug": "honkai-star-rail",
       "active": 15,
       "total": 27
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 15,
+      "total": 32
     },
     {
       "slug": "rogw-remains-of-gods",
@@ -412,7 +412,7 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 14,
+      "active": 13,
       "total": 62
     },
     {

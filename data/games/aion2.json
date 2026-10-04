@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-04T14:45:34.854Z",
+  "updatedAt": "2026-10-04T18:42:38.999Z",
   "codes": [
     {
       "code": "TAKEFLIGHTAION2",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-04",
+      "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/game_gallery/224430798014",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/bebe_rabit/224420280353",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-09-05",
       "sourceUrl": "https://blog.naver.com/hyjueng/224402049475",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "status": "expired"
     }
   ]

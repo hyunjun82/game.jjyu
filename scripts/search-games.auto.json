@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-04T14:37:29.268Z",
+  "generatedAt": "2026-10-04T18:35:30.671Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -15,16 +15,16 @@
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "romantic-gangho",
-      "loungeId": "RomanticGangho",
-      "titleKo": "낭만강호",
-      "titleEn": "Romantic Gangho"
-    },
-    {
       "slug": "watcher-of-realms",
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
       "titleEn": "Watcher Of Realms"
+    },
+    {
+      "slug": "romantic-gangho",
+      "loungeId": "RomanticGangho",
+      "titleKo": "낭만강호",
+      "titleEn": "Romantic Gangho"
     },
     {
       "slug": "heartopia",
@@ -45,12 +45,6 @@
       "titleEn": "Torchlight Infinite"
     },
     {
-      "slug": "heroes-tales2",
-      "loungeId": "Heroes_tales2",
-      "titleKo": "히어로즈 테일즈2",
-      "titleEn": "Heroes Tales2"
-    },
-    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
@@ -67,6 +61,12 @@
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
+    },
+    {
+      "slug": "seollaesamguk",
+      "loungeId": "seollaesamguk",
+      "titleKo": "설레 삼국:미인계",
+      "titleEn": "Seollaesamguk"
     },
     {
       "slug": "pokemon-go",
@@ -117,18 +117,6 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -141,136 +129,76 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "monster-never-cry",
-      "loungeId": "Monster_Never_Cry",
-      "titleKo": "마왕만만세",
-      "titleEn": "Monster Never Cry"
-    },
-    {
-      "slug": "monsterhunteroutlanders",
-      "loungeId": "monsterhunteroutlanders",
-      "titleKo": "몬스터헌터 아웃랜더스",
-      "titleEn": "Monsterhunteroutlanders"
-    },
-    {
-      "slug": "fellow-moon",
-      "loungeId": "FellowMoon",
-      "titleKo": "신월동행",
-      "titleEn": "Fellow Moon"
-    },
-    {
-      "slug": "moris-nightmare-hide-and-seek-multi",
-      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
-      "titleKo": "공포의 술래잡기",
-      "titleEn": "Moris Nightmare Hide And Seek Multi"
-    },
-    {
-      "slug": "mushroom-hero",
-      "loungeId": "mushroom_hero",
-      "titleKo": "버섯 키우기: 머쉬룸 히어로",
-      "titleEn": "Mushroom Hero"
-    },
-    {
-      "slug": "my-little-paradise",
-      "loungeId": "MY_LITTLE_PARADISE",
-      "titleKo": "마이 리틀 파라다이스",
-      "titleEn": "My Little Paradise"
-    },
-    {
-      "slug": "mzsamguk",
-      "loungeId": "MZSAMGUK",
-      "titleKo": "MZ삼국지",
-      "titleEn": "Mzsamguk"
-    },
-    {
-      "slug": "nam-tat-defense",
-      "loungeId": "nam_tat_defense",
-      "titleKo": "남탓 디펜스",
-      "titleEn": "Nam Tat Defense"
-    },
-    {
-      "slug": "neural-cloud",
-      "loungeId": "Neural_Cloud",
-      "titleKo": "뉴럴 클라우드",
-      "titleEn": "Neural Cloud"
-    },
-    {
-      "slug": "the-tale-of-five-kingdoms2",
-      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
-      "titleKo": "다섯 왕국 이야기2",
-      "titleEn": "The Tale Of Five Kingdoms2"
-    },
-    {
-      "slug": "ninety-thousand-acres",
-      "loungeId": "NINETY_THOUSAND_ACRES",
-      "titleKo": "9만 에이커",
-      "titleEn": "Ninety Thousand Acres"
-    },
-    {
-      "slug": "opmkr",
-      "loungeId": "opmkr",
-      "titleKo": "원펀맨:영웅의 길",
-      "titleEn": "Opmkr"
-    },
-    {
-      "slug": "ordinaryday",
-      "loungeId": "ordinaryday",
-      "titleKo": "평범한날 : 청하구 편",
-      "titleEn": "Ordinaryday"
-    },
-    {
-      "slug": "immortal-soul",
-      "loungeId": "Immortal_Soul",
-      "titleKo": "이모탈 소울",
-      "titleEn": "Immortal Soul"
-    },
-    {
-      "slug": "passion-rpg",
-      "loungeId": "PassionRPG",
-      "titleKo": "열정RPG",
-      "titleEn": "Passion Rpg"
-    },
-    {
-      "slug": "path-of-rising",
-      "loungeId": "Path_Of_Rising",
-      "titleKo": "패스 오브 라이징",
-      "titleEn": "Path Of Rising"
-    },
-    {
-      "slug": "pirate",
-      "loungeId": "pirate",
-      "titleKo": "우당탕탕 해적단",
-      "titleEn": "Pirate"
-    },
-    {
-      "slug": "pixel-heroic-legend",
-      "loungeId": "Pixel_Heroic_Legend",
-      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
-      "titleEn": "Pixel Heroic Legend"
-    },
-    {
-      "slug": "pk-world",
-      "loungeId": "PkWorld",
-      "titleKo": "PK월드",
-      "titleEn": "Pk World"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "pocket-knight",
-      "loungeId": "Pocket_Knight",
-      "titleKo": "로얄 나이트 키우기",
-      "titleEn": "Pocket Knight"
+      "slug": "popucom",
+      "loungeId": "POPUCOM",
+      "titleKo": "팝유컴",
+      "titleEn": "Popucom"
+    },
+    {
+      "slug": "primal-conquest-dino-era",
+      "loungeId": "Primal_Conquest_Dino_Era",
+      "titleKo": "쥬라기 대륙: 디노시아",
+      "titleEn": "Primal Conquest Dino Era"
+    },
+    {
+      "slug": "prime-football-manager",
+      "loungeId": "Prime_Football_Manager",
+      "titleKo": "프라임 풋볼 매니저",
+      "titleEn": "Prime Football Manager"
+    },
+    {
+      "slug": "pro-soccer-legend-eleven",
+      "loungeId": "Pro_Soccer_Legend_Eleven",
+      "titleKo": "프로사커: 레전드 일레븐",
+      "titleEn": "Pro Soccer Legend Eleven"
+    },
+    {
+      "slug": "promise-of-lingyun",
+      "loungeId": "Promise_of_Lingyun",
+      "titleKo": "능운낙",
+      "titleEn": "Promise Of Lingyun"
+    },
+    {
+      "slug": "promisekr",
+      "loungeId": "promisekr",
+      "titleKo": "궁과 약속",
+      "titleEn": "Promisekr"
+    },
+    {
+      "slug": "red-city",
+      "loungeId": "red_city",
+      "titleKo": "붉은 도시",
+      "titleEn": "Red City"
     },
     {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "res",
+      "loungeId": "RES",
+      "titleKo": "레조넌스",
+      "titleEn": "Res"
+    },
+    {
+      "slug": "rin-m",
+      "loungeId": "RinM",
+      "titleKo": "린M:잊혀진 유산",
+      "titleEn": "Rin M"
+    },
+    {
+      "slug": "rise-god-idle",
+      "loungeId": "Rise_God_Idle",
+      "titleKo": "라이즈 신 키우기",
+      "titleEn": "Rise God Idle"
     },
     {
       "slug": "rush-three-kingdom",
@@ -301,6 +229,18 @@
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
+    },
+    {
+      "slug": "sweethome",
+      "loungeId": "sweethome",
+      "titleKo": "스위트홈 : 욕망의 파편",
+      "titleEn": "Sweethome"
+    },
+    {
+      "slug": "the-war-of-light-and-darkness",
+      "loungeId": "The_War_of_Light_and_Darkness",
+      "titleKo": "빛과 어둠의 전쟁",
+      "titleEn": "The War Of Light And Darkness"
     },
     {
       "slug": "toy-immortals",

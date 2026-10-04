@@ -5,26 +5,26 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-04T14:45:49.106Z",
+  "updatedAt": "2026-10-04T18:42:51.955Z",
   "codes": [
     {
       "code": "COOKIERUNCRUMBLE1ST",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-04",
+      "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431090188",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "status": "active"
     },
     {
       "code": "COOKIERUNCRUMBLENO1",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-04",
+      "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431090188",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "status": "active"
     }
   ]
