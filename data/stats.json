@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-03T23:30:54.005Z",
+  "generatedAt": "2026-10-04T03:04:08.032Z",
   "today": "2026-10-04",
-  "todayNew": 9,
+  "todayNew": 12,
   "totals": {
     "games": 288,
-    "codes": 3949,
-    "active": 668,
+    "codes": 3952,
+    "active": 671,
     "expired": 3281,
-    "withExpiry": 2300
+    "withExpiry": 2301
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-04",
-      "count": 9
+      "count": 12
     }
   ],
   "expiringSoon": [
@@ -446,6 +446,11 @@
       "total": 9
     },
     {
+      "slug": "busy-savior",
+      "active": 8,
+      "total": 30
+    },
+    {
       "slug": "dungeon-hunter6-awakening",
       "active": 8,
       "total": 34
@@ -454,11 +459,6 @@
       "slug": "afk-journey",
       "active": 7,
       "total": 7
-    },
-    {
-      "slug": "busy-savior",
-      "active": 7,
-      "total": 29
     },
     {
       "slug": "heartopia",

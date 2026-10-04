@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-03T23:18:37.922Z",
+  "generatedAt": "2026-10-04T02:52:13.151Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -69,6 +69,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "tukiers-god-tier-life-idle-tycoon",
+      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
+      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
+      "titleEn": "Tukiers God Tier Life Idle Tycoon"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -81,10 +87,106 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
+      "slug": "32-heroes",
+      "loungeId": "32Heroes",
+      "titleKo": "32용사 키우기",
+      "titleEn": "32 Heroes"
+    },
+    {
+      "slug": "33-rd",
+      "loungeId": "33RD",
+      "titleKo": "33RD : 랜덤 디펜스",
+      "titleEn": "33 Rd"
+    },
+    {
+      "slug": "7tharcher",
+      "loungeId": "7tharcher",
+      "titleKo": "7번째 신의 궁수 키우기",
+      "titleEn": "7tharcher"
+    },
+    {
+      "slug": "abyss-infinite-realm",
+      "loungeId": "Abyss_Infinite_Realm",
+      "titleKo": "어비스: 무한계",
+      "titleEn": "Abyss Infinite Realm"
+    },
+    {
+      "slug": "abyssdestiny",
+      "loungeId": "abyssdestiny",
+      "titleKo": "어비스: 데스티니",
+      "titleEn": "Abyssdestiny"
+    },
+    {
+      "slug": "acadia-m",
+      "loungeId": "AcadiaM",
+      "titleKo": "아카디아M",
+      "titleEn": "Acadia M"
+    },
+    {
+      "slug": "acecraft",
+      "loungeId": "ACECRAFT",
+      "titleKo": "ACECRAFT",
+      "titleEn": "Acecraft"
+    },
+    {
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
+    },
+    {
+      "slug": "afk-mercenary",
+      "loungeId": "AFK_Mercenary",
+      "titleKo": "우리 단장 뭐함?!",
+      "titleEn": "Afk Mercenary"
+    },
+    {
+      "slug": "akir-call-of-aesir",
+      "loungeId": "AKIR_CALL_OF_AESIR",
+      "titleKo": "아키르: 콜 오브 에시르",
+      "titleEn": "Akir Call Of Aesir"
+    },
+    {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "alterego",
+      "loungeId": "Alterego",
+      "titleKo": "분신 캐 키우기",
+      "titleEn": "Alterego"
+    },
+    {
+      "slug": "loadto-ninza",
+      "loungeId": "loadtoNINZA",
+      "titleKo": "로드 투 닌자-K닌자의 귀환",
+      "titleEn": "Loadto Ninza"
+    },
+    {
+      "slug": "amber-guard",
+      "loungeId": "AmberGuard",
+      "titleKo": "앰버가드",
+      "titleEn": "Amber Guard"
+    },
+    {
+      "slug": "ananta",
+      "loungeId": "Ananta",
+      "titleKo": "무한대 아난타",
+      "titleEn": "Ananta"
+    },
+    {
+      "slug": "angel-knights",
+      "loungeId": "Angel_Knights",
+      "titleKo": "엔젤나이츠",
+      "titleEn": "Angel Knights"
+    },
+    {
+      "slug": "animal-quest",
+      "loungeId": "Animal_Quest",
+      "titleKo": "애니멀 퀘스트",
+      "titleEn": "Animal Quest"
     },
     {
       "slug": "dokkaebi-girl",
@@ -123,76 +225,64 @@
       "titleEn": "Idle King"
     },
     {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
-    },
-    {
-      "slug": "kingdom-rise-of-zombies",
-      "loungeId": "KINGDOM_RISE_OF_ZOMBIES",
-      "titleKo": "조선 이변",
-      "titleEn": "Kingdom Rise Of Zombies"
-    },
-    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "lapis-mobile",
-      "loungeId": "LAPIS_MOBILE",
-      "titleKo": "라피스 키우기",
-      "titleEn": "Lapis Mobile"
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
     },
     {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
+      "slug": "meow-kingdom",
+      "loungeId": "meow_kingdom",
+      "titleKo": "냥킹덤",
+      "titleEn": "Meow Kingdom"
     },
     {
-      "slug": "legendof-yeomra",
-      "loungeId": "LegendofYeomra",
-      "titleKo": "염라대왕 키우기",
-      "titleEn": "Legendof Yeomra"
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
     },
     {
-      "slug": "legends-reborn",
-      "loungeId": "Legends_Reborn",
-      "titleKo": "Legends Reborn: 마지막 전투",
-      "titleEn": "Legends Reborn"
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
     },
     {
-      "slug": "leubens-adventure",
-      "loungeId": "Leubens_Adventure",
-      "titleKo": "루벤의 대모험",
-      "titleEn": "Leubens Adventure"
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
     },
     {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
     },
     {
-      "slug": "magical-ink",
-      "loungeId": "Magical_Ink",
-      "titleKo": "마법의 잉크",
-      "titleEn": "Magical Ink"
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
     },
     {
-      "slug": "marine-squad",
-      "loungeId": "MarineSquad",
-      "titleKo": "마린 키우기 : 방치형 RPG",
-      "titleEn": "Marine Squad"
+      "slug": "monstage",
+      "loungeId": "Monstage",
+      "titleKo": "몬스테이지",
+      "titleEn": "Monstage"
     },
     {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
+      "slug": "play-together",
+      "loungeId": "Play_Together",
+      "titleKo": "플레이투게더",
+      "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
