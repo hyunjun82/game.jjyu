@@ -5,28 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-05T07:29:42.838Z",
+  "updatedAt": "2026-10-05T16:27:46.425Z",
   "codes": [
-    {
-      "code": "DISCORD50K",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/liilllilililiii/224431359719",
-      "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-05",
-      "status": "active"
-    },
-    {
-      "code": "FACEBOOK100K",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/liilllilililiii/224431359719",
-      "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-05",
-      "status": "active"
-    },
     {
       "code": "TS777",
       "reward": "",
@@ -34,7 +14,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224426569482",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "status": "active"
     },
     {
@@ -44,7 +24,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224426569482",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "status": "active"
     },
     {
@@ -54,8 +34,28 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224426569482",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "status": "active"
+    },
+    {
+      "code": "DISCORD50K",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/liilllilililiii/224431359719",
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-10-05",
+      "status": "expired"
+    },
+    {
+      "code": "FACEBOOK100K",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/liilllilililiii/224431359719",
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-10-05",
+      "status": "expired"
     }
   ]
 }

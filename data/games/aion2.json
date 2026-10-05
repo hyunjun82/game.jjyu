@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-05T07:29:11.898Z",
+  "updatedAt": "2026-10-05T16:27:14.060Z",
   "codes": [
     {
       "code": "TAKEFLIGHTAION2",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/game_gallery/224430798014",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "status": "active"
     },
     {
@@ -24,17 +24,17 @@
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/bebe_rabit/224420280353",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "status": "active"
     },
     {
       "code": "AION2CHAPTERONE",
       "reward": "",
       "expiry": "2026-09-30",
-      "postedAt": "2026-09-05",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224402049475",
+      "postedAt": "2026-09-16",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224414040908",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "status": "expired"
     }
   ]

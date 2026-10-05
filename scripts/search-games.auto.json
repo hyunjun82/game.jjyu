@@ -1,24 +1,12 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-05T07:21:20.848Z",
+  "generatedAt": "2026-10-05T16:19:00.062Z",
   "games": [
     {
       "slug": "kaind-idle",
       "loungeId": "Kaind_idle",
       "titleKo": "원정대 키우기",
       "titleEn": "Kaind Idle"
-    },
-    {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
-    },
-    {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
     },
     {
       "slug": "romantic-gangho",
@@ -33,22 +21,34 @@
       "titleEn": "Heartopia"
     },
     {
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
+    },
+    {
       "slug": "solo-exorcist",
       "loungeId": "solo_exorcist",
       "titleKo": "나만 SSS급 퇴마사",
       "titleEn": "Solo Exorcist"
     },
     {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
-    },
-    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights Endfield"
+    },
+    {
+      "slug": "torchlight-infinite",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "toysamguk",
@@ -63,16 +63,10 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
-    },
-    {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
+      "slug": "overlord-the-lord-of-nazarick",
+      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
+      "titleKo": "오버로드: 나자릭의 왕",
+      "titleEn": "Overlord The Lord Of Nazarick"
     },
     {
       "slug": "pokemon-go",
@@ -93,94 +87,46 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "cheon-sam-mu",
-      "loungeId": "CheonSamMu",
-      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
-      "titleEn": "Cheon Sam Mu"
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
     },
     {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
     },
     {
-      "slug": "come-on-alien",
-      "loungeId": "Come_on_Alien",
-      "titleKo": "덤벼라 외계인!",
-      "titleEn": "Come On Alien"
-    },
-    {
-      "slug": "crystal-of-atlan",
-      "loungeId": "Crystal_of_Atlan",
-      "titleKo": "CoA: 아틀란의 크리스탈",
-      "titleEn": "Crystal Of Atlan"
-    },
-    {
-      "slug": "darkanddarkermobile",
-      "loungeId": "darkanddarkermobile",
-      "titleKo": "어비스 오브 던전",
-      "titleEn": "Darkanddarkermobile"
-    },
-    {
-      "slug": "dark-clan",
-      "loungeId": "Dark_Clan",
-      "titleKo": "다크 클랜 : 수집 방치형 RPG",
-      "titleEn": "Dark Clan"
-    },
-    {
-      "slug": "dark-slayer-sd",
-      "loungeId": "Dark_Slayer_SD",
-      "titleKo": "다크슬레이어2",
-      "titleEn": "Dark Slayer Sd"
-    },
-    {
-      "slug": "dark-three-kingdoms",
-      "loungeId": "DARK_THREE_KINGDOMS",
-      "titleKo": "다크삼국",
-      "titleEn": "Dark Three Kingdoms"
-    },
-    {
-      "slug": "darkeden-r",
-      "loungeId": "DARKEDEN_R",
-      "titleKo": "다크에덴R",
-      "titleEn": "Darkeden R"
-    },
-    {
-      "slug": "dark-hero-kiugi",
-      "loungeId": "DarkHeroKiugi",
-      "titleKo": "다크 히어로 키우기",
-      "titleEn": "Dark Hero Kiugi"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
-    },
-    {
-      "slug": "demonsamguk",
-      "loungeId": "demonsamguk",
-      "titleKo": "전지적 시점:데몬 삼국",
-      "titleEn": "Demonsamguk"
-    },
-    {
-      "slug": "devil-hunter-idle",
-      "loungeId": "Devil_Hunter_Idle",
-      "titleKo": "데빌 헌터 키우기",
-      "titleEn": "Devil Hunter Idle"
-    },
-    {
-      "slug": "devil-note",
-      "loungeId": "Devil_Note",
-      "titleKo": "데빌노트: 보물 헌터",
-      "titleEn": "Devil Note"
+      "slug": "dm-epicnine",
+      "loungeId": "DM_EPICNINE",
+      "titleKo": "에픽나인",
+      "titleEn": "Dm Epicnine"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
+    },
+    {
+      "slug": "dragon-blood-raider",
+      "loungeId": "Dragon_Blood_Raider",
+      "titleKo": "드래곤 블러드: 레이더",
+      "titleEn": "Dragon Blood Raider"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -195,16 +141,106 @@
       "titleEn": "Dragonheir"
     },
     {
+      "slug": "dragon-saver",
+      "loungeId": "DragonSaver",
+      "titleKo": "드래곤 세이버: 용과 소녀의 모험 방치형 키우기 RPG",
+      "titleEn": "Dragon Saver"
+    },
+    {
+      "slug": "dragoon-of-the-wind",
+      "loungeId": "Dragoon_Of_The_Wind",
+      "titleKo": "바람의 드래군M",
+      "titleEn": "Dragoon Of The Wind"
+    },
+    {
+      "slug": "dream-furniture",
+      "loungeId": "dream_furniture",
+      "titleKo": "꿈꾸는 가구점",
+      "titleEn": "Dream Furniture"
+    },
+    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
       "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
+      "slug": "dream-samguk",
+      "loungeId": "dream_samguk",
+      "titleKo": "드림삼국",
+      "titleEn": "Dream Samguk"
+    },
+    {
+      "slug": "dungeonand-breaker",
+      "loungeId": "DungeonandBreaker",
+      "titleKo": "던전앤브레이커",
+      "titleEn": "Dungeonand Breaker"
+    },
+    {
+      "slug": "dungeon-dungeon",
+      "loungeId": "DungeonDungeon",
+      "titleKo": "던전던전",
+      "titleEn": "Dungeon Dungeon"
+    },
+    {
+      "slug": "dunjeonpang",
+      "loungeId": "dunjeonpang",
+      "titleKo": "손가락 나갔다: 던전팡팡",
+      "titleEn": "Dunjeonpang"
+    },
+    {
+      "slug": "dwarfidlerpg",
+      "loungeId": "Dwarfidlerpg",
+      "titleKo": "드워프 키우기 : 방치형RPG",
+      "titleEn": "Dwarfidlerpg"
+    },
+    {
+      "slug": "dx-awaken",
+      "loungeId": "dx_awaken",
+      "titleKo": "DX: 각성자들",
+      "titleEn": "Dx Awaken"
+    },
+    {
+      "slug": "echocalypse-scarlet-covenant",
+      "loungeId": "Echocalypse_Scarlet_Covenant",
+      "titleKo": "에코칼립스: 진홍의 서약",
+      "titleEn": "Echocalypse Scarlet Covenant"
+    },
+    {
+      "slug": "eggmon",
+      "loungeId": "eggmon",
+      "titleKo": "에그몬 월드:저니",
+      "titleEn": "Eggmon"
+    },
+    {
+      "slug": "elfidle",
+      "loungeId": "elfidle",
+      "titleKo": "엘프키우기",
+      "titleEn": "Elfidle"
+    },
+    {
+      "slug": "escape-tonight-49-days",
+      "loungeId": "Escape_Tonight_49Days",
+      "titleKo": "밤탈출 - 49일",
+      "titleEn": "Escape Tonight 49 Days"
+    },
+    {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
       "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
+    },
+    {
+      "slug": "eternal-three-kingdoms",
+      "loungeId": "Eternal_Three_Kingdoms",
+      "titleKo": "이터널삼국지",
+      "titleEn": "Eternal Three Kingdoms"
+    },
+    {
+      "slug": "ex-astris",
+      "loungeId": "Ex_Astris",
+      "titleKo": "엑스 아스트리스",
+      "titleEn": "Ex Astris"
     },
     {
       "slug": "idle-king",
