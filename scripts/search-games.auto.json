@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-05T16:19:00.062Z",
+  "generatedAt": "2026-10-05T22:53:33.289Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -63,12 +63,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -87,46 +81,10 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "disgaea-rpg",
-      "loungeId": "DISGAEA_RPG",
-      "titleKo": "마계전기 DISGAEA RPG",
-      "titleEn": "Disgaea Rpg"
-    },
-    {
-      "slug": "disney-realm-breakers",
-      "loungeId": "Disney_Realm_Breakers",
-      "titleKo": "디즈니 렐름 브레이커스",
-      "titleEn": "Disney Realm Breakers"
-    },
-    {
-      "slug": "dm-epicnine",
-      "loungeId": "DM_EPICNINE",
-      "titleKo": "에픽나인",
-      "titleEn": "Dm Epicnine"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
-    },
-    {
-      "slug": "dothero",
-      "loungeId": "dothero",
-      "titleKo": "도트 공주들 구하기",
-      "titleEn": "Dothero"
-    },
-    {
-      "slug": "dragon-blood-raider",
-      "loungeId": "Dragon_Blood_Raider",
-      "titleKo": "드래곤 블러드: 레이더",
-      "titleEn": "Dragon Blood Raider"
-    },
-    {
-      "slug": "dragon-rider-idle",
-      "loungeId": "Dragon_Rider_Idle",
-      "titleKo": "드래곤 라이더 키우기",
-      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -141,88 +99,10 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dragon-saver",
-      "loungeId": "DragonSaver",
-      "titleKo": "드래곤 세이버: 용과 소녀의 모험 방치형 키우기 RPG",
-      "titleEn": "Dragon Saver"
-    },
-    {
-      "slug": "dragoon-of-the-wind",
-      "loungeId": "Dragoon_Of_The_Wind",
-      "titleKo": "바람의 드래군M",
-      "titleEn": "Dragoon Of The Wind"
-    },
-    {
-      "slug": "dream-furniture",
-      "loungeId": "dream_furniture",
-      "titleKo": "꿈꾸는 가구점",
-      "titleEn": "Dream Furniture"
-    },
-    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
       "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
-    },
-    {
-      "slug": "dream-samguk",
-      "loungeId": "dream_samguk",
-      "titleKo": "드림삼국",
-      "titleEn": "Dream Samguk"
-    },
-    {
-      "slug": "dungeonand-breaker",
-      "loungeId": "DungeonandBreaker",
-      "titleKo": "던전앤브레이커",
-      "titleEn": "Dungeonand Breaker"
-    },
-    {
-      "slug": "dungeon-dungeon",
-      "loungeId": "DungeonDungeon",
-      "titleKo": "던전던전",
-      "titleEn": "Dungeon Dungeon"
-    },
-    {
-      "slug": "dunjeonpang",
-      "loungeId": "dunjeonpang",
-      "titleKo": "손가락 나갔다: 던전팡팡",
-      "titleEn": "Dunjeonpang"
-    },
-    {
-      "slug": "dwarfidlerpg",
-      "loungeId": "Dwarfidlerpg",
-      "titleKo": "드워프 키우기 : 방치형RPG",
-      "titleEn": "Dwarfidlerpg"
-    },
-    {
-      "slug": "dx-awaken",
-      "loungeId": "dx_awaken",
-      "titleKo": "DX: 각성자들",
-      "titleEn": "Dx Awaken"
-    },
-    {
-      "slug": "echocalypse-scarlet-covenant",
-      "loungeId": "Echocalypse_Scarlet_Covenant",
-      "titleKo": "에코칼립스: 진홍의 서약",
-      "titleEn": "Echocalypse Scarlet Covenant"
-    },
-    {
-      "slug": "eggmon",
-      "loungeId": "eggmon",
-      "titleKo": "에그몬 월드:저니",
-      "titleEn": "Eggmon"
-    },
-    {
-      "slug": "elfidle",
-      "loungeId": "elfidle",
-      "titleKo": "엘프키우기",
-      "titleEn": "Elfidle"
-    },
-    {
-      "slug": "escape-tonight-49-days",
-      "loungeId": "Escape_Tonight_49Days",
-      "titleKo": "밤탈출 - 49일",
-      "titleEn": "Escape Tonight 49 Days"
     },
     {
       "slug": "eternal-chronicle",
@@ -231,16 +111,76 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
+      "slug": "f4-u",
+      "loungeId": "F4U",
+      "titleKo": "판타지포유",
+      "titleEn": "F4 U"
     },
     {
-      "slug": "ex-astris",
-      "loungeId": "Ex_Astris",
-      "titleKo": "엑스 아스트리스",
-      "titleEn": "Ex Astris"
+      "slug": "final-guild",
+      "loungeId": "FinalGuild",
+      "titleKo": "파이널길드",
+      "titleEn": "Final Guild"
+    },
+    {
+      "slug": "fishclush",
+      "loungeId": "Fishclush",
+      "titleKo": "먹텐물꼬기",
+      "titleEn": "Fishclush"
+    },
+    {
+      "slug": "football-top-manager",
+      "loungeId": "Football_Top_Manager",
+      "titleKo": "풋볼 탑 매니저",
+      "titleEn": "Football Top Manager"
+    },
+    {
+      "slug": "fresh-rpg",
+      "loungeId": "FreshRPG",
+      "titleKo": "싱싱한RPG : 강남상어 키우기",
+      "titleEn": "Fresh Rpg"
+    },
+    {
+      "slug": "gaiam",
+      "loungeId": "GAIAM",
+      "titleKo": "가이아M",
+      "titleEn": "Gaiam"
+    },
+    {
+      "slug": "game-of-money",
+      "loungeId": "Game_Of_Money",
+      "titleKo": "대표님을 부탁해",
+      "titleEn": "Game Of Money"
+    },
+    {
+      "slug": "gg-go-masters",
+      "loungeId": "GGGoMasters",
+      "titleKo": "고고 고수들",
+      "titleEn": "Gg Go Masters"
+    },
+    {
+      "slug": "ghost-soul-afk",
+      "loungeId": "GhostSoulAFK",
+      "titleKo": "귀혼키우기",
+      "titleEn": "Ghost Soul Afk"
+    },
+    {
+      "slug": "weapon-master",
+      "loungeId": "WeaponMaster",
+      "titleKo": "웨폰마스터 키우기",
+      "titleEn": "Weapon Master"
+    },
+    {
+      "slug": "goblin-slayer",
+      "loungeId": "Goblin_Slayer",
+      "titleKo": "고블린 슬레이어 키우기",
+      "titleEn": "Goblin Slayer"
+    },
+    {
+      "slug": "god-slayer",
+      "loungeId": "God_Slayer",
+      "titleKo": "갓 슬레이어",
+      "titleEn": "God Slayer"
     },
     {
       "slug": "idle-king",
@@ -253,6 +193,12 @@
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "langrisser-sea-of-sword",
+      "loungeId": "Langrisser_Sea_of_Sword",
+      "titleKo": "랑그릿사: 검의 바다",
+      "titleEn": "Langrisser Sea Of Sword"
     },
     {
       "slug": "pmang-new-matgo",
