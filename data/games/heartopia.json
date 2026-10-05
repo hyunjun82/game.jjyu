@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-37825-1767889075/heartopia-launch-keyvis.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-02T14:16:20.004Z",
+  "updatedAt": "2026-10-05T01:19:19.761Z",
   "codes": [
     {
       "code": "q3n7a2r9k8m5",
@@ -76,6 +76,16 @@
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "moonlike2609",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/cdtqcdaxiookl/224431619171",
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-10-05",
+      "status": "expired"
     }
   ]
 }
