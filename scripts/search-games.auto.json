@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-05T01:10:49.531Z",
+  "generatedAt": "2026-10-05T07:21:20.848Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -63,6 +63,18 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "queen-of-tower",
+      "loungeId": "Queen_of_Tower",
+      "titleKo": "연무무쌍 : Queen of Tower",
+      "titleEn": "Queen Of Tower"
+    },
+    {
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -79,6 +91,90 @@
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "cheon-sam-mu",
+      "loungeId": "CheonSamMu",
+      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
+      "titleEn": "Cheon Sam Mu"
+    },
+    {
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
+    },
+    {
+      "slug": "come-on-alien",
+      "loungeId": "Come_on_Alien",
+      "titleKo": "덤벼라 외계인!",
+      "titleEn": "Come On Alien"
+    },
+    {
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-slayer-sd",
+      "loungeId": "Dark_Slayer_SD",
+      "titleKo": "다크슬레이어2",
+      "titleEn": "Dark Slayer Sd"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
+    },
+    {
+      "slug": "dark-hero-kiugi",
+      "loungeId": "DarkHeroKiugi",
+      "titleKo": "다크 히어로 키우기",
+      "titleEn": "Dark Hero Kiugi"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-hunter-idle",
+      "loungeId": "Devil_Hunter_Idle",
+      "titleKo": "데빌 헌터 키우기",
+      "titleEn": "Devil Hunter Idle"
+    },
+    {
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -169,96 +265,6 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "ultirpg",
-      "loungeId": "ultirpg",
-      "titleKo": "실력존많겜",
-      "titleEn": "Ultirpg"
-    },
-    {
-      "slug": "undergroundz",
-      "loungeId": "undergroundz",
-      "titleKo": "이번역은 좀비입니다",
-      "titleEn": "Undergroundz"
-    },
-    {
-      "slug": "unlimited-fighter",
-      "loungeId": "Unlimited_Fighter",
-      "titleKo": "언리미티드 파이터",
-      "titleEn": "Unlimited Fighter"
-    },
-    {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
-    },
-    {
-      "slug": "vigilante",
-      "loungeId": "Vigilante",
-      "titleKo": "비질란테",
-      "titleEn": "Vigilante"
-    },
-    {
-      "slug": "wandering-mercenary-force",
-      "loungeId": "wandering_mercenary_force",
-      "titleKo": "방랑용병단",
-      "titleEn": "Wandering Mercenary Force"
-    },
-    {
-      "slug": "warphero",
-      "loungeId": "warphero",
-      "titleKo": "워프히어로",
-      "titleEn": "Warphero"
-    },
-    {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
-    },
-    {
-      "slug": "evil-m-the-darkness-fable",
-      "loungeId": "Evil_M_The_Darkness_Fable",
-      "titleKo": "이블M: 어둠의 우화",
-      "titleEn": "Evil M The Darkness Fable"
-    },
-    {
-      "slug": "with",
-      "loungeId": "WITH",
-      "titleKo": "위드 : 신의 날개",
-      "titleEn": "With"
-    },
-    {
-      "slug": "wizards-survival",
-      "loungeId": "Wizards_Survival",
-      "titleKo": "나 혼자 클리어",
-      "titleEn": "Wizards Survival"
-    },
-    {
-      "slug": "woodcutter",
-      "loungeId": "woodcutter",
-      "titleKo": "선녀와 나무꾼 키우기 : 방치형 RPG",
-      "titleEn": "Woodcutter"
-    },
-    {
-      "slug": "wtbk",
-      "loungeId": "wtbk",
-      "titleKo": "왓더뼈킹",
-      "titleEn": "Wtbk"
-    },
-    {
-      "slug": "zero9",
-      "loungeId": "zero9",
-      "titleKo": "제로나인",
-      "titleEn": "Zero9"
-    },
-    {
-      "slug": "zombie-hunter",
-      "loungeId": "ZombieHunter",
-      "titleKo": "이세계 좀비 헌터",
-      "titleEn": "Zombie Hunter"
     }
   ]
 }
