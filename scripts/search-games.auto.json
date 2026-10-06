@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-06T09:35:58.421Z",
+  "generatedAt": "2026-10-06T16:28:20.140Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -15,28 +15,10 @@
       "titleEn": "Romantic Gangho"
     },
     {
-      "slug": "heartopia",
-      "loungeId": "Heartopia",
-      "titleKo": "두근두근타운",
-      "titleEn": "Heartopia"
-    },
-    {
       "slug": "tales-runner-rpg",
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
-    },
-    {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
-    },
-    {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
     },
     {
       "slug": "arknights-endfield",
@@ -45,10 +27,34 @@
       "titleEn": "Arknights Endfield"
     },
     {
+      "slug": "heartopia",
+      "loungeId": "Heartopia",
+      "titleKo": "두근두근타운",
+      "titleEn": "Heartopia"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
+    },
+    {
       "slug": "torchlight-infinite",
       "loungeId": "Torchlight_Infinite",
       "titleKo": "토치라이트: 인피니트",
       "titleEn": "Torchlight Infinite"
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
     },
     {
       "slug": "toysamguk",
@@ -63,6 +69,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "pixel-heroic-legend",
+      "loungeId": "Pixel_Heroic_Legend",
+      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
+      "titleEn": "Pixel Heroic Legend"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -75,64 +87,136 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "32-heroes",
-      "loungeId": "32Heroes",
-      "titleKo": "32용사 키우기",
-      "titleEn": "32 Heroes"
-    },
-    {
-      "slug": "33-rd",
-      "loungeId": "33RD",
-      "titleKo": "33RD : 랜덤 디펜스",
-      "titleEn": "33 Rd"
-    },
-    {
-      "slug": "7tharcher",
-      "loungeId": "7tharcher",
-      "titleKo": "7번째 신의 궁수 키우기",
-      "titleEn": "7tharcher"
-    },
-    {
-      "slug": "abyss-infinite-realm",
-      "loungeId": "Abyss_Infinite_Realm",
-      "titleKo": "어비스: 무한계",
-      "titleEn": "Abyss Infinite Realm"
-    },
-    {
-      "slug": "abyssdestiny",
-      "loungeId": "abyssdestiny",
-      "titleKo": "어비스: 데스티니",
-      "titleEn": "Abyssdestiny"
-    },
-    {
-      "slug": "acadia-m",
-      "loungeId": "AcadiaM",
-      "titleKo": "아카디아M",
-      "titleEn": "Acadia M"
-    },
-    {
-      "slug": "acecraft",
-      "loungeId": "ACECRAFT",
-      "titleKo": "ACECRAFT",
-      "titleEn": "Acecraft"
-    },
-    {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
-    },
-    {
-      "slug": "afk-mercenary",
-      "loungeId": "AFK_Mercenary",
-      "titleKo": "우리 단장 뭐함?!",
-      "titleEn": "Afk Mercenary"
+      "slug": "akir-call-of-aesir",
+      "loungeId": "AKIR_CALL_OF_AESIR",
+      "titleKo": "아키르: 콜 오브 에시르",
+      "titleEn": "Akir Call Of Aesir"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "alterego",
+      "loungeId": "Alterego",
+      "titleKo": "분신 캐 키우기",
+      "titleEn": "Alterego"
+    },
+    {
+      "slug": "loadto-ninza",
+      "loungeId": "loadtoNINZA",
+      "titleKo": "로드 투 닌자-K닌자의 귀환",
+      "titleEn": "Loadto Ninza"
+    },
+    {
+      "slug": "amber-guard",
+      "loungeId": "AmberGuard",
+      "titleKo": "앰버가드",
+      "titleEn": "Amber Guard"
+    },
+    {
+      "slug": "ananta",
+      "loungeId": "Ananta",
+      "titleKo": "무한대 아난타",
+      "titleEn": "Ananta"
+    },
+    {
+      "slug": "angel-knights",
+      "loungeId": "Angel_Knights",
+      "titleKo": "엔젤나이츠",
+      "titleEn": "Angel Knights"
+    },
+    {
+      "slug": "animal-quest",
+      "loungeId": "Animal_Quest",
+      "titleKo": "애니멀 퀘스트",
+      "titleEn": "Animal Quest"
+    },
+    {
+      "slug": "anotherthreekingdoms",
+      "loungeId": "anotherthreekingdoms",
+      "titleKo": "이세계 삼국지",
+      "titleEn": "Anotherthreekingdoms"
+    },
+    {
+      "slug": "aof",
+      "loungeId": "aof",
+      "titleKo": "에테르 오브 판타지",
+      "titleEn": "Aof"
+    },
+    {
+      "slug": "archercat2",
+      "loungeId": "archercat2",
+      "titleKo": "아처캣2",
+      "titleEn": "Archercat2"
+    },
+    {
+      "slug": "arisen-ants",
+      "loungeId": "Arisen_Ants",
+      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
+      "titleEn": "Arisen Ants"
+    },
+    {
+      "slug": "armored-girls",
+      "loungeId": "Armored_Girls",
+      "titleKo": "삼국무장소녀",
+      "titleEn": "Armored Girls"
+    },
+    {
+      "slug": "asap-arena",
+      "loungeId": "ASAP_ARENA",
+      "titleKo": "ASAP 아레나",
+      "titleEn": "Asap Arena"
+    },
+    {
+      "slug": "ash-n-veil",
+      "loungeId": "AshNVeil",
+      "titleKo": "애쉬앤베일",
+      "titleEn": "Ash N Veil"
+    },
+    {
+      "slug": "assetonline",
+      "loungeId": "assetonline",
+      "titleKo": "에셋온라인",
+      "titleEn": "Assetonline"
+    },
+    {
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "badminton-blitz",
+      "loungeId": "Badminton_Blitz",
+      "titleKo": "배드민턴 달인",
+      "titleEn": "Badminton Blitz"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
+    },
+    {
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
+    },
+    {
+      "slug": "become-a-lord",
+      "loungeId": "Become_a_lord",
+      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
+      "titleEn": "Become A Lord"
     },
     {
       "slug": "dokkaebi-girl",
@@ -145,12 +229,6 @@
       "loungeId": "Dragonblade_Grow",
       "titleKo": "용칼이 키우기",
       "titleEn": "Dragonblade Grow"
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
     },
     {
       "slug": "dream-garden-cozy-lite-management",
@@ -201,52 +279,16 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "slingshooter",
-      "loungeId": "slingshooter",
-      "titleKo": "용사의 모험: 슬링슈터",
-      "titleEn": "Slingshooter"
-    },
-    {
-      "slug": "solosamguk",
-      "loungeId": "solosamguk",
-      "titleKo": "나 혼자 만렙 삼국",
-      "titleEn": "Solosamguk"
-    },
-    {
-      "slug": "soul-land-second-coming",
-      "loungeId": "Soul_Land_Second_Coming",
-      "titleKo": "소울랜드:세컨드 커밍",
-      "titleEn": "Soul Land Second Coming"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
       "titleEn": "Star Of The Overlord"
     },
     {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
-    },
-    {
       "slug": "stone-three-kingdoms",
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
     },
     {
       "slug": "survivorio",
@@ -259,12 +301,6 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
     }
   ]
 }
