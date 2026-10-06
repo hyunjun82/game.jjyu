@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-06T18:36:18.682Z",
+  "updatedAt": "2026-10-06T21:18:19.702Z",
   "codes": [
     {
       "code": "MONGILPRESENT",
@@ -68,21 +68,21 @@
       "status": "expired"
     },
     {
-      "code": "PLAYMONGIL",
-      "reward": "",
-      "expiry": "2026-09-29",
-      "postedAt": "2026-09-27",
-      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
-      "status": "expired"
-    },
-    {
       "code": "FINDSTAR10",
       "reward": "",
       "expiry": "2026-07-29",
       "postedAt": "2026-09-07",
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403203929",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-07",
+      "status": "expired"
+    },
+    {
+      "code": "PLAYMONGIL",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-07",
       "status": "expired"
