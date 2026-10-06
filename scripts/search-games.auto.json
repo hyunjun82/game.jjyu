@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-05T22:53:33.289Z",
+  "generatedAt": "2026-10-06T02:42:25.814Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -63,6 +63,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "unlimited-fighter",
+      "loungeId": "Unlimited_Fighter",
+      "titleKo": "언리미티드 파이터",
+      "titleEn": "Unlimited Fighter"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -111,78 +117,6 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "f4-u",
-      "loungeId": "F4U",
-      "titleKo": "판타지포유",
-      "titleEn": "F4 U"
-    },
-    {
-      "slug": "final-guild",
-      "loungeId": "FinalGuild",
-      "titleKo": "파이널길드",
-      "titleEn": "Final Guild"
-    },
-    {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
-    },
-    {
-      "slug": "football-top-manager",
-      "loungeId": "Football_Top_Manager",
-      "titleKo": "풋볼 탑 매니저",
-      "titleEn": "Football Top Manager"
-    },
-    {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "gaiam",
-      "loungeId": "GAIAM",
-      "titleKo": "가이아M",
-      "titleEn": "Gaiam"
-    },
-    {
-      "slug": "game-of-money",
-      "loungeId": "Game_Of_Money",
-      "titleKo": "대표님을 부탁해",
-      "titleEn": "Game Of Money"
-    },
-    {
-      "slug": "gg-go-masters",
-      "loungeId": "GGGoMasters",
-      "titleKo": "고고 고수들",
-      "titleEn": "Gg Go Masters"
-    },
-    {
-      "slug": "ghost-soul-afk",
-      "loungeId": "GhostSoulAFK",
-      "titleKo": "귀혼키우기",
-      "titleEn": "Ghost Soul Afk"
-    },
-    {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
-    },
-    {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
-    },
-    {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -195,10 +129,34 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
+      "slug": "lost-era-mupa",
+      "loungeId": "LostEra_Mupa",
+      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
+      "titleEn": "Lost Era Mupa"
+    },
+    {
+      "slug": "mnlkr",
+      "loungeId": "mnlkr",
+      "titleKo": "머지데이 나잇 라이브",
+      "titleEn": "Mnlkr"
+    },
+    {
+      "slug": "moeverse-live",
+      "loungeId": "MOEVERSE_LIVE",
+      "titleKo": "모에버스:라이브",
+      "titleEn": "Moeverse Live"
+    },
+    {
+      "slug": "pixel-heroes-adventure",
+      "loungeId": "PixelHeroesAdventure",
+      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
+      "titleEn": "Pixel Heroes Adventure"
+    },
+    {
+      "slug": "plantis-zombie-gangsters",
+      "loungeId": "Plantis_Zombie_Gangsters",
+      "titleKo": "플랜티스와 좀비깡패",
+      "titleEn": "Plantis Zombie Gangsters"
     },
     {
       "slug": "pmang-new-matgo",
@@ -207,10 +165,34 @@
       "titleEn": "Pmang New Matgo"
     },
     {
+      "slug": "ptrctlt",
+      "loungeId": "ptrctlt",
+      "titleKo": "파트롱2:컨트랙트",
+      "titleEn": "Ptrctlt"
+    },
+    {
+      "slug": "puppy-three-kingdoms",
+      "loungeId": "puppy_three_kingdoms",
+      "titleKo": "멍멍삼국",
+      "titleEn": "Puppy Three Kingdoms"
+    },
+    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
+    },
+    {
+      "slug": "running-three-kingdoms",
+      "loungeId": "RunningThreeKingdoms",
+      "titleKo": "런닝 삼국",
+      "titleEn": "Running Three Kingdoms"
     },
     {
       "slug": "rush-three-kingdom",
@@ -219,10 +201,64 @@
       "titleEn": "Rush Three Kingdom"
     },
     {
+      "slug": "saint-girl",
+      "loungeId": "Saint_Girl",
+      "titleKo": "이세계 성녀 키우기",
+      "titleEn": "Saint Girl"
+    },
+    {
       "slug": "samguk-origin",
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
+    },
+    {
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji Kingdom"
+    },
+    {
+      "slug": "seondo-m",
+      "loungeId": "Seondo_M",
+      "titleKo": "선도M : 선마결전",
+      "titleEn": "Seondo M"
+    },
+    {
+      "slug": "sera-eternals",
+      "loungeId": "SERA_ETERNALS",
+      "titleKo": "세라: 이터널스",
+      "titleEn": "Sera Eternals"
+    },
+    {
+      "slug": "seraphim-saga",
+      "loungeId": "Seraphim_Saga",
+      "titleKo": "세라핌 사가: 날개소녀 키우기",
+      "titleEn": "Seraphim Saga"
+    },
+    {
+      "slug": "shoot-shoot",
+      "loungeId": "ShootShoot",
+      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
+      "titleEn": "Shoot Shoot"
+    },
+    {
+      "slug": "silver-and-blood",
+      "loungeId": "Silver_And_Blood",
+      "titleKo": "실버 앤 블러드",
+      "titleEn": "Silver And Blood"
+    },
+    {
+      "slug": "silver-palace",
+      "loungeId": "Silver_Palace",
+      "titleKo": "실버 팰리스",
+      "titleEn": "Silver Palace"
+    },
+    {
+      "slug": "skull-defense",
+      "loungeId": "Skull_Defense",
+      "titleKo": "스컬디펜스",
+      "titleEn": "Skull Defense"
     },
     {
       "slug": "star-of-the-overlord",

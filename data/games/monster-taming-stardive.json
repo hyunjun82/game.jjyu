@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-05T16:26:56.106Z",
+  "updatedAt": "2026-10-06T02:49:40.560Z",
   "codes": [
     {
       "code": "MONGILPRESENT",
@@ -78,6 +78,16 @@
       "status": "expired"
     },
     {
+      "code": "FINDSTAR10",
+      "reward": "",
+      "expiry": "2026-07-29",
+      "postedAt": "2026-09-07",
+      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403203929",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-06",
+      "status": "expired"
+    },
+    {
       "code": "JOINMONGIL",
       "reward": "",
       "expiry": null,
@@ -85,16 +95,6 @@
       "sourceUrl": "https://blog.naver.com/rjdlrose/224405133628",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-06",
-      "status": "expired"
-    },
-    {
-      "code": "FINDSTAR10",
-      "reward": "",
-      "expiry": "2026-07-29",
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224403203929",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03",
       "status": "expired"
     }
   ]

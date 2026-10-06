@@ -1,0 +1,21 @@
+{
+  "slug": "stoneage-idle",
+  "titleEn": "Stone Age Idle",
+  "titleKo": "스톤에이지 키우기",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-06T02:53:49.457Z",
+  "codes": [
+    {
+      "code": "STONEPDAUG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/neopgame/224425526075",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    }
+  ]
+}

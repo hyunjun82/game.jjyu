@@ -1,0 +1,61 @@
+{
+  "slug": "reverse-1999",
+  "titleEn": "Reverse: 1999",
+  "titleKo": "리버스: 1999",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-06T02:53:42.195Z",
+  "codes": [
+    {
+      "code": "RESCUEMEDAL",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422540413",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "code": "ECHOESOFTIME",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422540413",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "code": "MOTHLIGHT",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422540413",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "code": "SHELTERDOVES",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422540413",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "code": "DESPERATECOUNTER",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/pueaeavdeaitbe/224422540413",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    }
+  ]
+}

@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-05T16:26:39.259Z",
+  "updatedAt": "2026-10-06T02:49:25.151Z",
   "codes": [
+    {
+      "code": "GET888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224424775645",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "code": "Rogue2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224424775645",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "code": "Gem1000",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224424775645",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
     {
       "code": "EMBERIN",
       "reward": "",
@@ -54,36 +84,6 @@
       "postedAt": "2026-09-06",
       "sourceUrl": "https://blog.naver.com/akdrhdpdh/224402767777",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "status": "expired"
-    },
-    {
-      "code": "Gem1000",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-06",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224402767777",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-06",
-      "status": "expired"
-    },
-    {
-      "code": "GET888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-06",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224402767777",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-06",
-      "status": "expired"
-    },
-    {
-      "code": "Rogue2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-06",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224402767777",
-      "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-06",
       "status": "expired"
     }

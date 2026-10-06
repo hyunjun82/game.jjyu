@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T00:03:48.033Z",
+  "generatedAt": "2026-10-06T02:53:56.195Z",
   "today": "2026-10-06",
-  "todayNew": 5,
+  "todayNew": 13,
   "totals": {
-    "games": 288,
-    "codes": 4004,
-    "active": 648,
-    "expired": 3356,
-    "withExpiry": 2321
+    "games": 290,
+    "codes": 4012,
+    "active": 661,
+    "expired": 3351,
+    "withExpiry": 2327
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-06",
-      "count": 5
+      "count": 13
     }
   ],
   "expiringSoon": [
@@ -231,6 +231,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-DAWN",
+      "expiry": "2026-10-08",
+      "days": 2
+    },
+    {
       "slug": "samguk-origin",
       "code": "1621-c2444e6e6-1",
       "expiry": "2026-10-08",
@@ -361,12 +367,6 @@
       "code": "HAPPY1anniv",
       "expiry": "2026-10-10",
       "days": 4
-    },
-    {
-      "slug": "primal-sin-divine-judgment",
-      "code": "GCJ1003",
-      "expiry": "2026-10-10",
-      "days": 4
     }
   ],
   "topGames": [
@@ -456,6 +456,11 @@
       "total": 35
     },
     {
+      "slug": "bleach-soul-resonance",
+      "active": 8,
+      "total": 13
+    },
+    {
       "slug": "busy-savior",
       "active": 8,
       "total": 30
@@ -464,12 +469,7 @@
       "slug": "toy-immortals",
       "active": 8,
       "total": 8
-    },
-    {
-      "slug": "afk-journey",
-      "active": 7,
-      "total": 7
     }
   ],
-  "noImage": 41
+  "noImage": 43
 }
