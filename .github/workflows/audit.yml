@@ -31,6 +31,13 @@ jobs:
       - name: 누락 점검
         run: node scripts/audit-naver.mjs | tee /tmp/out.log
 
+      # 라운지에 코드를 안 올리고 카카오·카페·디스코드에만 푸는 게임(애니모·쿠키런 킹덤 등)을 블로그 검색으로 찾아
+      # 지금 쓸 코드가 확인된 게임만 추가한다. 실패해도 나머지 단계는 그대로 돈다.
+      - name: 블로그 검색으로 새 쿠폰 게임 찾기
+        run: |
+          node scripts/discover-search.mjs | tee -a /tmp/out.log || echo "discover-search 실패 — 다음 점검에서 다시"
+          node scripts/collect-search.mjs | tee -a /tmp/out.log || echo "collect-search 실패"
+
       # 쿠폰 글인데 코드가 이미지에만 있는 글은 Claude 가 이미지를 직접 읽는다(맥스 구독 토큰 사용).
       # 토큰이 없거나 Claude 가 실패해도 나머지 단계는 그대로 돈다.
       - name: 이미지 속 쿠폰 읽기
@@ -68,7 +75,7 @@ jobs:
           FIXED=$(grep -oP 'AUDIT_FIXED=\K[0-9]+' /tmp/out.log | tail -1)
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-extra-posts.json scripts/audit-report.json scripts/image-codes.json public/g
+          git add data/games data/stats.json scripts/naver-lounges.json scripts/naver-extra-posts.json scripts/audit-report.json scripts/image-codes.json scripts/search-games.found.json scripts/search-discover.json public/g
           if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
           STAMP=$(TZ=Asia/Seoul date '+%m-%d %H:%M')
           git commit -m "audit: ${STAMP} 자가 점검 · 놓친 글/라운지 ${FIXED:-0}건 반영"
