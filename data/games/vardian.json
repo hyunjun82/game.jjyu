@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA0MDZfMjM2/MDAxNzc1NDY4NjI4MzA2.h2udp9mHCSJtGlxCeYBfwRcBEtz4t3yo7yr9u-KUCLkg.aYU-zLrwdNhS3r_tPbBPDXQ9cS_a__paQcU0BmsPKwcg.PNG/2.png",
   "source": "naver-lounge",
   "loungeId": "Vardian",
-  "sourceUrl": "https://game.naver.com/lounge/Vardian/board/detail/8276466",
+  "sourceUrl": "https://game.naver.com/lounge/Vardian/board/detail/8293541",
   "howTo": "",
-  "postCount": 25,
-  "updatedAt": "2026-10-06T06:36:08.583Z",
+  "postCount": 26,
+  "updatedAt": "2026-10-06T09:36:52.504Z",
   "codes": [
+    {
+      "code": "UP1006",
+      "reward": "",
+      "expiry": "2026-10-12",
+      "postedAt": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
     {
       "code": "EVENT1003",
       "reward": "",

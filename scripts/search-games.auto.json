@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-06T02:42:25.814Z",
+  "generatedAt": "2026-10-06T09:35:58.421Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -63,12 +63,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "unlimited-fighter",
-      "loungeId": "Unlimited_Fighter",
-      "titleKo": "언리미티드 파이터",
-      "titleEn": "Unlimited Fighter"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -79,6 +73,60 @@
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "32-heroes",
+      "loungeId": "32Heroes",
+      "titleKo": "32용사 키우기",
+      "titleEn": "32 Heroes"
+    },
+    {
+      "slug": "33-rd",
+      "loungeId": "33RD",
+      "titleKo": "33RD : 랜덤 디펜스",
+      "titleEn": "33 Rd"
+    },
+    {
+      "slug": "7tharcher",
+      "loungeId": "7tharcher",
+      "titleKo": "7번째 신의 궁수 키우기",
+      "titleEn": "7tharcher"
+    },
+    {
+      "slug": "abyss-infinite-realm",
+      "loungeId": "Abyss_Infinite_Realm",
+      "titleKo": "어비스: 무한계",
+      "titleEn": "Abyss Infinite Realm"
+    },
+    {
+      "slug": "abyssdestiny",
+      "loungeId": "abyssdestiny",
+      "titleKo": "어비스: 데스티니",
+      "titleEn": "Abyssdestiny"
+    },
+    {
+      "slug": "acadia-m",
+      "loungeId": "AcadiaM",
+      "titleKo": "아카디아M",
+      "titleEn": "Acadia M"
+    },
+    {
+      "slug": "acecraft",
+      "loungeId": "ACECRAFT",
+      "titleKo": "ACECRAFT",
+      "titleEn": "Acecraft"
+    },
+    {
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
+    },
+    {
+      "slug": "afk-mercenary",
+      "loungeId": "AFK_Mercenary",
+      "titleKo": "우리 단장 뭐함?!",
+      "titleEn": "Afk Mercenary"
     },
     {
       "slug": "along-with-the-ghost",
@@ -129,52 +177,10 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
-    },
-    {
-      "slug": "mnlkr",
-      "loungeId": "mnlkr",
-      "titleKo": "머지데이 나잇 라이브",
-      "titleEn": "Mnlkr"
-    },
-    {
-      "slug": "moeverse-live",
-      "loungeId": "MOEVERSE_LIVE",
-      "titleKo": "모에버스:라이브",
-      "titleEn": "Moeverse Live"
-    },
-    {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
-      "slug": "plantis-zombie-gangsters",
-      "loungeId": "Plantis_Zombie_Gangsters",
-      "titleKo": "플랜티스와 좀비깡패",
-      "titleEn": "Plantis Zombie Gangsters"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
     },
     {
       "slug": "redmythnezha",
@@ -183,28 +189,10 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
       "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
-    },
-    {
-      "slug": "saint-girl",
-      "loungeId": "Saint_Girl",
-      "titleKo": "이세계 성녀 키우기",
-      "titleEn": "Saint Girl"
     },
     {
       "slug": "samguk-origin",
@@ -213,52 +201,22 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji Kingdom"
+      "slug": "slingshooter",
+      "loungeId": "slingshooter",
+      "titleKo": "용사의 모험: 슬링슈터",
+      "titleEn": "Slingshooter"
     },
     {
-      "slug": "seondo-m",
-      "loungeId": "Seondo_M",
-      "titleKo": "선도M : 선마결전",
-      "titleEn": "Seondo M"
+      "slug": "solosamguk",
+      "loungeId": "solosamguk",
+      "titleKo": "나 혼자 만렙 삼국",
+      "titleEn": "Solosamguk"
     },
     {
-      "slug": "sera-eternals",
-      "loungeId": "SERA_ETERNALS",
-      "titleKo": "세라: 이터널스",
-      "titleEn": "Sera Eternals"
-    },
-    {
-      "slug": "seraphim-saga",
-      "loungeId": "Seraphim_Saga",
-      "titleKo": "세라핌 사가: 날개소녀 키우기",
-      "titleEn": "Seraphim Saga"
-    },
-    {
-      "slug": "shoot-shoot",
-      "loungeId": "ShootShoot",
-      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
-      "titleEn": "Shoot Shoot"
-    },
-    {
-      "slug": "silver-and-blood",
-      "loungeId": "Silver_And_Blood",
-      "titleKo": "실버 앤 블러드",
-      "titleEn": "Silver And Blood"
-    },
-    {
-      "slug": "silver-palace",
-      "loungeId": "Silver_Palace",
-      "titleKo": "실버 팰리스",
-      "titleEn": "Silver Palace"
-    },
-    {
-      "slug": "skull-defense",
-      "loungeId": "Skull_Defense",
-      "titleKo": "스컬디펜스",
-      "titleEn": "Skull Defense"
+      "slug": "soul-land-second-coming",
+      "loungeId": "Soul_Land_Second_Coming",
+      "titleKo": "소울랜드:세컨드 커밍",
+      "titleEn": "Soul Land Second Coming"
     },
     {
       "slug": "star-of-the-overlord",
@@ -267,10 +225,28 @@
       "titleEn": "Star Of The Overlord"
     },
     {
+      "slug": "stellar-traveler",
+      "loungeId": "stellar_traveler",
+      "titleKo": "별빛 여행자",
+      "titleEn": "Stellar Traveler"
+    },
+    {
       "slug": "stone-three-kingdoms",
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
+    },
+    {
+      "slug": "striked-fixer",
+      "loungeId": "Striked_Fixer",
+      "titleKo": "내리침 해결사",
+      "titleEn": "Striked Fixer"
+    },
+    {
+      "slug": "stylight",
+      "loungeId": "stylight",
+      "titleKo": "스타일라잇",
+      "titleEn": "Stylight"
     },
     {
       "slug": "survivorio",
@@ -283,6 +259,12 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "tt-tiny-tales",
+      "loungeId": "TT_Tiny_Tales",
+      "titleKo": "TT: 타이니 테일즈",
+      "titleEn": "Tt Tiny Tales"
     }
   ]
 }
