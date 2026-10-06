@@ -1,0 +1,8 @@
+{
+  "_설명": "discover-search.mjs 가 찾아 넣은 게임 — 블로그 최근 30일 글에서 지금 쓸 코드가 확인된 것만.",
+  "games": [
+    { "slug": "fc-mobile", "titleKo": "FC 모바일", "titleEn": "FC Mobile", "found": "2026-10-06" },
+    { "slug": "reverse-1999", "titleKo": "리버스: 1999", "titleEn": "Reverse: 1999", "found": "2026-10-06" },
+    { "slug": "stoneage-idle", "titleKo": "스톤에이지 키우기", "titleEn": "Stone Age Idle", "found": "2026-10-06" }
+  ]
+}

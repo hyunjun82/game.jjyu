@@ -21,6 +21,8 @@ const GAMES_DIR = path.join(ROOT, 'data', 'games');
 const CONF = process.env.SEARCH_CONF || path.join(ROOT, 'scripts', 'search-games.json');
 /** discover-naver.mjs 가 자동으로 적는 회원 전용 인기 라운지 목록. 손으로 적은 목록이 우선한다. */
 const CONF_AUTO = path.join(ROOT, 'scripts', 'search-games.auto.json');
+/** discover-search.mjs 가 블로그 검색으로 찾아 넣는 게임(지금 쓸 코드가 확인된 것만). */
+const CONF_FOUND = path.join(ROOT, 'scripts', 'search-games.found.json');
 
 /** 이보다 오래된 글은 안 본다. 쿠폰 수명이 1~2주라 한 달 지난 글은 전부 만료다. */
 const MAX_POST_AGE_DAYS = 30;
@@ -211,7 +213,7 @@ function postDate(html) {
   return null;
 }
 
-async function collectOne(g) {
+export async function collectOne(g) {
   const today = todayISO();
   const query = encodeURIComponent(g.query || `${g.titleKo} 쿠폰`);
   // 기간만 최근 1개월로 묶는다. 기본 정렬(관련도순)을 그대로 쓴다 —
@@ -310,8 +312,11 @@ async function main() {
   const manual = JSON.parse(fs.readFileSync(CONF, 'utf8')).games;
   let auto = [];
   try { auto = JSON.parse(fs.readFileSync(CONF_AUTO, 'utf8')).games || []; } catch (e) { /* 아직 없음 */ }
+  let found = [];
+  try { found = JSON.parse(fs.readFileSync(CONF_FOUND, 'utf8')).games || []; } catch (e) { /* 아직 없음 */ }
   const seen = new Set(manual.map((g) => g.slug));
-  const list = [...manual, ...auto.filter((g) => !seen.has(g.slug))];
+  const list = [...manual];
+  for (const g of [...auto, ...found]) if (!seen.has(g.slug)) { seen.add(g.slug); list.push(g); }
   const only = process.argv.find((a) => a.startsWith('--only='));
   const targets = only ? list.filter((g) => g.slug === only.split('=')[1]) : list;
 
@@ -351,4 +356,4 @@ async function main() {
   console.log(`SEARCH_NEW=${newCodes}`);
 }
 
-main();
+if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).href) main();
