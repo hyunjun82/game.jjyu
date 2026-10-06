@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T02:53:56.195Z",
+  "generatedAt": "2026-10-06T06:39:00.759Z",
   "today": "2026-10-06",
-  "todayNew": 13,
+  "todayNew": 54,
   "totals": {
-    "games": 290,
-    "codes": 4012,
-    "active": 661,
-    "expired": 3351,
-    "withExpiry": 2327
+    "games": 294,
+    "codes": 4053,
+    "active": 693,
+    "expired": 3360,
+    "withExpiry": 2350
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-06",
-      "count": 13
+      "count": 54
     }
   ],
   "expiringSoon": [
@@ -113,6 +113,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "HERO921",
+      "expiry": "2026-10-06",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "Y8M4NC",
       "expiry": "2026-10-06",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "OCTOCT5726",
       "expiry": "2026-10-10",
       "days": 4
-    },
-    {
-      "slug": "nostalgic-corner-store",
-      "code": "HAPPY1anniv",
-      "expiry": "2026-10-10",
-      "days": 4
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "dragon-traveler",
-      "active": 20,
-      "total": 68
+      "active": 21,
+      "total": 69
     },
     {
       "slug": "apex-girls",
@@ -396,6 +396,11 @@
       "total": 47
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 34
+    },
+    {
       "slug": "rogw-remains-of-gods",
       "active": 16,
       "total": 16
@@ -406,14 +411,9 @@
       "total": 27
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 33
-    },
-    {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 63
+      "active": 14,
+      "total": 64
     },
     {
       "slug": "along-with-the-ghost",
@@ -424,6 +424,11 @@
       "slug": "sword-frontier",
       "active": 11,
       "total": 23
+    },
+    {
+      "slug": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
+      "active": 10,
+      "total": 10
     },
     {
       "slug": "astro-defenders",
@@ -456,20 +461,15 @@
       "total": 35
     },
     {
+      "slug": "reverse-1999",
+      "active": 9,
+      "total": 9
+    },
+    {
       "slug": "bleach-soul-resonance",
       "active": 8,
       "total": 13
-    },
-    {
-      "slug": "busy-savior",
-      "active": 8,
-      "total": 30
-    },
-    {
-      "slug": "toy-immortals",
-      "active": 8,
-      "total": 8
     }
   ],
-  "noImage": 43
+  "noImage": 47
 }

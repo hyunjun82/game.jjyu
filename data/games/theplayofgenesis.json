@@ -2,14 +2,23 @@
   "slug": "theplayofgenesis",
   "titleEn": "Theplayofgenesis",
   "titleKo": "창세기전 모바일",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMjc5/MDAxNzkwOTAyNDAxNjA0.qBpICGp-K-KsFQZcGbdRqgmWksXwVXLv7pP_FPuRhhUg.5yw0HtS4YNzVkaPjJiTvm2YsnhsT1h_DoMxXIGkNlVog.PNG/%EC%9E%91%EC%9D%80-%EB%B0%B0%EB%84%88_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMjU5/MDAxNzkxMjY1MDEwMDg0.KPV1Du1nrdpfTRIScFUXTHmnNQPcYcFW16cXO3cMSRMg.1QlJE9FW9Tii_S7wjUntcahpQLti6P2ogAgbj9fCpu8g.PNG/%EC%9E%91%EC%9D%80-%EB%B0%B0%EB%84%88_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "theplayofgenesis",
-  "sourceUrl": "https://game.naver.com/lounge/theplayofgenesis/board/detail/8276371",
+  "sourceUrl": "https://game.naver.com/lounge/theplayofgenesis/board/detail/8293303",
   "howTo": "※ 쿠폰이 정상적으로 사용되지 않을 경우, 게임을 완전히 종료하여 재실행 후 쿠폰 코드를 다시 입력해 주시기 바랍니다. ◆ 쿠폰 코드 DEVSLETTER72 ◆ 쿠폰 보상 - 인연의 큐브*10개",
-  "postCount": 15,
-  "updatedAt": "2026-10-06T02:45:29.001Z",
+  "postCount": 16,
+  "updatedAt": "2026-10-06T06:38:26.033Z",
   "codes": [
+    {
+      "code": "CHIXKARLS",
+      "reward": "",
+      "expiry": "2026-10-13",
+      "postedAt": "2026-10-06",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06",
+      "status": "active"
+    },
     {
       "code": "GENESIS1000DAYS",
       "reward": "",

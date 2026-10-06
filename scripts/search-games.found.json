@@ -1,8 +1,49 @@
 {
   "_설명": "discover-search.mjs 가 찾아 넣은 게임 — 블로그 최근 30일 글에서 지금 쓸 코드가 확인된 것만.",
   "games": [
-    { "slug": "fc-mobile", "titleKo": "FC 모바일", "titleEn": "FC Mobile", "found": "2026-10-06" },
-    { "slug": "reverse-1999", "titleKo": "리버스: 1999", "titleEn": "Reverse: 1999", "found": "2026-10-06" },
-    { "slug": "stoneage-idle", "titleKo": "스톤에이지 키우기", "titleEn": "Stone Age Idle", "found": "2026-10-06" }
+    {
+      "slug": "fc-mobile",
+      "titleKo": "FC 모바일",
+      "titleEn": "FC Mobile",
+      "found": "2026-10-06"
+    },
+    {
+      "slug": "reverse-1999",
+      "titleKo": "리버스: 1999",
+      "titleEn": "Reverse: 1999",
+      "found": "2026-10-06"
+    },
+    {
+      "slug": "stoneage-idle",
+      "titleKo": "스톤에이지 키우기",
+      "titleEn": "Stone Age Idle",
+      "found": "2026-10-06"
+    },
+    {
+      "slug": "com2us-pro-baseball-v22",
+      "titleKo": "컴투스프로야구V26",
+      "titleEn": "Com2us_ProBaseballV22",
+      "loungeId": "Com2us_ProBaseballV22",
+      "found": "2026-10-06"
+    },
+    {
+      "slug": "solinchaenteu",
+      "titleKo": "솔인챈트",
+      "titleEn": "solinchaenteu",
+      "found": "2026-10-06"
+    },
+    {
+      "slug": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
+      "titleKo": "아처캐슬 키우기 방치형 RPG 게임",
+      "titleEn": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
+      "found": "2026-10-06"
+    },
+    {
+      "slug": "kingshot",
+      "titleKo": "킹샷",
+      "titleEn": "Kingshot",
+      "loungeId": "Kingshot",
+      "found": "2026-10-06"
+    }
   ]
 }
