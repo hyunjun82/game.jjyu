@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-07T00:56:22.814Z",
+  "generatedAt": "2026-10-07T06:42:44.625Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -21,10 +21,10 @@
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "arknights-endfield",
+      "slug": "arknights-endfield-kr",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights Endfield"
+      "titleEn": "Arknights_Endfield"
     },
     {
       "slug": "heartopia",
@@ -69,10 +69,22 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "pixel-heroic-legend",
-      "loungeId": "Pixel_Heroic_Legend",
-      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
-      "titleEn": "Pixel Heroic Legend"
+      "slug": "aof",
+      "loungeId": "aof",
+      "titleKo": "에테르 오브 판타지",
+      "titleEn": "Aof"
+    },
+    {
+      "slug": "primal-conquest-dino-era",
+      "loungeId": "Primal_Conquest_Dino_Era",
+      "titleKo": "쥬라기 대륙: 디노시아",
+      "titleEn": "Primal Conquest Dino Era"
+    },
+    {
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
     },
     {
       "slug": "pokemon-go",
@@ -117,94 +129,112 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "hero-raised-by-god",
-      "loungeId": "HeroRaisedByGod",
-      "titleKo": "신이 키우는 용사",
-      "titleEn": "Hero Raised By God"
-    },
-    {
-      "slug": "adventureofheroes",
-      "loungeId": "adventureofheroes",
-      "titleKo": "히어로 모험단",
-      "titleEn": "Adventureofheroes"
-    },
-    {
-      "slug": "hidden-heroes-fortune-dungeon",
-      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
-      "titleKo": "미확인용사단 : 운빨방치RPG",
-      "titleEn": "Hidden Heroes Fortune Dungeon"
-    },
-    {
-      "slug": "high-ranker",
-      "loungeId": "HighRanker",
-      "titleKo": "하이랭커",
-      "titleEn": "High Ranker"
-    },
-    {
-      "slug": "hiki",
-      "loungeId": "hiki",
-      "titleKo": "히어로즈 키우기",
-      "titleEn": "Hiki"
-    },
-    {
-      "slug": "honkai-nexus-anima",
-      "loungeId": "Honkai_Nexus_Anima",
-      "titleKo": "붕괴: 넥서스 아니마",
-      "titleEn": "Honkai Nexus Anima"
-    },
-    {
-      "slug": "hwansaenggangho",
-      "loungeId": "hwansaenggangho",
-      "titleKo": "환생강호",
-      "titleEn": "Hwansaenggangho"
-    },
-    {
-      "slug": "lucifer-idle",
-      "loungeId": "Lucifer_Idle",
-      "titleKo": "루시퍼 키우기",
-      "titleEn": "Lucifer Idle"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
     },
     {
-      "slug": "immortal-rising2",
-      "loungeId": "Immortal_Rising2",
-      "titleKo": "임모탈 키우기 2",
-      "titleEn": "Immortal Rising2"
-    },
-    {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
-    },
-    {
-      "slug": "j-jalltoon-rumble-with-animalfriends",
-      "loungeId": "JJalltoonRumble_with_animalfriends",
-      "titleKo": "짤툰대난투 with. 짐승친구들",
-      "titleEn": "J Jalltoon Rumble With Animalfriends"
-    },
-    {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
-    },
-    {
-      "slug": "kingdom-rise-of-zombies",
-      "loungeId": "KINGDOM_RISE_OF_ZOMBIES",
-      "titleKo": "조선 이변",
-      "titleEn": "Kingdom Rise Of Zombies"
-    },
-    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "lapis-mobile",
+      "loungeId": "LAPIS_MOBILE",
+      "titleKo": "라피스 키우기",
+      "titleEn": "Lapis Mobile"
+    },
+    {
+      "slug": "last-cloudia",
+      "loungeId": "Last_Cloudia",
+      "titleKo": "라스트 클라우디아",
+      "titleEn": "Last Cloudia"
+    },
+    {
+      "slug": "legendof-yeomra",
+      "loungeId": "LegendofYeomra",
+      "titleKo": "염라대왕 키우기",
+      "titleEn": "Legendof Yeomra"
+    },
+    {
+      "slug": "legends-reborn",
+      "loungeId": "Legends_Reborn",
+      "titleKo": "Legends Reborn: 마지막 전투",
+      "titleEn": "Legends Reborn"
+    },
+    {
+      "slug": "leubens-adventure",
+      "loungeId": "Leubens_Adventure",
+      "titleKo": "루벤의 대모험",
+      "titleEn": "Leubens Adventure"
+    },
+    {
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
+    },
+    {
+      "slug": "magical-ink",
+      "loungeId": "Magical_Ink",
+      "titleKo": "마법의 잉크",
+      "titleEn": "Magical Ink"
+    },
+    {
+      "slug": "marine-squad",
+      "loungeId": "MarineSquad",
+      "titleKo": "마린 키우기 : 방치형 RPG",
+      "titleEn": "Marine Squad"
+    },
+    {
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
+    },
+    {
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
+    },
+    {
+      "slug": "meow-kingdom",
+      "loungeId": "meow_kingdom",
+      "titleKo": "냥킹덤",
+      "titleEn": "Meow Kingdom"
+    },
+    {
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
+    },
+    {
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
+    },
+    {
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
+    },
+    {
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
+    },
+    {
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
     },
     {
       "slug": "pmang-new-matgo",
