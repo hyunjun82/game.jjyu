@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T14:15:10.144Z",
+  "updatedAt": "2026-10-07T20:16:49.959Z",
   "codes": [
     {
       "code": "aniimolaunch2026",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/t326598/224421947470",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "active"
     },
     {
@@ -24,17 +24,17 @@
       "postedAt": "2026-10-03",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224429953956",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "active"
     },
     {
       "code": "ANIIMOGIFT",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-03",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224428565459",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/webdeveloping/224421411593",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "active"
     }
   ]

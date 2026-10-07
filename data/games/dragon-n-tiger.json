@@ -5,18 +5,27 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjFfNTQg/MDAxNzg0NjA1OTgyMDMw.lZBsUAoS8BHcq92aFpOPHRZaAX51oRxyu8ihNtxlln0g.fNmvxaVLMg_O_uCUa1b6keaBrL_pgnffJg117ayuiY4g.JPEG/%EC%9A%A9%ED%98%B8%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%B0%B0%EB%84%88.jpg",
   "source": "naver-lounge",
   "loungeId": "DragonNTiger",
-  "sourceUrl": "https://game.naver.com/lounge/DragonNTiger/board/detail/8272792",
+  "sourceUrl": "https://game.naver.com/lounge/DragonNTiger/board/detail/8299614",
   "howTo": "",
-  "postCount": 5,
-  "updatedAt": "2026-10-07T14:10:48.624Z",
+  "postCount": 6,
+  "updatedAt": "2026-10-07T20:12:20.972Z",
   "codes": [
+    {
+      "code": "109Hangul",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "GAECHUN103",
       "reward": "",
       "expiry": "2026-10-05",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-09-27",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-08-21",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": "2026-08-01",
       "postedAt": "2026-07-25",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-07-22",
       "postedAt": "2026-07-15",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     }
   ]

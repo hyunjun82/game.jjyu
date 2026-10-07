@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-10-07T14:21:37.191Z",
-  "today": "2026-10-07",
-  "todayNew": 26,
+  "generatedAt": "2026-10-07T20:22:45.076Z",
+  "today": "2026-10-08",
+  "todayNew": 7,
   "totals": {
     "games": 299,
-    "codes": 4080,
-    "active": 694,
-    "expired": 3386,
-    "withExpiry": 2368
+    "codes": 4087,
+    "active": 665,
+    "expired": 3422,
+    "withExpiry": 2375
   },
   "newByDate": [
-    {
-      "date": "2026-09-24",
-      "count": 51
-    },
     {
       "date": "2026-09-25",
       "count": 290
@@ -65,308 +61,312 @@
     {
       "date": "2026-10-07",
       "count": 26
+    },
+    {
+      "date": "2026-10-08",
+      "count": 7
     }
   ],
   "expiringSoon": [
     {
-      "slug": "arknights-endfield",
-      "code": "AKENDFIELDSUB",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "ehrpis",
-      "code": "101ENVOY",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "ete-chronicle",
-      "code": "ETEQZJ2026",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "fortess-samguk-defense",
-      "code": "One1FsD1",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "fortess-samguk-defense",
-      "code": "pLayFsd1",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "SUMM527",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "into-the-dungeon-reborn",
-      "code": "3CYJ7KE7PPU",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "maple-idle",
-      "code": "50CUBECOUPON",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "max-level-idle",
-      "code": "P6T3ZK",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "mush-warrior",
-      "code": "MoonGift",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "raising-souls",
-      "code": "YOUNG-WIND",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "samgukji-origin2",
-      "code": "7006-c55de1dd3-1",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "tales-of-angels",
-      "code": "H7Q3VM",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
-      "slug": "the-warrior-returns-afk",
-      "code": "WR108UPDATE",
-      "expiry": "2026-10-07",
-      "days": 0
-    },
-    {
       "slug": "dicerco",
       "code": "hioctober26",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-berserker",
       "code": "UPDATE261001",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "GOLD923",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "nostalgic-corner-store",
       "code": "1HappyANNIV",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG-DAWN",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "samguk-origin",
       "code": "1621-c2444e6e6-1",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "samgukji-lords-war",
       "code": "1621-c2444e6e6-1",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "samgukji-origin2",
       "code": "7003-10e4c6d8c-1",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "samgukji2022",
       "code": "JMF9IKJJ",
       "expiry": "2026-10-08",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "heros-land-m",
       "code": "C6xWqqYy",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "KQPT583",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "MINE824",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "nostalgic-corner-store",
       "code": "GIFT9U7kwW",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "nuksam",
       "code": "MYBQQJ",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG-NOVA",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "tales-of-angels",
       "code": "CHUSEOK2026",
       "expiry": "2026-10-09",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0925BE86",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0923BJUW",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "eternal-evolution",
       "code": "EE0921V465",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "q3n7a2r9k8m5",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "n6q2m9k4a7r3",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "k5p1r8a2n6q7",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "p2k8n5r7q1a6",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "r8a4k6p5q3m1",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "a7m4q9r3k6n2",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "heartopia",
       "code": "m9a3q7k2r5n4",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "idle-berserker",
       "code": "OCTOCT5726",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "nostalgic-corner-store",
       "code": "HAPPY1anniv",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "primal-sin-divine-judgment",
       "code": "GCJ1003",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "soul-ferryman",
       "code": "GCJ1003",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "top-heroes",
       "code": "GB0408AB9F",
       "expiry": "2026-10-10",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "beast-lord-the-new-land",
       "code": "BLGX90PL7",
       "expiry": "2026-10-11",
-      "days": 4
+      "days": 3
+    },
+    {
+      "slug": "dragon-n-tiger",
+      "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "dragonblade-grow",
+      "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 3
     },
     {
       "slug": "ghostvengers",
       "code": "FJZDHJXN",
       "expiry": "2026-10-11",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "WLSD742",
       "expiry": "2026-10-11",
-      "days": 4
+      "days": 3
+    },
+    {
+      "slug": "idle-king",
+      "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 3
     },
     {
       "slug": "kurobas-sr",
       "code": "1005AOWNZNVHS",
       "expiry": "2026-10-11",
-      "days": 4
+      "days": 3
+    },
+    {
+      "slug": "martial-arts",
+      "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 3
     },
     {
       "slug": "merge-seasons",
       "code": "timetreasure",
       "expiry": "2026-10-11",
-      "days": 4
+      "days": 3
+    },
+    {
+      "slug": "monster-taming-stardive",
+      "code": "MONGILPRESENT",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "monster-taming-stardive",
+      "code": "MONGILDISCORD",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "monster-taming-stardive",
+      "code": "LOVEMONGIL",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "nostalgic-corner-store",
+      "code": "HappyANNIV1",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "officequeen",
+      "code": "uxbayqofdm",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "palace-brilliant-dream",
+      "code": "r8o6yqxpyf",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "potatozombie",
+      "code": "HZXFNPCN7ZS5CS",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "redmythnezha",
+      "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "soul-strike",
+      "code": "SS10GC1K",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "star-of-the-overlord",
+      "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 3
     }
   ],
   "topGames": [
@@ -396,11 +396,6 @@
       "total": 47
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 16,
-      "total": 35
-    },
-    {
       "slug": "rogw-remains-of-gods",
       "active": 16,
       "total": 16
@@ -411,8 +406,13 @@
       "total": 69
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 15,
+      "total": 35
+    },
+    {
       "slug": "max-level-idle",
-      "active": 14,
+      "active": 13,
       "total": 65
     },
     {
@@ -451,16 +451,6 @@
       "total": 11
     },
     {
-      "slug": "bleach-soul-resonance",
-      "active": 9,
-      "total": 14
-    },
-    {
-      "slug": "dokkaebi-girl",
-      "active": 9,
-      "total": 9
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
       "active": 9,
       "total": 35
@@ -469,6 +459,16 @@
       "slug": "reverse-1999",
       "active": 9,
       "total": 9
+    },
+    {
+      "slug": "bleach-soul-resonance",
+      "active": 8,
+      "total": 14
+    },
+    {
+      "slug": "busy-savior",
+      "active": 8,
+      "total": 30
     }
   ],
   "noImage": 50

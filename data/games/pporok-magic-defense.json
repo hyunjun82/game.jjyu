@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T14:15:58.603Z",
+  "updatedAt": "2026-10-07T20:17:40.252Z",
   "codes": [
     {
       "code": "MAGIC7391",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224421447828",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224418541164",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224418541164",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     }
   ]

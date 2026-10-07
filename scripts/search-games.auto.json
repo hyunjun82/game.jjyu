@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-07T14:08:49.399Z",
+  "generatedAt": "2026-10-07T20:10:20.648Z",
   "games": [
     {
       "slug": "f4-u",
@@ -15,22 +15,16 @@
       "titleEn": "Kaind Idle"
     },
     {
-      "slug": "romantic-gangho",
-      "loungeId": "RomanticGangho",
-      "titleKo": "낭만강호",
-      "titleEn": "Romantic Gangho"
-    },
-    {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
-    },
-    {
       "slug": "arknights-endfield-kr",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights_Endfield"
+    },
+    {
+      "slug": "romantic-gangho",
+      "loungeId": "RomanticGangho",
+      "titleKo": "낭만강호",
+      "titleEn": "Romantic Gangho"
     },
     {
       "slug": "heartopia",
@@ -39,28 +33,22 @@
       "titleEn": "Heartopia"
     },
     {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
-    },
-    {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "solo-exorcist",
       "loungeId": "solo_exorcist",
       "titleKo": "나만 SSS급 퇴마사",
       "titleEn": "Solo Exorcist"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
     },
     {
       "slug": "toysamguk",
@@ -75,10 +63,22 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "tukiers-god-tier-life-idle-tycoon",
+      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
+      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
+      "titleEn": "Tukiers God Tier Life Idle Tycoon"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
+    },
+    {
+      "slug": "torchlight-infinite",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
@@ -105,6 +105,12 @@
       "titleEn": "Dragonblade Grow"
     },
     {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
       "titleKo": "드림 가든: 추억의 힐링 경영",
@@ -129,130 +135,16 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "monstage",
-      "loungeId": "Monstage",
-      "titleKo": "몬스테이지",
-      "titleEn": "Monstage"
-    },
-    {
-      "slug": "monster-never-cry",
-      "loungeId": "Monster_Never_Cry",
-      "titleKo": "마왕만만세",
-      "titleEn": "Monster Never Cry"
-    },
-    {
-      "slug": "monsterhunteroutlanders",
-      "loungeId": "monsterhunteroutlanders",
-      "titleKo": "몬스터헌터 아웃랜더스",
-      "titleEn": "Monsterhunteroutlanders"
-    },
-    {
-      "slug": "fellow-moon",
-      "loungeId": "FellowMoon",
-      "titleKo": "신월동행",
-      "titleEn": "Fellow Moon"
-    },
-    {
-      "slug": "moris-nightmare-hide-and-seek-multi",
-      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
-      "titleKo": "공포의 술래잡기",
-      "titleEn": "Moris Nightmare Hide And Seek Multi"
-    },
-    {
-      "slug": "mushroom-hero",
-      "loungeId": "mushroom_hero",
-      "titleKo": "버섯 키우기: 머쉬룸 히어로",
-      "titleEn": "Mushroom Hero"
-    },
-    {
-      "slug": "my-little-paradise",
-      "loungeId": "MY_LITTLE_PARADISE",
-      "titleKo": "마이 리틀 파라다이스",
-      "titleEn": "My Little Paradise"
-    },
-    {
-      "slug": "mzsamguk",
-      "loungeId": "MZSAMGUK",
-      "titleKo": "MZ삼국지",
-      "titleEn": "Mzsamguk"
-    },
-    {
-      "slug": "nam-tat-defense",
-      "loungeId": "nam_tat_defense",
-      "titleKo": "남탓 디펜스",
-      "titleEn": "Nam Tat Defense"
-    },
-    {
-      "slug": "neural-cloud",
-      "loungeId": "Neural_Cloud",
-      "titleKo": "뉴럴 클라우드",
-      "titleEn": "Neural Cloud"
-    },
-    {
-      "slug": "the-tale-of-five-kingdoms2",
-      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
-      "titleKo": "다섯 왕국 이야기2",
-      "titleEn": "The Tale Of Five Kingdoms2"
-    },
-    {
-      "slug": "ninety-thousand-acres",
-      "loungeId": "NINETY_THOUSAND_ACRES",
-      "titleKo": "9만 에이커",
-      "titleEn": "Ninety Thousand Acres"
-    },
-    {
-      "slug": "opmkr",
-      "loungeId": "opmkr",
-      "titleKo": "원펀맨:영웅의 길",
-      "titleEn": "Opmkr"
-    },
-    {
-      "slug": "ordinaryday",
-      "loungeId": "ordinaryday",
-      "titleKo": "평범한날 : 청하구 편",
-      "titleEn": "Ordinaryday"
-    },
-    {
-      "slug": "immortal-soul",
-      "loungeId": "Immortal_Soul",
-      "titleKo": "이모탈 소울",
-      "titleEn": "Immortal Soul"
-    },
-    {
-      "slug": "passion-rpg",
-      "loungeId": "PassionRPG",
-      "titleKo": "열정RPG",
-      "titleEn": "Passion Rpg"
-    },
-    {
-      "slug": "path-of-rising",
-      "loungeId": "Path_Of_Rising",
-      "titleKo": "패스 오브 라이징",
-      "titleEn": "Path Of Rising"
-    },
-    {
-      "slug": "pirate",
-      "loungeId": "pirate",
-      "titleKo": "우당탕탕 해적단",
-      "titleEn": "Pirate"
-    },
-    {
-      "slug": "pk-world",
-      "loungeId": "PkWorld",
-      "titleKo": "PK월드",
-      "titleEn": "Pk World"
-    },
-    {
-      "slug": "play-together",
-      "loungeId": "Play_Together",
-      "titleKo": "플레이투게더",
-      "titleEn": "Play Together"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "pocket-knight",
+      "loungeId": "Pocket_Knight",
+      "titleKo": "로얄 나이트 키우기",
+      "titleEn": "Pocket Knight"
     },
     {
       "slug": "redmythnezha",
@@ -285,16 +177,106 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
+      "slug": "survivor-warriors",
+      "loungeId": "Survivor_Warriors",
+      "titleKo": "서바이버 워리어즈",
+      "titleEn": "Survivor Warriors"
+    },
+    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
+      "slug": "swordgirl-hero",
+      "loungeId": "swordgirl_hero",
+      "titleKo": "칼잽이소녀",
+      "titleEn": "Swordgirl Hero"
+    },
+    {
+      "slug": "syungsyung",
+      "loungeId": "syungsyung",
+      "titleKo": "슝슝 수련기",
+      "titleEn": "Syungsyung"
+    },
+    {
+      "slug": "tamer",
+      "loungeId": "Tamer",
+      "titleKo": "테이머 키우기 : 드래곤 소녀 RPG",
+      "titleEn": "Tamer"
+    },
+    {
+      "slug": "taptap-hero",
+      "loungeId": "Taptap_Hero",
+      "titleKo": "탑탑 히어로",
+      "titleEn": "Taptap Hero"
+    },
+    {
+      "slug": "the-ace-banker",
+      "loungeId": "The_Ace_Banker",
+      "titleKo": "사장님의 이중생활",
+      "titleEn": "The Ace Banker"
+    },
+    {
+      "slug": "the-contract-of-blood",
+      "loungeId": "The_contract_of_Blood",
+      "titleKo": "피의 계약: 언데드",
+      "titleEn": "The Contract Of Blood"
+    },
+    {
+      "slug": "the-first-hunter-vanguard",
+      "loungeId": "The_First_Hunter_Vanguard",
+      "titleKo": "최초의 헌터: 뱅가드",
+      "titleEn": "The First Hunter Vanguard"
+    },
+    {
+      "slug": "the-last-chronicle",
+      "loungeId": "The_Last_Chronicle",
+      "titleKo": "마지막 연대기",
+      "titleEn": "The Last Chronicle"
+    },
+    {
+      "slug": "the-legend-of-neverland",
+      "loungeId": "The_Legend_of_Neverland",
+      "titleKo": "레오네S: 레전드 오브 네버랜드",
+      "titleEn": "The Legend Of Neverland"
+    },
+    {
+      "slug": "the-pixel-ark",
+      "loungeId": "THE_PIXEL_ARK",
+      "titleKo": "픽셀방주",
+      "titleEn": "The Pixel Ark"
+    },
+    {
+      "slug": "three-kingdoms-card-clash",
+      "loungeId": "Three_Kingdoms_Card_Clash",
+      "titleKo": "삼국 칸따먹기",
+      "titleEn": "Three Kingdoms Card Clash"
+    },
+    {
+      "slug": "three-kingdoms-rise-of-warlords",
+      "loungeId": "Three_kingdoms_Rise_of_Warlords",
+      "titleKo": "삼국지: 군웅할거",
+      "titleEn": "Three Kingdoms Rise Of Warlords"
+    },
+    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "godsamgook",
+      "loungeId": "godsamgook",
+      "titleKo": "갓삼국",
+      "titleEn": "Godsamgook"
+    },
+    {
+      "slug": "w-cross-world",
+      "loungeId": "W_CROSS_WORLD",
+      "titleKo": "더블유: 크로스월드",
+      "titleEn": "W Cross World"
     }
   ]
 }

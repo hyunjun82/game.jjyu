@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T14:15:44.091Z",
+  "updatedAt": "2026-10-07T20:17:26.087Z",
   "codes": [
-    {
-      "code": "50CUBECOUPON",
-      "reward": "",
-      "expiry": "2026-10-07",
-      "postedAt": "2026-09-22",
-      "sourceUrl": "https://blog.naver.com/2k1y4/224419488941",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
-      "status": "active"
-    },
     {
       "code": "PINKBEANATTACK",
       "reward": "",
@@ -24,7 +14,17 @@
       "postedAt": "2026-09-13",
       "sourceUrl": "https://blog.naver.com/12512512/224410372601",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "status": "expired"
+    },
+    {
+      "code": "50CUBECOUPON",
+      "reward": "",
+      "expiry": "2026-10-07",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/2k1y4/224419488941",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {

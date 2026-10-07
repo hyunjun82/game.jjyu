@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T14:15:22.371Z",
+  "updatedAt": "2026-10-07T20:17:03.441Z",
   "codes": [
     {
       "code": "0910ECLIPSE",
       "reward": "",
       "expiry": "2026-11-10",
       "postedAt": "2026-09-10",
-      "sourceUrl": "https://blog.naver.com/atothez1992/224407191885",
+      "sourceUrl": "https://blog.naver.com/yolofnc/224407016557",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224419769682",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224419769682",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     }
   ]
