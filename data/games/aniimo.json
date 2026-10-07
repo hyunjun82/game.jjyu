@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T20:16:49.959Z",
+  "updatedAt": "2026-10-07T23:06:18.055Z",
   "codes": [
+    {
+      "code": "stardust789",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-02",
+      "sourceUrl": "https://blog.naver.com/thtate/224429765916",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "aniimolaunch2026",
       "reward": "",
@@ -21,8 +31,8 @@
       "code": "Aniimo2026",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-03",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224429953956",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/webdeveloping/224421411593",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-08",
       "status": "active"

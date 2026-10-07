@@ -56,6 +56,18 @@
       "titleKo": "메이플플래닛 주말 핫타임",
       "titleEn": "meipeulpeulraenit-jumal-hattaim",
       "found": "2026-10-07"
+    },
+    {
+      "slug": "chunokiugi-geim",
+      "titleKo": "추노키우기 게임",
+      "titleEn": "chunokiugi-geim",
+      "found": "2026-10-08"
+    },
+    {
+      "slug": "rinijim-sinseobeo-jeonyong",
+      "titleKo": "리니지m 신서버 전용",
+      "titleEn": "rinijim-sinseobeo-jeonyong",
+      "found": "2026-10-08"
     }
   ]
 }

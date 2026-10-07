@@ -1,0 +1,31 @@
+{
+  "slug": "rinijim-sinseobeo-jeonyong",
+  "titleEn": "rinijim-sinseobeo-jeonyong",
+  "titleKo": "리니지m 신서버 전용",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-07T23:12:15.829Z",
+  "codes": [
+    {
+      "code": "GIRANNEWSTARTING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "sourceUrl": "https://blog.naver.com/zkaktpdl/224406629477",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "expired"
+    },
+    {
+      "code": "0909GIRANOPENDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-10",
+      "sourceUrl": "https://blog.naver.com/zkaktpdl/224406629477",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "expired"
+    }
+  ]
+}
