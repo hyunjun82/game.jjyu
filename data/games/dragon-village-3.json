@@ -2,14 +2,32 @@
   "slug": "dragon-village-3",
   "titleEn": "Dragon Village 3",
   "titleKo": "드래곤빌리지3",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfMTUw/MDAxNzg5NzE3ODU0OTUz.mnlQedFAvbtthqf5LCnDpgifs661A2xFUXsZ-BWu_REg.K-oDVb5OjheYO2KPEcpvmWV1I6OtnagzBiIqlT66gm8g.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_100x100_(1).jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDdfODAg/MDAxNzkxMzcxMTcxNTQx.R0tGo46P7cfJknRgJHxS8EMG2DK8v6Bzh-85i0jAvjQg.OUiuUGOwF3FPF_ZV2JAFnpJ8-AlT1sG7Nd5ZxtUHxu0g.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_700x154.jpg",
   "source": "naver-lounge",
   "loungeId": "Dragon_Village3",
-  "sourceUrl": "https://game.naver.com/lounge/Dragon_Village3/board/detail/8207759",
-  "howTo": ": 게임 내 [설정] > [쿠폰/코드] 입력 > 우편함 수령 ● 쿠폰 사용 기한: 26.09.30(수) 09:00 (KST) 소중한 의견으로 힘을 실어주신 모든 테이머 여러분께 다시 한번 깊은 감사의 말씀을 드립니다.",
-  "postCount": 2,
-  "updatedAt": "2026-10-07T06:44:54.235Z",
+  "sourceUrl": "https://game.naver.com/lounge/Dragon_Village3/board/detail/8298819",
+  "howTo": "쿠폰 사용 기한: 26.10.21(수) 23:59:59 (KST) 든든하게 모험을 지원해줄 특별 추가 쿠폰 쿠폰 코드: TOGETHER 보상:",
+  "postCount": 3,
+  "updatedAt": "2026-10-07T13:35:28.531Z",
   "codes": [
+    {
+      "code": "WEHEARDU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-07",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "code": "TOGETHER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-07",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "status": "active"
+    },
     {
       "code": "LUNANOTE",
       "reward": "",

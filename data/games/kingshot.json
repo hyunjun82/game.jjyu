@@ -5,14 +5,34 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-06T21:24:33.282Z",
+  "updatedAt": "2026-10-07T13:33:10.828Z",
   "codes": [
+    {
+      "code": "KS1005",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-07",
+      "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434360006",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "code": "WELLDONE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-07",
+      "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434360006",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "status": "active"
+    },
     {
       "code": "Kingshot888",
       "reward": "",
       "expiry": "2026-09-26",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/liilllilililiii/224431209309",
+      "postedAt": "2026-10-07",
+      "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434360006",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-07",
       "status": "expired"

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T06:57:48.333Z",
+  "generatedAt": "2026-10-07T13:36:53.053Z",
   "today": "2026-10-07",
-  "todayNew": 19,
+  "todayNew": 26,
   "totals": {
     "games": 299,
-    "codes": 4073,
-    "active": 687,
+    "codes": 4080,
+    "active": 694,
     "expired": 3386,
-    "withExpiry": 2364
+    "withExpiry": 2368
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-07",
-      "count": 19
+      "count": 26
     }
   ],
   "expiringSoon": [
@@ -386,6 +386,11 @@
       "total": 19
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 16,
+      "total": 28
+    },
+    {
       "slug": "idle-berserker",
       "active": 16,
       "total": 47
@@ -404,11 +409,6 @@
       "slug": "dragon-traveler",
       "active": 15,
       "total": 69
-    },
-    {
-      "slug": "honkai-star-rail",
-      "active": 15,
-      "total": 27
     },
     {
       "slug": "max-level-idle",
