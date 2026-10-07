@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA3MjhfMTIg/MDAxNzUzNjcxNDg5OTQx.QL0SKXAy2WEs4gN5FgPxuQl2TJGYyB03LqcmbBqKIBkg.BcwzntPE-XxzFYEKA5Jh5euxZfUOEnokA7KKVrUy01Yg.PNG/title_notice.png",
   "source": "naver-lounge",
   "loungeId": "F_Class_Hero",
-  "sourceUrl": "https://game.naver.com/lounge/F_Class_Hero/board/detail/8265149",
-  "howTo": "1. 게임 내 우측 상단의 메뉴 버튼 터치 > 설정 > 계정 메뉴로 이동 2. 쿠폰 입력 란에 아래의 쿠폰명 입력 (쌍따옴표 안의 텍스트를 쓰시면 됩니다!) 쿠폰명 \" GiftSep9End",
-  "postCount": 180,
-  "updatedAt": "2026-10-07T00:57:59.595Z",
+  "sourceUrl": "https://game.naver.com/lounge/F_Class_Hero/board/detail/8296657",
+  "howTo": "1. 게임 내 우측 상단의 메뉴 버튼 터치 > 설정 > 계정 메뉴로 이동 2. 쿠폰 입력 란에 아래의 쿠폰명 입력 (쌍따옴표 안의 텍스트를 쓰시면 됩니다!) 쿠폰명 \" 10OctHallo",
+  "postCount": 181,
+  "updatedAt": "2026-10-07T06:18:47.543Z",
   "codes": [
+    {
+      "code": "10OctHallo",
+      "reward": "",
+      "expiry": "2026-10-21",
+      "postedAt": "2026-10-07",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07",
+      "status": "active"
+    },
     {
       "code": "GiftSep9End",
       "reward": "",

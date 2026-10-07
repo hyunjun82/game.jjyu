@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T01:10:47.867Z",
+  "generatedAt": "2026-10-07T06:20:56.774Z",
   "today": "2026-10-07",
-  "todayNew": 11,
+  "todayNew": 19,
   "totals": {
-    "games": 298,
-    "codes": 4065,
-    "active": 679,
+    "games": 299,
+    "codes": 4073,
+    "active": 687,
     "expired": 3386,
-    "withExpiry": 2358
+    "withExpiry": 2364
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-07",
-      "count": 11
+      "count": 19
     }
   ],
   "expiringSoon": [
@@ -113,6 +113,12 @@
     {
       "slug": "maple-idle",
       "code": "50CUBECOUPON",
+      "expiry": "2026-10-07",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "P6T3ZK",
       "expiry": "2026-10-07",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "timetreasure",
       "expiry": "2026-10-11",
       "days": 4
-    },
-    {
-      "slug": "monster-taming-stardive",
-      "code": "MONGILPRESENT",
-      "expiry": "2026-10-11",
-      "days": 4
     }
   ],
   "topGames": [
@@ -391,6 +391,11 @@
       "total": 47
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 35
+    },
+    {
       "slug": "rogw-remains-of-gods",
       "active": 16,
       "total": 16
@@ -406,14 +411,9 @@
       "total": 27
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 34
-    },
-    {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 64
+      "active": 14,
+      "total": 65
     },
     {
       "slug": "along-with-the-ghost",
@@ -451,6 +451,11 @@
       "total": 11
     },
     {
+      "slug": "bleach-soul-resonance",
+      "active": 9,
+      "total": 14
+    },
+    {
       "slug": "dokkaebi-girl",
       "active": 9,
       "total": 9
@@ -464,11 +469,6 @@
       "slug": "reverse-1999",
       "active": 9,
       "total": 9
-    },
-    {
-      "slug": "bleach-soul-resonance",
-      "active": 8,
-      "total": 13
     }
   ],
   "noImage": 50
