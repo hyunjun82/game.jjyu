@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T21:24:53.556Z",
+  "generatedAt": "2026-10-07T01:10:47.867Z",
   "today": "2026-10-07",
-  "todayNew": 9,
+  "todayNew": 11,
   "totals": {
     "games": 298,
-    "codes": 4063,
-    "active": 677,
+    "codes": 4065,
+    "active": 679,
     "expired": 3386,
-    "withExpiry": 2356
+    "withExpiry": 2358
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-07",
-      "count": 9
+      "count": 11
     }
   ],
   "expiringSoon": [
@@ -231,6 +231,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-NOVA",
+      "expiry": "2026-10-09",
+      "days": 2
+    },
+    {
       "slug": "tales-of-angels",
       "code": "CHUSEOK2026",
       "expiry": "2026-10-09",
@@ -359,12 +365,6 @@
     {
       "slug": "monster-taming-stardive",
       "code": "MONGILPRESENT",
-      "expiry": "2026-10-11",
-      "days": 4
-    },
-    {
-      "slug": "monster-taming-stardive",
-      "code": "MONGILDISCORD",
       "expiry": "2026-10-11",
       "days": 4
     }

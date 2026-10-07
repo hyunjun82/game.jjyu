@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-06T21:10:42.894Z",
+  "generatedAt": "2026-10-07T00:56:22.814Z",
   "games": [
     {
       "slug": "kaind-idle",
@@ -69,16 +69,10 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
+      "slug": "pixel-heroic-legend",
+      "loungeId": "Pixel_Heroic_Legend",
+      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
+      "titleEn": "Pixel Heroic Legend"
     },
     {
       "slug": "pokemon-go",
@@ -97,72 +91,6 @@
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
-    },
-    {
-      "slug": "billionaire",
-      "loungeId": "Billionaire",
-      "titleKo": "억만장자",
-      "titleEn": "Billionaire"
-    },
-    {
-      "slug": "black-shadow-idle-rpg",
-      "loungeId": "Black_Shadow_Idle_RPG",
-      "titleKo": "블랙 쉐도우 키우기",
-      "titleEn": "Black Shadow Idle Rpg"
-    },
-    {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
-    },
-    {
-      "slug": "blood-soul",
-      "loungeId": "BloodSoul",
-      "titleKo": "ASURA: 블러드 앤 소울",
-      "titleEn": "Blood Soul"
-    },
-    {
-      "slug": "blood-witch",
-      "loungeId": "Blood_Witch",
-      "titleKo": "블러드 위치",
-      "titleEn": "Blood Witch"
-    },
-    {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
-    },
-    {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "capybara-go",
-      "loungeId": "Capybara_Go",
-      "titleKo": "카피바라 Go!",
-      "titleEn": "Capybara Go"
     },
     {
       "slug": "dokkaebi-girl",
@@ -189,58 +117,88 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
     },
     {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
+      "slug": "adventureofheroes",
+      "loungeId": "adventureofheroes",
+      "titleKo": "히어로 모험단",
+      "titleEn": "Adventureofheroes"
     },
     {
-      "slug": "grim-soul",
-      "loungeId": "Grim_Soul",
-      "titleKo": "그림소울",
-      "titleEn": "Grim Soul"
+      "slug": "hidden-heroes-fortune-dungeon",
+      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
+      "titleKo": "미확인용사단 : 운빨방치RPG",
+      "titleEn": "Hidden Heroes Fortune Dungeon"
     },
     {
-      "slug": "gumihomobile",
-      "loungeId": "gumihomobile",
-      "titleKo": "요신:구미호뎐",
-      "titleEn": "Gumihomobile"
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
     },
     {
-      "slug": "hell-gate",
-      "loungeId": "HELL_GATE",
-      "titleKo": "헬게이트",
-      "titleEn": "Hell Gate"
+      "slug": "hiki",
+      "loungeId": "hiki",
+      "titleKo": "히어로즈 키우기",
+      "titleEn": "Hiki"
     },
     {
-      "slug": "helmet-corps",
-      "loungeId": "HelmetCorps",
-      "titleKo": "냄비뚜껑 용병단",
-      "titleEn": "Helmet Corps"
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
     },
     {
-      "slug": "heroes-tales2",
-      "loungeId": "Heroes_tales2",
-      "titleKo": "히어로즈 테일즈2",
-      "titleEn": "Heroes Tales2"
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
     },
     {
-      "slug": "hero-raid",
-      "loungeId": "HeroRaid",
-      "titleKo": "용사 키우기",
-      "titleEn": "Hero Raid"
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
+    },
+    {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
+    },
+    {
+      "slug": "k-zombie-saga-idle-game",
+      "loungeId": "K_Zombie_Saga_Idle_Game",
+      "titleKo": "조선 좀비전",
+      "titleEn": "K Zombie Saga Idle Game"
+    },
+    {
+      "slug": "kingdom-rise-of-zombies",
+      "loungeId": "KINGDOM_RISE_OF_ZOMBIES",
+      "titleKo": "조선 이변",
+      "titleEn": "Kingdom Rise Of Zombies"
     },
     {
       "slug": "kungfuchaos",
