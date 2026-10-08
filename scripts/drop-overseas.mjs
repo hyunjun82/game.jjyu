@@ -9,6 +9,11 @@ import path from 'node:path';
 process.chdir(path.resolve(import.meta.dirname, '..'));
 const { loadLounges } = await import('./collect-naver.mjs');
 const korean = new Set(loadLounges().map((g) => g.slug));
+// 블로그 검색 게임 목록(손으로 넣은 것 · 회원 전용 라운지 자동 · discover-search 발견)
+const searchSlugs = new Set();
+for (const f of ['search-games.json', 'search-games.auto.json', 'search-games.found.json']) {
+  try { for (const g of JSON.parse(fs.readFileSync(`scripts/${f}`, 'utf8')).games || []) searchSlugs.add(g.slug); } catch (e) { /* 없음 */ }
+}
 let del = 0, img = 0, stripped = 0, keptShared = 0;
 for (const f of fs.readdirSync('data/games')) {
   const file = `data/games/${f}`;
@@ -24,6 +29,12 @@ for (const f of fs.readdirSync('data/games')) {
   }
   // 라운지 목록에서 빠진 네이버 라운지 게임(2026-10-03: 1~2년 전에 쿠폰이 끊긴 363개를 목록에서 뺐다)은 페이지도 내린다.
   // 다시 쿠폰을 내면 discover-naver 가 목록에 넣고 collect-naver 가 페이지를 새로 만든다.
+  // 블로그 검색 목록에서 빠진 게임(이름을 고쳐 주소가 바뀐 것 · 해외 게임 · 지금 쿠폰 없는 것)도 내린다(2026-10-08).
+  if (g.source === 'naver-search' && !searchSlugs.has(slug) && !korean.has(slug)) {
+    fs.unlinkSync(file); del++;
+    for (const ext of ['webp', 'png', 'jpg']) { const p = `public/g/${slug}.${ext}`; if (fs.existsSync(p)) { fs.unlinkSync(p); img++; } }
+    continue;
+  }
   if (g.source === 'naver-lounge' && !korean.has(slug)) {
     fs.unlinkSync(file); del++;
     for (const ext of ['webp', 'png', 'jpg']) { const p = `public/g/${slug}.${ext}`; if (fs.existsSync(p)) { fs.unlinkSync(p); img++; } }

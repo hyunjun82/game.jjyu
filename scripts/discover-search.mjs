@@ -30,6 +30,7 @@ const QUERIES = ['게임 쿠폰 코드', '쿠폰 코드 모음', '쿠폰코드 �
   '사전예약 쿠폰 코드', '쿠폰번호 게임', '모바일 게임 쿠폰', '신규 게임 쿠폰 코드', '쿠폰 코드 리세', '쿠폰 코드 신서버',
   '쿠폰 코드 등록 방법', '수집형 RPG 쿠폰 코드', '전략 게임 쿠폰 코드', '퍼즐 게임 쿠폰 코드'];
 const NOT_GAME = /이심|esim|e심|VPN|호텔|우버|클룩|아고다|트립|항공|쿠팡|알리|테무|배민|요기요|올리브영|무신사|페이|넷플릭스|디즈니|티빙|택시|렌터카|여행|숙소|에어비앤비|부킹|익스피디아|할인|프로모션|면세|스타벅스|편의점|치킨|피자|마트|통신|요금|보험|카드|증권|대출|쏘카|버거|커피|뷰티|화장품|인강|강의|Saily|로밍|와이파이|그랩|야놀자|여기어때|11번가|이마트|컬리|당근|추천인|초대코드|레퍼럴|가입|오늘의집|쉬인|CU|GS25|토스/i;
+const NOT_KOREAN = /^(?:로블록스|roblox|포트나이트|마인크래프트|minecraft|브롤스타즈|클래시)/i;
 const NAME_JUNK = /^(?:게임|신작|추석|추석맞이|한가위|인기|무료|최신|모바일|신섭|이벤트|RE)\b|티어|후기|공략|리뷰|추천|방송|업데이트|미리보기|사전예약 시작|어떤 게임|순위|보내세요|한가위|이벤트|특전|입장/;
 
 const todayISO = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul' }).format(new Date());
@@ -71,7 +72,9 @@ function nameFromTitle(t) {
     .replace(/(?:\d{1,2}월|20\d{2}년?|최신|신작|무료)\s*/g, '').replace(/[\s,·|:\-~!]+$/, '').trim();
   // "모바일 방치형RPG 로그W", "MMORPG 게임 어나더던전" — 장르 말머리를 뗀다
   for (let k = 0; k < 4; k++) n = n.replace(/^(?:모바일\s*게임|모바일|방치형\s*RPG|방치형|수집형\s*RPG|MMORPG|RPG|SRPG|디펜스\s*게임|전략\s*게임|게임\s*추천|신규\s*게임|게임)\s+/i, '').trim();
-  if (n.replace(/\s/g, '').length < 2 || n.length > 22 || NAME_JUNK.test(n)) return null;
+  // "아처캐슬 키우기 방치형 RPG 게임", "메이플플래닛 주말 핫타임", "리니지m 신서버 전용" — 꼬리 말을 뗀다
+  for (let k = 0; k < 4; k++) n = n.replace(/\s+(?:게임|방치형\s*RPG|방치형|RPG|모바일|신서버(?:\s*전용)?|전용|주말|핫타임|주말\s*핫타임|신규|오픈|기념|사전등록|사전예약)$/i, '').trim();
+  if (n.replace(/\s/g, '').length < 2 || n.length > 22 || NAME_JUNK.test(n) || NOT_KOREAN.test(n)) return null;
   return n;
 }
 

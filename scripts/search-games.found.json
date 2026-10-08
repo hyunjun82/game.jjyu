@@ -33,9 +33,9 @@
       "found": "2026-10-06"
     },
     {
-      "slug": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
-      "titleKo": "아처캐슬 키우기 방치형 RPG 게임",
-      "titleEn": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
+      "slug": "archer-castle-idle",
+      "titleKo": "아처캐슬 키우기",
+      "titleEn": "archer-castle-idle",
       "found": "2026-10-06"
     },
     {
@@ -46,27 +46,15 @@
       "found": "2026-10-06"
     },
     {
-      "slug": "robeulrokseu",
-      "titleKo": "로블록스",
-      "titleEn": "robeulrokseu",
+      "slug": "maple-planet",
+      "titleKo": "메이플플래닛",
+      "titleEn": "maple-planet",
       "found": "2026-10-07"
     },
     {
-      "slug": "meipeulpeulraenit-jumal-hattaim",
-      "titleKo": "메이플플래닛 주말 핫타임",
-      "titleEn": "meipeulpeulraenit-jumal-hattaim",
-      "found": "2026-10-07"
-    },
-    {
-      "slug": "chunokiugi-geim",
-      "titleKo": "추노키우기 게임",
-      "titleEn": "chunokiugi-geim",
-      "found": "2026-10-08"
-    },
-    {
-      "slug": "rinijim-sinseobeo-jeonyong",
-      "titleKo": "리니지m 신서버 전용",
-      "titleEn": "rinijim-sinseobeo-jeonyong",
+      "slug": "chuno-idle",
+      "titleKo": "추노키우기",
+      "titleEn": "chuno-idle",
       "found": "2026-10-08"
     }
   ]
