@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T06:26:27.009Z",
+  "generatedAt": "2026-10-08T06:43:10.887Z",
   "today": "2026-10-08",
-  "todayNew": 37,
+  "todayNew": 34,
   "totals": {
-    "games": 304,
-    "codes": 4128,
-    "active": 705,
-    "expired": 3423,
-    "withExpiry": 2389
+    "games": 297,
+    "codes": 4107,
+    "active": 689,
+    "expired": 3418,
+    "withExpiry": 2388
   },
   "newByDate": [
     {
@@ -60,11 +60,11 @@
     },
     {
       "date": "2026-10-07",
-      "count": 27
+      "count": 22
     },
     {
       "date": "2026-10-08",
-      "count": 37
+      "count": 34
     }
   ],
   "expiringSoon": [
@@ -426,7 +426,7 @@
       "total": 23
     },
     {
-      "slug": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
+      "slug": "archer-castle-idle",
       "active": 10,
       "total": 10
     },
@@ -471,5 +471,5 @@
       "total": 14
     }
   ],
-  "noImage": 55
+  "noImage": 49
 }

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-08T00:26:06.797Z",
+  "generatedAt": "2026-10-08T06:30:15.945Z",
   "games": [
     {
       "slug": "f4-u",
@@ -65,97 +65,31 @@
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "torchlight-infinite",
       "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
+      "titleKo": "Torchlight_Infinite",
       "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "귀신과 함께",
+      "titleKo": "Along_with_the_ghost",
       "titleEn": "Along With The Ghost"
-    },
-    {
-      "slug": "cheon-sam-mu",
-      "loungeId": "CheonSamMu",
-      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
-      "titleEn": "Cheon Sam Mu"
-    },
-    {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
-    },
-    {
-      "slug": "come-on-alien",
-      "loungeId": "Come_on_Alien",
-      "titleKo": "덤벼라 외계인!",
-      "titleEn": "Come On Alien"
-    },
-    {
-      "slug": "crystal-of-atlan",
-      "loungeId": "Crystal_of_Atlan",
-      "titleKo": "CoA: 아틀란의 크리스탈",
-      "titleEn": "Crystal Of Atlan"
-    },
-    {
-      "slug": "darkanddarkermobile",
-      "loungeId": "darkanddarkermobile",
-      "titleKo": "어비스 오브 던전",
-      "titleEn": "Darkanddarkermobile"
-    },
-    {
-      "slug": "dark-clan",
-      "loungeId": "Dark_Clan",
-      "titleKo": "다크 클랜 : 수집 방치형 RPG",
-      "titleEn": "Dark Clan"
-    },
-    {
-      "slug": "dark-slayer-sd",
-      "loungeId": "Dark_Slayer_SD",
-      "titleKo": "다크슬레이어2",
-      "titleEn": "Dark Slayer Sd"
-    },
-    {
-      "slug": "dark-three-kingdoms",
-      "loungeId": "DARK_THREE_KINGDOMS",
-      "titleKo": "다크삼국",
-      "titleEn": "Dark Three Kingdoms"
-    },
-    {
-      "slug": "darkeden-r",
-      "loungeId": "DARKEDEN_R",
-      "titleKo": "다크에덴R",
-      "titleEn": "Darkeden R"
-    },
-    {
-      "slug": "dark-hero-kiugi",
-      "loungeId": "DarkHeroKiugi",
-      "titleKo": "다크 히어로 키우기",
-      "titleEn": "Dark Hero Kiugi"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -173,13 +107,13 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
+      "titleKo": "Eternal_Chronicle",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -191,13 +125,13 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -209,7 +143,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -233,13 +167,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "탕탕특공대",
+      "titleKo": "Survivorio",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "토이 신선",
+      "titleKo": "Toy_Immortals",
       "titleEn": "Toy Immortals"
     }
   ]
