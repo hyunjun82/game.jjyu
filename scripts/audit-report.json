@@ -1,40 +1,25 @@
 {
- "generatedAt": "2026-10-08T13:17:59.065Z",
- "window": "20261006~20261008",
+ "generatedAt": "2026-10-08T23:16:03.639Z",
+ "window": "20261007~20261009",
  "lounges": 2319,
- "posts": 817,
- "couponPosts": 59,
- "fixedTracked": [
-  "포트리스 사가 | OCTGIFTFS26 | [안내] 10월의 특별한 선물 이벤트🎁",
-  "건틀렛: 방치형 액션 RPG | 2026HANGEUL | [쿠폰 안내] 2026 한글날 기념 쿠폰 안내",
-  "심쿵신궁 연대기 | WELCOME1008 | 💝신규 서버 오픈, 18서버 전용 쿠폰",
-  "킹방치: 빵지의 제왕 | MOn105 | [EVENT] [킹방치: 빵스런] X [요새하는겜] 요새 정복하기!",
-  "모에라이: 운명의 계약 | HAPPY2610 | 10월 특별 쿠폰을 지급해 드립니다",
-  "스타 세일러 | HANGUL2026 | 🍂 한글날 기념 GM 쿠폰 선물 안내 🎁",
-  "바르디안 | EVENT1009 | 한글날 기념 쿠폰 선물",
-  "LOSTCITY : ZERO | LOSTCITY444220 | 한글날 기념 쿠폰 이벤트"
- ],
- "addedLounges": [
-  "미소녀 헌터스 키우기 (Idle_Hunter_Girls) → /idle-hunter-girls/ | HUNTERSGIFT"
- ],
+ "posts": 639,
+ "couponPosts": 52,
+ "fixedTracked": [],
+ "addedLounges": [],
  "labelOnly": [
   "이사만루26 | 2026-10-08 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "펭귄 대모험 : 꽁꽁 방어전 | 2026-10-08 | [게임 시간 정답] 20261008",
-  "드래곤빌리지3 | 2026-10-06 | [이벤트] 결실의 나무 인증 이벤트 보상 지급 안내",
-  "드래곤에어 : 침묵의 신 | 2026-10-06 | 【이벤트】🍻 선술집 공고 - 모험 파티의 동료를 모집합니다! 🗡️",
-  "드림 가든: 추억의 힐링 경영 | 2026-10-06 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "꿈의 여행자: 별빛 여정 | 2026-10-07 | 🎵가을바람과 함께 듣고 싶은 나만의 플레이리스트",
+  "요새하는겜 | 2026-10-09 | [EVENT] 멘토❌멘티  복숭아 나무 아래에서 만나다!",
   "귀혼M | 2026-10-07 | [이벤트] 펫투게더 출시 기념 콜라보 이벤트 안내",
   "히어로 랜드M | 2026-10-08 | 【유저 의견 모집】유저의 의견이 보이도록, 여러분의 기대에 부응하겠습니다!",
   "사북: 아이스 킹덤 | 2026-10-08 | <사북: 아이스 킹덤> 전투력 돌파 인증 이벤트",
   "인투더던전:리본 | 2026-10-07 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (10/7 - 10/13)",
-  "여신 키우기: 방치형 RPG | 2026-10-08 | 📢 [안내] 쿠폰 사용 기간 재연장 안내 📢",
   "대항해의길 | 2026-10-08 | [공지] 대항해의길 9주년 사전예약 안내",
   "대항해의길 | 2026-10-08 | [이벤트] 대항해의길 9주년 사전예약 인증 이벤트 안내",
   "퀸즈나이츠 : 압도적 타격감 방치형 RPG | 2026-10-07 | 펫투게더 X 퀸즈나이츠 콜라보 이벤트 안내 (수정)",
   "삼국지 오리진 | 2026-10-07 | 주간 퀴즈 이벤트 363탄",
   "삼국지: 제후의 전쟁 | 2026-10-07 | [제후의 전쟁] 주간 퀴즈 이벤트 5탄",
-  "스카이 어비스: 혈맹의 서약 | 2026-10-06 | [라운지 이벤트]주간 퀴즈 이벤트(10/6-10/12)",
   "슬라임 군단 | 2026-10-08 | [이벤트]한글날 기념 이벤트",
   "용사가 돌아왔다 키우기 | 2026-10-08 | 10월 쿠폰 이벤트 - 1",
   "트리 오브 세이비어: 네버랜드 | 2026-10-08 | 트오세: 네버랜드 2주년 「정원 건축제」가 10월 8일 그랜드 오픈!"
@@ -51,14 +36,14 @@
    ]
   },
   {
-   "game": "여신 키우기: 방치형 RPG",
-   "loungeId": "My_Goddess_Idle_RPG",
-   "feedId": 8301163,
-   "date": "2026-10-08",
-   "title": "📢 [안내] 쿠폰 사용 기간 재연장 안내 📢",
+   "game": "LUNAR：에버소울",
+   "loungeId": "LUNAR_EverSoul",
+   "feedId": 8304838,
+   "date": "2026-10-09",
+   "title": "[🎉역대급 이벤트🎉] 10월9일 웹페이지 20% 쿠폰 & 5% 다이아 페이백",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDhfNjkg/MDAxNzkxNDI4NjIyNDgx.CNfxG2Dom0mV8T0qcLNBAzIdjt9lbN6FTbrt92npOPgg.1AGya3X7g9R9w_4Ot7bUU3F7kMgc6RPq4zMsGJHi6pUg.PNG/%EC%97%AC%EC%8B%A0%ED%82%A4%EC%9A%B0%ED%82%A4_%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%B3%B8%EB%AC%B8%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMDhfMjg1/MDAxNzkxNDI4NjMxMjc3.KctkzkfvuXajHnazkJxkSSlQLjCMI9EdmofGWT0fv5Qg.B55rns_RQzZ3F0Ru6qnkS8HncwPyGeJ-WrVZrAzyfKcg.PNG/%EC%97%AC%EC%8B%A0%ED%82%A4%EC%9A%B0%ED%82%A4_%ED%95%98%EB%8B%A8%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjA5MTRfMjgx/MDAxNzg5MzY4OTI4Nzg1.Zb2ExpSm55ac-BaRa5E6BHR6DGi9cm8JTTmFbBV_pFog.Uc5EV3Z0Kd-9inAlJprgVYGTig0rzUNnZFXuhD3yjPUg.JPEG/%E9%99%90%E6%97%B6%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE-850x170.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjA5MTRfMjQw/MDAxNzg5MzcxMDgyMjE3.7zrqo_bRx6W46vwYjV6jEr-L6JTyXL7Vv1LedvS5XK4g.Zf805o5NAyK5qrXHx7JO3a-Xmtrn__qEJ2q4b1h0IdYg.JPEG/%E4%B8%89%E6%96%B9%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE%281%29.jpg?type=w1678"
    ]
   },
   {
