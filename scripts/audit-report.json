@@ -1,12 +1,26 @@
 {
- "generatedAt": "2026-10-07T13:11:16.819Z",
- "window": "20261005~20261007",
- "lounges": 2317,
- "posts": 581,
- "couponPosts": 47,
+ "generatedAt": "2026-10-08T05:51:18.960Z",
+ "window": "20261006~20261008",
+ "lounges": 2319,
+ "posts": 636,
+ "couponPosts": 48,
  "fixedTracked": [
-  "드래곤빌리지3 | WEHEARDU, TOGETHER | [개발자 노트] 편의성 개선 현황 및 향후 업데이트 계획(신규 콘텐츠, ",
-  "카이온M | T2CV3LSO | 🎈카이온M 7주년 기념 쿠폰 안내(4주차)"
+  "에이펙스 걸스 | kanro2026 | 🎁 [특별 선물]",
+  "명일방주: 엔드필드 | ENDFIELDSTEAM | Steam 찜 목록 30만을 돌파하여, 마일스톤 최종 목표를 달성했습니다",
+  "변신해라! 정령술사 | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
+  "다크 슬레이어 : 방치형 RPG | 1010adg, 1011sfh | 10월2주차 주말쿠폰",
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | TZMK427 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/8 깜짝 쿠폰!",
+  "마스터 오브 먼치킨 | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
+  "나 혼자 만렙 키우기 | R9X2QV | 10/08 사천당가에서 온 매일 매일 쿠폰 이벤트",
+  "헌터 파티 키우기: 방치형 RPG | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
+  "환생 마검사 키우기 | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
+  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-RAIN | [이벤트] 10월 8일 (목) ◈ 데일리 쿠폰!",
+  "로그W: 리메인즈 오브 갓 | dcrfedy | 10/8 환수 시스템 오픈 기념 쿠폰",
+  "삼국지 오리진2: 적벽대전 | 7004-806ea7540-1 | [주간 이벤트] 제145탄 주간 쿠폰",
+  "정령킹 키우기 | HANGUL2026 | [이벤트] 한글날 기념 쿠폰",
+  "검선귀환 | HPMIDAUTUMN, HELLO10OCTOBER | 10월 9일 유운진군 업데이트 공지 (최신 쿠폰 코드 포함)",
+  "삼국지 올스타 | 2026J44F | [이벤트] 한글날 특별 쿠폰 도착!",
+  "쓰레기왕 키우기 | 2026HANGULDAY | [2026HANGULDAY] 한글날 기념 쿠폰 안내"
  ],
  "addedLounges": [],
  "labelOnly": [
@@ -15,25 +29,27 @@
   "드림 가든: 추억의 힐링 경영 | 2026-10-06 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "꿈의 여행자: 별빛 여정 | 2026-10-07 | 🎵가을바람과 함께 듣고 싶은 나만의 플레이리스트",
   "귀혼M | 2026-10-07 | [이벤트] 펫투게더 출시 기념 콜라보 이벤트 안내",
+  "사북: 아이스 킹덤 | 2026-10-08 | <사북: 아이스 킹덤> 전투력 돌파 인증 이벤트",
   "인투더던전:리본 | 2026-10-07 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (10/7 - 10/13)",
+  "여신 키우기: 방치형 RPG | 2026-10-08 | 📢 [안내] 쿠폰 사용 기간 재연장 안내 📢",
+  "대항해의길 | 2026-10-08 | [공지] 대항해의길 9주년 사전예약 안내",
+  "대항해의길 | 2026-10-08 | [이벤트] 대항해의길 9주년 사전예약 인증 이벤트 안내",
   "퀸즈나이츠 : 압도적 타격감 방치형 RPG | 2026-10-07 | 펫투게더 X 퀸즈나이츠 콜라보 이벤트 안내 (수정)",
   "삼국지 오리진 | 2026-10-07 | 주간 퀴즈 이벤트 363탄",
   "삼국지: 제후의 전쟁 | 2026-10-07 | [제후의 전쟁] 주간 퀴즈 이벤트 5탄",
   "스카이 어비스: 혈맹의 서약 | 2026-10-06 | [라운지 이벤트]주간 퀴즈 이벤트(10/6-10/12)",
-  "스카이 어비스: 혈맹의 서약 | 2026-10-05 | [⭐최대 20%아이템 캐시백]10/5~10/7 한정 누적 충전 혜택 안내",
-  "소드 앤 프론티아 | 2026-10-05 | 한글날 카운트다운!⭐내 최애 한국말은?🤔",
-  "열혈강호: 화룡전 | 2026-10-05 | [쿠폰] 10월 주간 쿠폰 지급 안내 ",
-  "젠레스 존 제로 | 2026-10-05 | 〈젠레스 존 제로〉 3.3 버전 「다시 하늘을 향해」 특별 방송 예고"
+  "슬라임 군단 | 2026-10-08 | [이벤트]한글날 기념 이벤트"
  ],
  "imageOnly": [
   {
-   "game": "열혈강호: 화룡전",
-   "loungeId": "Yulgang_Fire_Dragon_Tale",
-   "feedId": 8288207,
-   "date": "2026-10-05",
-   "title": "[쿠폰] 10월 주간 쿠폰 지급 안내 ",
+   "game": "여신 키우기: 방치형 RPG",
+   "loungeId": "My_Goddess_Idle_RPG",
+   "feedId": 8301163,
+   "date": "2026-10-08",
+   "title": "📢 [안내] 쿠폰 사용 기간 재연장 안내 📢",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNTExMDNfMjA1/MDAxNzYyMTMxOTQ0MDc4.nq7KIv0qPVRaEfpOWKlkxckD7eEIrnio4n3cB7bo2SIg.zEiKjMcL_ZVY5VWOPFJkLazbM9Lk5gwJzhfRLVnqFWcg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDhfNjkg/MDAxNzkxNDI4NjIyNDgx.CNfxG2Dom0mV8T0qcLNBAzIdjt9lbN6FTbrt92npOPgg.1AGya3X7g9R9w_4Ot7bUU3F7kMgc6RPq4zMsGJHi6pUg.PNG/%EC%97%AC%EC%8B%A0%ED%82%A4%EC%9A%B0%ED%82%A4_%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%B3%B8%EB%AC%B8%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMDhfMjg1/MDAxNzkxNDI4NjMxMjc3.KctkzkfvuXajHnazkJxkSSlQLjCMI9EdmofGWT0fv5Qg.B55rns_RQzZ3F0Ru6qnkS8HncwPyGeJ-WrVZrAzyfKcg.PNG/%EC%97%AC%EC%8B%A0%ED%82%A4%EC%9A%B0%ED%82%A4_%ED%95%98%EB%8B%A8%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w1678"
    ]
   }
  ]

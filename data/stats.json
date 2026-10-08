@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T00:40:35.343Z",
+  "generatedAt": "2026-10-08T06:26:27.009Z",
   "today": "2026-10-08",
-  "todayNew": 16,
+  "todayNew": 37,
   "totals": {
-    "games": 301,
-    "codes": 4096,
-    "active": 673,
+    "games": 304,
+    "codes": 4128,
+    "active": 705,
     "expired": 3423,
-    "withExpiry": 2377
+    "withExpiry": 2389
   },
   "newByDate": [
     {
@@ -56,15 +56,15 @@
     },
     {
       "date": "2026-10-06",
-      "count": 55
+      "count": 65
     },
     {
       "date": "2026-10-07",
-      "count": 26
+      "count": 27
     },
     {
       "date": "2026-10-08",
-      "count": 16
+      "count": 37
     }
   ],
   "expiringSoon": [
@@ -83,6 +83,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "GOLD923",
+      "expiry": "2026-10-08",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "R9X2QV",
       "expiry": "2026-10-08",
       "days": 0
     },
@@ -243,6 +249,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-RAIN",
+      "expiry": "2026-10-10",
+      "days": 2
+    },
+    {
       "slug": "soul-ferryman",
       "code": "GCJ1003",
       "expiry": "2026-10-10",
@@ -355,18 +367,6 @@
       "code": "109Hangul",
       "expiry": "2026-10-11",
       "days": 3
-    },
-    {
-      "slug": "soul-strike",
-      "code": "SS10GC1K",
-      "expiry": "2026-10-11",
-      "days": 3
-    },
-    {
-      "slug": "star-of-the-overlord",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 3
     }
   ],
   "topGames": [
@@ -377,13 +377,18 @@
     },
     {
       "slug": "apex-girls",
-      "active": 19,
-      "total": 56
+      "active": 20,
+      "total": 57
     },
     {
       "slug": "cookie-run-kingdom",
       "active": 19,
       "total": 19
+    },
+    {
+      "slug": "rogw-remains-of-gods",
+      "active": 17,
+      "total": 17
     },
     {
       "slug": "honkai-star-rail",
@@ -396,9 +401,9 @@
       "total": 47
     },
     {
-      "slug": "rogw-remains-of-gods",
+      "slug": "idle-hero-but-save-the-world",
       "active": 16,
-      "total": 16
+      "total": 36
     },
     {
       "slug": "dragon-traveler",
@@ -406,14 +411,9 @@
       "total": 69
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 35
-    },
-    {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 65
+      "active": 14,
+      "total": 66
     },
     {
       "slug": "along-with-the-ghost",
@@ -427,6 +427,11 @@
     },
     {
       "slug": "acheokaeseul-kiugi-bangchihyeong-rpg-geim",
+      "active": 10,
+      "total": 10
+    },
+    {
+      "slug": "archer-castle-idle",
       "active": 10,
       "total": 10
     },
@@ -464,12 +469,7 @@
       "slug": "bleach-soul-resonance",
       "active": 8,
       "total": 14
-    },
-    {
-      "slug": "busy-savior",
-      "active": 8,
-      "total": 30
     }
   ],
-  "noImage": 52
+  "noImage": 55
 }

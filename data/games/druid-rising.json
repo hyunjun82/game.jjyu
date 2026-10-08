@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTExMjRfMjY2/MDAxNzYzOTY3NjU0ODU4.-KqKSFezzWxEd7sTnyLWIeasWbnESLGsPDjzgBYVORQg.ykfwKvU9xaY1zAMe8qvMDiYeY8Xh8IN1Xm-R30L2G1gg.PNG/%EC%88%98%EC%A0%95%EB%90%A8_%EC%84%9C%EB%B8%8C%ED%8E%98%EC%9D%B4%EC%A7%80_02%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
   "source": "naver-lounge",
   "loungeId": "Druid_Rising",
-  "sourceUrl": "https://game.naver.com/lounge/Druid_Rising/board/detail/8228544",
+  "sourceUrl": "https://game.naver.com/lounge/Druid_Rising/board/detail/8301264",
   "howTo": "",
-  "postCount": 23,
-  "updatedAt": "2026-10-08T00:28:42.458Z",
+  "postCount": 24,
+  "updatedAt": "2026-10-08T06:25:29.053Z",
   "codes": [
+    {
+      "code": "2026HANGULDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "2026CHUSEOK",
       "reward": "",

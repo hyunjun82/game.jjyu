@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAyMTNfMTQ4/MDAxNzcwOTQ3MzI3MTQ3.YEhb4AMBGMV7TfkgnVoRrCPMpzumCSYJYaaFz8REvzsg.uRH-CAMH8KMfr2oHzUrl07MbSlUgeear0VoPFiYV5hUg.PNG/Naver_Lounge_PC_Write_Banner_740x250_guide.ver1.png",
   "source": "naver-lounge",
   "loungeId": "Master_of_Munchkin",
-  "sourceUrl": "https://game.naver.com/lounge/Master_of_Munchkin/board/detail/8228550",
+  "sourceUrl": "https://game.naver.com/lounge/Master_of_Munchkin/board/detail/8301270",
   "howTo": "",
-  "postCount": 21,
-  "updatedAt": "2026-10-08T00:28:46.992Z",
+  "postCount": 22,
+  "updatedAt": "2026-10-08T06:25:33.384Z",
   "codes": [
+    {
+      "code": "2026HANGULDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "2026CHUSEOK",
       "reward": "",

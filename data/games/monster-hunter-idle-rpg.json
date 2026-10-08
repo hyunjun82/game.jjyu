@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA1MDJfMjkx/MDAxNzE0NjIwMzgxNTQ0.QPCE448cJzqGmVOU3k5yoUCC6lGxxhGe3FEKYhBgpq4g.lazJ4q5U7-zLydwqEaVQCe2hI5QbGL9BnjI1Ge7zilgg.PNG/%EA%B0%80%EC%9D%B4%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Monster_Hunter_Idle_RPG",
-  "sourceUrl": "https://game.naver.com/lounge/Monster_Hunter_Idle_RPG/board/detail/8228559",
+  "sourceUrl": "https://game.naver.com/lounge/Monster_Hunter_Idle_RPG/board/detail/8301231",
   "howTo": "1. 안드로이드 쿠폰 입력 방법 - 게임 내 설정 → 쿠폰코드란에 쿠폰 입력 2. iOS 쿠폰 입력 방법 - 하단 웹페이지 접속 → 유저UID/이름 및 쿠폰 입력 (",
-  "postCount": 54,
-  "updatedAt": "2026-10-08T00:28:46.529Z",
+  "postCount": 55,
+  "updatedAt": "2026-10-08T06:25:32.648Z",
   "codes": [
+    {
+      "code": "2026HANGULDAY",
+      "reward": "",
+      "expiry": "2026-11-09",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "2026chuseok",
       "reward": "",
@@ -299,15 +308,6 @@
       "status": "expired"
     },
     {
-      "code": "welcomesummer",
-      "reward": "",
-      "expiry": "2025-06-26",
-      "postedAt": "2025-05-26",
-      "firstSeen": "2026-09-26",
-      "lastSeen": "2026-10-08",
-      "status": "expired"
-    },
-    {
       "code": "carolina",
       "reward": "",
       "expiry": "2024-12-22",
@@ -375,6 +375,15 @@
       "reward": "",
       "expiry": "2024-06-07",
       "postedAt": "2024-05-24",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-10-08",
+      "status": "expired"
+    },
+    {
+      "code": "welcomesummer",
+      "reward": "",
+      "expiry": "2025-06-26",
+      "postedAt": "2025-05-26",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-10-08",
       "status": "expired"
