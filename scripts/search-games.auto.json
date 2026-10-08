@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-08T13:53:17.309Z",
+  "generatedAt": "2026-10-08T19:42:35.226Z",
   "games": [
     {
       "slug": "f4-u",
@@ -15,12 +15,6 @@
       "titleEn": "Kaind Idle"
     },
     {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights_Endfield"
-    },
-    {
       "slug": "romantic-gangho",
       "loungeId": "RomanticGangho",
       "titleKo": "낭만강호",
@@ -33,22 +27,40 @@
       "titleEn": "Heartopia"
     },
     {
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights_Endfield"
+    },
+    {
+      "slug": "torchlight-infinite",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight Infinite"
+    },
+    {
       "slug": "tales-runner-rpg",
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
+      "slug": "cheon-sam-mu",
+      "loungeId": "CheonSamMu",
+      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
+      "titleEn": "Cheon Sam Mu"
     },
     {
       "slug": "watcher-of-realms",
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
       "titleEn": "Watcher Of Realms"
+    },
+    {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
     },
     {
       "slug": "toysamguk",
@@ -63,22 +75,10 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
-    },
-    {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
     },
     {
       "slug": "oops-tomb-raid",
@@ -91,24 +91,6 @@
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
-    },
-    {
-      "slug": "demonsamguk",
-      "loungeId": "demonsamguk",
-      "titleKo": "전지적 시점:데몬 삼국",
-      "titleEn": "Demonsamguk"
-    },
-    {
-      "slug": "devil-hunter-idle",
-      "loungeId": "Devil_Hunter_Idle",
-      "titleKo": "데빌 헌터 키우기",
-      "titleEn": "Devil Hunter Idle"
-    },
-    {
-      "slug": "devil-note",
-      "loungeId": "Devil_Note",
-      "titleKo": "데빌노트: 보물 헌터",
-      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -159,64 +141,10 @@
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "popucom",
-      "loungeId": "POPUCOM",
-      "titleKo": "팝유컴",
-      "titleEn": "Popucom"
-    },
-    {
-      "slug": "prime-football-manager",
-      "loungeId": "Prime_Football_Manager",
-      "titleKo": "프라임 풋볼 매니저",
-      "titleEn": "Prime Football Manager"
-    },
-    {
-      "slug": "pro-soccer-legend-eleven",
-      "loungeId": "Pro_Soccer_Legend_Eleven",
-      "titleKo": "프로사커: 레전드 일레븐",
-      "titleEn": "Pro Soccer Legend Eleven"
-    },
-    {
-      "slug": "promise-of-lingyun",
-      "loungeId": "Promise_of_Lingyun",
-      "titleKo": "능운낙",
-      "titleEn": "Promise Of Lingyun"
-    },
-    {
-      "slug": "promisekr",
-      "loungeId": "promisekr",
-      "titleKo": "궁과 약속",
-      "titleEn": "Promisekr"
-    },
-    {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
-    },
-    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
-    },
-    {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
     },
     {
       "slug": "rush-three-kingdom",
@@ -229,18 +157,6 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
-    },
-    {
-      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
-      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
-      "titleKo": "신수의 전설",
-      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
-    },
-    {
-      "slug": "seollaesamguk",
-      "loungeId": "seollaesamguk",
-      "titleKo": "설레 삼국:미인계",
-      "titleEn": "Seollaesamguk"
     },
     {
       "slug": "star-of-the-overlord",
@@ -261,52 +177,64 @@
       "titleEn": "Survivorio"
     },
     {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
-    },
-    {
-      "slug": "the-war-of-light-and-darkness",
-      "loungeId": "The_War_of_Light_and_Darkness",
-      "titleKo": "빛과 어둠의 전쟁",
-      "titleEn": "The War Of Light And Darkness"
-    },
-    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
     },
     {
-      "slug": "ultirpg",
-      "loungeId": "ultirpg",
-      "titleKo": "실력존많겜",
-      "titleEn": "Ultirpg"
+      "slug": "wandering-mercenary-force",
+      "loungeId": "wandering_mercenary_force",
+      "titleKo": "방랑용병단",
+      "titleEn": "Wandering Mercenary Force"
     },
     {
-      "slug": "undergroundz",
-      "loungeId": "undergroundz",
-      "titleKo": "이번역은 좀비입니다",
-      "titleEn": "Undergroundz"
+      "slug": "warphero",
+      "loungeId": "warphero",
+      "titleKo": "워프히어로",
+      "titleEn": "Warphero"
     },
     {
-      "slug": "unlimited-fighter",
-      "loungeId": "Unlimited_Fighter",
-      "titleKo": "언리미티드 파이터",
-      "titleEn": "Unlimited Fighter"
+      "slug": "evil-m-the-darkness-fable",
+      "loungeId": "Evil_M_The_Darkness_Fable",
+      "titleKo": "이블M: 어둠의 우화",
+      "titleEn": "Evil M The Darkness Fable"
     },
     {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
+      "slug": "with",
+      "loungeId": "WITH",
+      "titleKo": "위드 : 신의 날개",
+      "titleEn": "With"
     },
     {
-      "slug": "vigilante",
-      "loungeId": "Vigilante",
-      "titleKo": "비질란테",
-      "titleEn": "Vigilante"
+      "slug": "wizards-survival",
+      "loungeId": "Wizards_Survival",
+      "titleKo": "나 혼자 클리어",
+      "titleEn": "Wizards Survival"
+    },
+    {
+      "slug": "woodcutter",
+      "loungeId": "woodcutter",
+      "titleKo": "선녀와 나무꾼 키우기 : 방치형 RPG",
+      "titleEn": "Woodcutter"
+    },
+    {
+      "slug": "wtbk",
+      "loungeId": "wtbk",
+      "titleKo": "왓더뼈킹",
+      "titleEn": "Wtbk"
+    },
+    {
+      "slug": "zero9",
+      "loungeId": "zero9",
+      "titleKo": "제로나인",
+      "titleEn": "Zero9"
+    },
+    {
+      "slug": "zombie-hunter",
+      "loungeId": "ZombieHunter",
+      "titleKo": "이세계 좀비 헌터",
+      "titleEn": "Zombie Hunter"
     }
   ]
 }

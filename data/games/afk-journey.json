@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-08T13:59:52.251Z",
+  "updatedAt": "2026-10-08T19:49:20.932Z",
   "codes": [
     {
       "code": "VMj522yLkrKDa",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "active"
     },
     {
@@ -24,27 +24,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-08",
-      "status": "active"
-    },
-    {
-      "code": "VeilofMemories0923",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/naakey/224421272362",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
-      "status": "active"
-    },
-    {
-      "code": "6kMtRBeUa5nH",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/naakey/224421272362",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "active"
     },
     {
@@ -54,7 +34,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "active"
     },
     {
@@ -64,7 +44,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "active"
     },
     {
@@ -74,8 +54,28 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "active"
+    },
+    {
+      "code": "VeilofMemories0923",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/naakey/224421272362",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-09",
+      "status": "expired"
+    },
+    {
+      "code": "6kMtRBeUa5nH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/naakey/224421272362",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     }
   ]
 }

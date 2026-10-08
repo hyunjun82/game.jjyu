@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-08T13:59:18.566Z",
+  "updatedAt": "2026-10-08T19:48:46.826Z",
   "codes": [
     {
       "code": "WOS0919",
@@ -14,8 +14,8 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421216382",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     },
     {
       "code": "JPsilverweek26",
@@ -24,8 +24,8 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421216382",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     },
     {
       "code": "2ndYoutubeKR",
@@ -34,8 +34,8 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421216382",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     },
     {
       "code": "1stYoutubeKR",
@@ -44,8 +44,8 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421216382",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     },
     {
       "code": "WOS2026NEW",

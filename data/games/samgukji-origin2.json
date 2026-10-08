@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/samgukji_origin2/board/detail/8300703",
   "howTo": "",
   "postCount": 691,
-  "updatedAt": "2026-10-08T13:55:41.786Z",
+  "updatedAt": "2026-10-08T19:45:09.827Z",
   "codes": [
     {
       "code": "7004-806ea7540-1",
@@ -16,16 +16,7 @@
       "expiry": "2026-10-15",
       "postedAt": "2026-10-08",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-08",
-      "status": "active"
-    },
-    {
-      "code": "7003-10e4c6d8c-1",
-      "reward": "",
-      "expiry": "2026-10-08",
-      "postedAt": "2026-10-01",
-      "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "active"
     },
     {
@@ -34,7 +25,16 @@
       "expiry": "2026-10-07",
       "postedAt": "2026-10-03",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
+      "status": "expired"
+    },
+    {
+      "code": "7003-10e4c6d8c-1",
+      "reward": "",
+      "expiry": "2026-10-08",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-09-27",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-10-01",
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-08-13",
       "postedAt": "2026-08-06",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": "2026-06-12",
       "postedAt": "2026-06-08",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     },
     {
@@ -79,7 +79,7 @@
       "expiry": "2026-06-12",
       "postedAt": "2026-06-08",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     }
   ]

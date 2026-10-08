@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/ImmortalRising/board/detail/8231924",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-08T13:55:34.393Z",
+  "updatedAt": "2026-10-08T19:45:02.522Z",
   "codes": [
     {
       "code": "IMMORTAL24",
@@ -16,8 +16,8 @@
       "expiry": null,
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     },
     {
       "code": "IMNAVER",
@@ -25,8 +25,8 @@
       "expiry": null,
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     }
   ]
 }

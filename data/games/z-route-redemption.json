@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Z_Route_Redemption/board/detail/8232111",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-08T13:55:32.393Z",
+  "updatedAt": "2026-10-08T19:44:59.844Z",
   "codes": [
     {
       "code": "ZRTSML09",
@@ -16,8 +16,8 @@
       "expiry": null,
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
-      "status": "active"
+      "lastSeen": "2026-10-09",
+      "status": "expired"
     },
     {
       "code": "ZR26ALLY",
@@ -25,7 +25,7 @@
       "expiry": "2026-08-16",
       "postedAt": "2026-07-29",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "status": "expired"
     }
   ]
