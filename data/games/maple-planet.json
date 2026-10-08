@@ -1,0 +1,21 @@
+{
+  "slug": "maple-planet",
+  "titleEn": "maple-planet",
+  "titleKo": "메이플플래닛",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-07T23:12:07.198Z",
+  "codes": [
+    {
+      "code": "PLANETSPORTSDAY6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/strawberry_like/224430264683",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    }
+  ]
+}
