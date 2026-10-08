@@ -1,34 +1,31 @@
 {
- "generatedAt": "2026-10-08T05:51:18.960Z",
+ "generatedAt": "2026-10-08T13:17:59.065Z",
  "window": "20261006~20261008",
  "lounges": 2319,
- "posts": 636,
- "couponPosts": 48,
+ "posts": 817,
+ "couponPosts": 59,
  "fixedTracked": [
-  "에이펙스 걸스 | kanro2026 | 🎁 [특별 선물]",
-  "명일방주: 엔드필드 | ENDFIELDSTEAM | Steam 찜 목록 30만을 돌파하여, 마일스톤 최종 목표를 달성했습니다",
-  "변신해라! 정령술사 | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
-  "다크 슬레이어 : 방치형 RPG | 1010adg, 1011sfh | 10월2주차 주말쿠폰",
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | TZMK427 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/8 깜짝 쿠폰!",
-  "마스터 오브 먼치킨 | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
-  "나 혼자 만렙 키우기 | R9X2QV | 10/08 사천당가에서 온 매일 매일 쿠폰 이벤트",
-  "헌터 파티 키우기: 방치형 RPG | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
-  "환생 마검사 키우기 | 2026HANGULDAY | [쿠폰] 한글날 기념 쿠폰 안내",
-  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-RAIN | [이벤트] 10월 8일 (목) ◈ 데일리 쿠폰!",
-  "로그W: 리메인즈 오브 갓 | dcrfedy | 10/8 환수 시스템 오픈 기념 쿠폰",
-  "삼국지 오리진2: 적벽대전 | 7004-806ea7540-1 | [주간 이벤트] 제145탄 주간 쿠폰",
-  "정령킹 키우기 | HANGUL2026 | [이벤트] 한글날 기념 쿠폰",
-  "검선귀환 | HPMIDAUTUMN, HELLO10OCTOBER | 10월 9일 유운진군 업데이트 공지 (최신 쿠폰 코드 포함)",
-  "삼국지 올스타 | 2026J44F | [이벤트] 한글날 특별 쿠폰 도착!",
-  "쓰레기왕 키우기 | 2026HANGULDAY | [2026HANGULDAY] 한글날 기념 쿠폰 안내"
+  "포트리스 사가 | OCTGIFTFS26 | [안내] 10월의 특별한 선물 이벤트🎁",
+  "건틀렛: 방치형 액션 RPG | 2026HANGEUL | [쿠폰 안내] 2026 한글날 기념 쿠폰 안내",
+  "심쿵신궁 연대기 | WELCOME1008 | 💝신규 서버 오픈, 18서버 전용 쿠폰",
+  "킹방치: 빵지의 제왕 | MOn105 | [EVENT] [킹방치: 빵스런] X [요새하는겜] 요새 정복하기!",
+  "모에라이: 운명의 계약 | HAPPY2610 | 10월 특별 쿠폰을 지급해 드립니다",
+  "스타 세일러 | HANGUL2026 | 🍂 한글날 기념 GM 쿠폰 선물 안내 🎁",
+  "바르디안 | EVENT1009 | 한글날 기념 쿠폰 선물",
+  "LOSTCITY : ZERO | LOSTCITY444220 | 한글날 기념 쿠폰 이벤트"
  ],
- "addedLounges": [],
+ "addedLounges": [
+  "미소녀 헌터스 키우기 (Idle_Hunter_Girls) → /idle-hunter-girls/ | HUNTERSGIFT"
+ ],
  "labelOnly": [
+  "이사만루26 | 2026-10-08 | [이벤트] 키워드 쿠폰 이벤트 안내",
+  "펭귄 대모험 : 꽁꽁 방어전 | 2026-10-08 | [게임 시간 정답] 20261008",
   "드래곤빌리지3 | 2026-10-06 | [이벤트] 결실의 나무 인증 이벤트 보상 지급 안내",
   "드래곤에어 : 침묵의 신 | 2026-10-06 | 【이벤트】🍻 선술집 공고 - 모험 파티의 동료를 모집합니다! 🗡️",
   "드림 가든: 추억의 힐링 경영 | 2026-10-06 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "꿈의 여행자: 별빛 여정 | 2026-10-07 | 🎵가을바람과 함께 듣고 싶은 나만의 플레이리스트",
   "귀혼M | 2026-10-07 | [이벤트] 펫투게더 출시 기념 콜라보 이벤트 안내",
+  "히어로 랜드M | 2026-10-08 | 【유저 의견 모집】유저의 의견이 보이도록, 여러분의 기대에 부응하겠습니다!",
   "사북: 아이스 킹덤 | 2026-10-08 | <사북: 아이스 킹덤> 전투력 돌파 인증 이벤트",
   "인투더던전:리본 | 2026-10-07 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (10/7 - 10/13)",
   "여신 키우기: 방치형 RPG | 2026-10-08 | 📢 [안내] 쿠폰 사용 기간 재연장 안내 📢",
@@ -38,9 +35,21 @@
   "삼국지 오리진 | 2026-10-07 | 주간 퀴즈 이벤트 363탄",
   "삼국지: 제후의 전쟁 | 2026-10-07 | [제후의 전쟁] 주간 퀴즈 이벤트 5탄",
   "스카이 어비스: 혈맹의 서약 | 2026-10-06 | [라운지 이벤트]주간 퀴즈 이벤트(10/6-10/12)",
-  "슬라임 군단 | 2026-10-08 | [이벤트]한글날 기념 이벤트"
+  "슬라임 군단 | 2026-10-08 | [이벤트]한글날 기념 이벤트",
+  "용사가 돌아왔다 키우기 | 2026-10-08 | 10월 쿠폰 이벤트 - 1",
+  "트리 오브 세이비어: 네버랜드 | 2026-10-08 | 트오세: 네버랜드 2주년 「정원 건축제」가 10월 8일 그랜드 오픈!"
  ],
  "imageOnly": [
+  {
+   "game": "이사만루26",
+   "loungeId": "24manru3",
+   "feedId": 8302028,
+   "date": "2026-10-08",
+   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+   ]
+  },
   {
    "game": "여신 키우기: 방치형 RPG",
    "loungeId": "My_Goddess_Idle_RPG",
@@ -50,6 +59,17 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjEwMDhfNjkg/MDAxNzkxNDI4NjIyNDgx.CNfxG2Dom0mV8T0qcLNBAzIdjt9lbN6FTbrt92npOPgg.1AGya3X7g9R9w_4Ot7bUU3F7kMgc6RPq4zMsGJHi6pUg.PNG/%EC%97%AC%EC%8B%A0%ED%82%A4%EC%9A%B0%ED%82%A4_%EB%9D%BC%EC%9A%B4%EC%A7%80%EB%B3%B8%EB%AC%B8%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMDhfMjg1/MDAxNzkxNDI4NjMxMjc3.KctkzkfvuXajHnazkJxkSSlQLjCMI9EdmofGWT0fv5Qg.B55rns_RQzZ3F0Ru6qnkS8HncwPyGeJ-WrVZrAzyfKcg.PNG/%EC%97%AC%EC%8B%A0%ED%82%A4%EC%9A%B0%ED%82%A4_%ED%95%98%EB%8B%A8%ED%83%80%EC%9D%B4%ED%8B%80.png?type=w1678"
+   ]
+  },
+  {
+   "game": "용사가 돌아왔다 키우기",
+   "loungeId": "The_Warrior_Returns_AFK",
+   "feedId": 8302074,
+   "date": "2026-10-08",
+   "title": "10월 쿠폰 이벤트 - 1",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA0MTdfMjI4/MDAxNzc2NDExOTM5NjM0.Lj5cJPlI3yboa4QXBCxRLv9-P1_iznG-K1S-913Y8xsg.LB9IXysbrP1AJI3zfw3hS38pIXCz_YR0tsrSxXb7-WIg.PNG/%EB%9D%A0%EB%B0%B0%EB%84%88_%EC%9D%B4%EB%B2%A4%ED%8A%B8_1400_308.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjA0MjBfMjg0/MDAxNzc2NjY0MDczODY4.xXuUWH6o40mS-nTCe-XEytsRTaNSTR0cX6Xb3vUIg1Ug.GzKZchCI92KLfOFsjD-xDy2oAIO7nmAEordrZjNNXv8g.PNG/%EC%A0%95%EB%B0%A9%ED%96%A5_%EC%9D%B4%EB%B2%A4%ED%8A%B8_540_540.png?type=w1678"
    ]
   }
  ]

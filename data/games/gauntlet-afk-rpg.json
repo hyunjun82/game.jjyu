@@ -2,14 +2,23 @@
   "slug": "gauntlet-afk-rpg",
   "titleEn": "Gauntlet AFK RPG",
   "titleKo": "건틀렛: 방치형 액션 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMTIg/MDAxNzkwMTM1OTk3NTA1.xKw4L5ASk463ghBjyDNIo3Kh0PzrcGHrPgrUg8bOj1Ug.DCeWtXQOsBuQzNY2nO56P7ohmN3WRzRi9wxnMv6jY74g.PNG/Gemini_Generated_Image_ghq2rpghq2rpghq2.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDhfNzEg/MDAxNzkxNDQ4NTE3NTEw.Gt6qzBCP5NjGYCW-o4adGmYklpNdYbSa88SONhRyoucg.PwJ4hvfGs9_3mIuv8WHfUmkjt1sqzhH-pIVFMPHSr_og.PNG/%ED%95%9C%EA%B8%80%EB%82%A0.png",
   "source": "naver-lounge",
   "loungeId": "Gauntlet_AFKRPG",
-  "sourceUrl": "https://game.naver.com/lounge/Gauntlet_AFKRPG/board/detail/8227199",
+  "sourceUrl": "https://game.naver.com/lounge/Gauntlet_AFKRPG/board/detail/8302527",
   "howTo": "게임 내 [우측 상단 메뉴 → 설정 → 쿠폰 등록] 메뉴에서 쿠폰 코드를 입력해 주세요. 대소문자는 구분하지 않습니다. 보상은 우편함으로 지급됩니다.",
-  "postCount": 26,
-  "updatedAt": "2026-10-08T06:30:49.154Z",
+  "postCount": 27,
+  "updatedAt": "2026-10-08T13:40:18.095Z",
   "codes": [
+    {
+      "code": "2026HANGEUL",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "2026THANKSGIVING",
       "reward": "",

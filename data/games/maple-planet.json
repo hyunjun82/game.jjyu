@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T23:12:07.198Z",
+  "updatedAt": "2026-10-08T13:39:15.956Z",
   "codes": [
+    {
+      "code": "PLANETSPORTSDAY1",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/ppej1234/224418661858",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
+    {
+      "code": "PLANETSPORTSDAY2",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/ppej1234/224418661858",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "PLANETSPORTSDAY6",
       "reward": "",

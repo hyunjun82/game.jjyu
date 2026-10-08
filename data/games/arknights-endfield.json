@@ -8,12 +8,12 @@
   "sourceUrl": "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8296435",
   "howTo": "",
   "postCount": 1,
-  "updatedAt": "2026-10-08T06:33:34.359Z",
+  "updatedAt": "2026-10-08T13:43:06.091Z",
   "codes": [
     {
       "code": "ENDFIELDSTEAM",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-26",
       "postedAt": "2026-10-07",
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-10-08",
@@ -46,7 +46,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422000247",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     },
     {
@@ -66,7 +66,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422000247",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "status": "expired"
     }
   ]

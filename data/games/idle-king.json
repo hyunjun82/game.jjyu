@@ -2,14 +2,23 @@
   "slug": "idle-king",
   "titleEn": "Idle King",
   "titleKo": "킹방치: 빵지의 제왕",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTRfNDIg/MDAxNzg2Njg0ODY0OTUw.LffBNsRYQ5L3iyQMXdCwtVFLFkiVXODxOK5L9h5hdrAg.Wst11R1vpNNt3hW85ZNpkCq-77xxnzW5jq0GQEK5-n0g.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDdfODMg/MDAxNzkxMzQ0ODk4Mjcx.pnsG2Sm1phAXxenRkPLz46tD1GWCkRWIKOZY7uY4VEgg.nMcWbg97stkssa-yH2TbGnTtP2fU3vPy7jZ1V3kcMG8g.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
   "source": "naver-lounge",
   "loungeId": "IdleKing",
-  "sourceUrl": "https://game.naver.com/lounge/IdleKing/board/detail/8299609",
+  "sourceUrl": "https://game.naver.com/lounge/IdleKing/board/detail/8302891",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-10-08T06:32:15.488Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-08T13:41:45.162Z",
   "codes": [
+    {
+      "code": "MOn105",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "109Hangul",
       "reward": "",

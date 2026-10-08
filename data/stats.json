@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T06:43:10.887Z",
+  "generatedAt": "2026-10-08T13:43:20.112Z",
   "today": "2026-10-08",
-  "todayNew": 34,
+  "todayNew": 47,
   "totals": {
-    "games": 297,
-    "codes": 4107,
-    "active": 689,
+    "games": 298,
+    "codes": 4120,
+    "active": 702,
     "expired": 3418,
-    "withExpiry": 2388
+    "withExpiry": 2401
   },
   "newByDate": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "date": "2026-10-06",
-      "count": 65
+      "count": 55
     },
     {
       "date": "2026-10-07",
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-08",
-      "count": 34
+      "count": 47
     }
   ],
   "expiringSoon": [
@@ -267,6 +267,18 @@
       "days": 2
     },
     {
+      "slug": "archer-castle-idle",
+      "code": "SIRYUN100",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
+      "slug": "archer-castle-idle",
+      "code": "AFFLE2",
+      "expiry": "2026-10-11",
+      "days": 3
+    },
+    {
       "slug": "beast-lord-the-new-land",
       "code": "BLGX90PL7",
       "expiry": "2026-10-11",
@@ -355,18 +367,6 @@
       "code": "r8o6yqxpyf",
       "expiry": "2026-10-11",
       "days": 3
-    },
-    {
-      "slug": "potatozombie",
-      "code": "HZXFNPCN7ZS5CS",
-      "expiry": "2026-10-11",
-      "days": 3
-    },
-    {
-      "slug": "redmythnezha",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 3
     }
   ],
   "topGames": [
@@ -421,19 +421,14 @@
       "total": 12
     },
     {
+      "slug": "archer-castle-idle",
+      "active": 12,
+      "total": 12
+    },
+    {
       "slug": "sword-frontier",
       "active": 11,
       "total": 23
-    },
-    {
-      "slug": "archer-castle-idle",
-      "active": 10,
-      "total": 10
-    },
-    {
-      "slug": "archer-castle-idle",
-      "active": 10,
-      "total": 10
     },
     {
       "slug": "astro-defenders",
@@ -469,6 +464,11 @@
       "slug": "bleach-soul-resonance",
       "active": 8,
       "total": 14
+    },
+    {
+      "slug": "busy-savior",
+      "active": 8,
+      "total": 30
     }
   ],
   "noImage": 49

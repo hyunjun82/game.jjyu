@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T23:06:18.055Z",
+  "updatedAt": "2026-10-08T13:34:58.679Z",
   "codes": [
     {
       "code": "stardust789",
@@ -30,9 +30,9 @@
     {
       "code": "Aniimo2026",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224421411593",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-08",
       "status": "active"
@@ -40,9 +40,9 @@
     {
       "code": "ANIIMOGIFT",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224421411593",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-08",
       "status": "active"
