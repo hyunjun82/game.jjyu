@@ -2,14 +2,24 @@
   "slug": "requiem-m",
   "titleEn": "Requiem M",
   "titleKo": "레퀴엠M",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfOTcg/MDAxNzkwMTI5ODA0ODIx.AcciQho8m0-AaC4QWArsarWs3nVLVO0WPdNRbmRDCWAg.4yQCOcT5857ddYn0kJeYs3Gm453casWaw-I-L3vY4AMg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EA%B3%B5%EC%A7%80%EC%83%81%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfNjAg/MDAxNzkxMjY1MjM0NDc0.0pb3EvRXCmuRhJxlNZpUgfPWcvMkao3vASp2B3GtZLEg.IuLemJqf2r68RGDpC6wJCDxV0Vzd-TBxFxJtSaIhiEMg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EA%B3%B5%EC%A7%80%ED%95%98%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
   "source": "naver-lounge",
   "loungeId": "RequiemM",
-  "sourceUrl": "https://game.naver.com/lounge/RequiemM/board/detail/8258435",
+  "sourceUrl": "https://game.naver.com/lounge/RequiemM/board/detail/8300552",
   "howTo": "게임 상단 펼침 메뉴 '혜택센터' 클릭 시 '<일반 쿠폰>' 확인 가능 ※ '혜택센터'는 13레벨에 오픈됩니다. ※ 참고사항 - 쿠폰은 이벤트 기간 내 계정당 1회만 사용이 가능합니다. - 쿠폰 사용 시 반드시 대/소문자를 구분해 입력해 주시기 바랍니다.",
-  "postCount": 3,
-  "updatedAt": "2026-10-07T23:15:17.876Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-08T00:29:03.093Z",
   "codes": [
+    {
+      "code": "THANKYOU100RQMM",
+      "reward": "",
+      "expiry": "2027-01-01",
+      "expiryFrom": "event",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-08",
+      "status": "active"
+    },
     {
       "code": "1003GAECHEON",
       "reward": "",
