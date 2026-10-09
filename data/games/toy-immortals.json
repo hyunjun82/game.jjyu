@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-08T19:53:15.517Z",
+  "updatedAt": "2026-10-09T19:25:53.533Z",
   "codes": [
     {
       "code": "TOYGALAXY1",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -54,7 +54,17 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "code": "TOYS500K",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/youneedtochill/224419871545",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -64,28 +74,18 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
       "code": "TOYMRZPRE",
       "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/aispark/224422764767",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-09",
-      "status": "active"
-    },
-    {
-      "code": "TOYS500K",
-      "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
-      "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-09",
-      "status": "active"
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     }
   ]
 }

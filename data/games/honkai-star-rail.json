@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-09T13:41:19.284Z",
+  "updatedAt": "2026-10-09T19:19:16.507Z",
   "codes": [
     {
       "code": "RT4BPNA8FBS3",
@@ -24,7 +24,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -108,23 +108,13 @@
       "status": "active"
     },
     {
-      "code": "OMEGA",
-      "reward": "",
-      "expiry": "2026-11-18",
-      "postedAt": "2026-10-07",
-      "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434364021",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-07",
-      "status": "active"
-    },
-    {
       "code": "IFYOUAREREADINGTHIS",
       "reward": "",
       "expiry": "2026-11-18",
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -134,7 +124,17 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/didcjddns/224418988287",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "code": "OMEGA",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-10-07",
+      "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434364021",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-07",
       "status": "active"
     },
     {
@@ -154,7 +154,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "expired"
     },
     {
@@ -164,7 +164,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "expired"
     },
     {
@@ -284,7 +284,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "expired"
     }
   ]

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-09T13:43:12.600Z",
+  "updatedAt": "2026-10-09T19:21:13.687Z",
   "codes": [
     {
       "code": "TAKEFLIGHTAION2",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/mmorpg_lab/224431454463",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "active"
     },
     {
@@ -24,8 +24,8 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/greedady/224422745801",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-09",
-      "status": "active"
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     },
     {
       "code": "AION2CHAPTERONE",
@@ -34,7 +34,7 @@
       "postedAt": "2026-09-16",
       "sourceUrl": "https://blog.naver.com/jjsabu/224414040908",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "status": "expired"
     }
   ]

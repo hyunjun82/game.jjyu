@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-09T13:35:31.215Z",
+  "generatedAt": "2026-10-09T19:13:01.103Z",
   "games": [
     {
       "slug": "f4-u",
@@ -39,28 +39,22 @@
       "titleEn": "Torchlight Infinite"
     },
     {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist"
+    },
+    {
       "slug": "tales-runner-rpg",
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "cheon-sam-mu",
-      "loungeId": "CheonSamMu",
-      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
-      "titleEn": "Cheon Sam Mu"
-    },
-    {
       "slug": "watcher-of-realms",
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
       "titleEn": "Watcher Of Realms"
-    },
-    {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
     },
     {
       "slug": "toysamguk",
@@ -75,28 +69,124 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "neural-cloud",
+      "loungeId": "Neural_Cloud",
+      "titleKo": "뉴럴 클라우드",
+      "titleEn": "Neural Cloud"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "32-heroes",
+      "loungeId": "32Heroes",
+      "titleKo": "32용사 키우기",
+      "titleEn": "32 Heroes"
+    },
+    {
+      "slug": "33-rd",
+      "loungeId": "33RD",
+      "titleKo": "33RD : 랜덤 디펜스",
+      "titleEn": "33 Rd"
+    },
+    {
+      "slug": "7tharcher",
+      "loungeId": "7tharcher",
+      "titleKo": "7번째 신의 궁수 키우기",
+      "titleEn": "7tharcher"
+    },
+    {
+      "slug": "abyss-infinite-realm",
+      "loungeId": "Abyss_Infinite_Realm",
+      "titleKo": "어비스: 무한계",
+      "titleEn": "Abyss Infinite Realm"
+    },
+    {
+      "slug": "abyssdestiny",
+      "loungeId": "abyssdestiny",
+      "titleKo": "어비스: 데스티니",
+      "titleEn": "Abyssdestiny"
+    },
+    {
+      "slug": "acadia-m",
+      "loungeId": "AcadiaM",
+      "titleKo": "아카디아M",
+      "titleEn": "Acadia M"
+    },
+    {
+      "slug": "acecraft",
+      "loungeId": "ACECRAFT",
+      "titleKo": "ACECRAFT",
+      "titleEn": "Acecraft"
+    },
+    {
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
+    },
+    {
+      "slug": "afk-mercenary",
+      "loungeId": "AFK_Mercenary",
+      "titleKo": "우리 단장 뭐함?!",
+      "titleEn": "Afk Mercenary"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "Along_with_the_ghost",
+      "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
+    },
+    {
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
+    },
+    {
+      "slug": "dm-epicnine",
+      "loungeId": "DM_EPICNINE",
+      "titleKo": "에픽나인",
+      "titleEn": "Dm Epicnine"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
+    },
+    {
+      "slug": "dragon-blood-raider",
+      "loungeId": "Dragon_Blood_Raider",
+      "titleKo": "드래곤 블러드: 레이더",
+      "titleEn": "Dragon Blood Raider"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -111,15 +201,45 @@
       "titleEn": "Dragonheir"
     },
     {
+      "slug": "dragon-saver",
+      "loungeId": "DragonSaver",
+      "titleKo": "드래곤 세이버: 용과 소녀의 모험 방치형 키우기 RPG",
+      "titleEn": "Dragon Saver"
+    },
+    {
+      "slug": "dragoon-of-the-wind",
+      "loungeId": "Dragoon_Of_The_Wind",
+      "titleKo": "바람의 드래군M",
+      "titleEn": "Dragoon Of The Wind"
+    },
+    {
+      "slug": "dream-furniture",
+      "loungeId": "dream_furniture",
+      "titleKo": "꿈꾸는 가구점",
+      "titleEn": "Dream Furniture"
+    },
+    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "Dream_Garden_Cozy_Lite_Management",
+      "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
+    },
+    {
+      "slug": "dream-samguk",
+      "loungeId": "dream_samguk",
+      "titleKo": "드림삼국",
+      "titleEn": "Dream Samguk"
+    },
+    {
+      "slug": "dungeonand-breaker",
+      "loungeId": "DungeonandBreaker",
+      "titleKo": "던전앤브레이커",
+      "titleEn": "Dungeonand Breaker"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "Eternal_Chronicle",
+      "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -131,13 +251,13 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -149,7 +269,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -173,13 +293,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "Survivorio",
+      "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "Toy_Immortals",
+      "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
     }
   ]

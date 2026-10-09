@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-09T13:46:12.799Z",
+  "updatedAt": "2026-10-09T19:26:29.829Z",
   "codes": [
     {
       "code": "SOLENCHANTLAUNCH",
@@ -14,8 +14,8 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421766299",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-09",
-      "status": "active"
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     },
     {
       "code": "WELCOMESOL2026",
@@ -24,8 +24,8 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421766299",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-09",
-      "status": "active"
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     },
     {
       "code": "GODSOFSOL",
@@ -34,8 +34,8 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421766299",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-09",
-      "status": "active"
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     },
     {
       "code": "NETMARBLEALT9",
@@ -44,8 +44,8 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224421766299",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-09",
-      "status": "active"
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     }
   ]
 }
