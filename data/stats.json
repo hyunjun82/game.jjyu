@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T00:13:38.348Z",
+  "generatedAt": "2026-10-09T06:23:02.466Z",
   "today": "2026-10-09",
-  "todayNew": 6,
+  "todayNew": 29,
   "totals": {
     "games": 298,
-    "codes": 4126,
-    "active": 661,
-    "expired": 3465,
-    "withExpiry": 2403
+    "codes": 4149,
+    "active": 683,
+    "expired": 3466,
+    "withExpiry": 2422
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-09",
-      "count": 6
+      "count": 29
     }
   ],
   "expiringSoon": [
@@ -83,6 +83,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "MINE824",
+      "expiry": "2026-10-09",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "H4W8MN",
       "expiry": "2026-10-09",
       "days": 0
     },
@@ -321,6 +327,12 @@
       "days": 2
     },
     {
+      "slug": "samgukji-origin2",
+      "code": "7007-7f3b7dbe4-1",
+      "expiry": "2026-10-11",
+      "days": 2
+    },
+    {
       "slug": "soul-strike",
       "code": "SS10GC1K",
       "expiry": "2026-10-11",
@@ -355,18 +367,6 @@
       "code": "1010adg",
       "expiry": "2026-10-12",
       "days": 3
-    },
-    {
-      "slug": "ghost-hunter",
-      "code": "1011sfh",
-      "expiry": "2026-10-12",
-      "days": 3
-    },
-    {
-      "slug": "god-kkaebi",
-      "code": "eo6c2imh",
-      "expiry": "2026-10-12",
-      "days": 3
     }
   ],
   "topGames": [
@@ -387,8 +387,13 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 17,
-      "total": 17
+      "active": 18,
+      "total": 18
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 37
     },
     {
       "slug": "dragon-traveler",
@@ -401,19 +406,14 @@
       "total": 47
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 36
-    },
-    {
       "slug": "honkai-star-rail",
       "active": 14,
       "total": 28
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 66
+      "active": 14,
+      "total": 67
     },
     {
       "slug": "along-with-the-ghost",
@@ -423,6 +423,16 @@
     {
       "slug": "archer-castle-idle",
       "active": 12,
+      "total": 12
+    },
+    {
+      "slug": "sword-frontier",
+      "active": 11,
+      "total": 24
+    },
+    {
+      "slug": "whoa-adventurers",
+      "active": 11,
       "total": 12
     },
     {
@@ -436,24 +446,19 @@
       "total": 13
     },
     {
+      "slug": "dungeon-hunter6-awakening",
+      "active": 10,
+      "total": 36
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
     },
     {
-      "slug": "sword-frontier",
-      "active": 10,
-      "total": 23
-    },
-    {
-      "slug": "whoa-adventurers",
-      "active": 10,
-      "total": 11
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
+      "slug": "eternal-evolution",
       "active": 9,
-      "total": 35
+      "total": 46
     },
     {
       "slug": "reverse-1999",
@@ -464,11 +469,6 @@
       "slug": "bleach-soul-resonance",
       "active": 8,
       "total": 14
-    },
-    {
-      "slug": "busy-savior",
-      "active": 8,
-      "total": 30
     }
   ],
   "noImage": 49

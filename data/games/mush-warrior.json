@@ -2,14 +2,23 @@
   "slug": "mush-warrior",
   "titleEn": "Legend of Mushroom",
   "titleKo": "버섯커 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfMTQ2/MDAxNzkwMTM0MDMzODA3.NqsuHlhZ8fTlPJ1ROE3iwhXSEQLkafv0_77Q1dsndj4g.qdGv6aI8Yu2JLzgHXa9iXr5w_07fJo8Lzf5BooDhFvgg.JPEG/2560_1480.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDhfMjgy/MDAxNzkxNDQ5MDg3Nzkw.zMc5uaqY173Hn9DrYM6ldYN3CDTLJHCJbwOWEvqnR0Ig.LdcmKzxBfmfGGxwEWNMI4oCq0XW8bYdsc-BvUiS0CUYg.JPEG/1009090909.jpg",
   "source": "naver-lounge",
   "loungeId": "MushWarrior",
-  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/8232361",
+  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/8305144",
   "howTo": "",
   "postCount": 3488,
-  "updatedAt": "2026-10-09T00:02:29.972Z",
+  "updatedAt": "2026-10-09T06:19:29.204Z",
   "codes": [
+    {
+      "code": "HANGEUL26",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "status": "active"
+    },
     {
       "code": "Gaecheon",
       "reward": "",

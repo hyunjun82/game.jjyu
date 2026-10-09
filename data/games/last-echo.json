@@ -2,14 +2,23 @@
   "slug": "last-echo",
   "titleEn": "Last Echo",
   "titleKo": "라스트 에코",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMTky/MDAxNzkwMDUxMzAzNzM0.DGdJCkX_ZW8CKaBXqQ_EIjRXFIzrNtfhWkg2g0OUjXEg.EvldJxBmY2x0ZkIftLAaE4dGkQYBj_13t2z8_qNk8tEg.JPEG/800-800.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMjUy/MDAxNzkwMDUxNDc0MDIw.xCXGhO0ENH1X8KwPSEho5rUOBq-oSeH6XgJNePparfIg.6xewcADM5SJh3aV-FfkFubEOGFmXF9Ym3msGT87yzqMg.JPEG/800-800.jpg",
   "source": "naver-lounge",
   "loungeId": "Last_Echo",
-  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8279536",
+  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8305129",
   "howTo": "",
-  "postCount": 9,
-  "updatedAt": "2026-10-09T00:04:36.832Z",
+  "postCount": 10,
+  "updatedAt": "2026-10-09T06:21:41.248Z",
   "codes": [
+    {
+      "code": "HANGULDAY",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "status": "active"
+    },
     {
       "code": "DANGUN2026",
       "reward": "",

@@ -2,14 +2,23 @@
   "slug": "horde-war-avengers-summon",
   "titleEn": "Horde War Avengers Summon",
   "titleKo": "호드 워:어벤저의 소환",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjlfMzIg/MDAxNzkwNjYzMzQ2NDQ4.cUbH_zwYyO2mUfAxe-MbE-bYpjyzBMKvO4VX0ZkeEr8g.0e2h5NOeurxcJC_2BT_QElCfK-WiWTNn-P64YCSuOdkg.JPEG/%E5%85%91%E6%8D%A2%E7%A0%811.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjlfMjk0/MDAxNzkwNjYzNTMwOTk1.ldSK_d_RMht95sGRbsRNUwN-FT2u5zd5ahSDi-SCXf0g.X1wVoBQGEKJoQz6VekKvYIbl_uE_CAiiNjp600Q0hO8g.JPEG/%E5%85%91%E6%8D%A2%E7%A0%811.jpg",
   "source": "naver-lounge",
   "loungeId": "Horde_War_Avengers_Summon",
-  "sourceUrl": "https://game.naver.com/lounge/Horde_War_Avengers_Summon/board/detail/8276651",
+  "sourceUrl": "https://game.naver.com/lounge/Horde_War_Avengers_Summon/board/detail/8305138",
   "howTo": "",
-  "postCount": 593,
-  "updatedAt": "2026-10-09T00:05:11.117Z",
+  "postCount": 594,
+  "updatedAt": "2026-10-09T06:22:18.579Z",
   "codes": [
+    {
+      "code": "hangeul2026",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "status": "active"
+    },
     {
       "code": "chuseok2026",
       "reward": "",

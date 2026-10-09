@@ -2,14 +2,23 @@
   "slug": "sword-frontier",
   "titleEn": "Sword & Frontier",
   "titleKo": "소드 앤 프론티아",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMzcg/MDAxNzkwNTYxMzMxNDE5._8zrl8PlFkjMa5P1dwE16u4PpFbzj6NEhwJeOFvuFxUg.ENcNp3tvM0HvvZ93D3n5Xu5E_moW1TBcB3IJpfvrOeQg.JPEG/%EC%84%A0%EB%AC%BC%EC%BD%94%EB%93%9C.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjlfMjA1/MDAxNzkwNjYzNDkxMDg5.8JZxSWONJhbejqstc0oqrJukpIetWFnqq8ekGj82fekg.T5RXwT7_UztQEyZBUtS6dWEa1-aDzFf_8dkYk1ZKotgg.PNG/V5.png",
   "source": "naver-lounge",
   "loungeId": "Sword_Frontier",
-  "sourceUrl": "https://game.naver.com/lounge/Sword_Frontier/board/detail/8279597",
+  "sourceUrl": "https://game.naver.com/lounge/Sword_Frontier/board/detail/8305133",
   "howTo": "",
-  "postCount": 2336,
-  "updatedAt": "2026-10-09T00:02:54.742Z",
+  "postCount": 2337,
+  "updatedAt": "2026-10-09T06:19:54.550Z",
   "codes": [
+    {
+      "code": "hangulday26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "status": "active"
+    },
     {
       "code": "Gaecheon26",
       "reward": "",
