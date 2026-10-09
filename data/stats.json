@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T23:52:49.533Z",
+  "generatedAt": "2026-10-09T00:13:38.348Z",
   "today": "2026-10-09",
-  "todayNew": 1,
+  "todayNew": 6,
   "totals": {
     "games": 298,
-    "codes": 4121,
-    "active": 642,
-    "expired": 3479,
-    "withExpiry": 2401
+    "codes": 4126,
+    "active": 661,
+    "expired": 3465,
+    "withExpiry": 2403
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-09",
-      "count": 1
+      "count": 6
     }
   ],
   "expiringSoon": [
@@ -345,6 +345,12 @@
       "days": 2
     },
     {
+      "slug": "dragonnest-world",
+      "code": "HAPPYWEEKLY109D",
+      "expiry": "2026-10-12",
+      "days": 3
+    },
+    {
       "slug": "ghost-hunter",
       "code": "1010adg",
       "expiry": "2026-10-12",
@@ -361,12 +367,6 @@
       "code": "eo6c2imh",
       "expiry": "2026-10-12",
       "days": 3
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "MXDA6184",
-      "expiry": "2026-10-12",
-      "days": 3
     }
   ],
   "topGames": [
@@ -374,6 +374,11 @@
       "slug": "daksa-rpg",
       "active": 21,
       "total": 65
+    },
+    {
+      "slug": "cookie-run-kingdom",
+      "active": 19,
+      "total": 19
     },
     {
       "slug": "apex-girls",
@@ -464,11 +469,6 @@
       "slug": "busy-savior",
       "active": 8,
       "total": 30
-    },
-    {
-      "slug": "eternal-evolution",
-      "active": 8,
-      "total": 45
     }
   ],
   "noImage": 49

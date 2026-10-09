@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-08T19:50:16.360Z",
+  "updatedAt": "2026-10-09T00:10:07.603Z",
   "codes": [
+    {
+      "code": "TAKEFLIGHTAION2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/mmorpg_lab/224431454463",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-09",
+      "status": "active"
+    },
     {
       "code": "HAPPYCHUSEOKAION2",
       "reward": "",
@@ -16,16 +26,6 @@
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-09",
       "status": "active"
-    },
-    {
-      "code": "TAKEFLIGHTAION2",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/game_gallery/224430798014",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-08",
-      "status": "expired"
     },
     {
       "code": "AION2CHAPTERONE",
