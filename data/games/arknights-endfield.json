@@ -3,18 +3,16 @@
   "titleEn": "Arknights_Endfield",
   "titleKo": "명일방주: 엔드필드",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTIz/MDAxNzkxMjY0MTIxMDg4.ZbHEsjSbcVxiduR8hpwFTqbvD7vu27PdKGX8oXokZEAg.1BlsPljGWj6ltg7Ckec4Q1FcWfpZsU1vLSgVBZ6duO0g.PNG/KR_(2).png",
-  "source": "naver-lounge",
-  "loungeId": "Arknights_Endfield",
-  "sourceUrl": "https://game.naver.com/lounge/Arknights_Endfield/board/detail/8296435",
+  "source": "naver-search",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-10-09T13:31:27.658Z",
+  "updatedAt": "2026-10-09T13:44:27.982Z",
   "codes": [
     {
       "code": "ENDFIELDSTEAM",
       "reward": "",
       "expiry": "2026-11-26",
-      "postedAt": "2026-10-07",
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/neopgame/224434818273",
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-10-09",
       "status": "active"
