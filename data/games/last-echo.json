@@ -8,8 +8,26 @@
   "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8305129",
   "howTo": "",
   "postCount": 10,
-  "updatedAt": "2026-10-09T23:30:38.356Z",
+  "updatedAt": "2026-10-10T02:38:32.948Z",
   "codes": [
+    {
+      "code": "HANGUL26",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10",
+      "status": "active"
+    },
+    {
+      "code": "DANGUN26",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10",
+      "status": "active"
+    },
     {
       "code": "HANGULDAY",
       "reward": "",

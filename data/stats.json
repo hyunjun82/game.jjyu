@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T23:43:23.013Z",
+  "generatedAt": "2026-10-10T02:49:20.020Z",
   "today": "2026-10-10",
-  "todayNew": 1,
+  "todayNew": 10,
   "totals": {
     "games": 298,
-    "codes": 4160,
-    "active": 669,
-    "expired": 3491,
-    "withExpiry": 2432
+    "codes": 4169,
+    "active": 679,
+    "expired": 3490,
+    "withExpiry": 2439
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-10",
-      "count": 1
+      "count": 10
     }
   ],
   "expiringSoon": [
@@ -382,8 +382,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 18,
-      "total": 18
+      "active": 19,
+      "total": 19
     },
     {
       "slug": "cookie-run-kingdom",
@@ -426,6 +426,11 @@
       "total": 12
     },
     {
+      "slug": "dungeon-hunter6-awakening",
+      "active": 11,
+      "total": 37
+    },
+    {
       "slug": "sword-frontier",
       "active": 11,
       "total": 24
@@ -444,11 +449,6 @@
       "slug": "byeolbyeol-hero",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 10,
-      "total": 36
     },
     {
       "slug": "inferno-nine",

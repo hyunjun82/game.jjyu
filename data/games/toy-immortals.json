@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-09T19:25:53.533Z",
+  "updatedAt": "2026-10-10T02:48:13.145Z",
   "codes": [
     {
       "code": "TOYGALAXY1",
@@ -68,6 +68,16 @@
       "status": "active"
     },
     {
+      "code": "TOYMRZPRE",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/youneedtochill/224419871545",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-10",
+      "status": "active"
+    },
+    {
       "code": "TOYGOOGLE1",
       "reward": "",
       "expiry": null,
@@ -76,16 +86,6 @@
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-10",
       "status": "active"
-    },
-    {
-      "code": "TOYMRZPRE",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-26",
-      "sourceUrl": "https://blog.naver.com/aispark/224422764767",
-      "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-10",
-      "status": "expired"
     }
   ]
 }
