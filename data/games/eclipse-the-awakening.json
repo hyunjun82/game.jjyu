@@ -5,17 +5,27 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-10T02:43:24.596Z",
+  "updatedAt": "2026-10-10T05:58:10.201Z",
   "codes": [
     {
       "code": "0910ECLIPSE",
       "reward": "",
-      "expiry": "2026-11-10",
-      "postedAt": "2026-09-10",
-      "sourceUrl": "https://blog.naver.com/yolofnc/224407016557",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-06",
+      "sourceUrl": "https://blog.naver.com/jjjang1864/224432884734",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-10",
       "status": "active"
+    },
+    {
+      "code": "BOREUMDALDAL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/nyria99/224420947803",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10",
+      "status": "expired"
     },
     {
       "code": "0914ECLIPSE1ST",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T02:49:20.020Z",
+  "generatedAt": "2026-10-10T06:08:13.375Z",
   "today": "2026-10-10",
-  "todayNew": 10,
+  "todayNew": 17,
   "totals": {
-    "games": 298,
-    "codes": 4169,
-    "active": 679,
-    "expired": 3490,
-    "withExpiry": 2439
+    "games": 299,
+    "codes": 4176,
+    "active": 685,
+    "expired": 3491,
+    "withExpiry": 2442
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-10",
-      "count": 10
+      "count": 17
     }
   ],
   "expiringSoon": [
@@ -131,6 +131,12 @@
     {
       "slug": "idle-berserker",
       "code": "OCTOCT5726",
+      "expiry": "2026-10-10",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "Z7K3PC",
       "expiry": "2026-10-10",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "1011sfh",
       "expiry": "2026-10-12",
       "days": 2
-    },
-    {
-      "slug": "god-kkaebi",
-      "code": "eo6c2imh",
-      "expiry": "2026-10-12",
-      "days": 2
     }
   ],
   "topGames": [
@@ -386,14 +386,14 @@
       "total": 19
     },
     {
-      "slug": "cookie-run-kingdom",
-      "active": 16,
-      "total": 19
-    },
-    {
       "slug": "idle-berserker",
       "active": 16,
       "total": 48
+    },
+    {
+      "slug": "cookie-run-kingdom",
+      "active": 15,
+      "total": 19
     },
     {
       "slug": "dragon-traveler",
@@ -401,19 +401,19 @@
       "total": 69
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 15,
+      "total": 38
+    },
+    {
       "slug": "honkai-star-rail",
       "active": 14,
       "total": 28
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 14,
-      "total": 37
-    },
-    {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 67
+      "active": 14,
+      "total": 68
     },
     {
       "slug": "along-with-the-ghost",
@@ -471,5 +471,5 @@
       "total": 9
     }
   ],
-  "noImage": 49
+  "noImage": 50
 }
