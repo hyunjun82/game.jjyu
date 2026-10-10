@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-10T06:08:13.375Z",
+  "generatedAt": "2026-10-10T09:28:52.772Z",
   "today": "2026-10-10",
   "todayNew": 17,
   "totals": {
     "games": 299,
     "codes": 4176,
-    "active": 685,
-    "expired": 3491,
+    "active": 680,
+    "expired": 3496,
     "withExpiry": 2442
   },
   "newByDate": [
@@ -456,11 +456,6 @@
       "total": 13
     },
     {
-      "slug": "com2us-pro-baseball-v22",
-      "active": 9,
-      "total": 13
-    },
-    {
       "slug": "eternal-evolution",
       "active": 9,
       "total": 46
@@ -469,6 +464,11 @@
       "slug": "reverse-1999",
       "active": 9,
       "total": 9
+    },
+    {
+      "slug": "zenless-zone-zero",
+      "active": 9,
+      "total": 14
     }
   ],
   "noImage": 50

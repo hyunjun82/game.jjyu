@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-10T02:36:06.925Z",
+  "generatedAt": "2026-10-10T09:16:12.558Z",
   "games": [
     {
       "slug": "f4-u",
@@ -69,10 +69,10 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
+      "slug": "sweethome",
+      "loungeId": "sweethome",
+      "titleKo": "스위트홈 : 욕망의 파편",
+      "titleEn": "Sweethome"
     },
     {
       "slug": "pokemon-go",
@@ -123,24 +123,6 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
-    },
-    {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
-    },
-    {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -153,64 +135,10 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
-    },
-    {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
-    },
-    {
-      "slug": "mnlkr",
-      "loungeId": "mnlkr",
-      "titleKo": "머지데이 나잇 라이브",
-      "titleEn": "Mnlkr"
-    },
-    {
-      "slug": "moeverse-live",
-      "loungeId": "MOEVERSE_LIVE",
-      "titleKo": "모에버스:라이브",
-      "titleEn": "Moeverse Live"
-    },
-    {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
-    },
-    {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
-      "slug": "plantis-zombie-gangsters",
-      "loungeId": "Plantis_Zombie_Gangsters",
-      "titleKo": "플랜티스와 좀비깡패",
-      "titleEn": "Plantis Zombie Gangsters"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
     },
     {
       "slug": "redmythnezha",
@@ -219,28 +147,10 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
       "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
-    },
-    {
-      "slug": "saint-girl",
-      "loungeId": "Saint_Girl",
-      "titleKo": "이세계 성녀 키우기",
-      "titleEn": "Saint Girl"
     },
     {
       "slug": "samguk-origin",
@@ -249,10 +159,64 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji Kingdom"
+      "slug": "seondo-m",
+      "loungeId": "Seondo_M",
+      "titleKo": "선도M : 선마결전",
+      "titleEn": "Seondo M"
+    },
+    {
+      "slug": "sera-eternals",
+      "loungeId": "SERA_ETERNALS",
+      "titleKo": "세라: 이터널스",
+      "titleEn": "Sera Eternals"
+    },
+    {
+      "slug": "seraphim-saga",
+      "loungeId": "Seraphim_Saga",
+      "titleKo": "세라핌 사가: 날개소녀 키우기",
+      "titleEn": "Seraphim Saga"
+    },
+    {
+      "slug": "shoot-shoot",
+      "loungeId": "ShootShoot",
+      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
+      "titleEn": "Shoot Shoot"
+    },
+    {
+      "slug": "silver-and-blood",
+      "loungeId": "Silver_And_Blood",
+      "titleKo": "실버 앤 블러드",
+      "titleEn": "Silver And Blood"
+    },
+    {
+      "slug": "silver-palace",
+      "loungeId": "Silver_Palace",
+      "titleKo": "실버 팰리스",
+      "titleEn": "Silver Palace"
+    },
+    {
+      "slug": "skull-defense",
+      "loungeId": "Skull_Defense",
+      "titleKo": "스컬디펜스",
+      "titleEn": "Skull Defense"
+    },
+    {
+      "slug": "slingshooter",
+      "loungeId": "slingshooter",
+      "titleKo": "용사의 모험: 슬링슈터",
+      "titleEn": "Slingshooter"
+    },
+    {
+      "slug": "solosamguk",
+      "loungeId": "solosamguk",
+      "titleKo": "나 혼자 만렙 삼국",
+      "titleEn": "Solosamguk"
+    },
+    {
+      "slug": "soul-land-second-coming",
+      "loungeId": "Soul_Land_Second_Coming",
+      "titleKo": "소울랜드:세컨드 커밍",
+      "titleEn": "Soul Land Second Coming"
     },
     {
       "slug": "star-of-the-overlord",
@@ -265,6 +229,18 @@
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
+    },
+    {
+      "slug": "striked-fixer",
+      "loungeId": "Striked_Fixer",
+      "titleKo": "내리침 해결사",
+      "titleEn": "Striked Fixer"
+    },
+    {
+      "slug": "stylight",
+      "loungeId": "stylight",
+      "titleKo": "스타일라잇",
+      "titleEn": "Stylight"
     },
     {
       "slug": "survivorio",
