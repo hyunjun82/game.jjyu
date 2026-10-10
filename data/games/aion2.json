@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-10T09:24:08.433Z",
+  "updatedAt": "2026-10-10T15:46:39.940Z",
   "codes": [
     {
       "code": "TAKEFLIGHTAION2",
@@ -15,7 +15,7 @@
       "sourceUrl": "https://blog.naver.com/game_gallery/224430798014",
       "firstSeen": "2026-10-04",
       "lastSeen": "2026-10-10",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "HAPPYCHUSEOKAION2",
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-25",
       "sourceUrl": "https://blog.naver.com/greedady/224422745801",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {

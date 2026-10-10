@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Nostalgic_Corner_Store/board/detail/8306660",
   "howTo": "게임 접속 후, 마을 화면 왼쪽의 파란 삼각형 클릭 → 설정 선택 → 쿠폰 코드 입력 후 교환 (대소문자 구분) 교환 마감일: 2026년 10월 16일 0:00 (UTC+9) •••✦🍭••✧🕰️••✦🏪••✧🧸•••",
   "postCount": 18,
-  "updatedAt": "2026-10-10T12:50:15.843Z",
+  "updatedAt": "2026-10-10T15:41:11.241Z",
   "codes": [
     {
       "code": "GIFTwz7jMW",
@@ -16,16 +16,7 @@
       "expiry": "2026-10-16",
       "postedAt": "2026-10-09",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-10-10",
-      "status": "active"
-    },
-    {
-      "code": "HAPPY1anniv",
-      "reward": "",
-      "expiry": "2026-10-10",
-      "postedAt": "2026-10-03",
-      "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "active"
     },
     {
@@ -34,8 +25,17 @@
       "expiry": "2026-10-11",
       "postedAt": "2026-10-04",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "active"
+    },
+    {
+      "code": "HAPPY1anniv",
+      "reward": "",
+      "expiry": "2026-10-10",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-11",
+      "status": "expired"
     },
     {
       "code": "GIFT9U7kwW",
@@ -43,7 +43,7 @@
       "expiry": "2026-10-09",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-10-08",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-05-15",
       "postedAt": "2026-05-08",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": "2026-10-02",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -79,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -88,7 +88,7 @@
       "expiry": "2026-09-25",
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -97,7 +97,7 @@
       "expiry": "2026-09-18",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -106,7 +106,7 @@
       "expiry": "2026-09-11",
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "expiry": "2026-09-04",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -124,7 +124,7 @@
       "expiry": "2026-08-28",
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -133,7 +133,7 @@
       "expiry": "2026-08-22",
       "postedAt": "2026-08-15",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -142,7 +142,7 @@
       "expiry": "2026-08-21",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {
@@ -151,7 +151,7 @@
       "expiry": "2026-08-14",
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-11",
       "status": "expired"
     },
     {

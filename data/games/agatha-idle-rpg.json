@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-09T00:08:56.576Z",
+  "updatedAt": "2026-10-10T15:45:30.497Z",
   "codes": [
+    {
+      "code": "VOLTEX",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/shitet7/224435639166",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "status": "active"
+    },
     {
       "code": "AGATHA2026",
       "reward": "",

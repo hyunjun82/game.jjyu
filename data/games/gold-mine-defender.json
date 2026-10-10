@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-10T09:23:28.675Z",
+  "updatedAt": "2026-10-10T15:45:59.003Z",
   "codes": [
     {
       "code": "GOLD2026",
@@ -14,8 +14,8 @@
       "postedAt": "2026-09-26",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224423002020",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-10",
-      "status": "active"
+      "lastSeen": "2026-10-11",
+      "status": "expired"
     },
     {
       "code": "GMDDEFENDER",
@@ -24,8 +24,8 @@
       "postedAt": "2026-09-26",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224423002020",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-10",
-      "status": "active"
+      "lastSeen": "2026-10-11",
+      "status": "expired"
     },
     {
       "code": "YUEGAMEGMD",
@@ -34,8 +34,8 @@
       "postedAt": "2026-09-26",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224423002020",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-10",
-      "status": "active"
+      "lastSeen": "2026-10-11",
+      "status": "expired"
     }
   ]
 }
