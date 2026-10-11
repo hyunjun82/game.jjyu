@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T23:21:32.281Z",
+  "generatedAt": "2026-10-11T02:23:09.308Z",
   "today": "2026-10-11",
-  "todayNew": 3,
+  "todayNew": 4,
   "totals": {
     "games": 299,
-    "codes": 4179,
-    "active": 659,
+    "codes": 4180,
+    "active": 660,
     "expired": 3520,
-    "withExpiry": 2442
+    "withExpiry": 2443
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-11",
-      "count": 3
+      "count": 4
     }
   ],
   "expiringSoon": [
@@ -456,6 +456,11 @@
       "total": 13
     },
     {
+      "slug": "busy-savior",
+      "active": 9,
+      "total": 31
+    },
+    {
       "slug": "reverse-1999",
       "active": 9,
       "total": 9
@@ -464,11 +469,6 @@
       "slug": "zenless-zone-zero",
       "active": 9,
       "total": 14
-    },
-    {
-      "slug": "busy-savior",
-      "active": 8,
-      "total": 30
     }
   ],
   "noImage": 50
