@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-09-18T18:20:33.525Z",
+  "updatedAt": "2026-10-11T09:14:22.093Z",
   "codes": [
+    {
+      "code": "CATHERO3RDEVE1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "status": "active"
+    },
+    {
+      "code": "CATHERO3RDDAY3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "status": "active"
+    },
     {
       "code": "CATHERO2026",
       "reward": "",
@@ -15,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/appealucx/224409438168",
       "firstSeen": "2026-09-16",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "CATPOWER",
@@ -25,7 +45,7 @@
       "sourceUrl": "https://blog.naver.com/appealucx/224409438168",
       "firstSeen": "2026-09-16",
       "lastSeen": "2026-09-19",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }
