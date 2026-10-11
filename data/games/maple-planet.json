@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T09:23:05.180Z",
+  "updatedAt": "2026-10-11T12:49:35.294Z",
   "codes": [
     {
       "code": "PLANETSPORTSDAY1",
@@ -26,6 +26,16 @@
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-10-11",
       "status": "active"
+    },
+    {
+      "code": "2026Choseok",
+      "reward": "",
+      "expiry": "2026-09-25",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/rumy97/224422418854",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-11",
+      "status": "expired"
     },
     {
       "code": "PLANETSPORTSDAY6",
