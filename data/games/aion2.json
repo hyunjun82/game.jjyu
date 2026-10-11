@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T16:03:45.013Z",
+  "updatedAt": "2026-10-11T22:07:16.869Z",
   "codes": [
-    {
-      "code": "HAPPYCHUSEOKAION2",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-02",
-      "sourceUrl": "https://blog.naver.com/mola__mola/224425687695",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
-      "status": "active"
-    },
     {
       "code": "TAKEFLIGHTAION2",
       "reward": "",
@@ -28,13 +18,23 @@
       "status": "expired"
     },
     {
+      "code": "HAPPYCHUSEOKAION2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/bebe_rabit/224420280353",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-12",
+      "status": "expired"
+    },
+    {
       "code": "AION2CHAPTERONE",
       "reward": "",
       "expiry": "2026-09-30",
       "postedAt": "2026-09-16",
       "sourceUrl": "https://blog.naver.com/jjsabu/224414040908",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-10",
+      "lastSeen": "2026-10-12",
       "status": "expired"
     }
   ]
