@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T02:23:09.308Z",
+  "generatedAt": "2026-10-11T05:51:02.879Z",
   "today": "2026-10-11",
-  "todayNew": 4,
+  "todayNew": 7,
   "totals": {
     "games": 299,
-    "codes": 4180,
-    "active": 660,
-    "expired": 3520,
-    "withExpiry": 2443
+    "codes": 4183,
+    "active": 669,
+    "expired": 3514,
+    "withExpiry": 2446
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-11",
-      "count": 4
+      "count": 7
     }
   ],
   "expiringSoon": [
@@ -131,6 +131,12 @@
     {
       "slug": "martial-arts",
       "code": "109Hangul",
+      "expiry": "2026-10-11",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "M5Y9QT",
       "expiry": "2026-10-11",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "FabreD3",
       "expiry": "2026-10-14",
       "days": 3
-    },
-    {
-      "slug": "max-level-idle",
-      "code": "FabreD4",
-      "expiry": "2026-10-14",
-      "days": 3
     }
   ],
   "topGames": [
@@ -392,18 +392,18 @@
     },
     {
       "slug": "dragon-traveler",
-      "active": 15,
-      "total": 69
+      "active": 16,
+      "total": 70
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 39
     },
     {
       "slug": "idle-berserker",
       "active": 15,
       "total": 48
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 38
     },
     {
       "slug": "honkai-star-rail",
@@ -412,8 +412,8 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 68
+      "active": 14,
+      "total": 69
     },
     {
       "slug": "along-with-the-ghost",
@@ -461,14 +461,14 @@
       "total": 31
     },
     {
+      "slug": "com2us-pro-baseball-v22",
+      "active": 9,
+      "total": 13
+    },
+    {
       "slug": "reverse-1999",
       "active": 9,
       "total": 9
-    },
-    {
-      "slug": "zenless-zone-zero",
-      "active": 9,
-      "total": 14
     }
   ],
   "noImage": 50

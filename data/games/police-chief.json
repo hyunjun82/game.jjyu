@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T02:17:42.513Z",
+  "updatedAt": "2026-10-11T05:41:34.611Z",
   "codes": [
     {
       "code": "CHIEFTRAVELS",
@@ -68,6 +68,16 @@
       "status": "expired"
     },
     {
+      "code": "SIRENOFF",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-18",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224416489775",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-11",
+      "status": "expired"
+    },
+    {
       "code": "CHUSEOCK26",
       "reward": "",
       "expiry": null,
@@ -83,16 +93,6 @@
       "expiry": null,
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/hyah408/224420102404",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
-      "status": "expired"
-    },
-    {
-      "code": "SIRENOFF",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-18",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224416489775",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-11",
       "status": "expired"
