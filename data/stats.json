@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-10-11T12:53:27.757Z",
-  "today": "2026-10-11",
-  "todayNew": 10,
+  "generatedAt": "2026-10-11T16:08:48.242Z",
+  "today": "2026-10-12",
+  "todayNew": 1,
   "totals": {
     "games": 299,
-    "codes": 4186,
-    "active": 664,
-    "expired": 3522,
+    "codes": 4187,
+    "active": 630,
+    "expired": 3557,
     "withExpiry": 2447
   },
   "newByDate": [
-    {
-      "date": "2026-09-28",
-      "count": 226
-    },
     {
       "date": "2026-09-29",
       "count": 54
@@ -65,307 +61,311 @@
     {
       "date": "2026-10-11",
       "count": 10
+    },
+    {
+      "date": "2026-10-12",
+      "count": 1
     }
   ],
   "expiringSoon": [
     {
-      "slug": "archer-castle-idle",
-      "code": "SIRYUN100",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "archer-castle-idle",
-      "code": "AFFLE2",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "beast-lord-the-new-land",
-      "code": "BLGX90PL7",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "dragon-n-tiger",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "dragonblade-grow",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "ghostvengers",
-      "code": "FJZDHJXN",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "horde-war-avengers-summon",
-      "code": "tghbserfg",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "WLSD742",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "idle-king",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "kurobas-sr",
-      "code": "1005AOWNZNVHS",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "martial-arts",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "max-level-idle",
-      "code": "M5Y9QT",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "merge-seasons",
-      "code": "timetreasure",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "monster-taming-stardive",
-      "code": "MONGILPRESENT",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "monster-taming-stardive",
-      "code": "MONGILDISCORD",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "monster-taming-stardive",
-      "code": "LOVEMONGIL",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "nostalgic-corner-store",
-      "code": "HappyANNIV1",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "officequeen",
-      "code": "uxbayqofdm",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "palace-brilliant-dream",
-      "code": "r8o6yqxpyf",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "potatozombie",
-      "code": "HZXFNPCN7ZS5CS",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "redmythnezha",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "samgukji-origin2",
-      "code": "7007-7f3b7dbe4-1",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "soul-strike",
-      "code": "SS10GC1K",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "star-of-the-overlord",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "stone-three-kingdoms",
-      "code": "109Hangul",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "vardian",
-      "code": "EVENT1009",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "zenless-zone-zero",
-      "code": "JRNY2SKY",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "zenless-zone-zero",
-      "code": "ZZZGRIND32",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "zenless-zone-zero",
-      "code": "ZZZINK32",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "zenless-zone-zero",
-      "code": "ZZZVOID32",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
-      "slug": "zenless-zone-zero",
-      "code": "ZENLESSGIFT",
-      "expiry": "2026-10-11",
-      "days": 0
-    },
-    {
       "slug": "dragonnest-world",
       "code": "HAPPYWEEKLY109D",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghost-hunter",
       "code": "1010adg",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "ghost-hunter",
       "code": "1011sfh",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "god-kkaebi",
       "code": "eo6c2imh",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "MXDA6184",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "the-grand-mafia",
       "code": "Double10th26",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "top-heroes",
       "code": "GB75598DC1",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "vardian",
       "code": "UP1006",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "what-the-bug",
       "code": "HANG09",
       "expiry": "2026-10-12",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "TQEK395",
       "expiry": "2026-10-13",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "requiem-m",
       "code": "1003GAECHEON",
       "expiry": "2026-10-13",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "theplayofgenesis",
       "code": "CHIXKARLS",
       "expiry": "2026-10-13",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "what-the-bug",
       "code": "YL32F6",
       "expiry": "2026-10-13",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "f-class-hero",
       "code": "GiftSep9End",
       "expiry": "2026-10-14",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "HNVR826",
       "expiry": "2026-10-14",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "kalpa-of-universe",
       "code": "Version1008",
       "expiry": "2026-10-14",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "max-level-idle",
       "code": "FabreD1",
       "expiry": "2026-10-14",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "max-level-idle",
       "code": "FabreD2",
       "expiry": "2026-10-14",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "max-level-idle",
       "code": "FabreD3",
       "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "FabreD4",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "FabreD5",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "FabreD6",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "FabreD7",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "SEASONSEP1",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "SEASONSEPUP",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "EE1005DV7B",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "EE1002V69B",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "EE0930VDF3",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "eternal-evolution",
+      "code": "EE0928V48F",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "eternal-return",
+      "code": "2NDERGIFTBOX",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "code": "NIKKEPC",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "code": "NIKKE1104",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "code": "NIKKEGIFT",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "code": "2026HAPPYNEWYEAR",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "code": "2026EATBETTER",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "goddess-of-victory-nikke",
+      "code": "2026LETSDANCE",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "horde-war-avengers-summon",
+      "code": "chuseok2026",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "XSDG471",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "nekofighteridle",
+      "code": "100WISH",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "nekofighteridle",
+      "code": "WISH75",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "nekofighteridle",
+      "code": "WISH50",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "nekofighteridle",
+      "code": "WISH25",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "reverse-1999",
+      "code": "RESCUEMEDAL",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "reverse-1999",
+      "code": "ECHOESOFTIME",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "reverse-1999",
+      "code": "MOTHLIGHT",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "reverse-1999",
+      "code": "SHELTERDOVES",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "reverse-1999",
+      "code": "DESPERATECOUNTER",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "samgukji-origin2",
+      "code": "7004-806ea7540-1",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "samgukji2022",
+      "code": "0H4KTL55",
+      "expiry": "2026-10-15",
+      "days": 3
+    },
+    {
+      "slug": "spirit-king",
+      "code": "HANGUL2026",
+      "expiry": "2026-10-15",
       "days": 3
     }
   ],
@@ -386,24 +386,24 @@
       "total": 58
     },
     {
-      "slug": "cookie-run-kingdom",
-      "active": 16,
-      "total": 19
-    },
-    {
       "slug": "dragon-traveler",
       "active": 16,
       "total": 70
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 16,
-      "total": 39
+      "slug": "cookie-run-kingdom",
+      "active": 15,
+      "total": 19
     },
     {
       "slug": "idle-berserker",
       "active": 15,
       "total": 48
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 15,
+      "total": 39
     },
     {
       "slug": "honkai-star-rail",
@@ -412,16 +412,11 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 14,
+      "active": 13,
       "total": 69
     },
     {
       "slug": "along-with-the-ghost",
-      "active": 12,
-      "total": 12
-    },
-    {
-      "slug": "archer-castle-idle",
       "active": 12,
       "total": 12
     },
@@ -438,6 +433,11 @@
     {
       "slug": "whoa-adventurers",
       "active": 11,
+      "total": 12
+    },
+    {
+      "slug": "archer-castle-idle",
+      "active": 10,
       "total": 12
     },
     {
@@ -466,8 +466,8 @@
       "total": 9
     },
     {
-      "slug": "zenless-zone-zero",
-      "active": 9,
+      "slug": "bleach-soul-resonance",
+      "active": 7,
       "total": 14
     }
   ],

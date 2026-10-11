@@ -5,28 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T05:46:27.231Z",
+  "updatedAt": "2026-10-11T16:08:18.180Z",
   "codes": [
-    {
-      "code": "SIRYUN100",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/lcrnbnuxvxenhw/224434994600",
-      "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
-    {
-      "code": "AFFLE2",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/lcrnbnuxvxenhw/224434994600",
-      "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
     {
       "code": "OPEN0820",
       "reward": "",
@@ -34,7 +14,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -44,7 +24,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -54,7 +34,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -64,7 +44,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -74,7 +54,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -84,7 +64,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -94,7 +74,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -104,7 +84,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -114,7 +94,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -124,8 +104,28 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
+    },
+    {
+      "code": "SIRYUN100",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/lcrnbnuxvxenhw/224434994600",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-11",
+      "status": "expired"
+    },
+    {
+      "code": "AFFLE2",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/lcrnbnuxvxenhw/224434994600",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-10-11",
+      "status": "expired"
     }
   ]
 }

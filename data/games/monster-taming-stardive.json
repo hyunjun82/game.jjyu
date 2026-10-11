@@ -5,38 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T12:44:30.221Z",
+  "updatedAt": "2026-10-11T16:03:30.606Z",
   "codes": [
-    {
-      "code": "MONGILPRESENT",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-03",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
-    {
-      "code": "MONGILDISCORD",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-03",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
-    {
-      "code": "LOVEMONGIL",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-03",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
     {
       "code": "NEWEPISODE7",
       "reward": "",
@@ -44,7 +14,7 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -54,8 +24,38 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
+    },
+    {
+      "code": "MONGILPRESENT",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-12",
+      "status": "expired"
+    },
+    {
+      "code": "MONGILDISCORD",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-12",
+      "status": "expired"
+    },
+    {
+      "code": "LOVEMONGIL",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-12",
+      "status": "expired"
     },
     {
       "code": "PLAYMONGIL",
@@ -64,7 +64,7 @@
       "postedAt": "2026-09-27",
       "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "expired"
     },
     {

@@ -5,18 +5,8 @@
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T12:42:28.363Z",
+  "updatedAt": "2026-10-11T16:01:41.003Z",
   "codes": [
-    {
-      "code": "JRNY2SKY",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
     {
       "code": "ZZZFREE100",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -34,7 +24,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -44,7 +34,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -54,8 +44,18 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
+    },
+    {
+      "code": "JRNY2SKY",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/noorimer/224436628278",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-12",
+      "status": "expired"
     },
     {
       "code": "ZZZGRIND32",
@@ -64,8 +64,8 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-11",
-      "status": "active"
+      "lastSeen": "2026-10-12",
+      "status": "expired"
     },
     {
       "code": "ZZZINK32",
@@ -74,8 +74,8 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-11",
-      "status": "active"
+      "lastSeen": "2026-10-12",
+      "status": "expired"
     },
     {
       "code": "ZZZVOID32",
@@ -84,18 +84,8 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-11",
-      "status": "active"
-    },
-    {
-      "code": "ZENLESSGIFT",
-      "reward": "50 Polychrome, 2 Official Investigator Log, 3 W-Engine Power Supply, 1 Bangboo Algorithm Module",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-11",
-      "status": "active"
+      "lastSeen": "2026-10-12",
+      "status": "expired"
     },
     {
       "code": "ZZZ2YEAR",
@@ -135,6 +125,16 @@
       "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-06",
+      "status": "expired"
+    },
+    {
+      "code": "ZENLESSGIFT",
+      "reward": "50 Polychrome, 2 Official Investigator Log, 3 W-Engine Power Supply, 1 Bangboo Algorithm Module",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-10-12",
       "status": "expired"
     },
     {

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-11T12:49:02.449Z",
+  "updatedAt": "2026-10-11T16:08:02.462Z",
   "codes": [
     {
       "code": "STONEFULLMOON",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-07",
       "sourceUrl": "https://blog.naver.com/marbleblog/224433246052",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-29",
       "sourceUrl": "https://blog.naver.com/neopgame/224425526075",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11",
+      "lastSeen": "2026-10-12",
       "status": "active"
     }
   ]
