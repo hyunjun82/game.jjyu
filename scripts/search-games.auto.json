@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-11T19:55:39.662Z",
+  "generatedAt": "2026-10-11T23:24:23.240Z",
   "games": [
     {
       "slug": "f4-u",
@@ -69,6 +69,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -87,64 +93,28 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "cheon-sam-mu",
-      "loungeId": "CheonSamMu",
-      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
-      "titleEn": "Cheon Sam Mu"
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
     },
     {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
     },
     {
-      "slug": "come-on-alien",
-      "loungeId": "Come_on_Alien",
-      "titleKo": "덤벼라 외계인!",
-      "titleEn": "Come On Alien"
+      "slug": "devil-hunter-idle",
+      "loungeId": "Devil_Hunter_Idle",
+      "titleKo": "데빌 헌터 키우기",
+      "titleEn": "Devil Hunter Idle"
     },
     {
-      "slug": "crystal-of-atlan",
-      "loungeId": "Crystal_of_Atlan",
-      "titleKo": "CoA: 아틀란의 크리스탈",
-      "titleEn": "Crystal Of Atlan"
-    },
-    {
-      "slug": "darkanddarkermobile",
-      "loungeId": "darkanddarkermobile",
-      "titleKo": "어비스 오브 던전",
-      "titleEn": "Darkanddarkermobile"
-    },
-    {
-      "slug": "dark-clan",
-      "loungeId": "Dark_Clan",
-      "titleKo": "다크 클랜 : 수집 방치형 RPG",
-      "titleEn": "Dark Clan"
-    },
-    {
-      "slug": "dark-slayer-sd",
-      "loungeId": "Dark_Slayer_SD",
-      "titleKo": "다크슬레이어2",
-      "titleEn": "Dark Slayer Sd"
-    },
-    {
-      "slug": "dark-three-kingdoms",
-      "loungeId": "DARK_THREE_KINGDOMS",
-      "titleKo": "다크삼국",
-      "titleEn": "Dark Three Kingdoms"
-    },
-    {
-      "slug": "darkeden-r",
-      "loungeId": "DARKEDEN_R",
-      "titleKo": "다크에덴R",
-      "titleEn": "Darkeden R"
-    },
-    {
-      "slug": "dark-hero-kiugi",
-      "loungeId": "DarkHeroKiugi",
-      "titleKo": "다크 히어로 키우기",
-      "titleEn": "Dark Hero Kiugi"
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -189,46 +159,82 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "pirate",
-      "loungeId": "pirate",
-      "titleKo": "우당탕탕 해적단",
-      "titleEn": "Pirate"
-    },
-    {
-      "slug": "pixel-heroic-legend",
-      "loungeId": "Pixel_Heroic_Legend",
-      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
-      "titleEn": "Pixel Heroic Legend"
-    },
-    {
-      "slug": "pk-world",
-      "loungeId": "PkWorld",
-      "titleKo": "PK월드",
-      "titleEn": "Pk World"
-    },
-    {
-      "slug": "play-together",
-      "loungeId": "Play_Together",
-      "titleKo": "플레이투게더",
-      "titleEn": "Play Together"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "primal-conquest-dino-era",
-      "loungeId": "Primal_Conquest_Dino_Era",
-      "titleKo": "쥬라기 대륙: 디노시아",
-      "titleEn": "Primal Conquest Dino Era"
+      "slug": "pocket-knight",
+      "loungeId": "Pocket_Knight",
+      "titleKo": "로얄 나이트 키우기",
+      "titleEn": "Pocket Knight"
+    },
+    {
+      "slug": "popucom",
+      "loungeId": "POPUCOM",
+      "titleKo": "팝유컴",
+      "titleEn": "Popucom"
+    },
+    {
+      "slug": "prime-football-manager",
+      "loungeId": "Prime_Football_Manager",
+      "titleKo": "프라임 풋볼 매니저",
+      "titleEn": "Prime Football Manager"
+    },
+    {
+      "slug": "pro-soccer-legend-eleven",
+      "loungeId": "Pro_Soccer_Legend_Eleven",
+      "titleKo": "프로사커: 레전드 일레븐",
+      "titleEn": "Pro Soccer Legend Eleven"
+    },
+    {
+      "slug": "promise-of-lingyun",
+      "loungeId": "Promise_of_Lingyun",
+      "titleKo": "능운낙",
+      "titleEn": "Promise Of Lingyun"
+    },
+    {
+      "slug": "promisekr",
+      "loungeId": "promisekr",
+      "titleKo": "궁과 약속",
+      "titleEn": "Promisekr"
+    },
+    {
+      "slug": "queen-of-tower",
+      "loungeId": "Queen_of_Tower",
+      "titleKo": "연무무쌍 : Queen of Tower",
+      "titleEn": "Queen Of Tower"
+    },
+    {
+      "slug": "red-city",
+      "loungeId": "red_city",
+      "titleKo": "붉은 도시",
+      "titleEn": "Red City"
     },
     {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "res",
+      "loungeId": "RES",
+      "titleKo": "레조넌스",
+      "titleEn": "Res"
+    },
+    {
+      "slug": "rin-m",
+      "loungeId": "RinM",
+      "titleKo": "린M:잊혀진 유산",
+      "titleEn": "Rin M"
+    },
+    {
+      "slug": "rise-god-idle",
+      "loungeId": "Rise_God_Idle",
+      "titleKo": "라이즈 신 키우기",
+      "titleEn": "Rise God Idle"
     },
     {
       "slug": "rush-three-kingdom",
@@ -241,6 +247,18 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
+    },
+    {
+      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
+      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
+      "titleKo": "신수의 전설",
+      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
+    },
+    {
+      "slug": "seollaesamguk",
+      "loungeId": "seollaesamguk",
+      "titleKo": "설레 삼국:미인계",
+      "titleEn": "Seollaesamguk"
     },
     {
       "slug": "star-of-the-overlord",
@@ -265,12 +283,6 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
     }
   ]
 }
