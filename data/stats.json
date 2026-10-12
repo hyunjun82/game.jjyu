@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T06:10:10.623Z",
+  "generatedAt": "2026-10-12T10:13:00.970Z",
   "today": "2026-10-12",
-  "todayNew": 25,
+  "todayNew": 36,
   "totals": {
     "games": 300,
-    "codes": 4211,
-    "active": 657,
-    "expired": 3554,
-    "withExpiry": 2461
+    "codes": 4222,
+    "active": 670,
+    "expired": 3552,
+    "withExpiry": 2462
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-12",
-      "count": 25
+      "count": 36
     }
   ],
   "expiringSoon": [
@@ -456,19 +456,19 @@
       "total": 13
     },
     {
+      "slug": "stoneage-idle",
+      "active": 10,
+      "total": 10
+    },
+    {
       "slug": "busy-savior",
       "active": 9,
       "total": 31
     },
     {
-      "slug": "reverse-1999",
+      "slug": "com2us-pro-baseball-v22",
       "active": 9,
-      "total": 9
-    },
-    {
-      "slug": "toy-immortals",
-      "active": 8,
-      "total": 8
+      "total": 13
     }
   ],
   "noImage": 50

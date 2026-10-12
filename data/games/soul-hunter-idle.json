@@ -5,10 +5,10 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTEyMTlfMTU4/MDAxNzY2MTQ2NzkzNDc5.ZvFCQAHhfgJxPAggO-3kzGSsnAdA9oFBK2-MosVwCb0g.zKEHJYVVRBiauoWhfQROXjxadJw0Qi97ItPgQRWzY7Eg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EB%B0%B0%EB%84%88_00.png",
   "source": "naver-lounge",
   "loungeId": "Soul_Hunter_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8301856",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8318156",
   "howTo": "1. AOS의 경우,",
-  "postCount": 37,
-  "updatedAt": "2026-10-12T06:06:59.837Z",
+  "postCount": 38,
+  "updatedAt": "2026-10-12T10:00:10.101Z",
   "codes": [
     {
       "code": "HANGEUL",
@@ -72,6 +72,15 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-12",
       "status": "active"
+    },
+    {
+      "code": "GM0023",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-06",
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "status": "expired"
     },
     {
       "code": "GM0018",
