@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T23:40:08.562Z",
+  "generatedAt": "2026-10-12T02:44:17.372Z",
   "today": "2026-10-12",
-  "todayNew": 1,
+  "todayNew": 14,
   "totals": {
     "games": 299,
-    "codes": 4187,
-    "active": 635,
-    "expired": 3552,
-    "withExpiry": 2447
+    "codes": 4200,
+    "active": 644,
+    "expired": 3556,
+    "withExpiry": 2456
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-12",
-      "count": 1
+      "count": 14
     }
   ],
   "expiringSoon": [
@@ -219,6 +219,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-SNOW",
+      "expiry": "2026-10-14",
+      "days": 2
+    },
+    {
       "slug": "eternal-evolution",
       "code": "EE1005DV7B",
       "expiry": "2026-10-15",
@@ -361,15 +367,14 @@
       "code": "0H4KTL55",
       "expiry": "2026-10-15",
       "days": 3
-    },
-    {
-      "slug": "spirit-king",
-      "code": "HANGUL2026",
-      "expiry": "2026-10-15",
-      "days": 3
     }
   ],
   "topGames": [
+    {
+      "slug": "apex-girls",
+      "active": 21,
+      "total": 61
+    },
     {
       "slug": "daksa-rpg",
       "active": 21,
@@ -377,13 +382,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 19,
-      "total": 19
-    },
-    {
-      "slug": "apex-girls",
-      "active": 18,
-      "total": 58
+      "active": 20,
+      "total": 20
     },
     {
       "slug": "dragon-traveler",
@@ -422,8 +422,8 @@
     },
     {
       "slug": "dungeon-hunter6-awakening",
-      "active": 11,
-      "total": 37
+      "active": 12,
+      "total": 38
     },
     {
       "slug": "sword-frontier",
@@ -461,14 +461,14 @@
       "total": 31
     },
     {
-      "slug": "com2us-pro-baseball-v22",
-      "active": 9,
-      "total": 13
-    },
-    {
       "slug": "reverse-1999",
       "active": 9,
       "total": 9
+    },
+    {
+      "slug": "toy-immortals",
+      "active": 8,
+      "total": 8
     }
   ],
   "noImage": 50

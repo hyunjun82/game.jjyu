@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-11T23:24:23.240Z",
+  "generatedAt": "2026-10-12T02:32:15.036Z",
   "games": [
     {
       "slug": "f4-u",
@@ -69,57 +69,33 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
     },
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "귀신과 함께",
+      "titleKo": "Along_with_the_ghost",
       "titleEn": "Along With The Ghost"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
-    },
-    {
-      "slug": "demonsamguk",
-      "loungeId": "demonsamguk",
-      "titleKo": "전지적 시점:데몬 삼국",
-      "titleEn": "Demonsamguk"
-    },
-    {
-      "slug": "devil-hunter-idle",
-      "loungeId": "Devil_Hunter_Idle",
-      "titleKo": "데빌 헌터 키우기",
-      "titleEn": "Devil Hunter Idle"
-    },
-    {
-      "slug": "devil-note",
-      "loungeId": "Devil_Note",
-      "titleKo": "데빌노트: 보물 헌터",
-      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -137,13 +113,13 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
+      "titleKo": "Eternal_Chronicle",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -155,62 +131,14 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "pocket-knight",
-      "loungeId": "Pocket_Knight",
-      "titleKo": "로얄 나이트 키우기",
-      "titleEn": "Pocket Knight"
-    },
-    {
-      "slug": "popucom",
-      "loungeId": "POPUCOM",
-      "titleKo": "팝유컴",
-      "titleEn": "Popucom"
-    },
-    {
-      "slug": "prime-football-manager",
-      "loungeId": "Prime_Football_Manager",
-      "titleKo": "프라임 풋볼 매니저",
-      "titleEn": "Prime Football Manager"
-    },
-    {
-      "slug": "pro-soccer-legend-eleven",
-      "loungeId": "Pro_Soccer_Legend_Eleven",
-      "titleKo": "프로사커: 레전드 일레븐",
-      "titleEn": "Pro Soccer Legend Eleven"
-    },
-    {
-      "slug": "promise-of-lingyun",
-      "loungeId": "Promise_of_Lingyun",
-      "titleKo": "능운낙",
-      "titleEn": "Promise Of Lingyun"
-    },
-    {
-      "slug": "promisekr",
-      "loungeId": "promisekr",
-      "titleKo": "궁과 약속",
-      "titleEn": "Promisekr"
-    },
-    {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
-    },
-    {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
     },
     {
       "slug": "redmythnezha",
@@ -219,27 +147,9 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -247,18 +157,6 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
-    },
-    {
-      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
-      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
-      "titleKo": "신수의 전설",
-      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
-    },
-    {
-      "slug": "seollaesamguk",
-      "loungeId": "seollaesamguk",
-      "titleKo": "설레 삼국:미인계",
-      "titleEn": "Seollaesamguk"
     },
     {
       "slug": "star-of-the-overlord",
@@ -275,13 +173,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "탕탕특공대",
+      "titleKo": "Survivorio",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "토이 신선",
+      "titleKo": "Toy_Immortals",
       "titleEn": "Toy Immortals"
     }
   ]
