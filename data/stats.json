@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T02:44:17.372Z",
+  "generatedAt": "2026-10-12T06:10:10.623Z",
   "today": "2026-10-12",
-  "todayNew": 14,
+  "todayNew": 25,
   "totals": {
-    "games": 299,
-    "codes": 4200,
-    "active": 644,
-    "expired": 3556,
-    "withExpiry": 2456
+    "games": 300,
+    "codes": 4211,
+    "active": 657,
+    "expired": 3554,
+    "withExpiry": 2461
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-12",
-      "count": 14
+      "count": 25
     }
   ],
   "expiringSoon": [
@@ -95,6 +95,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "MXDA6184",
+      "expiry": "2026-10-12",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "V2N6XR",
       "expiry": "2026-10-12",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "7004-806ea7540-1",
       "expiry": "2026-10-15",
       "days": 3
-    },
-    {
-      "slug": "samgukji2022",
-      "code": "0H4KTL55",
-      "expiry": "2026-10-15",
-      "days": 3
     }
   ],
   "topGames": [
@@ -387,8 +387,13 @@
     },
     {
       "slug": "dragon-traveler",
+      "active": 17,
+      "total": 71
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
       "active": 16,
-      "total": 70
+      "total": 40
     },
     {
       "slug": "cookie-run-kingdom",
@@ -401,19 +406,14 @@
       "total": 48
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 39
-    },
-    {
       "slug": "honkai-star-rail",
       "active": 14,
       "total": 28
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 69
+      "active": 14,
+      "total": 70
     },
     {
       "slug": "along-with-the-ghost",

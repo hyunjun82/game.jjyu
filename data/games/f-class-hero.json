@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA3MjhfMTIg/MDAxNzUzNjcxNDg5OTQx.QL0SKXAy2WEs4gN5FgPxuQl2TJGYyB03LqcmbBqKIBkg.BcwzntPE-XxzFYEKA5Jh5euxZfUOEnokA7KKVrUy01Yg.PNG/title_notice.png",
   "source": "naver-lounge",
   "loungeId": "F_Class_Hero",
-  "sourceUrl": "https://game.naver.com/lounge/F_Class_Hero/board/detail/8296657",
-  "howTo": "1. 게임 내 우측 상단의 메뉴 버튼 터치 > 설정 > 계정 메뉴로 이동 2. 쿠폰 입력 란에 아래의 쿠폰명 입력 (쌍따옴표 안의 텍스트를 쓰시면 됩니다!) 쿠폰명 \" 10OctHallo",
-  "postCount": 181,
-  "updatedAt": "2026-10-12T02:34:02.231Z",
+  "sourceUrl": "https://game.naver.com/lounge/F_Class_Hero/board/detail/8317420",
+  "howTo": "1. 게임 내 우측 상단의 메뉴 버튼 터치 > 설정 > 계정 메뉴로 이동 2. 쿠폰 입력 란에 아래의 쿠폰명 입력 (쌍따옴표 안의 텍스트를 쓰시면 됩니다!) 쿠폰명 \" 2QFreeOct",
+  "postCount": 182,
+  "updatedAt": "2026-10-12T06:08:00.062Z",
   "codes": [
+    {
+      "code": "2QFreeOct",
+      "reward": "",
+      "expiry": "2026-10-26",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "status": "active"
+    },
     {
       "code": "10OctHallo",
       "reward": "",

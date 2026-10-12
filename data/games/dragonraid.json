@@ -1,0 +1,41 @@
+{
+  "slug": "dragonraid",
+  "titleEn": "Dragonraid",
+  "titleKo": "드래곤레이드",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTVfMjYg/MDAxNzg5NDcxNjg4NTk3.ldPVMzMY-0jEAlzFYwEQWCd8Y9ombQ0uLV9Dgtgkv3cg.cPahXLGpK_AvZcFyhDbeeYv4wSM0OPR9rj37s8tY7Ocg.JPEG/GameIcon.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Dragonraid",
+  "sourceUrl": "https://game.naver.com/lounge/Dragonraid/board/detail/8317250",
+  "howTo": "",
+  "postCount": 1,
+  "updatedAt": "2026-10-12T06:09:59.552Z",
+  "codes": [
+    {
+      "code": "D-03",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "code": "D-04",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "status": "active"
+    },
+    {
+      "code": "F-01",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12",
+      "status": "active"
+    }
+  ]
+}
