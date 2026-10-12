@@ -8,24 +8,24 @@
   "sourceUrl": "https://game.naver.com/lounge/Keroro_Gun_Shooting/board/detail/8254393",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-12T10:02:37.745Z",
+  "updatedAt": "2026-10-12T15:37:19.891Z",
   "codes": [
-    {
-      "code": "P202OOOOOKROOOOOOOO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-28",
-      "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-12",
-      "status": "active"
-    },
     {
       "code": "WinnerKeroro1",
       "reward": "",
       "expiry": "2025-09-04",
       "postedAt": "2025-08-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
+    {
+      "code": "P202OOOOOKROOOOOOOO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-10-13",
       "status": "expired"
     }
   ]

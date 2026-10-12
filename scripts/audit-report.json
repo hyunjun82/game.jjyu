@@ -1,31 +1,40 @@
 {
- "generatedAt": "2026-10-12T05:44:35.113Z",
- "window": "20261010~20261012",
+ "generatedAt": "2026-10-12T15:12:26.841Z",
+ "window": "20261011~20261013",
  "lounges": 2322,
- "posts": 262,
- "couponPosts": 38,
+ "posts": 270,
+ "couponPosts": 32,
  "fixedTracked": [
-  "그놈은 드래곤 | Superheroine | 초능력 소녀 테마 특별 이벤트 - 그녀들의 초능력은 무엇일까요...? ",
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | BNQT641 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/12 깜짝 쿠폰!",
-  "천지겁 | HEROSKILL1012 | 법해 | SSR 영웅 빛 속성 철위병 등장! (깜짝 선물 포함🎁)",
-  "나 혼자 만렙 키우기 | V2N6XR | 10/12 사천당가에서 온 매일 매일 쿠폰 이벤트",
-  "오피스 퀸 키우기 | S1-S187 | [이벤트] 「오피스 퀸 키우기」 SP 반짝 멍이!! 10월13일~10월1",
-  "영혼 인도자：신의 이름으로 | Y8P6D2C5 | 월요일 특별 쿠폰 공개",
-  "소울 스트라이크 | SS10ZN2Q | 10월 주간 쿠폰 등장! 2탄"
+  "비스트 로드: The New Land | BL3Y7OWVK | 🎉혜택 타임🎉",
+  "최강 이세계 | GRANDOPEN999 | 성녀전쟁 | 공식 웹 사이트 방문 이벤트 🎉",
+  "최강 이세계 | MAIDENFALL10 | 🍂10월 특별 선물 코드🍁"
  ],
- "addedLounges": [
-  "드래곤레이드 (Dragonraid) → /dragonraid/ | D-03, D-04, F-01"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "다크엔젤:천사 강림 | 2026-10-12 | [이벤트] 심연의 보물 추적전! (10/12~10/18) ",
-  "드림 가든: 추억의 힐링 경영 | 2026-10-10 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "나만 SSS급 퇴마사 | 2026-10-12 | 🔍 [이벤트] 숨은그림찾기! 두 장의 이미지, 다른 점을 찾아라!",
+  "히어로즈 테일즈2 | 2026-10-12 | [히테2] 정식 출시 임박！🎉",
   "호드 워:어벤저의 소환 | 2026-10-12 | 🍂 가을과 가장 잘 어울리는 음식은?(10/12-10/18)",
   "아케론: 종말의 서곡 | 2026-10-12 | [이벤트] 낙원섬 이벤트 만족도 설문조사 안내 🎁(10/12~10/22)",
   "아케론: 종말의 서곡 | 2026-10-11 | [이벤트] 🍂 풍요로운 가을, 용사님의 수확은?（10/11-10/20）",
   "리치리치:부자되는 법 | 2026-10-12 | [이벤트] 초고난도 리치리치 QUIZ 이벤트! (10.12~10.19)",
+  "스카이 어비스: 혈맹의 서약 | 2026-10-13 | [라운지 이벤트]출시 100일🎉퀴즈 이벤트(10/13-10/19)",
   "소드 앤 프론티아 | 2026-10-12 | [소드 앤 프론티아]로 말하자면? 👀댓글 이벤트!✨",
-  "명조:워더링 웨이브 | 2026-10-12 | 🌟「명조 | Galaxy Store」 「에이메스」 빅스비 보이스 스페셜 키트 & 무료 테"
+  "명조:워더링 웨이브 | 2026-10-12 | 🌟「명조 | Galaxy Store」 「에이메스」 빅스비 보이스 스페셜 키트 & 무료 테",
+  "X 클래시 | 2026-10-12 | 🛠 10월 14일 업데이트 안내 🛠"
  ],
- "imageOnly": []
+ "imageOnly": [
+  {
+   "game": "스타세이비어",
+   "loungeId": "Starsavior",
+   "feedId": 8317707,
+   "date": "2026-10-12",
+   "title": "일러스타 페스 14 쿠폰 유효기간 연장 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjAzMjBfOTIg/MDAxNzczOTkxMTMzNjcy.hL65bFmPgZ2I8X4CaA5Uh5TBiJIBtBNqa88fzftja_og.p6u-KiB78BxQuxvjkds9Unp96u_lH1mM0UmGhiV3C7sg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%B4%EB%AF%B8%EC%A7%80_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjAzMjBfMzEg/MDAxNzczOTkxMTM5MDM5.vtiBSMBsr3GX8QEpA4krVkjZ7dFGe1f2qZKFlUPPK5gg.bW4AemnHqyefsBDybZv0SYB1btKnHdy97ECBCB79FcMg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%91%B8%ED%84%B0.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTJfMTU1/MDAxNzkxNzg5NzQzNjg2.iDMAxoj_jxQIIHsg77oZJieT7RJdRDcvO0jkny-0q5Ig.EYWr-5dF5Gunag8kVXmzLbQbceXLL8pmYN22rglOkokg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png?type=w1678"
+   ]
+  }
+ ]
 }

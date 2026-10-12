@@ -5,28 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T10:07:05.944Z",
+  "updatedAt": "2026-10-12T15:29:03.962Z",
   "codes": [
-    {
-      "code": "NEWEPISODE7",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-28",
-      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
-      "status": "active"
-    },
-    {
-      "code": "DIVEWITHISABELLA",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-28",
-      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
-      "status": "active"
-    },
     {
       "code": "MONGILPRESENT",
       "reward": "",
@@ -34,7 +14,7 @@
       "postedAt": "2026-10-03",
       "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "expired"
     },
     {
@@ -44,7 +24,7 @@
       "postedAt": "2026-10-03",
       "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
       "status": "expired"
     },
     {
@@ -54,7 +34,17 @@
       "postedAt": "2026-10-03",
       "sourceUrl": "https://blog.naver.com/jjsabu/224430656840",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
+    {
+      "code": "NEWEPISODE7",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-13",
       "status": "expired"
     },
     {
@@ -64,7 +54,17 @@
       "postedAt": "2026-09-27",
       "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
+    {
+      "code": "DIVEWITHISABELLA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-13",
       "status": "expired"
     },
     {
