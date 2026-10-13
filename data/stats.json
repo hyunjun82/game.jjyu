@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T02:04:26.501Z",
+  "generatedAt": "2026-10-13T05:18:29.066Z",
   "today": "2026-10-13",
-  "todayNew": 6,
+  "todayNew": 18,
   "totals": {
-    "games": 301,
-    "codes": 4228,
-    "active": 655,
+    "games": 302,
+    "codes": 4240,
+    "active": 667,
     "expired": 3573,
-    "withExpiry": 2466
+    "withExpiry": 2477
   },
   "newByDate": [
     {
@@ -64,13 +64,19 @@
     },
     {
       "date": "2026-10-13",
-      "count": 6
+      "count": 18
     }
   ],
   "expiringSoon": [
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "TQEK395",
+      "expiry": "2026-10-13",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "Q8C4KW",
       "expiry": "2026-10-13",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "GQKM8562",
       "expiry": "2026-10-16",
       "days": 3
-    },
-    {
-      "slug": "kingshipfight",
-      "code": "Hangeul26",
-      "expiry": "2026-10-16",
-      "days": 3
     }
   ],
   "topGames": [
@@ -387,8 +387,13 @@
     },
     {
       "slug": "dragon-traveler",
-      "active": 17,
-      "total": 71
+      "active": 18,
+      "total": 72
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 41
     },
     {
       "slug": "cookie-run-kingdom",
@@ -401,19 +406,14 @@
       "total": 48
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 40
-    },
-    {
       "slug": "honkai-star-rail",
       "active": 14,
       "total": 28
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 70
+      "active": 14,
+      "total": 71
     },
     {
       "slug": "along-with-the-ghost",

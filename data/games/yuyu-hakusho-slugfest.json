@@ -2,14 +2,23 @@
   "slug": "yuyu-hakusho-slugfest",
   "titleEn": "Yu Yu Hakusho Slugfest",
   "titleKo": "유유백서: 격전",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjRfMTM3/MDAxNzg3NTQxODQ5Mzg5.68sMfJaSDnDsCTM6M1Im_2YXabohEbRDoOvJCl2-0NQg.JKzwvRdqPcYkRcAMDeoLwHEF9E_cJTw1vrcTaNsGX9Qg.JPEG/%E5%85%91%E6%8D%A2%E7%A0%81%E9%9F%A9%E8%AF%AD.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfMTk3/MDAxNzg4NTExNTE2MjEz.5zJ54imPiQp2HGA42npcp_8DAivRRn3Xbobxd2GgbpAg.rtDu7q6ytj6KKjwZr7s-CNkxC5TxzUWBTbZcVMaBxqkg.PNG/YYH_0907_%E6%AF%8F%E6%97%A5%E5%85%91%E6%8D%A2%E7%A0%81_%E6%97%A0AI%E6%A0%87%E8%AF%86.png",
   "source": "naver-lounge",
   "loungeId": "Yu_Yu_Hakusho_Slugfest",
-  "sourceUrl": "https://game.naver.com/lounge/Yu_Yu_Hakusho_Slugfest/board/detail/8096916",
+  "sourceUrl": "https://game.naver.com/lounge/Yu_Yu_Hakusho_Slugfest/board/detail/8161123",
   "howTo": "",
-  "postCount": 1056,
-  "updatedAt": "2026-10-13T01:50:31.425Z",
+  "postCount": 1057,
+  "updatedAt": "2026-10-13T05:04:17.544Z",
   "codes": [
+    {
+      "code": "YYHSEP07",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-07",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
     {
       "code": "YYHAUG10",
       "reward": "",

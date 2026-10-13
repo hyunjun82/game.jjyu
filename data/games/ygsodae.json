@@ -7,9 +7,19 @@
   "loungeId": "ygsodae",
   "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/8269055",
   "howTo": "🔸10월 특별선물 쿠폰 보상 쿠폰 코드 쿠폰 보상 유효 기간 단풍놀이",
-  "postCount": 10,
-  "updatedAt": "2026-10-13T01:49:34.886Z",
+  "postCount": 11,
+  "updatedAt": "2026-10-13T05:03:15.511Z",
   "codes": [
+    {
+      "code": "2026행복기원",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "event-open",
+      "postedAt": "2026-01-20",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
     {
       "code": "단풍놀이",
       "reward": "",
