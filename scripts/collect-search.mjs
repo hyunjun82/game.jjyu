@@ -15,6 +15,9 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+// 라운지 수집기와 같은 파서를 쓴다. 예전엔 옛 복사본을 따로 들고 있어 표(코드·보상·마감 칸), 한글 코드,
+// "쿠폰: CODE" 같은 형식을 못 읽었다(카오스 제로 나이트메어 4개 중 2개만, 만료일 없음 — 2026-10-13).
+import { parseCodes as parseCodesNaver } from './collect-naver.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const GAMES_DIR = path.join(ROOT, 'data', 'games');
@@ -215,7 +218,8 @@ function postDate(html) {
 
 export async function collectOne(g) {
   const today = todayISO();
-  const query = encodeURIComponent(g.query || `${g.titleKo} 쿠폰`);
+  // 별명(aliases)이 있으면 그걸로 검색한다 — 블로그는 "카오스 제로 나이트메어" 대신 "카제나"라고 쓴다.
+  const query = encodeURIComponent(g.query || `${(g.aliases && g.aliases[0]) || g.titleKo} 쿠폰`);
   // 기간만 최근 1개월로 묶는다. 기본 정렬(관련도순)을 그대로 쓴다 —
   // 최신순으로 바꾸면 알리·쿠팡 제휴 스팸 블로그가 상위를 덮어 실제 게임 글이 밀려난다(실측).
   const RECENT = '&sm=tab_opt&nso=' + encodeURIComponent('p:1m');
@@ -244,24 +248,31 @@ export async function collectOne(g) {
     // 지난 쿠폰은 담지 않는다. 오래된 글은 열어봐야 죽은 코드뿐이다.
     if (!posted || daysBetween(today, posted) > MAX_POST_AGE_DAYS) { skippedOld++; continue; }
 
-    const text = bodyText(page);
+    // 본문 영역만 읽는다 — 페이지 아래 스크립트 변수(FILENAME, ALERTMESSAGE)가 코드로 잡히지 않게.
+    const mStart = page.indexOf('se-main-container');
+    const mEnd = mStart >= 0 ? page.indexOf('post_footer', mStart) : -1;
+    const text = bodyText(mStart >= 0 ? page.slice(mStart, mEnd > mStart ? mEnd : undefined) : page);
     // 게임 이름이 본문에 있어야 한다. 블로그는 콜론·띄어쓰기를 제각각 쓰므로 눌러서 비교한다.
     // ("열혈강호: 귀환" → "열혈강호귀환")
     const squash = (x) => x.replace(/[\s:：·,]/g, '');
     // 제목에 게임 이름이 있어야 한다. 본문만 보면 "열혈강호: 넥스트" 글이
     // 본문에서 "귀환"을 한 번 언급했다는 이유로 귀환 쿠폰으로 둔갑한다(실측).
     // "헌터 키우기"가 "소울 헌터 키우기" 글을 물지 않게 — 이름 바로 앞에 한글·영문·숫자가 붙어 있으면 다른 게임이다.
-    const sTitle = squash(postTitle(page)), sName = squash(g.titleKo);
-    const at = sTitle.indexOf(sName);
-    if (at < 0) continue;
-    if (at > 0 && /[가-힣A-Za-z0-9]/.test(sTitle[at - 1])) continue;
-    if (!squash(text).includes(sName)) continue;
+    const sTitle = squash(postTitle(page));
+    const hit = [g.titleKo, ...(g.aliases || [])].map(squash).some((sName) => {
+      const at = sTitle.indexOf(sName);
+      return at >= 0 && !(at > 0 && /[가-힣A-Za-z0-9]/.test(sTitle[at - 1]));
+    });
+    if (!hit) continue;
+    if (![g.titleKo, ...(g.aliases || [])].some((n) => squash(text).includes(squash(n)))) continue;
     scanned++;
 
-    for (const c of parseCodes(text, posted)) {
+    for (const c of parseCodesNaver(text, posted)) {
       if (foreign.has(c.code.toUpperCase())) continue;               // 다른 게임 코드
       // 블로그 주인 아이디("rs1616", "storyteller99100")가 본문 머리·서명에 찍혀 코드로 잡혔다(FC온라인·브롤스타즈, 2026-10-03).
       if (c.code.toLowerCase() === id.toLowerCase() || text.includes(`blog.naver.com/${c.code}`)) continue;
+      // 본문 앞(블로그 머리 — 별명·주소·프로필)에 이미 나온 단어는 블로그 주인 정보다("runningwow" = 달려라와웅, 아처캐슬 글).
+      if (mStart > 0 && new RegExp(`(^|[^A-Za-z0-9])${c.code}([^A-Za-z0-9]|$)`, 'i').test(page.slice(0, mStart))) continue;
       if (codes.some((x) => x.code.toUpperCase() === c.code.toUpperCase())) continue;
       codes.push({ ...c, sourceUrl: `https://blog.naver.com/${id}/${no}` });
     }

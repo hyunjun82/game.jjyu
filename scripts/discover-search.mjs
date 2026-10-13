@@ -73,7 +73,7 @@ function nameFromTitle(t) {
   // "모바일 방치형RPG 로그W", "MMORPG 게임 어나더던전" — 장르 말머리를 뗀다
   for (let k = 0; k < 4; k++) n = n.replace(/^(?:모바일\s*게임|모바일|방치형\s*RPG|방치형|수집형\s*RPG|MMORPG|RPG|SRPG|디펜스\s*게임|전략\s*게임|게임\s*추천|신규\s*게임|게임)\s+/i, '').trim();
   // "아처캐슬 키우기 방치형 RPG 게임", "메이플플래닛 주말 핫타임", "리니지m 신서버 전용" — 꼬리 말을 뗀다
-  for (let k = 0; k < 4; k++) n = n.replace(/\s+(?:게임|방치형\s*RPG|방치형|RPG|모바일|신서버(?:\s*전용)?|전용|주말|핫타임|주말\s*핫타임|신규|오픈|기념|사전등록|사전예약)$/i, '').trim();
+  for (let k = 0; k < 4; k++) n = n.replace(/\s+(?:게임|방치형\s*RPG|방치형|RPG|모바일|신서버(?:\s*전용)?|전용|주말|핫타임|주말\s*핫타임|신규|오픈|기념|사전등록|사전예약|\d+\s*주년|업데이트|시즌\s*\d+)$/i, '').trim();
   if (n.replace(/\s/g, '').length < 2 || n.length > 22 || NAME_JUNK.test(n) || NOT_KOREAN.test(n)) return null;
   return n;
 }
@@ -92,14 +92,16 @@ async function main() {
     const j = read(path.join(ROOT, 'scripts', f), {});
     for (const g of j.lounges || j.games || []) add(g.titleKo);
   }
-  for (const g of found.games) add(g.titleKo);
+  for (const g of found.games) { add(g.titleKo); for (const a of g.aliases || []) add(a); }  // 카제나 = 카오스 제로 나이트메어
   // "로그W" 처럼 짧게 부르는 이름도 "로그W: 리메인즈 오브 갓" 과 같은 게임으로 본다(앞부분 일치).
   const isKnown = (n) => { const k = squash(n); for (const x of known) if (x === k || x.startsWith(k) || k.startsWith(x) || (k.length >= 4 && (x.includes(k) || k.includes(x)))) return true; return false; };
 
   // 라운지 ID(영문 주소용)
   let lounges = [];
   try { lounges = (await (await fetch('https://comm-api.game.naver.com/nng_main/v1/lounge/official')).json()).content.officialLounges || []; } catch (e) { /* 없음 */ }
-  const loungeOf = (n) => lounges.find((l) => squash(ent(l.loungeName)) === squash(n));
+  // "난세표류기 한국사" ↔ 라운지 "난세표류기 - 한국사 방치형 RPG" 처럼 뒤에 부제가 붙은 라운지 이름도 같은 게임으로 본다.
+  const loungeOf = (n) => lounges.find((l) => squash(ent(l.loungeName)) === squash(n))
+    || (squash(n).length >= 4 ? lounges.find((l) => squash(ent(l.loungeName)).startsWith(squash(n))) : null);
 
   // 1) 제목 모으기
   const names = new Map();

@@ -58,16 +58,20 @@
       "found": "2026-10-08"
     },
     {
-      "slug": "nansepyoryugi-hanguksa",
-      "titleKo": "난세표류기 한국사",
-      "titleEn": "nansepyoryugi-hanguksa",
-      "found": "2026-10-10"
+      "slug": "historydrift",
+      "titleKo": "난세표류기: 한국사",
+      "titleEn": "Historydrift",
+      "found": "2026-10-10",
+      "loungeId": "Historydrift"
     },
     {
-      "slug": "kajena-1junyeon",
-      "titleKo": "카제나 1주년",
-      "titleEn": "kajena-1junyeon",
-      "found": "2026-10-13"
+      "slug": "chaos-zero-nightmare",
+      "titleKo": "카오스 제로 나이트메어",
+      "titleEn": "Chaos Zero Nightmare",
+      "found": "2026-10-13",
+      "aliases": [
+        "카제나"
+      ]
     }
   ]
 }
