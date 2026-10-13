@@ -5,12 +5,52 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:38:50.675Z",
+  "updatedAt": "2026-10-13T08:40:12.677Z",
   "codes": [
+    {
+      "code": "CATHERO3RDEVE2",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "CATHERO3RDEVE3",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "CATHERO3RDDAY1",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "CATHERO3RDDAY2",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-11",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
     {
       "code": "CATHERO3RDEVE1",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-01",
       "postedAt": "2026-10-11",
       "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
       "firstSeen": "2026-10-11",
@@ -20,7 +60,7 @@
     {
       "code": "CATHERO3RDDAY3",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-01",
       "postedAt": "2026-10-11",
       "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
       "firstSeen": "2026-10-11",

@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:42:07.725Z",
+  "updatedAt": "2026-10-13T08:43:14.818Z",
   "codes": [
+    {
+      "code": "hammer",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224424775645",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
     {
       "code": "EMBERIN",
       "reward": "",
@@ -19,16 +29,6 @@
     },
     {
       "code": "Gem100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-06",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224402767777",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-06",
-      "status": "expired"
-    },
-    {
-      "code": "HAMMER",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-06",

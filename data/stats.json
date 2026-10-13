@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T05:18:29.066Z",
+  "generatedAt": "2026-10-13T08:47:17.938Z",
   "today": "2026-10-13",
-  "todayNew": 18,
+  "todayNew": 83,
   "totals": {
     "games": 302,
-    "codes": 4240,
-    "active": 667,
-    "expired": 3573,
-    "withExpiry": 2477
+    "codes": 4305,
+    "active": 714,
+    "expired": 3591,
+    "withExpiry": 2519
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-13",
-      "count": 18
+      "count": 83
     }
   ],
   "expiringSoon": [
@@ -333,6 +333,12 @@
       "days": 2
     },
     {
+      "slug": "stoneage-idle",
+      "code": "STONEHALFYEAR",
+      "expiry": "2026-10-15",
+      "days": 2
+    },
+    {
       "slug": "top-heroes",
       "code": "GB037016987F",
       "expiry": "2026-10-15",
@@ -347,12 +353,6 @@
     {
       "slug": "boneagain",
       "code": "HG1009",
-      "expiry": "2026-10-16",
-      "days": 3
-    },
-    {
-      "slug": "eclipse-the-awakening",
-      "code": "0910ECLIPSE",
       "expiry": "2026-10-16",
       "days": 3
     },
@@ -396,6 +396,11 @@
       "total": 41
     },
     {
+      "slug": "aniimo",
+      "active": 15,
+      "total": 16
+    },
+    {
       "slug": "cookie-run-kingdom",
       "active": 15,
       "total": 19
@@ -408,7 +413,7 @@
     {
       "slug": "honkai-star-rail",
       "active": 14,
-      "total": 28
+      "total": 30
     },
     {
       "slug": "max-level-idle",
@@ -426,6 +431,16 @@
       "total": 38
     },
     {
+      "slug": "archer-castle-idle",
+      "active": 11,
+      "total": 13
+    },
+    {
+      "slug": "sabuk-ice-kingdom",
+      "active": 11,
+      "total": 18
+    },
+    {
       "slug": "sword-frontier",
       "active": 11,
       "total": 24
@@ -433,11 +448,6 @@
     {
       "slug": "whoa-adventurers",
       "active": 11,
-      "total": 12
-    },
-    {
-      "slug": "archer-castle-idle",
-      "active": 10,
       "total": 12
     },
     {
@@ -458,17 +468,7 @@
     {
       "slug": "stoneage-idle",
       "active": 10,
-      "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 9,
-      "total": 31
-    },
-    {
-      "slug": "reverse-1999",
-      "active": 9,
-      "total": 9
+      "total": 11
     }
   ],
   "noImage": 51

@@ -5,8 +5,118 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:41:37.335Z",
+  "updatedAt": "2026-10-13T08:42:48.641Z",
   "codes": [
+    {
+      "code": "aniimoopenworld",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimofreetoplay",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimowelcome",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "anyoneaniimo",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimobonus",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "twinewithaniimo",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimoidyll",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimotogether",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimonow",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/game_gallery/224425886674",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "anythinganiimo",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/game_gallery/224425886674",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "anywhereaniimo",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/game_gallery/224425886674",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
     {
       "code": "stardust789",
       "reward": "",
@@ -18,11 +128,11 @@
       "status": "active"
     },
     {
-      "code": "Aniimo2026",
+      "code": "aniimolaunch2026",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-13",
       "status": "active"
@@ -31,19 +141,29 @@
       "code": "ANIIMOGIFT",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-13",
       "status": "active"
     },
     {
-      "code": "aniimolaunch2026",
+      "code": "Aniimo2026",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224421409388",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "aniimoparty",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/t326598/224421947470",
-      "firstSeen": "2026-10-03",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/kk_f77/224425041442",
+      "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-13",
       "status": "expired"
     }

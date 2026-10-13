@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:42:25.155Z",
+  "updatedAt": "2026-10-13T08:43:29.601Z",
   "codes": [
+    {
+      "code": "MONGILREPORT",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
     {
       "code": "MONGILPRESENT",
       "reward": "",
@@ -41,8 +51,8 @@
       "code": "NEWEPISODE7",
       "reward": "",
       "expiry": "2026-09-29",
-      "postedAt": "2026-09-28",
-      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/alfson/224421757509",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-13",
       "status": "expired"
@@ -68,17 +78,17 @@
       "status": "expired"
     },
     {
-      "code": "BUNNYSHOW",
+      "code": "JOINMONGIL",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-08",
-      "sourceUrl": "https://blog.naver.com/rjdlrose/224405133628",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-09-27",
+      "sourceUrl": "https://blog.naver.com/neopgame/224423672498",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-13",
       "status": "expired"
     },
     {
-      "code": "JOINMONGIL",
+      "code": "BUNNYSHOW",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-08",

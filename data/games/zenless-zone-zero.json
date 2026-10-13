@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:40:25.576Z",
+  "updatedAt": "2026-10-13T08:41:43.272Z",
   "codes": [
     {
       "code": "ZZZFREE100",
@@ -88,6 +88,16 @@
       "status": "expired"
     },
     {
+      "code": "FLINTWORKS",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-09-14",
+      "sourceUrl": "https://blog.naver.com/skw2759/224410708366",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
+    {
       "code": "ZZZ2YEAR",
       "reward": "",
       "expiry": null,
@@ -111,16 +121,6 @@
       "code": "ZZZMEIJI",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-07",
-      "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-06",
-      "status": "expired"
-    },
-    {
-      "code": "FLINTWORKS",
-      "reward": "",
-      "expiry": "2026-08-31",
       "postedAt": "2026-09-07",
       "sourceUrl": "https://blog.naver.com/didcjddns/224403070100",
       "firstSeen": "2026-09-19",

@@ -2,14 +2,23 @@
   "slug": "peachland",
   "titleEn": "Peachland",
   "titleKo": "산너머 도원마을",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMjY0/MDAxNzkwNTkxNzg3OTc1.bf-u82csgmDcut_x-WCKcrvhsggBOp8TZoWHOb4HHe8g.vGT8FgevXqCzxeHUyOYmExFcZSSo0DFMsr9GLuwUNDkg.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTg0/MDAxNzkxODc0MzA3NDk0.v3IHkYrBG-1SNRJ75rFk5FKIUrCHZkBt134xJFt5FRsg.6VPQt5A-ykO_Cm8UPLNoFWsTdXq5WBexgtLXVpt2_o4g.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "peachland",
-  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8269056",
-  "howTo": "선선한 가을바람과 함께 도원마을에서 여유롭고 행복한 10월 보내시길 바라며, 산민 여러분 모두 따뜻하고 풍성한 가을 보내세요! 🍁",
-  "postCount": 4,
-  "updatedAt": "2026-10-13T05:03:56.819Z",
+  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8321188",
+  "howTo": "신나는 무림 모험을 떠나 보아요~! 💚",
+  "postCount": 5,
+  "updatedAt": "2026-10-13T08:37:38.053Z",
   "codes": [
+    {
+      "code": "MUMUKUNGFU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
     {
       "code": "GIFT2026OCT",
       "reward": "",

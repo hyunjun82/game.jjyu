@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:47:04.671Z",
+  "updatedAt": "2026-10-13T08:46:43.533Z",
   "codes": [
+    {
+      "code": "runningwow",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
     {
       "code": "OPEN0820",
       "reward": "",

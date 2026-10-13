@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-12T19:44:11.807Z",
+  "updatedAt": "2026-10-13T08:45:10.808Z",
   "codes": [
+    {
+      "code": "ToyOpen",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "Toysamguk",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
     {
       "code": "RUNNINGBRO",
       "reward": "",
@@ -16,6 +36,16 @@
       "firstSeen": "2026-10-11",
       "lastSeen": "2026-10-13",
       "status": "active"
+    },
+    {
+      "code": "toy0704",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-15",
+      "sourceUrl": "https://blog.naver.com/gemberi/224412590307",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
     },
     {
       "code": "Toy1M",
