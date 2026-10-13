@@ -301,7 +301,7 @@ function applyTitleExpiry(got, title, postISO) {
  * 한글 코드 — "단풍놀이", "26추석" (요괴잡이소대·스킬 마법사 키우기, 2026-09/10). 표의 코드 칸이나
  * "쿠폰 명" 라벨 바로 아랫줄에 있을 때만 받는다. 표 머리 낱말(보상·기간…)은 코드가 아니다.
  */
-const KO_HEADER = /모음|목록|리스트|정리|가이드|확인|바로가기|보상|기간|기한|내용|코드|쿠폰|구성|일정|비고|방법|조건|수량|대상|아이템|일시|날짜|시작|종료|만료|사용|입력|안내|참고|지급|혜택|이벤트/;
+const KO_HEADER = /없음|대기|미정|예정|추후|공개|모음|목록|리스트|정리|가이드|확인|바로가기|보상|기간|기한|내용|코드|쿠폰|구성|일정|비고|방법|조건|수량|대상|아이템|일시|날짜|시작|종료|만료|사용|입력|안내|참고|지급|혜택|이벤트/;
 function hangulCode(t) {
   return /^[가-힣A-Za-z0-9]{2,15}$/.test(t) && /[가-힣]/.test(t) && !KO_HEADER.test(t);
 }
@@ -577,6 +577,7 @@ function merge(prev, freshCodes) {
 const SECTION_RE = /이벤트|공지|혜택|소식|뉴스|업데이트|점검|안내|선물|event|notice|news|update/i;
 const SECTION_SKIP = /종료|당첨|결과|인증|자유|질문|건의|버그|공략|팁|가입|홍보|토론|창작|팬아트|스크린샷|길드|연맹|모집|후기|기대평/;
 const TITLE_RE = /쿠폰|선물|교환\s*코드|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
+const STORE_SALE_RE = /할인|\d+\s*%|충전|페이백|결제/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
 /**
  * 본문에 "쿠폰 코드: XXXX" 처럼 라벨 바로 뒤에 코드가 적혀 있는지.
@@ -700,7 +701,9 @@ export async function collectOne(g) {
   // 글은 feedId 로 직접 읽는다. 3년짜리 상시 쿠폰(론칭 기념 등)이 여기서 나온다.
   for (const [feedId, ev] of events) {
     if (ev.loungeId.toLowerCase() !== String(g.loungeId).toLowerCase()) continue;
-    if (!EVENT_TITLE_RE.test(ev.title) || seenFeed.has(feedId)) continue;
+    // 제목에 '쿠폰'이 없어도 읽는다 — "2026년 행복기원 특별선물"처럼 선물 글에 상시 코드를 싣는 게임이 있다(요괴잡이소대, 2026-10-13).
+    // 라운지당 이벤트 글은 몇 개뿐이라 요청 부담이 작고, 코드는 라벨 규칙으로만 뽑히므로 잡음도 늘지 않는다.
+    if (seenFeed.has(feedId)) continue;
     const res = await get(`${B1}/community/lounge/${g.loungeId}/feed/${feedId}`);
     await sleep(300);
     seenFeed.add(feedId);
@@ -710,7 +713,9 @@ export async function collectOne(g) {
     const text = bodyText(item.feed.contents);
     if (!text) continue;
     // 스토어 할인 이벤트는 거른다. 단 본문에 "쿠폰 코드: …" 가 있으면 게임 코드다.
-    if ((STORE_RE.test(ev.title) || STORE_RE.test(text.slice(0, 400))) && !BODY_LABEL_RE.test(text)) continue;
+    // "앱스토어 1위 달성 기념 쿠폰"처럼 스토어 이름만 나오는 글은 게임 코드다(스킬 마법사 키우기, 2026-10-13).
+    // 거르는 건 할인·충전 이벤트뿐이다.
+    if ((STORE_RE.test(ev.title) || STORE_RE.test(text.slice(0, 400))) && STORE_SALE_RE.test(ev.title + ' ' + text.slice(0, 400)) && !BODY_LABEL_RE.test(text)) continue;
     const d = String(item.feed.createdDate || '');
     const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
     const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
