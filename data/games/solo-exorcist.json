@@ -5,117 +5,77 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-13T14:24:25.166Z",
+  "updatedAt": "2026-10-13T21:56:58.608Z",
   "codes": [
     {
       "code": "DOWNLOAD11",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
     },
     {
       "code": "QGHRDT",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
     },
     {
       "code": "DOWNLOAD5Y",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
     },
     {
       "code": "DOWNLOAD9S",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
     },
     {
       "code": "PRE111",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
     },
     {
       "code": "PRE2SE",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
     },
     {
       "code": "PRE3NR",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
+      "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
       "status": "active"
-    },
-    {
-      "code": "EXORCIST777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-26",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-13",
-      "status": "expired"
-    },
-    {
-      "code": "EXORCIST888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-26",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-13",
-      "status": "expired"
-    },
-    {
-      "code": "SSS666",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-26",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-13",
-      "status": "expired"
-    },
-    {
-      "code": "SSS999",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-26",
-      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-13",
-      "status": "expired"
     },
     {
       "code": "EXORCIST666",
@@ -124,7 +84,47 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-13",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "EXORCIST777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "EXORCIST888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "SSS666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "SSS999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-14",
       "status": "expired"
     }
   ]
