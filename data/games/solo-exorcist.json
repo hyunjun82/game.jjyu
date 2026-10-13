@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-13T08:45:04.098Z",
+  "updatedAt": "2026-10-13T14:24:25.166Z",
   "codes": [
     {
       "code": "DOWNLOAD11",
@@ -78,21 +78,11 @@
       "status": "active"
     },
     {
-      "code": "EXORCIST666",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-13",
-      "status": "expired"
-    },
-    {
       "code": "EXORCIST777",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-13",
       "status": "expired"
@@ -101,8 +91,8 @@
       "code": "EXORCIST888",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-13",
       "status": "expired"
@@ -111,14 +101,24 @@
       "code": "SSS666",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-13",
       "status": "expired"
     },
     {
       "code": "SSS999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-13",
+      "status": "expired"
+    },
+    {
+      "code": "EXORCIST666",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-24",

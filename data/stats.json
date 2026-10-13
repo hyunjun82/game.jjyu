@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T08:47:17.938Z",
+  "generatedAt": "2026-10-13T14:32:25.929Z",
   "today": "2026-10-13",
-  "todayNew": 83,
+  "todayNew": 95,
   "totals": {
-    "games": 302,
-    "codes": 4305,
-    "active": 714,
+    "games": 304,
+    "codes": 4317,
+    "active": 726,
     "expired": 3591,
-    "withExpiry": 2519
+    "withExpiry": 2522
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-13",
-      "count": 83
+      "count": 95
     }
   ],
   "expiringSoon": [
@@ -113,6 +113,12 @@
     {
       "slug": "kalpa-of-universe",
       "code": "Version1008",
+      "expiry": "2026-10-14",
+      "days": 1
+    },
+    {
+      "slug": "maple-idle",
+      "code": "PINKBEANATTACK",
       "expiry": "2026-10-14",
       "days": 1
     },
@@ -361,12 +367,6 @@
       "code": "5KjEJbd3",
       "expiry": "2026-10-16",
       "days": 3
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "GQKM8562",
-      "expiry": "2026-10-16",
-      "days": 3
     }
   ],
   "topGames": [
@@ -436,6 +436,11 @@
       "total": 13
     },
     {
+      "slug": "genshin-impact",
+      "active": 11,
+      "total": 21
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
@@ -464,11 +469,6 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "stoneage-idle",
-      "active": 10,
-      "total": 11
     }
   ],
   "noImage": 51

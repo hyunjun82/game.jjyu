@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-13T08:40:12.677Z",
+  "updatedAt": "2026-10-13T14:18:31.938Z",
   "codes": [
     {
       "code": "CATHERO3RDEVE2",
@@ -43,6 +43,26 @@
       "expiry": "2026-11-01",
       "postedAt": "2026-10-11",
       "sourceUrl": "https://blog.naver.com/jinjioni/224438099922",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "3H7F6W",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-13",
+      "sourceUrl": "https://blog.naver.com/softlygame/224440697901",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "CAT2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-13",
+      "sourceUrl": "https://blog.naver.com/softlygame/224440697901",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-13",
       "status": "active"

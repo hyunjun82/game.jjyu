@@ -5,10 +5,10 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MTNfNDcg/MDAxNzgzOTA5NzcyNzU1.FHCvBgY3m_2By6NOBqxQ-FJO29fYY4jkpa_8BuVA0mwg.QEwtxuXcEfiKmC6btWiPGe_baMMsBC4c66BVaCiHs4Eg.JPEG/10(5).jpg",
   "source": "naver-lounge",
   "loungeId": "topisekai",
-  "sourceUrl": "https://game.naver.com/lounge/topisekai/board/detail/8317952",
+  "sourceUrl": "https://game.naver.com/lounge/topisekai/board/detail/8321485",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-10-13T08:39:29.115Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-13T14:31:47.771Z",
   "codes": [
     {
       "code": "GRANDOPEN999",
@@ -24,6 +24,15 @@
       "reward": "",
       "expiry": "2026-10-15",
       "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13",
+      "status": "active"
+    },
+    {
+      "code": "WELCOME999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-13",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-13",
       "status": "active"

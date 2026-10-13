@@ -1750,6 +1750,22 @@
       "titleEn": "Dragonraid",
       "auto": "2026-10-12",
       "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "cross-idle-rpg",
+      "loungeId": "Cross_Idle_RPG",
+      "titleKo": "영주님은 죽지 않는다",
+      "titleEn": "Cross_Idle_RPG",
+      "auto": "2026-10-13",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "wasd-squad-idle-keycap-rpg",
+      "loungeId": "WASD_Squad_Idle_Keycap_RPG",
+      "titleKo": "WASD 키우기: 방치형 RPG",
+      "titleEn": "WASD_Squad_Idle_Keycap_RPG",
+      "auto": "2026-10-13",
+      "note": "자가 점검(audit-naver)에서 발견"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
