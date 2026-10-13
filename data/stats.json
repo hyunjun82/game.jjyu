@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T19:47:41.117Z",
+  "generatedAt": "2026-10-13T01:06:10.254Z",
   "today": "2026-10-13",
-  "todayNew": 5,
+  "todayNew": 6,
   "totals": {
     "games": 301,
-    "codes": 4227,
-    "active": 654,
+    "codes": 4228,
+    "active": 655,
     "expired": 3573,
-    "withExpiry": 2465
+    "withExpiry": 2466
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-13",
-      "count": 5
+      "count": 6
     }
   ],
   "expiringSoon": [
@@ -273,6 +273,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-SUN",
+      "expiry": "2026-10-15",
+      "days": 2
+    },
+    {
       "slug": "reverse-1999",
       "code": "RESCUEMEDAL",
       "expiry": "2026-10-15",
@@ -359,12 +365,6 @@
     {
       "slug": "kingshipfight",
       "code": "Hangeul26",
-      "expiry": "2026-10-16",
-      "days": 3
-    },
-    {
-      "slug": "nostalgic-corner-store",
-      "code": "GIFTwz7jMW",
       "expiry": "2026-10-16",
       "days": 3
     }
