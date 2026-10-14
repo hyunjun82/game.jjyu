@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T01:02:05.015Z",
+  "generatedAt": "2026-10-14T05:10:16.154Z",
   "today": "2026-10-14",
-  "todayNew": 6,
+  "todayNew": 46,
   "totals": {
-    "games": 304,
-    "codes": 4323,
-    "active": 712,
+    "games": 307,
+    "codes": 4363,
+    "active": 752,
     "expired": 3611,
-    "withExpiry": 2525
+    "withExpiry": 2530
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-14",
-      "count": 6
+      "count": 46
     }
   ],
   "expiringSoon": [
@@ -89,6 +89,12 @@
     {
       "slug": "maple-idle",
       "code": "PINKBEANATTACK",
+      "expiry": "2026-10-14",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "T3P7ZM",
       "expiry": "2026-10-14",
       "days": 0
     },
@@ -130,12 +136,6 @@
     },
     {
       "slug": "max-level-idle",
-      "code": "FabreD7",
-      "expiry": "2026-10-14",
-      "days": 0
-    },
-    {
-      "slug": "max-level-idle",
       "code": "SEASONSEP1",
       "expiry": "2026-10-14",
       "days": 0
@@ -143,6 +143,12 @@
     {
       "slug": "max-level-idle",
       "code": "SEASONSEPUP",
+      "expiry": "2026-10-14",
+      "days": 0
+    },
+    {
+      "slug": "max-level-idle",
+      "code": "FabreD7",
       "expiry": "2026-10-14",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "W5Z37C",
       "expiry": "2026-10-16",
       "days": 2
-    },
-    {
-      "slug": "sinbbal-online",
-      "code": "sorry917",
-      "expiry": "2026-10-16",
-      "days": 2
     }
   ],
   "topGames": [
@@ -387,8 +387,13 @@
     },
     {
       "slug": "dragon-traveler",
-      "active": 18,
-      "total": 72
+      "active": 19,
+      "total": 73
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 42
     },
     {
       "slug": "cookie-run-kingdom",
@@ -401,9 +406,9 @@
       "total": 48
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 41
+      "slug": "cat-hero",
+      "active": 14,
+      "total": 16
     },
     {
       "slug": "honkai-star-rail",
@@ -412,8 +417,8 @@
     },
     {
       "slug": "max-level-idle",
-      "active": 13,
-      "total": 71
+      "active": 14,
+      "total": 72
     },
     {
       "slug": "along-with-the-ghost",
@@ -464,12 +469,7 @@
       "slug": "byeolbyeol-hero",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "inferno-nine",
-      "active": 10,
-      "total": 13
     }
   ],
-  "noImage": 51
+  "noImage": 54
 }
