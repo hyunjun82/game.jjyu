@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-14T19:55:40.419Z",
+  "generatedAt": "2026-10-14T22:51:23.153Z",
   "games": [
     {
       "slug": "f4-u",
@@ -87,16 +87,94 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
-    },
-    {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "cheon-sam-mu",
+      "loungeId": "CheonSamMu",
+      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
+      "titleEn": "Cheon Sam Mu"
+    },
+    {
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
+    },
+    {
+      "slug": "come-on-alien",
+      "loungeId": "Come_on_Alien",
+      "titleKo": "덤벼라 외계인!",
+      "titleEn": "Come On Alien"
+    },
+    {
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-slayer-sd",
+      "loungeId": "Dark_Slayer_SD",
+      "titleKo": "다크슬레이어2",
+      "titleEn": "Dark Slayer Sd"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
+    },
+    {
+      "slug": "dark-hero-kiugi",
+      "loungeId": "DarkHeroKiugi",
+      "titleKo": "다크 히어로 키우기",
+      "titleEn": "Dark Hero Kiugi"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-hunter-idle",
+      "loungeId": "Devil_Hunter_Idle",
+      "titleKo": "데빌 헌터 키우기",
+      "titleEn": "Devil Hunter Idle"
+    },
+    {
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -139,72 +217,6 @@
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
-    },
-    {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
-    },
-    {
-      "slug": "magical-ink",
-      "loungeId": "Magical_Ink",
-      "titleKo": "마법의 잉크",
-      "titleEn": "Magical Ink"
-    },
-    {
-      "slug": "marine-squad",
-      "loungeId": "MarineSquad",
-      "titleKo": "마린 키우기 : 방치형 RPG",
-      "titleEn": "Marine Squad"
-    },
-    {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
-    },
-    {
-      "slug": "mecha-break",
-      "loungeId": "Mecha_BREAK",
-      "titleKo": "메카 브레이크",
-      "titleEn": "Mecha Break"
-    },
-    {
-      "slug": "meow-kingdom",
-      "loungeId": "meow_kingdom",
-      "titleKo": "냥킹덤",
-      "titleEn": "Meow Kingdom"
-    },
-    {
-      "slug": "meow-knights",
-      "loungeId": "Meow_Knights",
-      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
-      "titleEn": "Meow Knights"
-    },
-    {
-      "slug": "metempsychosis",
-      "loungeId": "metempsychosis",
-      "titleKo": "메템사이코시스",
-      "titleEn": "Metempsychosis"
-    },
-    {
-      "slug": "midnight-ghost-tales",
-      "loungeId": "midnight_ghost_tales",
-      "titleKo": "심야귀담",
-      "titleEn": "Midnight Ghost Tales"
-    },
-    {
-      "slug": "mir2-bounty",
-      "loungeId": "Mir2_Bounty",
-      "titleKo": "묵청대도: 바운티",
-      "titleEn": "Mir2 Bounty"
-    },
-    {
-      "slug": "mir2-rise-of-sabuk",
-      "loungeId": "Mir2_Rise_of_Sabuk",
-      "titleKo": "묵청대도: 깨어난 사북성",
-      "titleEn": "Mir2 Rise Of Sabuk"
     },
     {
       "slug": "pmang-new-matgo",
@@ -253,12 +265,6 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
     }
   ]
 }
