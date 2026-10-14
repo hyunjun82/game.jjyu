@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/pjsekai/board/detail/8264327",
   "howTo": "",
   "postCount": 1,
-  "updatedAt": "2026-10-14T12:04:37.215Z",
+  "updatedAt": "2026-10-14T15:45:17.849Z",
   "codes": [
     {
       "code": "NORMAL",
@@ -16,8 +16,8 @@
       "expiry": null,
       "postedAt": "2026-09-30",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-14",
-      "status": "active"
+      "lastSeen": "2026-10-15",
+      "status": "expired"
     },
     {
       "code": "MASTER",
@@ -25,8 +25,8 @@
       "expiry": null,
       "postedAt": "2026-09-30",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-14",
-      "status": "active"
+      "lastSeen": "2026-10-15",
+      "status": "expired"
     },
     {
       "code": "APPEND",
@@ -34,8 +34,8 @@
       "expiry": null,
       "postedAt": "2026-09-30",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-14",
-      "status": "active"
+      "lastSeen": "2026-10-15",
+      "status": "expired"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-14T05:46:53.509Z",
+  "updatedAt": "2026-10-14T15:49:27.804Z",
   "codes": [
     {
       "code": "z6iBgiJBFBZjC",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "active"
     },
     {
@@ -44,37 +44,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-14",
-      "status": "active"
-    },
-    {
-      "code": "PATCH174ERYNDOR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
-      "status": "active"
-    },
-    {
-      "code": "AFKJN2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
-      "status": "active"
-    },
-    {
-      "code": "AFKJOURNEYKOR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "active"
     },
     {
@@ -84,7 +54,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "expired"
     },
     {
@@ -94,7 +64,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "expired"
     },
     {
@@ -104,7 +74,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "expired"
     },
     {
@@ -114,7 +84,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "expired"
     },
     {
@@ -124,7 +94,37 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
+      "status": "expired"
+    },
+    {
+      "code": "PATCH174ERYNDOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-15",
+      "status": "expired"
+    },
+    {
+      "code": "AFKJN2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-15",
+      "status": "expired"
+    },
+    {
+      "code": "AFKJOURNEYKOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-15",
       "status": "expired"
     }
   ]

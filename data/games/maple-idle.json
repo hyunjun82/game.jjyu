@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-14T05:47:25.131Z",
+  "updatedAt": "2026-10-14T15:49:56.628Z",
   "codes": [
     {
       "code": "PINKBEANATTACK",
@@ -14,8 +14,8 @@
       "postedAt": "2026-09-19",
       "sourceUrl": "https://blog.naver.com/gameinfor/224416587111",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
-      "status": "active"
+      "lastSeen": "2026-10-15",
+      "status": "expired"
     },
     {
       "code": "50CUBECOUPON",
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-19",
       "sourceUrl": "https://blog.naver.com/gameinfor/224416587111",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-14",
+      "lastSeen": "2026-10-15",
       "status": "expired"
     },
     {
