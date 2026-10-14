@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T05:54:52.061Z",
+  "generatedAt": "2026-10-14T11:05:39.337Z",
   "today": "2026-10-14",
-  "todayNew": 46,
+  "todayNew": 78,
   "totals": {
     "games": 307,
-    "codes": 4363,
-    "active": 753,
-    "expired": 3610,
-    "withExpiry": 2530
+    "codes": 4395,
+    "active": 759,
+    "expired": 3636,
+    "withExpiry": 2545
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-14",
-      "count": 46
+      "count": 78
     }
   ],
   "expiringSoon": [
@@ -339,6 +339,12 @@
       "days": 2
     },
     {
+      "slug": "doomsday-warrior",
+      "code": "VENOMROSE",
+      "expiry": "2026-10-16",
+      "days": 2
+    },
+    {
       "slug": "heros-land-m",
       "code": "5KjEJbd3",
       "expiry": "2026-10-16",
@@ -359,12 +365,6 @@
     {
       "slug": "nostalgic-corner-store",
       "code": "GIFTwz7jMW",
-      "expiry": "2026-10-16",
-      "days": 2
-    },
-    {
-      "slug": "nuksam",
-      "code": "W5Z37C",
       "expiry": "2026-10-16",
       "days": 2
     }

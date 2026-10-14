@@ -2,14 +2,23 @@
   "slug": "spirit-king",
   "titleEn": "Spirit King",
   "titleKo": "정령킹 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjdfMjA1/MDAxNzg3ODAwODA1OTkz.KBBf2UXSBUH1w4kcq_NiOq9uRkXSi1k2r6lzKDNSQZUg.Vfedq0yju_2pfYyRvGAOYTwxVe0jtL-HaV53pYOxEcog.PNG/%EC%83%81%ED%95%98%EB%8B%A8_%EC%BF%A0%ED%8F%B0%EB%B3%B4%EC%83%81_700.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMjAg/MDAxNzkxOTYzODAxMjc4.GjEdlPb75DYutEQ0CfSzz8MJ7suJA36eql8sYC9BgcAg.2hx-UpxNTZIz9iDAWPrT0bOOgubFte62is6k5mvLvgsg.PNG/%EC%83%81%ED%95%98%EB%8B%A8_%EC%BF%A0%ED%8F%B0%EB%B3%B4%EC%83%81_100.png",
   "source": "naver-lounge",
   "loungeId": "Spirit_King",
-  "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8301799",
+  "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8324938",
   "howTo": "",
-  "postCount": 40,
-  "updatedAt": "2026-10-14T05:39:16.959Z",
+  "postCount": 41,
+  "updatedAt": "2026-10-14T10:50:22.885Z",
   "codes": [
+    {
+      "code": "HAPPY1YEAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "active"
+    },
     {
       "code": "UAYQNZOPQBN",
       "reward": "",

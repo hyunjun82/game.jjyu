@@ -5,27 +5,281 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTVfNjAg/MDAxNzg5NDc2OTg4ODA0.d7U0rPxF-W02o5VjAfcChfHpu3G9W-IM4dBwvquB1Lcg.WhS4ojExsbRDBydcxr7bH5QD6aYnmC2Yj30Y2tHbOowg.GIF/%EB%9D%BC%EC%8A%A4%ED%8A%B8_%EC%86%8C%EB%85%80_%EC%A0%84%EC%82%AC_-_%EC%9C%88%EB%94%94.gif",
   "source": "naver-lounge",
   "loungeId": "Doomsday_Warrior",
-  "sourceUrl": "https://game.naver.com/lounge/Doomsday_Warrior/board/detail/8194415",
+  "sourceUrl": "https://game.naver.com/lounge/Doomsday_Warrior/board/detail/8305739",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-10-14T05:43:27.020Z",
+  "postCount": 31,
+  "updatedAt": "2026-10-14T10:54:22.873Z",
   "codes": [
+    {
+      "code": "VENOMROSE",
+      "reward": "",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "active"
+    },
+    {
+      "code": "S6105",
+      "reward": "",
+      "expiry": "2026-10-20",
+      "expiryFrom": "event",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "active"
+    },
     {
       "code": "girl8282",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-15",
+      "expiry": "2026-10-20",
+      "expiryFrom": "event",
+      "postedAt": "2026-10-09",
       "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-14",
+      "status": "active"
+    },
+    {
+      "code": "MECHPOWER",
+      "reward": "",
+      "expiry": "2026-10-09",
+      "postedAt": "2026-10-02",
+      "firstSeen": "2026-10-14",
       "lastSeen": "2026-10-14",
       "status": "expired"
     },
     {
-      "code": "Artemis",
+      "code": "BUFFMASTER",
       "reward": "",
-      "expiry": "2026-09-29",
-      "postedAt": "2026-09-11",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "expiry": "2026-10-02",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "4EVERGLORY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-04",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "ENDLESSSLASH",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-28",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "KILLZONE",
+      "reward": "",
+      "expiry": "2026-08-28",
+      "postedAt": "2026-08-21",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "TRIPLEKILL",
+      "reward": "",
+      "expiry": "2026-08-21",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "DARKBONUS",
+      "reward": "",
+      "expiry": "2026-08-14",
+      "postedAt": "2026-08-07",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "DARKSQUAD",
+      "reward": "",
+      "expiry": "2026-08-07",
+      "postedAt": "2026-07-31",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "TIKITAKA",
+      "reward": "",
+      "expiry": "2026-07-31",
+      "postedAt": "2026-07-24",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "THORNROSE",
+      "reward": "",
+      "expiry": "2026-07-24",
+      "postedAt": "2026-07-17",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "SHOCKWAVE",
+      "reward": "",
+      "expiry": "2026-07-17",
+      "postedAt": "2026-07-10",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "DUALPICKUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-03",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "KINGDUEL",
+      "reward": "",
+      "expiry": "2026-07-03",
+      "postedAt": "2026-06-26",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "LIGHTASSEMBLE",
+      "reward": "",
+      "expiry": "2026-06-26",
+      "postedAt": "2026-06-19",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "DEFYFATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-12",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "MOONWALTZ",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-05",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "BUTTERFLY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-29",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "BLEEEED",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-22",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "FIRSTPICK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-15",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "OVERKILLNOW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-08",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "KINGRANKUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-01",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "BLOODQUEEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-24",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "LOVEPICK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-17",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "GLORYBRIDE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-10",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "SWEETMAID",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-03",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "GALECUTTER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-27",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "CRIMSONARIA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-03-20",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14",
       "status": "expired"
     },
     {
@@ -34,13 +288,22 @@
       "expiry": "2026-09-25",
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-10-14",
       "status": "expired"
     },
     {
       "code": "STARGLOW",
       "reward": "",
       "expiry": "2026-09-18",
+      "postedAt": "2026-09-11",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-14",
+      "status": "expired"
+    },
+    {
+      "code": "Artemis",
+      "reward": "",
+      "expiry": "2026-09-29",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-23",
