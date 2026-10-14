@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T05:10:16.154Z",
+  "generatedAt": "2026-10-14T05:54:52.061Z",
   "today": "2026-10-14",
   "todayNew": 46,
   "totals": {
     "games": 307,
     "codes": 4363,
-    "active": 752,
-    "expired": 3611,
+    "active": 753,
+    "expired": 3610,
     "withExpiry": 2530
   },
   "newByDate": [
@@ -421,6 +421,11 @@
       "total": 72
     },
     {
+      "slug": "genshin-impact",
+      "active": 13,
+      "total": 21
+    },
+    {
       "slug": "along-with-the-ghost",
       "active": 12,
       "total": 12
@@ -439,11 +444,6 @@
       "slug": "archer-castle-idle",
       "active": 11,
       "total": 13
-    },
-    {
-      "slug": "genshin-impact",
-      "active": 11,
-      "total": 21
     },
     {
       "slug": "sabuk-ice-kingdom",
