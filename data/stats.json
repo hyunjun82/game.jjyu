@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T20:11:24.941Z",
+  "generatedAt": "2026-10-14T22:00:32.016Z",
   "today": "2026-10-15",
   "todayNew": 10,
   "totals": {
     "games": 309,
     "codes": 4405,
-    "active": 725,
-    "expired": 3680,
-    "withExpiry": 2551
+    "active": 728,
+    "expired": 3677,
+    "withExpiry": 2554
   },
   "newByDate": [
     {
@@ -391,6 +391,11 @@
       "total": 73
     },
     {
+      "slug": "aniimo",
+      "active": 15,
+      "total": 17
+    },
+    {
       "slug": "idle-berserker",
       "active": 15,
       "total": 48
@@ -414,11 +419,6 @@
       "slug": "along-with-the-ghost",
       "active": 12,
       "total": 12
-    },
-    {
-      "slug": "aniimo",
-      "active": 12,
-      "total": 17
     },
     {
       "slug": "dungeon-hunter6-awakening",

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-14T20:03:35.789Z",
+  "updatedAt": "2026-10-14T21:49:58.699Z",
   "codes": [
     {
       "code": "aniimoopenworld",
@@ -88,6 +88,36 @@
       "status": "active"
     },
     {
+      "code": "aniimonow",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
+    {
+      "code": "anythinganiimo",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
+    {
+      "code": "anywhereaniimo",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
+    {
       "code": "stardust789",
       "reward": "",
       "expiry": "2026-12-31",
@@ -134,36 +164,6 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-15",
-      "status": "expired"
-    },
-    {
-      "code": "aniimonow",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-15",
-      "status": "expired"
-    },
-    {
-      "code": "anythinganiimo",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-15",
-      "status": "expired"
-    },
-    {
-      "code": "anywhereaniimo",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
-      "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-15",
       "status": "expired"
     },
