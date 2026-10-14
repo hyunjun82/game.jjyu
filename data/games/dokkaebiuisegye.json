@@ -1,0 +1,41 @@
+{
+  "slug": "dokkaebiuisegye",
+  "titleEn": "dokkaebiuisegye",
+  "titleKo": "도깨비의세계",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-14T17:24:39.327Z",
+  "codes": [
+    {
+      "code": "횟수",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
+    {
+      "code": "구글1위잔치로구나",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
+    {
+      "code": "도깨비1008",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224441362702",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    }
+  ]
+}
