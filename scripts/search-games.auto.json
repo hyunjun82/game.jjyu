@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-14T15:41:22.965Z",
+  "generatedAt": "2026-10-14T19:55:40.419Z",
   "games": [
     {
       "slug": "f4-u",
@@ -77,25 +77,31 @@
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "Along_with_the_ghost",
+      "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -113,13 +119,13 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "Dream_Garden_Cozy_Lite_Management",
+      "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "Eternal_Chronicle",
+      "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -131,13 +137,79 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
+    },
+    {
+      "slug": "magical-ink",
+      "loungeId": "Magical_Ink",
+      "titleKo": "마법의 잉크",
+      "titleEn": "Magical Ink"
+    },
+    {
+      "slug": "marine-squad",
+      "loungeId": "MarineSquad",
+      "titleKo": "마린 키우기 : 방치형 RPG",
+      "titleEn": "Marine Squad"
+    },
+    {
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
+    },
+    {
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
+    },
+    {
+      "slug": "meow-kingdom",
+      "loungeId": "meow_kingdom",
+      "titleKo": "냥킹덤",
+      "titleEn": "Meow Kingdom"
+    },
+    {
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
+    },
+    {
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
+    },
+    {
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
+    },
+    {
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
+    },
+    {
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -149,7 +221,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -173,14 +245,20 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "Survivorio",
+      "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "Toy_Immortals",
+      "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "tt-tiny-tales",
+      "loungeId": "TT_Tiny_Tales",
+      "titleKo": "TT: 타이니 테일즈",
+      "titleEn": "Tt Tiny Tales"
     }
   ]
 }
