@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-13T21:46:19.902Z",
+  "generatedAt": "2026-10-14T00:47:24.895Z",
   "games": [
     {
       "slug": "f4-u",
@@ -75,12 +75,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "archercat2",
-      "loungeId": "archercat2",
-      "titleKo": "아처캣2",
-      "titleEn": "Archercat2"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -93,10 +87,172 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
+      "slug": "akir-call-of-aesir",
+      "loungeId": "AKIR_CALL_OF_AESIR",
+      "titleKo": "아키르: 콜 오브 에시르",
+      "titleEn": "Akir Call Of Aesir"
+    },
+    {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "alterego",
+      "loungeId": "Alterego",
+      "titleKo": "분신 캐 키우기",
+      "titleEn": "Alterego"
+    },
+    {
+      "slug": "loadto-ninza",
+      "loungeId": "loadtoNINZA",
+      "titleKo": "로드 투 닌자-K닌자의 귀환",
+      "titleEn": "Loadto Ninza"
+    },
+    {
+      "slug": "amber-guard",
+      "loungeId": "AmberGuard",
+      "titleKo": "앰버가드",
+      "titleEn": "Amber Guard"
+    },
+    {
+      "slug": "ananta",
+      "loungeId": "Ananta",
+      "titleKo": "무한대 아난타",
+      "titleEn": "Ananta"
+    },
+    {
+      "slug": "angel-knights",
+      "loungeId": "Angel_Knights",
+      "titleKo": "엔젤나이츠",
+      "titleEn": "Angel Knights"
+    },
+    {
+      "slug": "animal-quest",
+      "loungeId": "Animal_Quest",
+      "titleKo": "애니멀 퀘스트",
+      "titleEn": "Animal Quest"
+    },
+    {
+      "slug": "anotherthreekingdoms",
+      "loungeId": "anotherthreekingdoms",
+      "titleKo": "이세계 삼국지",
+      "titleEn": "Anotherthreekingdoms"
+    },
+    {
+      "slug": "aof",
+      "loungeId": "aof",
+      "titleKo": "에테르 오브 판타지",
+      "titleEn": "Aof"
+    },
+    {
+      "slug": "arisen-ants",
+      "loungeId": "Arisen_Ants",
+      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
+      "titleEn": "Arisen Ants"
+    },
+    {
+      "slug": "armored-girls",
+      "loungeId": "Armored_Girls",
+      "titleKo": "삼국무장소녀",
+      "titleEn": "Armored Girls"
+    },
+    {
+      "slug": "asap-arena",
+      "loungeId": "ASAP_ARENA",
+      "titleKo": "ASAP 아레나",
+      "titleEn": "Asap Arena"
+    },
+    {
+      "slug": "ash-n-veil",
+      "loungeId": "AshNVeil",
+      "titleKo": "애쉬앤베일",
+      "titleEn": "Ash N Veil"
+    },
+    {
+      "slug": "assetonline",
+      "loungeId": "assetonline",
+      "titleKo": "에셋온라인",
+      "titleEn": "Assetonline"
+    },
+    {
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "badminton-blitz",
+      "loungeId": "Badminton_Blitz",
+      "titleKo": "배드민턴 달인",
+      "titleEn": "Badminton Blitz"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
+    },
+    {
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
+    },
+    {
+      "slug": "become-a-lord",
+      "loungeId": "Become_a_lord",
+      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
+      "titleEn": "Become A Lord"
+    },
+    {
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
+    },
+    {
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
+    },
+    {
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
+    },
+    {
+      "slug": "blood-soul",
+      "loungeId": "BloodSoul",
+      "titleKo": "ASURA: 블러드 앤 소울",
+      "titleEn": "Blood Soul"
+    },
+    {
+      "slug": "blood-witch",
+      "loungeId": "Blood_Witch",
+      "titleKo": "블러드 위치",
+      "titleEn": "Blood Witch"
+    },
+    {
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
+    },
+    {
+      "slug": "brave-puppy",
+      "loungeId": "BravePuppy",
+      "titleKo": "용감한 댕댕이",
+      "titleEn": "Brave Puppy"
     },
     {
       "slug": "dokkaebi-girl",
@@ -159,82 +315,10 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "samgukjiwar",
-      "loungeId": "samgukjiwar",
-      "titleKo": "삼국지:전란",
-      "titleEn": "Samgukjiwar"
-    },
-    {
-      "slug": "seondo-m",
-      "loungeId": "Seondo_M",
-      "titleKo": "선도M : 선마결전",
-      "titleEn": "Seondo M"
-    },
-    {
-      "slug": "sera-eternals",
-      "loungeId": "SERA_ETERNALS",
-      "titleKo": "세라: 이터널스",
-      "titleEn": "Sera Eternals"
-    },
-    {
-      "slug": "seraphim-saga",
-      "loungeId": "Seraphim_Saga",
-      "titleKo": "세라핌 사가: 날개소녀 키우기",
-      "titleEn": "Seraphim Saga"
-    },
-    {
-      "slug": "shoot-shoot",
-      "loungeId": "ShootShoot",
-      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
-      "titleEn": "Shoot Shoot"
-    },
-    {
-      "slug": "silver-and-blood",
-      "loungeId": "Silver_And_Blood",
-      "titleKo": "실버 앤 블러드",
-      "titleEn": "Silver And Blood"
-    },
-    {
-      "slug": "silver-palace",
-      "loungeId": "Silver_Palace",
-      "titleKo": "실버 팰리스",
-      "titleEn": "Silver Palace"
-    },
-    {
-      "slug": "skull-defense",
-      "loungeId": "Skull_Defense",
-      "titleKo": "스컬디펜스",
-      "titleEn": "Skull Defense"
-    },
-    {
-      "slug": "slingshooter",
-      "loungeId": "slingshooter",
-      "titleKo": "용사의 모험: 슬링슈터",
-      "titleEn": "Slingshooter"
-    },
-    {
-      "slug": "solosamguk",
-      "loungeId": "solosamguk",
-      "titleKo": "나 혼자 만렙 삼국",
-      "titleEn": "Solosamguk"
-    },
-    {
-      "slug": "soul-land-second-coming",
-      "loungeId": "Soul_Land_Second_Coming",
-      "titleKo": "소울랜드:세컨드 커밍",
-      "titleEn": "Soul Land Second Coming"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
       "titleEn": "Star Of The Overlord"
-    },
-    {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
     },
     {
       "slug": "stone-three-kingdoms",
@@ -243,22 +327,16 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
+    },
+    {
+      "slug": "sweethome",
+      "loungeId": "sweethome",
+      "titleKo": "스위트홈 : 욕망의 파편",
+      "titleEn": "Sweethome"
     },
     {
       "slug": "toy-immortals",
