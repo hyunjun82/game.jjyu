@@ -2850,7 +2850,7 @@
    "total": 34
   },
   "Dungeon_English": {
-   "at": "2026-10-13",
+   "at": "2026-10-15",
    "error": "쿠폰 보드 없음"
   },
   "Dungeon_Hunter6_Awakening": {
@@ -3342,7 +3342,7 @@
    "error": "코드 없음"
   },
   "FlyffUniverse": {
-   "at": "2026-10-13",
+   "at": "2026-10-15",
    "live": 0,
    "total": 2
   },
@@ -6486,7 +6486,7 @@
    "error": "보드 잠김(가입 필요)"
   },
   "Pixelmon_Idle": {
-   "at": "2026-10-12",
+   "at": "2026-10-15",
    "error": "쿠폰 보드 없음"
   },
   "Pixie_Paradise": {
@@ -7235,7 +7235,7 @@
    "error": "보드 잠김(가입 필요)"
   },
   "saintblood": {
-   "at": "2026-10-13",
+   "at": "2026-10-15",
    "error": "코드 없음"
   },
   "saintess": {
@@ -9031,7 +9031,7 @@
    "error": "코드 없음"
   },
   "Warcraft3": {
-   "at": "2026-10-12",
+   "at": "2026-10-15",
    "error": "코드 없음"
   },
   "Warframe": {
@@ -9228,7 +9228,7 @@
    "error": "코드 없음"
   },
   "World_of_Warcraft_Classic": {
-   "at": "2026-10-13",
+   "at": "2026-10-15",
    "error": "코드 없음"
   },
   "World_of_Warcraft_Midnight": {
@@ -10835,8 +10835,8 @@
    "error": "쿠폰 보드 없음"
   },
   "TRIBE_NINE": {
-   "at": "2026-09-21",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-10-15",
+   "error": "코드 없음"
   },
   "Pakas_Coffee": {
    "at": "2026-09-21",
@@ -18089,6 +18089,62 @@
    "error": "코드 없음"
   },
   "Shadow_of_the_Tomb_Raider": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "VALDARA_Fantasy_Heroes_RPG": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "Dragon_Knight_Idle": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "dungeon_breakers_heroes": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "Shelter2": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "Skul": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "the_Game_of_LIFE_for_Nintendo_Switch": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "Pokemon_Champions": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "Indoor_Baseball": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "New_Three_Kingdoms_Mobile": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "FantasyJourney": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "Mini_Warrior_Defense": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "F1_22": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "to_a_T": {
+   "at": "2026-10-15",
+   "error": "코드 없음"
+  },
+  "WWE2K26": {
    "at": "2026-10-15",
    "error": "코드 없음"
   }
