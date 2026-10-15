@@ -1,24 +1,22 @@
 {
- "generatedAt": "2026-10-15T04:23:55.143Z",
+ "generatedAt": "2026-10-15T11:18:20.797Z",
  "window": "20261013~20261015",
- "lounges": 2330,
- "posts": 719,
- "couponPosts": 39,
+ "lounges": 2332,
+ "posts": 914,
+ "couponPosts": 46,
  "fixedTracked": [
-  "그놈은 드래곤 | GJXXMimir | [미미르] 계산도 완벽! 반지의 소유자를 향한 마음도 완벽! (교환 코드",
-  "이터널 에볼루션 | EE1015VRFH | 주간 선물 코드",
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | KQNP716 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/15 깜짝 쿠폰!",
-  "천지겁 | 1YearPaper1 | 🎉 1주년 기념 | 일러스트 제1탄 공개! (깜짝 선물 포함🎁)",
-  "라스트 에코 | NEWHUB | 🎉 전격 오픈! 인게임 커뮤니티 정식 오픈!",
-  "LUNAR: 에버소울 | 주의사항 | [이벤트]10/15🔥성냥 한 개비 움직이기 이벤트",
-  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-PINK | [이벤트] 10월 15일 (목) ◈ 데일리 쿠폰!",
-  "발할라 서바이벌 | AUTUMNGIFT26 | 2026 가을 쿠폰 이벤트 안내"
+  "9UP 프로야구 | 26spokialg | [이벤트] 준플레이오프 이벤트 안내",
+  "NBA 바스켓볼 월드 2026 | NEWSTART | 🔥정규 시즌이 시작됩니다! 농구의 열기를 함께 느껴보세요. 구단주님, ",
+  "픽셀 테이머즈 | SORRYEVENT, SORRYDUNGEON | [이벤트] 7등급 이벤트 던전 사과 쿠폰 2종 안내",
+  "정령킹 키우기 | HALLOWEENKING1 | [이벤트] 할로윈 이벤트 기념 1주차 쿠폰 선물!",
+  "바르디안 | UP1015 | 업데이트 기념 쿠폰 선물"
  ],
  "addedLounges": [
-  "삼국지: 킹덤 (Samgukji_Kingdom) → /samgukji-kingdom/ | landmark20",
-  "왓더뼈킹 (wtbk) → /wtbk/ | BONEOPEN"
+  "라그나로크X: Next Generation (RAGNAROK_X_Next_Generation) → /ragnarok-x-next-generation/ | ROX66666, delaypromax, kwave1015, 404servernotfound"
  ],
  "labelOnly": [
+  "이사만루26 | 2026-10-15 | [이벤트] 키워드 쿠폰 이벤트 안내",
+  "에이지 오브 엠파이어 모바일 | 2026-10-15 | <에오엠 모바일>🎉마일스톤 달성, 모두 감사합니다!",
   "에이지 오브 엠파이어 모바일 | 2026-10-13 | <에오엠 모바일>🏆 2주년 이정표 달성 챌린지 🏆",
   "드림 가든: 추억의 힐링 경영 | 2026-10-13 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "이모탈 라이징: 불멸의 각성 | 2026-10-14 | 신규 신 강림・곧 등장",
@@ -27,13 +25,25 @@
   "삼국지 오리진 | 2026-10-14 | 주간 퀴즈 이벤트 364탄",
   "삼국지: 제후의 전쟁 | 2026-10-14 | [제후의 전쟁] 주간 퀴즈 이벤트 6탄",
   "삼국지 오리진2: 적벽대전 | 2026-10-13 | 🎁 GURU 황금 충전 쿠폰 반환 - 10월 특혜 반환 이벤트 (10.14 ~ 16)",
+  "삼국지 2022 | 2026-10-15 | [초보 필독] 쿠폰 대방출 & 사용법",
   "세븐나이츠 리버스 | 2026-10-15 | [세나리 x 귀멸의 칼날] 무한성 미로 찾기 이벤트! 안내",
   "스카이 어비스: 혈맹의 서약 | 2026-10-13 | [라운지 이벤트]출시 100일🎉퀴즈 이벤트(10/13-10/19)",
+  "정령킹 키우기 | 2026-10-15 | [이벤트] 보스 도전 인증 이벤트!",
   "성녀전쟁 | 2026-10-14 | 성녀전쟁 | 공식 사이트 출석만 해도 보상 획득!🎁",
   "왓더뼈킹 | 2026-10-15 | 🎮【왓더뼈킹】 오픈 기념 이벤트 모두보기!",
   "왓더뼈킹 | 2026-10-15 | 📢 왓더뼈킹 오픈 SNS 홍보 이벤트!"
  ],
  "imageOnly": [
+  {
+   "game": "이사만루26",
+   "loungeId": "24manru3",
+   "feedId": 8328133,
+   "date": "2026-10-15",
+   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+   ]
+  },
   {
    "game": "에르피스",
    "loungeId": "Ehrpis",
@@ -60,6 +70,21 @@
    ]
   },
   {
+   "game": "레알팜 크래프트",
+   "loungeId": "REALFARM_CRAFT",
+   "feedId": 8327643,
+   "date": "2026-10-15",
+   "title": "🎁[레알쿠폰 6차 특별 이벤트 사전 안내] (10/28 ~ 11/10)🎁 ",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjg4/MDAxNzkyMDI5NzYyNTU3.Z4esKEOMvtYue6GXZQ3k41cN4My5hfTFodj-gycnTGog.ffnW9b8NpJSU4b7gARTV0HbSNTMdI9rKAO9qWAHeNNgg.JPEG/%EA%B7%B8%EB%A6%BC1.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfOTgg/MDAxNzkyMDI5NzYyNTU3.x-3L8KJsMRoRTh4aRAgWFWYt-poJJUuXoIvnz5Y5D-Qg.inC5Hlj69cxCqInwLUITo-tMpg4NTZF7iTPXveXPdIQg.JPEG/%EA%B7%B8%EB%A6%BC13.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjg4/MDAxNzkyMDI5NzYyNTU4.eIH1eXYB_hzyawvHbxc1HoM8oS56Q8OVbXBRDwayIdAg.Y6eo75xUjfe85KYOlr4guH3XDbvQRpUrOJ-2qIiX3ogg.JPEG/%EA%B7%B8%EB%A6%BC14.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjQ0/MDAxNzkyMDI5NzYyNTYx.C4dFzjnLcfcje4nP2mgrTL0pN52NmHhjsKVh66mEhDkg.rBv587RFYts25fqULyBK_WuI9vp9VUczWtclspZgrl8g.JPEG/%EA%B7%B8%EB%A6%BC15.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjA0/MDAxNzkyMDI5Nzc2MTgy.VsdiBNJC3h3FZ7mOroA6djParCwIlfow4JK_m7fdsU8g.zJED4ck9ZmZd9E3Kz2HeBVEZMIFpf63nvw46q9AHlXEg.JPEG/%EA%B7%B8%EB%A6%BC16.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjU1/MDAxNzkyMDMwNDcwNDM5.nTp4UieJoT7TOSLyHmYrDzEpRwYl25IhGI3F499fXHwg.FXgXJRb9_T_LK2me_Uvers8vxdKZfnZGlc0v3BW6buYg.PNG/image.png?type=w1678"
+   ]
+  },
+  {
    "game": "삼국지 오리진2: 적벽대전",
    "loungeId": "samgukji_origin2",
    "feedId": 8322689,
@@ -69,6 +94,18 @@
     "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjIw/MDAxNzY1ODY2MzU2Mzk4.9-qcwuG-Mgc6rDvl0mXHKfGJVoIKMCUmLmKkF6JBNCwg.IjrxQDfy-1ce-2bV_0sDjjKSwG7NXClBpJnfGY4ZMesg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjM5/MDAxNzUyNjM0OTY3NTE0.3ImPslOJTNDXRVRoy7vSw0wShYgTTqoBHyh4FU8gvKgg.YjlxLq0_xT9KzZ8J8SRNvgjG95OJ4u4C5omOAo6K4x0g.PNG/image.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjMw/MDAxNzUyNjM0OTgzODcx.1O_iBhAVhEtq3YgCuQCk4GPwjKuGPKsZytb2V5JZy-cg.-_YkF0CdSzcvDPbrQOBOWZ4I2fvlVLaCs2dH6XONyfEg.JPEG/img_v3_02o2_06591e35-06d2-454c-a89f-923ef64818dg.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "삼국지 2022",
+   "loungeId": "Samgukji2022",
+   "feedId": 8328561,
+   "date": "2026-10-15",
+   "title": "[초보 필독] 쿠폰 대방출 & 사용법",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMTI2/MDAxNzkyMDU1MzY4OTM1.S_LfA14LRUtE3BLDTPlAFY3_36xB9RSQEXVhhGY0hnog.lV0oyLmDdZ6shdoEFeMHNNLTPWvZ2Yl170u630ywxIcg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81%E5%A4%A7%E6%94%BE%E9%80%81-SDK_BANNER-700x154.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTBfMjMg/MDAxNzkxNjI1NjM5MTgw.80YPPFLoofrG_w3NwcjAiol6PvTUCPlwpB_8k2RSrEIg.U1OfBrDo7bw-zHzJx978JZcO_WlNTDp5J7bz9eFOhsQg.PNG/image.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMzkg/MDAxNzkyMDU1Mzk0Njk3.kUIrZp16kjkF_2lGS6u2msLYGgXbX4fhinXexVgzsywg.uQ8UCj8kMaYiMkokCMS7i9CJ_bexp73z7raJLXBNQCAg.PNG/%E5%B0%BE%E5%9B%BE.png?type=w1678"
    ]
   },
   {

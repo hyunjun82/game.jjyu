@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T06:22:57.795Z",
+  "generatedAt": "2026-10-15T11:48:39.094Z",
   "today": "2026-10-15",
-  "todayNew": 29,
+  "todayNew": 47,
   "totals": {
-    "games": 311,
-    "codes": 4424,
-    "active": 743,
-    "expired": 3681,
-    "withExpiry": 2561
+    "games": 312,
+    "codes": 4442,
+    "active": 760,
+    "expired": 3682,
+    "withExpiry": 2570
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-15",
-      "count": 29
+      "count": 47
     }
   ],
   "expiringSoon": [
@@ -391,14 +391,14 @@
       "total": 20
     },
     {
+      "slug": "aniimo",
+      "active": 16,
+      "total": 17
+    },
+    {
       "slug": "idle-hero-but-save-the-world",
       "active": 16,
       "total": 43
-    },
-    {
-      "slug": "aniimo",
-      "active": 15,
-      "total": 17
     },
     {
       "slug": "cat-hero",
@@ -409,11 +409,6 @@
       "slug": "idle-berserker",
       "active": 15,
       "total": 48
-    },
-    {
-      "slug": "genshin-impact",
-      "active": 13,
-      "total": 23
     },
     {
       "slug": "honkai-star-rail",
@@ -434,6 +429,11 @@
       "slug": "archer-castle-idle",
       "active": 11,
       "total": 13
+    },
+    {
+      "slug": "genshin-impact",
+      "active": 11,
+      "total": 23
     },
     {
       "slug": "sabuk-ice-kingdom",

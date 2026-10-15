@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-15T06:15:07.007Z",
+  "updatedAt": "2026-10-15T11:36:31.868Z",
   "codes": [
+    {
+      "code": "HAPPYHALF1014",
+      "reward": "",
+      "expiry": "2026-11-11",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/alfson/224442492860",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
     {
       "code": "MONGILREPORT",
       "reward": "",
@@ -51,8 +61,8 @@
       "code": "NEWEPISODE7",
       "reward": "",
       "expiry": "2026-09-29",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/alfson/224421757509",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/abb7664/224424781808",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-15",
       "status": "expired"

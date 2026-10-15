@@ -21,7 +21,10 @@
   "8321185": "2026-10-13",
   "8322689": "2026-10-13",
   "8326213": "2026-10-15",
-  "8327396": "2026-10-15"
+  "8327396": "2026-10-15",
+  "8327643": "2026-10-15",
+  "8328133": "2026-10-15",
+  "8328561": "2026-10-15"
  },
  "lounges": {
   "MushWarrior": [
@@ -42,6 +45,64 @@
     "feedId": 8327396,
     "at": "2026-10-15",
     "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8327396"
+   }
+  ],
+  "Samgukji2022": [
+   {
+    "code": "HbSWGn5P",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
+   },
+   {
+    "code": "5BNSJpMP",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
+   },
+   {
+    "code": "Dtk5D8sX",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
+   },
+   {
+    "code": "MsjVd8",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
+   },
+   {
+    "code": "hcbQni",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
+   },
+   {
+    "code": "QJFAUduA",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
+   },
+   {
+    "code": "fwB6zcmU",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8328561,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8328561"
    }
   ]
  }

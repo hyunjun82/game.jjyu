@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA1MTFfMTY5/MDAxNzc4NDg2NDMwMjY3.8PTva8HV_yLyDQFGoiGbHzJWHIaXymbtNGNfHf3NUEMg.HXKD4NKM1YfoHKJuAZhIeoQsV-FTj2DnWYULfPkrlLAg.PNG/2.png",
   "source": "naver-lounge",
   "loungeId": "NBABW2026",
-  "sourceUrl": "https://game.naver.com/lounge/NBABW2026/board/detail/8269283",
+  "sourceUrl": "https://game.naver.com/lounge/NBABW2026/board/detail/8327863",
   "howTo": "게임 접속 후 활성화 코드 입력 메뉴 에서 쿠폰 코드를 입력하시면 보상을 수령하실 수 있습니다. ⚠️ 유의사항 쿠폰은 계정당 1회만 사용할 수 있습니다.",
-  "postCount": 4,
-  "updatedAt": "2026-10-15T06:08:02.949Z",
+  "postCount": 5,
+  "updatedAt": "2026-10-15T11:45:27.402Z",
   "codes": [
+    {
+      "code": "NEWSTART",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
     {
       "code": "2026TO2027",
       "reward": "",
