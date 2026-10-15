@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-15T17:12:49.830Z",
+  "updatedAt": "2026-10-15T19:51:22.364Z",
   "codes": [
+    {
+      "code": "도깨비의약속",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/game_mayo/224437464800",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
     {
       "code": "도깨비1008",
       "reward": "",
