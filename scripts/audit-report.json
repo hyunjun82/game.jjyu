@@ -1,33 +1,22 @@
 {
- "generatedAt": "2026-10-15T11:18:20.797Z",
- "window": "20261013~20261015",
+ "generatedAt": "2026-10-15T16:50:42.422Z",
+ "window": "20261014~20261016",
  "lounges": 2332,
- "posts": 914,
- "couponPosts": 46,
- "fixedTracked": [
-  "9UP 프로야구 | 26spokialg | [이벤트] 준플레이오프 이벤트 안내",
-  "NBA 바스켓볼 월드 2026 | NEWSTART | 🔥정규 시즌이 시작됩니다! 농구의 열기를 함께 느껴보세요. 구단주님, ",
-  "픽셀 테이머즈 | SORRYEVENT, SORRYDUNGEON | [이벤트] 7등급 이벤트 던전 사과 쿠폰 2종 안내",
-  "정령킹 키우기 | HALLOWEENKING1 | [이벤트] 할로윈 이벤트 기념 1주차 쿠폰 선물!",
-  "바르디안 | UP1015 | 업데이트 기념 쿠폰 선물"
- ],
- "addedLounges": [
-  "라그나로크X: Next Generation (RAGNAROK_X_Next_Generation) → /ragnarok-x-next-generation/ | ROX66666, delaypromax, kwave1015, 404servernotfound"
- ],
+ "posts": 683,
+ "couponPosts": 34,
+ "fixedTracked": [],
+ "addedLounges": [],
  "labelOnly": [
   "이사만루26 | 2026-10-15 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "에이지 오브 엠파이어 모바일 | 2026-10-15 | <에오엠 모바일>🎉마일스톤 달성, 모두 감사합니다!",
-  "에이지 오브 엠파이어 모바일 | 2026-10-13 | <에오엠 모바일>🏆 2주년 이정표 달성 챌린지 🏆",
-  "드림 가든: 추억의 힐링 경영 | 2026-10-13 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "이모탈 라이징: 불멸의 각성 | 2026-10-14 | 신규 신 강림・곧 등장",
+  "I9: 인페르노 나인 | 2026-10-15 | 🎬 I9 영화관 OPEN!각성자님의 인생 영화는?",
   "인투더던전:리본 | 2026-10-14 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (10/14 - 10/20)",
-  "렉시오 모바일 | 2026-10-13 | 렉시오 모바일 쿠폰 등록 방법 안내",
   "삼국지 오리진 | 2026-10-14 | 주간 퀴즈 이벤트 364탄",
   "삼국지: 제후의 전쟁 | 2026-10-14 | [제후의 전쟁] 주간 퀴즈 이벤트 6탄",
-  "삼국지 오리진2: 적벽대전 | 2026-10-13 | 🎁 GURU 황금 충전 쿠폰 반환 - 10월 특혜 반환 이벤트 (10.14 ~ 16)",
   "삼국지 2022 | 2026-10-15 | [초보 필독] 쿠폰 대방출 & 사용법",
   "세븐나이츠 리버스 | 2026-10-15 | [세나리 x 귀멸의 칼날] 무한성 미로 찾기 이벤트! 안내",
-  "스카이 어비스: 혈맹의 서약 | 2026-10-13 | [라운지 이벤트]출시 100일🎉퀴즈 이벤트(10/13-10/19)",
+  "슬라임 군단 | 2026-10-16 | [이벤트] 슬라임의 진짜 모습을 찾아라! 🐾",
   "정령킹 키우기 | 2026-10-15 | [이벤트] 보스 도전 인증 이벤트!",
   "성녀전쟁 | 2026-10-14 | 성녀전쟁 | 공식 사이트 출석만 해도 보상 획득!🎁",
   "왓더뼈킹 | 2026-10-15 | 🎮【왓더뼈킹】 오픈 기념 이벤트 모두보기!",
@@ -56,20 +45,6 @@
    ]
   },
   {
-   "game": "렉시오 모바일",
-   "loungeId": "LEXIO_MOBILE",
-   "feedId": 8321185,
-   "date": "2026-10-13",
-   "title": "렉시오 모바일 쿠폰 등록 방법 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMjY0/MDAxNzkxODczODU1MjI3.9AC8dcSHGNKyN2QVqRe36JNEdBPObrKGzorD4WRq2Ykg.P5o57IpbSJTLmIcZXSHld1svgwNw2X4C1pIhKqnjt04g.PNG/screenshot1.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMjE3/MDAxNzkxODc0NDEzNjUx.4ESpMWUdSWzTwm4kmLUKYs5MYaY2_ykOk0ERpGQmE1kg.sBaRDbvOtww2YF5PI_u1_zdecrcEHg_cOaz7IeXbYNsg.PNG/screenshot.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTAz/MDAxNzkxODcyOTE1NDQz.RBCmZDNH78aQvb0GPtDXtFfjxR-ELXUjiFoEIA7seWUg.ZOh6WQ3Nd9wPe4LTwxSi7svY2OmfS3UOPnaFx0ZihYEg.PNG/image.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTNfOTMg/MDAxNzkxODczNjIwMDA1.aCRP8j9LeIw9fcu3Dc-P_li6XGLRWzzYQam0Jx9EW_sg.sUGNBSe6vPmh48jJzHamOiM8YIXZ3TxQA9lrKrebko4g.PNG/screenshot2.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTkg/MDAxNzkxODc0NTMzMzM2.pqm3lI2sKoFKfplIvzOJgkXMCnI1ClpO_YqjL3tgjE0g.bro2Ya3dik7PgmI3zzZJp5oBH0IP9txrEbo3UerXUEUg.PNG/image.png?type=w1678"
-   ]
-  },
-  {
    "game": "레알팜 크래프트",
    "loungeId": "REALFARM_CRAFT",
    "feedId": 8327643,
@@ -82,18 +57,6 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjQ0/MDAxNzkyMDI5NzYyNTYx.C4dFzjnLcfcje4nP2mgrTL0pN52NmHhjsKVh66mEhDkg.rBv587RFYts25fqULyBK_WuI9vp9VUczWtclspZgrl8g.JPEG/%EA%B7%B8%EB%A6%BC15.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjA0/MDAxNzkyMDI5Nzc2MTgy.VsdiBNJC3h3FZ7mOroA6djParCwIlfow4JK_m7fdsU8g.zJED4ck9ZmZd9E3Kz2HeBVEZMIFpf63nvw46q9AHlXEg.JPEG/%EA%B7%B8%EB%A6%BC16.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMjU1/MDAxNzkyMDMwNDcwNDM5.nTp4UieJoT7TOSLyHmYrDzEpRwYl25IhGI3F499fXHwg.FXgXJRb9_T_LK2me_Uvers8vxdKZfnZGlc0v3BW6buYg.PNG/image.png?type=w1678"
-   ]
-  },
-  {
-   "game": "삼국지 오리진2: 적벽대전",
-   "loungeId": "samgukji_origin2",
-   "feedId": 8322689,
-   "date": "2026-10-13",
-   "title": "🎁 GURU 황금 충전 쿠폰 반환 - 10월 특혜 반환 이벤트 (10.14 ~ 16)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjIw/MDAxNzY1ODY2MzU2Mzk4.9-qcwuG-Mgc6rDvl0mXHKfGJVoIKMCUmLmKkF6JBNCwg.IjrxQDfy-1ce-2bV_0sDjjKSwG7NXClBpJnfGY4ZMesg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjM5/MDAxNzUyNjM0OTY3NTE0.3ImPslOJTNDXRVRoy7vSw0wShYgTTqoBHyh4FU8gvKgg.YjlxLq0_xT9KzZ8J8SRNvgjG95OJ4u4C5omOAo6K4x0g.PNG/image.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjMw/MDAxNzUyNjM0OTgzODcx.1O_iBhAVhEtq3YgCuQCk4GPwjKuGPKsZytb2V5JZy-cg.-_YkF0CdSzcvDPbrQOBOWZ4I2fvlVLaCs2dH6XONyfEg.JPEG/img_v3_02o2_06591e35-06d2-454c-a89f-923ef64818dg.jpg?type=w1678"
    ]
   },
   {
