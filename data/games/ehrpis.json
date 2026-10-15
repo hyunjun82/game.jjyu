@@ -2,14 +2,23 @@
   "slug": "ehrpis",
   "titleEn": "Ehrpis",
   "titleKo": "에르피스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MDlfMTY3/MDAxNzgwOTgzODgyMzQ3.GK6yEZytXqXZ3Rd0SQgH2ANDfPro11-hYlwoh5NJqqYg.5x7K7d5zRf_0wvLdgu40FtU4G_GrfIZvdhQ_wEJxqOIg.PNG/EP_GM%EB%85%B8%ED%8A%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfMjY3/MDAxNzg5Njk3OTUzMjc5.i6YkFSa-KuYVom6l-An_Pu89ejFZq3HX_zqw2pYAQFUg.ku0SJimwme81db9x0FTi57q-9osQzjuOpbSALunlkYcg.JPEG/A_668x364_10%EC%9E%90%EC%9D%B4%EC%83%81.jpg",
   "source": "naver-lounge",
   "loungeId": "Ehrpis",
-  "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8269054",
+  "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8246944",
   "howTo": "",
-  "postCount": 13,
-  "updatedAt": "2026-10-15T01:05:18.556Z",
+  "postCount": 12,
+  "updatedAt": "2026-10-15T04:52:42.328Z",
   "codes": [
+    {
+      "code": "10STAR15",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
     {
       "code": "AUTUMN2026",
       "reward": "",

@@ -20,7 +20,8 @@
   "8317707": "2026-10-13",
   "8321185": "2026-10-13",
   "8322689": "2026-10-13",
-  "8326213": "2026-10-15"
+  "8326213": "2026-10-15",
+  "8327396": "2026-10-15"
  },
  "lounges": {
   "MushWarrior": [
@@ -31,6 +32,16 @@
     "feedId": 8279552,
     "at": "2026-10-03",
     "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/8279552"
+   }
+  ],
+  "Ehrpis": [
+   {
+    "code": "10STAR15",
+    "expiry": null,
+    "postedAt": "2026-10-15",
+    "feedId": 8327396,
+    "at": "2026-10-15",
+    "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8327396"
    }
   ]
  }

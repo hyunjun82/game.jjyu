@@ -2,14 +2,23 @@
   "slug": "last-echo",
   "titleEn": "Last Echo",
   "titleKo": "라스트 에코",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMjUy/MDAxNzkwMDUxNDc0MDIw.xCXGhO0ENH1X8KwPSEho5rUOBq-oSeH6XgJNePparfIg.6xewcADM5SJh3aV-FfkFubEOGFmXF9Ym3msGT87yzqMg.JPEG/800-800.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMTUx/MDAxNzkxOTcwODA5MTk0.23vyLm4nNMvESr_ILFQhkkfEZMuUg8lAtH5svFuOJ8Yg.JG07phCoDDkaacsppeXctmzgJ3Cy8cdRb_MYZmkC6Hsg.JPEG/800x800-%E9%9F%A9%E6%96%87.jpg",
   "source": "naver-lounge",
   "loungeId": "Last_Echo",
-  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8305129",
-  "howTo": "",
-  "postCount": 10,
-  "updatedAt": "2026-10-15T01:04:27.133Z",
+  "sourceUrl": "https://game.naver.com/lounge/Last_Echo/board/detail/8327164",
+  "howTo": "영주님, 망설이지 마세요! 새로운 세상의 문이 열렸으니, 어서 오셔서 다른 분들과 함께 이야기를 나눠보세요~ 😏",
+  "postCount": 11,
+  "updatedAt": "2026-10-15T04:51:54.144Z",
   "codes": [
+    {
+      "code": "NEWHUB",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
     {
       "code": "HANGUL26",
       "reward": "",

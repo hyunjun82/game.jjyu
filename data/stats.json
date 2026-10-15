@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T01:16:52.529Z",
+  "generatedAt": "2026-10-15T04:53:46.602Z",
   "today": "2026-10-15",
-  "todayNew": 11,
+  "todayNew": 22,
   "totals": {
-    "games": 309,
-    "codes": 4406,
-    "active": 729,
+    "games": 311,
+    "codes": 4417,
+    "active": 740,
     "expired": 3677,
-    "withExpiry": 2555
+    "withExpiry": 2561
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-15",
-      "count": 11
+      "count": 22
     }
   ],
   "expiringSoon": [
@@ -381,14 +381,19 @@
       "total": 61
     },
     {
+      "slug": "dragon-traveler",
+      "active": 20,
+      "total": 74
+    },
+    {
       "slug": "rogw-remains-of-gods",
       "active": 20,
       "total": 20
     },
     {
-      "slug": "dragon-traveler",
-      "active": 19,
-      "total": 73
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 43
     },
     {
       "slug": "aniimo",
@@ -399,11 +404,6 @@
       "slug": "idle-berserker",
       "active": 15,
       "total": 48
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 42
     },
     {
       "slug": "cat-hero",
