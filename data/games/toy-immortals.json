@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-15T12:12:05.388Z",
+  "updatedAt": "2026-10-15T16:08:31.121Z",
   "codes": [
     {
       "code": "TOYGALAXY1",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -74,17 +74,17 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
       "code": "TOYGOOGLE1",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "active"
     },
     {
@@ -104,7 +104,7 @@
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "status": "expired"
     }
   ]
