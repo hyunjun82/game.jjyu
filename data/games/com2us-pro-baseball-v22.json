@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-14T21:54:55.057Z",
+  "updatedAt": "2026-10-15T06:21:32.836Z",
   "codes": [
     {
       "code": "T4W9B2M6Z8P3",
@@ -18,21 +18,11 @@
       "status": "active"
     },
     {
-      "code": "CPBVKDYPARTY",
-      "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-15",
-      "status": "active"
-    },
-    {
       "code": "STARTWITHGENIE",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-15",
       "status": "active"
@@ -41,8 +31,8 @@
       "code": "TRAININGSTART",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-15",
       "status": "active"
@@ -51,8 +41,18 @@
       "code": "V26STARTPACK",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-15",
+      "status": "active"
+    },
+    {
+      "code": "V26A7K9P3XQ2",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-15",
       "status": "active"
@@ -61,14 +61,14 @@
       "code": "K8R3V7N2Q9X5",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
+      "postedAt": "2026-10-15",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-15",
       "status": "active"
     },
     {
-      "code": "V26A7K9P3XQ2",
+      "code": "CPBVKDYPARTY",
       "reward": "",
       "expiry": "2026-10-31",
       "postedAt": "2026-10-05",
