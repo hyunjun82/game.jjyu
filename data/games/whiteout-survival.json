@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-16T04:24:35.838Z",
+  "updatedAt": "2026-10-16T05:19:23.052Z",
   "codes": [
+    {
+      "code": "SPORTSDAY26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "sourceUrl": "https://blog.naver.com/whitelink224/224443662770",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
+    {
+      "code": "INS400K",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "sourceUrl": "https://blog.naver.com/whitelink224/224443662770",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
     {
       "code": "WOS2026",
       "reward": "",
@@ -38,6 +58,16 @@
       "status": "active"
     },
     {
+      "code": "2ndYoutubeKR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "sourceUrl": "https://blog.naver.com/whitelink224/224443662770",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
+    {
       "code": "WOS0919",
       "reward": "",
       "expiry": "2026-09-28",
@@ -49,16 +79,6 @@
     },
     {
       "code": "JPsilverweek26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224421216382",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-16",
-      "status": "expired"
-    },
-    {
-      "code": "2ndYoutubeKR",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-24",
