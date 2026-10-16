@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T01:12:03.446Z",
+  "generatedAt": "2026-10-16T04:36:48.356Z",
   "today": "2026-10-16",
-  "todayNew": 9,
+  "todayNew": 17,
   "totals": {
     "games": 314,
-    "codes": 4451,
-    "active": 733,
-    "expired": 3718,
-    "withExpiry": 2572
+    "codes": 4459,
+    "active": 736,
+    "expired": 3723,
+    "withExpiry": 2579
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-16",
-      "count": 9
+      "count": 17
     }
   ],
   "expiringSoon": [
@@ -309,6 +309,12 @@
       "days": 3
     },
     {
+      "slug": "dragonnest-world",
+      "code": "HAPPYWEEKLY1016U",
+      "expiry": "2026-10-19",
+      "days": 3
+    },
+    {
       "slug": "eternal-return",
       "code": "BUNNYSUA1015",
       "expiry": "2026-10-19",
@@ -351,12 +357,6 @@
       "days": 4
     },
     {
-      "slug": "doomsday-warrior",
-      "code": "girl8282",
-      "expiry": "2026-10-20",
-      "days": 4
-    },
-    {
       "slug": "eternal-evolution",
       "code": "EE1009BBE9",
       "expiry": "2026-10-20",
@@ -376,14 +376,14 @@
       "total": 65
     },
     {
+      "slug": "dragon-traveler",
+      "active": 21,
+      "total": 75
+    },
+    {
       "slug": "apex-girls",
       "active": 20,
       "total": 61
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 20,
-      "total": 74
     },
     {
       "slug": "rogw-remains-of-gods",
@@ -396,6 +396,11 @@
       "total": 17
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 44
+    },
+    {
       "slug": "cat-hero",
       "active": 15,
       "total": 17
@@ -404,16 +409,6 @@
       "slug": "idle-berserker",
       "active": 15,
       "total": 48
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 43
-    },
-    {
-      "slug": "genshin-impact",
-      "active": 13,
-      "total": 23
     },
     {
       "slug": "honkai-star-rail",
@@ -434,6 +429,11 @@
       "slug": "archer-castle-idle",
       "active": 11,
       "total": 13
+    },
+    {
+      "slug": "genshin-impact",
+      "active": 11,
+      "total": 23
     },
     {
       "slug": "sabuk-ice-kingdom",
