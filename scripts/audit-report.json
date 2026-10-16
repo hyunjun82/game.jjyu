@@ -1,14 +1,24 @@
 {
- "generatedAt": "2026-10-15T21:17:02.100Z",
+ "generatedAt": "2026-10-16T11:13:20.944Z",
  "window": "20261014~20261016",
- "lounges": 2332,
- "posts": 686,
- "couponPosts": 34,
- "fixedTracked": [],
- "addedLounges": [],
+ "lounges": 2335,
+ "posts": 935,
+ "couponPosts": 61,
+ "fixedTracked": [
+  "천지겁 | 1YearPaper2 | 🎉 1주년 기념 | 일러스트 제2탄 공개! (깜짝 선물 포함🎁)",
+  "동방 찻집 | 7rakrvsmc9, QUEENCHARMAINE | 🍵찻집의 주말 보급품 도착! 40탄",
+  "오피스 퀸 키우기 | S1-S188 | [이벤트] 「오피스 퀸 키우기」 SSR 초율!! 10월17일~10월20일"
+ ],
+ "addedLounges": [
+  "대검키우기 (GreatSwordIdle) → /great-sword-idle/ | WELCOMESWORD, GREATSWORD, HAPPYSWORD",
+  "퍼즐 오브 Z (puzzle_of_Z) → /puzzle-of-z/ | PNSGRAN26"
+ ],
  "labelOnly": [
   "이사만루26 | 2026-10-15 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "에이지 오브 엠파이어 모바일 | 2026-10-15 | <에오엠 모바일>🎉마일스톤 달성, 모두 감사합니다!",
+  "영주님은 죽지 않는다 | 2026-10-16 | 🎉[쿠폰]주말, 영지 주민들이 준비한 특별한 선물",
+  "드림 가든: 추억의 힐링 경영 | 2026-10-16 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
+  "꿈의 여행자: 별빛 여정 | 2026-10-16 | [이벤트]🔍 다른 그림 찾기",
   "이모탈 라이징: 불멸의 각성 | 2026-10-14 | 신규 신 강림・곧 등장",
   "I9: 인페르노 나인 | 2026-10-15 | 🎬 I9 영화관 OPEN!각성자님의 인생 영화는?",
   "인투더던전:리본 | 2026-10-14 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (10/14 - 10/20)",
@@ -19,6 +29,7 @@
   "슬라임 군단 | 2026-10-16 | [이벤트] 슬라임의 진짜 모습을 찾아라! 🐾",
   "정령킹 키우기 | 2026-10-15 | [이벤트] 보스 도전 인증 이벤트!",
   "성녀전쟁 | 2026-10-14 | 성녀전쟁 | 공식 사이트 출석만 해도 보상 획득!🎁",
+  "Total Football - 25/26 시즌 | 2026-10-16 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (10/19 ~ 10/25)",
   "왓더뼈킹 | 2026-10-15 | 🎮【왓더뼈킹】 오픈 기념 이벤트 모두보기!",
   "왓더뼈킹 | 2026-10-15 | 📢 왓더뼈킹 오픈 SNS 홍보 이벤트!"
  ],
@@ -31,6 +42,17 @@
    "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "영주님은 죽지 않는다",
+   "loungeId": "Cross_Idle_RPG",
+   "feedId": 8332176,
+   "date": "2026-10-16",
+   "title": "🎉[쿠폰]주말, 영지 주민들이 준비한 특별한 선물",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjUg/MDAxNzkyMTQ1NTcxNzgz.ySjJu08JFzEHIrK_izfivw6o3f7mnZDNjcnOyS9jt84g.PqVyW5TlFdNugjMMO5vXSXGZA8OuAN6W9vD1p1vKs_Ag.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%97%A4%EB%8D%94.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMTA3/MDAxNzkyMTQ1NTgwMzk4.wbVh_AsTd_C2U8-XrLyJonpIwx-SViER4tlDVMDVWnMg.jU5aqxeAO2YJC663xW5_FwfGvL4Sb5CcKXdpB_RgUBcg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%91%B8%ED%84%B0.jpg?type=w1678"
    ]
   },
   {
@@ -69,6 +91,18 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMTI2/MDAxNzkyMDU1MzY4OTM1.S_LfA14LRUtE3BLDTPlAFY3_36xB9RSQEXVhhGY0hnog.lV0oyLmDdZ6shdoEFeMHNNLTPWvZ2Yl170u630ywxIcg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81%E5%A4%A7%E6%94%BE%E9%80%81-SDK_BANNER-700x154.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMTBfMjMg/MDAxNzkxNjI1NjM5MTgw.80YPPFLoofrG_w3NwcjAiol6PvTUCPlwpB_8k2RSrEIg.U1OfBrDo7bw-zHzJx978JZcO_WlNTDp5J7bz9eFOhsQg.PNG/image.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMzkg/MDAxNzkyMDU1Mzk0Njk3.kUIrZp16kjkF_2lGS6u2msLYGgXbX4fhinXexVgzsywg.uQ8UCj8kMaYiMkokCMS7i9CJ_bexp73z7raJLXBNQCAg.PNG/%E5%B0%BE%E5%9B%BE.png?type=w1678"
+   ]
+  },
+  {
+   "game": "영혼군단 키우기: 방치형 소울 RPG",
+   "loungeId": "Soul_Legion_Idle_RPG",
+   "feedId": 8331499,
+   "date": "2026-10-16",
+   "title": "[FAQ] 쿠폰 등록은 어디서 하나요?",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMTM2/MDAxNzkxOTYyOTU1MjEx.NckgkHyW7tUhRkGu4nWh2vlPd2-XX7KkV_VFjzAn-5Eg.7ph-GXG8SHr9hYXEjDjQ3YQUAROT7TOvgsSdAbr3XjUg.PNG/740x256_FAQ_1.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjAx/MDAxNzkyMTIyNzEwNzAy.q3oLnoEJoefQyNXQtp24DlhTy4PlU3tVBHFy58cWnF4g.vb4lcESYuclevpnFWO0BO7SHMxaohfx2dTH-XGh5-CYg.PNG/mspaint_mAzTZ4KOgm.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMjQz/MDAxNzkxOTYyOTcwMDM4.PoEL-pdZ6yo-eneznX1SuxB106P9sB8ghjho_JVdcGog.QffwdQ_HdWcCspRlPl9XKaff-QR_pu62xTSkleVwfVEg.PNG/100x100_FAQ.png?type=w1678"
    ]
   },
   {

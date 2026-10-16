@@ -7,8 +7,8 @@
   "loungeId": "Samgukji2022",
   "sourceUrl": "https://game.naver.com/lounge/Samgukji2022/board/detail/8330481",
   "howTo": "",
-  "postCount": 13,
-  "updatedAt": "2026-10-16T10:00:57.910Z",
+  "postCount": 14,
+  "updatedAt": "2026-10-16T11:36:21.150Z",
   "codes": [
     {
       "code": "DG154BLJ",
@@ -90,6 +90,15 @@
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-16",
       "status": "active"
+    },
+    {
+      "code": "3EKWL76F",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "expired"
     },
     {
       "code": "0H4KTL55",

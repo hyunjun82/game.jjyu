@@ -1,0 +1,41 @@
+{
+  "slug": "great-sword-idle",
+  "titleEn": "GreatSwordIdle",
+  "titleKo": "대검키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMTQ5/MDAxNzkyMTI2MTg5NDUx.csFfXXg8yH3xLpA7xiElFbJk9c3ogWlZssFHjjOhukYg.fRclAcdLLGtvWM3ztvrs_nSM8bA1-qXqx4DlnK0cODsg.JPEG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%ED%97%A4%EB%8D%94(%EC%BF%A0%ED%8F%B0%EC%BD%94%EB%93%9C).jpg",
+  "source": "naver-lounge",
+  "loungeId": "GreatSwordIdle",
+  "sourceUrl": "https://game.naver.com/lounge/GreatSwordIdle/board/detail/8331089",
+  "howTo": "화면 하단 채팅창 클릭 쿠폰명 입력 띄어쓰기 없이 대문자 입력",
+  "postCount": 1,
+  "updatedAt": "2026-10-16T11:37:42.321Z",
+  "codes": [
+    {
+      "code": "WELCOMESWORD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
+    {
+      "code": "GREATSWORD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYSWORD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    }
+  ]
+}

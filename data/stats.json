@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T10:10:31.838Z",
+  "generatedAt": "2026-10-16T11:38:01.837Z",
   "today": "2026-10-16",
-  "todayNew": 31,
+  "todayNew": 40,
   "totals": {
-    "games": 314,
-    "codes": 4473,
-    "active": 750,
+    "games": 316,
+    "codes": 4482,
+    "active": 759,
     "expired": 3723,
-    "withExpiry": 2587
+    "withExpiry": 2589
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-16",
-      "count": 31
+      "count": 40
     }
   ],
   "expiringSoon": [
@@ -391,6 +391,11 @@
       "total": 20
     },
     {
+      "slug": "aniimo",
+      "active": 16,
+      "total": 17
+    },
+    {
       "slug": "idle-berserker",
       "active": 16,
       "total": 49
@@ -399,11 +404,6 @@
       "slug": "idle-hero-but-save-the-world",
       "active": 16,
       "total": 44
-    },
-    {
-      "slug": "aniimo",
-      "active": 15,
-      "total": 17
     },
     {
       "slug": "cat-hero",
