@@ -5,24 +5,24 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-16T15:17:59.738Z",
+  "updatedAt": "2026-10-16T16:53:56.430Z",
   "codes": [
-    {
-      "code": "도깨비1008",
-      "reward": "",
-      "expiry": "2026-11-05",
-      "postedAt": "2026-10-09",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224435821717",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-17",
-      "status": "active"
-    },
     {
       "code": "횟수",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-08",
       "sourceUrl": "https://blog.naver.com/bomding/224435538933",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "code": "도깨비1008",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224435821717",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-17",
       "status": "active"
