@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-16T11:32:38.696Z",
+  "updatedAt": "2026-10-16T15:17:27.921Z",
   "codes": [
     {
       "code": "OPENCHUNO",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-16",
-      "status": "active"
+      "lastSeen": "2026-10-17",
+      "status": "expired"
     },
     {
       "code": "FIRSTWIN",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-16",
-      "status": "active"
+      "lastSeen": "2026-10-17",
+      "status": "expired"
     },
     {
       "code": "APPLE1ST",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-16",
-      "status": "active"
+      "lastSeen": "2026-10-17",
+      "status": "expired"
     },
     {
       "code": "CAFE1000",
@@ -44,8 +44,8 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-16",
-      "status": "active"
+      "lastSeen": "2026-10-17",
+      "status": "expired"
     },
     {
       "code": "CHUNO999",
@@ -54,8 +54,8 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-16",
-      "status": "active"
+      "lastSeen": "2026-10-17",
+      "status": "expired"
     }
   ]
 }
