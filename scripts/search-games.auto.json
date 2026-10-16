@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-16T19:02:50.160Z",
+  "generatedAt": "2026-10-16T21:56:52.432Z",
   "games": [
     {
       "slug": "f4-u",
@@ -75,6 +75,18 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "godsamgook",
+      "loungeId": "godsamgook",
+      "titleKo": "갓삼국",
+      "titleEn": "Godsamgook"
+    },
+    {
+      "slug": "eggmon",
+      "loungeId": "eggmon",
+      "titleKo": "에그몬 월드:저니",
+      "titleEn": "Eggmon"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -123,88 +135,88 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "gumihomobile",
-      "loungeId": "gumihomobile",
-      "titleKo": "요신:구미호뎐",
-      "titleEn": "Gumihomobile"
-    },
-    {
-      "slug": "hell-gate",
-      "loungeId": "HELL_GATE",
-      "titleKo": "헬게이트",
-      "titleEn": "Hell Gate"
-    },
-    {
-      "slug": "helmet-corps",
-      "loungeId": "HelmetCorps",
-      "titleKo": "냄비뚜껑 용병단",
-      "titleEn": "Helmet Corps"
-    },
-    {
-      "slug": "hero-raid",
-      "loungeId": "HeroRaid",
-      "titleKo": "용사 키우기",
-      "titleEn": "Hero Raid"
-    },
-    {
-      "slug": "hero-raised-by-god",
-      "loungeId": "HeroRaisedByGod",
-      "titleKo": "신이 키우는 용사",
-      "titleEn": "Hero Raised By God"
-    },
-    {
-      "slug": "adventureofheroes",
-      "loungeId": "adventureofheroes",
-      "titleKo": "히어로 모험단",
-      "titleEn": "Adventureofheroes"
-    },
-    {
-      "slug": "hidden-heroes-fortune-dungeon",
-      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
-      "titleKo": "미확인용사단 : 운빨방치RPG",
-      "titleEn": "Hidden Heroes Fortune Dungeon"
-    },
-    {
-      "slug": "high-ranker",
-      "loungeId": "HighRanker",
-      "titleKo": "하이랭커",
-      "titleEn": "High Ranker"
-    },
-    {
-      "slug": "hiki",
-      "loungeId": "hiki",
-      "titleKo": "히어로즈 키우기",
-      "titleEn": "Hiki"
-    },
-    {
-      "slug": "honkai-nexus-anima",
-      "loungeId": "Honkai_Nexus_Anima",
-      "titleKo": "붕괴: 넥서스 아니마",
-      "titleEn": "Honkai Nexus Anima"
-    },
-    {
-      "slug": "hwansaenggangho",
-      "loungeId": "hwansaenggangho",
-      "titleKo": "환생강호",
-      "titleEn": "Hwansaenggangho"
-    },
-    {
-      "slug": "lucifer-idle",
-      "loungeId": "Lucifer_Idle",
-      "titleKo": "루시퍼 키우기",
-      "titleEn": "Lucifer Idle"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
     },
     {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
+    },
+    {
+      "slug": "k-zombie-saga-idle-game",
+      "loungeId": "K_Zombie_Saga_Idle_Game",
+      "titleKo": "조선 좀비전",
+      "titleEn": "K Zombie Saga Idle Game"
+    },
+    {
+      "slug": "kingdom-rise-of-zombies",
+      "loungeId": "KINGDOM_RISE_OF_ZOMBIES",
+      "titleKo": "조선 이변",
+      "titleEn": "Kingdom Rise Of Zombies"
+    },
+    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "langrisser-sea-of-sword",
+      "loungeId": "Langrisser_Sea_of_Sword",
+      "titleKo": "랑그릿사: 검의 바다",
+      "titleEn": "Langrisser Sea Of Sword"
+    },
+    {
+      "slug": "lapis-mobile",
+      "loungeId": "LAPIS_MOBILE",
+      "titleKo": "라피스 키우기",
+      "titleEn": "Lapis Mobile"
+    },
+    {
+      "slug": "last-cloudia",
+      "loungeId": "Last_Cloudia",
+      "titleKo": "라스트 클라우디아",
+      "titleEn": "Last Cloudia"
+    },
+    {
+      "slug": "legendof-yeomra",
+      "loungeId": "LegendofYeomra",
+      "titleKo": "염라대왕 키우기",
+      "titleEn": "Legendof Yeomra"
+    },
+    {
+      "slug": "legends-reborn",
+      "loungeId": "Legends_Reborn",
+      "titleKo": "Legends Reborn: 마지막 전투",
+      "titleEn": "Legends Reborn"
+    },
+    {
+      "slug": "leubens-adventure",
+      "loungeId": "Leubens_Adventure",
+      "titleKo": "루벤의 대모험",
+      "titleEn": "Leubens Adventure"
+    },
+    {
+      "slug": "lost-era-mupa",
+      "loungeId": "LostEra_Mupa",
+      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
+      "titleEn": "Lost Era Mupa"
     },
     {
       "slug": "pmang-new-matgo",
@@ -259,6 +271,12 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "kaind-idle",
+      "loungeId": "Kaind_idle",
+      "titleKo": "원정대 키우기",
+      "titleEn": "Kaind Idle"
     }
   ]
 }

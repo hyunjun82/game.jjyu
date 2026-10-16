@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-16T21:19:45.367Z",
+  "updatedAt": "2026-10-16T22:11:44.029Z",
   "codes": [
     {
       "code": "도깨비1008",
@@ -28,6 +28,16 @@
       "status": "active"
     },
     {
+      "code": "구글1위잔치로구나",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-17",
+      "status": "active"
+    },
+    {
       "code": "COKER",
       "reward": "",
       "expiry": null,
@@ -45,16 +55,6 @@
       "sourceUrl": "https://blog.naver.com/game_mayo/224437464800",
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
-      "status": "expired"
-    },
-    {
-      "code": "구글1위잔치로구나",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-15",
       "status": "expired"
     }
   ]

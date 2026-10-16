@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T21:24:43.358Z",
+  "generatedAt": "2026-10-16T22:12:06.850Z",
   "today": "2026-10-17",
-  "todayNew": 1,
+  "todayNew": 4,
   "totals": {
-    "games": 316,
-    "codes": 4483,
-    "active": 730,
-    "expired": 3753,
-    "withExpiry": 2589
+    "games": 315,
+    "codes": 4485,
+    "active": 734,
+    "expired": 3751,
+    "withExpiry": 2591
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-17",
-      "count": 1
+      "count": 4
     }
   ],
   "expiringSoon": [
@@ -321,6 +321,24 @@
       "days": 3
     },
     {
+      "slug": "eclipse-the-awakening",
+      "code": "1013LIVEWELCOME",
+      "expiry": "2026-10-20",
+      "days": 3
+    },
+    {
+      "slug": "eclipse-the-awakening",
+      "code": "1014UPDATEREADY",
+      "expiry": "2026-10-20",
+      "days": 3
+    },
+    {
+      "slug": "eclipse-the-awakening",
+      "code": "1013LIVETICKET5",
+      "expiry": "2026-10-20",
+      "days": 3
+    },
+    {
       "slug": "eternal-evolution",
       "code": "EE1009BBE9",
       "expiry": "2026-10-20",
@@ -347,24 +365,6 @@
     {
       "slug": "f-class-hero",
       "code": "10OctHallo",
-      "expiry": "2026-10-21",
-      "days": 4
-    },
-    {
-      "slug": "honmoon",
-      "code": "소원을말해봐",
-      "expiry": "2026-10-21",
-      "days": 4
-    },
-    {
-      "slug": "horn",
-      "code": "fullmoon",
-      "expiry": "2026-10-21",
-      "days": 4
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "KHTR396",
       "expiry": "2026-10-21",
       "days": 4
     }
