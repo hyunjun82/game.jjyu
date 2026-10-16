@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-16T15:03:29.658Z",
+  "generatedAt": "2026-10-16T19:02:50.160Z",
   "games": [
     {
       "slug": "f4-u",
@@ -15,10 +15,10 @@
       "titleEn": "Tree World"
     },
     {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights_Endfield"
+      "slug": "torchlight-infinite-kr",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight_Infinite"
     },
     {
       "slug": "romantic-gangho",
@@ -27,10 +27,10 @@
       "titleEn": "Romantic Gangho"
     },
     {
-      "slug": "torchlight-infinite",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight Infinite"
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights_Endfield"
     },
     {
       "slug": "heartopia",
@@ -39,16 +39,22 @@
       "titleEn": "Heartopia"
     },
     {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "tales-runner-rpg",
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
     },
     {
       "slug": "solo-exorcist",
@@ -87,84 +93,6 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "become-a-lord",
-      "loungeId": "Become_a_lord",
-      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
-      "titleEn": "Become A Lord"
-    },
-    {
-      "slug": "billionaire",
-      "loungeId": "Billionaire",
-      "titleKo": "억만장자",
-      "titleEn": "Billionaire"
-    },
-    {
-      "slug": "black-shadow-idle-rpg",
-      "loungeId": "Black_Shadow_Idle_RPG",
-      "titleKo": "블랙 쉐도우 키우기",
-      "titleEn": "Black Shadow Idle Rpg"
-    },
-    {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
-    },
-    {
-      "slug": "blood-soul",
-      "loungeId": "BloodSoul",
-      "titleKo": "ASURA: 블러드 앤 소울",
-      "titleEn": "Blood Soul"
-    },
-    {
-      "slug": "blood-witch",
-      "loungeId": "Blood_Witch",
-      "titleKo": "블러드 위치",
-      "titleEn": "Blood Witch"
-    },
-    {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
-    },
-    {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "capybara-go",
-      "loungeId": "Capybara_Go",
-      "titleKo": "카피바라 Go!",
-      "titleEn": "Capybara Go"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
@@ -195,34 +123,76 @@
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
+      "slug": "gumihomobile",
+      "loungeId": "gumihomobile",
+      "titleKo": "요신:구미호뎐",
+      "titleEn": "Gumihomobile"
     },
     {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
     },
     {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
+      "slug": "helmet-corps",
+      "loungeId": "HelmetCorps",
+      "titleKo": "냄비뚜껑 용병단",
+      "titleEn": "Helmet Corps"
     },
     {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
     },
     {
-      "slug": "grim-soul",
-      "loungeId": "Grim_Soul",
-      "titleKo": "그림소울",
-      "titleEn": "Grim Soul"
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
+    },
+    {
+      "slug": "adventureofheroes",
+      "loungeId": "adventureofheroes",
+      "titleKo": "히어로 모험단",
+      "titleEn": "Adventureofheroes"
+    },
+    {
+      "slug": "hidden-heroes-fortune-dungeon",
+      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
+      "titleKo": "미확인용사단 : 운빨방치RPG",
+      "titleEn": "Hidden Heroes Fortune Dungeon"
+    },
+    {
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
+    },
+    {
+      "slug": "hiki",
+      "loungeId": "hiki",
+      "titleKo": "히어로즈 키우기",
+      "titleEn": "Hiki"
+    },
+    {
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
+    },
+    {
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
+    },
+    {
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
@@ -259,12 +229,6 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "star-of-the-overlord",
