@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-15T22:50:59.959Z",
+  "generatedAt": "2026-10-16T00:57:40.689Z",
   "games": [
     {
       "slug": "f4-u",
@@ -81,10 +81,124 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
+      "slug": "akir-call-of-aesir",
+      "loungeId": "AKIR_CALL_OF_AESIR",
+      "titleKo": "아키르: 콜 오브 에시르",
+      "titleEn": "Akir Call Of Aesir"
+    },
+    {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "alterego",
+      "loungeId": "Alterego",
+      "titleKo": "분신 캐 키우기",
+      "titleEn": "Alterego"
+    },
+    {
+      "slug": "loadto-ninza",
+      "loungeId": "loadtoNINZA",
+      "titleKo": "로드 투 닌자-K닌자의 귀환",
+      "titleEn": "Loadto Ninza"
+    },
+    {
+      "slug": "amber-guard",
+      "loungeId": "AmberGuard",
+      "titleKo": "앰버가드",
+      "titleEn": "Amber Guard"
+    },
+    {
+      "slug": "ananta",
+      "loungeId": "Ananta",
+      "titleKo": "무한대 아난타",
+      "titleEn": "Ananta"
+    },
+    {
+      "slug": "angel-knights",
+      "loungeId": "Angel_Knights",
+      "titleKo": "엔젤나이츠",
+      "titleEn": "Angel Knights"
+    },
+    {
+      "slug": "animal-quest",
+      "loungeId": "Animal_Quest",
+      "titleKo": "애니멀 퀘스트",
+      "titleEn": "Animal Quest"
+    },
+    {
+      "slug": "anotherthreekingdoms",
+      "loungeId": "anotherthreekingdoms",
+      "titleKo": "이세계 삼국지",
+      "titleEn": "Anotherthreekingdoms"
+    },
+    {
+      "slug": "aof",
+      "loungeId": "aof",
+      "titleKo": "에테르 오브 판타지",
+      "titleEn": "Aof"
+    },
+    {
+      "slug": "archercat2",
+      "loungeId": "archercat2",
+      "titleKo": "아처캣2",
+      "titleEn": "Archercat2"
+    },
+    {
+      "slug": "arisen-ants",
+      "loungeId": "Arisen_Ants",
+      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
+      "titleEn": "Arisen Ants"
+    },
+    {
+      "slug": "armored-girls",
+      "loungeId": "Armored_Girls",
+      "titleKo": "삼국무장소녀",
+      "titleEn": "Armored Girls"
+    },
+    {
+      "slug": "asap-arena",
+      "loungeId": "ASAP_ARENA",
+      "titleKo": "ASAP 아레나",
+      "titleEn": "Asap Arena"
+    },
+    {
+      "slug": "ash-n-veil",
+      "loungeId": "AshNVeil",
+      "titleKo": "애쉬앤베일",
+      "titleEn": "Ash N Veil"
+    },
+    {
+      "slug": "assetonline",
+      "loungeId": "assetonline",
+      "titleKo": "에셋온라인",
+      "titleEn": "Assetonline"
+    },
+    {
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "badminton-blitz",
+      "loungeId": "Badminton_Blitz",
+      "titleKo": "배드민턴 달인",
+      "titleEn": "Badminton Blitz"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
     },
     {
       "slug": "dokkaebi-girl",
@@ -115,60 +229,6 @@
       "loungeId": "Eternal_Chronicle",
       "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
-    },
-    {
-      "slug": "final-guild",
-      "loungeId": "FinalGuild",
-      "titleKo": "파이널길드",
-      "titleEn": "Final Guild"
-    },
-    {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
-    },
-    {
-      "slug": "football-top-manager",
-      "loungeId": "Football_Top_Manager",
-      "titleKo": "풋볼 탑 매니저",
-      "titleEn": "Football Top Manager"
-    },
-    {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "gaiam",
-      "loungeId": "GAIAM",
-      "titleKo": "가이아M",
-      "titleEn": "Gaiam"
-    },
-    {
-      "slug": "game-of-money",
-      "loungeId": "Game_Of_Money",
-      "titleKo": "대표님을 부탁해",
-      "titleEn": "Game Of Money"
-    },
-    {
-      "slug": "gg-go-masters",
-      "loungeId": "GGGoMasters",
-      "titleKo": "고고 고수들",
-      "titleEn": "Gg Go Masters"
-    },
-    {
-      "slug": "ghost-soul-afk",
-      "loungeId": "GhostSoulAFK",
-      "titleKo": "귀혼키우기",
-      "titleEn": "Ghost Soul Afk"
-    },
-    {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
     },
     {
       "slug": "idle-king",
@@ -237,52 +297,46 @@
       "titleEn": "Toy Immortals"
     },
     {
-      "slug": "godsamgook",
-      "loungeId": "godsamgook",
-      "titleKo": "갓삼국",
-      "titleEn": "Godsamgook"
+      "slug": "evil-m-the-darkness-fable",
+      "loungeId": "Evil_M_The_Darkness_Fable",
+      "titleKo": "이블M: 어둠의 우화",
+      "titleEn": "Evil M The Darkness Fable"
     },
     {
-      "slug": "unlimited-fighter",
-      "loungeId": "Unlimited_Fighter",
-      "titleKo": "언리미티드 파이터",
-      "titleEn": "Unlimited Fighter"
+      "slug": "with",
+      "loungeId": "WITH",
+      "titleKo": "위드 : 신의 날개",
+      "titleEn": "With"
     },
     {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
+      "slug": "wizards-survival",
+      "loungeId": "Wizards_Survival",
+      "titleKo": "나 혼자 클리어",
+      "titleEn": "Wizards Survival"
     },
     {
-      "slug": "vigilante",
-      "loungeId": "Vigilante",
-      "titleKo": "비질란테",
-      "titleEn": "Vigilante"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
-    },
-    {
-      "slug": "wandering-mercenary-force",
-      "loungeId": "wandering_mercenary_force",
-      "titleKo": "방랑용병단",
-      "titleEn": "Wandering Mercenary Force"
-    },
-    {
-      "slug": "warphero",
-      "loungeId": "warphero",
-      "titleKo": "워프히어로",
-      "titleEn": "Warphero"
+      "slug": "woodcutter",
+      "loungeId": "woodcutter",
+      "titleKo": "선녀와 나무꾼 키우기 : 방치형 RPG",
+      "titleEn": "Woodcutter"
     },
     {
       "slug": "wtbk",
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "zero9",
+      "loungeId": "zero9",
+      "titleKo": "제로나인",
+      "titleEn": "Zero9"
+    },
+    {
+      "slug": "zombie-hunter",
+      "loungeId": "ZombieHunter",
+      "titleKo": "이세계 좀비 헌터",
+      "titleEn": "Zombie Hunter"
     }
   ]
 }

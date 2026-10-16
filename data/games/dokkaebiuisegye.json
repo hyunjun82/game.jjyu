@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-15T23:05:48.925Z",
+  "updatedAt": "2026-10-16T01:11:44.919Z",
   "codes": [
+    {
+      "code": "COKER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/cy1118/224436599441",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
     {
       "code": "도깨비의약속",
       "reward": "",
