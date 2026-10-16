@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T05:24:46.761Z",
+  "generatedAt": "2026-10-16T10:10:31.838Z",
   "today": "2026-10-16",
-  "todayNew": 20,
+  "todayNew": 31,
   "totals": {
     "games": 314,
-    "codes": 4462,
-    "active": 740,
-    "expired": 3722,
-    "withExpiry": 2579
+    "codes": 4473,
+    "active": 750,
+    "expired": 3723,
+    "withExpiry": 2587
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-16",
-      "count": 20
+      "count": 31
     }
   ],
   "expiringSoon": [
@@ -243,6 +243,12 @@
       "days": 2
     },
     {
+      "slug": "horde-war-avengers-summon",
+      "code": "bbeqdaaq",
+      "expiry": "2026-10-18",
+      "days": 2
+    },
+    {
       "slug": "idle-hero-but-save-the-world",
       "code": "PQNV638",
       "expiry": "2026-10-18",
@@ -263,6 +269,12 @@
     {
       "slug": "potatozombie",
       "code": "8QVSN7BHM8A4CT",
+      "expiry": "2026-10-18",
+      "days": 2
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG-GOLD",
       "expiry": "2026-10-18",
       "days": 2
     },
@@ -321,6 +333,18 @@
       "days": 3
     },
     {
+      "slug": "ghost-hunter",
+      "code": "1017adg",
+      "expiry": "2026-10-19",
+      "days": 3
+    },
+    {
+      "slug": "ghost-hunter",
+      "code": "1018sfh",
+      "expiry": "2026-10-19",
+      "days": 3
+    },
+    {
       "slug": "god-kkaebi",
       "code": "5vccz5t6",
       "expiry": "2026-10-19",
@@ -343,33 +367,14 @@
       "code": "RKDG572",
       "expiry": "2026-10-19",
       "days": 3
-    },
-    {
-      "slug": "stoneage-idle",
-      "code": "SSPETPARTY",
-      "expiry": "2026-10-19",
-      "days": 3
-    },
-    {
-      "slug": "doomsday-warrior",
-      "code": "S6105",
-      "expiry": "2026-10-20",
-      "days": 4
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "EE1009BBE9",
-      "expiry": "2026-10-20",
-      "days": 4
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "EE1007VIF2",
-      "expiry": "2026-10-20",
-      "days": 4
     }
   ],
   "topGames": [
+    {
+      "slug": "apex-girls",
+      "active": 21,
+      "total": 62
+    },
     {
       "slug": "daksa-rpg",
       "active": 21,
@@ -381,19 +386,14 @@
       "total": 75
     },
     {
-      "slug": "apex-girls",
-      "active": 20,
-      "total": 61
-    },
-    {
       "slug": "rogw-remains-of-gods",
       "active": 20,
       "total": 20
     },
     {
-      "slug": "aniimo",
+      "slug": "idle-berserker",
       "active": 16,
-      "total": 17
+      "total": 49
     },
     {
       "slug": "idle-hero-but-save-the-world",
@@ -401,14 +401,14 @@
       "total": 44
     },
     {
-      "slug": "cat-hero",
+      "slug": "aniimo",
       "active": 15,
       "total": 17
     },
     {
-      "slug": "idle-berserker",
+      "slug": "cat-hero",
       "active": 15,
-      "total": 48
+      "total": 17
     },
     {
       "slug": "honkai-star-rail",

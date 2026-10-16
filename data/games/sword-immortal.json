@@ -2,14 +2,23 @@
   "slug": "sword-immortal",
   "titleEn": "Sword Immortal",
   "titleKo": "검선귀환",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTJfMjc3/MDAxNzg2NTEyNTEwMjk2.OS0A45p4JvYHeLiHRi5HGBxiROHptGyeUGcRxW8Oauwg.-G8yrvpSHd-gEd3J52KYDNXqSV8XzaaxMSoAa6BL7qcg.JPEG/%E6%B8%B8%E6%88%8F%E4%B8%BB%E9%A1%B5BANNER-%E7%A7%BB%E5%8A%A8%E7%AB%AF686%C3%97240.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfNzcg/MDAxNzkyMTMyNzc2MjAz.nUy5n50tA4ziWYZ4VXWzzgMCjGjM7G27Dwli9OfbhRQg.U2enSax81SJveXNbFdg6N1JzPRtmfbR1hf8xA_vF34cg.JPEG/%E9%97%AE%E5%89%91%E9%95%BF%E7%94%9F-%E9%A6%96%E9%A1%B5%E5%B9%BF%E5%91%8A%E5%9B%BE750x340-%E9%9F%A9.jpg",
   "source": "naver-lounge",
   "loungeId": "SwordImmortal",
-  "sourceUrl": "https://game.naver.com/lounge/SwordImmortal/board/detail/8301187",
+  "sourceUrl": "https://game.naver.com/lounge/SwordImmortal/board/detail/8331326",
   "howTo": "",
-  "postCount": 37,
-  "updatedAt": "2026-10-16T05:14:51.204Z",
+  "postCount": 38,
+  "updatedAt": "2026-10-16T10:00:27.150Z",
   "codes": [
+    {
+      "code": "SPIRITUALQI",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
     {
       "code": "HPMIDAUTUMN",
       "reward": "",

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-16T05:12:24.969Z",
+  "generatedAt": "2026-10-16T09:58:00.986Z",
   "games": [
     {
       "slug": "f4-u",
@@ -67,18 +67,6 @@
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
-    },
-    {
-      "slug": "battlemage-idle-pixel-adventure",
-      "loungeId": "Battlemage_Idle_Pixel_Adventure",
-      "titleKo": "배틀메이지 키우기",
-      "titleEn": "Battlemage Idle Pixel Adventure"
-    },
-    {
-      "slug": "prime-football-manager",
-      "loungeId": "Prime_Football_Manager",
-      "titleKo": "프라임 풋볼 매니저",
-      "titleEn": "Prime Football Manager"
     },
     {
       "slug": "pokemon-go",

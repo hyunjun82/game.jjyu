@@ -2,14 +2,23 @@
   "slug": "lostcityzero",
   "titleEn": "Lostcityzero",
   "titleKo": "LOSTCITY : ZERO",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDJfODQg/MDAxNzkwOTI5MjM2NDU5.Qn4jxD5MDtUCYpvg_KopezVL74P66nUdZDl9EWvnKIIg.wAzwHVRlSKP8MPwX_ThMB2vnU4LAZhZyEnwcsaEtZt8g.PNG/3.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjA0/MDAxNzkyMTM4MTAzMzYz.ef5QzvFeu4XHjiP5Twe8nN7GCS-yWhoKD0u6d0n5UX8g.kbPwpWtK6merrQX4pSkpHHHfOBvxTvz6ZOyI4gTPYv8g.PNG/3.png",
   "source": "naver-lounge",
   "loungeId": "LOSTCITYZERO",
-  "sourceUrl": "https://game.naver.com/lounge/LOSTCITYZERO/board/detail/8302724",
+  "sourceUrl": "https://game.naver.com/lounge/LOSTCITYZERO/board/detail/8331604",
   "howTo": "",
-  "postCount": 29,
-  "updatedAt": "2026-10-16T05:14:46.453Z",
+  "postCount": 30,
+  "updatedAt": "2026-10-16T10:00:22.072Z",
   "codes": [
+    {
+      "code": "LOSTCITY1123420",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
     {
       "code": "LOSTCITY444220",
       "reward": "",

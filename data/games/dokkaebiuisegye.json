@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-16T05:24:27.413Z",
+  "updatedAt": "2026-10-16T10:10:09.398Z",
   "codes": [
     {
       "code": "COKER",
@@ -28,21 +28,21 @@
       "status": "active"
     },
     {
-      "code": "도깨비1008",
-      "reward": "",
-      "expiry": "2026-11-05",
-      "postedAt": "2026-10-14",
-      "sourceUrl": "https://blog.naver.com/naakey/224441362702",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-16",
-      "status": "active"
-    },
-    {
       "code": "횟수",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-08",
       "sourceUrl": "https://blog.naver.com/bomding/224435538933",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
+      "status": "active"
+    },
+    {
+      "code": "도깨비1008",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224435821717",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-16",
       "status": "active"
