@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-17T16:14:02.464Z",
+  "updatedAt": "2026-10-17T18:50:20.416Z",
   "codes": [
     {
       "code": "aniimowelcome",
@@ -118,6 +118,16 @@
       "status": "active"
     },
     {
+      "code": "aniimoparty",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/dallaenote/224436115496",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-18",
+      "status": "active"
+    },
+    {
       "code": "stardust789",
       "reward": "",
       "expiry": "2026-12-31",
@@ -164,16 +174,6 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-18",
-      "status": "expired"
-    },
-    {
-      "code": "aniimoparty",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-18",
-      "sourceUrl": "https://blog.naver.com/sarubae_/224416439429",
-      "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-18",
       "status": "expired"
     }

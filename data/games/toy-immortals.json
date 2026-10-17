@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-17T16:18:50.754Z",
+  "updatedAt": "2026-10-17T18:55:18.471Z",
   "codes": [
     {
       "code": "TOYGALAXY1",
@@ -13,6 +13,26 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-09-29",
       "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-18",
+      "status": "active"
+    },
+    {
+      "code": "TOYONE11",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-18",
+      "status": "active"
+    },
+    {
+      "code": "TOYSORRY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
       "lastSeen": "2026-10-18",
       "status": "active"
@@ -85,26 +105,6 @@
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-14",
       "lastSeen": "2026-10-18",
-      "status": "expired"
-    },
-    {
-      "code": "TOYONE11",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-17",
-      "status": "expired"
-    },
-    {
-      "code": "TOYSORRY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-17",
       "status": "expired"
     }
   ]
