@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:57:26.964Z",
+  "generatedAt": "2026-10-17T21:26:02.613Z",
   "today": "2026-10-18",
   "todayNew": 0,
   "totals": {
@@ -7,7 +7,7 @@
     "codes": 4497,
     "active": 718,
     "expired": 3779,
-    "withExpiry": 2599
+    "withExpiry": 2600
   },
   "newByDate": [
     {
