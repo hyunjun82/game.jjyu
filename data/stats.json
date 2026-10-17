@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T18:57:08.409Z",
+  "generatedAt": "2026-10-17T20:57:26.964Z",
   "today": "2026-10-18",
   "todayNew": 0,
   "totals": {
     "games": 315,
     "codes": 4497,
-    "active": 719,
-    "expired": 3778,
+    "active": 718,
+    "expired": 3779,
     "withExpiry": 2599
   },
   "newByDate": [
@@ -387,7 +387,7 @@
     },
     {
       "slug": "aniimo",
-      "active": 16,
+      "active": 15,
       "total": 17
     },
     {
