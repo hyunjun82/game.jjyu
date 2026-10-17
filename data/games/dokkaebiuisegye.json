@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-16T22:11:44.029Z",
+  "updatedAt": "2026-10-17T00:20:28.097Z",
   "codes": [
     {
       "code": "도깨비1008",
@@ -18,21 +18,21 @@
       "status": "active"
     },
     {
-      "code": "횟수",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-17",
-      "status": "active"
-    },
-    {
       "code": "구글1위잔치로구나",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "code": "횟수",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-17",
       "status": "active"
