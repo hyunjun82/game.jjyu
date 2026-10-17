@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-17T04:32:33.503Z",
+  "updatedAt": "2026-10-17T05:01:01.200Z",
   "codes": [
     {
       "code": "PLANETSPORTSDAY1",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/ppej1234/224418661858",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-17",
       "status": "active"
     },
     {
@@ -24,7 +24,17 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/ppej1234/224418661858",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-17",
+      "status": "active"
+    },
+    {
+      "code": "PLANETSPORTSDAY6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/strawberry_like/224430264683",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-17",
       "status": "active"
     },
     {
@@ -55,16 +65,6 @@
       "sourceUrl": "https://blog.naver.com/rumy97/224422418854",
       "firstSeen": "2026-10-11",
       "lastSeen": "2026-10-17",
-      "status": "expired"
-    },
-    {
-      "code": "PLANETSPORTSDAY6",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-03",
-      "sourceUrl": "https://blog.naver.com/strawberry_like/224430264683",
-      "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-15",
       "status": "expired"
     }
   ]
