@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T15:44:31.254Z",
+  "generatedAt": "2026-10-17T16:20:39.639Z",
   "today": "2026-10-18",
   "todayNew": 0,
   "totals": {
     "games": 315,
     "codes": 4497,
-    "active": 714,
-    "expired": 3783,
+    "active": 715,
+    "expired": 3782,
     "withExpiry": 2599
   },
   "newByDate": [
