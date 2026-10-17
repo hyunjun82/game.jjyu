@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-17T09:01:36.468Z",
+  "generatedAt": "2026-10-17T12:39:28.790Z",
   "games": [
     {
       "slug": "f4-u",
@@ -93,78 +93,6 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "come-on-alien",
-      "loungeId": "Come_on_Alien",
-      "titleKo": "덤벼라 외계인!",
-      "titleEn": "Come On Alien"
-    },
-    {
-      "slug": "crystal-of-atlan",
-      "loungeId": "Crystal_of_Atlan",
-      "titleKo": "CoA: 아틀란의 크리스탈",
-      "titleEn": "Crystal Of Atlan"
-    },
-    {
-      "slug": "darkanddarkermobile",
-      "loungeId": "darkanddarkermobile",
-      "titleKo": "어비스 오브 던전",
-      "titleEn": "Darkanddarkermobile"
-    },
-    {
-      "slug": "dark-clan",
-      "loungeId": "Dark_Clan",
-      "titleKo": "다크 클랜 : 수집 방치형 RPG",
-      "titleEn": "Dark Clan"
-    },
-    {
-      "slug": "dark-slayer-sd",
-      "loungeId": "Dark_Slayer_SD",
-      "titleKo": "다크슬레이어2",
-      "titleEn": "Dark Slayer Sd"
-    },
-    {
-      "slug": "dark-three-kingdoms",
-      "loungeId": "DARK_THREE_KINGDOMS",
-      "titleKo": "다크삼국",
-      "titleEn": "Dark Three Kingdoms"
-    },
-    {
-      "slug": "darkeden-r",
-      "loungeId": "DARKEDEN_R",
-      "titleKo": "다크에덴R",
-      "titleEn": "Darkeden R"
-    },
-    {
-      "slug": "dark-hero-kiugi",
-      "loungeId": "DarkHeroKiugi",
-      "titleKo": "다크 히어로 키우기",
-      "titleEn": "Dark Hero Kiugi"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
-    },
-    {
-      "slug": "demonsamguk",
-      "loungeId": "demonsamguk",
-      "titleKo": "전지적 시점:데몬 삼국",
-      "titleEn": "Demonsamguk"
-    },
-    {
-      "slug": "devil-hunter-idle",
-      "loungeId": "Devil_Hunter_Idle",
-      "titleKo": "데빌 헌터 키우기",
-      "titleEn": "Devil Hunter Idle"
-    },
-    {
-      "slug": "devil-note",
-      "loungeId": "Devil_Note",
-      "titleKo": "데빌노트: 보물 헌터",
-      "titleEn": "Devil Note"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
@@ -207,10 +135,136 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
+      "slug": "magical-ink",
+      "loungeId": "Magical_Ink",
+      "titleKo": "마법의 잉크",
+      "titleEn": "Magical Ink"
+    },
+    {
+      "slug": "marine-squad",
+      "loungeId": "MarineSquad",
+      "titleKo": "마린 키우기 : 방치형 RPG",
+      "titleEn": "Marine Squad"
+    },
+    {
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
+    },
+    {
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
+    },
+    {
+      "slug": "meow-kingdom",
+      "loungeId": "meow_kingdom",
+      "titleKo": "냥킹덤",
+      "titleEn": "Meow Kingdom"
+    },
+    {
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
+    },
+    {
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
+    },
+    {
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
+    },
+    {
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
+    },
+    {
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
+    },
+    {
+      "slug": "monstage",
+      "loungeId": "Monstage",
+      "titleKo": "몬스테이지",
+      "titleEn": "Monstage"
+    },
+    {
+      "slug": "monster-never-cry",
+      "loungeId": "Monster_Never_Cry",
+      "titleKo": "마왕만만세",
+      "titleEn": "Monster Never Cry"
+    },
+    {
+      "slug": "monsterhunteroutlanders",
+      "loungeId": "monsterhunteroutlanders",
+      "titleKo": "몬스터헌터 아웃랜더스",
+      "titleEn": "Monsterhunteroutlanders"
+    },
+    {
+      "slug": "fellow-moon",
+      "loungeId": "FellowMoon",
+      "titleKo": "신월동행",
+      "titleEn": "Fellow Moon"
+    },
+    {
+      "slug": "moris-nightmare-hide-and-seek-multi",
+      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
+      "titleKo": "공포의 술래잡기",
+      "titleEn": "Moris Nightmare Hide And Seek Multi"
+    },
+    {
+      "slug": "mushroom-hero",
+      "loungeId": "mushroom_hero",
+      "titleKo": "버섯 키우기: 머쉬룸 히어로",
+      "titleEn": "Mushroom Hero"
+    },
+    {
+      "slug": "my-little-paradise",
+      "loungeId": "MY_LITTLE_PARADISE",
+      "titleKo": "마이 리틀 파라다이스",
+      "titleEn": "My Little Paradise"
+    },
+    {
+      "slug": "mzsamguk",
+      "loungeId": "MZSAMGUK",
+      "titleKo": "MZ삼국지",
+      "titleEn": "Mzsamguk"
+    },
+    {
+      "slug": "nam-tat-defense",
+      "loungeId": "nam_tat_defense",
+      "titleKo": "남탓 디펜스",
+      "titleEn": "Nam Tat Defense"
+    },
+    {
+      "slug": "the-tale-of-five-kingdoms2",
+      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
+      "titleKo": "다섯 왕국 이야기2",
+      "titleEn": "The Tale Of Five Kingdoms2"
+    },
+    {
+      "slug": "ninety-thousand-acres",
+      "loungeId": "NINETY_THOUSAND_ACRES",
+      "titleKo": "9만 에이커",
+      "titleEn": "Ninety Thousand Acres"
+    },
+    {
+      "slug": "ninja-must-die",
+      "loungeId": "Ninja_Must_Die",
+      "titleKo": "닌자 머스트 다이",
+      "titleEn": "Ninja Must Die"
     },
     {
       "slug": "pmang-new-matgo",
