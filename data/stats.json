@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T00:20:47.797Z",
+  "generatedAt": "2026-10-17T04:38:04.341Z",
   "today": "2026-10-17",
-  "todayNew": 6,
+  "todayNew": 15,
   "totals": {
     "games": 315,
-    "codes": 4487,
-    "active": 736,
+    "codes": 4496,
+    "active": 745,
     "expired": 3751,
-    "withExpiry": 2592
+    "withExpiry": 2598
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-17",
-      "count": 6
+      "count": 15
     }
   ],
   "expiringSoon": [
@@ -387,13 +387,18 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 20,
-      "total": 20
+      "active": 21,
+      "total": 21
     },
     {
       "slug": "idle-berserker",
       "active": 16,
       "total": 49
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 45
     },
     {
       "slug": "aniimo",
@@ -406,9 +411,9 @@
       "total": 17
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 44
+      "slug": "dungeon-hunter6-awakening",
+      "active": 13,
+      "total": 39
     },
     {
       "slug": "honkai-star-rail",
@@ -419,11 +424,6 @@
       "slug": "along-with-the-ghost",
       "active": 12,
       "total": 12
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 12,
-      "total": 38
     },
     {
       "slug": "archer-castle-idle",

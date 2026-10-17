@@ -1,16 +1,26 @@
 {
- "generatedAt": "2026-10-16T20:56:42.848Z",
+ "generatedAt": "2026-10-17T04:11:16.495Z",
  "window": "20261015~20261017",
  "lounges": 2335,
- "posts": 662,
- "couponPosts": 50,
+ "posts": 699,
+ "couponPosts": 61,
  "fixedTracked": [
-  "토치라이트: 인피니트 | 1t1nVslUEfGx | 견문록)오픈 12시간후 딜자랑 대잔치  "
+  "던전헌터 6 : 각성 | dzf42mz | 10/17 주말 쿠폰",
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | JYFH284 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/17 깜짝 쿠폰!",
+  "천지겁 | HEROSKILL1017 | 파순 위지량 | SSR 영웅 저승 속성 협객 등장! (깜짝 선물 포함🎁",
+  "미니히어로즈: Reborn | FWTXMH | 📬주간 쿠폰 코드 도착! 115탄",
+  "넋나간 삼국지 | PREKG4 | 주말 혜택 (10/17)",
+  "로그W: 리메인즈 오브 갓 | pffkfay | 10/17 주말 쿠폰",
+  "탑 히어로즈 | GB0DFE1F7925 | 💌 공식 스토어 선물 도착! (유효 기간 2026.10.24일 까지)",
+  "토치라이트: 인피니트 | 1t1nVslUEfGx | 견문록)오픈 12시간후 딜자랑 대잔치  ",
+  "왔더벅: 미니 삼국 | QM99J6 | 주간 쿠폰 도착! ",
+  "열혈강호: 넥스트 | HASDFI | 【선물 코드 공개】 주말 특별 선물을 받아 가세요!"
  ],
  "addedLounges": [],
  "labelOnly": [
   "이사만루26 | 2026-10-15 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "에이지 오브 엠파이어 모바일 | 2026-10-15 | <에오엠 모바일>🎉마일스톤 달성, 모두 감사합니다!",
+  "영주님은 죽지 않는다 | 2026-10-17 | 📜 [안내] 영주님을 위한 쿠폰 등록 방법 안내",
   "영주님은 죽지 않는다 | 2026-10-16 | 🎉[쿠폰]주말, 영지 주민들이 준비한 특별한 선물",
   "드림 가든: 추억의 힐링 경영 | 2026-10-16 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "꿈의 여행자: 별빛 여정 | 2026-10-16 | [이벤트]🔍 다른 그림 찾기",
@@ -32,6 +42,17 @@
    "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "영주님은 죽지 않는다",
+   "loungeId": "Cross_Idle_RPG",
+   "feedId": 8333986,
+   "date": "2026-10-17",
+   "title": "📜 [안내] 영주님을 위한 쿠폰 등록 방법 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTdfMjYz/MDAxNzkyMjAyNjA1OTU3.1C0lIf1g3aDQfiyh_bg2gsWCJtMQASaac_aTreVBThAg.Rp2j_KNKoToGUNogYygWUfvv8DNKh0BA8_siCyDprHIg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%EB%B0%B0%EB%84%88.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMTdfMTgy/MDAxNzkyMjAyNjAwOTUx.nYJlIizoDD0d15V2xGb-i_5fPXjWUT5dq5vOeASS-hAg.NEAjprRYTJc5qqsSIJskN7Q788M7zo6ELUtWwskCATQg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%91%B8%ED%84%B0.jpg?type=w1678"
    ]
   },
   {

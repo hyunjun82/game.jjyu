@@ -2,14 +2,23 @@
   "slug": "what-the-bug",
   "titleEn": "What The Bug",
   "titleKo": "왔더벅: 미니 삼국",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMTQ4/MDAxNzkwNTc3NTc0ODcz.aVMemwpREODW-VsdDuh_UzdIQVDbg57cJbAblwFh3kwg.M5cwf9YmUHYdOmUokCpJapTDQeV-O2YxhdQHstvesg4g.JPEG/%ED%98%9C%ED%83%9D_%EB%8C%80%EB%B0%A9%EC%86%A1.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTVfMTQ4/MDAxNzkyMDU3NjcxNTg0.6SAGo0gUgLvgJQ6u6N4V-MUvZsKQU3pC5hd2Dw2lguAg.MdfKUtcqEqaVFp412bHseIV_R7mx7SqUW6lbNseJW1Qg.JPEG/%ED%98%9C%ED%83%9D_%EB%8C%80%EB%B0%A9%EC%86%A1.jpg",
   "source": "naver-lounge",
   "loungeId": "what_the_bug",
-  "sourceUrl": "https://game.naver.com/lounge/what_the_bug/board/detail/8309574",
+  "sourceUrl": "https://game.naver.com/lounge/what_the_bug/board/detail/8333974",
   "howTo": "① 게임 메인 화면의 왼쪽 상단에 있는 [프로필] 을 클릭하세요. ② [🎫쿠폰 번호] 버튼 클릭 ③ 위 쿠폰을 입력하고 확인 버튼을 클릭하면 보상을 받으실 수 있습니다. 여러분, 즉시 사용하세요~",
-  "postCount": 97,
-  "updatedAt": "2026-10-17T00:09:27.809Z",
+  "postCount": 98,
+  "updatedAt": "2026-10-17T04:35:45.714Z",
   "codes": [
+    {
+      "code": "QM99J6",
+      "reward": "",
+      "expiry": "2026-10-20",
+      "postedAt": "2026-10-17",
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-17",
+      "status": "active"
+    },
     {
       "code": "YL32F6",
       "reward": "",
