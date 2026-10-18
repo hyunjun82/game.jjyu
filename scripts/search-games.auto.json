@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-18T11:33:22.061Z",
+  "generatedAt": "2026-10-18T14:50:10.280Z",
   "games": [
     {
       "slug": "f4-u",
@@ -75,6 +75,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "tukiers-god-tier-life-idle-tycoon",
+      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
+      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
+      "titleEn": "Tukiers God Tier Life Idle Tycoon"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -117,106 +123,16 @@
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
-      "slug": "elfidle",
-      "loungeId": "elfidle",
-      "titleKo": "엘프키우기",
-      "titleEn": "Elfidle"
-    },
-    {
-      "slug": "escape-tonight-49-days",
-      "loungeId": "Escape_Tonight_49Days",
-      "titleKo": "밤탈출 - 49일",
-      "titleEn": "Escape Tonight 49 Days"
-    },
-    {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
       "titleKo": "이터널 크로니클",
       "titleEn": "Eternal Chronicle"
     },
     {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
-    },
-    {
-      "slug": "ex-astris",
-      "loungeId": "Ex_Astris",
-      "titleKo": "엑스 아스트리스",
-      "titleEn": "Ex Astris"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "final-guild",
-      "loungeId": "FinalGuild",
-      "titleKo": "파이널길드",
-      "titleEn": "Final Guild"
-    },
-    {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
-    },
-    {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
-    },
-    {
-      "slug": "football-top-manager",
-      "loungeId": "Football_Top_Manager",
-      "titleKo": "풋볼 탑 매니저",
-      "titleEn": "Football Top Manager"
-    },
-    {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "gaiam",
-      "loungeId": "GAIAM",
-      "titleKo": "가이아M",
-      "titleEn": "Gaiam"
-    },
-    {
-      "slug": "game-of-money",
-      "loungeId": "Game_Of_Money",
-      "titleKo": "대표님을 부탁해",
-      "titleEn": "Game Of Money"
-    },
-    {
-      "slug": "ghost-soul-afk",
-      "loungeId": "GhostSoulAFK",
-      "titleKo": "귀혼키우기",
-      "titleEn": "Ghost Soul Afk"
-    },
-    {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
-    },
-    {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
-    },
-    {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
+      "slug": "grim-soul",
+      "loungeId": "Grim_Soul",
+      "titleKo": "그림소울",
+      "titleEn": "Grim Soul"
     },
     {
       "slug": "idle-king",
@@ -273,10 +189,94 @@
       "titleEn": "Survivorio"
     },
     {
+      "slug": "the-ace-banker",
+      "loungeId": "The_Ace_Banker",
+      "titleKo": "사장님의 이중생활",
+      "titleEn": "The Ace Banker"
+    },
+    {
+      "slug": "the-contract-of-blood",
+      "loungeId": "The_contract_of_Blood",
+      "titleKo": "피의 계약: 언데드",
+      "titleEn": "The Contract Of Blood"
+    },
+    {
+      "slug": "the-first-hunter-vanguard",
+      "loungeId": "The_First_Hunter_Vanguard",
+      "titleKo": "최초의 헌터: 뱅가드",
+      "titleEn": "The First Hunter Vanguard"
+    },
+    {
+      "slug": "the-last-chronicle",
+      "loungeId": "The_Last_Chronicle",
+      "titleKo": "마지막 연대기",
+      "titleEn": "The Last Chronicle"
+    },
+    {
+      "slug": "the-legend-of-neverland",
+      "loungeId": "The_Legend_of_Neverland",
+      "titleKo": "레오네S: 레전드 오브 네버랜드",
+      "titleEn": "The Legend Of Neverland"
+    },
+    {
+      "slug": "the-pixel-ark",
+      "loungeId": "THE_PIXEL_ARK",
+      "titleKo": "픽셀방주",
+      "titleEn": "The Pixel Ark"
+    },
+    {
+      "slug": "the-war-of-light-and-darkness",
+      "loungeId": "The_War_of_Light_and_Darkness",
+      "titleKo": "빛과 어둠의 전쟁",
+      "titleEn": "The War Of Light And Darkness"
+    },
+    {
+      "slug": "three-kingdoms-card-clash",
+      "loungeId": "Three_Kingdoms_Card_Clash",
+      "titleKo": "삼국 칸따먹기",
+      "titleEn": "Three Kingdoms Card Clash"
+    },
+    {
+      "slug": "three-kingdoms-rise-of-warlords",
+      "loungeId": "Three_kingdoms_Rise_of_Warlords",
+      "titleKo": "삼국지: 군웅할거",
+      "titleEn": "Three Kingdoms Rise Of Warlords"
+    },
+    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "ultirpg",
+      "loungeId": "ultirpg",
+      "titleKo": "실력존많겜",
+      "titleEn": "Ultirpg"
+    },
+    {
+      "slug": "undergroundz",
+      "loungeId": "undergroundz",
+      "titleKo": "이번역은 좀비입니다",
+      "titleEn": "Undergroundz"
+    },
+    {
+      "slug": "godsamgook",
+      "loungeId": "godsamgook",
+      "titleKo": "갓삼국",
+      "titleEn": "Godsamgook"
+    },
+    {
+      "slug": "unlimited-fighter",
+      "loungeId": "Unlimited_Fighter",
+      "titleKo": "언리미티드 파이터",
+      "titleEn": "Unlimited Fighter"
+    },
+    {
+      "slug": "vahns-quest-idlerpg",
+      "loungeId": "Vahns_Quest_IDLERPG",
+      "titleKo": "반의모험 : IDLE RPG",
+      "titleEn": "Vahns Quest Idlerpg"
     },
     {
       "slug": "wtbk",

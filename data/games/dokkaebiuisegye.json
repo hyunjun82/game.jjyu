@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-18T11:46:21.789Z",
+  "updatedAt": "2026-10-18T15:04:04.670Z",
   "codes": [
     {
       "code": "도깨비의마음",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/qorgusdo3339/224439154748",
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "active"
     },
     {
@@ -24,27 +24,7 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/naakey/224441362702",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18",
-      "status": "active"
-    },
-    {
-      "code": "횟수",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18",
-      "status": "active"
-    },
-    {
-      "code": "구글1위잔치로구나",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "active"
     },
     {
@@ -65,6 +45,26 @@
       "sourceUrl": "https://blog.naver.com/game_mayo/224437464800",
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
+      "status": "expired"
+    },
+    {
+      "code": "횟수",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-18",
+      "status": "expired"
+    },
+    {
+      "code": "구글1위잔치로구나",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-18",
       "status": "expired"
     }
   ]

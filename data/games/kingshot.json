@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-18T11:45:41.830Z",
+  "updatedAt": "2026-10-18T15:03:21.134Z",
   "codes": [
     {
       "code": "특징",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-18",
+      "postedAt": "2026-10-19",
       "sourceUrl": "https://blog.naver.com/mola__mola/224445009260",
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "active"
     },
     {
@@ -41,10 +41,10 @@
       "code": "Kingshot888",
       "reward": "",
       "expiry": "2026-09-26",
-      "postedAt": "2026-10-18",
+      "postedAt": "2026-10-19",
       "sourceUrl": "https://blog.naver.com/mola__mola/224445009260",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     }
   ]
