@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-18T01:19:06.013Z",
+  "generatedAt": "2026-10-18T06:03:37.573Z",
   "games": [
     {
       "slug": "f4-u",
@@ -75,88 +75,34 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "oops-tomb-raid",
-      "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
-      "titleEn": "Oops Tomb Raid"
+      "slug": "gg-go-masters",
+      "loungeId": "GGGoMasters",
+      "titleKo": "고고 고수들",
+      "titleEn": "Gg Go Masters"
     },
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
+    },
+    {
+      "slug": "oops-tomb-raid",
+      "loungeId": "Oops_Tomb_Raid",
+      "titleKo": "Oops_Tomb_Raid",
+      "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "귀신과 함께",
+      "titleKo": "Along_with_the_ghost",
       "titleEn": "Along With The Ghost"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "capybara-go",
-      "loungeId": "Capybara_Go",
-      "titleKo": "카피바라 Go!",
-      "titleEn": "Capybara Go"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
-    },
-    {
-      "slug": "disgaea-rpg",
-      "loungeId": "DISGAEA_RPG",
-      "titleKo": "마계전기 DISGAEA RPG",
-      "titleEn": "Disgaea Rpg"
-    },
-    {
-      "slug": "disney-realm-breakers",
-      "loungeId": "Disney_Realm_Breakers",
-      "titleKo": "디즈니 렐름 브레이커스",
-      "titleEn": "Disney Realm Breakers"
-    },
-    {
-      "slug": "dm-epicnine",
-      "loungeId": "DM_EPICNINE",
-      "titleKo": "에픽나인",
-      "titleEn": "Dm Epicnine"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
-    },
-    {
-      "slug": "dothero",
-      "loungeId": "dothero",
-      "titleKo": "도트 공주들 구하기",
-      "titleEn": "Dothero"
-    },
-    {
-      "slug": "dragon-blood-raider",
-      "loungeId": "Dragon_Blood_Raider",
-      "titleKo": "드래곤 블러드: 레이더",
-      "titleEn": "Dragon Blood Raider"
-    },
-    {
-      "slug": "dragon-rider-idle",
-      "loungeId": "Dragon_Rider_Idle",
-      "titleKo": "드래곤 라이더 키우기",
-      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -171,81 +117,15 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dragon-saver",
-      "loungeId": "DragonSaver",
-      "titleKo": "드래곤 세이버: 용과 소녀의 모험 방치형 키우기 RPG",
-      "titleEn": "Dragon Saver"
-    },
-    {
-      "slug": "dragoon-of-the-wind",
-      "loungeId": "Dragoon_Of_The_Wind",
-      "titleKo": "바람의 드래군M",
-      "titleEn": "Dragoon Of The Wind"
-    },
-    {
-      "slug": "dream-furniture",
-      "loungeId": "dream_furniture",
-      "titleKo": "꿈꾸는 가구점",
-      "titleEn": "Dream Furniture"
-    },
-    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
       "titleEn": "Dream Garden Cozy Lite Management"
-    },
-    {
-      "slug": "dream-samguk",
-      "loungeId": "dream_samguk",
-      "titleKo": "드림삼국",
-      "titleEn": "Dream Samguk"
-    },
-    {
-      "slug": "dungeonand-breaker",
-      "loungeId": "DungeonandBreaker",
-      "titleKo": "던전앤브레이커",
-      "titleEn": "Dungeonand Breaker"
-    },
-    {
-      "slug": "dungeon-dungeon",
-      "loungeId": "DungeonDungeon",
-      "titleKo": "던전던전",
-      "titleEn": "Dungeon Dungeon"
-    },
-    {
-      "slug": "dunjeonpang",
-      "loungeId": "dunjeonpang",
-      "titleKo": "손가락 나갔다: 던전팡팡",
-      "titleEn": "Dunjeonpang"
-    },
-    {
-      "slug": "dwarfidlerpg",
-      "loungeId": "Dwarfidlerpg",
-      "titleKo": "드워프 키우기 : 방치형RPG",
-      "titleEn": "Dwarfidlerpg"
-    },
-    {
-      "slug": "dx-awaken",
-      "loungeId": "dx_awaken",
-      "titleKo": "DX: 각성자들",
-      "titleEn": "Dx Awaken"
-    },
-    {
-      "slug": "echocalypse-scarlet-covenant",
-      "loungeId": "Echocalypse_Scarlet_Covenant",
-      "titleKo": "에코칼립스: 진홍의 서약",
-      "titleEn": "Echocalypse Scarlet Covenant"
-    },
-    {
-      "slug": "eggmon",
-      "loungeId": "eggmon",
-      "titleKo": "에그몬 월드:저니",
-      "titleEn": "Eggmon"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
+      "titleKo": "Eternal_Chronicle",
       "titleEn": "Eternal Chronicle"
     },
     {
@@ -257,13 +137,13 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -275,7 +155,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -299,13 +179,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "탕탕특공대",
+      "titleKo": "Survivorio",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "토이 신선",
+      "titleKo": "Toy_Immortals",
       "titleEn": "Toy Immortals"
     },
     {
