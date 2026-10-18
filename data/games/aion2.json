@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-18T20:00:58.880Z",
+  "updatedAt": "2026-10-18T20:47:00.243Z",
   "codes": [
     {
       "code": "TAKEFLIGHTAION2",
@@ -20,9 +20,9 @@
     {
       "code": "HAPPYCHUSEOKAION2",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-25",
-      "sourceUrl": "https://blog.naver.com/greedady/224422745801",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/kjg3635/224421886378",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-19",
       "status": "expired"
