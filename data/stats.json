@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T06:15:43.795Z",
+  "generatedAt": "2026-10-18T11:23:23.515Z",
   "today": "2026-10-18",
   "todayNew": 8,
   "totals": {
     "games": 315,
     "codes": 4505,
-    "active": 729,
-    "expired": 3776,
+    "active": 728,
+    "expired": 3777,
     "withExpiry": 2608
   },
   "newByDate": [
@@ -386,14 +386,14 @@
       "total": 21
     },
     {
-      "slug": "aniimo",
-      "active": 16,
-      "total": 18
-    },
-    {
       "slug": "idle-hero-but-save-the-world",
       "active": 16,
       "total": 46
+    },
+    {
+      "slug": "aniimo",
+      "active": 15,
+      "total": 18
     },
     {
       "slug": "cat-hero",
