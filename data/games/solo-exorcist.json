@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-17T21:20:27.862Z",
+  "updatedAt": "2026-10-18T01:28:45.048Z",
   "codes": [
     {
       "code": "DOWNLOAD11",
@@ -80,52 +80,52 @@
     {
       "code": "EXORCIST666",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224430270932",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-18",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "EXORCIST777",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224430270932",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-18",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "EXORCIST888",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224430270932",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-18",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "SSS666",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224430270932",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-18",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "SSS999",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-03",
+      "sourceUrl": "https://blog.naver.com/inchul9426/224430270932",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-18",
-      "status": "expired"
+      "status": "active"
     }
   ]
 }

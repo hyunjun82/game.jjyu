@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T23:30:41.582Z",
+  "generatedAt": "2026-10-18T01:33:26.304Z",
   "today": "2026-10-18",
-  "todayNew": 1,
+  "todayNew": 4,
   "totals": {
     "games": 315,
-    "codes": 4498,
-    "active": 719,
-    "expired": 3779,
-    "withExpiry": 2600
+    "codes": 4501,
+    "active": 727,
+    "expired": 3774,
+    "withExpiry": 2606
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-18",
-      "count": 1
+      "count": 4
     }
   ],
   "expiringSoon": [
@@ -426,6 +426,11 @@
       "total": 12
     },
     {
+      "slug": "solo-exorcist",
+      "active": 12,
+      "total": 12
+    },
+    {
       "slug": "archer-castle-idle",
       "active": 11,
       "total": 13
@@ -451,6 +456,11 @@
       "total": 10
     },
     {
+      "slug": "busy-savior",
+      "active": 10,
+      "total": 33
+    },
+    {
       "slug": "byeolbyeol-hero",
       "active": 10,
       "total": 13
@@ -459,16 +469,6 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "syupeojinhwaseutori2",
-      "active": 10,
-      "total": 10
-    },
-    {
-      "slug": "windeureoneo-kiugi",
-      "active": 10,
-      "total": 10
     }
   ],
   "noImage": 57
