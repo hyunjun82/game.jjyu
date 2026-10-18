@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-07T14:21:14.947Z",
+  "updatedAt": "2026-10-18T04:29:05.632Z",
   "codes": [
+    {
+      "code": "특징",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-18",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224445009260",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
+      "status": "active"
+    },
     {
       "code": "KS1005",
       "reward": "",
@@ -15,7 +25,7 @@
       "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434360006",
       "firstSeen": "2026-10-07",
       "lastSeen": "2026-10-07",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "WELLDONE",
@@ -25,16 +35,16 @@
       "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434360006",
       "firstSeen": "2026-10-07",
       "lastSeen": "2026-10-07",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "Kingshot888",
       "reward": "",
       "expiry": "2026-09-26",
-      "postedAt": "2026-10-07",
-      "sourceUrl": "https://blog.naver.com/aoxdmuhzkxvaay/224434360006",
+      "postedAt": "2026-10-18",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224445009260",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-18",
       "status": "expired"
     }
   ]

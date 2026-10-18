@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-18T01:26:30.804Z",
+  "updatedAt": "2026-10-18T04:23:08.074Z",
   "codes": [
     {
       "code": "aniimowelcome",
@@ -156,6 +156,16 @@
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-18",
       "status": "active"
+    },
+    {
+      "code": "ANIMO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-21",
+      "sourceUrl": "https://blog.naver.com/jina3421/224418141598",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-18",
+      "status": "expired"
     },
     {
       "code": "aniimopenworld",

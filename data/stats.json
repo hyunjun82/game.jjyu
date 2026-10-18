@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T01:33:26.304Z",
+  "generatedAt": "2026-10-18T04:34:49.319Z",
   "today": "2026-10-18",
-  "todayNew": 4,
+  "todayNew": 8,
   "totals": {
     "games": 315,
-    "codes": 4501,
-    "active": 727,
-    "expired": 3774,
-    "withExpiry": 2606
+    "codes": 4505,
+    "active": 728,
+    "expired": 3777,
+    "withExpiry": 2608
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-18",
-      "count": 4
+      "count": 8
     }
   ],
   "expiringSoon": [
@@ -386,9 +386,14 @@
       "total": 21
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 46
+    },
+    {
       "slug": "aniimo",
       "active": 15,
-      "total": 17
+      "total": 18
     },
     {
       "slug": "cat-hero",
@@ -401,14 +406,9 @@
       "total": 49
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 45
-    },
-    {
       "slug": "dragon-traveler",
-      "active": 13,
-      "total": 75
+      "active": 14,
+      "total": 76
     },
     {
       "slug": "dungeon-hunter6-awakening",
