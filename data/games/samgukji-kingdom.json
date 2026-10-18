@@ -7,9 +7,19 @@
   "loungeId": "Samgukji_Kingdom",
   "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8326887",
   "howTo": "",
-  "postCount": 157,
-  "updatedAt": "2026-10-18T14:54:44.910Z",
+  "postCount": 159,
+  "updatedAt": "2026-10-18T16:12:06.509Z",
   "codes": [
+    {
+      "code": "landmark20",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-19",
+      "status": "active"
+    },
     {
       "code": "landmark80",
       "reward": "",
@@ -18,17 +28,7 @@
       "postedAt": "2026-10-18",
       "firstSeen": "2026-10-18",
       "lastSeen": "2026-10-18",
-      "status": "active"
-    },
-    {
-      "code": "landmark20",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "landmark50",

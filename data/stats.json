@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-10-18T15:04:23.939Z",
+  "generatedAt": "2026-10-18T16:12:22.080Z",
   "today": "2026-10-19",
-  "todayNew": 0,
+  "todayNew": 1,
   "totals": {
-    "games": 315,
-    "codes": 4505,
-    "active": 711,
-    "expired": 3794,
-    "withExpiry": 2608
+    "games": 316,
+    "codes": 4506,
+    "active": 698,
+    "expired": 3808,
+    "withExpiry": 2609
   },
   "newByDate": [
-    {
-      "date": "2026-10-05",
-      "count": 26
-    },
     {
       "date": "2026-10-06",
       "count": 55
@@ -65,6 +61,10 @@
     {
       "date": "2026-10-18",
       "count": 8
+    },
+    {
+      "date": "2026-10-19",
+      "count": 1
     }
   ],
   "expiringSoon": [
@@ -416,11 +416,6 @@
       "total": 39
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 13,
-      "total": 30
-    },
-    {
       "slug": "along-with-the-ghost",
       "active": 12,
       "total": 12
@@ -469,6 +464,11 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
+    },
+    {
+      "slug": "syupeojinhwaseutori2",
+      "active": 10,
+      "total": 10
     }
   ],
   "noImage": 57

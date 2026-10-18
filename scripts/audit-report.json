@@ -1,21 +1,18 @@
 {
- "generatedAt": "2026-10-18T10:53:37.470Z",
- "window": "20261016~20261018",
+ "generatedAt": "2026-10-18T15:46:40.640Z",
+ "window": "20261017~20261019",
  "lounges": 2335,
- "posts": 447,
- "couponPosts": 47,
+ "posts": 188,
+ "couponPosts": 20,
  "fixedTracked": [
   "토치라이트: 인피니트 | 1t1nVslUEfGx | 견문록)오픈 12시간후 딜자랑 대잔치  "
  ],
- "addedLounges": [],
+ "addedLounges": [
+  "스텔라 소라 (stellasora) → /stellasora/ | 1stAnniv"
+ ],
  "labelOnly": [
   "영주님은 죽지 않는다 | 2026-10-17 | 📜 [안내] 영주님을 위한 쿠폰 등록 방법 안내",
-  "영주님은 죽지 않는다 | 2026-10-16 | 🎉[쿠폰]주말, 영지 주민들이 준비한 특별한 선물",
-  "드래곤에어 : 침묵의 신 | 2026-10-17 | 【이벤트】🎲 엠블럼 쌓기 퀴즈 - 당신의 논리를 시험해 보세요! 🧠",
-  "드림 가든: 추억의 힐링 경영 | 2026-10-16 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "꿈의 여행자: 별빛 여정 | 2026-10-16 | [이벤트]🔍 다른 그림 찾기",
-  "슬라임 군단 | 2026-10-16 | [이벤트] 슬라임의 진짜 모습을 찾아라! 🐾",
-  "Total Football - 25/26 시즌 | 2026-10-16 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (10/19 ~ 10/25)"
+  "드래곤에어 : 침묵의 신 | 2026-10-17 | 【이벤트】🎲 엠블럼 쌓기 퀴즈 - 당신의 논리를 시험해 보세요! 🧠"
  ],
  "imageOnly": [
   {
@@ -27,29 +24,6 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjEwMTdfMjYz/MDAxNzkyMjAyNjA1OTU3.1C0lIf1g3aDQfiyh_bg2gsWCJtMQASaac_aTreVBThAg.Rp2j_KNKoToGUNogYygWUfvv8DNKh0BA8_siCyDprHIg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%EB%B0%B0%EB%84%88.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMTdfMTgy/MDAxNzkyMjAyNjAwOTUx.nYJlIizoDD0d15V2xGb-i_5fPXjWUT5dq5vOeASS-hAg.NEAjprRYTJc5qqsSIJskN7Q788M7zo6ELUtWwskCATQg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%91%B8%ED%84%B0.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "영주님은 죽지 않는다",
-   "loungeId": "Cross_Idle_RPG",
-   "feedId": 8332176,
-   "date": "2026-10-16",
-   "title": "🎉[쿠폰]주말, 영지 주민들이 준비한 특별한 선물",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjUg/MDAxNzkyMTQ1NTcxNzgz.ySjJu08JFzEHIrK_izfivw6o3f7mnZDNjcnOyS9jt84g.PqVyW5TlFdNugjMMO5vXSXGZA8OuAN6W9vD1p1vKs_Ag.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%97%A4%EB%8D%94.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMTA3/MDAxNzkyMTQ1NTgwMzk4.wbVh_AsTd_C2U8-XrLyJonpIwx-SViER4tlDVMDVWnMg.jU5aqxeAO2YJC663xW5_FwfGvL4Sb5CcKXdpB_RgUBcg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%91%B8%ED%84%B0.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "영혼군단 키우기: 방치형 소울 RPG",
-   "loungeId": "Soul_Legion_Idle_RPG",
-   "feedId": 8331499,
-   "date": "2026-10-16",
-   "title": "[FAQ] 쿠폰 등록은 어디서 하나요?",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMTM2/MDAxNzkxOTYyOTU1MjEx.NckgkHyW7tUhRkGu4nWh2vlPd2-XX7KkV_VFjzAn-5Eg.7ph-GXG8SHr9hYXEjDjQ3YQUAROT7TOvgsSdAbr3XjUg.PNG/740x256_FAQ_1.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjAx/MDAxNzkyMTIyNzEwNzAy.q3oLnoEJoefQyNXQtp24DlhTy4PlU3tVBHFy58cWnF4g.vb4lcESYuclevpnFWO0BO7SHMxaohfx2dTH-XGh5-CYg.PNG/mspaint_mAzTZ4KOgm.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMjQz/MDAxNzkxOTYyOTcwMDM4.PoEL-pdZ6yo-eneznX1SuxB106P9sB8ghjho_JVdcGog.QffwdQ_HdWcCspRlPl9XKaff-QR_pu62xTSkleVwfVEg.PNG/100x100_FAQ.png?type=w1678"
    ]
   }
  ]

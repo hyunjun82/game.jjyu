@@ -5,48 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-18T14:57:48.823Z",
+  "updatedAt": "2026-10-18T16:01:45.168Z",
   "codes": [
-    {
-      "code": "z6iBgiJBFBZjC",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-18",
-      "status": "active"
-    },
-    {
-      "code": "SeneaStageShow",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-18",
-      "status": "active"
-    },
-    {
-      "code": "WelcomeToBantus",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-18",
-      "status": "active"
-    },
-    {
-      "code": "VMj522yLkrKDa",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-18",
-      "status": "active"
-    },
     {
       "code": "AFKJ26Summer",
       "reward": "",
@@ -54,7 +14,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -64,7 +24,37 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "status": "expired"
+    },
+    {
+      "code": "z6iBgiJBFBZjC",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-19",
+      "status": "expired"
+    },
+    {
+      "code": "SeneaStageShow",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-19",
+      "status": "expired"
+    },
+    {
+      "code": "WelcomeToBantus",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -74,7 +64,17 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
+      "status": "expired"
+    },
+    {
+      "code": "VMj522yLkrKDa",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/naakey/224421272362",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -104,7 +104,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -114,7 +114,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
@@ -124,7 +124,7 @@
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224426338909",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     }
   ]
