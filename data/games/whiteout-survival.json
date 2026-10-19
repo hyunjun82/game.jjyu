@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T04:44:13.842Z",
+  "updatedAt": "2026-10-19T10:39:42.570Z",
   "codes": [
+    {
+      "code": "WOS1018",
+      "reward": "",
+      "expiry": "2026-10-20",
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/jjuba424/224446485286",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-19",
+      "status": "active"
+    },
     {
       "code": "SPORTSDAY26",
       "reward": "",
@@ -71,8 +81,8 @@
       "code": "WOS0919",
       "reward": "",
       "expiry": "2026-09-28",
-      "postedAt": "2026-09-19",
-      "sourceUrl": "https://blog.naver.com/jjuba424/224416950349",
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224421216382",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-19",
       "status": "expired"

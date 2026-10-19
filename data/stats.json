@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T05:24:50.579Z",
+  "generatedAt": "2026-10-19T10:46:51.309Z",
   "today": "2026-10-19",
-  "todayNew": 24,
+  "todayNew": 32,
   "totals": {
-    "games": 316,
-    "codes": 4529,
-    "active": 722,
-    "expired": 3807,
-    "withExpiry": 2628
+    "games": 317,
+    "codes": 4537,
+    "active": 729,
+    "expired": 3808,
+    "withExpiry": 2631
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-19",
-      "count": 24
+      "count": 32
     }
   ],
   "expiringSoon": [
@@ -148,6 +148,12 @@
     },
     {
       "slug": "eclipse-the-awakening",
+      "code": "1013LIVEWELCOME",
+      "expiry": "2026-10-20",
+      "days": 1
+    },
+    {
+      "slug": "eclipse-the-awakening",
       "code": "1013LIVETICKET5",
       "expiry": "2026-10-20",
       "days": 1
@@ -155,12 +161,6 @@
     {
       "slug": "eclipse-the-awakening",
       "code": "1014UPDATEREADY",
-      "expiry": "2026-10-20",
-      "days": 1
-    },
-    {
-      "slug": "eclipse-the-awakening",
-      "code": "1013LIVEWELCOME",
       "expiry": "2026-10-20",
       "days": 1
     },
@@ -191,6 +191,12 @@
     {
       "slug": "what-the-bug",
       "code": "QM99J6",
+      "expiry": "2026-10-20",
+      "days": 1
+    },
+    {
+      "slug": "whiteout-survival",
+      "code": "WOS1018",
       "expiry": "2026-10-20",
       "days": 1
     },
@@ -361,19 +367,13 @@
       "code": "1009HANGEULNAL",
       "expiry": "2026-10-23",
       "days": 4
-    },
-    {
-      "slug": "trash-king",
-      "code": "2026CHUSEOK",
-      "expiry": "2026-10-23",
-      "days": 4
     }
   ],
   "topGames": [
     {
       "slug": "apex-girls",
-      "active": 22,
-      "total": 63
+      "active": 23,
+      "total": 64
     },
     {
       "slug": "rogw-remains-of-gods",

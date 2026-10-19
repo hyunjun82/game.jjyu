@@ -5,14 +5,24 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T04:44:55.215Z",
+  "updatedAt": "2026-10-19T10:40:22.836Z",
   "codes": [
+    {
+      "code": "1013LIVEWELCOME",
+      "reward": "",
+      "expiry": "2026-10-20",
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/qorgusdo3339/224446763043",
+      "firstSeen": "2026-10-17",
+      "lastSeen": "2026-10-19",
+      "status": "active"
+    },
     {
       "code": "1013LIVETICKET5",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-14",
-      "sourceUrl": "https://blog.naver.com/yyyang1864/224441235276",
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/qorgusdo3339/224446763043",
       "firstSeen": "2026-10-17",
       "lastSeen": "2026-10-19",
       "status": "active"
@@ -21,18 +31,8 @@
       "code": "1014UPDATEREADY",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-14",
-      "sourceUrl": "https://blog.naver.com/yyyang1864/224441235276",
-      "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "1013LIVEWELCOME",
-      "reward": "",
-      "expiry": "2026-10-20",
-      "postedAt": "2026-10-14",
-      "sourceUrl": "https://blog.naver.com/yyyang1864/224441235276",
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/qorgusdo3339/224446763043",
       "firstSeen": "2026-10-17",
       "lastSeen": "2026-10-19",
       "status": "active"
@@ -41,8 +41,8 @@
       "code": "0910ECLIPSE",
       "reward": "",
       "expiry": "2026-11-10",
-      "postedAt": "2026-09-25",
-      "sourceUrl": "https://blog.naver.com/nyria99/224420947803",
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/ounkey/224431308907",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-19",
       "status": "active"
@@ -64,7 +64,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/ounkey/224431308907",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-18",
+      "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
