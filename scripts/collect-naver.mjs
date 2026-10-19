@@ -627,7 +627,11 @@ export async function collectOne(g) {
   // 제목·본문 라벨 조건은 똑같이 걸린다. 요청이 늘어나므로 4개까지만.
   const extra = all.filter((b) => !primary.includes(b) && !secondary.includes(b) && !SECTION_SKIP.test(b.boardName) && !b.memberAccessBoard).slice(0, 4);
   secondary.push(...extra);
-  const boards = [...primary, ...secondary];
+  // "이벤트 결과" 게시판의 당첨자 발표 글에 "교환 코드 : HANGEULGIFT" 처럼 모두가 쓰는 달성 보상 코드를 싣는 게임이 있다
+  // (그놈은 드래곤, 2026-10-19 실측). 이 게시판은 "교환 코드 :" 같은 라벨이 본문에 있는 글만 읽는다.
+  const results = all.filter((b) => /당첨|결과/.test(b.boardName) && !/종료|인증|후기|기대평/.test(b.boardName)
+    && !primary.includes(b) && !secondary.includes(b) && !b.memberAccessBoard).slice(0, 2);
+  const boards = [...primary, ...secondary, ...results];
 
   if (!boards.length) return { ...g, error: '쿠폰 보드 없음' };
 
@@ -671,6 +675,7 @@ export async function collectOne(g) {
       const text = bodyText(item.feed.contents);
       if (!text) continue;
       const labeled = BODY_LABEL_RE.test(text);
+      if (results.includes(b) && !labeled) continue;
       if (titleOnly && !TITLE_RE.test(title) && !labeled) continue;
       if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400))) && !labeled) continue;
       const d = String(item.feed.createdDate || '');
