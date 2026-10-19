@@ -5,8 +5,18 @@
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T13:09:18.948Z",
+  "updatedAt": "2026-10-19T17:17:25.003Z",
   "codes": [
+    {
+      "code": "JRNY2SKY",
+      "reward": "",
+      "expiry": "2026-10-11",
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/noorimer/224436628278",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
     {
       "code": "ZZZFREE100",
       "reward": "",
@@ -14,8 +24,8 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-19",
-      "status": "active"
+      "lastSeen": "2026-10-20",
+      "status": "expired"
     },
     {
       "code": "ZZZ2026OCTOBER",
@@ -24,8 +34,8 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-19",
-      "status": "active"
+      "lastSeen": "2026-10-20",
+      "status": "expired"
     },
     {
       "code": "POLYCHROME300",
@@ -34,8 +44,8 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-19",
-      "status": "active"
+      "lastSeen": "2026-10-20",
+      "status": "expired"
     },
     {
       "code": "NEWHOYOVERSE",
@@ -44,17 +54,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "JRNY2SKY",
-      "reward": "",
-      "expiry": "2026-10-11",
-      "postedAt": "2026-10-09",
-      "sourceUrl": "https://blog.naver.com/noorimer/224436628278",
-      "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
@@ -134,7 +134,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/didcjddns/224436766002",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {

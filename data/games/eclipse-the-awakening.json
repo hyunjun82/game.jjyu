@@ -5,46 +5,46 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T13:10:38.996Z",
+  "updatedAt": "2026-10-19T17:18:46.012Z",
   "codes": [
     {
       "code": "1013LIVEWELCOME",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-19",
+      "postedAt": "2026-10-20",
       "sourceUrl": "https://blog.naver.com/qorgusdo3339/224446763043",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
       "code": "1013LIVETICKET5",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-19",
+      "postedAt": "2026-10-20",
       "sourceUrl": "https://blog.naver.com/qorgusdo3339/224446763043",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
       "code": "1014UPDATEREADY",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-19",
+      "postedAt": "2026-10-20",
       "sourceUrl": "https://blog.naver.com/qorgusdo3339/224446763043",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
       "code": "0910ECLIPSE",
       "reward": "",
       "expiry": "2026-11-10",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/ounkey/224431308907",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224419769682",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -54,17 +54,17 @@
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/jjjang1864/224419550376",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
       "code": "0914ECLIPSE1ST",
       "reward": "",
       "expiry": "2026-09-28",
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/ounkey/224431308907",
+      "postedAt": "2026-09-22",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224419769682",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-09-22",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224419769682",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     }
   ]

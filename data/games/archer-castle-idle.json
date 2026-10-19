@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T13:15:23.267Z",
+  "updatedAt": "2026-10-19T17:23:40.274Z",
   "codes": [
     {
       "code": "runningwow",
@@ -14,108 +14,8 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "OPEN0820",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "LAUNCHING0820",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "CAFE1000JOIN",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "0830UPDATEDAY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "0830LATEUPDATE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "0830NIGHTUPDATE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "DUNGEON100PLUS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "SEPTCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "0826SORRY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "0826APOLOGIZE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-19",
-      "status": "active"
+      "lastSeen": "2026-10-20",
+      "status": "expired"
     },
     {
       "code": "SIRYUN100",
@@ -135,6 +35,106 @@
       "sourceUrl": "https://blog.naver.com/lcrnbnuxvxenhw/224434994600",
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-10-11",
+      "status": "expired"
+    },
+    {
+      "code": "OPEN0820",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "LAUNCHING0820",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "CAFE1000JOIN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "0830UPDATEDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "0830LATEUPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "0830NIGHTUPDATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "DUNGEON100PLUS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "SEPTCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "0826SORRY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "0826APOLOGIZE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-05",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224432272825",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     }
   ]

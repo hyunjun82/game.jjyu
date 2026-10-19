@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T13:10:23.147Z",
+  "updatedAt": "2026-10-19T17:18:31.451Z",
   "codes": [
     {
       "code": "aniimowelcome",
@@ -14,7 +14,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/12512512/224421409388",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-09-24",
       "sourceUrl": "https://blog.naver.com/12512512/224421409388",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -104,7 +104,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -114,17 +114,7 @@
       "postedAt": "2026-10-05",
       "sourceUrl": "https://blog.naver.com/gametube123/224432369322",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "aniimoparty",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-09",
-      "sourceUrl": "https://blog.naver.com/dallaenote/224436115496",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -144,7 +134,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -154,7 +144,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -164,7 +154,7 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
       "status": "active"
     },
     {
@@ -184,6 +174,16 @@
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/meln_/224418663415",
       "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "aniimoparty",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-09",
+      "sourceUrl": "https://blog.naver.com/dallaenote/224436115496",
+      "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-19",
       "status": "expired"
     }
