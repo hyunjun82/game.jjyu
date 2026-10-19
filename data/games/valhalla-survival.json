@@ -7,8 +7,8 @@
   "loungeId": "valhallasurvival",
   "sourceUrl": "https://game.naver.com/lounge/valhallasurvival/board/detail/8327232",
   "howTo": "- 웹 페이지 발할라 서바이벌 공식 홈페이지 상단의 [쿠폰 입력] 페이지에서 사용 가능 - 게임 설정 > 계정 설정 > [쿠폰 입력] 페이지에서 사용 가능 ■ 쿠폰 사용 가능 기간",
-  "postCount": 16,
-  "updatedAt": "2026-10-19T22:44:33.527Z",
+  "postCount": 17,
+  "updatedAt": "2026-10-19T23:42:47.481Z",
   "codes": [
     {
       "code": "AUTUMNGIFT26",
@@ -27,6 +27,15 @@
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-20",
       "status": "active"
+    },
+    {
+      "code": "TODAYSKULD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-04-03",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
     },
     {
       "code": "EASTEREGG26",

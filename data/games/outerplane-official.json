@@ -7,9 +7,36 @@
   "loungeId": "outerplane_official",
   "sourceUrl": "https://game.naver.com/lounge/outerplane_official/board/detail/7959363",
   "howTo": "",
-  "postCount": 18,
-  "updatedAt": "2026-10-19T22:46:15.093Z",
+  "postCount": 21,
+  "updatedAt": "2026-10-19T23:44:28.509Z",
   "codes": [
+    {
+      "code": "79KWITHOP",
+      "reward": "",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-05-16",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "MYSTICSAGEAME",
+      "reward": "",
+      "expiry": "2026-05-31",
+      "postedAt": "2026-04-29",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "VOTEEVENT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-11-05",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
     {
       "code": "OUTERPEDIA",
       "reward": "",

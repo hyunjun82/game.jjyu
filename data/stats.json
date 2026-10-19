@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T22:46:40.668Z",
+  "generatedAt": "2026-10-19T23:59:22.984Z",
   "today": "2026-10-20",
-  "todayNew": 9,
+  "todayNew": 27,
   "totals": {
     "games": 319,
-    "codes": 4547,
-    "active": 706,
-    "expired": 3841,
-    "withExpiry": 2635
+    "codes": 4565,
+    "active": 709,
+    "expired": 3856,
+    "withExpiry": 2648
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-20",
-      "count": 9
+      "count": 27
     }
   ],
   "expiringSoon": [
@@ -261,6 +261,12 @@
       "days": 3
     },
     {
+      "slug": "dragon-traveler",
+      "code": "TASTEFALL2026",
+      "expiry": "2026-10-23",
+      "days": 3
+    },
+    {
       "slug": "heros-land-m",
       "code": "QUvPEP5U",
       "expiry": "2026-10-23",
@@ -361,12 +367,6 @@
       "code": "Daksa3Year",
       "expiry": "2026-10-25",
       "days": 5
-    },
-    {
-      "slug": "daksa-rpg",
-      "code": "Daksa2Year",
-      "expiry": "2026-10-25",
-      "days": 5
     }
   ],
   "topGames": [
@@ -386,6 +386,11 @@
       "total": 65
     },
     {
+      "slug": "dragon-traveler",
+      "active": 17,
+      "total": 79
+    },
+    {
       "slug": "aniimo",
       "active": 15,
       "total": 18
@@ -394,11 +399,6 @@
       "slug": "cat-hero",
       "active": 15,
       "total": 17
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 15,
-      "total": 77
     },
     {
       "slug": "idle-berserker",
@@ -426,6 +426,11 @@
       "total": 12
     },
     {
+      "slug": "whoa-adventurers",
+      "active": 12,
+      "total": 12
+    },
+    {
       "slug": "genshin-impact",
       "active": 11,
       "total": 23
@@ -434,11 +439,6 @@
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
-    },
-    {
-      "slug": "whoa-adventurers",
-      "active": 11,
-      "total": 12
     },
     {
       "slug": "astro-defenders",

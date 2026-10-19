@@ -7,9 +7,18 @@
   "loungeId": "Animals_Garden",
   "sourceUrl": "https://game.naver.com/lounge/Animals_Garden/board/detail/8237398",
   "howTo": "보름달처럼 빛나는 즐거운 한가위 보내세요!",
-  "postCount": 7,
-  "updatedAt": "2026-10-19T22:45:55.348Z",
+  "postCount": 8,
+  "updatedAt": "2026-10-19T23:44:06.659Z",
   "codes": [
+    {
+      "code": "REVIEW5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
     {
       "code": "GIFT747",
       "reward": "",

@@ -7,8 +7,8 @@
   "loungeId": "Devil_2M",
   "sourceUrl": "https://game.naver.com/lounge/Devil_2M/board/detail/8339344",
   "howTo": "오른쪽 상단의 [혜택] 클릭 -> 마지막 탭 [접속 패키지]를 클릭-> 선물쿠폰 코드를 입력하시면 선물을 수령하실 수 있습니다~ 고객센터 문의방법: 메인 화면-> 계정 관리 -> 고객센터",
-  "postCount": 3893,
-  "updatedAt": "2026-10-19T22:42:43.110Z",
+  "postCount": 3900,
+  "updatedAt": "2026-10-19T23:41:00.121Z",
   "codes": [
     {
       "code": "deaop1019",
@@ -18,6 +18,87 @@
       "firstSeen": "2026-10-19",
       "lastSeen": "2026-10-20",
       "status": "active"
+    },
+    {
+      "code": "Dano2025",
+      "reward": "",
+      "expiry": "2025-07-31",
+      "postedAt": "2025-06-09",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "FamilyM25",
+      "reward": "",
+      "expiry": "2025-05-31",
+      "postedAt": "2025-05-13",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "20FamilyM",
+      "reward": "",
+      "expiry": "2025-05-31",
+      "postedAt": "2025-05-13",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "BlackM99",
+      "reward": "",
+      "expiry": "2025-05-31",
+      "postedAt": "2025-04-21",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "20SeolNal25",
+      "reward": "",
+      "expiry": "2025-02-28",
+      "postedAt": "2025-02-06",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "SeolNal2025",
+      "reward": "",
+      "expiry": "2025-02-28",
+      "postedAt": "2025-02-06",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "2ndYear999",
+      "reward": "",
+      "expiry": "2025-02-10",
+      "postedAt": "2025-01-27",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "20pepero24",
+      "reward": "",
+      "expiry": "2024-12-20",
+      "postedAt": "2024-11-22",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "20devil0815",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2024-08-20",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
     },
     {
       "code": "deabc1012",
