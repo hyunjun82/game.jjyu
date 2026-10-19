@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T00:40:09.689Z",
+  "generatedAt": "2026-10-19T04:56:56.546Z",
   "today": "2026-10-19",
-  "todayNew": 6,
+  "todayNew": 25,
   "totals": {
-    "games": 316,
-    "codes": 4511,
-    "active": 704,
+    "games": 317,
+    "codes": 4530,
+    "active": 723,
     "expired": 3807,
-    "withExpiry": 2613
+    "withExpiry": 2627
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-19",
-      "count": 6
+      "count": 25
     }
   ],
   "expiringSoon": [
@@ -237,6 +237,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-MINT",
+      "expiry": "2026-10-21",
+      "days": 2
+    },
+    {
       "slug": "stoneage-idle",
       "code": "PETFEST500",
       "expiry": "2026-10-21",
@@ -361,24 +367,18 @@
       "code": "2026CHUSEOK",
       "expiry": "2026-10-23",
       "days": 4
-    },
-    {
-      "slug": "ban-g-dream-our-notes",
-      "code": "OURNOTES",
-      "expiry": "2026-10-24",
-      "days": 5
     }
   ],
   "topGames": [
     {
       "slug": "apex-girls",
-      "active": 21,
-      "total": 62
+      "active": 22,
+      "total": 63
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 21,
-      "total": 21
+      "active": 22,
+      "total": 22
     },
     {
       "slug": "daksa-rpg",
@@ -391,9 +391,19 @@
       "total": 18
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 47
+    },
+    {
       "slug": "cat-hero",
       "active": 15,
       "total": 17
+    },
+    {
+      "slug": "dragon-traveler",
+      "active": 15,
+      "total": 77
     },
     {
       "slug": "idle-berserker",
@@ -401,19 +411,9 @@
       "total": 49
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 46
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 14,
-      "total": 76
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
-      "active": 13,
-      "total": 39
+      "active": 14,
+      "total": 40
     },
     {
       "slug": "along-with-the-ghost",

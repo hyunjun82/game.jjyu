@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T00:33:48.987Z",
+  "updatedAt": "2026-10-19T04:46:01.184Z",
   "codes": [
     {
       "code": "CRKREBIRTHLIVE",
@@ -158,17 +158,17 @@
       "status": "expired"
     },
     {
-      "code": "MISSEARTHBREAD26",
+      "code": "CRKCHRONOSLIVE26",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-27",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224423705563",
+      "postedAt": "2026-09-25",
+      "sourceUrl": "https://blog.naver.com/dbs_jln/224422131241",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-19",
       "status": "expired"
     },
     {
-      "code": "CRKCHRONOSLIVE26",
+      "code": "MISSEARTHBREAD26",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-25",
