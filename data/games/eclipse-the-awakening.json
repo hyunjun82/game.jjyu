@@ -5,36 +5,36 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-18T22:15:33.934Z",
+  "updatedAt": "2026-10-19T00:32:42.405Z",
   "codes": [
     {
-      "code": "1013LIVEWELCOME",
+      "code": "1013LIVETICKET5",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/mponline/224443536792",
+      "postedAt": "2026-10-14",
+      "sourceUrl": "https://blog.naver.com/yyyang1864/224441235276",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-19",
       "status": "active"
     },
     {
       "code": "1014UPDATEREADY",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/mponline/224443536792",
+      "postedAt": "2026-10-14",
+      "sourceUrl": "https://blog.naver.com/yyyang1864/224441235276",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-19",
       "status": "active"
     },
     {
-      "code": "1013LIVETICKET5",
+      "code": "1013LIVEWELCOME",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/mponline/224443536792",
+      "postedAt": "2026-10-14",
+      "sourceUrl": "https://blog.naver.com/yyyang1864/224441235276",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-17",
+      "lastSeen": "2026-10-19",
       "status": "active"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T22:22:52.750Z",
+  "generatedAt": "2026-10-19T00:40:09.689Z",
   "today": "2026-10-19",
-  "todayNew": 4,
+  "todayNew": 6,
   "totals": {
     "games": 316,
-    "codes": 4509,
-    "active": 701,
-    "expired": 3808,
-    "withExpiry": 2610
+    "codes": 4511,
+    "active": 704,
+    "expired": 3807,
+    "withExpiry": 2613
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-19",
-      "count": 4
+      "count": 6
     }
   ],
   "expiringSoon": [
@@ -148,7 +148,7 @@
     },
     {
       "slug": "eclipse-the-awakening",
-      "code": "1013LIVEWELCOME",
+      "code": "1013LIVETICKET5",
       "expiry": "2026-10-20",
       "days": 1
     },
@@ -160,7 +160,7 @@
     },
     {
       "slug": "eclipse-the-awakening",
-      "code": "1013LIVETICKET5",
+      "code": "1013LIVEWELCOME",
       "expiry": "2026-10-20",
       "days": 1
     },
