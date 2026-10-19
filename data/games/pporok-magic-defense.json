@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-19T21:47:14.434Z",
+  "updatedAt": "2026-10-19T22:36:51.181Z",
   "codes": [
-    {
-      "code": "MAGIC7391",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224421447828",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-20",
-      "status": "expired"
-    },
     {
       "code": "DEFENSEWIZARD",
       "reward": "",
@@ -33,6 +23,16 @@
       "expiry": null,
       "postedAt": "2026-09-21",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224418541164",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "MAGIC7391",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224421447828",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-20",
       "status": "expired"

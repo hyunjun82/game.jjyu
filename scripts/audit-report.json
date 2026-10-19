@@ -1,32 +1,17 @@
 {
- "generatedAt": "2026-10-19T12:55:09.274Z",
- "window": "20261017~20261019",
+ "generatedAt": "2026-10-19T22:17:07.632Z",
+ "window": "20261018~20261020",
  "lounges": 2338,
- "posts": 414,
- "couponPosts": 46,
+ "posts": 332,
+ "couponPosts": 31,
  "fixedTracked": [
-  "비스트 로드: The New Land | BL2J72AKW | 🎉혜택 타임🎉",
-  "토치라이트: 인피니트 | DXPOFsr0EfG | 견문록) 장벽폭발/자해투구/연소사격 ",
-  "토치라이트: 인피니트 | 1t1nVslUEfGx | 견문록)오픈 12시간후 딜자랑 대잔치  "
+  "토치라이트: 인피니트 | DXPOFsr0EfG | 견문록) 장벽폭발/자해투구/연소사격 "
  ],
  "addedLounges": [],
  "labelOnly": [
-  "영주님은 죽지 않는다 | 2026-10-17 | 📜 [안내] 영주님을 위한 쿠폰 등록 방법 안내",
   "드래곤에어 : 침묵의 신 | 2026-10-19 | 【이벤트】 💬 사라진 정보원을 찾아라! 의뢰에 참여하시겠습니까? 🗡️",
-  "드래곤에어 : 침묵의 신 | 2026-10-17 | 【이벤트】🎲 엠블럼 쌓기 퀴즈 - 당신의 논리를 시험해 보세요! 🧠",
-  "소드 앤 프론티아 | 2026-10-19 | 주간 미니 이벤트: 💎아이템 이름 맞히기🤔❓"
+  "소드 앤 프론티아 | 2026-10-19 | 주간 미니 이벤트: 💎아이템 이름 맞히기🤔❓",
+  "다크엔젤: 심연의 날개 | 2026-10-20 | [이벤트] 숫자 한 방 로또 도전 이벤트! (10.20~10.26) "
  ],
- "imageOnly": [
-  {
-   "game": "영주님은 죽지 않는다",
-   "loungeId": "Cross_Idle_RPG",
-   "feedId": 8333986,
-   "date": "2026-10-17",
-   "title": "📜 [안내] 영주님을 위한 쿠폰 등록 방법 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTdfMjYz/MDAxNzkyMjAyNjA1OTU3.1C0lIf1g3aDQfiyh_bg2gsWCJtMQASaac_aTreVBThAg.Rp2j_KNKoToGUNogYygWUfvv8DNKh0BA8_siCyDprHIg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%EB%B0%B0%EB%84%88.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMTdfMTgy/MDAxNzkyMjAyNjAwOTUx.nYJlIizoDD0d15V2xGb-i_5fPXjWUT5dq5vOeASS-hAg.NEAjprRYTJc5qqsSIJskN7Q788M7zo6ELUtWwskCATQg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%91%B8%ED%84%B0.jpg?type=w1678"
-   ]
-  }
- ]
+ "imageOnly": []
 }

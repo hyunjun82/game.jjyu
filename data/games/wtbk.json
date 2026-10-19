@@ -3,40 +3,13 @@
   "titleEn": "wtbk",
   "titleKo": "왓더뼈킹",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTlfMTE1/MDAxNzkyMzcyNDA0NjQy.p6M8EhPyrc6xqJ8TFJA395yJAOoDmiKDS6shK9CEXOgg.7gW5jaSz0o5xoSR2h_l2abKLhfo6IQol9puVNGewyN4g.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EB%B0%B0%EB%84%88.png",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "wtbk",
+  "sourceUrl": "https://game.naver.com/lounge/wtbk/board/detail/8339375",
   "howTo": "",
-  "updatedAt": "2026-10-19T21:49:38.079Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-19T22:46:22.831Z",
   "codes": [
-    {
-      "code": "BONUS100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-20",
-      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-20",
-      "status": "active"
-    },
-    {
-      "code": "BONEKING777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-20",
-      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-20",
-      "status": "active"
-    },
-    {
-      "code": "THX2024",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-20",
-      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-20",
-      "status": "active"
-    },
     {
       "code": "BESTONEBONE",
       "reward": "",
@@ -47,11 +20,40 @@
       "status": "active"
     },
     {
+      "code": "BONUS100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
+    {
+      "code": "BONEKING777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
+    {
+      "code": "THX2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
+    {
       "code": "BONEOPEN",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-20",
-      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
+      "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-20",
       "status": "active"
