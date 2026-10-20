@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-20T10:36:45.824Z",
+  "generatedAt": "2026-10-20T15:32:44.918Z",
   "games": [
     {
       "slug": "f4-u",
@@ -33,6 +33,12 @@
       "titleEn": "Arknights_Endfield"
     },
     {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
+    },
+    {
       "slug": "heartopia",
       "loungeId": "Heartopia",
       "titleKo": "두근두근타운",
@@ -43,12 +49,6 @@
       "loungeId": "TalesRunnerRPG",
       "titleKo": "테일즈런너RPG",
       "titleEn": "Tales Runner Rpg"
-    },
-    {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
     },
     {
       "slug": "toysamguk",
@@ -63,39 +63,27 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "pro-soccer-legend-eleven",
-      "loungeId": "Pro_Soccer_Legend_Eleven",
-      "titleKo": "프로사커: 레전드 일레븐",
-      "titleEn": "Pro Soccer Legend Eleven"
-    },
-    {
-      "slug": "pk-world",
-      "loungeId": "PkWorld",
-      "titleKo": "PK월드",
-      "titleEn": "Pk World"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
-      "titleKo": "귀신과 함께",
+      "titleKo": "Along_with_the_ghost",
       "titleEn": "Along With The Ghost"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -113,26 +101,20 @@
     {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleKo": "Dream_Garden_Cozy_Lite_Management",
       "titleEn": "Dream Garden Cozy Lite Management"
     },
     {
       "slug": "eternal-chronicle",
       "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
+      "titleKo": "Eternal_Chronicle",
       "titleEn": "Eternal Chronicle"
     },
     {
       "slug": "solo-exorcist",
       "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
+      "titleKo": "solo_exorcist",
       "titleEn": "Solo Exorcist"
-    },
-    {
-      "slug": "grim-soul",
-      "loungeId": "Grim_Soul",
-      "titleKo": "그림소울",
-      "titleEn": "Grim Soul"
     },
     {
       "slug": "idle-king",
@@ -143,104 +125,14 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
-    },
-    {
-      "slug": "opmkr",
-      "loungeId": "opmkr",
-      "titleKo": "원펀맨:영웅의 길",
-      "titleEn": "Opmkr"
-    },
-    {
-      "slug": "ordinaryday",
-      "loungeId": "ordinaryday",
-      "titleKo": "평범한날 : 청하구 편",
-      "titleEn": "Ordinaryday"
-    },
-    {
-      "slug": "immortal-soul",
-      "loungeId": "Immortal_Soul",
-      "titleKo": "이모탈 소울",
-      "titleEn": "Immortal Soul"
-    },
-    {
-      "slug": "passion-rpg",
-      "loungeId": "PassionRPG",
-      "titleKo": "열정RPG",
-      "titleEn": "Passion Rpg"
-    },
-    {
-      "slug": "path-of-rising",
-      "loungeId": "Path_Of_Rising",
-      "titleKo": "패스 오브 라이징",
-      "titleEn": "Path Of Rising"
-    },
-    {
-      "slug": "pirate",
-      "loungeId": "pirate",
-      "titleKo": "우당탕탕 해적단",
-      "titleEn": "Pirate"
-    },
-    {
-      "slug": "pixel-heroic-legend",
-      "loungeId": "Pixel_Heroic_Legend",
-      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
-      "titleEn": "Pixel Heroic Legend"
-    },
-    {
-      "slug": "play-together",
-      "loungeId": "Play_Together",
-      "titleKo": "플레이투게더",
-      "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "pocket-knight",
-      "loungeId": "Pocket_Knight",
-      "titleKo": "로얄 나이트 키우기",
-      "titleEn": "Pocket Knight"
-    },
-    {
-      "slug": "popucom",
-      "loungeId": "POPUCOM",
-      "titleKo": "팝유컴",
-      "titleEn": "Popucom"
-    },
-    {
-      "slug": "primal-conquest-dino-era",
-      "loungeId": "Primal_Conquest_Dino_Era",
-      "titleKo": "쥬라기 대륙: 디노시아",
-      "titleEn": "Primal Conquest Dino Era"
-    },
-    {
-      "slug": "prime-football-manager",
-      "loungeId": "Prime_Football_Manager",
-      "titleKo": "프라임 풋볼 매니저",
-      "titleEn": "Prime Football Manager"
-    },
-    {
-      "slug": "promise-of-lingyun",
-      "loungeId": "Promise_of_Lingyun",
-      "titleKo": "능운낙",
-      "titleEn": "Promise Of Lingyun"
-    },
-    {
-      "slug": "promisekr",
-      "loungeId": "promisekr",
-      "titleKo": "궁과 약속",
-      "titleEn": "Promisekr"
-    },
-    {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
     },
     {
       "slug": "redmythnezha",
@@ -251,7 +143,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -281,13 +173,13 @@
     {
       "slug": "survivorio",
       "loungeId": "Survivorio",
-      "titleKo": "탕탕특공대",
+      "titleKo": "Survivorio",
       "titleEn": "Survivorio"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
-      "titleKo": "토이 신선",
+      "titleKo": "Toy_Immortals",
       "titleEn": "Toy Immortals"
     },
     {
