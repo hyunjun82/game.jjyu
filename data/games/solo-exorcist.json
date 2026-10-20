@@ -5,24 +5,14 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-20T19:59:34.699Z",
+  "updatedAt": "2026-10-20T21:53:07.839Z",
   "codes": [
     {
       "code": "DOWNLOAD11",
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-21",
-      "status": "active"
-    },
-    {
-      "code": "QGHRDT",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-21",
       "status": "active"
@@ -32,7 +22,7 @@
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-21",
       "status": "active"
@@ -42,7 +32,7 @@
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-21",
       "status": "active"
@@ -52,7 +42,7 @@
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-21",
       "status": "active"
@@ -62,7 +52,7 @@
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-21",
       "status": "active"
@@ -72,7 +62,17 @@
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/maniainfo/224440206755",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-21",
+      "status": "active"
+    },
+    {
+      "code": "QGHRDT",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-13",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-21",
       "status": "active"
