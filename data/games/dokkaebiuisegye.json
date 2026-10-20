@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-20T11:45:49.923Z",
+  "updatedAt": "2026-10-20T20:02:57.521Z",
   "codes": [
+    {
+      "code": "도깨비1008",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224441362702",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-21",
+      "status": "active"
+    },
     {
       "code": "도깨비의마음",
       "reward": "",
@@ -15,27 +25,7 @@
       "sourceUrl": "https://blog.naver.com/qorgusdo3339/224439154748",
       "firstSeen": "2026-10-18",
       "lastSeen": "2026-10-20",
-      "status": "active"
-    },
-    {
-      "code": "도깨비1008",
-      "reward": "",
-      "expiry": "2026-11-05",
-      "postedAt": "2026-10-09",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224435821717",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-20",
-      "status": "active"
-    },
-    {
-      "code": "횟수",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-20",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "COKER",
@@ -55,6 +45,16 @@
       "sourceUrl": "https://blog.naver.com/game_mayo/224437464800",
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
+      "status": "expired"
+    },
+    {
+      "code": "횟수",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {
