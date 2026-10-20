@@ -3,22 +3,10 @@
   "titleEn": "wtbk",
   "titleKo": "왓더뼈킹",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTlfMTE1/MDAxNzkyMzcyNDA0NjQy.p6M8EhPyrc6xqJ8TFJA395yJAOoDmiKDS6shK9CEXOgg.7gW5jaSz0o5xoSR2h_l2abKLhfo6IQol9puVNGewyN4g.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EB%B0%B0%EB%84%88.png",
-  "source": "naver-lounge",
-  "loungeId": "wtbk",
-  "sourceUrl": "https://game.naver.com/lounge/wtbk/board/detail/8339375",
+  "source": "naver-search",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-10-19T23:44:35.936Z",
+  "updatedAt": "2026-10-20T01:09:38.891Z",
   "codes": [
-    {
-      "code": "BESTONEBONE",
-      "reward": "",
-      "expiry": "2027-01-17",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-20",
-      "status": "active"
-    },
     {
       "code": "BONUS100",
       "reward": "",
@@ -50,10 +38,20 @@
       "status": "active"
     },
     {
+      "code": "BESTONEBONE",
+      "reward": "",
+      "expiry": "2027-01-17",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
+    {
       "code": "BONEOPEN",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-20",
       "status": "active"

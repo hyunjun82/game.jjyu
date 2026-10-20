@@ -2,14 +2,24 @@
   "slug": "samgukji-kingdom",
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfNzMg/MDAxNzkxODcyMDA4NzMy.yJMoa1wET7tKQ_B_pFhXz_QC2X5N17jyQj9Ytz_5jfMg.bVtaOBsm54vnR8JWzHIcxZGf1wGXc53TO-cu_giEQO4g.JPEG/%E6%B4%BB%E5%8A%A8-850x170.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTYx/MDAxNzkxODc0NDE5OTcw.KZxbxbPHOc4EQ_Gn2DRlbrOUFrcEnFduvf8y5jdmihUg.jehg9LWV09NN7IVEgHrQyfngztuC3fSlhpo5wz-_wJgg.JPEG/%E6%B4%BB%E5%8A%A8-850x170.jpg",
   "source": "naver-lounge",
   "loungeId": "Samgukji_Kingdom",
-  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8326887",
+  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8342340",
   "howTo": "",
-  "postCount": 178,
-  "updatedAt": "2026-10-19T23:44:38.564Z",
+  "postCount": 181,
+  "updatedAt": "2026-10-20T01:00:38.229Z",
   "codes": [
+    {
+      "code": "landmark100",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
     {
       "code": "landmark20",
       "reward": "",

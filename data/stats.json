@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T23:59:22.984Z",
+  "generatedAt": "2026-10-20T01:11:51.128Z",
   "today": "2026-10-20",
-  "todayNew": 27,
+  "todayNew": 29,
   "totals": {
     "games": 319,
-    "codes": 4565,
-    "active": 709,
+    "codes": 4567,
+    "active": 711,
     "expired": 3856,
-    "withExpiry": 2648
+    "withExpiry": 2649
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-20",
-      "count": 27
+      "count": 29
     }
   ],
   "expiringSoon": [
@@ -219,6 +219,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-LEAF",
+      "expiry": "2026-10-22",
+      "days": 2
+    },
+    {
       "slug": "samgukji-origin2",
       "code": "7005-10e64fd56-1",
       "expiry": "2026-10-22",
@@ -359,12 +365,6 @@
     {
       "slug": "daksa-rpg",
       "code": "추석2026",
-      "expiry": "2026-10-25",
-      "days": 5
-    },
-    {
-      "slug": "daksa-rpg",
-      "code": "Daksa3Year",
       "expiry": "2026-10-25",
       "days": 5
     }
