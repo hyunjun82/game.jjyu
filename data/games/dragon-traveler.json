@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTJfMTg1/MDAxNzgxMjM0MjcxODUz.4dbOlDOC-f9nVnTRHuyNyDssYyaZ5IwqVnugx4kIm_gg.P1PG42OeL64P0Gsgar4vElDuXIjcaUNNYlLbafM-mkIg.PNG/2_%EB%8C%80%ED%91%9C_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Dragon_Traveler",
-  "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8339662",
+  "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8342764",
   "howTo": "",
   "postCount": 71,
-  "updatedAt": "2026-10-20T00:59:39.709Z",
+  "updatedAt": "2026-10-20T05:04:51.322Z",
   "codes": [
+    {
+      "code": "GXGGFMZM",
+      "reward": "",
+      "expiry": "2026-12-03",
+      "postedAt": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
     {
       "code": "HANGEULGIFT",
       "reward": "",
@@ -668,15 +677,6 @@
       "status": "expired"
     },
     {
-      "code": "GXGGYLNS",
-      "reward": "",
-      "expiry": "2026-09-06",
-      "postedAt": "2026-07-21",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-20",
-      "status": "expired"
-    },
-    {
       "code": "BZNFLHD",
       "reward": "",
       "expiry": "2026-08-09",
@@ -699,6 +699,15 @@
       "reward": "",
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-20",
+      "status": "expired"
+    },
+    {
+      "code": "GXGGYLNS",
+      "reward": "",
+      "expiry": "2026-09-06",
+      "postedAt": "2026-07-21",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-20",
       "status": "expired"

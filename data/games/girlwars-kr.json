@@ -1,0 +1,23 @@
+{
+  "slug": "girlwars-kr",
+  "titleEn": "girlwars",
+  "titleKo": "소녀전쟁: 환상의 천하통일전",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTJfMjY0/MDAxNzkxNzk1ODM5OTgz.dVXT3Bdr1aYfw3ngD_8C4QXV-mO-iDbsFHLGNil8ztQg.5rv0q_Yozhkde-bfa8WCvo9a2P88eyv7g-vwc-aGV7sg.JPEG/%ED%95%A0%EB%A1%9C%EC%9C%88(1).jpg",
+  "source": "naver-lounge",
+  "loungeId": "girlwars",
+  "sourceUrl": "https://game.naver.com/lounge/girlwars/board/detail/8342770",
+  "howTo": "",
+  "postCount": 1,
+  "updatedAt": "2026-10-20T05:05:56.603Z",
+  "codes": [
+    {
+      "code": "GW31HALLOWEEN",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-20",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    }
+  ]
+}
