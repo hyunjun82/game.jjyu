@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-20T05:00:27.656Z",
+  "updatedAt": "2026-10-20T10:51:15.421Z",
   "codes": [
     {
       "code": "도깨비의마음",
@@ -28,6 +28,16 @@
       "status": "active"
     },
     {
+      "code": "횟수",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-08",
+      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-20",
+      "status": "active"
+    },
+    {
       "code": "COKER",
       "reward": "",
       "expiry": null,
@@ -45,16 +55,6 @@
       "sourceUrl": "https://blog.naver.com/game_mayo/224437464800",
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-16",
-      "status": "expired"
-    },
-    {
-      "code": "횟수",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/bomding/224435538933",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18",
       "status": "expired"
     },
     {

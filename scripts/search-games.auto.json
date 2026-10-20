@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-20T05:33:26.210Z",
+  "generatedAt": "2026-10-20T10:36:45.824Z",
   "games": [
     {
       "slug": "f4-u",
@@ -63,10 +63,16 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "the-tale-of-five-kingdoms2",
-      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
-      "titleKo": "다섯 왕국 이야기2",
-      "titleEn": "The Tale Of Five Kingdoms2"
+      "slug": "pro-soccer-legend-eleven",
+      "loungeId": "Pro_Soccer_Legend_Eleven",
+      "titleKo": "프로사커: 레전드 일레븐",
+      "titleEn": "Pro Soccer Legend Eleven"
+    },
+    {
+      "slug": "pk-world",
+      "loungeId": "PkWorld",
+      "titleKo": "PK월드",
+      "titleEn": "Pk World"
     },
     {
       "slug": "pokemon-go",
@@ -123,94 +129,10 @@
       "titleEn": "Solo Exorcist"
     },
     {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
-    },
-    {
-      "slug": "ex-astris",
-      "loungeId": "Ex_Astris",
-      "titleKo": "엑스 아스트리스",
-      "titleEn": "Ex Astris"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "final-guild",
-      "loungeId": "FinalGuild",
-      "titleKo": "파이널길드",
-      "titleEn": "Final Guild"
-    },
-    {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
-    },
-    {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
-    },
-    {
-      "slug": "football-top-manager",
-      "loungeId": "Football_Top_Manager",
-      "titleKo": "풋볼 탑 매니저",
-      "titleEn": "Football Top Manager"
-    },
-    {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "gaiam",
-      "loungeId": "GAIAM",
-      "titleKo": "가이아M",
-      "titleEn": "Gaiam"
-    },
-    {
-      "slug": "game-of-money",
-      "loungeId": "Game_Of_Money",
-      "titleKo": "대표님을 부탁해",
-      "titleEn": "Game Of Money"
-    },
-    {
-      "slug": "gg-go-masters",
-      "loungeId": "GGGoMasters",
-      "titleKo": "고고 고수들",
-      "titleEn": "Gg Go Masters"
-    },
-    {
-      "slug": "ghost-soul-afk",
-      "loungeId": "GhostSoulAFK",
-      "titleKo": "귀혼키우기",
-      "titleEn": "Ghost Soul Afk"
-    },
-    {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
-    },
-    {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
-    },
-    {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
+      "slug": "grim-soul",
+      "loungeId": "Grim_Soul",
+      "titleKo": "그림소울",
+      "titleEn": "Grim Soul"
     },
     {
       "slug": "idle-king",
@@ -225,10 +147,100 @@
       "titleEn": "Kungfuchaos"
     },
     {
+      "slug": "opmkr",
+      "loungeId": "opmkr",
+      "titleKo": "원펀맨:영웅의 길",
+      "titleEn": "Opmkr"
+    },
+    {
+      "slug": "ordinaryday",
+      "loungeId": "ordinaryday",
+      "titleKo": "평범한날 : 청하구 편",
+      "titleEn": "Ordinaryday"
+    },
+    {
+      "slug": "immortal-soul",
+      "loungeId": "Immortal_Soul",
+      "titleKo": "이모탈 소울",
+      "titleEn": "Immortal Soul"
+    },
+    {
+      "slug": "passion-rpg",
+      "loungeId": "PassionRPG",
+      "titleKo": "열정RPG",
+      "titleEn": "Passion Rpg"
+    },
+    {
+      "slug": "path-of-rising",
+      "loungeId": "Path_Of_Rising",
+      "titleKo": "패스 오브 라이징",
+      "titleEn": "Path Of Rising"
+    },
+    {
+      "slug": "pirate",
+      "loungeId": "pirate",
+      "titleKo": "우당탕탕 해적단",
+      "titleEn": "Pirate"
+    },
+    {
+      "slug": "pixel-heroic-legend",
+      "loungeId": "Pixel_Heroic_Legend",
+      "titleKo": "픽셀 영웅전설 : 방치형 파티플RPG",
+      "titleEn": "Pixel Heroic Legend"
+    },
+    {
+      "slug": "play-together",
+      "loungeId": "Play_Together",
+      "titleKo": "플레이투게더",
+      "titleEn": "Play Together"
+    },
+    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "pocket-knight",
+      "loungeId": "Pocket_Knight",
+      "titleKo": "로얄 나이트 키우기",
+      "titleEn": "Pocket Knight"
+    },
+    {
+      "slug": "popucom",
+      "loungeId": "POPUCOM",
+      "titleKo": "팝유컴",
+      "titleEn": "Popucom"
+    },
+    {
+      "slug": "primal-conquest-dino-era",
+      "loungeId": "Primal_Conquest_Dino_Era",
+      "titleKo": "쥬라기 대륙: 디노시아",
+      "titleEn": "Primal Conquest Dino Era"
+    },
+    {
+      "slug": "prime-football-manager",
+      "loungeId": "Prime_Football_Manager",
+      "titleKo": "프라임 풋볼 매니저",
+      "titleEn": "Prime Football Manager"
+    },
+    {
+      "slug": "promise-of-lingyun",
+      "loungeId": "Promise_of_Lingyun",
+      "titleKo": "능운낙",
+      "titleEn": "Promise Of Lingyun"
+    },
+    {
+      "slug": "promisekr",
+      "loungeId": "promisekr",
+      "titleKo": "궁과 약속",
+      "titleEn": "Promisekr"
+    },
+    {
+      "slug": "queen-of-tower",
+      "loungeId": "Queen_of_Tower",
+      "titleKo": "연무무쌍 : Queen of Tower",
+      "titleEn": "Queen Of Tower"
     },
     {
       "slug": "redmythnezha",
