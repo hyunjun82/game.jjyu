@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-21T17:52:29.293Z",
+  "generatedAt": "2026-10-21T20:52:18.265Z",
   "games": [
     {
       "slug": "f4-u",
@@ -141,136 +141,10 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "mir2-bounty",
-      "loungeId": "Mir2_Bounty",
-      "titleKo": "묵청대도: 바운티",
-      "titleEn": "Mir2 Bounty"
-    },
-    {
-      "slug": "mir2-rise-of-sabuk",
-      "loungeId": "Mir2_Rise_of_Sabuk",
-      "titleKo": "묵청대도: 깨어난 사북성",
-      "titleEn": "Mir2 Rise Of Sabuk"
-    },
-    {
-      "slug": "mnlkr",
-      "loungeId": "mnlkr",
-      "titleKo": "머지데이 나잇 라이브",
-      "titleEn": "Mnlkr"
-    },
-    {
-      "slug": "moeverse-live",
-      "loungeId": "MOEVERSE_LIVE",
-      "titleKo": "모에버스:라이브",
-      "titleEn": "Moeverse Live"
-    },
-    {
-      "slug": "monstage",
-      "loungeId": "Monstage",
-      "titleKo": "몬스테이지",
-      "titleEn": "Monstage"
-    },
-    {
-      "slug": "monster-never-cry",
-      "loungeId": "Monster_Never_Cry",
-      "titleKo": "마왕만만세",
-      "titleEn": "Monster Never Cry"
-    },
-    {
-      "slug": "monsterhunteroutlanders",
-      "loungeId": "monsterhunteroutlanders",
-      "titleKo": "몬스터헌터 아웃랜더스",
-      "titleEn": "Monsterhunteroutlanders"
-    },
-    {
-      "slug": "fellow-moon",
-      "loungeId": "FellowMoon",
-      "titleKo": "신월동행",
-      "titleEn": "Fellow Moon"
-    },
-    {
-      "slug": "moris-nightmare-hide-and-seek-multi",
-      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
-      "titleKo": "공포의 술래잡기",
-      "titleEn": "Moris Nightmare Hide And Seek Multi"
-    },
-    {
-      "slug": "mushroom-hero",
-      "loungeId": "mushroom_hero",
-      "titleKo": "버섯 키우기: 머쉬룸 히어로",
-      "titleEn": "Mushroom Hero"
-    },
-    {
-      "slug": "my-little-paradise",
-      "loungeId": "MY_LITTLE_PARADISE",
-      "titleKo": "마이 리틀 파라다이스",
-      "titleEn": "My Little Paradise"
-    },
-    {
-      "slug": "nam-tat-defense",
-      "loungeId": "nam_tat_defense",
-      "titleKo": "남탓 디펜스",
-      "titleEn": "Nam Tat Defense"
-    },
-    {
-      "slug": "neural-cloud",
-      "loungeId": "Neural_Cloud",
-      "titleKo": "뉴럴 클라우드",
-      "titleEn": "Neural Cloud"
-    },
-    {
-      "slug": "the-tale-of-five-kingdoms2",
-      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
-      "titleKo": "다섯 왕국 이야기2",
-      "titleEn": "The Tale Of Five Kingdoms2"
-    },
-    {
-      "slug": "ninety-thousand-acres",
-      "loungeId": "NINETY_THOUSAND_ACRES",
-      "titleKo": "9만 에이커",
-      "titleEn": "Ninety Thousand Acres"
-    },
-    {
-      "slug": "ninja-must-die",
-      "loungeId": "Ninja_Must_Die",
-      "titleKo": "닌자 머스트 다이",
-      "titleEn": "Ninja Must Die"
-    },
-    {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
-    },
-    {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
-      "slug": "plantis-zombie-gangsters",
-      "loungeId": "Plantis_Zombie_Gangsters",
-      "titleKo": "플랜티스와 좀비깡패",
-      "titleEn": "Plantis Zombie Gangsters"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
     },
     {
       "slug": "redmythnezha",
@@ -279,16 +153,82 @@
       "titleEn": "Redmythnezha"
     },
     {
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
+    },
+    {
+      "slug": "running-three-kingdoms",
+      "loungeId": "RunningThreeKingdoms",
+      "titleKo": "런닝 삼국",
+      "titleEn": "Running Three Kingdoms"
+    },
+    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
       "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
+      "slug": "saint-girl",
+      "loungeId": "Saint_Girl",
+      "titleKo": "이세계 성녀 키우기",
+      "titleEn": "Saint Girl"
+    },
+    {
       "slug": "samguk-origin",
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
+    },
+    {
+      "slug": "samgukjiwar",
+      "loungeId": "samgukjiwar",
+      "titleKo": "삼국지:전란",
+      "titleEn": "Samgukjiwar"
+    },
+    {
+      "slug": "seondo-m",
+      "loungeId": "Seondo_M",
+      "titleKo": "선도M : 선마결전",
+      "titleEn": "Seondo M"
+    },
+    {
+      "slug": "sera-eternals",
+      "loungeId": "SERA_ETERNALS",
+      "titleKo": "세라: 이터널스",
+      "titleEn": "Sera Eternals"
+    },
+    {
+      "slug": "seraphim-saga",
+      "loungeId": "Seraphim_Saga",
+      "titleKo": "세라핌 사가: 날개소녀 키우기",
+      "titleEn": "Seraphim Saga"
+    },
+    {
+      "slug": "shoot-shoot",
+      "loungeId": "ShootShoot",
+      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
+      "titleEn": "Shoot Shoot"
+    },
+    {
+      "slug": "silver-and-blood",
+      "loungeId": "Silver_And_Blood",
+      "titleKo": "실버 앤 블러드",
+      "titleEn": "Silver And Blood"
+    },
+    {
+      "slug": "silver-palace",
+      "loungeId": "Silver_Palace",
+      "titleKo": "실버 팰리스",
+      "titleEn": "Silver Palace"
+    },
+    {
+      "slug": "skull-defense",
+      "loungeId": "Skull_Defense",
+      "titleKo": "스컬디펜스",
+      "titleEn": "Skull Defense"
     },
     {
       "slug": "star-of-the-overlord",
@@ -313,6 +253,36 @@
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "vigilante",
+      "loungeId": "Vigilante",
+      "titleKo": "비질란테",
+      "titleEn": "Vigilante"
+    },
+    {
+      "slug": "w-cross-world",
+      "loungeId": "W_CROSS_WORLD",
+      "titleKo": "더블유: 크로스월드",
+      "titleEn": "W Cross World"
+    },
+    {
+      "slug": "wandering-mercenary-force",
+      "loungeId": "wandering_mercenary_force",
+      "titleKo": "방랑용병단",
+      "titleEn": "Wandering Mercenary Force"
+    },
+    {
+      "slug": "warphero",
+      "loungeId": "warphero",
+      "titleKo": "워프히어로",
+      "titleEn": "Warphero"
+    },
+    {
+      "slug": "wild-hunt",
+      "loungeId": "Wild_Hunt",
+      "titleKo": "와일드헌트",
+      "titleEn": "Wild Hunt"
     },
     {
       "slug": "wtbk",

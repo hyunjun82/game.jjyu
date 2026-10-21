@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:07:49.886Z",
+  "generatedAt": "2026-10-21T21:06:49.775Z",
   "today": "2026-10-22",
   "todayNew": 1,
   "totals": {
@@ -397,11 +397,6 @@
     },
     {
       "slug": "idle-berserker",
-      "active": 15,
-      "total": 49
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
       "active": 15,
       "total": 49
     },
