@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-21T01:13:43.967Z",
+  "generatedAt": "2026-10-21T06:15:31.159Z",
   "games": [
     {
       "slug": "f4-u",
@@ -81,72 +81,6 @@
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "crystal-of-atlan",
-      "loungeId": "Crystal_of_Atlan",
-      "titleKo": "CoA: 아틀란의 크리스탈",
-      "titleEn": "Crystal Of Atlan"
-    },
-    {
-      "slug": "darkanddarkermobile",
-      "loungeId": "darkanddarkermobile",
-      "titleKo": "어비스 오브 던전",
-      "titleEn": "Darkanddarkermobile"
-    },
-    {
-      "slug": "dark-clan",
-      "loungeId": "Dark_Clan",
-      "titleKo": "다크 클랜 : 수집 방치형 RPG",
-      "titleEn": "Dark Clan"
-    },
-    {
-      "slug": "dark-slayer-sd",
-      "loungeId": "Dark_Slayer_SD",
-      "titleKo": "다크슬레이어2",
-      "titleEn": "Dark Slayer Sd"
-    },
-    {
-      "slug": "dark-three-kingdoms",
-      "loungeId": "DARK_THREE_KINGDOMS",
-      "titleKo": "다크삼국",
-      "titleEn": "Dark Three Kingdoms"
-    },
-    {
-      "slug": "darkeden-r",
-      "loungeId": "DARKEDEN_R",
-      "titleKo": "다크에덴R",
-      "titleEn": "Darkeden R"
-    },
-    {
-      "slug": "dark-hero-kiugi",
-      "loungeId": "DarkHeroKiugi",
-      "titleKo": "다크 히어로 키우기",
-      "titleEn": "Dark Hero Kiugi"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
-    },
-    {
-      "slug": "demonsamguk",
-      "loungeId": "demonsamguk",
-      "titleKo": "전지적 시점:데몬 삼국",
-      "titleEn": "Demonsamguk"
-    },
-    {
-      "slug": "devil-hunter-idle",
-      "loungeId": "Devil_Hunter_Idle",
-      "titleKo": "데빌 헌터 키우기",
-      "titleEn": "Devil Hunter Idle"
-    },
-    {
-      "slug": "devil-note",
-      "loungeId": "Devil_Note",
-      "titleKo": "데빌노트: 보물 헌터",
-      "titleEn": "Devil Note"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
@@ -183,28 +117,100 @@
       "titleEn": "Solo Exorcist"
     },
     {
-      "slug": "gumihomobile",
-      "loungeId": "gumihomobile",
-      "titleKo": "요신:구미호뎐",
-      "titleEn": "Gumihomobile"
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
     },
     {
-      "slug": "hell-gate",
-      "loungeId": "HELL_GATE",
-      "titleKo": "헬게이트",
-      "titleEn": "Hell Gate"
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
     },
     {
-      "slug": "helmet-corps",
-      "loungeId": "HelmetCorps",
-      "titleKo": "냄비뚜껑 용병단",
-      "titleEn": "Helmet Corps"
+      "slug": "adventureofheroes",
+      "loungeId": "adventureofheroes",
+      "titleKo": "히어로 모험단",
+      "titleEn": "Adventureofheroes"
+    },
+    {
+      "slug": "hidden-heroes-fortune-dungeon",
+      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
+      "titleKo": "미확인용사단 : 운빨방치RPG",
+      "titleEn": "Hidden Heroes Fortune Dungeon"
+    },
+    {
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
+    },
+    {
+      "slug": "hiki",
+      "loungeId": "hiki",
+      "titleKo": "히어로즈 키우기",
+      "titleEn": "Hiki"
+    },
+    {
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
+    },
+    {
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
+    },
+    {
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
+    },
+    {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
+    },
+    {
+      "slug": "k-zombie-saga-idle-game",
+      "loungeId": "K_Zombie_Saga_Idle_Game",
+      "titleKo": "조선 좀비전",
+      "titleEn": "K Zombie Saga Idle Game"
+    },
+    {
+      "slug": "kingdom-go",
+      "loungeId": "kingdom_go",
+      "titleKo": "주공을 지켜라",
+      "titleEn": "Kingdom Go"
+    },
+    {
+      "slug": "kingdom-rise-of-zombies",
+      "loungeId": "KINGDOM_RISE_OF_ZOMBIES",
+      "titleKo": "조선 이변",
+      "titleEn": "Kingdom Rise Of Zombies"
     },
     {
       "slug": "kungfuchaos",
@@ -271,6 +277,12 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "kaind-idle",
+      "loungeId": "Kaind_idle",
+      "titleKo": "원정대 키우기",
+      "titleEn": "Kaind Idle"
     }
   ]
 }
