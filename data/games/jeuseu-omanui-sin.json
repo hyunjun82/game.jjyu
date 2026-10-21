@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-21T12:33:32.483Z",
+  "updatedAt": "2026-10-21T18:07:29.710Z",
   "codes": [
+    {
+      "code": "ZEUS0828",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/bsk6676/224425410093",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-22",
+      "status": "expired"
+    },
+    {
+      "code": "ZEUS888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/bsk6676/224425410093",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-22",
+      "status": "expired"
+    },
     {
       "code": "ZEUSDEV0828",
       "reward": "",
@@ -15,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/hongmin522/224439829789",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ZEUSLIVE1ST",
@@ -25,7 +45,7 @@
       "sourceUrl": "https://blog.naver.com/hongmin522/224439829789",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "DEVLIVE0911",
@@ -33,26 +53,6 @@
       "expiry": null,
       "postedAt": "2026-10-13",
       "sourceUrl": "https://blog.naver.com/hongmin522/224439829789",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-21",
-      "status": "active"
-    },
-    {
-      "code": "ZEUS0828",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/bsk6676/224425410093",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-21",
-      "status": "expired"
-    },
-    {
-      "code": "ZEUS888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/bsk6676/224425410093",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
       "status": "expired"

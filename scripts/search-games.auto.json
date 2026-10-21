@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-21T12:19:38.896Z",
+  "generatedAt": "2026-10-21T17:52:29.293Z",
   "games": [
     {
       "slug": "f4-u",
@@ -27,22 +27,34 @@
       "titleEn": "Romantic Gangho"
     },
     {
-      "slug": "arknights-endfield",
-      "loungeId": "Arknights_Endfield",
-      "titleKo": "명일방주: 엔드필드",
-      "titleEn": "Arknights_Endfield"
-    },
-    {
-      "slug": "watcher-of-realms",
-      "loungeId": "Watcher_of_Realms",
-      "titleKo": "워처 오브 렐름",
-      "titleEn": "Watcher Of Realms"
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "heartopia",
       "loungeId": "Heartopia",
       "titleKo": "두근두근타운",
       "titleEn": "Heartopia"
+    },
+    {
+      "slug": "arknights-endfield",
+      "loungeId": "Arknights_Endfield",
+      "titleKo": "명일방주: 엔드필드",
+      "titleEn": "Arknights_Endfield"
+    },
+    {
+      "slug": "cabal-red",
+      "loungeId": "CABAL_RED",
+      "titleKo": "카발RED",
+      "titleEn": "Cabal Red"
+    },
+    {
+      "slug": "watcher-of-realms",
+      "loungeId": "Watcher_of_Realms",
+      "titleKo": "워처 오브 렐름",
+      "titleEn": "Watcher Of Realms"
     },
     {
       "slug": "tales-runner-rpg",
@@ -129,100 +141,136 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
     },
     {
-      "slug": "lapis-mobile",
-      "loungeId": "LAPIS_MOBILE",
-      "titleKo": "라피스 키우기",
-      "titleEn": "Lapis Mobile"
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
     },
     {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
+      "slug": "mnlkr",
+      "loungeId": "mnlkr",
+      "titleKo": "머지데이 나잇 라이브",
+      "titleEn": "Mnlkr"
     },
     {
-      "slug": "legendof-yeomra",
-      "loungeId": "LegendofYeomra",
-      "titleKo": "염라대왕 키우기",
-      "titleEn": "Legendof Yeomra"
+      "slug": "moeverse-live",
+      "loungeId": "MOEVERSE_LIVE",
+      "titleKo": "모에버스:라이브",
+      "titleEn": "Moeverse Live"
     },
     {
-      "slug": "legends-reborn",
-      "loungeId": "Legends_Reborn",
-      "titleKo": "Legends Reborn: 마지막 전투",
-      "titleEn": "Legends Reborn"
+      "slug": "monstage",
+      "loungeId": "Monstage",
+      "titleKo": "몬스테이지",
+      "titleEn": "Monstage"
     },
     {
-      "slug": "leubens-adventure",
-      "loungeId": "Leubens_Adventure",
-      "titleKo": "루벤의 대모험",
-      "titleEn": "Leubens Adventure"
+      "slug": "monster-never-cry",
+      "loungeId": "Monster_Never_Cry",
+      "titleKo": "마왕만만세",
+      "titleEn": "Monster Never Cry"
     },
     {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
+      "slug": "monsterhunteroutlanders",
+      "loungeId": "monsterhunteroutlanders",
+      "titleKo": "몬스터헌터 아웃랜더스",
+      "titleEn": "Monsterhunteroutlanders"
     },
     {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
+      "slug": "fellow-moon",
+      "loungeId": "FellowMoon",
+      "titleKo": "신월동행",
+      "titleEn": "Fellow Moon"
     },
     {
-      "slug": "magical-ink",
-      "loungeId": "Magical_Ink",
-      "titleKo": "마법의 잉크",
-      "titleEn": "Magical Ink"
+      "slug": "moris-nightmare-hide-and-seek-multi",
+      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
+      "titleKo": "공포의 술래잡기",
+      "titleEn": "Moris Nightmare Hide And Seek Multi"
     },
     {
-      "slug": "marine-squad",
-      "loungeId": "MarineSquad",
-      "titleKo": "마린 키우기 : 방치형 RPG",
-      "titleEn": "Marine Squad"
+      "slug": "mushroom-hero",
+      "loungeId": "mushroom_hero",
+      "titleKo": "버섯 키우기: 머쉬룸 히어로",
+      "titleEn": "Mushroom Hero"
     },
     {
-      "slug": "mecha-break",
-      "loungeId": "Mecha_BREAK",
-      "titleKo": "메카 브레이크",
-      "titleEn": "Mecha Break"
+      "slug": "my-little-paradise",
+      "loungeId": "MY_LITTLE_PARADISE",
+      "titleKo": "마이 리틀 파라다이스",
+      "titleEn": "My Little Paradise"
     },
     {
-      "slug": "meow-kingdom",
-      "loungeId": "meow_kingdom",
-      "titleKo": "냥킹덤",
-      "titleEn": "Meow Kingdom"
+      "slug": "nam-tat-defense",
+      "loungeId": "nam_tat_defense",
+      "titleKo": "남탓 디펜스",
+      "titleEn": "Nam Tat Defense"
     },
     {
-      "slug": "meow-knights",
-      "loungeId": "Meow_Knights",
-      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
-      "titleEn": "Meow Knights"
+      "slug": "neural-cloud",
+      "loungeId": "Neural_Cloud",
+      "titleKo": "뉴럴 클라우드",
+      "titleEn": "Neural Cloud"
     },
     {
-      "slug": "metempsychosis",
-      "loungeId": "metempsychosis",
-      "titleKo": "메템사이코시스",
-      "titleEn": "Metempsychosis"
+      "slug": "the-tale-of-five-kingdoms2",
+      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
+      "titleKo": "다섯 왕국 이야기2",
+      "titleEn": "The Tale Of Five Kingdoms2"
     },
     {
-      "slug": "midnight-ghost-tales",
-      "loungeId": "midnight_ghost_tales",
-      "titleKo": "심야귀담",
-      "titleEn": "Midnight Ghost Tales"
+      "slug": "ninety-thousand-acres",
+      "loungeId": "NINETY_THOUSAND_ACRES",
+      "titleKo": "9만 에이커",
+      "titleEn": "Ninety Thousand Acres"
+    },
+    {
+      "slug": "ninja-must-die",
+      "loungeId": "Ninja_Must_Die",
+      "titleKo": "닌자 머스트 다이",
+      "titleEn": "Ninja Must Die"
+    },
+    {
+      "slug": "overlord-the-lord-of-nazarick",
+      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
+      "titleKo": "오버로드: 나자릭의 왕",
+      "titleEn": "Overlord The Lord Of Nazarick"
+    },
+    {
+      "slug": "pixel-heroes-adventure",
+      "loungeId": "PixelHeroesAdventure",
+      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
+      "titleEn": "Pixel Heroes Adventure"
+    },
+    {
+      "slug": "plantis-zombie-gangsters",
+      "loungeId": "Plantis_Zombie_Gangsters",
+      "titleKo": "플랜티스와 좀비깡패",
+      "titleEn": "Plantis Zombie Gangsters"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "ptrctlt",
+      "loungeId": "ptrctlt",
+      "titleKo": "파트롱2:컨트랙트",
+      "titleEn": "Ptrctlt"
+    },
+    {
+      "slug": "puppy-three-kingdoms",
+      "loungeId": "puppy_three_kingdoms",
+      "titleKo": "멍멍삼국",
+      "titleEn": "Puppy Three Kingdoms"
     },
     {
       "slug": "redmythnezha",
@@ -241,12 +289,6 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "star-of-the-overlord",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T17:41:37.066Z",
+  "generatedAt": "2026-10-21T18:07:49.886Z",
   "today": "2026-10-22",
   "todayNew": 1,
   "totals": {
     "games": 322,
     "codes": 4592,
-    "active": 699,
-    "expired": 3893,
+    "active": 692,
+    "expired": 3900,
     "withExpiry": 2667
   },
   "newByDate": [
@@ -396,12 +396,12 @@
       "total": 19
     },
     {
-      "slug": "cat-hero",
+      "slug": "idle-berserker",
       "active": 15,
-      "total": 17
+      "total": 49
     },
     {
-      "slug": "idle-berserker",
+      "slug": "idle-hero-but-save-the-world",
       "active": 15,
       "total": 49
     },
@@ -414,6 +414,11 @@
       "slug": "dungeon-hunter6-awakening",
       "active": 14,
       "total": 40
+    },
+    {
+      "slug": "cat-hero",
+      "active": 13,
+      "total": 17
     },
     {
       "slug": "along-with-the-ghost",

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-21T12:33:23.469Z",
+  "updatedAt": "2026-10-21T18:07:20.248Z",
   "codes": [
     {
       "code": "GAMEEDU",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-07",
       "sourceUrl": "https://blog.naver.com/2ungggg/224434362444",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-21",
-      "status": "active"
+      "lastSeen": "2026-10-22",
+      "status": "expired"
     }
   ]
 }
