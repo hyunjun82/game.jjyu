@@ -7,8 +7,8 @@
   "loungeId": "Dragon_Traveler",
   "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8346017",
   "howTo": "",
-  "postCount": 71,
-  "updatedAt": "2026-10-21T06:19:13.874Z",
+  "postCount": 70,
+  "updatedAt": "2026-10-21T12:09:15.100Z",
   "codes": [
     {
       "code": "YourExclusive",
@@ -659,15 +659,6 @@
       "status": "expired"
     },
     {
-      "code": "YAYKOREA",
-      "reward": "",
-      "expiry": "2026-03-11",
-      "postedAt": "2026-03-10",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-21",
-      "status": "expired"
-    },
-    {
       "code": "LBMMNBY",
       "reward": "",
       "expiry": "2026-10-17",
@@ -708,6 +699,15 @@
       "reward": "",
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-21",
+      "status": "expired"
+    },
+    {
+      "code": "YAYKOREA",
+      "reward": "",
+      "expiry": "2026-03-11",
+      "postedAt": "2026-03-10",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-10-21",
       "status": "expired"

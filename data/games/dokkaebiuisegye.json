@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-21T01:28:36.763Z",
+  "updatedAt": "2026-10-21T12:04:39.661Z",
   "codes": [
+    {
+      "code": "애플1위풍악을울려라",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-17",
+      "sourceUrl": "https://blog.naver.com/dbs_jln/224444400211",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21",
+      "status": "active"
+    },
     {
       "code": "도깨비1008",
       "reward": "",
