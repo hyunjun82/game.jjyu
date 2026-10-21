@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-20T22:53:50.391Z",
+  "generatedAt": "2026-10-21T01:13:43.967Z",
   "games": [
     {
       "slug": "f4-u",
@@ -63,24 +63,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
-    },
-    {
-      "slug": "gg-go-masters",
-      "loungeId": "GGGoMasters",
-      "titleKo": "고고 고수들",
-      "titleEn": "Gg Go Masters"
-    },
-    {
-      "slug": "tukiers-god-tier-life-idle-tycoon",
-      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
-      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
-      "titleEn": "Tukiers God Tier Life Idle Tycoon"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -93,34 +75,76 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
-    },
-    {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
     },
     {
-      "slug": "cheon-sam-mu",
-      "loungeId": "CheonSamMu",
-      "titleKo": "천마지만 삼국지에서 무쌍중입니다",
-      "titleEn": "Cheon Sam Mu"
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
     },
     {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
     },
     {
-      "slug": "come-on-alien",
-      "loungeId": "Come_on_Alien",
-      "titleKo": "덤벼라 외계인!",
-      "titleEn": "Come On Alien"
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-slayer-sd",
+      "loungeId": "Dark_Slayer_SD",
+      "titleKo": "다크슬레이어2",
+      "titleEn": "Dark Slayer Sd"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
+    },
+    {
+      "slug": "dark-hero-kiugi",
+      "loungeId": "DarkHeroKiugi",
+      "titleKo": "다크 히어로 키우기",
+      "titleEn": "Dark Hero Kiugi"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-hunter-idle",
+      "loungeId": "Devil_Hunter_Idle",
+      "titleKo": "데빌 헌터 키우기",
+      "titleEn": "Devil Hunter Idle"
+    },
+    {
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -157,6 +181,24 @@
       "loungeId": "solo_exorcist",
       "titleKo": "나만 SSS급 퇴마사",
       "titleEn": "Solo Exorcist"
+    },
+    {
+      "slug": "gumihomobile",
+      "loungeId": "gumihomobile",
+      "titleKo": "요신:구미호뎐",
+      "titleEn": "Gumihomobile"
+    },
+    {
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
+    },
+    {
+      "slug": "helmet-corps",
+      "loungeId": "HelmetCorps",
+      "titleKo": "냄비뚜껑 용병단",
+      "titleEn": "Helmet Corps"
     },
     {
       "slug": "idle-king",
@@ -219,64 +261,10 @@
       "titleEn": "Survivorio"
     },
     {
-      "slug": "the-war-of-light-and-darkness",
-      "loungeId": "The_War_of_Light_and_Darkness",
-      "titleKo": "빛과 어둠의 전쟁",
-      "titleEn": "The War Of Light And Darkness"
-    },
-    {
-      "slug": "three-kingdoms-card-clash",
-      "loungeId": "Three_Kingdoms_Card_Clash",
-      "titleKo": "삼국 칸따먹기",
-      "titleEn": "Three Kingdoms Card Clash"
-    },
-    {
-      "slug": "three-kingdoms-rise-of-warlords",
-      "loungeId": "Three_kingdoms_Rise_of_Warlords",
-      "titleKo": "삼국지: 군웅할거",
-      "titleEn": "Three Kingdoms Rise Of Warlords"
-    },
-    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
-    },
-    {
-      "slug": "ultirpg",
-      "loungeId": "ultirpg",
-      "titleKo": "실력존많겜",
-      "titleEn": "Ultirpg"
-    },
-    {
-      "slug": "undergroundz",
-      "loungeId": "undergroundz",
-      "titleKo": "이번역은 좀비입니다",
-      "titleEn": "Undergroundz"
-    },
-    {
-      "slug": "godsamgook",
-      "loungeId": "godsamgook",
-      "titleKo": "갓삼국",
-      "titleEn": "Godsamgook"
-    },
-    {
-      "slug": "unlimited-fighter",
-      "loungeId": "Unlimited_Fighter",
-      "titleKo": "언리미티드 파이터",
-      "titleEn": "Unlimited Fighter"
-    },
-    {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
     },
     {
       "slug": "wtbk",
