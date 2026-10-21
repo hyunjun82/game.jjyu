@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Dragon_Village3/board/detail/8298819",
   "howTo": "쿠폰 사용 기한: 26.10.21(수) 23:59:59 (KST) 든든하게 모험을 지원해줄 특별 추가 쿠폰 쿠폰 코드: TOGETHER 보상:",
   "postCount": 2,
-  "updatedAt": "2026-10-21T12:22:17.043Z",
+  "updatedAt": "2026-10-21T17:39:27.392Z",
   "codes": [
     {
       "code": "WEHEARDU",
@@ -16,8 +16,8 @@
       "expiry": null,
       "postedAt": "2026-10-07",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-21",
-      "status": "active"
+      "lastSeen": "2026-10-22",
+      "status": "expired"
     },
     {
       "code": "TOGETHER",
@@ -25,8 +25,8 @@
       "expiry": null,
       "postedAt": "2026-10-07",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-21",
-      "status": "active"
+      "lastSeen": "2026-10-22",
+      "status": "expired"
     },
     {
       "code": "THANKYOU",
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-06-24",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "expired"
     },
     {

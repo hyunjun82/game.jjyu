@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/topisekai/board/detail/8321485",
   "howTo": "",
   "postCount": 4,
-  "updatedAt": "2026-10-21T12:23:59.499Z",
+  "updatedAt": "2026-10-21T17:41:10.254Z",
   "codes": [
     {
       "code": "GRANDOPEN999",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2026-10-15",
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-07-13",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-22",
       "status": "expired"
     }
   ]
