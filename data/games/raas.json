@@ -1,0 +1,34 @@
+{
+  "slug": "raas",
+  "titleEn": "RAAS",
+  "titleKo": "전생했더니 검 한 자루",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMTQ2/MDAxNzkyNTczODcxMjE2.ylMprQ672kPeVg3q4jAT3M8DYMetRpx9nzx1_2Y8XZsg.yg24aAcBhJ2REbH38QVNHCBbvgswQ3o0el2hDuAsZogg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "source": "naver-lounge",
+  "loungeId": "RAAS",
+  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8349105",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-22T05:05:37.584Z",
+  "codes": [
+    {
+      "code": "2026PRE",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "code": "PREGIFT26",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "status": "active"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T02:23:49.377Z",
+  "generatedAt": "2026-10-22T05:05:49.251Z",
   "today": "2026-10-22",
-  "todayNew": 9,
+  "todayNew": 14,
   "totals": {
-    "games": 323,
-    "codes": 4600,
-    "active": 703,
+    "games": 325,
+    "codes": 4605,
+    "active": 708,
     "expired": 3897,
-    "withExpiry": 2668
+    "withExpiry": 2669
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-22",
-      "count": 9
+      "count": 14
     }
   ],
   "expiringSoon": [
@@ -396,12 +396,12 @@
       "total": 19
     },
     {
-      "slug": "idle-berserker",
-      "active": 15,
-      "total": 49
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 50
     },
     {
-      "slug": "idle-hero-but-save-the-world",
+      "slug": "idle-berserker",
       "active": 15,
       "total": 49
     },
@@ -466,9 +466,9 @@
       "total": 10
     },
     {
-      "slug": "sword-frontier",
+      "slug": "kalpa-of-universe",
       "active": 9,
-      "total": 24
+      "total": 36
     }
   ],
   "noImage": 61
