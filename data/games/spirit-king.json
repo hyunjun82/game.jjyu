@@ -5,15 +5,34 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMjAg/MDAxNzkxOTYzODAxMjc4.GjEdlPb75DYutEQ0CfSzz8MJ7suJA36eql8sYC9BgcAg.2hx-UpxNTZIz9iDAWPrT0bOOgubFte62is6k5mvLvgsg.PNG/%EC%83%81%ED%95%98%EB%8B%A8_%EC%BF%A0%ED%8F%B0%EB%B3%B4%EC%83%81_100.png",
   "source": "naver-lounge",
   "loungeId": "Spirit_King",
-  "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8350477",
+  "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8351026",
   "howTo": "",
-  "postCount": 43,
-  "updatedAt": "2026-10-22T07:46:27.643Z",
+  "postCount": 45,
+  "updatedAt": "2026-10-22T12:00:54.583Z",
   "codes": [
+    {
+      "code": "OQMDFTWLI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "status": "active"
+    },
     {
       "code": "UB3IQJAZL",
       "reward": "",
       "expiry": null,
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "status": "active"
+    },
+    {
+      "code": "SPIRITTRICK2",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "expiryFrom": "event",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-10-22",

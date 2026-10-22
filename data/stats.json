@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T08:01:59.734Z",
+  "generatedAt": "2026-10-22T12:05:12.165Z",
   "today": "2026-10-22",
-  "todayNew": 15,
+  "todayNew": 28,
   "totals": {
-    "games": 325,
-    "codes": 4606,
-    "active": 709,
+    "games": 326,
+    "codes": 4619,
+    "active": 722,
     "expired": 3897,
-    "withExpiry": 2669
+    "withExpiry": 2677
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-22",
-      "count": 15
+      "count": 28
     }
   ],
   "expiringSoon": [
@@ -219,6 +219,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-FLY",
+      "expiry": "2026-10-24",
+      "days": 2
+    },
+    {
       "slug": "sinbbal-online",
       "code": "moon926",
       "expiry": "2026-10-24",
@@ -361,12 +367,6 @@
       "code": "Starplatina2011",
       "expiry": "2026-10-25",
       "days": 3
-    },
-    {
-      "slug": "horizon-walker",
-      "code": "Kikito20",
-      "expiry": "2026-10-25",
-      "days": 3
     }
   ],
   "topGames": [
@@ -396,14 +396,14 @@
       "total": 19
     },
     {
-      "slug": "idle-hero-but-save-the-world",
+      "slug": "idle-berserker",
       "active": 16,
       "total": 50
     },
     {
-      "slug": "idle-berserker",
-      "active": 15,
-      "total": 49
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 50
     },
     {
       "slug": "dungeon-hunter6-awakening",
@@ -471,5 +471,5 @@
       "total": 36
     }
   ],
-  "noImage": 61
+  "noImage": 62
 }

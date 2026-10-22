@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAxMDJfMTA2/MDAxNzY3MzM5MjMzNzIw.z4EGjI0NmOfgQVnE1JneHO8BmuAjLn9--LOLYBATzp4g.lzGuv7j0T79zOMoOPP0YjJlj31x831M7XOGHVsJ9eb4g.PNG/image.png",
   "source": "naver-lounge",
   "loungeId": "IDLE_Berserker",
-  "sourceUrl": "https://game.naver.com/lounge/IDLE_Berserker/board/detail/8332064",
+  "sourceUrl": "https://game.naver.com/lounge/IDLE_Berserker/board/detail/8351195",
   "howTo": "] ※ 참고사항 쿠폰은 계정당 1회만 사용 가능합니다. 쿠폰별 사용 기간이 다르니 꼭 확인해 주세요.",
-  "postCount": 173,
-  "updatedAt": "2026-10-22T07:47:34.417Z",
+  "postCount": 174,
+  "updatedAt": "2026-10-22T12:02:00.074Z",
   "codes": [
+    {
+      "code": "UPDATE261022",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22",
+      "status": "active"
+    },
     {
       "code": "OCTOCT3589",
       "reward": "",
