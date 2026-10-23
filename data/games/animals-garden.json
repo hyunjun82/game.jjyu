@@ -5,18 +5,27 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAzMjdfODgg/MDAxNzc0NTk3NTAzOTI0.yJ22B13q-0Wbjmi2Rs_QjKqbNPLfvAuM94v_12L5CIAg.RCjMH3m_xWH1jvjjn9TG17V3CuaBzuDGnBnxwapyhbcg.PNG/2.png",
   "source": "naver-lounge",
   "loungeId": "Animals_Garden",
-  "sourceUrl": "https://game.naver.com/lounge/Animals_Garden/board/detail/8351918",
+  "sourceUrl": "https://game.naver.com/lounge/Animals_Garden/board/detail/8357194",
   "howTo": "게임 화면 왼쪽 상단의 프로필 아이콘을 터치합니다. 「개인 정보」 메뉴를 엽니다. 맨 아래에 있는 「리딤 코드」 입력란에 코드를 입력한 후 확인을 누릅니다. 지금 바로 코드를 교환하고, 다양한 과일과 풍성한 보상을 획득해 보세요! 친구들과 함께 즐거운 뽑기 시간을 보내세요! 🐾💕",
-  "postCount": 9,
-  "updatedAt": "2026-10-23T11:42:31.180Z",
+  "postCount": 10,
+  "updatedAt": "2026-10-23T15:26:39.293Z",
   "codes": [
+    {
+      "code": "AUTUMN10",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24",
+      "status": "active"
+    },
     {
       "code": "fruit77",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "active"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-06-01",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-06-26",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-05-12",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-05-22",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-07-15",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     },
     {
@@ -88,7 +97,7 @@
       "expiry": null,
       "postedAt": "2026-06-27",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-23",
+      "lastSeen": "2026-10-24",
       "status": "expired"
     }
   ]
