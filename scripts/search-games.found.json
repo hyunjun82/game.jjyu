@@ -116,18 +116,6 @@
       "found": "2026-10-20"
     },
     {
-      "slug": "pikeulpeulreoseu-chaetjipiti",
-      "titleKo": "피클플러스 챗지피티",
-      "titleEn": "pikeulpeulreoseu-chaetjipiti",
-      "found": "2026-10-20"
-    },
-    {
-      "slug": "rageunarokeum-keulraesik",
-      "titleKo": "라그나로크M 클래식",
-      "titleEn": "rageunarokeum-keulraesik",
-      "found": "2026-10-20"
-    },
-    {
       "slug": "keeopeuritaim",
       "titleKo": "케어프리타임",
       "titleEn": "keeopeuritaim",
@@ -137,7 +125,10 @@
       "slug": "kolobeudeuraegonjeu",
       "titleKo": "콜오브드래곤즈",
       "titleEn": "kolobeudeuraegonjeu",
-      "found": "2026-10-22"
+      "found": "2026-10-22",
+      "blockCodes": [
+        "COD7ZONGZI"
+      ]
     },
     {
       "slug": "ssilm2",
@@ -145,5 +136,9 @@
       "titleEn": "ssilm2",
       "found": "2026-10-23"
     }
+  ],
+  "rejected": [
+    "라그나로크M 클래식",
+    "피클플러스 챗지피티"
   ]
 }

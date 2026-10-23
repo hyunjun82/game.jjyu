@@ -273,6 +273,10 @@ export async function collectOne(g) {
       if (c.code.toLowerCase() === id.toLowerCase() || text.includes(`blog.naver.com/${c.code}`)) continue;
       // 본문 앞(블로그 머리 — 별명·주소·프로필)에 이미 나온 단어는 블로그 주인 정보다("runningwow" = 달려라와웅, 아처캐슬 글).
       if (mStart > 0 && new RegExp(`(^|[^A-Za-z0-9])${c.code}([^A-Za-z0-9]|$)`, 'i').test(page.slice(0, mStart))) continue;
+      // "ⓒ JJYULO's GAME LOG" — 블로그 서명의 영문 별명(케어프리타임, 2026-10-24).
+      if (new RegExp(`[ⓒ©]\\s*${c.code}`, 'i').test(text)) continue;
+      // 사람이 확인해 뺀 코드(설정의 blockCodes) — 블로그가 "사용 여부 확인 필요"라고 적은 해외 사이트 코드 등.
+      if ((g.blockCodes || []).some((b) => b.toUpperCase() === c.code.toUpperCase())) continue;
       if (codes.some((x) => x.code.toUpperCase() === c.code.toUpperCase())) continue;
       codes.push({ ...c, sourceUrl: `https://blog.naver.com/${id}/${no}` });
     }
