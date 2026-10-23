@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T15:40:39.005Z",
+  "generatedAt": "2026-10-23T17:28:01.406Z",
   "today": "2026-10-24",
-  "todayNew": 3,
+  "todayNew": 5,
   "totals": {
     "games": 327,
-    "codes": 4653,
-    "active": 715,
-    "expired": 3938,
-    "withExpiry": 2698
+    "codes": 4655,
+    "active": 719,
+    "expired": 3936,
+    "withExpiry": 2700
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-24",
-      "count": 3
+      "count": 5
     }
   ],
   "expiringSoon": [
@@ -339,6 +339,12 @@
       "days": 2
     },
     {
+      "slug": "everytown",
+      "code": "SELECT2",
+      "expiry": "2026-10-26",
+      "days": 2
+    },
+    {
       "slug": "f-class-hero",
       "code": "2QFreeOct",
       "expiry": "2026-10-26",
@@ -359,12 +365,6 @@
     {
       "slug": "god-kkaebi",
       "code": "g29aohq6",
-      "expiry": "2026-10-26",
-      "days": 2
-    },
-    {
-      "slug": "gungsin-idle-rpg",
-      "code": "WE1Wslcm6k",
       "expiry": "2026-10-26",
       "days": 2
     }

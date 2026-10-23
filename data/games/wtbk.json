@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/wtbk/board/detail/8355012",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-10-23T15:27:10.841Z",
+  "updatedAt": "2026-10-23T17:27:38.739Z",
   "codes": [
     {
       "code": "GOOGLEACE",
@@ -29,23 +29,14 @@
       "status": "active"
     },
     {
-      "code": "BONEOPEN",
-      "reward": "",
-      "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-24",
-      "status": "active"
-    },
-    {
       "code": "BONUS100",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-19",
       "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-23",
-      "status": "expired"
+      "lastSeen": "2026-10-24",
+      "status": "active"
     },
     {
       "code": "BONEKING777",
@@ -54,8 +45,8 @@
       "postedAt": "2026-10-19",
       "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-23",
-      "status": "expired"
+      "lastSeen": "2026-10-24",
+      "status": "active"
     },
     {
       "code": "THX2024",
@@ -64,8 +55,17 @@
       "postedAt": "2026-10-19",
       "sourceUrl": "https://blog.naver.com/dlxodns9/224446122092",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-23",
-      "status": "expired"
+      "lastSeen": "2026-10-24",
+      "status": "active"
+    },
+    {
+      "code": "BONEOPEN",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-24",
+      "status": "active"
     }
   ]
 }
