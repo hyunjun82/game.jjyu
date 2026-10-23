@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-22T21:46:08.849Z",
+  "updatedAt": "2026-10-23T00:38:28.261Z",
   "codes": [
     {
       "code": "QGHRDT",
@@ -78,21 +78,11 @@
       "status": "active"
     },
     {
-      "code": "EXORCIST666",
-      "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
-      "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-23",
-      "status": "active"
-    },
-    {
       "code": "EXORCIST777",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-23",
       "status": "active"
@@ -101,8 +91,8 @@
       "code": "EXORCIST888",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-23",
       "status": "active"
@@ -111,14 +101,24 @@
       "code": "SSS666",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224421434339",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-10-23",
       "status": "active"
     },
     {
       "code": "SSS999",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-26",
+      "sourceUrl": "https://blog.naver.com/akdrhdpdh/224423064869",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-10-23",
+      "status": "active"
+    },
+    {
+      "code": "EXORCIST666",
       "reward": "",
       "expiry": "2026-10-31",
       "postedAt": "2026-09-24",
