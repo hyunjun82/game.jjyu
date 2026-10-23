@@ -2,14 +2,23 @@
   "slug": "magician-cat-idle",
   "titleEn": "Magician Cat Idle",
   "titleKo": "고냥이 마법사",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MTJfOTEg/MDAxNzgxMjMzNjAyNDA1.WykaGi2LsfNc2-lde34z7MeqS2VQA5s3qsdkd9jrTMcg.0ZkR3oJnYVto4Hr4mIqLWIuP1liYzIlHQvDn18WYr2og.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfNjAg/MDAxNzkyNzM4Nzk2MzE5.dp6kEW3ktoKpQeFGVJ1DouIULMcIq_WlahX43niEqSwg.1zWVwLmLnWfsB6VWemwogS3smLV0TO2vLIo2iS0pqHYg.PNG/%EA%B0%80%EC%9D%B4%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "magician_cat_idle",
-  "sourceUrl": "https://game.naver.com/lounge/magician_cat_idle/board/detail/8110084",
+  "sourceUrl": "https://game.naver.com/lounge/magician_cat_idle/board/detail/8355430",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-10-23T05:17:15.026Z",
+  "postCount": 3,
+  "updatedAt": "2026-10-23T10:19:21.669Z",
   "codes": [
+    {
+      "code": "CATCMGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "status": "active"
+    },
     {
       "code": "SORRY0827",
       "reward": "",

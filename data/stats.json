@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T05:28:46.507Z",
+  "generatedAt": "2026-10-23T10:31:27.692Z",
   "today": "2026-10-23",
-  "todayNew": 16,
+  "todayNew": 26,
   "totals": {
     "games": 327,
-    "codes": 4636,
-    "active": 719,
+    "codes": 4646,
+    "active": 729,
     "expired": 3917,
-    "withExpiry": 2689
+    "withExpiry": 2696
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-23",
-      "count": 16
+      "count": 26
     }
   ],
   "expiringSoon": [
@@ -297,6 +297,12 @@
       "days": 2
     },
     {
+      "slug": "horde-war-avengers-summon",
+      "code": "jhmurdd",
+      "expiry": "2026-10-25",
+      "days": 2
+    },
+    {
       "slug": "horizon-walker",
       "code": "Starplatina2011",
       "expiry": "2026-10-25",
@@ -361,12 +367,6 @@
       "code": "moonnight",
       "expiry": "2026-10-25",
       "days": 2
-    },
-    {
-      "slug": "potatozombie",
-      "code": "3M4GNHCT9SL8CU",
-      "expiry": "2026-10-25",
-      "days": 2
     }
   ],
   "topGames": [
@@ -391,14 +391,14 @@
       "total": 81
     },
     {
+      "slug": "idle-berserker",
+      "active": 18,
+      "total": 52
+    },
+    {
       "slug": "aniimo",
       "active": 17,
       "total": 19
-    },
-    {
-      "slug": "idle-berserker",
-      "active": 17,
-      "total": 51
     },
     {
       "slug": "idle-hero-but-save-the-world",
