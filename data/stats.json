@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T00:43:31.628Z",
+  "generatedAt": "2026-10-23T04:55:01.095Z",
   "today": "2026-10-23",
-  "todayNew": 5,
+  "todayNew": 15,
   "totals": {
     "games": 327,
-    "codes": 4625,
-    "active": 705,
+    "codes": 4635,
+    "active": 715,
     "expired": 3920,
-    "withExpiry": 2682
+    "withExpiry": 2689
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-23",
-      "count": 5
+      "count": 15
     }
   ],
   "expiringSoon": [
@@ -397,13 +397,13 @@
     },
     {
       "slug": "idle-berserker",
-      "active": 16,
-      "total": 50
+      "active": 17,
+      "total": 51
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 50
+      "active": 16,
+      "total": 51
     },
     {
       "slug": "dungeon-hunter6-awakening",
@@ -456,6 +456,11 @@
       "total": 13
     },
     {
+      "slug": "kalpa-of-universe",
+      "active": 10,
+      "total": 37
+    },
+    {
       "slug": "syupeojinhwaseutori2",
       "active": 10,
       "total": 10
@@ -464,11 +469,6 @@
       "slug": "windeureoneo-kiugi",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "kalpa-of-universe",
-      "active": 9,
-      "total": 36
     }
   ],
   "noImage": 63
