@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-23T19:30:19.084Z",
+  "generatedAt": "2026-10-23T22:31:57.580Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -135,82 +135,58 @@
       "titleEn": "Idle King"
     },
     {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
-    },
-    {
-      "slug": "kingdom-go",
-      "loungeId": "kingdom_go",
-      "titleKo": "주공을 지켜라",
-      "titleEn": "Kingdom Go"
-    },
-    {
-      "slug": "kingdom-rise-of-zombies",
-      "loungeId": "KINGDOM_RISE_OF_ZOMBIES",
-      "titleKo": "조선 이변",
-      "titleEn": "Kingdom Rise Of Zombies"
-    },
-    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
+      "slug": "marine-squad",
+      "loungeId": "MarineSquad",
+      "titleKo": "마린 키우기 : 방치형 RPG",
+      "titleEn": "Marine Squad"
     },
     {
-      "slug": "lapis-mobile",
-      "loungeId": "LAPIS_MOBILE",
-      "titleKo": "라피스 키우기",
-      "titleEn": "Lapis Mobile"
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
     },
     {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
     },
     {
-      "slug": "legendof-yeomra",
-      "loungeId": "LegendofYeomra",
-      "titleKo": "염라대왕 키우기",
-      "titleEn": "Legendof Yeomra"
+      "slug": "meow-kingdom",
+      "loungeId": "meow_kingdom",
+      "titleKo": "냥킹덤",
+      "titleEn": "Meow Kingdom"
     },
     {
-      "slug": "legends-reborn",
-      "loungeId": "Legends_Reborn",
-      "titleKo": "Legends Reborn: 마지막 전투",
-      "titleEn": "Legends Reborn"
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
     },
     {
-      "slug": "leubens-adventure",
-      "loungeId": "Leubens_Adventure",
-      "titleKo": "루벤의 대모험",
-      "titleEn": "Leubens Adventure"
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
     },
     {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
     },
     {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
-    },
-    {
-      "slug": "magical-ink",
-      "loungeId": "Magical_Ink",
-      "titleKo": "마법의 잉크",
-      "titleEn": "Magical Ink"
+      "slug": "mzsamguk",
+      "loungeId": "MZSAMGUK",
+      "titleKo": "MZ삼국지",
+      "titleEn": "Mzsamguk"
     },
     {
       "slug": "pmang-new-matgo",
@@ -219,10 +195,34 @@
       "titleEn": "Pmang New Matgo"
     },
     {
+      "slug": "red-city",
+      "loungeId": "red_city",
+      "titleKo": "붉은 도시",
+      "titleEn": "Red City"
+    },
+    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "res",
+      "loungeId": "RES",
+      "titleKo": "레조넌스",
+      "titleEn": "Res"
+    },
+    {
+      "slug": "rin-m",
+      "loungeId": "RinM",
+      "titleKo": "린M:잊혀진 유산",
+      "titleEn": "Rin M"
+    },
+    {
+      "slug": "rise-god-idle",
+      "loungeId": "Rise_God_Idle",
+      "titleKo": "라이즈 신 키우기",
+      "titleEn": "Rise God Idle"
     },
     {
       "slug": "rush-three-kingdom",
@@ -237,6 +237,18 @@
       "titleEn": "Samguk_Origin"
     },
     {
+      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
+      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
+      "titleKo": "신수의 전설",
+      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
+    },
+    {
+      "slug": "seollaesamguk",
+      "loungeId": "seollaesamguk",
+      "titleKo": "설레 삼국:미인계",
+      "titleEn": "Seollaesamguk"
+    },
+    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
@@ -249,10 +261,28 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
+      "slug": "survivor-warriors",
+      "loungeId": "Survivor_Warriors",
+      "titleKo": "서바이버 워리어즈",
+      "titleEn": "Survivor Warriors"
+    },
+    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
+    },
+    {
+      "slug": "swordgirl-hero",
+      "loungeId": "swordgirl_hero",
+      "titleKo": "칼잽이소녀",
+      "titleEn": "Swordgirl Hero"
+    },
+    {
+      "slug": "syungsyung",
+      "loungeId": "syungsyung",
+      "titleKo": "슝슝 수련기",
+      "titleEn": "Syungsyung"
     },
     {
       "slug": "toy-immortals",
@@ -265,12 +295,6 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
-    },
-    {
-      "slug": "kaind-idle",
-      "loungeId": "Kaind_idle",
-      "titleKo": "원정대 키우기",
-      "titleEn": "Kaind Idle"
     }
   ]
 }
