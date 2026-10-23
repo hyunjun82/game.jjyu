@@ -2,14 +2,23 @@
   "slug": "dicerco",
   "titleEn": "Dicerco",
   "titleKo": "딸깍 다이스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfOTUg/MDAxNzkwNTg3MDQ4MDU5.p9okPRhDUSKe1Sd1WDAMlTGaF57i5JkW2Z5V4QQ4hNYg.bJkQmzi2I96FCDfphQScAJhjNUWnRbRFB18AnmrQxJ4g.PNG/event.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfMzkg/MDAxNzkyNzI0NzY4OTI5.li0FhWQKlpfea0hKO0GKht1Iu6kRQV2mCVP_TPrDfgkg.E4ZMMXqcQwUKnYB_2ywKO8mabrFpeKL8sraSvtp38VUg.PNG/event.png",
   "source": "naver-lounge",
   "loungeId": "dicerco",
-  "sourceUrl": "https://game.naver.com/lounge/dicerco/board/detail/8271712",
+  "sourceUrl": "https://game.naver.com/lounge/dicerco/board/detail/8356208",
   "howTo": "",
-  "postCount": 6,
-  "updatedAt": "2026-10-23T10:18:14.020Z",
+  "postCount": 7,
+  "updatedAt": "2026-10-23T11:41:46.990Z",
   "codes": [
+    {
+      "code": "autumndew2026",
+      "reward": "",
+      "expiry": "2026-11-06",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "status": "active"
+    },
     {
       "code": "hioctober26",
       "reward": "",

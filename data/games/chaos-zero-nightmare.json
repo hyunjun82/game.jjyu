@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-23T05:27:18.154Z",
+  "updatedAt": "2026-10-23T11:37:21.555Z",
   "codes": [
+    {
+      "code": "10211STANNIVERSARY",
+      "reward": "",
+      "expiry": "2026-11-19",
+      "postedAt": "2026-10-23",
+      "sourceUrl": "https://blog.naver.com/kkodug9/224451589733",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23",
+      "status": "active"
+    },
     {
       "code": "NIGHTMARECARNIVAL",
       "reward": "",
