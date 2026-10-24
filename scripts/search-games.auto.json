@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-24T00:04:52.445Z",
+  "generatedAt": "2026-10-24T00:31:17.656Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -75,12 +75,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "tukiers-god-tier-life-idle-tycoon",
-      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
-      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
-      "titleEn": "Tukiers God Tier Life Idle Tycoon"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -93,16 +87,208 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "32-heroes",
-      "loungeId": "32Heroes",
-      "titleKo": "32용사 키우기",
-      "titleEn": "32 Heroes"
+      "slug": "33-rd",
+      "loungeId": "33RD",
+      "titleKo": "33RD : 랜덤 디펜스",
+      "titleEn": "33 Rd"
+    },
+    {
+      "slug": "7tharcher",
+      "loungeId": "7tharcher",
+      "titleKo": "7번째 신의 궁수 키우기",
+      "titleEn": "7tharcher"
+    },
+    {
+      "slug": "abyss-infinite-realm",
+      "loungeId": "Abyss_Infinite_Realm",
+      "titleKo": "어비스: 무한계",
+      "titleEn": "Abyss Infinite Realm"
+    },
+    {
+      "slug": "abyssdestiny",
+      "loungeId": "abyssdestiny",
+      "titleKo": "어비스: 데스티니",
+      "titleEn": "Abyssdestiny"
+    },
+    {
+      "slug": "acadia-m",
+      "loungeId": "AcadiaM",
+      "titleKo": "아카디아M",
+      "titleEn": "Acadia M"
+    },
+    {
+      "slug": "acecraft",
+      "loungeId": "ACECRAFT",
+      "titleKo": "ACECRAFT",
+      "titleEn": "Acecraft"
+    },
+    {
+      "slug": "afk-mercenary",
+      "loungeId": "AFK_Mercenary",
+      "titleKo": "우리 단장 뭐함?!",
+      "titleEn": "Afk Mercenary"
+    },
+    {
+      "slug": "akir-call-of-aesir",
+      "loungeId": "AKIR_CALL_OF_AESIR",
+      "titleKo": "아키르: 콜 오브 에시르",
+      "titleEn": "Akir Call Of Aesir"
     },
     {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "alterego",
+      "loungeId": "Alterego",
+      "titleKo": "분신 캐 키우기",
+      "titleEn": "Alterego"
+    },
+    {
+      "slug": "loadto-ninza",
+      "loungeId": "loadtoNINZA",
+      "titleKo": "로드 투 닌자-K닌자의 귀환",
+      "titleEn": "Loadto Ninza"
+    },
+    {
+      "slug": "amber-guard",
+      "loungeId": "AmberGuard",
+      "titleKo": "앰버가드",
+      "titleEn": "Amber Guard"
+    },
+    {
+      "slug": "ananta",
+      "loungeId": "Ananta",
+      "titleKo": "무한대 아난타",
+      "titleEn": "Ananta"
+    },
+    {
+      "slug": "angel-knights",
+      "loungeId": "Angel_Knights",
+      "titleKo": "엔젤나이츠",
+      "titleEn": "Angel Knights"
+    },
+    {
+      "slug": "animal-quest",
+      "loungeId": "Animal_Quest",
+      "titleKo": "애니멀 퀘스트",
+      "titleEn": "Animal Quest"
+    },
+    {
+      "slug": "anotherthreekingdoms",
+      "loungeId": "anotherthreekingdoms",
+      "titleKo": "이세계 삼국지",
+      "titleEn": "Anotherthreekingdoms"
+    },
+    {
+      "slug": "aof",
+      "loungeId": "aof",
+      "titleKo": "에테르 오브 판타지",
+      "titleEn": "Aof"
+    },
+    {
+      "slug": "archercat2",
+      "loungeId": "archercat2",
+      "titleKo": "아처캣2",
+      "titleEn": "Archercat2"
+    },
+    {
+      "slug": "arisen-ants",
+      "loungeId": "Arisen_Ants",
+      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
+      "titleEn": "Arisen Ants"
+    },
+    {
+      "slug": "armored-girls",
+      "loungeId": "Armored_Girls",
+      "titleKo": "삼국무장소녀",
+      "titleEn": "Armored Girls"
+    },
+    {
+      "slug": "asap-arena",
+      "loungeId": "ASAP_ARENA",
+      "titleKo": "ASAP 아레나",
+      "titleEn": "Asap Arena"
+    },
+    {
+      "slug": "ash-n-veil",
+      "loungeId": "AshNVeil",
+      "titleKo": "애쉬앤베일",
+      "titleEn": "Ash N Veil"
+    },
+    {
+      "slug": "assetonline",
+      "loungeId": "assetonline",
+      "titleKo": "에셋온라인",
+      "titleEn": "Assetonline"
+    },
+    {
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "badminton-blitz",
+      "loungeId": "Badminton_Blitz",
+      "titleKo": "배드민턴 달인",
+      "titleEn": "Badminton Blitz"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
+    },
+    {
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
+    },
+    {
+      "slug": "become-a-lord",
+      "loungeId": "Become_a_lord",
+      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
+      "titleEn": "Become A Lord"
+    },
+    {
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
+    },
+    {
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
+    },
+    {
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
+    },
+    {
+      "slug": "blood-soul",
+      "loungeId": "BloodSoul",
+      "titleKo": "ASURA: 블러드 앤 소울",
+      "titleEn": "Blood Soul"
+    },
+    {
+      "slug": "blood-witch",
+      "loungeId": "Blood_Witch",
+      "titleKo": "블러드 위치",
+      "titleEn": "Blood Witch"
     },
     {
       "slug": "dokkaebi-girl",
@@ -195,106 +381,10 @@
       "titleEn": "Survivorio"
     },
     {
-      "slug": "tamer",
-      "loungeId": "Tamer",
-      "titleKo": "테이머 키우기 : 드래곤 소녀 RPG",
-      "titleEn": "Tamer"
-    },
-    {
-      "slug": "taptap-hero",
-      "loungeId": "Taptap_Hero",
-      "titleKo": "탑탑 히어로",
-      "titleEn": "Taptap Hero"
-    },
-    {
-      "slug": "the-ace-banker",
-      "loungeId": "The_Ace_Banker",
-      "titleKo": "사장님의 이중생활",
-      "titleEn": "The Ace Banker"
-    },
-    {
-      "slug": "the-contract-of-blood",
-      "loungeId": "The_contract_of_Blood",
-      "titleKo": "피의 계약: 언데드",
-      "titleEn": "The Contract Of Blood"
-    },
-    {
-      "slug": "the-first-hunter-vanguard",
-      "loungeId": "The_First_Hunter_Vanguard",
-      "titleKo": "최초의 헌터: 뱅가드",
-      "titleEn": "The First Hunter Vanguard"
-    },
-    {
-      "slug": "the-last-chronicle",
-      "loungeId": "The_Last_Chronicle",
-      "titleKo": "마지막 연대기",
-      "titleEn": "The Last Chronicle"
-    },
-    {
-      "slug": "the-pixel-ark",
-      "loungeId": "THE_PIXEL_ARK",
-      "titleKo": "픽셀방주",
-      "titleEn": "The Pixel Ark"
-    },
-    {
-      "slug": "the-war-of-light-and-darkness",
-      "loungeId": "The_War_of_Light_and_Darkness",
-      "titleKo": "빛과 어둠의 전쟁",
-      "titleEn": "The War Of Light And Darkness"
-    },
-    {
-      "slug": "three-kingdoms-card-clash",
-      "loungeId": "Three_Kingdoms_Card_Clash",
-      "titleKo": "삼국 칸따먹기",
-      "titleEn": "Three Kingdoms Card Clash"
-    },
-    {
-      "slug": "three-kingdoms-rise-of-warlords",
-      "loungeId": "Three_kingdoms_Rise_of_Warlords",
-      "titleKo": "삼국지: 군웅할거",
-      "titleEn": "Three Kingdoms Rise Of Warlords"
-    },
-    {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
-    },
-    {
-      "slug": "ultirpg",
-      "loungeId": "ultirpg",
-      "titleKo": "실력존많겜",
-      "titleEn": "Ultirpg"
-    },
-    {
-      "slug": "undergroundz",
-      "loungeId": "undergroundz",
-      "titleKo": "이번역은 좀비입니다",
-      "titleEn": "Undergroundz"
-    },
-    {
-      "slug": "godsamgook",
-      "loungeId": "godsamgook",
-      "titleKo": "갓삼국",
-      "titleEn": "Godsamgook"
-    },
-    {
-      "slug": "unlimited-fighter",
-      "loungeId": "Unlimited_Fighter",
-      "titleKo": "언리미티드 파이터",
-      "titleEn": "Unlimited Fighter"
-    },
-    {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
     },
     {
       "slug": "wtbk",
