@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-23T22:31:57.580Z",
+  "generatedAt": "2026-10-24T00:04:52.445Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -75,6 +75,12 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "tukiers-god-tier-life-idle-tycoon",
+      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
+      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
+      "titleEn": "Tukiers God Tier Life Idle Tycoon"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -85,6 +91,12 @@
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "32-heroes",
+      "loungeId": "32Heroes",
+      "titleKo": "32용사 키우기",
+      "titleEn": "32 Heroes"
     },
     {
       "slug": "along-with-the-ghost",
@@ -141,88 +153,16 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "marine-squad",
-      "loungeId": "MarineSquad",
-      "titleKo": "마린 키우기 : 방치형 RPG",
-      "titleEn": "Marine Squad"
-    },
-    {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
-    },
-    {
-      "slug": "mecha-break",
-      "loungeId": "Mecha_BREAK",
-      "titleKo": "메카 브레이크",
-      "titleEn": "Mecha Break"
-    },
-    {
-      "slug": "meow-kingdom",
-      "loungeId": "meow_kingdom",
-      "titleKo": "냥킹덤",
-      "titleEn": "Meow Kingdom"
-    },
-    {
-      "slug": "meow-knights",
-      "loungeId": "Meow_Knights",
-      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
-      "titleEn": "Meow Knights"
-    },
-    {
-      "slug": "metempsychosis",
-      "loungeId": "metempsychosis",
-      "titleKo": "메템사이코시스",
-      "titleEn": "Metempsychosis"
-    },
-    {
-      "slug": "midnight-ghost-tales",
-      "loungeId": "midnight_ghost_tales",
-      "titleKo": "심야귀담",
-      "titleEn": "Midnight Ghost Tales"
-    },
-    {
-      "slug": "mzsamguk",
-      "loungeId": "MZSAMGUK",
-      "titleKo": "MZ삼국지",
-      "titleEn": "Mzsamguk"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
-    },
-    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
-    },
-    {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
     },
     {
       "slug": "rush-three-kingdom",
@@ -237,18 +177,6 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "san-hae-kyeong-sinsu-ui-jeonseol",
-      "loungeId": "SanHaeKyeong_Sinsu_ui_Jeonseol",
-      "titleKo": "신수의 전설",
-      "titleEn": "San Hae Kyeong Sinsu Ui Jeonseol"
-    },
-    {
-      "slug": "seollaesamguk",
-      "loungeId": "seollaesamguk",
-      "titleKo": "설레 삼국:미인계",
-      "titleEn": "Seollaesamguk"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
@@ -261,34 +189,112 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "survivor-warriors",
-      "loungeId": "Survivor_Warriors",
-      "titleKo": "서바이버 워리어즈",
-      "titleEn": "Survivor Warriors"
-    },
-    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
     },
     {
-      "slug": "swordgirl-hero",
-      "loungeId": "swordgirl_hero",
-      "titleKo": "칼잽이소녀",
-      "titleEn": "Swordgirl Hero"
+      "slug": "tamer",
+      "loungeId": "Tamer",
+      "titleKo": "테이머 키우기 : 드래곤 소녀 RPG",
+      "titleEn": "Tamer"
     },
     {
-      "slug": "syungsyung",
-      "loungeId": "syungsyung",
-      "titleKo": "슝슝 수련기",
-      "titleEn": "Syungsyung"
+      "slug": "taptap-hero",
+      "loungeId": "Taptap_Hero",
+      "titleKo": "탑탑 히어로",
+      "titleEn": "Taptap Hero"
+    },
+    {
+      "slug": "the-ace-banker",
+      "loungeId": "The_Ace_Banker",
+      "titleKo": "사장님의 이중생활",
+      "titleEn": "The Ace Banker"
+    },
+    {
+      "slug": "the-contract-of-blood",
+      "loungeId": "The_contract_of_Blood",
+      "titleKo": "피의 계약: 언데드",
+      "titleEn": "The Contract Of Blood"
+    },
+    {
+      "slug": "the-first-hunter-vanguard",
+      "loungeId": "The_First_Hunter_Vanguard",
+      "titleKo": "최초의 헌터: 뱅가드",
+      "titleEn": "The First Hunter Vanguard"
+    },
+    {
+      "slug": "the-last-chronicle",
+      "loungeId": "The_Last_Chronicle",
+      "titleKo": "마지막 연대기",
+      "titleEn": "The Last Chronicle"
+    },
+    {
+      "slug": "the-pixel-ark",
+      "loungeId": "THE_PIXEL_ARK",
+      "titleKo": "픽셀방주",
+      "titleEn": "The Pixel Ark"
+    },
+    {
+      "slug": "the-war-of-light-and-darkness",
+      "loungeId": "The_War_of_Light_and_Darkness",
+      "titleKo": "빛과 어둠의 전쟁",
+      "titleEn": "The War Of Light And Darkness"
+    },
+    {
+      "slug": "three-kingdoms-card-clash",
+      "loungeId": "Three_Kingdoms_Card_Clash",
+      "titleKo": "삼국 칸따먹기",
+      "titleEn": "Three Kingdoms Card Clash"
+    },
+    {
+      "slug": "three-kingdoms-rise-of-warlords",
+      "loungeId": "Three_kingdoms_Rise_of_Warlords",
+      "titleKo": "삼국지: 군웅할거",
+      "titleEn": "Three Kingdoms Rise Of Warlords"
     },
     {
       "slug": "toy-immortals",
       "loungeId": "Toy_Immortals",
       "titleKo": "토이 신선",
       "titleEn": "Toy Immortals"
+    },
+    {
+      "slug": "tt-tiny-tales",
+      "loungeId": "TT_Tiny_Tales",
+      "titleKo": "TT: 타이니 테일즈",
+      "titleEn": "Tt Tiny Tales"
+    },
+    {
+      "slug": "ultirpg",
+      "loungeId": "ultirpg",
+      "titleKo": "실력존많겜",
+      "titleEn": "Ultirpg"
+    },
+    {
+      "slug": "undergroundz",
+      "loungeId": "undergroundz",
+      "titleKo": "이번역은 좀비입니다",
+      "titleEn": "Undergroundz"
+    },
+    {
+      "slug": "godsamgook",
+      "loungeId": "godsamgook",
+      "titleKo": "갓삼국",
+      "titleEn": "Godsamgook"
+    },
+    {
+      "slug": "unlimited-fighter",
+      "loungeId": "Unlimited_Fighter",
+      "titleKo": "언리미티드 파이터",
+      "titleEn": "Unlimited Fighter"
+    },
+    {
+      "slug": "vahns-quest-idlerpg",
+      "loungeId": "Vahns_Quest_IDLERPG",
+      "titleKo": "반의모험 : IDLE RPG",
+      "titleEn": "Vahns Quest Idlerpg"
     },
     {
       "slug": "wtbk",
