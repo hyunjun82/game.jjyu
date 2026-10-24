@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-24T01:20:24.245Z",
+  "generatedAt": "2026-10-24T04:42:15.603Z",
   "today": "2026-10-24",
-  "todayNew": 21,
+  "todayNew": 31,
   "totals": {
     "games": 325,
-    "codes": 4666,
-    "active": 717,
-    "expired": 3949,
-    "withExpiry": 2701
+    "codes": 4676,
+    "active": 728,
+    "expired": 3948,
+    "withExpiry": 2708
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-24",
-      "count": 21
+      "count": 31
     }
   ],
   "expiringSoon": [
@@ -372,8 +372,8 @@
   "topGames": [
     {
       "slug": "rogw-remains-of-gods",
-      "active": 22,
-      "total": 22
+      "active": 23,
+      "total": 23
     },
     {
       "slug": "apex-girls",
@@ -402,13 +402,13 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 51
+      "active": 16,
+      "total": 52
     },
     {
       "slug": "dungeon-hunter6-awakening",
-      "active": 14,
-      "total": 40
+      "active": 15,
+      "total": 41
     },
     {
       "slug": "cat-hero",
@@ -429,6 +429,11 @@
       "slug": "whoa-adventurers",
       "active": 12,
       "total": 12
+    },
+    {
+      "slug": "kalpa-of-universe",
+      "active": 11,
+      "total": 38
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -454,11 +459,6 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "kalpa-of-universe",
-      "active": 10,
-      "total": 37
     },
     {
       "slug": "syupeojinhwaseutori2",
