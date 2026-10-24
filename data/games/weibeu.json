@@ -1,0 +1,21 @@
+{
+  "slug": "weibeu",
+  "titleEn": "weibeu",
+  "titleKo": "웨이브",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-24T20:50:27.941Z",
+  "codes": [
+    {
+      "code": "C28BBDF9",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-14",
+      "sourceUrl": "https://blog.naver.com/muk_danbi/224440373075",
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "status": "active"
+    }
+  ]
+}
