@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-24T05:27:30.137Z",
+  "updatedAt": "2026-10-24T19:54:46.278Z",
   "codes": [
     {
       "code": "ToyOpen",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-24",
-      "status": "active"
+      "lastSeen": "2026-10-25",
+      "status": "expired"
     },
     {
       "code": "Toysamguk",
@@ -24,18 +24,8 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-24",
-      "status": "active"
-    },
-    {
-      "code": "RUNNINGBRO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
-      "firstSeen": "2026-10-11",
-      "lastSeen": "2026-10-24",
-      "status": "active"
+      "lastSeen": "2026-10-25",
+      "status": "expired"
     },
     {
       "code": "toy0704",
@@ -48,13 +38,23 @@
       "status": "expired"
     },
     {
+      "code": "RUNNINGBRO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
+      "firstSeen": "2026-10-11",
+      "lastSeen": "2026-10-25",
+      "status": "expired"
+    },
+    {
       "code": "Toy1M",
       "reward": "",
       "expiry": "2026-10-05",
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "expired"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "expired"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-10-10",
       "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "expired"
     },
     {

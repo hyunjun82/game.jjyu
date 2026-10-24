@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-24T05:31:50.577Z",
+  "updatedAt": "2026-10-24T19:58:28.872Z",
   "codes": [
     {
       "code": "10211STANNIVERSARY",
       "reward": "",
       "expiry": "2026-11-19",
-      "postedAt": "2026-10-24",
+      "postedAt": "2026-10-23",
       "sourceUrl": "https://blog.naver.com/kkodug9/224451589733",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/hyjueng/224438900871",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/hyjueng/224438900871",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/hyjueng/224438900871",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/hyjueng/224438900871",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     }
   ]
