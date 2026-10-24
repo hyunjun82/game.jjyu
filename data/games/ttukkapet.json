@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/ttukkapet/board/detail/8269521",
   "howTo": "",
   "postCount": 5,
-  "updatedAt": "2026-10-24T13:54:02.371Z",
+  "updatedAt": "2026-10-24T16:15:26.110Z",
   "codes": [
     {
       "code": "tatatata",
@@ -16,16 +16,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-24",
-      "status": "active"
-    },
-    {
-      "code": "tatamoon",
-      "reward": "",
-      "expiry": "2026-10-24",
-      "postedAt": "2026-09-25",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": "2026-11-27",
       "postedAt": "2026-08-29",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -43,7 +34,7 @@
       "expiry": "2026-11-27",
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -52,8 +43,17 @@
       "expiry": "2026-11-27",
       "postedAt": "2026-08-27",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
+    },
+    {
+      "code": "tatamoon",
+      "reward": "",
+      "expiry": "2026-10-24",
+      "postedAt": "2026-09-25",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-10-25",
+      "status": "expired"
     }
   ]
 }

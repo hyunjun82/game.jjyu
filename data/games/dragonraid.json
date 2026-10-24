@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Dragonraid/board/detail/8343612",
   "howTo": "쿠폰 페이지 에서 게임 계정으로 로그인 후 코드 입력 → 다음 게임 접속 시 지급 • 처음 시작하시는 분은 게임을 설치해 계정을 만든 뒤 쿠폰을 등록해 주세요. 보상은 로그인한 계정으로 지급됩니다. 드래곤 레이드는 준비한 것이 아직 많습니다. 앞으로 더 잘 만들어 가겠습니다. 함께해 주셔서 감사합니다.",
   "postCount": 2,
-  "updatedAt": "2026-10-24T13:55:46.261Z",
+  "updatedAt": "2026-10-24T16:17:13.701Z",
   "codes": [
     {
       "code": "DRAGONRAIDOPEN",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-10-20",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-10-25",
       "status": "active"
     }
   ]
