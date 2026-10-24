@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-24T13:50:59.399Z",
+  "generatedAt": "2026-10-24T17:13:58.217Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -21,16 +21,16 @@
       "titleEn": "Tree World"
     },
     {
-      "slug": "torchlight-infinite-kr",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight_Infinite"
-    },
-    {
       "slug": "romantic-gangho",
       "loungeId": "RomanticGangho",
       "titleKo": "낭만강호",
       "titleEn": "Romantic Gangho"
+    },
+    {
+      "slug": "torchlight-infinite-kr",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight_Infinite"
     },
     {
       "slug": "samgukji-kingdom",
@@ -43,6 +43,12 @@
       "loungeId": "Heartopia",
       "titleKo": "두근두근타운",
       "titleEn": "Heartopia"
+    },
+    {
+      "slug": "wtbk",
+      "loungeId": "wtbk",
+      "titleKo": "왓더뼈킹",
+      "titleEn": "wtbk"
     },
     {
       "slug": "arknights-endfield",
@@ -141,64 +147,10 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "neural-cloud",
-      "loungeId": "Neural_Cloud",
-      "titleKo": "뉴럴 클라우드",
-      "titleEn": "Neural Cloud"
-    },
-    {
-      "slug": "the-tale-of-five-kingdoms2",
-      "loungeId": "THE_TALE_OF_FIVE_KINGDOMS2",
-      "titleKo": "다섯 왕국 이야기2",
-      "titleEn": "The Tale Of Five Kingdoms2"
-    },
-    {
-      "slug": "ninety-thousand-acres",
-      "loungeId": "NINETY_THOUSAND_ACRES",
-      "titleKo": "9만 에이커",
-      "titleEn": "Ninety Thousand Acres"
-    },
-    {
-      "slug": "ninja-must-die",
-      "loungeId": "Ninja_Must_Die",
-      "titleKo": "닌자 머스트 다이",
-      "titleEn": "Ninja Must Die"
-    },
-    {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
-    },
-    {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
-      "slug": "plantis-zombie-gangsters",
-      "loungeId": "Plantis_Zombie_Gangsters",
-      "titleKo": "플랜티스와 좀비깡패",
-      "titleEn": "Plantis Zombie Gangsters"
-    },
-    {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
     },
     {
       "slug": "redmythnezha",
@@ -207,28 +159,10 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
       "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
-    },
-    {
-      "slug": "saint-girl",
-      "loungeId": "Saint_Girl",
-      "titleKo": "이세계 성녀 키우기",
-      "titleEn": "Saint Girl"
     },
     {
       "slug": "samguk-origin",
@@ -237,46 +171,10 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "samgukjiwar",
-      "loungeId": "samgukjiwar",
-      "titleKo": "삼국지:전란",
-      "titleEn": "Samgukjiwar"
-    },
-    {
-      "slug": "seondo-m",
-      "loungeId": "Seondo_M",
-      "titleKo": "선도M : 선마결전",
-      "titleEn": "Seondo M"
-    },
-    {
-      "slug": "sera-eternals",
-      "loungeId": "SERA_ETERNALS",
-      "titleKo": "세라: 이터널스",
-      "titleEn": "Sera Eternals"
-    },
-    {
-      "slug": "seraphim-saga",
-      "loungeId": "Seraphim_Saga",
-      "titleKo": "세라핌 사가: 날개소녀 키우기",
-      "titleEn": "Seraphim Saga"
-    },
-    {
-      "slug": "shoot-shoot",
-      "loungeId": "ShootShoot",
-      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
-      "titleEn": "Shoot Shoot"
-    },
-    {
-      "slug": "silver-and-blood",
-      "loungeId": "Silver_And_Blood",
-      "titleKo": "실버 앤 블러드",
-      "titleEn": "Silver And Blood"
-    },
-    {
-      "slug": "silver-palace",
-      "loungeId": "Silver_Palace",
-      "titleKo": "실버 팰리스",
-      "titleEn": "Silver Palace"
+      "slug": "skull-defense",
+      "loungeId": "Skull_Defense",
+      "titleKo": "스컬디펜스",
+      "titleEn": "Skull Defense"
     },
     {
       "slug": "star-of-the-overlord",
@@ -303,10 +201,58 @@
       "titleEn": "Toy Immortals"
     },
     {
-      "slug": "wtbk",
-      "loungeId": "wtbk",
-      "titleKo": "왓더뼈킹",
-      "titleEn": "wtbk"
+      "slug": "vigilante",
+      "loungeId": "Vigilante",
+      "titleKo": "비질란테",
+      "titleEn": "Vigilante"
+    },
+    {
+      "slug": "w-cross-world",
+      "loungeId": "W_CROSS_WORLD",
+      "titleKo": "더블유: 크로스월드",
+      "titleEn": "W Cross World"
+    },
+    {
+      "slug": "wandering-mercenary-force",
+      "loungeId": "wandering_mercenary_force",
+      "titleKo": "방랑용병단",
+      "titleEn": "Wandering Mercenary Force"
+    },
+    {
+      "slug": "warphero",
+      "loungeId": "warphero",
+      "titleKo": "워프히어로",
+      "titleEn": "Warphero"
+    },
+    {
+      "slug": "wild-hunt",
+      "loungeId": "Wild_Hunt",
+      "titleKo": "와일드헌트",
+      "titleEn": "Wild Hunt"
+    },
+    {
+      "slug": "evil-m-the-darkness-fable",
+      "loungeId": "Evil_M_The_Darkness_Fable",
+      "titleKo": "이블M: 어둠의 우화",
+      "titleEn": "Evil M The Darkness Fable"
+    },
+    {
+      "slug": "with",
+      "loungeId": "WITH",
+      "titleKo": "위드 : 신의 날개",
+      "titleEn": "With"
+    },
+    {
+      "slug": "wizards-survival",
+      "loungeId": "Wizards_Survival",
+      "titleKo": "나 혼자 클리어",
+      "titleEn": "Wizards Survival"
+    },
+    {
+      "slug": "woodcutter",
+      "loungeId": "woodcutter",
+      "titleKo": "선녀와 나무꾼 키우기 : 방치형 RPG",
+      "titleEn": "Woodcutter"
     }
   ]
 }
