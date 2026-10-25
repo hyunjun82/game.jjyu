@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-25T10:07:43.934Z",
+  "updatedAt": "2026-10-25T14:38:44.927Z",
   "codes": [
     {
       "code": "ToyOpen",
@@ -48,26 +48,6 @@
       "status": "expired"
     },
     {
-      "code": "toy777",
-      "reward": "",
-      "expiry": "2026-10-05",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/hwhgzrnhjegr/224453188653",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-25",
-      "status": "expired"
-    },
-    {
-      "code": "toy39",
-      "reward": "",
-      "expiry": "2026-10-05",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/hwhgzrnhjegr/224453188653",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-25",
-      "status": "expired"
-    },
-    {
       "code": "Toy1M",
       "reward": "",
       "expiry": "2026-10-05",
@@ -79,6 +59,26 @@
     },
     {
       "code": "Toy2026",
+      "reward": "",
+      "expiry": "2026-10-05",
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-25",
+      "status": "expired"
+    },
+    {
+      "code": "Toy777",
+      "reward": "",
+      "expiry": "2026-10-05",
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/2ungggg/224437423817",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-10-25",
+      "status": "expired"
+    },
+    {
+      "code": "Toy39",
       "reward": "",
       "expiry": "2026-10-05",
       "postedAt": "2026-10-10",
