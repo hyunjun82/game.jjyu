@@ -1,47 +1,42 @@
 {
- "generatedAt": "2026-10-24T10:47:22.474Z",
- "window": "20261022~20261024",
+ "generatedAt": "2026-10-25T04:27:54.476Z",
+ "window": "20261023~20261025",
  "lounges": 2348,
- "posts": 730,
- "couponPosts": 62,
+ "posts": 497,
+ "couponPosts": 49,
  "fixedTracked": [
-  "오피스 퀸 키우기 | S1-S189 | [이벤트] 「오피스 퀸 키우기」 SP 종정희!! 10월25일~10월28일"
+  "비지 세이비어 | y9cn5lqe | 10월 25일(일) 주말 쿠폰 안내",
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | CFTR685 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/25 깜짝 쿠폰!",
+  "로그W: 리메인즈 오브 갓 | pffkm2s | 10/25 독도의 날 기념 쿠폰"
  ],
- "addedLounges": [
-  "야생소녀: 리버스 (wildgirls_rebirth) → /wildgirls-rebirth/ | WGCBTGIFT"
- ],
+ "addedLounges": [],
  "labelOnly": [
-  "이사만루26 | 2026-10-22 | [이벤트] 키워드 쿠폰 이벤트 안내",
-  "뱅드림! 아워 노트 | 2026-10-22 | 【Ave Mujica 7th LIVE 「Virtus」 해외 스트리밍 특전 안내】",
-  "이터널 리턴 | 2026-10-22 | 이터리 ㄱ? 꾸브라 ㄲ? 이터널 리턴 X 꾸브라꼬 숯불치킨 꾸브타임 콜라보!",
   "DoE: 던전앤엑자일 | 2026-10-23 | 던전 저항 육성 가이드",
   "드림 가든: 추억의 힐링 경영 | 2026-10-23 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "포트리스3 BLUE | 2026-10-22 | 이블벨라의 할로윈 축제 🎃 이벤트 3종 안내",
   "귀혼M | 2026-10-23 | [이벤트] 펫투게더 출시 기념 콜라보 이벤트 2탄 안내",
   "사북: 아이스 킹덤 | 2026-10-23 | <사북: 아이스 킹덤> 실루엣 퀴즈",
   "도적 키우기: 오픈필드 방치형 RPG | 2026-10-24 | 도적 키우기 정식 오픈 기념 쿠폰",
-  "이모탈 라이징: 불멸의 각성 | 2026-10-22 | 🌕 [만월의 축제] 지금 시작!",
   "루미마스터 | 2026-10-23 | [라운지 이벤트]  <루미마스터> '장난의 날' 출석체크 이벤트 오픈!🎁",
-  "동방 찻집 | 2026-10-22 | 🎉함께 보낸 한 해 간단 퀘스트 당첨자 발표!",
   "몬스터헌터 아웃랜더스 | 2026-10-23 | 【MHO】 커뮤니티 이벤트 규약",
-  "대항해의길 | 2026-10-22 | [이벤트] 대항해의길 9주년 축하 댓글 이벤트",
-  "대항해의길 | 2026-10-22 | [이벤트] 대항해의길 신규 항구 인증! 이벤트",
+  "승리의 여신: 니케 | 2026-10-24 | 4주년 특별 방송 기념 교환 코드 안내",
   "전생했더니 검 한 자루 | 2026-10-24 | 💌사전예약 퀴즈 이벤트 1탄!",
   "전생했더니 검 한 자루 | 2026-10-23 | 🍗BHC 치킨 세트 뽑기 가능!검령 테스트 결과 공유 이벤트🗡️",
-  "전생했더니 검 한 자루 | 2026-10-22 | ✨갤럭시 Z 폴드8 울트라 추첨! 사전예약 인증 이벤트🔥",
-  "전생했더니 검 한 자루 | 2026-10-22 | ⭐최신 아이폰 듀오 추첨! 스토어 사전등록 인증 이벤트 1탄⭐",
-  "타워 오브 판타지 | 2026-10-22 | 6.4 버전 「운명이 교차하는 시공간」 일러스트 공모전 시작!",
+  "슬라임 군단 | 2026-10-25 | [이벤트] 가을 풍경 속 다른 한 곳! 🍂",
   "Total Football - 25/26 시즌 | 2026-10-23 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (10/26 ~ 11/1)"
  ],
  "imageOnly": [
   {
-   "game": "이사만루26",
-   "loungeId": "24manru3",
-   "feedId": 8350831,
-   "date": "2026-10-22",
-   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
+   "game": "승리의 여신: 니케",
+   "loungeId": "nikke",
+   "feedId": 8360948,
+   "date": "2026-10-24",
+   "title": "4주년 특별 방송 기념 교환 코드 안내",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfMjMw/MDAxNzkyODMyOTcwNTgy.xF6k346k4N20FOjgD4nCU7PeE3kasUSpnT6HtOqdeNgg.NU9p6HZCDfY3toFBrOPJPXFW_fjFWzKIM3JKITd5jncg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_0.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNDAg/MDAxNzkyODMyOTcwNjIx.Af3fy6zi2qX64pFpnwIXkf_uvFsn-O0vb_eBclAiqiYg.tyXe0YJ80RKBGl9ddkLwTaAcQIHoJLfey805bLjyONEg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_1.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNjIg/MDAxNzkyODMyOTcwNjIw.sGnSrgFeN6NCicnp3i8CcLO14V3meO8kYVsx1pSNEaUg.ZMx12e3y7lNEvEdFt65pfRG5O446GsQ3JB9TxwB_lscg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_2.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNjIg/MDAxNzkyODMyOTcwNjA2.cK_9AIPVEiBckS1JeRcAkDijGbuy7YU3pxJaQD2iXU0g.rmVPwvBWa2MR381sOVjj5iS24l6aOAqTSfAcHFNcD-sg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_3.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfOTgg/MDAxNzkyODMyOTcwNjU0.GqbCujSqiYDa-36N0C8cSgCPBsypp18VxgPpKVoGB_4g.Rmvwr3HEneeKxRS1wKZXFORWMmnRJUs3-popFCvpRmMg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_4.jpg?type=w1678"
    ]
   }
  ]

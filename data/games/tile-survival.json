@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-24T20:44:54.703Z",
+  "updatedAt": "2026-10-25T04:46:21.443Z",
   "codes": [
+    {
+      "code": "TS777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224451714751",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-25",
+      "status": "active"
+    },
+    {
+      "code": "TS999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224451714751",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-25",
+      "status": "active"
+    },
+    {
+      "code": "TS888",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224451714751",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-25",
+      "status": "active"
+    },
     {
       "code": "DISCORD50K",
       "reward": "",
@@ -25,36 +55,6 @@
       "sourceUrl": "https://blog.naver.com/liilllilililiii/224431359719",
       "firstSeen": "2026-10-05",
       "lastSeen": "2026-10-07",
-      "status": "expired"
-    },
-    {
-      "code": "TS777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224426569482",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-25",
-      "status": "expired"
-    },
-    {
-      "code": "TS888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224426569482",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-25",
-      "status": "expired"
-    },
-    {
-      "code": "TS999",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224426569482",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-25",
       "status": "expired"
     }
   ]

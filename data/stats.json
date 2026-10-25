@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-25T00:49:33.932Z",
+  "generatedAt": "2026-10-25T04:57:47.718Z",
   "today": "2026-10-25",
-  "todayNew": 8,
+  "todayNew": 15,
   "totals": {
-    "games": 327,
-    "codes": 4687,
-    "active": 726,
-    "expired": 3961,
-    "withExpiry": 2709
+    "games": 328,
+    "codes": 4694,
+    "active": 736,
+    "expired": 3958,
+    "withExpiry": 2712
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-25",
-      "count": 8
+      "count": 15
     }
   ],
   "expiringSoon": [
@@ -372,8 +372,8 @@
   "topGames": [
     {
       "slug": "rogw-remains-of-gods",
-      "active": 23,
-      "total": 23
+      "active": 24,
+      "total": 24
     },
     {
       "slug": "apex-girls",
@@ -401,14 +401,14 @@
       "total": 52
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 53
+    },
+    {
       "slug": "dungeon-hunter6-awakening",
       "active": 15,
       "total": 41
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 52
     },
     {
       "slug": "cat-hero",
@@ -431,6 +431,11 @@
       "total": 12
     },
     {
+      "slug": "busy-savior",
+      "active": 11,
+      "total": 34
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
@@ -439,11 +444,6 @@
       "slug": "astro-defenders",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 10,
-      "total": 33
     },
     {
       "slug": "byeolbyeol-hero",
@@ -471,5 +471,5 @@
       "total": 10
     }
   ],
-  "noImage": 62
+  "noImage": 63
 }

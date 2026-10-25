@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-24T20:50:27.941Z",
+  "updatedAt": "2026-10-25T04:52:18.568Z",
   "codes": [
     {
       "code": "C28BBDF9",
@@ -13,6 +13,16 @@
       "expiry": null,
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/muk_danbi/224440373075",
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "status": "active"
+    },
+    {
+      "code": "E03D6FFC",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-13",
+      "sourceUrl": "https://blog.naver.com/sebongluv/224440745787",
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-25",
       "status": "active"
