@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-25T14:42:01.372Z",
+  "updatedAt": "2026-10-25T16:24:33.847Z",
   "codes": [
-    {
-      "code": "CODMOON888",
-      "reward": "",
-      "expiry": "2026-10-25",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-25",
-      "status": "active"
-    },
     {
       "code": "CODFMFGIFT",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
       "status": "active"
     },
     {
@@ -34,8 +24,18 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
       "status": "active"
+    },
+    {
+      "code": "CODMOON888",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     }
   ]
 }

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/horizonwalker/board/detail/8259699",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-25T14:29:43.146Z",
+  "updatedAt": "2026-10-25T16:25:39.482Z",
   "codes": [
     {
       "code": "Starplatina2011",
@@ -16,8 +16,8 @@
       "expiry": "2026-10-25",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-25",
-      "status": "active"
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "Kikito20",
@@ -25,8 +25,8 @@
       "expiry": "2026-10-25",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-25",
-      "status": "active"
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "zazafell",
@@ -34,8 +34,8 @@
       "expiry": "2026-10-25",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-25",
-      "status": "active"
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "Sandwich777",
@@ -43,8 +43,8 @@
       "expiry": "2026-10-25",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-25",
-      "status": "active"
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "WARRMAKERR",
@@ -52,26 +52,8 @@
       "expiry": "2026-10-25",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-25",
-      "status": "active"
-    },
-    {
-      "code": "HW2NDANNIVCHA",
-      "reward": "",
-      "expiry": "2026-10-25",
-      "postedAt": "2026-08-27",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-10-25",
-      "status": "active"
-    },
-    {
-      "code": "HW2NDANNIVWPN",
-      "reward": "",
-      "expiry": "2026-10-25",
-      "postedAt": "2026-08-27",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-10-25",
-      "status": "active"
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "summer",
@@ -80,6 +62,24 @@
       "postedAt": "2026-07-02",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-22",
+      "status": "expired"
+    },
+    {
+      "code": "HW2NDANNIVCHA",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "HW2NDANNIVWPN",
+      "reward": "",
+      "expiry": "2026-10-25",
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-26",
       "status": "expired"
     },
     {

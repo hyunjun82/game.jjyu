@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-25T14:41:28.768Z",
+  "updatedAt": "2026-10-25T16:23:56.601Z",
   "codes": [
     {
       "code": "애플1위풍악을울려라",
@@ -14,17 +14,7 @@
       "postedAt": "2026-10-17",
       "sourceUrl": "https://blog.naver.com/dbs_jln/224444400211",
       "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-25",
-      "status": "active"
-    },
-    {
-      "code": "도깨비의마음",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-12",
-      "sourceUrl": "https://blog.naver.com/qorgusdo3339/224439154748",
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
       "status": "active"
     },
     {
@@ -36,6 +26,16 @@
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-25",
       "status": "active"
+    },
+    {
+      "code": "도깨비의마음",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-12",
+      "sourceUrl": "https://blog.naver.com/qorgusdo3339/224439154748",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-25",
+      "status": "expired"
     },
     {
       "code": "COKER",
