@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-25T05:14:06.961Z",
+  "updatedAt": "2026-10-25T10:04:47.158Z",
   "codes": [
+    {
+      "code": "WOS1025",
+      "reward": "",
+      "expiry": "2026-10-27",
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/jjuba424/224453185399",
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-25",
+      "status": "active"
+    },
     {
       "code": "SPORTSDAY26",
       "reward": "",

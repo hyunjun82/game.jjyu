@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-25T05:06:12.422Z",
+  "generatedAt": "2026-10-25T09:56:50.503Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -153,12 +153,6 @@
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "queen-of-tower",
-      "loungeId": "Queen_of_Tower",
-      "titleKo": "연무무쌍 : Queen of Tower",
-      "titleEn": "Queen Of Tower"
-    },
-    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
@@ -177,34 +171,10 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "slingshooter",
-      "loungeId": "slingshooter",
-      "titleKo": "용사의 모험: 슬링슈터",
-      "titleEn": "Slingshooter"
-    },
-    {
-      "slug": "solosamguk",
-      "loungeId": "solosamguk",
-      "titleKo": "나 혼자 만렙 삼국",
-      "titleEn": "Solosamguk"
-    },
-    {
-      "slug": "soul-land-second-coming",
-      "loungeId": "Soul_Land_Second_Coming",
-      "titleKo": "소울랜드:세컨드 커밍",
-      "titleEn": "Soul Land Second Coming"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
       "titleEn": "Star Of The Overlord"
-    },
-    {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
     },
     {
       "slug": "stone-three-kingdoms",
@@ -213,28 +183,10 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
       "slug": "survivorio",
       "loungeId": "Survivorio",
       "titleKo": "탕탕특공대",
       "titleEn": "Survivorio"
-    },
-    {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
     },
     {
       "slug": "toy-immortals",
