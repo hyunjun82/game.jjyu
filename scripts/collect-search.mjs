@@ -264,6 +264,8 @@ export async function collectOne(g) {
       return at >= 0 && !(at > 0 && /[가-힣A-Za-z0-9]/.test(sTitle[at - 1]));
     });
     if (!hit) continue;
+    // 구독 공유 서비스 할인 쿠폰 글(피클플러스 — 웨이브·챗GPT 등)은 게임 글이 아니다(2026-10-26).
+    if (/피클플러스|구독\s*쉐어|공동\s*구독/.test(text)) continue;
     if (![g.titleKo, ...(g.aliases || [])].some((n) => squash(text).includes(squash(n)))) continue;
     scanned++;
 

@@ -24,7 +24,11 @@
       "titleKo": "컴투스프로야구V26",
       "titleEn": "Com2us_ProBaseballV22",
       "loungeId": "Com2us_ProBaseballV22",
-      "found": "2026-10-06"
+      "found": "2026-10-06",
+      "aliases": [
+        "컴프야 V26",
+        "컴프야V26"
+      ]
     },
     {
       "slug": "solinchaenteu",
@@ -137,18 +141,6 @@
       "found": "2026-10-23"
     },
     {
-      "slug": "weibeu",
-      "titleKo": "웨이브",
-      "titleEn": "weibeu",
-      "found": "2026-10-25"
-    },
-    {
-      "slug": "keompeuya-v26",
-      "titleKo": "컴프야 V26",
-      "titleEn": "keompeuya-v26",
-      "found": "2026-10-25"
-    },
-    {
       "slug": "chongjapi-goyangi",
       "titleKo": "총잡이 고양이",
       "titleEn": "chongjapi-goyangi",
@@ -157,6 +149,7 @@
   ],
   "rejected": [
     "라그나로크M 클래식",
+    "웨이브",
     "피클플러스 챗지피티"
   ]
 }

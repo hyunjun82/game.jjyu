@@ -340,13 +340,14 @@ export function parseCodes(text, postISO) {
   const postExpiry = untilDates.size <= 1 ? parseExpiry(textJ, postISO) : parseExpiry(text, postISO, false, true);
   const found = new Map();
 
-  const push = (code, expiry, labeled = false, ko = false) => {
+  const push = (code, expiry, labeled = false, ko = false, ended = false) => {
     if (!(ko ? hangulCode(code) : isSaneCode(code, labeled))) return;
     const key = code.toUpperCase();
     if (!found.has(key)) {
       let exp = expiry || postExpiry;
       // 글보다 앞선 만료일은 발행처 오타다("마감일: 2025.10.13" — 2026-09-25 추석 글, 추억의 잡화점). 믿지 않는다.
-      if (exp && postISO && exp < postISO) exp = null;
+      // 단 "끝난 날" 칸에 적힌 날짜는 진짜로 지난 날이다(ended).
+      if (exp && postISO && exp < postISO && !ended) exp = null;
       found.set(key, { code, reward: '', expiry: exp, postedAt: postISO || null });
     }
   };
@@ -433,7 +434,9 @@ export function parseCodes(text, postISO) {
   // 이러면 코드와 "쿠폰코드" 라벨이 15줄까지 벌어져 ±3줄 규칙에 안 걸린다(나 혼자 만렙 키우기 실측).
   // 헤더 개수만큼 칸을 세어 값 줄을 맞추면 코드도 종료일도 정확히 집힌다. 행이 여러 개면 계속 읽는다.
   const CODE_LABEL = /^(?:쿠폰\s*(?:코드|명|번호)|코드|교환\s*코드|선물\s*코드|기프트\s*코드)$/;
-  const END_LABEL = /종료|만료|사용\s*기한|유효|마감/;   // "등록 마감·한국시간" 칸(카제나)
+  // "입력 기한"(컴프야 V26 블로그), "끝난 날"(같은 글의 지난 쿠폰 표)도 종료일 칸이다(2026-10-26).
+  const END_LABEL = /종료|만료|기한|유효|마감|끝난|끝나는/;   // "등록 마감·한국시간" 칸(카제나)
+  const ENDED_LABEL = /끝난|종료된|만료된|지난/;
   const HEADER_CELL = /^.{1,14}$/;
   // 코드 칸 자리에 온 값은 "GXGGSalome", "FirethiefGoddess" 처럼 대소문자 섞인 영문만이어도 코드다 — 헤더가 라벨 구실을 한다.
   // 이걸 못 받아 그놈은 드래곤 코드 2개를 놓쳤다(2026-10-01 검수).
@@ -450,15 +453,31 @@ export function parseCodes(text, postISO) {
     if (width < 2 || !(cellCode(j) || koCell(i, j))) continue;               // 표가 아니거나 첫 값이 코드가 아니면 버린다
     const headers = lines.slice(i, j);
     const endAt = headers.findIndex((h) => END_LABEL.test(h));
+    const ended = endAt > 0 && ENDED_LABEL.test(headers[endAt]);
     for (let row = j; row + width <= lines.length && (cellCode(row) || (row === j && koCell(i, j))); row += width) {
       const cells = lines.slice(row, row + width);
       let exp = null;
       if (endAt > 0) exp = parseExpiry(cells[endAt] + ' 까지', postISO) || parseExpiry(cells[endAt], postISO, true);
       const code = tokenOf(cells[0]) || cells[0];
-      push(code, exp, true, hangulCode(cells[0]));
+      push(code, exp, true, hangulCode(cells[0]), ended && !!exp);
+      // "쿠폰 기한" 칸이 "영구"인 코드는 기한 없는 상시 쿠폰이다 — 게시 14일 규칙으로 내리면 안 된다(그레이 사가 graygogo 등, 2026-10-26).
+      const got = found.get(code.toUpperCase());
+      if (got && !got.expiry && endAt > 0 && /^(?:영구|무기한|상시|기한\s*없음|제한\s*없음)/.test(cells[endAt])) got.expiryFrom = 'permanent';
       // 앞 규칙이 같은 코드를 만료일 없이 먼저 넣었으면 표의 종료일 칸으로 채운다.
       const prev = found.get(code.toUpperCase());
-      if (prev && !prev.expiry && exp && !(postISO && exp < postISO)) prev.expiry = exp;
+      if (prev && !prev.expiry && exp && (ended || !(postISO && exp < postISO))) prev.expiry = exp;
+    }
+  }
+  // 기한 칸이 "영구"인 코드 — 표 칸이 줄마다 고르게 안 끊겨 위 (마) 규칙이 칸을 못 맞추는 글이 있다(라운지 목록 응답, 그레이 사가).
+  // 코드 바로 다음 줄이 "영구"이고 앞쪽에 "기한" 머리 칸이 있으면 기한 없는 상시 쿠폰으로 본다.
+  {
+    const headAt = lines.findIndex((l) => /^.{0,8}(?:기한|만료|유효\s*기간)$/.test(l));
+    if (headAt >= 0) {
+      for (let k = headAt + 1; k + 1 < lines.length; k++) {
+        if (!/^(?:영구|무기한|상시|기한\s*없음|제한\s*없음)$/.test(lines[k + 1])) continue;
+        const got = found.get(String(tokenOf(lines[k]) || lines[k]).toUpperCase());
+        if (got && !got.expiry) got.expiryFrom = 'permanent';
+      }
     }
   }
   // (바) "쿠폰 명" 라벨 바로 아랫줄의 한글 코드 — "🎫 쿠폰 명 / -. 26추석".
@@ -553,7 +572,7 @@ function merge(prev, freshCodes) {
     if (c.expiry) c.status = c.expiry < today ? 'expired' : 'active';
     // 게임사가 종료일 없이 "진행 중"으로 걸어 둔 이벤트의 코드는 게시 후 14일 규칙을 안 탄다.
     // 이벤트가 내려가면 다음 수집에서 fresh 에 안 잡혀 expired 로 내려간다.
-    else if (c.expiryFrom === 'event-open' && c.status === 'active') c.status = 'active';
+    else if ((c.expiryFrom === 'event-open' || c.expiryFrom === 'permanent') && c.status === 'active') c.status = 'active';
     else if (isStale(c.postedAt, today)) c.status = 'expired';
   }
 

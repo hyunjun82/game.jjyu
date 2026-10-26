@@ -92,7 +92,7 @@ async function get(url, tries = 3) {
 function liveCount(codes, today) {
   return codes.filter((x) => x.expiry
     ? x.expiry >= today
-    : x.expiryFrom === 'event-open'
+    : x.expiryFrom === 'event-open' || x.expiryFrom === 'permanent'
       || !(x.postedAt && (Date.parse(today) - Date.parse(x.postedAt)) / 86400000 > 14)).length;
 }
 
