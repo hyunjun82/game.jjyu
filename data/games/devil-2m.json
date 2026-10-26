@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjRfMjY4/MDAxNzg0ODU3NDczODQ4.FgGrh8xqe0I6_XZFRHYAMSCnp6ebQHTqpXC2TxGh8uwg.VB0NtnV4gnuTLg8bzXSuhFCY5M0cccV2RgxkjvDYiQAg.PNG/300x300.png",
   "source": "naver-lounge",
   "loungeId": "Devil_2M",
-  "sourceUrl": "https://game.naver.com/lounge/Devil_2M/board/detail/8339344",
+  "sourceUrl": "https://game.naver.com/lounge/Devil_2M/board/detail/8367597",
   "howTo": "오른쪽 상단의 [혜택] 클릭 -> 마지막 탭 [접속 패키지]를 클릭-> 선물쿠폰 코드를 입력하시면 선물을 수령하실 수 있습니다~ 고객센터 문의방법: 메인 화면-> 계정 관리 -> 고객센터",
-  "postCount": 3900,
-  "updatedAt": "2026-10-25T23:25:06.750Z",
+  "postCount": 3901,
+  "updatedAt": "2026-10-26T01:32:20.515Z",
   "codes": [
+    {
+      "code": "debop1026",
+      "reward": "",
+      "expiry": "2026-11-02",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "deaop1019",
       "reward": "",
@@ -363,15 +372,6 @@
       "status": "expired"
     },
     {
-      "code": "lhgsv0302",
-      "reward": "",
-      "expiry": "2026-03-09",
-      "postedAt": "2026-03-02",
-      "firstSeen": "2026-09-14",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
       "code": "DMday711",
       "reward": "",
       "expiry": "2025-08-31",
@@ -430,6 +430,15 @@
       "reward": "",
       "expiry": "2025-11-17",
       "postedAt": "2025-11-10",
+      "firstSeen": "2026-09-14",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "lhgsv0302",
+      "reward": "",
+      "expiry": "2026-03-09",
+      "postedAt": "2026-03-02",
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-10-26",
       "status": "expired"

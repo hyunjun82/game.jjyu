@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTEyMjJfNjkg/MDAxNzY2MzY4NDYxMzQ3.qWMN0mlr-wswu-xtQFWdxwv8YyFxYF1ru_otqXkPwFYg.0QdCDv4k6OH9Un5KX4Ov_UvghUBVDbt3yeVdJ4IxZS4g.PNG/%E5%85%AC%E5%91%8A-%E7%89%B9%E6%AE%8A%E7%A4%BC%E5%8C%85%E7%A0%811000x220.png",
   "source": "naver-lounge",
   "loungeId": "Ghostvengers",
-  "sourceUrl": "https://game.naver.com/lounge/Ghostvengers/board/detail/8339340",
+  "sourceUrl": "https://game.naver.com/lounge/Ghostvengers/board/detail/8367513",
   "howTo": "1. 좌측 상단의 프로필 아이콘 2. 하단의 [설정] → [교환코드] 3. 교환코드(쿠폰) 입력 4. 보상 아이템 확인 🔴주의사항",
-  "postCount": 1611,
-  "updatedAt": "2026-10-25T23:26:09.859Z",
+  "postCount": 1612,
+  "updatedAt": "2026-10-26T01:33:24.567Z",
   "codes": [
+    {
+      "code": "B8S3QNXV",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "hangulday",
       "reward": "",
@@ -308,19 +317,19 @@
       "status": "expired"
     },
     {
-      "code": "94LSMPDO",
+      "code": "WC2026",
       "reward": "",
-      "expiry": "2026-03-29",
-      "postedAt": "2026-03-23",
+      "expiry": "2026-06-30",
+      "postedAt": "2026-06-12",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-26",
       "status": "expired"
     },
     {
-      "code": "WC2026",
+      "code": "94LSMPDO",
       "reward": "",
-      "expiry": "2026-06-30",
-      "postedAt": "2026-06-12",
+      "expiry": "2026-03-29",
+      "postedAt": "2026-03-23",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-26",
       "status": "expired"

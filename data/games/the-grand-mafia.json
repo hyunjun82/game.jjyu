@@ -2,14 +2,23 @@
   "slug": "the-grand-mafia",
   "titleEn": "The Grand Mafia",
   "titleKo": "더 그랜드 마피아",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMTUg/MDAxNzkyMTQ3ODEwNTE0.aEa0di_-OVVmzyC-yzoo3tIM-d0yuRd_t0794ycfVvsg.Z3XIgNPtHJdI4dmovSE9cRD45ajXzu_G4UD-3LBBNDYg.PNG/TRX9FD4HWK.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfMjQ5/MDAxNzkyNzUyODU1NzM4.dFFchh3QoC-fdaKHQYMqzkKKn160O_lynEmDr0cn2GAg.aORBUoYg-n_rOgkXceGtD3ZGZpTUyECUf0-Kl8XfixQg.PNG/HALLOWEEN26.png",
   "source": "naver-lounge",
   "loungeId": "The_Grand_Mafia",
-  "sourceUrl": "https://game.naver.com/lounge/The_Grand_Mafia/board/detail/8339192",
+  "sourceUrl": "https://game.naver.com/lounge/The_Grand_Mafia/board/detail/8367312",
   "howTo": "",
-  "postCount": 14,
-  "updatedAt": "2026-10-25T23:26:49.893Z",
+  "postCount": 15,
+  "updatedAt": "2026-10-26T01:34:07.914Z",
   "codes": [
+    {
+      "code": "HALLOWEEN26",
+      "reward": "",
+      "expiry": "2026-11-02",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "TRX9FD4HWK",
       "reward": "",
