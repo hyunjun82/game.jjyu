@@ -2,14 +2,23 @@
   "slug": "merge-seasons",
   "titleEn": "Merge Seasons",
   "titleKo": "머지 시즌스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTZfMjc3/MDAxNzkyMTMyNzE0MjU1.qyOV7nefYr2SKb04GeavaIig0zxOd3XqmYu6IjhO1Bsg.zv2a7W929iqkedDIJfBq3IAxivozTha8RoELqfifrFQg.PNG/%E9%9F%A9%E5%8C%BA.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfMTkw/MDAxNzkyNzM2NTU2Nzc2._T4ks-dod_APwrGzAdjsmjLSO7JNXbGEAwetxY42M-wg.LldhgPeHdyIZwUw8vizbvKmrVGQibBVBqgM0uyv0olog.PNG/%E9%9F%A9%E5%8C%BA.png",
   "source": "naver-lounge",
   "loungeId": "Merge_Seasons",
-  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8339481",
+  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8367730",
   "howTo": "1️⃣ 게임 메인 화면으로 접속해 주세요. 2️⃣ 왼쪽 상단 [노란색 삼각형 아이콘 ◀️]을 눌러 [설정]으로 들어가세요. 3️⃣",
-  "postCount": 21,
-  "updatedAt": "2026-10-26T01:34:54.607Z",
+  "postCount": 22,
+  "updatedAt": "2026-10-26T04:26:57.454Z",
   "codes": [
+    {
+      "code": "partytime",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "goldenautumn",
       "reward": "",

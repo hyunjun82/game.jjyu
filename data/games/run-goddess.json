@@ -6,10 +6,181 @@
   "source": "naver-lounge",
   "loungeId": "Run_Goddess",
   "sourceUrl": "https://game.naver.com/lounge/Run_Goddess/board/detail/8244601",
-  "howTo": "1️⃣ 아이콘(상단) 클릭 2️⃣ 설정 → 코드 입력 클릭 3️⃣ [CODE] 입력 후 선물을 받으세요! 📌Join Discord: https://discord.gg/gp43z6hcpX 🔗Download link：https://reurl.cc/oKVdDj",
-  "postCount": 1,
-  "updatedAt": "2026-10-26T01:35:09.075Z",
+  "howTo": "1️⃣ 아이콘(상단) 클릭 2️⃣ 설정 → 코드 입력 클릭 3️⃣ [CODE] 입력 후 선물을 받으세요! 📌Join Discord: https://discord.gg/gp43z6hcpX",
+  "postCount": 20,
+  "updatedAt": "2026-10-26T04:27:11.085Z",
   "codes": [
+    {
+      "code": "SEPTGARDEN",
+      "reward": "",
+      "expiry": "2026-09-21",
+      "postedAt": "2026-09-19",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "SEPTAUTUMN",
+      "reward": "",
+      "expiry": "2026-09-14",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "SEPTFLOWER",
+      "reward": "",
+      "expiry": "2026-09-07",
+      "postedAt": "2026-09-05",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "AUGSHELLRG",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-08-29",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "AUGFLOWER1",
+      "reward": "",
+      "expiry": "2026-08-24",
+      "postedAt": "2026-08-22",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "AUGTRAVEL1",
+      "reward": "",
+      "expiry": "2026-08-17",
+      "postedAt": "2026-08-14",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "RGAUGUSTGO",
+      "reward": "",
+      "expiry": "2026-08-10",
+      "postedAt": "2026-08-08",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "LUCKYAUGRG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "JULHARVEST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-07-25",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "RGLUCKYJUL",
+      "reward": "",
+      "expiry": "2026-07-13",
+      "postedAt": "2026-07-11",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "JULFREEDOM",
+      "reward": "",
+      "expiry": "2026-07-06",
+      "postedAt": "2026-07-04",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "JUNELUCKY1",
+      "reward": "",
+      "expiry": "2026-06-29",
+      "postedAt": "2026-06-27",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "RGJUNHAPPY",
+      "reward": "",
+      "expiry": "2026-06-22",
+      "postedAt": "2026-06-20",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "JUNETRAVEL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-13",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "JUNEHAPPY1",
+      "reward": "",
+      "expiry": "2026-06-08",
+      "postedAt": "2026-06-06",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "RGCHILDREN",
+      "reward": "",
+      "expiry": "2026-06-08",
+      "postedAt": "2026-06-01",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "MAYHARVEST",
+      "reward": "",
+      "expiry": "2026-06-01",
+      "postedAt": "2026-05-30",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "MAYJASMINE",
+      "reward": "",
+      "expiry": "2026-05-25",
+      "postedAt": "2026-05-23",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "FRESHENERG",
+      "reward": "",
+      "expiry": "2026-05-19",
+      "postedAt": "2026-05-16",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
     {
       "code": "SEPTWISDOM",
       "reward": "",

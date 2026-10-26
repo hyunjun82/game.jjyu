@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T01:50:25.358Z",
+  "generatedAt": "2026-10-26T04:40:33.761Z",
   "today": "2026-10-26",
-  "todayNew": 7,
+  "todayNew": 39,
   "totals": {
-    "games": 330,
-    "codes": 4707,
-    "active": 713,
-    "expired": 3994,
-    "withExpiry": 2721
+    "games": 328,
+    "codes": 4734,
+    "active": 730,
+    "expired": 4004,
+    "withExpiry": 2749
   },
   "newByDate": [
     {
@@ -60,11 +60,11 @@
     },
     {
       "date": "2026-10-25",
-      "count": 21
+      "count": 16
     },
     {
       "date": "2026-10-26",
-      "count": 7
+      "count": 39
     }
   ],
   "expiringSoon": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "apex-girls",
-      "active": 21,
-      "total": 64
+      "active": 22,
+      "total": 65
     },
     {
       "slug": "aniimo",
@@ -391,19 +391,19 @@
       "total": 52
     },
     {
-      "slug": "dragon-traveler",
-      "active": 15,
-      "total": 81
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
-      "active": 15,
-      "total": 41
+      "active": 16,
+      "total": 42
     },
     {
       "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 54
+    },
+    {
+      "slug": "dragon-traveler",
       "active": 15,
-      "total": 53
+      "total": 81
     },
     {
       "slug": "cat-hero",
@@ -431,6 +431,16 @@
       "total": 34
     },
     {
+      "slug": "gray-saga",
+      "active": 11,
+      "total": 14
+    },
+    {
+      "slug": "kalpa-of-universe",
+      "active": 11,
+      "total": 39
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
@@ -451,11 +461,6 @@
       "total": 13
     },
     {
-      "slug": "kalpa-of-universe",
-      "active": 10,
-      "total": 38
-    },
-    {
       "slug": "syupeojinhwaseutori2",
       "active": 10,
       "total": 10
@@ -464,12 +469,7 @@
       "slug": "windeureoneo-kiugi",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "active": 8,
-      "total": 8
     }
   ],
-  "noImage": 64
+  "noImage": 62
 }

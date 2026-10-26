@@ -8,8 +8,126 @@
   "sourceUrl": "https://game.naver.com/lounge/Gray_Saga/board/detail/8233588",
   "howTo": "게임 로그인 후 화면 좌측 상단에 있는 [혜택] 아이콘을 터치해 주세요. 메뉴 리스트에서 [고객센터]를 선택해 주세요.",
   "postCount": 1208,
-  "updatedAt": "2026-10-26T01:31:22.397Z",
+  "updatedAt": "2026-10-26T04:23:47.103Z",
   "codes": [
+    {
+      "code": "svip7777",
+      "reward": "",
+      "expiry": "2030-12-31",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "svip8888",
+      "reward": "",
+      "expiry": "2030-12-31",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "SVIP666",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "SVIP777",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "arise666",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "collabogift",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "sololeveling",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "graygogo",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "svip6666",
+      "reward": "",
+      "expiry": "2030-12-31",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "SVIP888",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "KTHGIFT",
+      "reward": "",
+      "expiry": null,
+      "expiryFrom": "permanent",
+      "tag": "사전예약",
+      "postedAt": "2026-06-30",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "2026CHUSEOK",
       "reward": "",
@@ -20,121 +138,11 @@
       "status": "expired"
     },
     {
-      "code": "svip7777",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "svip8888",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "SVIP666",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "SVIP777",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "arise666",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
       "code": "graylounge",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-07-04",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "collabogift",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "sololeveling",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "graygogo",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "svip6666",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "SVIP888",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "KTHGIFT",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-06-30",
-      "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-26",
       "status": "expired"
     },

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Realgod/board/detail/8292796",
   "howTo": "",
   "postCount": 12,
-  "updatedAt": "2026-10-26T01:33:55.774Z",
+  "updatedAt": "2026-10-26T04:26:06.779Z",
   "codes": [
     {
       "code": "Z4RWNVRRVP",
@@ -27,6 +27,15 @@
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-10-26",
       "status": "active"
+    },
+    {
+      "code": "2ZA27DMCSL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-06",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "P1KP3D71Q9",

@@ -2,14 +2,23 @@
   "slug": "cross-idle-rpg",
   "titleEn": "Cross_Idle_RPG",
   "titleKo": "영주님은 죽지 않는다",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTRfMTI5/MDAxNzkxOTUyOTI3NDky.pTV300IoXWaXMqPHXtsAB90knncIx_Mgnxv_j30FFc0g.0IYguGIdCm-E0dAgCwPZOyEnmPrmbcc_WkK2f3H5vEwg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%97%A4%EB%8D%94.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMjQw/MDAxNzkyOTg0NTUxMjMw.RGXMmF9TvlMM7eAtw4GNRUfWSoOdAetwgytVLdBOzqEg.4zPQ7ZiQmBv_WWgYpN_eqWGiA1F9ZrPR7BlVFGDxzPYg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%91%B8%ED%84%B0.jpg",
   "source": "naver-lounge",
   "loungeId": "Cross_Idle_RPG",
-  "sourceUrl": "https://game.naver.com/lounge/Cross_Idle_RPG/board/detail/8324311",
+  "sourceUrl": "https://game.naver.com/lounge/Cross_Idle_RPG/board/detail/8368067",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-10-26T01:36:05.495Z",
+  "postCount": 3,
+  "updatedAt": "2026-10-26T04:28:01.622Z",
   "codes": [
+    {
+      "code": "TRICKOR150SKILL",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "THELORD2026",
       "reward": "",

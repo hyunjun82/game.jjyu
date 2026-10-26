@@ -2,14 +2,23 @@
   "slug": "heart-of-valor",
   "titleEn": "Heart of Valor",
   "titleKo": "부족 또 전쟁: 무한루프 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMTQ3/MDAxNzg5OTY4NTA2MjMy.Ek9l7BlrVfLPAXoGSnSku2lFJdquY1HFc9kzzW_zBw4g.AVg58wW1clXLEnkWeiIPjOhsr-5xjsLLUzGLOOCS_9Ag.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%83%80%EC%9D%B4%ED%8B%80.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMTI5/MDAxNzkyOTgxMzI3MjMz.3Mify-VuMGEhxo77CdmSrWMQjKE7jP9xJvP4n1tqX4og.3MI6Sajzo0e5AdK-6Bm2T8WnQpkw0afinl7e_9CWZ60g.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%83%80%EC%9D%B4%ED%8B%80.png",
   "source": "naver-lounge",
   "loungeId": "Heart_of_Valor",
-  "sourceUrl": "https://game.naver.com/lounge/Heart_of_Valor/board/detail/8226759",
-  "howTo": "게임 접속 → 좌측 상단 프로필 → 교환 코드 → HERO2SHADE 입력 ⚠️ 유의 사항 쿠폰 코드는 정확하게 입력해 주세요. 본 쿠폰은 2026년 10월 31일까지",
-  "postCount": 1,
-  "updatedAt": "2026-10-26T01:32:15.682Z",
+  "sourceUrl": "https://game.naver.com/lounge/Heart_of_Valor/board/detail/8367831",
+  "howTo": "《부족 또 전쟁》에 접속해 주세요. 게임 내 ‘활성화 코드’ 메뉴로 이동해 주세요. 쿠폰 코드 ANNY100DAYS를 입력하고 보상을 수령해 주세요. ⚠️ 유의 사항 본 쿠폰은 게임에 접속하는 모든 수호자님을 대상으로 제공됩니다.",
+  "postCount": 2,
+  "updatedAt": "2026-10-26T04:24:34.461Z",
   "codes": [
+    {
+      "code": "ANNY100DAYS",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "HERO2SHADE",
       "reward": "",

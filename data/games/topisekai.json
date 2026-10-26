@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MTNfNDcg/MDAxNzgzOTA5NzcyNzU1.FHCvBgY3m_2By6NOBqxQ-FJO29fYY4jkpa_8BuVA0mwg.QEwtxuXcEfiKmC6btWiPGe_baMMsBC4c66BVaCiHs4Eg.JPEG/10(5).jpg",
   "source": "naver-lounge",
   "loungeId": "topisekai",
-  "sourceUrl": "https://game.naver.com/lounge/topisekai/board/detail/8321485",
-  "howTo": "",
-  "postCount": 4,
-  "updatedAt": "2026-10-26T01:35:58.852Z",
+  "sourceUrl": "https://game.naver.com/lounge/topisekai/board/detail/8367711",
+  "howTo": "1. 공식 사이트에 접속하여 로그인 2. 우측 상단 메뉴 선택 →「선물 코드 교환」 클릭 3. 유저 ID와 선물 코드를 입력 후 「사용」을 누르면 교환 완료! 4. 수령 후, 게임 내 우편함에서 보상을 확인하세요! 또한, 기간 한정 특별 프로모션도 진행 중입니다.",
+  "postCount": 6,
+  "updatedAt": "2026-10-26T04:27:54.351Z",
   "codes": [
+    {
+      "code": "GhostFestival26",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "GRANDOPEN999",
       "reward": "",
@@ -27,6 +36,15 @@
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-26",
       "status": "active"
+    },
+    {
+      "code": "HOTSUMMER888",
+      "reward": "",
+      "expiry": "2026-08-15",
+      "postedAt": "2026-08-01",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
     },
     {
       "code": "MAIDENFALL10",
