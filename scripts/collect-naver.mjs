@@ -647,6 +647,11 @@ export async function collectOne(g) {
   // 제목·본문 라벨 조건은 똑같이 걸린다. 요청이 늘어나므로 4개까지만.
   const extra = all.filter((b) => !primary.includes(b) && !secondary.includes(b) && !SECTION_SKIP.test(b.boardName) && !b.memberAccessBoard).slice(0, 4);
   secondary.push(...extra);
+  // 유저도 글을 쓰는 "커뮤니티 이벤트" 게시판에 운영자가 선물 코드를 올리는 게임이 있다(성녀전쟁 GhostFestival26, 2026-10-26).
+  // 위 all 에서 빠지는 게시판이라 이벤트 이름인 것만 2개까지 따로 본다. 유저 글은 아래에서 어차피 거른다.
+  const memberEvents = (boardRes.content.boardViews || []).filter((v) => v.board).map((v) => v.board)
+    .filter((b) => b.memberWriteBoard && !b.memberAccessBoard && /이벤트|event/i.test(b.boardName) && !SECTION_SKIP.test(b.boardName)).slice(0, 2);
+  secondary.push(...memberEvents);
   // "이벤트 결과" 게시판의 당첨자 발표 글에 "교환 코드 : HANGEULGIFT" 처럼 모두가 쓰는 달성 보상 코드를 싣는 게임이 있다
   // (그놈은 드래곤, 2026-10-19 실측). 이 게시판은 "교환 코드 :" 같은 라벨이 본문에 있는 글만 읽는다.
   const results = all.filter((b) => /당첨|결과/.test(b.boardName) && !/종료|인증|후기|기대평/.test(b.boardName)
