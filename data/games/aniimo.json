@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T19:52:15.799Z",
+  "updatedAt": "2026-10-26T22:51:10.221Z",
   "codes": [
     {
       "code": "aniimazingfroyo",
@@ -18,21 +18,21 @@
       "status": "active"
     },
     {
-      "code": "aniimowelcome",
+      "code": "aniimoopenworld",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
     },
     {
-      "code": "aniimoopenworld",
+      "code": "aniimowelcome",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -41,18 +41,8 @@
       "code": "anyoneaniimo",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-27",
-      "status": "active"
-    },
-    {
-      "code": "aniimobonus",
-      "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -61,18 +51,8 @@
       "code": "twinewithaniimo",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-27",
-      "status": "active"
-    },
-    {
-      "code": "aniimoidyll",
-      "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -81,8 +61,28 @@
       "code": "aniimotogether",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "aniimoidyll",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "aniimobonus",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -91,8 +91,8 @@
       "code": "aniimofreetoplay",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -101,8 +101,8 @@
       "code": "aniimonow",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -111,8 +111,8 @@
       "code": "anythinganiimo",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -121,8 +121,8 @@
       "code": "anywhereaniimo",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -148,21 +148,21 @@
       "status": "active"
     },
     {
-      "code": "ANIIMOGIFT",
+      "code": "Aniimo2026",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-27",
       "status": "active"
     },
     {
-      "code": "Aniimo2026",
+      "code": "ANIIMOGIFT",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-27",
       "status": "active"
@@ -171,8 +171,8 @@
       "code": "aniimolaunch2026",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/naakey/224449153534",
+      "postedAt": "2026-09-30",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224427475353",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-27",
       "status": "active"

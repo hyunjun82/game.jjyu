@@ -1,43 +1,19 @@
 {
- "generatedAt": "2026-10-26T12:47:24.812Z",
- "window": "20261024~20261026",
+ "generatedAt": "2026-10-26T22:35:36.922Z",
+ "window": "20261025~20261027",
  "lounges": 2353,
- "posts": 481,
- "couponPosts": 51,
- "fixedTracked": [
-  "비스트 로드: The New Land | BL5372G2J | 🎉혜택 타임🎉",
-  "그랑사가 키우기: 나이츠x나이츠 | NTRPWI26PEARPR43 | [쿠폰] 10/26(월) 주간 깜짝 쿠폰 (26년 43주차)",
-  "호라이즌 워커 | misterrcreamy, trunkmonkey7858, nguyenhoangsson, sainti_xd, amazingtae97, kaynahara, toilaanday, wishmustard, rhermid, bimboo, xmaximobherx, lakota_04, rynhee, lushiro411, rasati, icsd33 | 《호라이즌 워커》 l 당첨자 발표 - 가루드 부관 인증 이벤트",
-  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-RUSH | [이벤트] 10월 26일 (월) ◈ 데일리 쿠폰!"
- ],
- "addedLounges": [
-  "요괴 키우기 (Yokai_Idle_RPG) → /yokai-idle-rpg/ | YOKAIRPG, WELCOMEYOKAI7, YOKAIXNAVER"
- ],
+ "posts": 347,
+ "couponPosts": 34,
+ "fixedTracked": [],
+ "addedLounges": [],
  "labelOnly": [
-  "도적 키우기: 오픈필드 방치형 RPG | 2026-10-24 | 도적 키우기 정식 오픈 기념 쿠폰",
-  "승리의 여신: 니케 | 2026-10-24 | 4주년 특별 방송 기념 교환 코드 안내",
   "전생했더니 검 한 자루 | 2026-10-26 | 🎧 Airpods 5 증정! SNS 공유 이벤트✨",
-  "전생했더니 검 한 자루 | 2026-10-24 | 💌사전예약 퀴즈 이벤트 1탄!",
   "슬라임 군단 | 2026-10-25 | [이벤트] 가을 풍경 속 다른 한 곳! 🍂",
   "소드 앤 프론티아 | 2026-10-26 | 주간 미니 이벤트: 🎀여신 이름 맞추기🤔❓",
   "명조:워더링 웨이브 | 2026-10-26 | 『명조:워더링 웨이브』데스크톱 펫 Wuwa Tappo가 출시되었습니다!",
   "명조:워더링 웨이브 | 2026-10-26 | 🌟[에이메스 빅스비 보이스 스페셜 키트 출시 기념 커뮤니티 이벤트] 에이메스, 궁금한 게"
  ],
  "imageOnly": [
-  {
-   "game": "승리의 여신: 니케",
-   "loungeId": "nikke",
-   "feedId": 8360948,
-   "date": "2026-10-24",
-   "title": "4주년 특별 방송 기념 교환 코드 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfMjMw/MDAxNzkyODMyOTcwNTgy.xF6k346k4N20FOjgD4nCU7PeE3kasUSpnT6HtOqdeNgg.NU9p6HZCDfY3toFBrOPJPXFW_fjFWzKIM3JKITd5jncg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_0.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNDAg/MDAxNzkyODMyOTcwNjIx.Af3fy6zi2qX64pFpnwIXkf_uvFsn-O0vb_eBclAiqiYg.tyXe0YJ80RKBGl9ddkLwTaAcQIHoJLfey805bLjyONEg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_1.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNjIg/MDAxNzkyODMyOTcwNjIw.sGnSrgFeN6NCicnp3i8CcLO14V3meO8kYVsx1pSNEaUg.ZMx12e3y7lNEvEdFt65pfRG5O446GsQ3JB9TxwB_lscg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_2.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNjIg/MDAxNzkyODMyOTcwNjA2.cK_9AIPVEiBckS1JeRcAkDijGbuy7YU3pxJaQD2iXU0g.rmVPwvBWa2MR381sOVjj5iS24l6aOAqTSfAcHFNcD-sg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_3.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjRfOTgg/MDAxNzkyODMyOTcwNjU0.GqbCujSqiYDa-36N0C8cSgCPBsypp18VxgPpKVoGB_4g.Rmvwr3HEneeKxRS1wKZXFORWMmnRJUs3-popFCvpRmMg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_4.jpg?type=w1678"
-   ]
-  },
   {
    "game": "오피스 퀸 키우기",
    "loungeId": "officequeen",

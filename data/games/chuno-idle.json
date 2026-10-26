@@ -5,27 +5,27 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T19:55:57.725Z",
+  "updatedAt": "2026-10-26T22:55:09.182Z",
   "codes": [
     {
       "code": "CHUNO2026",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-26",
+      "postedAt": "2026-10-27",
       "sourceUrl": "https://blog.naver.com/hwhgzrnhjegr/224454372311",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
+      "lastSeen": "2026-10-27",
+      "status": "active"
     },
     {
       "code": "IDLEWELCOME",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-26",
+      "postedAt": "2026-10-27",
       "sourceUrl": "https://blog.naver.com/hwhgzrnhjegr/224454372311",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
+      "lastSeen": "2026-10-27",
+      "status": "active"
     },
     {
       "code": "OPENCHUNO",
