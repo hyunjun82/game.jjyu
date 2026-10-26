@@ -4620,7 +4620,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Jicheon": {
-   "at": "2026-10-24",
+   "at": "2026-10-26",
    "error": "코드 없음"
   },
   "jicheonglobal": {
@@ -5242,7 +5242,7 @@
    "error": "코드 없음"
   },
   "lovedeepspace": {
-   "at": "2026-10-24",
+   "at": "2026-10-26",
    "error": "코드 없음"
   },
   "LSSGZ": {
@@ -5695,7 +5695,7 @@
    "error": "코드 없음"
   },
   "mirjin": {
-   "at": "2026-10-24",
+   "at": "2026-10-26",
    "error": "코드 없음"
   },
   "Mirren_MillenniumTour": {
@@ -5859,7 +5859,7 @@
    "total": 1
   },
   "moonlightwar": {
-   "at": "2026-10-24",
+   "at": "2026-10-26",
    "error": "코드 없음"
   },
   "mrgs": {
@@ -10639,8 +10639,8 @@
    "error": "쿠폰 보드 없음"
   },
   "Muramasa_Revenant_Blades": {
-   "at": "2026-09-21",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-10-26",
+   "error": "코드 없음"
   },
   "Amnesia_REBIRTH": {
    "at": "2026-09-21",
@@ -12897,7 +12897,7 @@
    "error": "코드 없음"
   },
   "BRAVO": {
-   "at": "2026-09-26",
+   "at": "2026-10-26",
    "error": "코드 없음"
   },
   "ScapeTime": {
@@ -13423,7 +13423,7 @@
    "error": "코드 없음"
   },
   "DRAGON_NEST": {
-   "at": "2026-10-18",
+   "at": "2026-10-26",
    "error": "코드 없음"
   },
   "Lucid_Cats": {
@@ -21952,6 +21952,62 @@
    "error": "코드 없음"
   },
   "MARVEL_CAPCOM_Fighting_Collection_Arcade_Classics": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Soccerwarz": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Sector31": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "MO_or_DO": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Mu_Ignition": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Empty_Town": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "CINDERCITY": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Mistfall_Hunter": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Elrentaros_Wanderings": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Toy_Blast": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Kitty_Krush": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "The_Witchs_Bakery": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "James_Camerons_Avatar_The_Game": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Galvatein_Adventurers_Guild": {
+   "at": "2026-10-26",
+   "error": "코드 없음"
+  },
+  "Dream_Town_Island": {
    "at": "2026-10-26",
    "error": "코드 없음"
   }

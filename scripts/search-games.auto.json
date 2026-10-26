@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-26T06:28:01.029Z",
+  "generatedAt": "2026-10-26T13:41:46.073Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -13,12 +13,6 @@
       "loungeId": "F4U",
       "titleKo": "판타지포유",
       "titleEn": "F4 U"
-    },
-    {
-      "slug": "tree-world",
-      "loungeId": "Tree_World",
-      "titleKo": "숲의 소환단:방치형 판타지 수집 RPG",
-      "titleEn": "Tree World"
     },
     {
       "slug": "romantic-gangho",
