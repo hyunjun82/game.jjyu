@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T05:21:16.191Z",
+  "generatedAt": "2026-10-26T06:42:32.523Z",
   "today": "2026-10-26",
-  "todayNew": 45,
+  "todayNew": 50,
   "totals": {
-    "games": 331,
+    "games": 329,
     "codes": 4745,
-    "active": 741,
-    "expired": 4004,
-    "withExpiry": 2749
+    "active": 739,
+    "expired": 4006,
+    "withExpiry": 2755
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-26",
-      "count": 45
+      "count": 50
     }
   ],
   "expiringSoon": [
@@ -213,6 +213,12 @@
       "days": 1
     },
     {
+      "slug": "chaos-zero-nightmare",
+      "code": "epicwithczn",
+      "expiry": "2026-10-28",
+      "days": 2
+    },
+    {
       "slug": "dragon-traveler",
       "code": "SDNXCaesar",
       "expiry": "2026-10-28",
@@ -359,12 +365,6 @@
     {
       "slug": "nuksam",
       "code": "EDKGTC",
-      "expiry": "2026-10-30",
-      "days": 4
-    },
-    {
-      "slug": "sindorim-with-naver-webtoon",
-      "code": "DIA2610",
       "expiry": "2026-10-30",
       "days": 4
     }

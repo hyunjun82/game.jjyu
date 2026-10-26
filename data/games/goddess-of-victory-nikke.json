@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-25T21:00:15.054Z",
+  "updatedAt": "2026-10-26T06:35:32.032Z",
   "codes": [
+    {
+      "code": "NIKKE4EVER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/12512512/224452486619",
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "RECLAIMTHESURFACE",
       "reward": "",
@@ -29,16 +39,6 @@
     },
     {
       "code": "FORGETMENOT",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/12512512/224452486619",
-      "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
-      "status": "active"
-    },
-    {
-      "code": "NIKKE4EVER",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-24",
