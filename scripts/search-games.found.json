@@ -145,6 +145,13 @@
       "titleKo": "총잡이 고양이",
       "titleEn": "chongjapi-goyangi",
       "found": "2026-10-26"
+    },
+    {
+      "slug": "legend-of-ninjacats",
+      "titleKo": "고양이 닌자단 키우기",
+      "titleEn": "LEGEND_OF_NINJACATS",
+      "loungeId": "LEGEND_OF_NINJACATS",
+      "found": "2026-10-26"
     }
   ],
   "rejected": [

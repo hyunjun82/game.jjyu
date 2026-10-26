@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T06:42:32.523Z",
+  "generatedAt": "2026-10-26T13:14:38.411Z",
   "today": "2026-10-26",
-  "todayNew": 50,
+  "todayNew": 76,
   "totals": {
-    "games": 329,
-    "codes": 4745,
-    "active": 739,
+    "games": 331,
+    "codes": 4771,
+    "active": 765,
     "expired": 4006,
-    "withExpiry": 2755
+    "withExpiry": 2776
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-26",
-      "count": 50
+      "count": 76
     }
   ],
   "expiringSoon": [
@@ -133,6 +133,12 @@
       "code": "TRX9FD4HWK",
       "expiry": "2026-10-26",
       "days": 0
+    },
+    {
+      "slug": "aion2",
+      "code": "AION2",
+      "expiry": "2026-10-27",
+      "days": 1
     },
     {
       "slug": "boneagain",
@@ -233,6 +239,12 @@
     {
       "slug": "kaion-m",
       "code": "S1MOZX4S",
+      "expiry": "2026-10-28",
+      "days": 2
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG-RUSH",
       "expiry": "2026-10-28",
       "days": 2
     },
@@ -355,18 +367,6 @@
       "code": "Chuseok7",
       "expiry": "2026-10-30",
       "days": 4
-    },
-    {
-      "slug": "nostalgic-corner-store",
-      "code": "GIFT7pB4SW",
-      "expiry": "2026-10-30",
-      "days": 4
-    },
-    {
-      "slug": "nuksam",
-      "code": "EDKGTC",
-      "expiry": "2026-10-30",
-      "days": 4
     }
   ],
   "topGames": [
@@ -394,6 +394,11 @@
       "slug": "dungeon-hunter6-awakening",
       "active": 16,
       "total": 42
+    },
+    {
+      "slug": "horizon-walker",
+      "active": 16,
+      "total": 25
     },
     {
       "slug": "idle-hero-but-save-the-world",
@@ -464,12 +469,7 @@
       "slug": "syupeojinhwaseutori2",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "windeureoneo-kiugi",
-      "active": 10,
-      "total": 10
     }
   ],
-  "noImage": 62
+  "noImage": 63
 }

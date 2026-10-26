@@ -1,24 +1,17 @@
 {
- "generatedAt": "2026-10-26T04:41:00.426Z",
+ "generatedAt": "2026-10-26T12:47:24.812Z",
  "window": "20261024~20261026",
- "lounges": 2348,
- "posts": 342,
- "couponPosts": 42,
+ "lounges": 2353,
+ "posts": 481,
+ "couponPosts": 51,
  "fixedTracked": [
-  "에이펙스 걸스 | AGM134 | 🎁 [특별 선물]",
-  "영주님은 죽지 않는다 | TRICKOR150SKILL | 🎃 \"트릭 오어 트릿!\" …이 아니라 '스킬 소환 티켓 150장'을 드",
-  "던전헌터 6 : 각성 | dzf4ff6 | 10/26 월요병 극복 쿠폰",
-  "부족 또 전쟁: 무한루프 RPG | ANNY100DAYS | 🎂 [100일 기념] 수호자님께 드리는 특별한 감사 쿠폰! 🎁",
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | PKDW319 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/26 깜짝 쿠폰!",
-  "천지겁 | HAPPY1YEAR | 🎉1주년 기념🎉사매와 함께하는 쿠폰 퀴즈 5탄 쿠폰 공개!",
-  "쿠로코의 농구 Street Rivals | 1026WNRKSZNVHS | 🎁주간 선물 쿠폰 도착!",
-  "머지 시즌스 | partytime | [매주 선물 코드] 차바오의 매주 선물 도착! 🎁 (10월4주차)",
-  "환생 마검사 키우기 | GALAXYOPEN | [쿠폰] 갤럭시 버전 신규 출시 쿠폰",
-  "전생했더니 검 한 자루 | RAAS1 | [전생했더니 검 한 자루] 사전예약 10만 달성! 🎉",
-  "최강 이세계 | GhostFestival26 | 🎃👻 할로윈 기념 특별 선물🎃👻"
+  "비스트 로드: The New Land | BL5372G2J | 🎉혜택 타임🎉",
+  "그랑사가 키우기: 나이츠x나이츠 | NTRPWI26PEARPR43 | [쿠폰] 10/26(월) 주간 깜짝 쿠폰 (26년 43주차)",
+  "호라이즌 워커 | misterrcreamy, trunkmonkey7858, nguyenhoangsson, sainti_xd, amazingtae97, kaynahara, toilaanday, wishmustard, rhermid, bimboo, xmaximobherx, lakota_04, rynhee, lushiro411, rasati, icsd33 | 《호라이즌 워커》 l 당첨자 발표 - 가루드 부관 인증 이벤트",
+  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-RUSH | [이벤트] 10월 26일 (월) ◈ 데일리 쿠폰!"
  ],
  "addedLounges": [
-  "승리의 여신: 니케 (nikke) → /nikke/ | MARIAN"
+  "요괴 키우기 (Yokai_Idle_RPG) → /yokai-idle-rpg/ | YOKAIRPG, WELCOMEYOKAI7, YOKAIXNAVER"
  ],
  "labelOnly": [
   "도적 키우기: 오픈필드 방치형 RPG | 2026-10-24 | 도적 키우기 정식 오픈 기념 쿠폰",
@@ -43,6 +36,19 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNjIg/MDAxNzkyODMyOTcwNjIw.sGnSrgFeN6NCicnp3i8CcLO14V3meO8kYVsx1pSNEaUg.ZMx12e3y7lNEvEdFt65pfRG5O446GsQ3JB9TxwB_lscg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_2.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMjRfNjIg/MDAxNzkyODMyOTcwNjA2.cK_9AIPVEiBckS1JeRcAkDijGbuy7YU3pxJaQD2iXU0g.rmVPwvBWa2MR381sOVjj5iS24l6aOAqTSfAcHFNcD-sg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_3.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMjRfOTgg/MDAxNzkyODMyOTcwNjU0.GqbCujSqiYDa-36N0C8cSgCPBsypp18VxgPpKVoGB_4g.Rmvwr3HEneeKxRS1wKZXFORWMmnRJUs3-popFCvpRmMg.JPEG/16_%EA%B5%90%ED%99%98_%EC%BD%94%EB%93%9C_4.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "오피스 퀸 키우기",
+   "loungeId": "officequeen",
+   "feedId": 8369107,
+   "date": "2026-10-26",
+   "title": "[이벤트] 「오피스 퀸 키우기」 리뷰 작성하고 쿠폰 받아가세요- 제3탄 (진행 중)",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNTA0MDlfMjE0/MDAxNzQ0MTg4MTQ1NzYz.ox5oJbYg02XLDwu74Gu2PuDYkHs4IGK1JM-rxDAVti0g.zmCdXDxGhQIqJvFBuqS39hWuXu5qo_l_8OYoRFgFFjwg.PNG/9.LOUNGE%E9%80%9A%E7%94%A8%E4%B8%8A%E4%B8%8BBANNER-3_01.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNTA1MDdfMTU0/MDAxNzQ2NTgzMDA5NzU1.mqXDDurxiXIKFeIckAb_7AsCy6zbYUzv6qouwYfID2Ug.EsLnM6e0frrbOMZogAwi81rxvhJJco1z4V8O2tSayrUg.JPEG/1200-628.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNTA1MDdfMTk3/MDAxNzQ2NTgxODk2ODAx.0y4PNvPebiXYY3SsIGtZSxC4eTtpYXkQwhcLvR9-Locg.I9NKkRlazynfplFy89jdqWKe53W934RlCQ-HXp4xS9Qg.PNG/%E5%9B%BE%E7%89%871.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMTM5/MDAxNzkyOTkzNTI0NzYx.amL9uWEtTkCbvXpOnhuplvTGiLn5c3Ns0zggxprvy1Mg.M0_mwkuVDNaCydAQIRixaRcVz1zo7aLmw-fY2ovgEF4g.PNG/9.LOUNGE%E9%80%9A%E7%94%A8%E4%B8%8A%E4%B8%8BBANNER-3_02.png?type=w1678"
    ]
   }
  ]

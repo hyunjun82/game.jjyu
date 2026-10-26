@@ -1,0 +1,41 @@
+{
+  "slug": "yokai-idle-rpg",
+  "titleEn": "Yokai_Idle_RPG",
+  "titleKo": "요괴 키우기",
+  "image": "https://hub.epicleague.io/assets/images/logos/eplhub.svg",
+  "source": "naver-lounge",
+  "loungeId": "Yokai_Idle_RPG",
+  "sourceUrl": "https://game.naver.com/lounge/Yokai_Idle_RPG/board/detail/8368905",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-10-26T13:13:26.965Z",
+  "codes": [
+    {
+      "code": "YOKAIXNAVER",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "YOKAIRPG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEYOKAI7",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    }
+  ]
+}
