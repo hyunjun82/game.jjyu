@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T13:55:21.106Z",
+  "updatedAt": "2026-10-26T19:56:27.687Z",
   "codes": [
+    {
+      "code": "도깨비1008",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-18",
+      "sourceUrl": "https://blog.naver.com/leeyoonkun/224445282607",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "애플1위풍악을울려라",
       "reward": "",
@@ -15,17 +25,7 @@
       "sourceUrl": "https://blog.naver.com/dbs_jln/224444400211",
       "firstSeen": "2026-10-21",
       "lastSeen": "2026-10-26",
-      "status": "active"
-    },
-    {
-      "code": "도깨비1008",
-      "reward": "",
-      "expiry": "2026-11-05",
-      "postedAt": "2026-10-18",
-      "sourceUrl": "https://blog.naver.com/leeyoonkun/224445282607",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "도깨비의마음",

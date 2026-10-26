@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T13:55:05.034Z",
+  "updatedAt": "2026-10-26T19:56:11.135Z",
   "codes": [
     {
       "code": "CHARACTER",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "SUMMON",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "WINDPET",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "ABILITY",
@@ -44,8 +44,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "EQUIP",
@@ -54,8 +54,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "AUGUSTCOUPON",
@@ -64,8 +64,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "GUARDIAN",
@@ -74,8 +74,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "PRECISION",
@@ -84,8 +84,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "INSPIRATION",
@@ -94,8 +94,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "FREEGOLD",
@@ -104,8 +104,8 @@
       "postedAt": "2026-10-12",
       "sourceUrl": "https://blog.naver.com/2ungggg/224439505901",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-26",
-      "status": "active"
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     }
   ]
 }

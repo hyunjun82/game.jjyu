@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-10-26T13:56:27.570Z",
-  "today": "2026-10-26",
-  "todayNew": 76,
+  "generatedAt": "2026-10-26T19:57:26.067Z",
+  "today": "2026-10-27",
+  "todayNew": 2,
   "totals": {
     "games": 331,
-    "codes": 4771,
-    "active": 765,
-    "expired": 4006,
-    "withExpiry": 2776
+    "codes": 4773,
+    "active": 712,
+    "expired": 4061,
+    "withExpiry": 2778
   },
   "newByDate": [
-    {
-      "date": "2026-10-13",
-      "count": 95
-    },
     {
       "date": "2026-10-14",
       "count": 78
@@ -65,307 +61,311 @@
     {
       "date": "2026-10-26",
       "count": 76
+    },
+    {
+      "date": "2026-10-27",
+      "count": 2
     }
   ],
   "expiringSoon": [
     {
-      "slug": "devil-2m",
-      "code": "deaop1019",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "Superheroine",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "dragonnest-world",
-      "code": "HAPPYWEEKLY1022R",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "everytown",
-      "code": "SELECT2",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "f-class-hero",
-      "code": "2QFreeOct",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "ghost-hunter",
-      "code": "1024ds1",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "ghost-hunter",
-      "code": "1025ds1",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "god-kkaebi",
-      "code": "g29aohq6",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "gungsin-idle-rpg",
-      "code": "WE1Wslcm6k",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "VXNP593",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
-      "slug": "the-grand-mafia",
-      "code": "TRX9FD4HWK",
-      "expiry": "2026-10-26",
-      "days": 0
-    },
-    {
       "slug": "aion2",
       "code": "AION2",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "boneagain",
       "code": "O9DNSD",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "doomsday-warrior",
       "code": "S6106",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragon-traveler",
       "code": "GXGGHLNSLB",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "BNQT641",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "lunar-eversoul",
       "code": "주의사항",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "pmang-new-matgo",
       "code": "X999E99999EQUDZY",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "requiem-m",
       "code": "OURDOKDO1025",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "samguk-origin",
       "code": "1633-4e1c52c19-1",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "samgukji-lords-war",
       "code": "1633-4e1c52c19-1",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "tree-of-savior-m",
       "code": "HANGEUL",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "tree-of-savior-m",
       "code": "MANSE",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "what-the-bug",
       "code": "SL26C3",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "whiteout-survival",
       "code": "WOS1025",
       "expiry": "2026-10-27",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "chaos-zero-nightmare",
       "code": "epicwithczn",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "SDNXCaesar",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "TZRK835",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "kaion-m",
       "code": "S1MOZX4S",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG-RUSH",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "vardian",
       "code": "UP1022",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "wooparoo-odyssey",
       "code": "WPR3RDANVCOUPON1",
       "expiry": "2026-10-28",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "GJXXMimir",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "eternal-return",
       "code": "ERGIFTBOX",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "idle-berserker",
       "code": "UPDATE261022",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "HMVX490",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "maple-planet",
       "code": "PLANETSPORTSDAY1",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "maple-planet",
       "code": "PLANETSPORTSDAY2",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "samgukji-origin2",
       "code": "7047-a3c862dd9-1",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "samgukji2022",
       "code": "HLN0H42A",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "spirit-king",
       "code": "SPIRITTRICK2",
       "expiry": "2026-10-29",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "astro-defenders",
       "code": "ASTRO",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "busy-savior",
       "code": "x3aw9nqb",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "busy-savior",
       "code": "v7lp5dct",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "doomsday-warrior",
       "code": "HALLOWPARTY",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "dragon-traveler",
       "code": "FSZSAres",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "furry-fighters-idle",
       "code": "SOULDUO",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "heros-land-m",
       "code": "BkJNXY2y",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "KQNP716",
       "expiry": "2026-10-30",
-      "days": 4
+      "days": 3
     },
     {
       "slug": "jo-jo-dream",
       "code": "Chuseok7",
       "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "nostalgic-corner-store",
+      "code": "GIFT7pB4SW",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "nuksam",
+      "code": "EDKGTC",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "sindorim-with-naver-webtoon",
+      "code": "DIA2610",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "sindorim-with-naver-webtoon",
+      "code": "TICKET2610",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "tales-of-angels",
+      "code": "T8P2QH",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "9-up-probaseball",
+      "code": "26samsungkia",
+      "expiry": "2026-10-31",
+      "days": 4
+    },
+    {
+      "slug": "9-up-probaseball",
+      "code": "26spokialg",
+      "expiry": "2026-10-31",
+      "days": 4
+    },
+    {
+      "slug": "9-up-probaseball",
+      "code": "26wakalgdoosan",
+      "expiry": "2026-10-31",
+      "days": 4
+    },
+    {
+      "slug": "boneagain",
+      "code": "HP1YEAR",
+      "expiry": "2026-10-31",
+      "days": 4
+    },
+    {
+      "slug": "busy-savior",
+      "code": "q9ve2ltp",
+      "expiry": "2026-10-31",
+      "days": 4
+    },
+    {
+      "slug": "busy-savior",
+      "code": "h6fj4zrm",
+      "expiry": "2026-10-31",
       "days": 4
     }
   ],
@@ -377,7 +377,7 @@
     },
     {
       "slug": "apex-girls",
-      "active": 22,
+      "active": 19,
       "total": 65
     },
     {
@@ -402,12 +402,12 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 16,
+      "active": 15,
       "total": 54
     },
     {
       "slug": "dragon-traveler",
-      "active": 15,
+      "active": 14,
       "total": 81
     },
     {
@@ -441,11 +441,6 @@
       "total": 14
     },
     {
-      "slug": "kalpa-of-universe",
-      "active": 11,
-      "total": 39
-    },
-    {
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
@@ -466,9 +461,14 @@
       "total": 13
     },
     {
-      "slug": "syupeojinhwaseutori2",
+      "slug": "kalpa-of-universe",
       "active": 10,
-      "total": 10
+      "total": 39
+    },
+    {
+      "slug": "chaos-zero-nightmare",
+      "active": 8,
+      "total": 8
     }
   ],
   "noImage": 63

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-26T13:41:46.073Z",
+  "generatedAt": "2026-10-26T19:43:48.438Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -39,22 +39,16 @@
       "titleEn": "Heartopia"
     },
     {
-      "slug": "wtbk",
-      "loungeId": "wtbk",
-      "titleKo": "왓더뼈킹",
-      "titleEn": "wtbk"
-    },
-    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights_Endfield"
     },
     {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
+      "slug": "wtbk",
+      "loungeId": "wtbk",
+      "titleKo": "왓더뼈킹",
+      "titleEn": "wtbk"
     },
     {
       "slug": "watcher-of-realms",
@@ -73,6 +67,18 @@
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
+    },
+    {
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
+    },
+    {
+      "slug": "pixel-pocket",
+      "loungeId": "pixel_pocket",
+      "titleKo": "픽셀 포켓 모험",
+      "titleEn": "Pixel Pocket"
     },
     {
       "slug": "pokemon-go",

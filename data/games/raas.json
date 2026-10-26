@@ -7,8 +7,8 @@
   "loungeId": "RAAS",
   "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8367677",
   "howTo": "",
-  "postCount": 886,
-  "updatedAt": "2026-10-26T13:47:01.823Z",
+  "postCount": 930,
+  "updatedAt": "2026-10-26T19:48:36.993Z",
   "codes": [
     {
       "code": "RAAS1",
@@ -17,7 +17,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "active"
     },
     {
@@ -37,7 +37,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "active"
     }
   ]

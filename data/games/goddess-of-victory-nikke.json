@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T13:49:16.707Z",
+  "updatedAt": "2026-10-26T19:51:01.700Z",
   "codes": [
     {
       "code": "NIKKE4EVER",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/12512512/224452486619",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "sourceUrl": "https://blog.naver.com/12512512/224452486619",
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GODDESSMARCHON",
@@ -35,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/12512512/224452486619",
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "FORGETMENOT",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://blog.naver.com/12512512/224452486619",
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "TOTHEFRONTLINE",
@@ -55,7 +55,7 @@
       "sourceUrl": "https://blog.naver.com/12512512/224452486619",
       "firstSeen": "2026-10-25",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "NIKKEPC",

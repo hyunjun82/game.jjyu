@@ -2,11 +2,32 @@
   "slug": "the-cozy-florist",
   "titleEn": "The Cozy Florist",
   "titleKo": "더 코지 플로리스트",
-  "image": "https://media.pocketgamer.com/artwork/na-38283-1773397365/the-cozy-florist-header.jpg",
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjJfNTkg/MDAxNzkyNjY0NDYwMjI5.T9PTDG2Bn4wnLHAi6H39IbbR0GHmxhMjp3SY74vb_ikg.qyAMKie_TCpjmkxh6cOmOi3_Ttbdn4-ac0BAG-IFSXUg.PNG/image.png",
+  "source": "naver-lounge",
+  "loungeId": "Flower_Town_Story",
+  "sourceUrl": "https://game.naver.com/lounge/Flower_Town_Story/board/detail/8351813",
   "howTo": "",
-  "updatedAt": "2026-10-20T22:59:32.908Z",
+  "postCount": 1,
+  "updatedAt": "2026-10-26T19:44:47.785Z",
   "codes": [
+    {
+      "code": "sf60a22b",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "Q1-1",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "tfd45201",
       "reward": "",

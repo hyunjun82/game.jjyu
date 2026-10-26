@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T13:54:50.305Z",
+  "updatedAt": "2026-10-26T19:55:57.725Z",
   "codes": [
     {
       "code": "CHUNO2026",
@@ -15,7 +15,7 @@
       "sourceUrl": "https://blog.naver.com/hwhgzrnhjegr/224454372311",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "IDLEWELCOME",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://blog.naver.com/hwhgzrnhjegr/224454372311",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "OPENCHUNO",
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "expired"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "expired"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "expired"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-10-02",
       "sourceUrl": "https://blog.naver.com/2ungggg/224429761230",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "status": "expired"
     }
   ]
