@@ -25,6 +25,7 @@ function expiryLabel(item) {
     return y === thisYear ? `~${m}.${d}` : `~${y}.${m}.${d}`;
   }
   if (item.expiryFrom === 'event-open') return '종료일 미정';
+  if (item.expiryFrom === 'permanent') return '기한 없음';
   return '';
 }
 
