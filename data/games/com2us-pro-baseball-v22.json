@@ -5,24 +5,34 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-25T21:05:33.608Z",
+  "updatedAt": "2026-10-26T04:41:56.410Z",
   "codes": [
+    {
+      "code": "V26Q7M2X9K4P",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "active"
+    },
     {
       "code": "T4W9B2M6Z8P3",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-10-14",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224441896195",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-21",
+      "lastSeen": "2026-10-26",
       "status": "active"
     },
     {
       "code": "STARTWITHGENIE",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
       "status": "active"
@@ -31,8 +41,8 @@
       "code": "TRAININGSTART",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
       "status": "active"
@@ -41,8 +51,8 @@
       "code": "V26STARTPACK",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
       "status": "active"
@@ -51,8 +61,8 @@
       "code": "V26A7K9P3XQ2",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-10-15",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
       "status": "active"
@@ -61,28 +71,98 @@
       "code": "K8R3V7N2Q9X5",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-10-15",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224442521987",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
       "status": "active"
     },
     {
+      "code": "JUUPDATELYV26",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "V26A8KP9M3XQ",
+      "reward": "",
+      "expiry": "2026-08-31",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
       "code": "CPBVKDYPARTY",
       "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
+      "expiry": "2026-10-08",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "CPBVFULLMOON",
       "reward": "",
       "expiry": "2026-10-08",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "YOUNGKINGAUGMVP",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "V26K7MP9X4RA",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "V26XKJYRWLMP",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "V26PNDLQZTYC",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-26",
+      "status": "expired"
+    },
+    {
+      "code": "V26FGBVMXKRW",
+      "reward": "",
+      "expiry": "2026-09-30",
+      "postedAt": "2026-10-21",
+      "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
       "status": "expired"
@@ -95,56 +175,6 @@
       "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "YOUNGKINGAUGMVP",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224431521688",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "V26XKJYRWLMP",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-25",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224421791178",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-15",
-      "status": "expired"
-    },
-    {
-      "code": "V26PNDLQZTYC",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-25",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224421791178",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-15",
-      "status": "expired"
-    },
-    {
-      "code": "V26FGBVMXKRW",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-25",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224421791178",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-15",
-      "status": "expired"
-    },
-    {
-      "code": "V26K7MP9X4RA",
-      "reward": "",
-      "expiry": "2026-09-30",
-      "postedAt": "2026-09-25",
-      "sourceUrl": "https://blog.naver.com/sofeman21/224421791178",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-15",
       "status": "expired"
     }
   ]
