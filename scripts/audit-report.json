@@ -1,24 +1,21 @@
 {
- "generatedAt": "2026-10-27T12:00:37.036Z",
- "window": "20261025~20261027",
+ "generatedAt": "2026-10-27T17:54:25.241Z",
+ "window": "20261026~20261028",
  "lounges": 2354,
- "posts": 593,
- "couponPosts": 38,
+ "posts": 529,
+ "couponPosts": 33,
  "fixedTracked": [
-  "영혼 키우기 : 두 얼굴의 소녀들 | YOUNG-DASH | [이벤트] 10월 27일 (화) ◈ 데일리 쿠폰!"
+  "라테일 플러스 | 2026할로윈데이 | 🍭할로윈 기념 라운지 이벤트"
  ],
- "addedLounges": [
-  "라테일 플러스 (Latale_Plus) → /latale-plus/ | 2026할로윈데이"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "라스트 소녀 전사 | 2026-10-26 | 🎃 [D-1] 어둠 제단 오픈! 종말계 전원 집결! 💜",
-  "라스트 소녀 전사 | 2026-10-25 | 💜 [D-2] 종말계 5인 전원 등장! 월페이퍼 대공개!",
   "드림 가든: 추억의 힐링 경영 | 2026-10-27 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
+  "심쿵신궁 연대기 | 2026-10-28 | ☕0.5주년 기념 네이버 카페 500명 달성 이벤트 안내",
   "호드 워:어벤저의 소환 | 2026-10-27 | 주간 이벤트-정답을 맞혀보세요!(10/27-11/1)",
   "호드 워:어벤저의 소환 | 2026-10-27 | 🎃할로윈 계획 공유 이벤트(10/27-10/31)",
   "전생했더니 검 한 자루 | 2026-10-27 | 💻에일리언웨어 18 대방출! 스토어 사전등록 인증 이벤트 2탄🔥",
   "전생했더니 검 한 자루 | 2026-10-26 | 🎧 Airpods 5 증정! SNS 공유 이벤트✨",
-  "슬라임 군단 | 2026-10-25 | [이벤트] 가을 풍경 속 다른 한 곳! 🍂",
   "소드 앤 프론티아 | 2026-10-26 | 주간 미니 이벤트: 🎀여신 이름 맞추기🤔❓",
   "THE 라그나로크 | 2026-10-27 | 호박 몬스터 잭! 이벤트",
   "명조:워더링 웨이브 | 2026-10-26 | 『명조:워더링 웨이브』데스크톱 펫 Wuwa Tappo가 출시되었습니다!",
@@ -36,6 +33,16 @@
     "https://nng-phinf.pstatic.net/MjAyNTA1MDdfMTU0/MDAxNzQ2NTgzMDA5NzU1.mqXDDurxiXIKFeIckAb_7AsCy6zbYUzv6qouwYfID2Ug.EsLnM6e0frrbOMZogAwi81rxvhJJco1z4V8O2tSayrUg.JPEG/1200-628.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNTA1MDdfMTk3/MDAxNzQ2NTgxODk2ODAx.0y4PNvPebiXYY3SsIGtZSxC4eTtpYXkQwhcLvR9-Locg.I9NKkRlazynfplFy89jdqWKe53W934RlCQ-HXp4xS9Qg.PNG/%E5%9B%BE%E7%89%871.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMTM5/MDAxNzkyOTkzNTI0NzYx.amL9uWEtTkCbvXpOnhuplvTGiLn5c3Ns0zggxprvy1Mg.M0_mwkuVDNaCydAQIRixaRcVz1zo7aLmw-fY2ovgEF4g.PNG/9.LOUNGE%E9%80%9A%E7%94%A8%E4%B8%8A%E4%B8%8BBANNER-3_02.png?type=w1678"
+   ]
+  },
+  {
+   "game": "타워 디펜스 온라인",
+   "loungeId": "Tower_Defense_Online",
+   "feedId": 8374404,
+   "date": "2026-10-27",
+   "title": "[공지] 10/27일(화) 업데이트 및 쿠폰 안내(내용 수정)",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTM2/MDAxNzkzMTAyNzgzNjAw.9muRwq9iOlxLGBs2BVnYOuCv49ambPVzfpL7V7dOfQwg.yes6Z6Guc0HLud5lmLoyuyM0PakJgm5u6kXnAuApQEwg.PNG/ChatGPT_%EC%9D%B4%EB%AF%B8%EC%A7%80_2026%EB%85%84_10%EC%9B%94_13%EC%9D%BC_%EC%98%A4%ED%9B%84_06__(1).png?type=w1678"
    ]
   }
  ]
