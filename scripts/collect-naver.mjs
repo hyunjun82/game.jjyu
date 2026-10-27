@@ -52,6 +52,7 @@ async function get(url, tries = 4) {
       const res = await fetch(url, { signal: AbortSignal.timeout(20000) });
       const data = await res.json();
       if (data && data.code === 200) return data;
+      if (data && data.code === 40310) return null;   // 가입 필요 — 다시 물어도 같다. 본문은 readLocked() 로 읽는다.
     } catch (e) { /* 연결 리셋이 산발적으로 난다. 재시도로 흡수 */ }
     await sleep(1200 * (i + 1));
   }
@@ -97,6 +98,7 @@ async function eventIndex() {
     m.set(Number(e.feedId), {
       end: /^\d{4}-\d{2}-\d{2}$/.test(end) ? end : null,
       open: !/^\d{4}-\d{2}-\d{2}$/.test(end),
+      start: String(e.eventStartDate || '').slice(0, 10),
       loungeId: String(e.loungeId || e.originalLoungeId || ''),
       title: ent(e.feedTitle),
     });
@@ -109,6 +111,21 @@ const ent = (s) => String(s || '')
   .replace(/&#(\d+);/g, (m, d) => String.fromCodePoint(Number(d)))
   .replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ').replace(/&quot;/g, '"')
   .replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+
+/**
+ * 가입해야 열리는 글의 본문 — 상세 API 는 40310(라운지를 가입해주세요)이지만 편집기 JSON 주소(/json)는 가입 없이 열린다.
+ * 사이트 화면은 가입 팝업을 띄우지만 같은 글의 본문 JSON 은 이 주소로 받는다(2026-10-27 실측, 천상비K 쿠폰 게시판).
+ */
+async function readLocked(loungeId, feedId) {
+  for (let i = 0; i < 3; i++) {
+    try {
+      const res = await fetch(`${B1}/community/lounge/${loungeId}/feed/${feedId}/json`, { signal: AbortSignal.timeout(20000) });
+      if (res.ok) { const j = await res.json(); if (j?.document) return JSON.stringify(j); }
+    } catch (e) { /* 재시도 */ }
+    await sleep(1000 * (i + 1));
+  }
+  return '';
+}
 
 /** 스마트에디터 JSON 이면 nodes[].value 를 모으고, HTML 이면 태그를 턴다. */
 export function bodyText(raw) {
@@ -337,7 +354,11 @@ export function parseCodes(text, postISO) {
   const textJ = text.replace(/\n\s*(까지|마감)/g, ' $1');
   const untilDates = new Set([...textJ.matchAll(RE_KO)].map((m) => m[0].replace(/\s/g, '')).concat([...textJ.matchAll(RE_SLASH)].map((m) => m[0].replace(/\s/g, ''))));
   // "까지" 날짜가 여럿이어도 "쿠폰 사용 기간: 발급일 ~ 2026년 10월 31일" 처럼 쿠폰·코드 라벨이 붙은 기한은 코드의 것이다(열혈강호: 화룡전).
-  const postExpiry = untilDates.size <= 1 ? parseExpiry(textJ, postISO) : parseExpiry(text, postISO, false, true);
+  let postExpiry = untilDates.size <= 1 ? parseExpiry(textJ, postISO) : parseExpiry(text, postISO, false, true);
+  // 매일 바뀌는 데일리 쿠폰 — "각 일자별 18:00부터 다음날 17:59까지"(천상비K). 날짜가 없어 14일 규칙에 맡기면 2주간 '사용 가능'으로 남는다.
+  if (!postExpiry && postISO && /다음\s*날\s*\d{1,2}\s*[:시]\s*\d{0,2}\s*분?\s*까지/.test(text)) {
+    postExpiry = new Date(Date.parse(postISO) + 86400000).toISOString().slice(0, 10);
+  }
   const found = new Map();
 
   const push = (code, expiry, labeled = false, ko = false, ended = false) => {
@@ -454,7 +475,10 @@ export function parseCodes(text, postISO) {
     const headers = lines.slice(i, j);
     const endAt = headers.findIndex((h) => END_LABEL.test(h));
     const ended = endAt > 0 && ENDED_LABEL.test(headers[endAt]);
-    for (let row = j; row + width <= lines.length && (cellCode(row) || (row === j && koCell(i, j))); row += width) {
+    // 둘째 행부터의 한글 칸은 보상 이름일 수 있어 막아 왔다(모루석). 단 바로 옆 칸이 "소원 선물 선택상자 ×5" 처럼
+    // 수량이 붙은 보상이면 한글 칸이 코드 자리다("꿀정보는라운지에만", 라스트 소녀 전사 2026-10-27).
+    const koRow = (row) => row > j && hangulCode(lines[row]) && /[×xX]\s*\d/.test(lines[row + 1] || '') && !/[×xX]\s*\d/.test(lines[row]);
+    for (let row = j; row + width <= lines.length && (cellCode(row) || (row === j && koCell(i, j)) || koRow(row)); row += width) {
       const cells = lines.slice(row, row + width);
       let exp = null;
       if (endAt > 0) exp = parseExpiry(cells[endAt] + ' 까지', postISO) || parseExpiry(cells[endAt], postISO, true);
@@ -480,6 +504,20 @@ export function parseCodes(text, postISO) {
       }
     }
   }
+  // (사) "코드 / (9.29 ~ 10.31 23:59) / 보상 ×1" — 코드 칸 다음에 괄호로 기간, 그다음 수량 붙은 보상이 오는 표.
+  //   괄호가 "(", "10.23 ~ 10.30 17:00", ")" 로 세 줄에 갈라져 오기도 한다(라스트 소녀 전사 쿠폰코드 모음, 2026-10-27).
+  for (let k = 0; k + 2 < lines.length; k++) {
+    if (!lines.slice(Math.max(0, k - 12), k).some((l) => CODE_LABEL.test(l))) continue;
+    // 줄머리 기호 제거(BULLET)로 여는 괄호는 떨어져 "9.29 ~ 10.31 23:59)" 꼴로 온다.
+    const range = lines[k + 1];
+    if (!/^\d{1,2}\s*[./]\s*\d{1,2}.*~.*\d/.test(range) || !/[×xX]\s*\d/.test(lines[k + 2] || '')) continue;
+    const ko = hangulCode(lines[k]);
+    if (!ko && !(/^[A-Za-z0-9]{5,20}$/.test(lines[k]) && isSaneCode(lines[k], true))) continue;
+    const end = range.replace(/\)\s*$/, '').split('~').pop().trim().replace(/^(\d{1,2})\s*[./]\s*(\d{1,2})/, '$1월 $2일');
+    push(lines[k], parseExpiry(end + ' 까지', postISO) || parseExpiry(end, postISO, true), true, !!ko);
+    const got = found.get(lines[k].toUpperCase());
+    if (got && !got.expiry) got.expiry = parseExpiry(end + ' 까지', postISO) || null;
+  }
   // (바) "쿠폰 명" 라벨 바로 아랫줄의 한글 코드 — "🎫 쿠폰 명 / -. 26추석".
   for (let i = 0; i + 1 < lines.length; i++) {
     if (!/^(?:쿠폰\s*(?:명|코드|번호)|교환\s*코드|선물\s*코드)\s*[:：]?$/.test(lines[i])) continue;
@@ -489,6 +527,8 @@ export function parseCodes(text, postISO) {
     for (let k = i + 2; !exp && k < Math.min(lines.length, i + 25); k++) if (/사용\s*기한|유효\s*기간|사용\s*기간/.test(lines[k])) exp = parseExpiry(lines[k] + ' ' + (lines[k + 1] || ''), postISO, true);
     push(t, exp, true, true);
   }
+  // "디스코드 ID: girl8282" — 고객지원 연락처 아이디는 코드가 아니다(라스트 소녀 전사, 2026-10-27).
+  for (const [k, c] of found) if (new RegExp(`(?:ID|아이디)\\s*[:：]\\s*${c.code.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'i').test(text)) found.delete(k);
   return [...found.values()];
 }
 
@@ -636,8 +676,8 @@ export async function collectOne(g) {
   const boardRes = await get(`${B1}/lounge/${g.loungeId}/board`);
   if (!boardRes) return { ...g, error: '보드 조회 실패' };
 
-  const all = (boardRes.content.boardViews || [])
-    .filter((v) => v.board).map((v) => v.board).filter((b) => !b.memberWriteBoard);
+  const allViews = (boardRes.content.boardViews || []).filter((v) => v.board).map((v) => v.board);
+  const all = allViews.filter((b) => !b.memberWriteBoard);
 
   const primary = all.filter((b) => BOARD_RE.test(b.boardName));
   // 전용 게시판이 있어도 공지·이벤트는 같이 본다. 전용 게시판을 만들어 두고
@@ -684,6 +724,49 @@ export async function collectOne(g) {
     if (!codes[i].expiry && !codes[i].expiryFrom && (c.expiry || c.expiryFrom)) codes[i] = c;
   };
 
+  /** 게시판 글 하나 — 운영자 글만, 쿠폰 게시판이 아니면 제목이나 본문 라벨이 있어야 읽는다. */
+  const handleItem = (item, titleOnly, resultsBoard) => {
+    if (item.user?.userRoleCode === 'common_user') return;   // 유저 글 제외
+    const title = item.feed.title || '';
+    const text = bodyText(item.feed.contents);
+    if (!text) return;
+    const labeled = BODY_LABEL_RE.test(text);
+    if (resultsBoard && !labeled) return;
+    if (titleOnly && !TITLE_RE.test(title) && !labeled) return;
+    if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400))) && !labeled) return;
+    const d = String(item.feed.createdDate || '');
+    const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
+    const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
+    seenFeed.add(Number(item.feed.feedId));
+    if (!got.length) return;
+    // 고쳐 쓴 글: 고친 날 기준으로 한 번 더 읽어 기한을 맞춘다. 고친 날 기준에서 기한이 나오면 그걸(연도 추정이 맞다),
+    // 안 나오면(고친 날보다 앞선 기한이라 버려짐) 작성일 기준 값을 그대로 둔다.
+    if (item._updated) {
+      const again = new Map(parseCodes(text, item._updated).map((c) => [c.code.toUpperCase(), c]));
+      for (const c of got) {
+        const a = again.get(c.code.toUpperCase());
+        if (a?.expiry) c.expiry = a.expiry;
+        if (!c.expiry) c.postedAt = item._updated;
+      }
+    }
+    applyTitleExpiry(got, title, iso);
+    if (titleOnly) total += 1;
+
+    // 본문에 만료일이 없으면 게임사가 이벤트에 적어 둔 종료일을 쓴다.
+    // "12/31까지" 같은 안내 없이 "이벤트 기간" 만 적는 게임이 많다.
+    applyEvent(got, item.feed.feedId);
+
+    if (!latest || (iso && iso > latest)) {
+      latest = iso;
+      sourceUrl = item.feedLink?.pc || `https://game.naver.com/lounge/${g.loungeId}/board/detail/${item.feed.feedId}`;
+      if (!howTo) howTo = parseHowTo(text);
+    }
+    if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
+    // 사전예약 글의 코드는 "사전예약 보상"으로 표시한다 — 출시 후에도 쓰는 코드가 많다(소드 앤 프론티아 2027-06-30까지).
+    if (PREREG_RE.test(ent(title))) for (const c of got) c.tag = '사전예약';
+    for (const c of got) addCode(c);
+  };
+
   for (const b of boards) {
     const titleOnly = !primary.includes(b);
     if (b.memberAccessBoard) { locked = true; continue; }  // 가입 필요 — 본문 403
@@ -694,36 +777,31 @@ export async function collectOne(g) {
 
     if (!titleOnly) total += feed.content.totalCount || 0;
 
-    for (const item of feed.content.feeds) {
-      if (item.user?.userRoleCode === 'common_user') continue;   // 유저 글 제외
-      const title = item.feed.title || '';
-      const text = bodyText(item.feed.contents);
-      if (!text) continue;
-      const labeled = BODY_LABEL_RE.test(text);
-      if (results.includes(b) && !labeled) continue;
-      if (titleOnly && !TITLE_RE.test(title) && !labeled) continue;
-      if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400))) && !labeled) continue;
-      const d = String(item.feed.createdDate || '');
-      const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
-      const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));
-      seenFeed.add(Number(item.feed.feedId));
-      if (!got.length) continue;
-      applyTitleExpiry(got, title, iso);
-      if (titleOnly) total += 1;
+    for (const item of feed.content.feeds) handleItem(item, titleOnly, results.includes(b));
+  }
 
-      // 본문에 만료일이 없으면 게임사가 이벤트에 적어 둔 종료일을 쓴다.
-      // "12/31까지" 같은 안내 없이 "이벤트 기간" 만 적는 게임이 많다.
-      applyEvent(got, item.feed.feedId);
-
-      if (!latest || (iso && iso > latest)) {
-        latest = iso;
-        sourceUrl = item.feedLink?.pc || null;
-        if (!howTo) howTo = parseHowTo(text);
-      }
-      if (!image) image = item.feed.repImageUrl || item.lounge?.logoImageSquareUrl || null;
-      // 사전예약 글의 코드는 "사전예약 보상"으로 표시한다 — 출시 후에도 쓰는 코드가 많다(소드 앤 프론티아 2027-06-30까지).
-      if (PREREG_RE.test(ent(title))) for (const c of got) c.tag = '사전예약';
-      for (const c of got) addCode(c);
+  // 가입해야 열리는 게시판(쿠폰 게시판을 잠가 두는 게임 — 천상비K, 라스트 소녀 전사).
+  // 게시판 목록은 40310 으로 막히지만, 라운지 첫 화면의 "최근 글"·"고정 글"·"주요 소식" 목록에는 잠긴 게시판 글도
+  // 본문째 실려 온다. 여기서 운영자 글만 골라 같은 규칙으로 읽는다(2026-10-27).
+  const lockedIds = new Set(allViews.filter((b) => b.memberAccessBoard).map((b) => Number(b.boardId)));
+  if (lockedIds.size) {
+    const lists = await Promise.all([
+      get(`${B1}/lounge/${g.loungeId}/recentCommunity/feeds?limit=30`),
+      get(`${B1}/community/lounge/${g.loungeId}/feed/pins`),
+      get(`${B1}/lounge/${g.loungeId}/mainNews/feeds`),
+    ]);
+    const items = [...(lists[0]?.content?.feeds || []), ...(Array.isArray(lists[1]?.content) ? lists[1].content : []), ...(lists[2]?.content?.mainNews || [])];
+    for (const item of items) {
+      const bid = Number(item.board?.boardId ?? item.feed?.boardId);
+      if (!item?.feed || !lockedIds.has(bid) || seenFeed.has(Number(item.feed.feedId))) continue;
+      const name = item.board?.boardName || allViews.find((b) => Number(b.boardId) === bid)?.boardName || '';
+      // "주요 소식" 항목에는 작성자 정보가 없다 — 운영자가 고른 글이라 운영자 글로 본다.
+      if (!item.user) item.user = { userRoleCode: 'game_manager' };
+      // 고정해 두고 고쳐 쓰는 "최신 쿠폰코드 모음(10/23 갱신)" 글은 작성일이 2024년이다 — 날짜 없는 코드는 고친 날을 게시일로 본다.
+      // 본문 해석은 작성일 기준 그대로 둔다. 고친 날 기준이면 "2026.10.15" 같은 지난 기한이 오타로 버려진다(탑 히어로즈).
+      const u = String(item.feed.updatedDate || '');
+      if (u.length >= 8 && u > String(item.feed.createdDate || '')) item._updated = `${u.slice(0, 4)}-${u.slice(4, 6)}-${u.slice(6, 8)}`;
+      handleItem(item, !BOARD_RE.test(name), false);
     }
   }
 
@@ -737,8 +815,13 @@ export async function collectOne(g) {
     const res = await get(`${B1}/community/lounge/${g.loungeId}/feed/${feedId}`);
     await sleep(300);
     seenFeed.add(feedId);
-    const item = res?.content;
-    if (!item?.feed) { locked = locked || !res; continue; }
+    let item = res?.content;
+    // 가입해야 열리는 글 — 본문 JSON 으로 읽는다. 게임사 이벤트 목록에 올라온 글이라 운영자 글이다(천상비K "10월 26일 월요일 쿠폰 공개!").
+    if (!item?.feed) {
+      const raw = await readLocked(g.loungeId, feedId);
+      if (!raw) { locked = locked || !res; continue; }
+      item = { feed: { feedId, title: ev.title, contents: raw, createdDate: (ev.start || '').replace(/-/g, '') }, user: { userRoleCode: 'game_manager' } };
+    }
     if (item.user?.userRoleCode === 'common_user') continue;
     const text = bodyText(item.feed.contents);
     if (!text) continue;

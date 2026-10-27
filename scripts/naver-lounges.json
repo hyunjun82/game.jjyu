@@ -471,6 +471,12 @@
       "titleEn": "Cheonsangbi M"
     },
     {
+      "slug": "cheonsangbi-k",
+      "loungeId": "1003bk",
+      "titleKo": "천상비K",
+      "titleEn": "Cheonsangbi K"
+    },
+    {
       "slug": "duck-survival",
       "loungeId": "Duck_Survival",
       "titleKo": "후더덕 서바이벌",
