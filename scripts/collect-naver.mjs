@@ -318,7 +318,7 @@ function applyTitleExpiry(got, title, postISO) {
  * 한글 코드 — "단풍놀이", "26추석" (요괴잡이소대·스킬 마법사 키우기, 2026-09/10). 표의 코드 칸이나
  * "쿠폰 명" 라벨 바로 아랫줄에 있을 때만 받는다. 표 머리 낱말(보상·기간…)은 코드가 아니다.
  */
-const KO_HEADER = /없음|대기|미정|예정|추후|공개|모음|목록|리스트|정리|가이드|확인|바로가기|보상|기간|기한|내용|코드|쿠폰|구성|일정|비고|방법|조건|수량|대상|아이템|일시|날짜|시작|종료|만료|사용|입력|안내|참고|지급|혜택|이벤트/;
+const KO_HEADER = /등록|없음|대기|미정|예정|추후|공개|모음|목록|리스트|정리|가이드|확인|바로가기|보상|기간|기한|내용|코드|쿠폰|구성|일정|비고|방법|조건|수량|대상|아이템|일시|날짜|시작|종료|만료|사용|입력|안내|참고|지급|혜택|이벤트/;
 function hangulCode(t) {
   return /^[가-힣A-Za-z0-9]{2,15}$/.test(t) && /[가-힣]/.test(t) && !KO_HEADER.test(t);
 }
@@ -356,7 +356,8 @@ export function parseCodes(text, postISO) {
   // "까지" 날짜가 여럿이어도 "쿠폰 사용 기간: 발급일 ~ 2026년 10월 31일" 처럼 쿠폰·코드 라벨이 붙은 기한은 코드의 것이다(열혈강호: 화룡전).
   let postExpiry = untilDates.size <= 1 ? parseExpiry(textJ, postISO) : parseExpiry(text, postISO, false, true);
   // 매일 바뀌는 데일리 쿠폰 — "각 일자별 18:00부터 다음날 17:59까지"(천상비K). 날짜가 없어 14일 규칙에 맡기면 2주간 '사용 가능'으로 남는다.
-  if (!postExpiry && postISO && /다음\s*날\s*\d{1,2}\s*[:시]\s*\d{0,2}\s*분?\s*까지/.test(text)) {
+  const dailyNext = /다음\s*날\s*\d{1,2}\s*[:시]\s*\d{0,2}\s*분?\s*까지/.test(text);
+  if (!postExpiry && postISO && dailyNext) {
     postExpiry = new Date(Date.parse(postISO) + 86400000).toISOString().slice(0, 10);
   }
   const found = new Map();
@@ -527,8 +528,20 @@ export function parseCodes(text, postISO) {
     for (let k = i + 2; !exp && k < Math.min(lines.length, i + 25); k++) if (/사용\s*기한|유효\s*기간|사용\s*기간/.test(lines[k])) exp = parseExpiry(lines[k] + ' ' + (lines[k + 1] || ''), postISO, true);
     push(t, exp, true, true);
   }
-  // "디스코드 ID: girl8282" — 고객지원 연락처 아이디는 코드가 아니다(라스트 소녀 전사, 2026-10-27).
-  for (const [k, c] of found) if (new RegExp(`(?:ID|아이디)\\s*[:：]\\s*${c.code.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'i').test(text)) found.delete(k);
+  // 데일리 쿠폰을 며칠치 한 번에 올린 표 — "10월 24일(토) / b2otbyhagk / 보상": 각 코드는 바로 윗줄 날짜의 다음 날까지다(천상비K 금토일 쿠폰).
+  if (dailyNext && postISO) {
+    for (let k = 1; k < lines.length; k++) {
+      const got = found.get(String(tokenOf(lines[k]) || lines[k]).toUpperCase());
+      const m = got && lines[k - 1].match(/^(\d{1,2})\s*월\s*(\d{1,2})\s*일/);
+      if (!m) continue;
+      let y = Number(postISO.slice(0, 4));
+      if (Number(m[1]) < Number(postISO.slice(5, 7)) - 6) y += 1;   // 12월 글의 1월 날짜
+      const day = Date.UTC(y, Number(m[1]) - 1, Number(m[2]));
+      got.expiry = new Date(day + 86400000).toISOString().slice(0, 10);
+    }
+  }
+  // "디스코드 ID: girl8282", "디스코드ID ▶ (줄바꿈) girl8282" — 고객지원 연락처 아이디는 코드가 아니다(라스트 소녀 전사, 2026-10-27).
+  for (const [k, c] of found) if (new RegExp(`(?:ID|아이디)[\\s:：▶►→>-]*${c.code.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`, 'i').test(text)) found.delete(k);
   return [...found.values()];
 }
 
@@ -635,6 +648,8 @@ function merge(prev, freshCodes) {
 // 유저 게시판·끝난 이벤트 게시판은 읽지 않는다.
 const SECTION_RE = /이벤트|공지|혜택|소식|뉴스|업데이트|점검|안내|선물|event|notice|news|update/i;
 const SECTION_SKIP = /종료|당첨|결과|인증|자유|질문|건의|버그|공략|팁|가입|홍보|토론|창작|팬아트|스크린샷|길드|연맹|모집|후기|기대평/;
+// 제목에 "(코드 포함)"·쿠폰이 같이 있으면 코드 글이다(레이싱마스터 RMSPEED100).
+const WINNER_RE = /^(?!.*(?:코드|쿠폰)).*(?:당첨자|당첨\s*(?:안내|발표|결과))/;
 const TITLE_RE = /쿠폰|선물|교환\s*코드|선물\s*코드|코드\s*선물|기프트\s*코드|리딤|사전\s*(?:예약|등록)/;
 const STORE_SALE_RE = /할인|\d+\s*%|충전|페이백|결제/;
 const STORE_RE = /원스토어|구글\s*플레이|갤럭시\s*스토어|앱스토어|할인\s*쿠폰|충전/;
@@ -732,6 +747,9 @@ export async function collectOne(g) {
     if (!text) return;
     const labeled = BODY_LABEL_RE.test(text);
     if (resultsBoard && !labeled) return;
+    // 당첨자 발표 글의 닉네임·디스코드 아이디("misterrcreamy", "lakota_04")가 코드로 잡혔다(호라이즌 워커, 2026-10-27).
+    // 이런 글은 "교환 코드 : HANGEULGIFT" 같은 라벨이 있을 때만 읽는다.
+    if (WINNER_RE.test(ent(title)) && !labeled) return;
     if (titleOnly && !TITLE_RE.test(title) && !labeled) return;
     if (titleOnly && (STORE_RE.test(title) || STORE_RE.test(text.slice(0, 400))) && !labeled) return;
     const d = String(item.feed.createdDate || '');
@@ -745,7 +763,8 @@ export async function collectOne(g) {
       const again = new Map(parseCodes(text, item._updated).map((c) => [c.code.toUpperCase(), c]));
       for (const c of got) {
         const a = again.get(c.code.toUpperCase());
-        if (a?.expiry) c.expiry = a.expiry;
+        // 작성일 기준 연도 추정이 틀린 경우(2024-10-31)만 고친 날 기준 값으로 바꾼다. 데일리 쿠폰 기한(다음 날)은 그대로 둔다.
+        if (a?.expiry && (!c.expiry || c.expiry.slice(0, 4) < item._updated.slice(0, 4))) c.expiry = a.expiry;
         if (!c.expiry) c.postedAt = item._updated;
       }
     }
@@ -823,6 +842,7 @@ export async function collectOne(g) {
       item = { feed: { feedId, title: ev.title, contents: raw, createdDate: (ev.start || '').replace(/-/g, '') }, user: { userRoleCode: 'game_manager' } };
     }
     if (item.user?.userRoleCode === 'common_user') continue;
+    if (WINNER_RE.test(ev.title + ' ' + ent(item.feed.title || '')) && !BODY_LABEL_RE.test(bodyText(item.feed.contents))) continue;
     const text = bodyText(item.feed.contents);
     if (!text) continue;
     // 스토어 할인 이벤트는 거른다. 단 본문에 "쿠폰 코드: …" 가 있으면 게임 코드다.
@@ -857,6 +877,7 @@ export async function collectOne(g) {
     if (!item?.feed || item.user?.userRoleCode === 'common_user') continue;
     const text = bodyText(item.feed.contents);
     if (!text) continue;
+    if (WINNER_RE.test(ent(item.feed.title || '')) && !BODY_LABEL_RE.test(text)) continue;   // 당첨자 닉네임(호라이즌 워커)
     const d = String(item.feed.createdDate || '');
     const iso = d.length >= 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null;
     const got = parseCodes(text, iso).filter((c) => !nearDiscount(text, c.code) && !nameWords.has(c.code.toUpperCase()));

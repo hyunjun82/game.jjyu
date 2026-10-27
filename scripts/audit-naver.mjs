@@ -97,6 +97,8 @@ async function main() {
           if (!text) continue;
           const iso = `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}`;
           const nameWords = new Set(String(L.loungeName || '').toUpperCase().split(/[^A-Z0-9]+/).filter((w) => w.length >= 4));
+          // 당첨자 발표 글의 닉네임은 코드가 아니다 — "교환 코드 :" 같은 라벨이 있을 때만 본다(호라이즌 워커, 2026-10-27).
+          if (/^(?!.*(?:코드|쿠폰)).*(?:당첨자|당첨\s*(?:안내|발표|결과))/.test(ent(it.feed.title)) && !/(?:쿠폰\s*(?:코드|번호)|교환\s*코드|선물\s*코드|기프트\s*코드|리딤\s*코드)\s*[:：]/.test(text)) continue;
           const got = parseCodes(text, iso).filter((c) => !nameWords.has(c.code.toUpperCase()));
           if (!got.length) {
             if (LABEL_ONLY.test(text)) report.labelOnly.push(`${ent(L.loungeName)} | ${iso} | ${ent(it.feed.title).slice(0, 50)}`);
