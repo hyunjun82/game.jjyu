@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T05:16:36.247Z",
+  "generatedAt": "2026-10-27T08:47:44.070Z",
   "today": "2026-10-27",
-  "todayNew": 146,
+  "todayNew": 169,
   "totals": {
-    "games": 343,
-    "codes": 4895,
-    "active": 760,
-    "expired": 4135,
-    "withExpiry": 2861
+    "games": 346,
+    "codes": 4918,
+    "active": 769,
+    "expired": 4149,
+    "withExpiry": 2883
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-27",
-      "count": 146
+      "count": 169
     }
   ],
   "expiringSoon": [
@@ -131,6 +131,12 @@
     {
       "slug": "samgukji-lords-war",
       "code": "1633-4e1c52c19-1",
+      "expiry": "2026-10-27",
+      "days": 0
+    },
+    {
+      "slug": "scarlet-fantasy",
+      "code": "B8LSPX",
       "expiry": "2026-10-27",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "DIA2610",
       "expiry": "2026-10-30",
       "days": 3
-    },
-    {
-      "slug": "sindorim-with-naver-webtoon",
-      "code": "TICKET2610",
-      "expiry": "2026-10-30",
-      "days": 3
     }
   ],
   "topGames": [
@@ -471,5 +471,5 @@
       "total": 21
     }
   ],
-  "noImage": 59
+  "noImage": 58
 }

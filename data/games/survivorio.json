@@ -2,11 +2,23 @@
   "slug": "survivorio",
   "titleEn": "Survivorio",
   "titleKo": "탕탕특공대",
-  "image": null,
-  "source": "naver-search",
-  "howTo": "",
-  "updatedAt": "2026-10-27T01:27:54.316Z",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMTQ5/MDAxNzkyNTY1NzEwNDQ5.i6fv2WKeHMGUFJVmKGhsIFCpJ82ZLIs_GRNwNQA4J9Yg.tQ6kCA7Q7H6Fjvk9rKqOvzxlP7zVjnPppzQK3xOOPlwg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "source": "naver-lounge",
+  "loungeId": "Survivorio",
+  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8356207",
+  "howTo": "(frost2026) 를 입력해 선물을 받으세요!",
+  "postCount": 3,
+  "updatedAt": "2026-10-27T08:37:52.041Z",
   "codes": [
+    {
+      "code": "frost2026",
+      "reward": "",
+      "expiry": "2026-11-07",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "ACEWIN26",
       "reward": "",
@@ -56,6 +68,24 @@
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "status": "active"
+    },
+    {
+      "code": "colddew2026",
+      "reward": "",
+      "expiry": "2026-10-23",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "HiOctober26",
+      "reward": "",
+      "expiry": "2026-10-08",
+      "postedAt": "2026-10-01",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "coolautumn2026",
