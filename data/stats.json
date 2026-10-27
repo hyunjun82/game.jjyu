@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T02:56:33.451Z",
+  "generatedAt": "2026-10-27T05:16:36.247Z",
   "today": "2026-10-27",
-  "todayNew": 143,
+  "todayNew": 146,
   "totals": {
     "games": 343,
-    "codes": 4892,
-    "active": 757,
+    "codes": 4895,
+    "active": 760,
     "expired": 4135,
-    "withExpiry": 2859
+    "withExpiry": 2861
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-27",
-      "count": 143
+      "count": 146
     }
   ],
   "expiringSoon": [
@@ -397,18 +397,18 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 55
+    },
+    {
+      "slug": "dragon-traveler",
       "active": 15,
-      "total": 54
+      "total": 82
     },
     {
       "slug": "sword-immortal",
       "active": 15,
       "total": 21
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 14,
-      "total": 81
     },
     {
       "slug": "cat-hero",
