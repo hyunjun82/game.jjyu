@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T20:33:21.848Z",
+  "generatedAt": "2026-10-27T22:36:41.822Z",
   "today": "2026-10-28",
-  "todayNew": 111,
+  "todayNew": 128,
   "totals": {
-    "games": 353,
-    "codes": 5031,
-    "active": 746,
-    "expired": 4285,
-    "withExpiry": 2917
+    "games": 354,
+    "codes": 5048,
+    "active": 762,
+    "expired": 4286,
+    "withExpiry": 2930
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-28",
-      "count": 111
+      "count": 128
     }
   ],
   "expiringSoon": [
@@ -446,6 +446,11 @@
       "total": 18
     },
     {
+      "slug": "tangtangeiseu",
+      "active": 11,
+      "total": 13
+    },
+    {
       "slug": "astro-defenders",
       "active": 10,
       "total": 10
@@ -456,20 +461,15 @@
       "total": 13
     },
     {
+      "slug": "genshin-impact",
+      "active": 10,
+      "total": 28
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "kalpa-of-universe",
-      "active": 10,
-      "total": 39
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "active": 8,
-      "total": 8
     }
   ],
-  "noImage": 58
+  "noImage": 59
 }
