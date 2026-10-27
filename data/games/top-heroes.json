@@ -7,8 +7,8 @@
   "loungeId": "Top_Heroes",
   "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/8367719",
   "howTo": "",
-  "postCount": 31,
-  "updatedAt": "2026-10-27T08:34:10.179Z",
+  "postCount": 30,
+  "updatedAt": "2026-10-27T12:36:33.127Z",
   "codes": [
     {
       "code": "GB6E6010442",
@@ -87,15 +87,6 @@
       "reward": "",
       "expiry": "2026-10-23",
       "postedAt": "2026-10-22",
-      "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
-      "status": "expired"
-    },
-    {
-      "code": "GBA7065E052",
-      "reward": "",
-      "expiry": "2026-10-22",
-      "postedAt": "2026-10-21",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "status": "expired"
@@ -204,6 +195,15 @@
       "reward": "",
       "expiry": "2026-10-18",
       "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "GBA7065E052",
+      "reward": "",
+      "expiry": "2026-10-22",
+      "postedAt": "2026-10-21",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "status": "expired"
