@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T01:30:54.057Z",
+  "generatedAt": "2026-10-27T02:56:33.451Z",
   "today": "2026-10-27",
-  "todayNew": 118,
+  "todayNew": 143,
   "totals": {
-    "games": 340,
-    "codes": 4867,
-    "active": 738,
-    "expired": 4129,
-    "withExpiry": 2836
+    "games": 343,
+    "codes": 4892,
+    "active": 757,
+    "expired": 4135,
+    "withExpiry": 2859
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-27",
-      "count": 118
+      "count": 143
     }
   ],
   "expiringSoon": [
@@ -249,6 +249,12 @@
       "days": 2
     },
     {
+      "slug": "plantis-zombie-gangsters",
+      "code": "Q9N3H9",
+      "expiry": "2026-10-29",
+      "days": 2
+    },
+    {
       "slug": "samgukji-origin2",
       "code": "7047-a3c862dd9-1",
       "expiry": "2026-10-29",
@@ -361,12 +367,6 @@
       "code": "TICKET2610",
       "expiry": "2026-10-30",
       "days": 3
-    },
-    {
-      "slug": "tales-of-angels",
-      "code": "T8P2QH",
-      "expiry": "2026-10-30",
-      "days": 3
     }
   ],
   "topGames": [
@@ -399,6 +399,11 @@
       "slug": "idle-hero-but-save-the-world",
       "active": 15,
       "total": 54
+    },
+    {
+      "slug": "sword-immortal",
+      "active": 15,
+      "total": 21
     },
     {
       "slug": "dragon-traveler",
@@ -464,11 +469,6 @@
       "slug": "blood-of-youth",
       "active": 8,
       "total": 21
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "active": 8,
-      "total": 8
     }
   ],
   "noImage": 59

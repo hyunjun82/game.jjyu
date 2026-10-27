@@ -1,11 +1,14 @@
 {
   "slug": "furry-fighters-idle",
   "titleEn": "Furry Fighters Idle RPG",
-  "titleKo": "냥찍 히어로즈",
+  "titleKo": "냥찍 히어로즈: 방치형 RPG",
   "image": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfOTMg/MDAxNzczNzM3NjE3Nzk5.vF7UnjZmlQ-RhYT_QMudvNx-nK3yB_AAsbQAcKBi388g.oGfu6gW32RAE2hDdtCjsSpAY1JKSkKXIrhx3Dj0NVeEg.PNG/2.png",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "Furry_Fighters_Idle_RPG",
+  "sourceUrl": "https://game.naver.com/lounge/Furry_Fighters_Idle_RPG/board/detail/8339193",
   "howTo": "",
-  "updatedAt": "2026-10-27T01:20:56.427Z",
+  "postCount": null,
+  "updatedAt": "2026-10-27T02:39:21.416Z",
   "codes": [
     {
       "code": "TRICKORTREAT",
