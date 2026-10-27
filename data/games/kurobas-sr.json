@@ -7,9 +7,18 @@
   "loungeId": "kurobas_sr",
   "sourceUrl": "https://game.naver.com/lounge/kurobas_sr/board/detail/8368001",
   "howTo": "",
-  "postCount": 648,
-  "updatedAt": "2026-10-26T23:37:00.715Z",
+  "postCount": 650,
+  "updatedAt": "2026-10-27T00:34:02.303Z",
   "codes": [
+    {
+      "code": "1023DLWMZLTODLF",
+      "reward": "",
+      "expiry": "2026-10-28",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "1026WNRKSZNVHS",
       "reward": "",
@@ -18,6 +27,15 @@
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-10-27",
       "status": "active"
+    },
+    {
+      "code": "1009BDZHQHFL",
+      "reward": "",
+      "expiry": "2026-10-13",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "1019AOWNAZNVHS",

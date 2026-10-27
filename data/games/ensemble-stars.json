@@ -1,12 +1,33 @@
 {
   "slug": "ensemble-stars",
   "titleEn": "Ensemble Stars!!",
-  "titleKo": "앙상블스타즈",
-  "image": null,
-  "source": "naver-search",
-  "howTo": "",
-  "updatedAt": "2026-10-02T01:35:13.757Z",
+  "titleKo": "앙상블스타즈!!",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNzYg/MDAxNzkyNDYxMjU4MDYy.Ywb0TdS00cjtidSuUQuAqPTz_VIk6uzGG79P3lImq0wg.tyFMY-FFQhAN99ls_kS1GmI5G_zlnC4ejxEjOWREQOIg.PNG/10.23_%E5%91%A8%E6%9C%AB%E7%A4%BC%E9%85%8D%E5%9B%BE.png",
+  "source": "naver-lounge",
+  "loungeId": "Ensemble_Stars",
+  "sourceUrl": "https://game.naver.com/lounge/Ensemble_Stars/board/detail/8355155",
+  "howTo": "※UID 1개당 1회씩만 사용하실 수 있어요!",
+  "postCount": null,
+  "updatedAt": "2026-10-27T00:33:01.105Z",
   "codes": [
+    {
+      "code": "CUO9BJFJ69O66X8S",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "V3FVMY7FBKWLHX6F",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "7RZNLAS8293X5MJC",
       "reward": "",
@@ -16,6 +37,15 @@
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "V8Z26QYL4FVF78KN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "AEEFTPLBIT8M2M8I",

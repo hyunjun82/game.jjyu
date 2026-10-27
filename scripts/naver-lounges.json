@@ -1914,6 +1914,41 @@
       "titleKo": "용사는 검이 되었다",
       "titleEn": "Herosword",
       "auto": "2026-10-27"
+    },
+    {
+      "slug": "imaegirl",
+      "loungeId": "imaegirl",
+      "titleKo": "이매소녀",
+      "titleEn": "Imaegirl",
+      "auto": "2026-10-27"
+    },
+    {
+      "slug": "immortal-adventure",
+      "loungeId": "IMMORTAL_ADVENTURE",
+      "titleKo": "극락",
+      "titleEn": "Immortal Adventure",
+      "auto": "2026-10-27"
+    },
+    {
+      "slug": "kaind-idle",
+      "loungeId": "Kaind_idle",
+      "titleKo": "원정대 키우기",
+      "titleEn": "Kaind Idle",
+      "auto": "2026-10-27"
+    },
+    {
+      "slug": "kikikiki",
+      "loungeId": "kikikiki",
+      "titleKo": "ㅋㅋㅋㅋ",
+      "titleEn": "Kikikiki",
+      "auto": "2026-10-27"
+    },
+    {
+      "slug": "legends-reborn",
+      "loungeId": "Legends_Reborn",
+      "titleKo": "Legends Reborn: 마지막 전투",
+      "titleEn": "Legends Reborn",
+      "auto": "2026-10-27"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

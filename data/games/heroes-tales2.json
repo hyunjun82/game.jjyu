@@ -5,11 +5,30 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTJfOTkg/MDAxNzkxNzkxMzg0MjU3.FH-ZP5XMwt7fj7JVwyuDetXYW3TL23IAXxrPQpzffFUg.sJA-EVNNuUQXRFDOPYySa7xn_C1cQOzMX1AS5M8Yr0cg.JPEG/2%E5%8F%91%E4%BA%91%E4%B8%8A%E5%9F%8Ebanner%E5%85%AC%E5%91%8A.jpg",
   "source": "naver-lounge",
   "loungeId": "Heroes_tales2",
-  "sourceUrl": "https://game.naver.com/lounge/Heroes_tales2/board/detail/8317863",
-  "howTo": "",
+  "sourceUrl": "https://game.naver.com/lounge/Heroes_tales2/board/detail/8369962",
+  "howTo": "오른쪽 상단의 [혜택] 클릭 -> 마지막 탭 [교환코드]를 클릭-> 선물쿠폰 코드를 입력하시면 선물을 수령하실 수 있습니다~ 고객센터 문의방법: 메인 화면-> 계정 관리 -> 고객센터",
   "postCount": 1,
-  "updatedAt": "2026-10-26T23:39:23.965Z",
+  "updatedAt": "2026-10-27T00:36:04.769Z",
   "codes": [
+    {
+      "code": "HJQWE1026",
+      "reward": "",
+      "expiry": "2026-11-02",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "GIFT1831",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "GIFT2917",
       "reward": "",

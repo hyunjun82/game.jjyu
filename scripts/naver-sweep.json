@@ -63,7 +63,7 @@
    "error": "코드 없음"
   },
   "Jelly_Pop_Match3Puzzle": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "DNRemaster": {
@@ -128,8 +128,9 @@
    "error": "코드 없음"
   },
   "kikikiki": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 1
   },
   "RAAS": {
    "at": "2026-10-22",
@@ -536,7 +537,7 @@
    "error": "코드 없음"
   },
   "Irina_DragonSoul": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Astrae_Oratio": {
@@ -4277,70 +4278,70 @@
    "error": "보드 잠김(가입 필요)"
   },
   "Hybrid_Hero": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "hyeobmu": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "Hyper_Kingdom": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "hyundragon": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "hyuntasamguk": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
-   "total": 1
+   "total": 9
   },
   "I_Love_Coffee": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "I_Love_Venezia": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "iammt": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "icarus_eternal": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "ICARUS_M": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Ice_War_Three_Kingdoms": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
-   "total": 12
+   "total": 21
   },
   "Idle_Berserker_legend_of_kali": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Idle_Elice": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Idle_Fishing": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Idle_girl_mage": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Idle_Guardians_Tower_Defense": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Idle_Hero_but_Save_the_World": {
@@ -4361,56 +4362,56 @@
    "error": "코드 없음"
   },
   "idle_keyboard_warrior": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 12
   },
   "Idle_Lee_SeDol": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "Idle_Loot_Mercs": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Lucifer_Idle": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "idle_mask_lord": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "Idle_Master": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "IDLE_Minimon_Masters": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 15
   },
   "Idle_Shadow": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "idle_skullhero": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "idleangels": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 8
   },
   "idledragonprincess": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 5
   },
   "IdleFishingPenguin": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "IdleKing": {
@@ -4418,54 +4419,55 @@
    "error": "보드 잠김(가입 필요)"
   },
   "LUNA_The_Memory": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 3
   },
   "IdlePixelmagician": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "idleprincessknights": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "IdleSwordGirl_on_floating_island": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "IdleTranscendent": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "idleunderworld": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 3
   },
   "idlevalkyrie": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Illusion_Connect": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "imaegirl": {
-   "at": "2026-10-24",
-   "live": 0,
-   "total": 12
+   "at": "2026-10-27",
+   "live": 2,
+   "total": 14
   },
   "IMMORTAL_ADVENTURE": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 5
   },
   "Immortal_Clash": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Immortal_Rising": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "ImmortalRising": {
@@ -4477,20 +4479,20 @@
    "error": "보드 잠김(가입 필요)"
   },
   "Inariel_Legend_Dragon_Hunt": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "Infinite_Borders": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Infinite_Galaxy": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Infinite_Lagrange": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Infinite_Magicraid": {
@@ -4499,31 +4501,31 @@
    "total": 24
   },
   "Infinite_Master": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Infinite_Slime": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "INFINITY_KINGDOM": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Infinity_Strash_DRAGON_QUEST_The_Adventure_of_Dai": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "infinitysagax": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Insaeng_Ganghwa": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Inter_Luna": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 23
   },
@@ -4532,29 +4534,30 @@
    "error": "코드 없음"
   },
   "IntroGirls": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "iron_apartment_guardian": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Iron_Knight": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Iron_Saga": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Isekai_Fantasy": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "isekai_life": {
-   "at": "2026-10-24",
-   "error": "코드 없음"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 1
   },
   "IsekaiFantasyLife": {
    "at": "2026-10-27",
@@ -4562,12 +4565,12 @@
    "total": 3
   },
   "isekaisaga": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 18
   },
   "isekaisurvivor": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "isekone": {
@@ -4575,15 +4578,15 @@
    "error": "코드 없음"
   },
   "ISlime": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "ItemWorld": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "JACK52": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "JacktheRipper_HunterClan": {
@@ -4591,32 +4594,32 @@
    "error": "코드 없음"
   },
   "Jade_Dynasty": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Jade_Sword": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "jangsaenggye": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Jarlscrew": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Jegallyang": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 11
   },
   "Jellavue": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Jelly_RPG": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "Jicheon": {
@@ -4624,35 +4627,35 @@
    "error": "코드 없음"
   },
   "jicheonglobal": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Jingyeok": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "JJalltoonRumble_with_animalfriends": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "jjingangho": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "jjkphanparakr": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "jlsj": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "JM_Heroes": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "jmadam": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "John_in_woderland": {
@@ -4660,42 +4663,42 @@
    "error": "코드 없음"
   },
   "johnnarsen": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 4
   },
   "Jojo_Return_GuanYu": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "JOJO_RUSH": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 2
   },
   "JoJos_Bizarre_Adventure_Golden_Spirit": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "joody": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "joseonhunter": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "JSM": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "JUMPNG_DISABLE": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "JurassicDefence": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "jyjs3f": {
@@ -4703,24 +4706,24 @@
    "error": "코드 없음"
   },
   "jzx2": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "K_DemonHunters": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
-   "total": 3
+   "total": 28
   },
   "K_Maiden_Demon_Slayer": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "K_Zombie_Saga_Idle_Game": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "Kaind_duel": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Kaion_M": {
@@ -4729,11 +4732,11 @@
    "total": 20
   },
   "Kairos": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "Kakegurui_ALL_IN": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "KALPA_OF_UNIVERSE": {
@@ -4747,28 +4750,28 @@
    "total": 5
   },
   "Kangrim2": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "KARDS": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Karma_M": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 2
   },
   "Karnark": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Katekyo_Hitman_Reborn": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kd": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Keroro_Gun_Shooting": {
@@ -4776,36 +4779,37 @@
    "error": "코드 없음"
   },
   "KidsTopia": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "King_Arthur": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 2
   },
   "Kingdom_Assassin": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Kingdom_Fire_Of_War": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kingdom_go": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "KINGDOM_OF_HERO_TACTICS_WAR": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "KINGDOM_RISE_OF_ZOMBIES": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 6
   },
   "KINGDOM_STORY": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kingdom2_War_in_Flames": {
@@ -4813,24 +4817,24 @@
    "error": "코드 없음"
   },
   "kingdomofsword": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 3
   },
   "KingGod_Castle": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kingofprism": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Kings_Raid": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "bekkogame20": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 2
   },
@@ -4839,99 +4843,101 @@
    "error": "코드 없음"
   },
   "Kingsland": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Kinja_Run": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 2
   },
   "Kittys_Kitchen_Diary": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Kiwoyong": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 10
   },
   "kkutukorea": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Klaykingdoms": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "20211229MWYGZ": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Knights_Combo": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Knights_of_light": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Knights_of_Saint_Laurent": {
-   "at": "2026-10-24",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 1
   },
   "Knights_of_Valour_M": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "Knights_X": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kob_online": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Samgukji_hadou": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "kogkr": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "KonoSuba_Fantastic_Days": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "koreakingdom": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "janggi_ai_kr": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kdosa": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 3
   },
   "krazykakoom": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "kungfuchaos": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "KungFuUniverse": {
-   "at": "2026-10-24",
-   "error": "코드 없음"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 2
   },
   "kureumuinara": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 11
   },
@@ -4941,42 +4947,43 @@
    "total": 16
   },
   "Kwando_Three_kingdoms": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "lance": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 9
   },
   "Land_of_Despair_Avenger": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Lands_Of_Jail": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 4
   },
   "Langrisser_Sea_of_Sword": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "LAPIS_MOBILE": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 1
   },
   "Larva_Survival": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "LarvaLarva": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "Last_Cloudia": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "보드 잠김(가입 필요)"
   },
   "Last_Echo": {
@@ -4985,26 +4992,26 @@
    "total": 6
   },
   "Last_Furry_Survival": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Last_Ninja": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
-   "total": 1
+   "total": 2
   },
   "Last_Summoner": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 17
   },
   "Last_Valkyrie": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 5
   },
   "LASTFANTASY": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "LastGirl_CoreEve": {
@@ -5013,99 +5020,101 @@
    "total": 1
   },
   "LastHitDefence": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "laws_of_power": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 17
   },
   "Le_roi": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "leagueofpuzzle": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 1
   },
   "LEGEND_of_BADUK": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Legend_of_cats": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "legend_of_immortality": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "LEGEND_OF_KINGDOM": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Legend_of_Munchkin": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 2
   },
   "Legend_of_new_heros": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "LEGEND_OF_NINJACATS": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 9
   },
   "Legend_of_Ymir": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Legend_of_Zombie": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Legendary_Sword_io": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "legendhunter": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "쿠폰 보드 없음"
   },
   "legendofthegalacticheroes_rondoofwar": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "LegendofYeomra": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 0,
+   "total": 6
   },
   "Legends_Reborn": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 1,
+   "total": 1
   },
   "legendsumonners": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "LEGION": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "legionoflegend": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "LEGO_2K_Drive": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Lets_Go_Crown_Prince": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "live": 0,
    "total": 3
   },
@@ -11145,7 +11154,7 @@
    "total": 1
   },
   "japtemrpg": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Japanese_Ramen_Simulator": {
@@ -14119,8 +14128,9 @@
    "error": "코드 없음"
   },
   "Kaind_idle": {
-   "at": "2026-10-24",
-   "error": "보드 잠김(가입 필요)"
+   "at": "2026-10-27",
+   "live": 4,
+   "total": 4
   },
   "Slow_Roads": {
    "at": "2026-09-30",
@@ -17643,7 +17653,7 @@
    "error": "코드 없음"
   },
   "Infinity_Dungeon_Endless_challenge": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "System_Grid_Crusher": {
@@ -20872,7 +20882,7 @@
    "error": "코드 없음"
   },
   "Cardopolis": {
-   "at": "2026-10-24",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Oh_my_Prince": {
@@ -21484,7 +21494,7 @@
    "error": "코드 없음"
   },
   "Big_Dig": {
-   "at": "2026-10-25",
+   "at": "2026-10-27",
    "error": "코드 없음"
   },
   "Ragebait_Marathon": {

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-26T23:34:49.909Z",
+  "generatedAt": "2026-10-27T00:31:46.661Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -105,76 +105,10 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dream-furniture",
-      "loungeId": "dream_furniture",
-      "titleKo": "꿈꾸는 가구점",
-      "titleEn": "Dream Furniture"
-    },
-    {
       "slug": "dream-garden-cozy-lite-management",
       "loungeId": "Dream_Garden_Cozy_Lite_Management",
       "titleKo": "드림 가든: 추억의 힐링 경영",
       "titleEn": "Dream Garden Cozy Lite Management"
-    },
-    {
-      "slug": "dream-samguk",
-      "loungeId": "dream_samguk",
-      "titleKo": "드림삼국",
-      "titleEn": "Dream Samguk"
-    },
-    {
-      "slug": "dungeonand-breaker",
-      "loungeId": "DungeonandBreaker",
-      "titleKo": "던전앤브레이커",
-      "titleEn": "Dungeonand Breaker"
-    },
-    {
-      "slug": "dungeon-dungeon",
-      "loungeId": "DungeonDungeon",
-      "titleKo": "던전던전",
-      "titleEn": "Dungeon Dungeon"
-    },
-    {
-      "slug": "dunjeonpang",
-      "loungeId": "dunjeonpang",
-      "titleKo": "손가락 나갔다: 던전팡팡",
-      "titleEn": "Dunjeonpang"
-    },
-    {
-      "slug": "dwarfidlerpg",
-      "loungeId": "Dwarfidlerpg",
-      "titleKo": "드워프 키우기 : 방치형RPG",
-      "titleEn": "Dwarfidlerpg"
-    },
-    {
-      "slug": "dx-awaken",
-      "loungeId": "dx_awaken",
-      "titleKo": "DX: 각성자들",
-      "titleEn": "Dx Awaken"
-    },
-    {
-      "slug": "echocalypse-scarlet-covenant",
-      "loungeId": "Echocalypse_Scarlet_Covenant",
-      "titleKo": "에코칼립스: 진홍의 서약",
-      "titleEn": "Echocalypse Scarlet Covenant"
-    },
-    {
-      "slug": "eggmon",
-      "loungeId": "eggmon",
-      "titleKo": "에그몬 월드:저니",
-      "titleEn": "Eggmon"
-    },
-    {
-      "slug": "elfidle",
-      "loungeId": "elfidle",
-      "titleKo": "엘프키우기",
-      "titleEn": "Elfidle"
-    },
-    {
-      "slug": "escape-tonight-49-days",
-      "loungeId": "Escape_Tonight_49Days",
-      "titleKo": "밤탈출 - 49일",
-      "titleEn": "Escape Tonight 49 Days"
     },
     {
       "slug": "eternal-chronicle",
@@ -189,82 +123,10 @@
       "titleEn": "Solo Exorcist"
     },
     {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
-    },
-    {
-      "slug": "ex-astris",
-      "loungeId": "Ex_Astris",
-      "titleKo": "엑스 아스트리스",
-      "titleEn": "Ex Astris"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "hell-gate",
-      "loungeId": "HELL_GATE",
-      "titleKo": "헬게이트",
-      "titleEn": "Hell Gate"
-    },
-    {
-      "slug": "helmet-corps",
-      "loungeId": "HelmetCorps",
-      "titleKo": "냄비뚜껑 용병단",
-      "titleEn": "Helmet Corps"
-    },
-    {
-      "slug": "hero-raid",
-      "loungeId": "HeroRaid",
-      "titleKo": "용사 키우기",
-      "titleEn": "Hero Raid"
-    },
-    {
-      "slug": "hero-raised-by-god",
-      "loungeId": "HeroRaisedByGod",
-      "titleKo": "신이 키우는 용사",
-      "titleEn": "Hero Raised By God"
-    },
-    {
-      "slug": "adventureofheroes",
-      "loungeId": "adventureofheroes",
-      "titleKo": "히어로 모험단",
-      "titleEn": "Adventureofheroes"
-    },
-    {
-      "slug": "hidden-heroes-fortune-dungeon",
-      "loungeId": "Hidden_Heroes_Fortune_Dungeon",
-      "titleKo": "미확인용사단 : 운빨방치RPG",
-      "titleEn": "Hidden Heroes Fortune Dungeon"
-    },
-    {
-      "slug": "high-ranker",
-      "loungeId": "HighRanker",
-      "titleKo": "하이랭커",
-      "titleEn": "High Ranker"
-    },
-    {
-      "slug": "hiki",
-      "loungeId": "hiki",
-      "titleKo": "히어로즈 키우기",
-      "titleEn": "Hiki"
-    },
-    {
-      "slug": "honkai-nexus-anima",
-      "loungeId": "Honkai_Nexus_Anima",
-      "titleKo": "붕괴: 넥서스 아니마",
-      "titleEn": "Honkai Nexus Anima"
-    },
-    {
-      "slug": "hwansaenggangho",
-      "loungeId": "hwansaenggangho",
-      "titleKo": "환생강호",
-      "titleEn": "Hwansaenggangho"
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
@@ -273,10 +135,46 @@
       "titleEn": "Idle King"
     },
     {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
+    },
+    {
+      "slug": "k-zombie-saga-idle-game",
+      "loungeId": "K_Zombie_Saga_Idle_Game",
+      "titleKo": "조선 좀비전",
+      "titleEn": "K Zombie Saga Idle Game"
+    },
+    {
+      "slug": "kingdom-go",
+      "loungeId": "kingdom_go",
+      "titleKo": "주공을 지켜라",
+      "titleEn": "Kingdom Go"
+    },
+    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "langrisser-sea-of-sword",
+      "loungeId": "Langrisser_Sea_of_Sword",
+      "titleKo": "랑그릿사: 검의 바다",
+      "titleEn": "Langrisser Sea Of Sword"
+    },
+    {
+      "slug": "last-cloudia",
+      "loungeId": "Last_Cloudia",
+      "titleKo": "라스트 클라우디아",
+      "titleEn": "Last Cloudia"
     },
     {
       "slug": "pmang-new-matgo",

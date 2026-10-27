@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-26T22:51:26.397Z",
+  "updatedAt": "2026-10-27T00:39:48.546Z",
   "codes": [
+    {
+      "code": "상태",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-27",
+      "sourceUrl": "https://blog.naver.com/daseo11/224454002126",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "0910ECLIPSE",
       "reward": "",

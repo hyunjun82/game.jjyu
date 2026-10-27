@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T23:54:49.821Z",
+  "generatedAt": "2026-10-27T00:47:20.808Z",
   "today": "2026-10-27",
-  "todayNew": 12,
+  "todayNew": 118,
   "totals": {
-    "games": 332,
-    "codes": 4783,
-    "active": 716,
-    "expired": 4067,
-    "withExpiry": 2778
+    "games": 339,
+    "codes": 4889,
+    "active": 758,
+    "expired": 4131,
+    "withExpiry": 2857
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-27",
-      "count": 12
+      "count": 118
     }
   ],
   "expiringSoon": [
@@ -77,6 +77,30 @@
     {
       "slug": "boneagain",
       "code": "O9DNSD",
+      "expiry": "2026-10-27",
+      "days": 0
+    },
+    {
+      "slug": "cheonsangbi-k",
+      "code": "bf4cfaoze1",
+      "expiry": "2026-10-27",
+      "days": 0
+    },
+    {
+      "slug": "cheonsangbi-k",
+      "code": "ans7jml077",
+      "expiry": "2026-10-27",
+      "days": 0
+    },
+    {
+      "slug": "cheonsangbi-k",
+      "code": "b8k0u5le8l",
+      "expiry": "2026-10-27",
+      "days": 0
+    },
+    {
+      "slug": "cheonsangbi-k",
+      "code": "b2otbyhagk",
       "expiry": "2026-10-27",
       "days": 0
     },
@@ -129,6 +153,12 @@
       "days": 0
     },
     {
+      "slug": "top-heroes",
+      "code": "GB6E6010442",
+      "expiry": "2026-10-27",
+      "days": 0
+    },
+    {
       "slug": "tree-of-savior-m",
       "code": "HANGEUL",
       "expiry": "2026-10-27",
@@ -173,6 +203,12 @@
     {
       "slug": "kaion-m",
       "code": "S1MOZX4S",
+      "expiry": "2026-10-28",
+      "days": 1
+    },
+    {
+      "slug": "kurobas-sr",
+      "code": "1023DLWMZLTODLF",
       "expiry": "2026-10-28",
       "days": 1
     },
@@ -249,6 +285,24 @@
       "days": 2
     },
     {
+      "slug": "the-cozy-florist",
+      "code": "M1dfaf37",
+      "expiry": "2026-10-29",
+      "days": 2
+    },
+    {
+      "slug": "top-heroes",
+      "code": "St0rmCl4w",
+      "expiry": "2026-10-29",
+      "days": 2
+    },
+    {
+      "slug": "top-heroes",
+      "code": "St0rmS0ng",
+      "expiry": "2026-10-29",
+      "days": 2
+    },
+    {
       "slug": "astro-defenders",
       "code": "ASTRO",
       "expiry": "2026-10-30",
@@ -313,60 +367,6 @@
       "code": "EDKGTC",
       "expiry": "2026-10-30",
       "days": 3
-    },
-    {
-      "slug": "sindorim-with-naver-webtoon",
-      "code": "DIA2610",
-      "expiry": "2026-10-30",
-      "days": 3
-    },
-    {
-      "slug": "sindorim-with-naver-webtoon",
-      "code": "TICKET2610",
-      "expiry": "2026-10-30",
-      "days": 3
-    },
-    {
-      "slug": "tales-of-angels",
-      "code": "T8P2QH",
-      "expiry": "2026-10-30",
-      "days": 3
-    },
-    {
-      "slug": "9-up-probaseball",
-      "code": "26samsungkia",
-      "expiry": "2026-10-31",
-      "days": 4
-    },
-    {
-      "slug": "9-up-probaseball",
-      "code": "26spokialg",
-      "expiry": "2026-10-31",
-      "days": 4
-    },
-    {
-      "slug": "9-up-probaseball",
-      "code": "26wakalgdoosan",
-      "expiry": "2026-10-31",
-      "days": 4
-    },
-    {
-      "slug": "boneagain",
-      "code": "HP1YEAR",
-      "expiry": "2026-10-31",
-      "days": 4
-    },
-    {
-      "slug": "busy-savior",
-      "code": "q9ve2ltp",
-      "expiry": "2026-10-31",
-      "days": 4
-    },
-    {
-      "slug": "busy-savior",
-      "code": "h6fj4zrm",
-      "expiry": "2026-10-31",
-      "days": 4
     }
   ],
   "topGames": [
@@ -466,10 +466,10 @@
       "total": 39
     },
     {
-      "slug": "chaos-zero-nightmare",
+      "slug": "blood-of-youth",
       "active": 8,
-      "total": 8
+      "total": 21
     }
   ],
-  "noImage": 63
+  "noImage": 59
 }

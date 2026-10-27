@@ -5,11 +5,38 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA0MjFfMjUy/MDAxNzc2NzQzMTY1NDE2.1eOEJnvgFYwFsoUeWVPy0TkCaVm2WQL__vDJUqo-hogg.yIVdU2Mb3Za_tPO1hH0YQP51_BOt03k6Mg_MDhl-eYsg.PNG/%EB%B6%84%EC%9F%81%EC%9D%98_%EC%8B%9C%EB%8C%80.png",
   "source": "naver-lounge",
   "loungeId": "Top_Heroes",
-  "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/8358643",
+  "sourceUrl": "https://game.naver.com/lounge/Top_Heroes/board/detail/8367719",
   "howTo": "",
-  "postCount": 26,
-  "updatedAt": "2026-10-26T23:36:47.080Z",
+  "postCount": 31,
+  "updatedAt": "2026-10-27T00:32:49.141Z",
   "codes": [
+    {
+      "code": "GB6E6010442",
+      "reward": "",
+      "expiry": "2026-10-27",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "St0rmCl4w",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
+    {
+      "code": "St0rmS0ng",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "active"
+    },
     {
       "code": "GB08345E8F1",
       "reward": "",
@@ -45,6 +72,141 @@
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-10-27",
       "status": "active"
+    },
+    {
+      "code": "GB2BA2CD8F5D",
+      "reward": "",
+      "expiry": "2026-10-26",
+      "postedAt": "2026-10-25",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "GB794DCE65",
+      "reward": "",
+      "expiry": "2026-10-23",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "GBA7065E052",
+      "reward": "",
+      "expiry": "2026-10-22",
+      "postedAt": "2026-10-21",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "DrAg0n",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "Fl1gHt",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "ScAl3Z",
+      "reward": "",
+      "expiry": "2026-10-15",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "F1r3B",
+      "reward": "",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "W1NgZ",
+      "reward": "",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "Cl4wS",
+      "reward": "",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "V1k1Ng",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "Ax3H1t",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "Sh13ld",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "H4mm3r",
+      "reward": "",
+      "expiry": "2026-10-18",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "W4rr1or",
+      "reward": "",
+      "expiry": "2026-10-18",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "T4m3r",
+      "reward": "",
+      "expiry": "2026-10-18",
+      "postedAt": "2026-10-12",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
     },
     {
       "code": "GB0DFE1F7925",
