@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-27T15:07:21.771Z",
+  "generatedAt": "2026-10-27T20:18:22.824Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -45,16 +45,22 @@
       "titleEn": "Arknights_Endfield"
     },
     {
-      "slug": "wtbk",
-      "loungeId": "wtbk",
-      "titleKo": "왓더뼈킹",
-      "titleEn": "wtbk"
-    },
-    {
       "slug": "watcher-of-realms",
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
       "titleEn": "Watcher Of Realms"
+    },
+    {
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
+    },
+    {
+      "slug": "wtbk",
+      "loungeId": "wtbk",
+      "titleKo": "왓더뼈킹",
+      "titleEn": "wtbk"
     },
     {
       "slug": "toysamguk",
@@ -69,12 +75,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "tukiers-god-tier-life-idle-tycoon",
-      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
-      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
-      "titleEn": "Tukiers God Tier Life Idle Tycoon"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -87,16 +87,64 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
-    },
-    {
       "slug": "along-with-the-ghost",
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
+    },
+    {
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
+    },
+    {
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -133,6 +181,24 @@
       "loungeId": "solo_exorcist",
       "titleKo": "나만 SSS급 퇴마사",
       "titleEn": "Solo Exorcist"
+    },
+    {
+      "slug": "final-guild",
+      "loungeId": "FinalGuild",
+      "titleKo": "파이널길드",
+      "titleEn": "Final Guild"
+    },
+    {
+      "slug": "finalhunter",
+      "loungeId": "finalhunter",
+      "titleKo": "파이널 헌터",
+      "titleEn": "Finalhunter"
+    },
+    {
+      "slug": "fishclush",
+      "loungeId": "Fishclush",
+      "titleKo": "먹텐물꼬기",
+      "titleEn": "Fishclush"
     },
     {
       "slug": "idle-king",
@@ -181,42 +247,6 @@
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "the-pixel-ark",
-      "loungeId": "THE_PIXEL_ARK",
-      "titleKo": "픽셀방주",
-      "titleEn": "The Pixel Ark"
-    },
-    {
-      "slug": "three-kingdoms-rise-of-warlords",
-      "loungeId": "Three_kingdoms_Rise_of_Warlords",
-      "titleKo": "삼국지: 군웅할거",
-      "titleEn": "Three Kingdoms Rise Of Warlords"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
-    },
-    {
-      "slug": "ultirpg",
-      "loungeId": "ultirpg",
-      "titleKo": "실력존많겜",
-      "titleEn": "Ultirpg"
-    },
-    {
-      "slug": "undergroundz",
-      "loungeId": "undergroundz",
-      "titleKo": "이번역은 좀비입니다",
-      "titleEn": "Undergroundz"
-    },
-    {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
     }
   ]
 }

@@ -2041,6 +2041,34 @@
       "titleKo": "천마지만 삼국지에서 무쌍중입니다",
       "titleEn": "Cheon Sam Mu",
       "auto": "2026-10-27"
+    },
+    {
+      "slug": "dark-m",
+      "loungeId": "Dark_M",
+      "titleKo": "다크M",
+      "titleEn": "Dark M",
+      "auto": "2026-10-28"
+    },
+    {
+      "slug": "dark-slayer-sd",
+      "loungeId": "Dark_Slayer_SD",
+      "titleKo": "다크슬레이어2",
+      "titleEn": "Dark Slayer Sd",
+      "auto": "2026-10-28"
+    },
+    {
+      "slug": "demon-sorceress",
+      "loungeId": "Demon_Sorceress",
+      "titleKo": "데몬 소서리스 키우기",
+      "titleEn": "Demon Sorceress",
+      "auto": "2026-10-28"
+    },
+    {
+      "slug": "devil-hunter-idle",
+      "loungeId": "Devil_Hunter_Idle",
+      "titleKo": "데빌 헌터 키우기",
+      "titleEn": "Devil Hunter Idle",
+      "auto": "2026-10-28"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
