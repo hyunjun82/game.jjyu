@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8356207",
   "howTo": "(frost2026) 를 입력해 선물을 받으세요!",
   "postCount": 2,
-  "updatedAt": "2026-10-27T12:40:15.927Z",
+  "updatedAt": "2026-10-27T15:12:00.252Z",
   "codes": [
     {
       "code": "frost2026",
@@ -16,8 +16,17 @@
       "expiry": "2026-11-07",
       "postedAt": "2026-10-23",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "active"
+    },
+    {
+      "code": "colddew2026",
+      "reward": "",
+      "expiry": "2026-10-23",
+      "postedAt": "2026-10-08",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
+      "status": "expired"
     },
     {
       "code": "ACEWIN26",
@@ -27,7 +36,7 @@
       "sourceUrl": "https://blog.naver.com/hhochh/224452818624",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ACEWIN",
@@ -37,7 +46,7 @@
       "sourceUrl": "https://blog.naver.com/hhochh/224452818624",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ACE777",
@@ -47,7 +56,7 @@
       "sourceUrl": "https://blog.naver.com/hhochh/224452818624",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GOODACE",
@@ -57,7 +66,7 @@
       "sourceUrl": "https://blog.naver.com/hhochh/224452818624",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "TANGTANG888",
@@ -65,15 +74,6 @@
       "expiry": null,
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/hhochh/224452818624",
-      "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
-      "status": "active"
-    },
-    {
-      "code": "colddew2026",
-      "reward": "",
-      "expiry": "2026-10-23",
-      "postedAt": "2026-10-08",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27",
       "status": "expired"

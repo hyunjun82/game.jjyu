@@ -8,25 +8,25 @@
   "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8321188",
   "howTo": "신나는 무림 모험을 떠나 보아요~! 💚",
   "postCount": 5,
-  "updatedAt": "2026-10-27T12:37:59.633Z",
+  "updatedAt": "2026-10-27T15:09:49.524Z",
   "codes": [
-    {
-      "code": "MUMUKUNGFU",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-13",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-27",
-      "status": "active"
-    },
     {
       "code": "GIFT2026OCT",
       "reward": "",
       "expiry": "2026-10-31",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "active"
+    },
+    {
+      "code": "MUMUKUNGFU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-28",
+      "status": "expired"
     },
     {
       "code": "PEACHLAND",
@@ -34,7 +34,7 @@
       "expiry": "2026-07-27",
       "postedAt": "2026-07-14",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-10-04",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-10-01",
       "postedAt": "2026-09-22",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "expired"
     }
   ]

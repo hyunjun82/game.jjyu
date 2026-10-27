@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Samgukji_Lords_War/board/detail/8345662",
   "howTo": "",
   "postCount": 123,
-  "updatedAt": "2026-10-27T12:39:21.701Z",
+  "updatedAt": "2026-10-27T15:11:08.812Z",
   "codes": [
     {
       "code": "1633-4e1c52c19-1",
@@ -16,8 +16,8 @@
       "expiry": "2026-10-27",
       "postedAt": "2026-10-21",
       "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-27",
-      "status": "active"
+      "lastSeen": "2026-10-28",
+      "status": "expired"
     },
     {
       "code": "1621-c2444e6e6-1",
@@ -25,7 +25,7 @@
       "expiry": "2026-10-08",
       "postedAt": "2026-10-03",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "expired"
     }
   ]
