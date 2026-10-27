@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T00:47:20.808Z",
+  "generatedAt": "2026-10-27T01:30:54.057Z",
   "today": "2026-10-27",
   "todayNew": 118,
   "totals": {
-    "games": 339,
-    "codes": 4889,
-    "active": 758,
-    "expired": 4131,
-    "withExpiry": 2857
+    "games": 340,
+    "codes": 4867,
+    "active": 738,
+    "expired": 4129,
+    "withExpiry": 2836
   },
   "newByDate": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "date": "2026-10-26",
-      "count": 76
+      "count": 60
     },
     {
       "date": "2026-10-27",
@@ -83,24 +83,6 @@
     {
       "slug": "cheonsangbi-k",
       "code": "bf4cfaoze1",
-      "expiry": "2026-10-27",
-      "days": 0
-    },
-    {
-      "slug": "cheonsangbi-k",
-      "code": "ans7jml077",
-      "expiry": "2026-10-27",
-      "days": 0
-    },
-    {
-      "slug": "cheonsangbi-k",
-      "code": "b8k0u5le8l",
-      "expiry": "2026-10-27",
-      "days": 0
-    },
-    {
-      "slug": "cheonsangbi-k",
-      "code": "b2otbyhagk",
       "expiry": "2026-10-27",
       "days": 0
     },
@@ -367,6 +349,24 @@
       "code": "EDKGTC",
       "expiry": "2026-10-30",
       "days": 3
+    },
+    {
+      "slug": "sindorim-with-naver-webtoon",
+      "code": "DIA2610",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "sindorim-with-naver-webtoon",
+      "code": "TICKET2610",
+      "expiry": "2026-10-30",
+      "days": 3
+    },
+    {
+      "slug": "tales-of-angels",
+      "code": "T8P2QH",
+      "expiry": "2026-10-30",
+      "days": 3
     }
   ],
   "topGames": [
@@ -394,11 +394,6 @@
       "slug": "dungeon-hunter6-awakening",
       "active": 16,
       "total": 42
-    },
-    {
-      "slug": "horizon-walker",
-      "active": 16,
-      "total": 25
     },
     {
       "slug": "idle-hero-but-save-the-world",
@@ -469,6 +464,11 @@
       "slug": "blood-of-youth",
       "active": 8,
       "total": 21
+    },
+    {
+      "slug": "chaos-zero-nightmare",
+      "active": 8,
+      "total": 8
     }
   ],
   "noImage": 59
