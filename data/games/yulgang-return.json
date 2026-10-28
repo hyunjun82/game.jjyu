@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-28T12:55:02.861Z",
+  "updatedAt": "2026-10-28T21:21:54.568Z",
   "codes": [
     {
       "code": "LOUNGE50000",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     },
     {
       "code": "LOUNGE30000",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     },
     {
       "code": "LOUNGE10000",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     },
     {
       "code": "HOTHOT",
@@ -44,8 +44,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     },
     {
       "code": "KR888",
@@ -54,8 +54,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     },
     {
       "code": "KR555",
@@ -64,8 +64,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     },
     {
       "code": "yulgangkr",
@@ -74,8 +74,8 @@
       "postedAt": "2026-10-14",
       "sourceUrl": "https://blog.naver.com/2ungggg/224441340072",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     }
   ]
 }

@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-28T13:03:23.599Z",
+  "updatedAt": "2026-10-28T21:29:55.085Z",
   "codes": [
-    {
-      "code": "epicwithczn",
-      "reward": "",
-      "expiry": "2026-10-28",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/12512512/224453325521",
-      "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
-      "status": "expired"
-    },
     {
       "code": "DZNNEWPDGIFT3ND",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/kkodug9/224453340447",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -34,7 +24,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/kkodug9/224453340447",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -44,7 +34,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -54,7 +44,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -64,7 +54,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -74,7 +64,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -84,8 +74,18 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
+    },
+    {
+      "code": "epicwithczn",
+      "reward": "",
+      "expiry": "2026-10-28",
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/12512512/224453325521",
+      "firstSeen": "2026-10-25",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     }
   ]
 }

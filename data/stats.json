@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T16:35:32.175Z",
+  "generatedAt": "2026-10-28T21:31:34.774Z",
   "today": "2026-10-29",
-  "todayNew": 12,
+  "todayNew": 17,
   "totals": {
-    "games": 363,
-    "codes": 5094,
-    "active": 770,
-    "expired": 4324,
-    "withExpiry": 2953
+    "games": 365,
+    "codes": 5099,
+    "active": 763,
+    "expired": 4336,
+    "withExpiry": 2957
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-29",
-      "count": 12
+      "count": 17
     }
   ],
   "expiringSoon": [
@@ -406,11 +406,6 @@
       "total": 21
     },
     {
-      "slug": "cat-hero",
-      "active": 13,
-      "total": 17
-    },
-    {
       "slug": "dragon-traveler",
       "active": 13,
       "total": 82
@@ -469,6 +464,11 @@
       "slug": "kalpa-of-universe",
       "active": 10,
       "total": 39
+    },
+    {
+      "slug": "meipeulm",
+      "active": 8,
+      "total": 8
     }
   ],
   "noImage": 59

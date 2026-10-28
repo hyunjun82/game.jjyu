@@ -2133,6 +2133,20 @@
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost",
       "auto": "2026-10-29"
+    },
+    {
+      "slug": "become-a-lord",
+      "loungeId": "Become_a_lord",
+      "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
+      "titleEn": "Become A Lord",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "blood-soul",
+      "loungeId": "BloodSoul",
+      "titleKo": "ASURA: 블러드 앤 소울",
+      "titleEn": "Blood Soul",
+      "auto": "2026-10-29"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

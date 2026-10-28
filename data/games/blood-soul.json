@@ -1,0 +1,41 @@
+{
+  "slug": "blood-soul",
+  "titleEn": "Blood Soul",
+  "titleKo": "ASURA: 블러드 앤 소울",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMTA3/MDAxNzkwNTY0MTc0NTQz.KdXGKPr1DPUEqDX61GMKyxYKb8wXzIHud6RVRvM-usYg.IQZtUQkxcLlzYdP0j8jxatTitzcjp3U71Pma36UmDOog.JPEG/7-%E7%A4%BE%E7%BE%A4%E8%B4%B4%E6%96%87%E9%A1%B6%E5%9B%BE-07.jpg",
+  "source": "naver-lounge",
+  "loungeId": "BloodSoul",
+  "sourceUrl": "https://game.naver.com/lounge/BloodSoul/board/detail/8305136",
+  "howTo": "",
+  "postCount": null,
+  "updatedAt": "2026-10-28T21:21:44.650Z",
+  "codes": [
+    {
+      "code": "hangulday",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "Gaecheon1003",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "MIDAUT26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    }
+  ]
+}
