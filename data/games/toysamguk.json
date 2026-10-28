@@ -2,11 +2,23 @@
   "slug": "toysamguk",
   "titleEn": "Toysamguk",
   "titleKo": "토이 삼국",
-  "image": null,
-  "source": "naver-search",
-  "howTo": "",
-  "updatedAt": "2026-10-28T13:00:06.255Z",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MDNfMjUg/MDAxNzgzMDQ2ODExMjg1.YclZZ4URwTmE9m-WqoL0lAm1t5hz9mWYLdyMEFwP0t8g.FzOytxzr7Xh2fsrPC0akCp8M59zXXxMKK8S_fm3-Nx4g.PNG/%E5%85%AC%E5%91%8A1000x220_(3).png",
+  "source": "naver-lounge",
+  "loungeId": "toysamguk",
+  "sourceUrl": "https://game.naver.com/lounge/toysamguk/board/detail/8373104",
+  "howTo": "스텝1) 왼쪽 위의 프로필 버튼 스텝2) 하단의 교환코드 버튼 스텝3) 쿠폰번호 입력 및 보상 수령",
+  "postCount": 1,
+  "updatedAt": "2026-10-28T16:22:56.753Z",
   "codes": [
+    {
+      "code": "W3tF6p",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-27",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "ToyOpen",
       "reward": "",

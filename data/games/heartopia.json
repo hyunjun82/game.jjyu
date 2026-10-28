@@ -2,29 +2,30 @@
   "slug": "heartopia",
   "titleEn": "Heartopia",
   "titleKo": "두근두근타운",
-  "image": "https://media.pocketgamer.com/artwork/na-37825-1767889075/heartopia-launch-keyvis.jpg",
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMTM0/MDAxNzkyNDYxMDQxNjcw.CdUbOveEk7ZWAUcu9xMhLH9BVKjubwCn_B7_9Z9u8log.4EuuHiEQsqnBpOU3qF0ySTmv3maWZioNrv418yLmCkEg.JPEG/%EB%A6%AC%EB%94%A4_%EC%BD%94%EB%93%9C.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Heartopia",
+  "sourceUrl": "https://game.naver.com/lounge/Heartopia/board/detail/8368206",
   "howTo": "",
-  "updatedAt": "2026-10-28T12:59:42.055Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-28T16:22:56.045Z",
   "codes": [
     {
-      "code": "hangeulday1009",
+      "code": "p7k5a3n9r2m8",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-23",
-      "sourceUrl": "https://blog.naver.com/gguzing/224450758055",
-      "firstSeen": "2026-10-23",
-      "lastSeen": "2026-10-28",
+      "expiry": "2026-12-04",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
       "code": "a4m8r2k7n6q5",
       "reward": "",
       "expiry": "2026-12-04",
-      "postedAt": "2026-10-20",
-      "sourceUrl": "https://blog.naver.com/usxmfh0903/224447185267",
+      "postedAt": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -46,6 +47,16 @@
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-28",
       "status": "active"
+    },
+    {
+      "code": "hangeulday1009",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-23",
+      "sourceUrl": "https://blog.naver.com/gguzing/224450758055",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-28",
+      "status": "expired"
     },
     {
       "code": "moonlike2609",

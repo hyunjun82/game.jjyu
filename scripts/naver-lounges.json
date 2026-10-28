@@ -2091,6 +2091,48 @@
       "titleEn": "Dragon_Knight_Idle",
       "auto": "2026-10-28",
       "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "romantic-gangho",
+      "loungeId": "RomanticGangho",
+      "titleKo": "낭만강호",
+      "titleEn": "Romantic Gangho",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "heartopia",
+      "loungeId": "Heartopia",
+      "titleKo": "두근두근타운",
+      "titleEn": "Heartopia",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "toysamguk",
+      "loungeId": "toysamguk",
+      "titleKo": "토이 삼국",
+      "titleEn": "Toysamguk",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "32-heroes",
+      "loungeId": "32Heroes",
+      "titleKo": "32용사 키우기",
+      "titleEn": "32 Heroes",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "akir-call-of-aesir",
+      "loungeId": "AKIR_CALL_OF_AESIR",
+      "titleKo": "아키르: 콜 오브 에시르",
+      "titleEn": "Akir Call Of Aesir",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "along-with-the-ghost",
+      "loungeId": "Along_with_the_ghost",
+      "titleKo": "귀신과 함께",
+      "titleEn": "Along With The Ghost",
+      "auto": "2026-10-29"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

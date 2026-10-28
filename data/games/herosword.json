@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/herosword/board/detail/1517028",
   "howTo": "설정 > 쿠폰 > 쿠폰코드 입력",
   "postCount": 10,
-  "updatedAt": "2026-10-28T13:09:41.145Z",
+  "updatedAt": "2026-10-28T16:22:40.858Z",
   "codes": [
     {
       "code": "USER10000",
@@ -17,7 +17,7 @@
       "expiryFrom": "permanent",
       "postedAt": "2023-01-20",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -26,7 +26,7 @@
       "expiry": null,
       "postedAt": "2023-02-02",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -35,7 +35,7 @@
       "expiry": null,
       "postedAt": "2023-01-31",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -44,7 +44,7 @@
       "expiry": null,
       "postedAt": "2023-01-20",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -53,7 +53,7 @@
       "expiry": null,
       "postedAt": "2023-01-02",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -62,7 +62,7 @@
       "expiry": null,
       "postedAt": "2022-12-03",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -71,7 +71,7 @@
       "expiry": null,
       "postedAt": "2022-11-08",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -80,7 +80,7 @@
       "expiry": null,
       "postedAt": "2022-11-08",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -89,7 +89,7 @@
       "expiry": null,
       "postedAt": "2022-11-08",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
@@ -98,7 +98,7 @@
       "expiry": null,
       "postedAt": "2022-11-08",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "expired"
     }
   ]

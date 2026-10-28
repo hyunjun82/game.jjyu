@@ -2,11 +2,23 @@
   "slug": "along-with-the-ghost",
   "titleEn": "Along With The Ghost",
   "titleKo": "귀신과 함께",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA4MDRfMTYg/MDAxNzU0Mjg3OTI1OTA0.flA4-RK9mmUPCxMa2Ii6n7JFD0wJccVPNmnV_EM8mUMg.jP6BT1u2uvc717bH8lhRtUm2EMgrLb0SMNQnN9I6lBog.JPEG/%EC%A3%BC%EB%A7%90_%EC%BD%94%EB%93%9C.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Along_with_the_ghost",
+  "sourceUrl": "https://game.naver.com/lounge/Along_with_the_ghost/board/detail/8085332",
   "howTo": "",
-  "updatedAt": "2026-10-02T14:17:44.298Z",
+  "postCount": null,
+  "updatedAt": "2026-10-28T16:22:59.031Z",
   "codes": [
+    {
+      "code": "ASY821",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-21",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
     {
       "code": "G5HOST",
       "reward": "",
@@ -15,7 +27,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GHOST1",
@@ -25,7 +37,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GH2OST",
@@ -35,7 +47,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GHO3ST",
@@ -45,7 +57,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ONEGHOST",
@@ -55,7 +67,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "PREGIFT3",
@@ -65,7 +77,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "DOWNLOAD01",
@@ -75,7 +87,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GIFT999",
@@ -85,7 +97,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GHOS4T",
@@ -95,7 +107,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "PRE999",
@@ -105,7 +117,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "COUNTDOWN04",
@@ -115,7 +127,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "COUNTDOWN05",
@@ -125,7 +137,7 @@
       "sourceUrl": "https://blog.naver.com/yrkmtsqpppbfy/224422878489",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

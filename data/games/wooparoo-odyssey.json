@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Wooparoo_Odyssey/board/detail/8345514",
   "howTo": "",
   "postCount": 4,
-  "updatedAt": "2026-10-28T13:09:15.150Z",
+  "updatedAt": "2026-10-28T16:22:15.333Z",
   "codes": [
     {
       "code": "WPR3RDANVCOUPON4",
@@ -16,16 +16,7 @@
       "expiry": "2026-11-18",
       "postedAt": "2026-10-21",
       "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-28",
-      "status": "active"
-    },
-    {
-      "code": "ADVENTUREDICE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": "2026-11-11",
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
@@ -47,13 +38,22 @@
       "status": "active"
     },
     {
+      "code": "ADVENTUREDICE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
+    {
       "code": "WPR3RDANVCOUPON1",
       "reward": "",
       "expiry": "2026-10-28",
       "postedAt": "2026-09-30",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-28",
-      "status": "active"
+      "lastSeen": "2026-10-29",
+      "status": "expired"
     }
   ]
 }
