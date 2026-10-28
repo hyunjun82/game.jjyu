@@ -2,14 +2,23 @@
   "slug": "hero-clash",
   "titleEn": "Hero Clash",
   "titleKo": "히어로 클래시",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTlfNDQg/MDAxNzkyNDA2Nzk3MTQz.N05q199Sve71qStv6OqM5r29yK1LjzaHvTmd5QO44m8g.Ff1eLagp-mNhsMi8yHMIdJ5J6ABUo_e3FQul3OLdDgMg.JPEG/%E4%B8%96%E7%95%8C%E6%91%84%E5%BD%B1%E6%97%A5%E5%85%91%E6%8D%A2%E7%A0%81%E9%9F%A9%E6%96%87.jpg",
+  "image": "https://video-phinf.pstatic.net/20261026_202/1792996654771XfIo3_JPEG/jQ0REK8sXT_03.jpg",
   "source": "naver-lounge",
   "loungeId": "Hero_Clash",
-  "sourceUrl": "https://game.naver.com/lounge/Hero_Clash/board/detail/8342775",
+  "sourceUrl": "https://game.naver.com/lounge/Hero_Clash/board/detail/8376123",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-10-28T00:01:46.372Z",
+  "updatedAt": "2026-10-28T02:46:25.400Z",
   "codes": [
+    {
+      "code": "GODVERITAS",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28",
+      "status": "active"
+    },
     {
       "code": "CHEFDAYOCT",
       "reward": "",
