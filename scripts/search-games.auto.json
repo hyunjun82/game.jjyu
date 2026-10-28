@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-27T20:18:22.824Z",
+  "generatedAt": "2026-10-28T00:00:19.188Z",
   "games": [
     {
       "slug": "monsterhunteroutlanders",
@@ -75,6 +75,18 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
+      "slug": "kungfuchaos",
+      "loungeId": "kungfuchaos",
+      "titleKo": "문파존망겜",
+      "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "star-of-the-overlord",
+      "loungeId": "Star_of_the_Overlord",
+      "titleKo": "패왕의별M",
+      "titleEn": "Star Of The Overlord"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -91,60 +103,6 @@
       "loungeId": "Along_with_the_ghost",
       "titleKo": "귀신과 함께",
       "titleEn": "Along With The Ghost"
-    },
-    {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
-    },
-    {
-      "slug": "crystal-of-atlan",
-      "loungeId": "Crystal_of_Atlan",
-      "titleKo": "CoA: 아틀란의 크리스탈",
-      "titleEn": "Crystal Of Atlan"
-    },
-    {
-      "slug": "darkanddarkermobile",
-      "loungeId": "darkanddarkermobile",
-      "titleKo": "어비스 오브 던전",
-      "titleEn": "Darkanddarkermobile"
-    },
-    {
-      "slug": "dark-clan",
-      "loungeId": "Dark_Clan",
-      "titleKo": "다크 클랜 : 수집 방치형 RPG",
-      "titleEn": "Dark Clan"
-    },
-    {
-      "slug": "dark-three-kingdoms",
-      "loungeId": "DARK_THREE_KINGDOMS",
-      "titleKo": "다크삼국",
-      "titleEn": "Dark Three Kingdoms"
-    },
-    {
-      "slug": "darkeden-r",
-      "loungeId": "DARKEDEN_R",
-      "titleKo": "다크에덴R",
-      "titleEn": "Darkeden R"
-    },
-    {
-      "slug": "defenseking",
-      "loungeId": "defenseking",
-      "titleKo": "디펜스 킹",
-      "titleEn": "Defenseking"
-    },
-    {
-      "slug": "demonsamguk",
-      "loungeId": "demonsamguk",
-      "titleKo": "전지적 시점:데몬 삼국",
-      "titleEn": "Demonsamguk"
-    },
-    {
-      "slug": "devil-note",
-      "loungeId": "Devil_Note",
-      "titleKo": "데빌노트: 보물 헌터",
-      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -183,34 +141,70 @@
       "titleEn": "Solo Exorcist"
     },
     {
-      "slug": "final-guild",
-      "loungeId": "FinalGuild",
-      "titleKo": "파이널길드",
-      "titleEn": "Final Guild"
+      "slug": "football-top-manager",
+      "loungeId": "Football_Top_Manager",
+      "titleKo": "풋볼 탑 매니저",
+      "titleEn": "Football Top Manager"
     },
     {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
+      "slug": "fresh-rpg",
+      "loungeId": "FreshRPG",
+      "titleKo": "싱싱한RPG : 강남상어 키우기",
+      "titleEn": "Fresh Rpg"
     },
     {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
+      "slug": "gaiam",
+      "loungeId": "GAIAM",
+      "titleKo": "가이아M",
+      "titleEn": "Gaiam"
+    },
+    {
+      "slug": "game-of-money",
+      "loungeId": "Game_Of_Money",
+      "titleKo": "대표님을 부탁해",
+      "titleEn": "Game Of Money"
+    },
+    {
+      "slug": "ghost-soul-afk",
+      "loungeId": "GhostSoulAFK",
+      "titleKo": "귀혼키우기",
+      "titleEn": "Ghost Soul Afk"
+    },
+    {
+      "slug": "weapon-master",
+      "loungeId": "WeaponMaster",
+      "titleKo": "웨폰마스터 키우기",
+      "titleEn": "Weapon Master"
+    },
+    {
+      "slug": "goblin-slayer",
+      "loungeId": "Goblin_Slayer",
+      "titleKo": "고블린 슬레이어 키우기",
+      "titleEn": "Goblin Slayer"
+    },
+    {
+      "slug": "god-slayer",
+      "loungeId": "God_Slayer",
+      "titleKo": "갓 슬레이어",
+      "titleEn": "God Slayer"
+    },
+    {
+      "slug": "grim-soul",
+      "loungeId": "Grim_Soul",
+      "titleKo": "그림소울",
+      "titleEn": "Grim Soul"
+    },
+    {
+      "slug": "gumihomobile",
+      "loungeId": "gumihomobile",
+      "titleKo": "요신:구미호뎐",
+      "titleEn": "Gumihomobile"
     },
     {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
-    },
-    {
-      "slug": "kungfuchaos",
-      "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
-      "titleEn": "Kungfuchaos"
     },
     {
       "slug": "pmang-new-matgo",
@@ -235,12 +229,6 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
-    },
-    {
-      "slug": "star-of-the-overlord",
-      "loungeId": "Star_of_the_Overlord",
-      "titleKo": "패왕의별M",
-      "titleEn": "Star Of The Overlord"
     },
     {
       "slug": "stone-three-kingdoms",
