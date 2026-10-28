@@ -7,8 +7,8 @@
   "loungeId": "kurobas_sr",
   "sourceUrl": "https://game.naver.com/lounge/kurobas_sr/board/detail/8368001",
   "howTo": "",
-  "postCount": 649,
-  "updatedAt": "2026-10-28T02:47:18.554Z",
+  "postCount": 648,
+  "updatedAt": "2026-10-28T05:48:38.550Z",
   "codes": [
     {
       "code": "1023DLWMZLTODLF",
@@ -191,15 +191,6 @@
       "status": "expired"
     },
     {
-      "code": "0720AOWNZNVHS",
-      "reward": "",
-      "expiry": "2026-07-26",
-      "postedAt": "2026-07-20",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-28",
-      "status": "expired"
-    },
-    {
       "code": "VELENTINEDAY",
       "reward": "",
       "expiry": "2025-02-24",
@@ -213,6 +204,15 @@
       "reward": "",
       "expiry": "2024-08-31",
       "postedAt": "2024-08-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-28",
+      "status": "expired"
+    },
+    {
+      "code": "0720AOWNZNVHS",
+      "reward": "",
+      "expiry": "2026-07-26",
+      "postedAt": "2026-07-20",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-28",
       "status": "expired"

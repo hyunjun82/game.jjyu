@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T03:02:56.060Z",
+  "generatedAt": "2026-10-28T05:51:19.052Z",
   "today": "2026-10-28",
-  "todayNew": 133,
+  "todayNew": 135,
   "totals": {
     "games": 357,
-    "codes": 5053,
-    "active": 766,
+    "codes": 5055,
+    "active": 768,
     "expired": 4287,
-    "withExpiry": 2933
+    "withExpiry": 2934
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-28",
-      "count": 133
+      "count": 135
     }
   ],
   "expiringSoon": [
@@ -397,8 +397,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 55
+      "active": 16,
+      "total": 56
     },
     {
       "slug": "sword-immortal",
