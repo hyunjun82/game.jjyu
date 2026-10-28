@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T09:25:32.004Z",
+  "generatedAt": "2026-10-28T13:10:06.935Z",
   "today": "2026-10-28",
-  "todayNew": 139,
+  "todayNew": 162,
   "totals": {
-    "games": 357,
-    "codes": 5059,
-    "active": 772,
+    "games": 360,
+    "codes": 5082,
+    "active": 795,
     "expired": 4287,
-    "withExpiry": 2938
+    "withExpiry": 2942
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-28",
-      "count": 139
+      "count": 162
     }
   ],
   "expiringSoon": [
@@ -334,13 +334,13 @@
     },
     {
       "slug": "blood-of-youth",
-      "code": "GANGHOGIFT",
+      "code": "GANGHO18476352",
       "expiry": "2026-10-31",
       "days": 3
     },
     {
       "slug": "blood-of-youth",
-      "code": "GANGHO18476352",
+      "code": "GANGHOGIFT",
       "expiry": "2026-10-31",
       "days": 3
     },
@@ -471,5 +471,5 @@
       "total": 13
     }
   ],
-  "noImage": 59
+  "noImage": 61
 }

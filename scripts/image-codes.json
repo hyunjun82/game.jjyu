@@ -31,7 +31,9 @@
   "8350831": "2026-10-22",
   "8360948": "2026-10-25",
   "8369107": "2026-10-26",
-  "8374404": "2026-10-28"
+  "8374404": "2026-10-28",
+  "8376422": "2026-10-28",
+  "8376812": "2026-10-28"
  },
  "lounges": {
   "MushWarrior": [
@@ -144,6 +146,16 @@
     "feedId": 8360948,
     "at": "2026-10-25",
     "sourceUrl": "https://game.naver.com/lounge/nikke/board/detail/8360948"
+   }
+  ],
+  "tosm": [
+   {
+    "code": "TOSM4EVER",
+    "expiry": null,
+    "postedAt": "2026-10-28",
+    "feedId": 8376812,
+    "at": "2026-10-28",
+    "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8376812"
    }
   ]
  }

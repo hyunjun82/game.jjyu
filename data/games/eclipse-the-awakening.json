@@ -5,14 +5,54 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-27T22:24:16.434Z",
+  "updatedAt": "2026-10-28T12:58:02.164Z",
   "codes": [
+    {
+      "code": "1027LEEPDLIVEON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjjang1864/224456373132",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "code": "ONAIRECLIPSE1027",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjjang1864/224456373132",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "code": "HAPPYHALLOWEEN1028",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjjang1864/224456373132",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "code": "2PDSPECIAL1028",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjjang1864/224456373132",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28",
+      "status": "active"
+    },
     {
       "code": "0910ECLIPSE",
       "reward": "",
       "expiry": "2026-11-10",
-      "postedAt": "2026-10-06",
-      "sourceUrl": "https://blog.naver.com/jjjang1864/224432884734",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/hongmin522/224450486536",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-28",
       "status": "active"
@@ -64,7 +104,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/ounkey/224431308907",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-10-28",
       "status": "expired"
     },
     {

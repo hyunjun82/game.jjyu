@@ -5,13 +5,23 @@
   "image": "https://hub.epicleague.io/assets/images/logos/eplhub.svg",
   "source": "naver-lounge",
   "loungeId": "Yokai_Idle_RPG",
-  "sourceUrl": "https://game.naver.com/lounge/Yokai_Idle_RPG/board/detail/8368905",
+  "sourceUrl": "https://game.naver.com/lounge/Yokai_Idle_RPG/board/detail/8368703",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-28T09:12:41.341Z",
+  "updatedAt": "2026-10-28T13:09:39.850Z",
   "codes": [
     {
-      "code": "YOKAIXNAVER",
+      "code": "YOKAIRPG",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "expiryFrom": "event",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-10-28",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEYOKAI7",
       "reward": "",
       "expiry": "2026-12-31",
       "postedAt": "2026-10-26",
@@ -20,16 +30,7 @@
       "status": "active"
     },
     {
-      "code": "YOKAIRPG",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-26",
-      "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-28",
-      "status": "active"
-    },
-    {
-      "code": "WELCOMEYOKAI7",
+      "code": "YOKAIXNAVER",
       "reward": "",
       "expiry": "2026-12-31",
       "postedAt": "2026-10-26",
