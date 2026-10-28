@@ -1,22 +1,16 @@
 {
- "generatedAt": "2026-10-28T12:40:25.645Z",
- "window": "20261026~20261028",
+ "generatedAt": "2026-10-28T22:29:07.797Z",
+ "window": "20261027~20261029",
  "lounges": 2354,
- "posts": 873,
- "couponPosts": 46,
+ "posts": 641,
+ "couponPosts": 20,
  "fixedTracked": [
-  "소녀전쟁: 환상의 천하통일전 | 4THPRECIOUS | 소녀전쟁 | 🎉🍰4주년 특별 코드 공개🍰🎉",
   "라테일 플러스 | 2026할로윈데이 | 🍭할로윈 기념 라운지 이벤트",
-  "오피스 퀸 키우기 | S1-S190 | [이벤트] 「오피스 퀸 키우기」SP 오르골 정령!! 월말 이벤트 안내",
-  "삼국지 오리진 | 639-15b0b6f75-1 | 주간 퀴즈 이벤트 366탄",
-  "삼국지: 제후의 전쟁 | 1639-15b0b6f75-1 | [제후의 전쟁] 주간 이벤트 8탄"
+  "삼국지 오리진 | 639-15b0b6f75-1 | 주간 퀴즈 이벤트 366탄"
  ],
- "addedLounges": [
-  "드래곤 나이트 키우기 : 방치형 RPG (Dragon_Knight_Idle) → /dragon-knight-idle/ | OPEN1028"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "각도와 바람의 전쟁 | 2026-10-28 | 쿠폰 코드 사용 방법을 미리 알아봐요!",
-  "라스트 소녀 전사 | 2026-10-26 | 🎃 [D-1] 어둠 제단 오픈! 종말계 전원 집결! 💜",
   "드래곤에어 : 침묵의 신 | 2026-10-28 | 【이벤트】 🐀 세 개의 귀 장난 대행 - Trick or Treat 이벤트! 🎃",
   "드림 가든: 추억의 힐링 경영 | 2026-10-27 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "심쿵신궁 연대기 | 2026-10-28 | ☕0.5주년 기념 네이버 카페 500명 달성 이벤트 안내",
@@ -28,13 +22,9 @@
   "페르소나5: 더 팬텀 X | 2026-10-28 | 10월 29일(목) 점검 업데이트 안내",
   "전생했더니 검 한 자루 | 2026-10-28 | ⭐사전예약 퀴즈 이벤트 2탄! ",
   "전생했더니 검 한 자루 | 2026-10-27 | 💻에일리언웨어 18 대방출! 스토어 사전등록 인증 이벤트 2탄🔥",
-  "전생했더니 검 한 자루 | 2026-10-26 | 🎧 Airpods 5 증정! SNS 공유 이벤트✨",
   "스카이 어비스: 혈맹의 서약 | 2026-10-28 | [라운지 이벤트]주간 퀴즈 이벤트(10/27-11/2)",
-  "소드 앤 프론티아 | 2026-10-26 | 주간 미니 이벤트: 🎀여신 이름 맞추기🤔❓",
   "THE 라그나로크 | 2026-10-27 | 호박 몬스터 잭! 이벤트",
-  "트리 오브 세이비어 M | 2026-10-28 | [쿠폰] 4주년 기념 쿠폰",
-  "명조:워더링 웨이브 | 2026-10-26 | 『명조:워더링 웨이브』데스크톱 펫 Wuwa Tappo가 출시되었습니다!",
-  "명조:워더링 웨이브 | 2026-10-26 | 🌟[에이메스 빅스비 보이스 스페셜 키트 출시 기념 커뮤니티 이벤트] 에이메스, 궁금한 게"
+  "트리 오브 세이비어 M | 2026-10-28 | [쿠폰] 4주년 기념 쿠폰"
  ],
  "imageOnly": [
   {
@@ -45,19 +35,6 @@
    "title": "쿠폰 코드 사용 방법을 미리 알아봐요!",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMTQ4/MDAxNzkzMTU3MjY2NTgz.oRIVvkyQ-CxfkPLaRLR2eZkXf9WjHaqKMMgAaxlT_Ikg.mbE6iU_CdnwCbm9hcEo2wUgCQ83UE8tSsKaeTwcXKJIg.PNG/dd48589d-4482-42cb-9ff1-d0f0c1be73c6.png?type=w1678"
-   ]
-  },
-  {
-   "game": "오피스 퀸 키우기",
-   "loungeId": "officequeen",
-   "feedId": 8369107,
-   "date": "2026-10-26",
-   "title": "[이벤트] 「오피스 퀸 키우기」 리뷰 작성하고 쿠폰 받아가세요- 제3탄 (진행 중)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNTA0MDlfMjE0/MDAxNzQ0MTg4MTQ1NzYz.ox5oJbYg02XLDwu74Gu2PuDYkHs4IGK1JM-rxDAVti0g.zmCdXDxGhQIqJvFBuqS39hWuXu5qo_l_8OYoRFgFFjwg.PNG/9.LOUNGE%E9%80%9A%E7%94%A8%E4%B8%8A%E4%B8%8BBANNER-3_01.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTA1MDdfMTU0/MDAxNzQ2NTgzMDA5NzU1.mqXDDurxiXIKFeIckAb_7AsCy6zbYUzv6qouwYfID2Ug.EsLnM6e0frrbOMZogAwi81rxvhJJco1z4V8O2tSayrUg.JPEG/1200-628.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTA1MDdfMTk3/MDAxNzQ2NTgxODk2ODAx.0y4PNvPebiXYY3SsIGtZSxC4eTtpYXkQwhcLvR9-Locg.I9NKkRlazynfplFy89jdqWKe53W934RlCQ-HXp4xS9Qg.PNG/%E5%9B%BE%E7%89%871.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMTM5/MDAxNzkyOTkzNTI0NzYx.amL9uWEtTkCbvXpOnhuplvTGiLn5c3Ns0zggxprvy1Mg.M0_mwkuVDNaCydAQIRixaRcVz1zo7aLmw-fY2ovgEF4g.PNG/9.LOUNGE%E9%80%9A%E7%94%A8%E4%B8%8A%E4%B8%8BBANNER-3_02.png?type=w1678"
    ]
   },
   {

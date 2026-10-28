@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-28T21:24:38.558Z",
+  "updatedAt": "2026-10-28T22:45:19.541Z",
   "codes": [
     {
       "code": "1027LEEPDLIVEON",
@@ -48,24 +48,24 @@
       "status": "active"
     },
     {
-      "code": "0910ECLIPSE",
-      "reward": "",
-      "expiry": "2026-11-10",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/hongmin522/224450486536",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
       "code": "상태",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/daseo11/224454002126",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-27",
-      "status": "expired"
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "0910ECLIPSE",
+      "reward": "",
+      "expiry": "2026-11-10",
+      "postedAt": "2026-10-26",
+      "sourceUrl": "https://blog.naver.com/daseo11/224454002126",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-29",
+      "status": "active"
     },
     {
       "code": "1013LIVEWELCOME",
@@ -111,8 +111,8 @@
       "code": "0914ECLIPSE1ST",
       "reward": "",
       "expiry": "2026-09-28",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/hongmin522/224450486536",
+      "postedAt": "2026-10-04",
+      "sourceUrl": "https://blog.naver.com/ounkey/224431308907",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-29",
       "status": "expired"
