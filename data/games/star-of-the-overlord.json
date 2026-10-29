@@ -5,18 +5,27 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA1MjhfMTg3/MDAxNzc5OTM2NTY0ODcx.fcHDNx_KUOtkBxKH7xI4AnwQFnQZ5NHUACl_o3xlybQg.R4E_TdjmwDCQGAP-ncSGvSo7_eNHdrS1zM_YkgksIq8g.JPEG/0528-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%9D%B8%EA%B8%B0%EC%B0%A8%ED%8A%B8-1%EC%9C%84-%EB%8B%AC%EC%84%B1.jpg",
   "source": "naver-lounge",
   "loungeId": "Star_of_the_Overlord",
-  "sourceUrl": "https://game.naver.com/lounge/Star_of_the_Overlord/board/detail/8299607",
+  "sourceUrl": "https://game.naver.com/lounge/Star_of_the_Overlord/board/detail/8384389",
   "howTo": "",
-  "postCount": 5,
-  "updatedAt": "2026-10-29T14:38:33.072Z",
+  "postCount": 6,
+  "updatedAt": "2026-10-29T20:05:27.347Z",
   "codes": [
+    {
+      "code": "HAPPYHW26",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "109Hangul",
       "reward": "",
       "expiry": "2026-10-11",
       "postedAt": "2026-10-08",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-10-05",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-06-14",
       "postedAt": "2026-05-28",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": "2026-06-14",
       "postedAt": "2026-05-27",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-09-27",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     }
   ]

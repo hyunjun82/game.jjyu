@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-29T14:35:57.097Z",
+  "generatedAt": "2026-10-29T20:03:04.432Z",
   "games": [
     {
       "slug": "f4-u",
@@ -33,6 +33,12 @@
       "titleEn": "Arknights_Endfield"
     },
     {
+      "slug": "cabal-red",
+      "loungeId": "CABAL_RED",
+      "titleKo": "카발RED",
+      "titleEn": "Cabal Red"
+    },
+    {
       "slug": "watcher-of-realms",
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
@@ -43,6 +49,12 @@
       "loungeId": "Forest_Sigh_Neverland",
       "titleKo": "포레스트 사이: 네버랜드​",
       "titleEn": "Forest Sigh Neverland"
+    },
+    {
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
     },
     {
       "slug": "pokemon-go",
@@ -75,34 +87,10 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "lucifer-idle",
-      "loungeId": "Lucifer_Idle",
-      "titleKo": "루시퍼 키우기",
-      "titleEn": "Lucifer Idle"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
-    },
-    {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
-    },
-    {
-      "slug": "j-jalltoon-rumble-with-animalfriends",
-      "loungeId": "JJalltoonRumble_with_animalfriends",
-      "titleKo": "짤툰대난투 with. 짐승친구들",
-      "titleEn": "J Jalltoon Rumble With Animalfriends"
-    },
-    {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
     },
     {
       "slug": "kungfuchaos",
@@ -111,22 +99,88 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
+      "slug": "lost-era-mupa",
+      "loungeId": "LostEra_Mupa",
+      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
+      "titleEn": "Lost Era Mupa"
     },
     {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
     },
     {
-      "slug": "leubens-adventure",
-      "loungeId": "Leubens_Adventure",
-      "titleKo": "루벤의 대모험",
-      "titleEn": "Leubens Adventure"
+      "slug": "magical-ink",
+      "loungeId": "Magical_Ink",
+      "titleKo": "마법의 잉크",
+      "titleEn": "Magical Ink"
+    },
+    {
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
+    },
+    {
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
+    },
+    {
+      "slug": "meow-kingdom",
+      "loungeId": "meow_kingdom",
+      "titleKo": "냥킹덤",
+      "titleEn": "Meow Kingdom"
+    },
+    {
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
+    },
+    {
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
+    },
+    {
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
+    },
+    {
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
+    },
+    {
+      "slug": "mnlkr",
+      "loungeId": "mnlkr",
+      "titleKo": "머지데이 나잇 라이브",
+      "titleEn": "Mnlkr"
+    },
+    {
+      "slug": "moeverse-live",
+      "loungeId": "MOEVERSE_LIVE",
+      "titleKo": "모에버스:라이브",
+      "titleEn": "Moeverse Live"
+    },
+    {
+      "slug": "monstage",
+      "loungeId": "Monstage",
+      "titleKo": "몬스테이지",
+      "titleEn": "Monstage"
+    },
+    {
+      "slug": "monster-never-cry",
+      "loungeId": "Monster_Never_Cry",
+      "titleKo": "마왕만만세",
+      "titleEn": "Monster Never Cry"
     },
     {
       "slug": "pmang-new-matgo",

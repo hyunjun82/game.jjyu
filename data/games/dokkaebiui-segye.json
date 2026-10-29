@@ -1,0 +1,21 @@
+{
+  "slug": "dokkaebiui-segye",
+  "titleEn": "dokkaebiui-segye",
+  "titleKo": "도깨비의 세계",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-29T20:18:02.553Z",
+  "codes": [
+    {
+      "code": "도깨비의다짐",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-10",
+      "sourceUrl": "https://blog.naver.com/hyjueng/224436684871",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "expired"
+    }
+  ]
+}

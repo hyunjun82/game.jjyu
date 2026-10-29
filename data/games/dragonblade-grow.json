@@ -2,21 +2,30 @@
   "slug": "dragonblade-grow",
   "titleEn": "Dragonblade Grow",
   "titleKo": "용칼이 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjFfMTUz/MDAxNzg0NjA1ODUwMDI4.M-57Z31vAY0SINM5wO7LK9CgGp3XJ0ngCGBPWrdcwucg.0Yo1JRZP7FKCwhDWPzYjknOm0lv5Xfh_J0Jflv5J5BMg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfNTEg/MDAxNzkyNzI3MjU5NzY1.LklUq9BE_IzvzfUpc_SXJo9OdFoj-zqiDfHUMZgNGmMg.LE4yyhphY2aIjG8_Dmjv7R-bODvDnvuJT5tOYv5sdNgg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
   "source": "naver-lounge",
   "loungeId": "Dragonblade_Grow",
-  "sourceUrl": "https://game.naver.com/lounge/Dragonblade_Grow/board/detail/8299612",
+  "sourceUrl": "https://game.naver.com/lounge/Dragonblade_Grow/board/detail/8384385",
   "howTo": "",
-  "postCount": 6,
-  "updatedAt": "2026-10-29T14:38:30.239Z",
+  "postCount": 7,
+  "updatedAt": "2026-10-29T20:05:25.222Z",
   "codes": [
+    {
+      "code": "HAPPYHW26",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "LASTBOK814",
       "reward": "",
       "expiry": "2026-08-21",
       "postedAt": "2026-08-14",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-08-01",
       "postedAt": "2026-07-25",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-07-22",
       "postedAt": "2026-07-15",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": "2026-10-11",
       "postedAt": "2026-10-08",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-10-05",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": "2026-09-27",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     }
   ]

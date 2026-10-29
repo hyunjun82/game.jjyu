@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8375617",
   "howTo": "게임에 접속한 후, 메인 화면 [좌측 상단 프로필 아이콘]을 터치하여 기본 정보 창을 엽니다. 메뉴 중",
   "postCount": 369,
-  "updatedAt": "2026-10-29T14:40:17.248Z",
+  "updatedAt": "2026-10-29T20:07:03.566Z",
   "codes": [
     {
       "code": "week999",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "active"
     },
     {
@@ -34,17 +34,7 @@
       "expiry": null,
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "landmark20",
-      "reward": "",
-      "expiry": null,
-      "tag": "사전예약",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "active"
     },
     {
@@ -75,6 +65,16 @@
       "postedAt": "2026-10-16",
       "firstSeen": "2026-10-16",
       "lastSeen": "2026-10-17",
+      "status": "expired"
+    },
+    {
+      "code": "landmark20",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     }
   ]

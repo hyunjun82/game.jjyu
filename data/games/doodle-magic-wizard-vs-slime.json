@@ -8,24 +8,24 @@
   "sourceUrl": "https://game.naver.com/lounge/Doodle_Magic_Wizard_vs_Slime/board/detail/8358649",
   "howTo": "",
   "postCount": 7,
-  "updatedAt": "2026-10-29T14:40:53.430Z",
+  "updatedAt": "2026-10-29T20:07:36.805Z",
   "codes": [
-    {
-      "code": "3VDDLJ",
-      "reward": "",
-      "expiry": "2026-10-29",
-      "postedAt": "2026-10-24",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
     {
       "code": "DOODLEMAGIC",
       "reward": "",
       "expiry": null,
       "postedAt": "2023-11-14",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
+      "status": "expired"
+    },
+    {
+      "code": "3VDDLJ",
+      "reward": "",
+      "expiry": "2026-10-29",
+      "postedAt": "2026-10-24",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2026-10-22",
       "postedAt": "2026-10-17",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-10-15",
       "postedAt": "2026-10-10",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-10-08",
       "postedAt": "2026-10-03",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-10-01",
       "postedAt": "2026-09-26",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -70,7 +70,7 @@
       "expiry": "2026-10-02",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-29",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     }
   ]
