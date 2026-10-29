@@ -1,25 +1,38 @@
 {
- "generatedAt": "2026-10-28T22:29:07.797Z",
+ "generatedAt": "2026-10-29T05:34:34.378Z",
  "window": "20261027~20261029",
- "lounges": 2354,
- "posts": 641,
- "couponPosts": 20,
+ "lounges": 2355,
+ "posts": 780,
+ "couponPosts": 29,
  "fixedTracked": [
+  "에르피스 | HAZYTRUTH | 페이&메이 합류 기념 특별 쿠폰!",
+  "건틀렛: 방치형 액션 RPG | HAPPYHALLOWEEN | [공지사항] 할로윈 맞이 특별 혜택 안내",
+  "건틀렛: 방치형 액션 RPG | HAPPYHALLOWEEN | [쿠폰 안내] 2026 할로윈 쿠폰 안내",
+  "광전사 키우기 | BERNO1CHEER | 한국 구글 플레이 스토어 1위 달성 기념 특별 쿠폰 안내",
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | WDHP963 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/29 깜짝 쿠폰!",
   "라테일 플러스 | 2026할로윈데이 | 🍭할로윈 기념 라운지 이벤트",
-  "삼국지 오리진 | 639-15b0b6f75-1 | 주간 퀴즈 이벤트 366탄"
+  "삼국지 오리진 | 639-15b0b6f75-1 | 주간 퀴즈 이벤트 366탄",
+  "요괴잡이소대 | 1주년선물 | 정식 오픈 1주년 기념 선물"
  ],
- "addedLounges": [],
+ "addedLounges": [
+  "각도와 바람의 전쟁 (Ballistic_Hero) → /ballistic-hero/ | WELCOME2BH"
+ ],
  "labelOnly": [
   "각도와 바람의 전쟁 | 2026-10-28 | 쿠폰 코드 사용 방법을 미리 알아봐요!",
+  "검신제로 | 2026-10-29 | [공지] 알려진 이슈 안내 (최종 업데이트: 10/29 14:00)",
+  "검신제로 | 2026-10-29 | [이벤트] 정식 출시 기념 7일 릴레이 교환 코드 이벤트 안내",
   "드래곤에어 : 침묵의 신 | 2026-10-28 | 【이벤트】 🐀 세 개의 귀 장난 대행 - Trick or Treat 이벤트! 🎃",
   "드림 가든: 추억의 힐링 경영 | 2026-10-27 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
+  "부족 또 전쟁 : 무한루프 RPG | 2026-10-29 | 🎉 [이벤트] 《부족 또 전쟁》 카카오톡 채널 오픈 기념 이벤트! 🎁",
   "심쿵신궁 연대기 | 2026-10-28 | ☕0.5주년 기념 네이버 카페 500명 달성 이벤트 안내",
   "호드 워:어벤저의 소환 | 2026-10-27 | 주간 이벤트-정답을 맞혀보세요!(10/27-11/1)",
   "호드 워:어벤저의 소환 | 2026-10-27 | 🎃할로윈 계획 공유 이벤트(10/27-10/31)",
   "아이들 엔젤스 : 여신전쟁 | 2026-10-28 | 10월30일 이벤트",
+  "I9: 인페르노 나인 | 2026-10-29 | ✨수리수리 마수리!🎃할로윈 코스프레!",
   "인투더던전:리본 | 2026-10-28 | [주간 이벤트] 소울카드 맞추기 퀴즈 이벤트 (10/28 - 11/3)",
   "몬스터헌터 아웃랜더스 | 2026-10-28 | 【MHO】 📢 모험단 정보 회의 특별 방송 안내 (10/28(수) 16:58 내용 수정)",
   "페르소나5: 더 팬텀 X | 2026-10-28 | 10월 29일(목) 점검 업데이트 안내",
+  "전생했더니 검 한 자루 | 2026-10-29 | 👀내 최애 검령 one pick은? 검령 투표 이벤트💓",
   "전생했더니 검 한 자루 | 2026-10-28 | ⭐사전예약 퀴즈 이벤트 2탄! ",
   "전생했더니 검 한 자루 | 2026-10-27 | 💻에일리언웨어 18 대방출! 스토어 사전등록 인증 이벤트 2탄🔥",
   "스카이 어비스: 혈맹의 서약 | 2026-10-28 | [라운지 이벤트]주간 퀴즈 이벤트(10/27-11/2)",
@@ -35,6 +48,31 @@
    "title": "쿠폰 코드 사용 방법을 미리 알아봐요!",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMTQ4/MDAxNzkzMTU3MjY2NTgz.oRIVvkyQ-CxfkPLaRLR2eZkXf9WjHaqKMMgAaxlT_Ikg.mbE6iU_CdnwCbm9hcEo2wUgCQ83UE8tSsKaeTwcXKJIg.PNG/dd48589d-4482-42cb-9ff1-d0f0c1be73c6.png?type=w1678"
+   ]
+  },
+  {
+   "game": "검신제로",
+   "loungeId": "Dawns_Wake",
+   "feedId": 8381207,
+   "date": "2026-10-29",
+   "title": "[이벤트] 정식 출시 기념 7일 릴레이 교환 코드 이벤트 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMjEz/MDAxNzkzMTk1NjQ2Mzkx.OZ6snnOW_eewH4oUOsuDU-2sGiH9gdcikC706996h7Ug.UeSRqHGkbYFbWYmETfDu_6ql9yXw1_3wqh0TklIPlCwg.JPEG/5_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "레알팜 크래프트",
+   "loungeId": "REALFARM_CRAFT",
+   "feedId": 8382001,
+   "date": "2026-10-29",
+   "title": "🎁[레알쿠폰 7차 특별 이벤트 사전 안내] (11/11 ~ 11/24)🎁",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfOTEg/MDAxNzkzMjUwNjAwODE1.Ensm4AVhO_MvrYHKUzZhf8m7bKLdAoq3d-WuU25gzb4g.LLVTVT4t6FL1P-wtHFG46mc_Q8hKrVkYRnDAd3fn4p0g.JPEG/%EC%B7%A8%EB%82%98%EB%AC%BC%EC%89%90%EC%9D%B4%ED%81%AC.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTMg/MDAxNzkzMjUwNjExMDI3.bN4BZt3Hst1o0yzWakTSWbPyMvHCOp61HsporuDLSikg.oXUZkfbBNhtCdOqxq53i67bvaC4YnSC5yWX-gyesog8g.JPEG/%EC%A7%80%EC%97%AD(%EC%9E%90%EC%82%AC%EB%AA%B0%EC%A7%80%EB%8F%84)_%EC%A0%84%EB%82%A8%EA%B3%A0%ED%9D%A5_0.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjYw/MDAxNzkzMjUwNjE3NTc1.IR-Wjinw44w7q1MvhaM9N3NiqrWX-iWHtouzcsShuL0g.SgJQAHg7D0n84TRFiYweIKz5zD395YjRegsYR54zb2Ag.JPEG/5640c77e8cf18.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfNTUg/MDAxNzkzMjUwNjQzMDkw.ryNUyF5aYO0550P9ELk2_hErpMmL3zgtddTVzVDqehsg.hya_4TUecnsJL0d_7C91abWJWVyIlHeKXstXKr8lF5sg.JPEG/%EB%B9%84%EB%B2%BC%EB%B0%A504-2.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjE2/MDAxNzkzMjUwNjU1NDEx.O_d9c_OTfhDiNs66F58h3-Fyiwx0EX2oiJKSDdtcO8Yg.UdVbT48fUFHKE-hOf3qXiEIyGlOa7L7Jk1rk3bKs4eYg.JPEG/%EB%B9%84%EB%B2%BC%EB%B0%A506.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTU5/MDAxNzkzMjUwNzIxMzIw.c8T4eBMLKLOqksBMNAkmtkyds1Bpp-0oRi96K4Vwoowg.fDmUSII8pYK04AAzx9vMSuZuPCJQ_cQxCbzxLi2TC3wg.JPEG/1.jpg?type=w1678"
    ]
   },
   {

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T01:26:58.244Z",
+  "generatedAt": "2026-10-29T06:08:06.977Z",
   "today": "2026-10-29",
-  "todayNew": 39,
+  "todayNew": 68,
   "totals": {
-    "games": 368,
-    "codes": 5121,
-    "active": 771,
-    "expired": 4350,
-    "withExpiry": 2973
+    "games": 374,
+    "codes": 5150,
+    "active": 802,
+    "expired": 4348,
+    "withExpiry": 2990
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-29",
-      "count": 39
+      "count": 68
     }
   ],
   "expiringSoon": [
@@ -381,14 +381,19 @@
       "total": 65
     },
     {
+      "slug": "idle-berserker",
+      "active": 18,
+      "total": 53
+    },
+    {
       "slug": "aniimo",
       "active": 17,
       "total": 19
     },
     {
-      "slug": "idle-berserker",
+      "slug": "tangtangeiseu",
       "active": 17,
-      "total": 52
+      "total": 17
     },
     {
       "slug": "dungeon-hunter6-awakening",
@@ -397,8 +402,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 56
+      "active": 16,
+      "total": 57
     },
     {
       "slug": "sword-immortal",
@@ -429,11 +434,6 @@
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
-    },
-    {
-      "slug": "tangtangeiseu",
-      "active": 11,
-      "total": 13
     },
     {
       "slug": "astro-defenders",
@@ -471,5 +471,5 @@
       "total": 8
     }
   ],
-  "noImage": 58
+  "noImage": 63
 }

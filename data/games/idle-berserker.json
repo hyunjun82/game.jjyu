@@ -2,14 +2,23 @@
   "slug": "idle-berserker",
   "titleEn": "Idle Berserker",
   "titleKo": "광전사 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjAxMDJfMTA2/MDAxNzY3MzM5MjMzNzIw.z4EGjI0NmOfgQVnE1JneHO8BmuAjLn9--LOLYBATzp4g.lzGuv7j0T79zOMoOPP0YjJlj31x831M7XOGHVsJ9eb4g.PNG/image.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTUw/MDAxNzkzMjM2ODIxODM4.WAlJCWqOost0GTzcL_9Q1Idf3V7Iti80mlC55AUFrMEg.oGWF_wHrL1muxI-x6sluzLb_7uqs7pc-Uoqd9_R4Fowg.PNG/image.png",
   "source": "naver-lounge",
   "loungeId": "IDLE_Berserker",
-  "sourceUrl": "https://game.naver.com/lounge/IDLE_Berserker/board/detail/8355896",
-  "howTo": "] ※ 참고사항 쿠폰은 계정당 1회만 사용 가능합니다. 쿠폰별 사용 기간이 다르니 꼭 확인해 주세요.",
-  "postCount": 176,
-  "updatedAt": "2026-10-29T01:14:41.048Z",
+  "sourceUrl": "https://game.naver.com/lounge/IDLE_Berserker/board/detail/8381098",
+  "howTo": "※ 참고사항 쿠폰은 계정당 1회만 사용 가능합니다. 기간이 지난 쿠폰은 사용이 불가하오니 꼭 기간 내 사용해 주세요! 광전사 키우기와 함께해 주시는 전사님들께 다시 한번 감사드립니다.",
+  "postCount": 177,
+  "updatedAt": "2026-10-29T06:04:32.446Z",
   "codes": [
+    {
+      "code": "BERNO1CHEER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "OCTOCT943",
       "reward": "",

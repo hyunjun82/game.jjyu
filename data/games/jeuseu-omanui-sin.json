@@ -5,8 +5,58 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-27T18:16:30.929Z",
+  "updatedAt": "2026-10-29T06:01:06.226Z",
   "codes": [
+    {
+      "code": "6RYFJ242",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "AVG768Y1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ZEUSDEV0828",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ZEUSLIVE1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DEVLIVE0911",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "ZEUS0828",
       "reward": "",
@@ -25,36 +75,6 @@
       "sourceUrl": "https://blog.naver.com/bsk6676/224425410093",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-28",
-      "status": "expired"
-    },
-    {
-      "code": "ZEUSDEV0828",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/hongmin522/224439829789",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-22",
-      "status": "expired"
-    },
-    {
-      "code": "ZEUSLIVE1ST",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/hongmin522/224439829789",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-22",
-      "status": "expired"
-    },
-    {
-      "code": "DEVLIVE0911",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/hongmin522/224439829789",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-22",
       "status": "expired"
     }
   ]

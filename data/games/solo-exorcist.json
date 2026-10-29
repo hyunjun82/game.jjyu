@@ -5,54 +5,14 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-29T01:23:34.399Z",
+  "updatedAt": "2026-10-29T05:58:20.689Z",
   "codes": [
     {
-      "code": "DOWNLOAD11",
+      "code": "QGHRDT",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "DOWNLOAD5Y",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "DOWNLOAD9S",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "PRE111",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "PRE2SE",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-29",
       "status": "active"
@@ -61,18 +21,58 @@
       "code": "PRE3NR",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-29",
       "status": "active"
     },
     {
-      "code": "QGHRDT",
+      "code": "PRE2SE",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-13",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224440233921",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "PRE111",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DOWNLOAD9S",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DOWNLOAD5Y",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DOWNLOAD11",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-10-29",
       "status": "active"

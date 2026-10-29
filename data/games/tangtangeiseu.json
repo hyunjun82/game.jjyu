@@ -5,8 +5,48 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-29T01:26:35.856Z",
+  "updatedAt": "2026-10-29T06:01:49.624Z",
   "codes": [
+    {
+      "code": "RGIFT00",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-29",
+      "sourceUrl": "https://blog.naver.com/ssingu33/224456782274",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ACEJPW66",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-26",
+      "sourceUrl": "https://blog.naver.com/mastermyth/224454467401",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ACEJPW88",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-26",
+      "sourceUrl": "https://blog.naver.com/mastermyth/224454467401",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ACEJPW99",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-26",
+      "sourceUrl": "https://blog.naver.com/mastermyth/224454467401",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "KRGIFT88",
       "reward": "",
@@ -108,6 +148,26 @@
       "status": "active"
     },
     {
+      "code": "ACEKR23",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-29",
+      "sourceUrl": "https://blog.naver.com/ssingu33/224456782274",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ACEKR10",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-29",
+      "sourceUrl": "https://blog.naver.com/ssingu33/224456782274",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
       "code": "HIDDEN2026",
       "reward": "",
       "expiry": "2026-11-08",
@@ -116,26 +176,6 @@
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-10-29",
       "status": "active"
-    },
-    {
-      "code": "ACEKR23",
-      "reward": "",
-      "expiry": "2026-10-26",
-      "postedAt": "2026-10-26",
-      "sourceUrl": "https://blog.naver.com/naakey/224454219559",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
-    },
-    {
-      "code": "ACEKR10",
-      "reward": "",
-      "expiry": "2026-10-26",
-      "postedAt": "2026-10-26",
-      "sourceUrl": "https://blog.naver.com/naakey/224454219559",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
     }
   ]
 }

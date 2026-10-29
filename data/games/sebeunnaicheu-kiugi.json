@@ -1,0 +1,41 @@
+{
+  "slug": "sebeunnaicheu-kiugi",
+  "titleEn": "sebeunnaicheu-kiugi",
+  "titleKo": "세븐나이츠 키우기",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-29T06:02:18.119Z",
+  "codes": [
+    {
+      "code": "SKI3RDYEARS3",
+      "reward": "",
+      "expiry": "2027-09-27",
+      "postedAt": "2026-10-01",
+      "sourceUrl": "https://blog.naver.com/marbleblog/224428063115",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "SKI3RDYEARS1",
+      "reward": "",
+      "expiry": "2027-09-17",
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/cono00_/224453096901",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "SKI3RDYEARS2",
+      "reward": "",
+      "expiry": "2027-09-22",
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/cono00_/224453096901",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    }
+  ]
+}

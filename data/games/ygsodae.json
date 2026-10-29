@@ -2,14 +2,23 @@
   "slug": "ygsodae",
   "titleEn": "Ygsodae",
   "titleKo": "요괴잡이소대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfNTAg/MDAxNzkwNTg3MTI4MTQ3.s3Hn__ml2BE_4QFKrwzL99pvvQrB8KHrTx3eeGJws7cg.xoF9zG_6UOfoGHIMWeObR0dUieAi_TMTWwXjA1sYPjcg.PNG/sodae_lounge_preview_event_all.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMTEw/MDAxNzkzMTY2NDM0NDk1.lBrevAhKoKIsOdJyEPL7Fu47tISS0eP_J-9bX-Kkqykg.n9FrUhb0mZtft-uhbfr-NtutyGdjIyqcmV6mMD15Hdwg.PNG/sodae_lounge_preview_event_all.png",
   "source": "naver-lounge",
   "loungeId": "ygsodae",
-  "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/8269055",
-  "howTo": "🔸10월 특별선물 쿠폰 보상 쿠폰 코드 쿠폰 보상 유효 기간 단풍놀이",
-  "postCount": 10,
-  "updatedAt": "2026-10-29T01:14:40.537Z",
+  "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/8381389",
+  "howTo": "🔸 정식 오픈 1주년 기념 쿠폰 보상 쿠폰 코드 쿠폰 보상 유효 기간 1주년선물",
+  "postCount": 11,
+  "updatedAt": "2026-10-29T06:04:29.638Z",
   "codes": [
+    {
+      "code": "1주년선물",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "2026행복기원",
       "reward": "",

@@ -1,0 +1,61 @@
+{
+  "slug": "zombie-highschool",
+  "titleEn": "Zombie_Highschool",
+  "titleKo": "좀비고등학교",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-29T06:02:08.096Z",
+  "codes": [
+    {
+      "code": "200KCCU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/jonges_/224453267698",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "200KIN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/jonges_/224453267698",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "400KLIKES",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/jonges_/224453267698",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DAGGER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/jonges_/224453267698",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "NEWPLAYER1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/jonges_/224453267698",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    }
+  ]
+}

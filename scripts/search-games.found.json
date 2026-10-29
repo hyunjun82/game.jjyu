@@ -170,6 +170,31 @@
       "titleKo": "메이플M",
       "titleEn": "meipeulm",
       "found": "2026-10-28"
+    },
+    {
+      "slug": "zombie-highschool",
+      "titleKo": "좀비고등학교",
+      "titleEn": "Zombie_Highschool",
+      "loungeId": "Zombie_Highschool",
+      "found": "2026-10-29"
+    },
+    {
+      "slug": "murimsonyeokiugi-ribaibeu",
+      "titleKo": "무림소녀키우기 리바이브",
+      "titleEn": "murimsonyeokiugi-ribaibeu",
+      "found": "2026-10-29"
+    },
+    {
+      "slug": "sebeunnaicheu-kiugi",
+      "titleKo": "세븐나이츠 키우기",
+      "titleEn": "sebeunnaicheu-kiugi",
+      "found": "2026-10-29"
+    },
+    {
+      "slug": "hateuyeowangkiugi",
+      "titleKo": "하트여왕키우기",
+      "titleEn": "hateuyeowangkiugi",
+      "found": "2026-10-29"
     }
   ],
   "rejected": [
