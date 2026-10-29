@@ -5,14 +5,24 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-29T07:29:50.911Z",
+  "updatedAt": "2026-10-29T13:10:03.051Z",
   "codes": [
     {
       "code": "mho1029",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-29",
-      "sourceUrl": "https://blog.naver.com/edhwang2001/224457667712",
+      "sourceUrl": "https://blog.naver.com/amuletbox/224458240136",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "mhogohunt",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-29",
+      "sourceUrl": "https://blog.naver.com/amuletbox/224458240136",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-10-29",
       "status": "active"

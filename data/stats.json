@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T07:35:22.666Z",
+  "generatedAt": "2026-10-29T13:21:54.613Z",
   "today": "2026-10-29",
-  "todayNew": 122,
+  "todayNew": 135,
   "totals": {
-    "games": 378,
-    "codes": 5204,
-    "active": 816,
-    "expired": 4388,
-    "withExpiry": 3042
+    "games": 381,
+    "codes": 5217,
+    "active": 826,
+    "expired": 4391,
+    "withExpiry": 3048
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-29",
-      "count": 122
+      "count": 135
     }
   ],
   "expiringSoon": [
@@ -426,6 +426,11 @@
       "total": 12
     },
     {
+      "slug": "busy-savior",
+      "active": 11,
+      "total": 35
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -439,11 +444,6 @@
       "slug": "astro-defenders",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 10,
-      "total": 34
     },
     {
       "slug": "byeolbyeol-hero",
@@ -471,5 +471,5 @@
       "total": 39
     }
   ],
-  "noImage": 61
+  "noImage": 62
 }

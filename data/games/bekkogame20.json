@@ -1,0 +1,41 @@
+{
+  "slug": "bekkogame20",
+  "titleEn": "bekkogame20",
+  "titleKo": "짐의강산",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MDVfMjkx/MDAxNzgwNjI0NTAzNTA1.-hUslvIYAn-7yILTqnGslLlgj2WXX1JHoAmE92Ghg8Ug.wQ3kkx4RIIY-FYnWfwXQhh8INtkCpxg44ESEPa6Dk0Ug.PNG/%E6%B4%BB%E5%8A%A8%E5%A4%B4%E5%9B%BE.png",
+  "source": "naver-lounge",
+  "loungeId": "bekkogame20",
+  "sourceUrl": "https://game.naver.com/lounge/bekkogame20/board/detail/8382276",
+  "howTo": "",
+  "postCount": 3,
+  "updatedAt": "2026-10-29T13:21:40.146Z",
+  "codes": [
+    {
+      "code": "HALLOWEEN2026",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "hyeonchung",
+      "reward": "",
+      "expiry": "2026-06-08",
+      "postedAt": "2026-06-06",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
+    {
+      "code": "NEWYEAR2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-02-14",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    }
+  ]
+}

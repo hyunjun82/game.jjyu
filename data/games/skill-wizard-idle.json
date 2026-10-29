@@ -2,14 +2,23 @@
   "slug": "skill-wizard-idle",
   "titleEn": "Skill Wizard Idle",
   "titleKo": "스킬 마법사 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDJfMTAg/MDAxNzkwOTMzNTY1MTA1.fAAomwGFvQ3bPaKqXmnzVEjoVplKPT4eyPAR2rRW6BYg.gUeKYOXVpVaBd440-hW0P66pOR60cif0HPZGZWrNUGAg.PNG/4.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTI4/MDAxNzkzMjc3MDEzNzk4.kwfs0jSZ3D9GCoyeV8K6LeZQpXa3le0osMy7YXH0-fYg.qt7PP-NYYRYSqxn6S0nfL64gfAJdC14T-bhEsQZffccg.PNG/4.png",
   "source": "naver-lounge",
   "loungeId": "Skill_Wizard_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Skill_Wizard_Idle/board/detail/8280090",
+  "sourceUrl": "https://game.naver.com/lounge/Skill_Wizard_Idle/board/detail/8383884",
   "howTo": "-. 게임 접속 - 우측상단 버튼 - 설정 - 계정 - 쿠폰 사용 버튼으로 입력 스마키를 사랑해주시는 모든 유저분들을 사랑합니다!",
-  "postCount": 88,
-  "updatedAt": "2026-10-29T07:22:31.644Z",
+  "postCount": 89,
+  "updatedAt": "2026-10-29T13:17:58.577Z",
   "codes": [
+    {
+      "code": "26할로윈",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "양대마켓1위",
       "reward": "",

@@ -2,14 +2,23 @@
   "slug": "busy-savior",
   "titleEn": "Busy Savior",
   "titleKo": "비지 세이비어",
-  "image": "https://nng-phinf.pstatic.net/MjAyNDEyMjhfNTAg/MDAxNzM1MzQ3NzMxMTE0.F0adC1gdUlgYgHBP5Aa6WnV0yPCiNUXKPAzA9p0sRacg.K9By-1povep_ZqujN4LaTZkx9VinbgMCjbJpVZdMVN8g.JPEG/%E5%91%A8%E6%9C%AB%E7%A4%BC%E7%89%A9.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTMy/MDAxNzkzMjM5NTYwMDQ0.F8hDLLODYKebpl7w980NeAMfw7W8oxGbk9S1kun0eZIg.0sJctlCtoSV9s93gug0rQX7E8MoVVDy4lh8hittax0Eg.JPEG/1029.jpg",
   "source": "naver-lounge",
   "loungeId": "busysavior",
-  "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8362998",
+  "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8382728",
   "howTo": "1. 화면 중앙 우측 [더보기] 클릭 2. [설정] 버튼 클릭 3. [교환코드] 버튼 클릭 4. 교환코드 입력 후 확인 오늘 하루도 비지 세이비어와 함께 행복한 하루 되시길 바랍니다.",
   "postCount": 664,
-  "updatedAt": "2026-10-29T07:21:36.260Z",
+  "updatedAt": "2026-10-29T13:16:57.533Z",
   "codes": [
+    {
+      "code": "Halloween26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "y9cn5lqe",
       "reward": "",
