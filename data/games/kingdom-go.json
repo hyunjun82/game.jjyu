@@ -1,0 +1,23 @@
+{
+  "slug": "kingdom-go",
+  "titleEn": "Kingdom Go",
+  "titleKo": "주공을 지켜라",
+  "image": "https://video-phinf.pstatic.net/20261027_70/17930680289421iNy3_JPEG/rmYctDOwgc_08.jpg",
+  "source": "naver-lounge",
+  "loungeId": "kingdom_go",
+  "sourceUrl": "https://game.naver.com/lounge/kingdom_go/board/detail/8376357",
+  "howTo": "",
+  "postCount": null,
+  "updatedAt": "2026-10-29T14:41:03.836Z",
+  "codes": [
+    {
+      "code": "FIERCEKG10",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    }
+  ]
+}
