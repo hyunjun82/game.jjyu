@@ -2183,6 +2183,48 @@
       "titleEn": "Ballistic_Hero",
       "auto": "2026-10-29",
       "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "dunjeonpang",
+      "loungeId": "dunjeonpang",
+      "titleKo": "손가락 나갔다: 던전팡팡",
+      "titleEn": "Dunjeonpang",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "eternal-chronicle",
+      "loungeId": "Eternal_Chronicle",
+      "titleKo": "이터널 크로니클",
+      "titleEn": "Eternal Chronicle",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "solo-exorcist",
+      "loungeId": "solo_exorcist",
+      "titleKo": "나만 SSS급 퇴마사",
+      "titleEn": "Solo Exorcist",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "adventureofheroes",
+      "loungeId": "adventureofheroes",
+      "titleKo": "히어로 모험단",
+      "titleEn": "Adventureofheroes",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "hiki",
+      "loungeId": "hiki",
+      "titleKo": "히어로즈 키우기",
+      "titleEn": "Hiki",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "huashan-raise",
+      "loungeId": "Huashan_Raise",
+      "titleKo": "화산제자 키우기",
+      "titleEn": "Huashan Raise",
+      "auto": "2026-10-29"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

@@ -1,0 +1,77 @@
+{
+  "slug": "hiki",
+  "titleEn": "Hiki",
+  "titleKo": "히어로즈 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjFfMTky/MDAxNzg5OTg0MDgyNjQ1.PsxkaK6U3e_kMJcUFk9YDcqmmBAUcdHoxs-7VURepSQg.wDTJ_Z4TJWf4wfaBE9DaI6IClOz_opXJL8bApGKvjFwg.PNG/%EC%8A%A4%EC%BD%9C%EB%9D%BC_%EC%83%9D%EC%9D%BC_2026.png",
+  "source": "naver-lounge",
+  "loungeId": "hiki",
+  "sourceUrl": "https://game.naver.com/lounge/hiki/board/detail/8375915",
+  "howTo": "메인 화면 좌측 상단의 [프로필] - [교환코드]에서 보유하신 쿠폰 코드를 입력 하실 수 있습니다.",
+  "postCount": null,
+  "updatedAt": "2026-10-29T07:25:57.081Z",
+  "codes": [
+    {
+      "code": "SC261028",
+      "reward": "",
+      "expiry": "2026-11-03",
+      "postedAt": "2026-10-28",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "ZY261026",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "BE261020",
+      "reward": "",
+      "expiry": "2026-10-26",
+      "postedAt": "2026-10-20",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
+    {
+      "code": "YM261010",
+      "reward": "",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-10",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
+    {
+      "code": "RL261006",
+      "reward": "",
+      "expiry": "2026-10-12",
+      "postedAt": "2026-10-06",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
+    {
+      "code": "SR261002",
+      "reward": "",
+      "expiry": "2026-10-08",
+      "postedAt": "2026-10-02",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    },
+    {
+      "code": "CHUSEOK26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "expired"
+    }
+  ]
+}

@@ -2,11 +2,41 @@
   "slug": "solo-exorcist",
   "titleEn": "Solo Exorcist",
   "titleKo": "나만 SSS급 퇴마사",
-  "image": null,
-  "source": "naver-search",
-  "howTo": "",
-  "updatedAt": "2026-10-29T05:58:20.689Z",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDhfMzIg/MDAxNzkxNDQyODY2ODI1.kqKRVSyMepmqdLE902WMbeP-en7rHn8Fhln-hwRgP2Ug.rE8hMy2Qt9X8fAXVSNq_A-AfVf9-wdTx7ITwVhsaTe8g.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg",
+  "source": "naver-lounge",
+  "loungeId": "solo_exorcist",
+  "sourceUrl": "https://game.naver.com/lounge/solo_exorcist/board/detail/8305459",
+  "howTo": "■ 유효 기간: 2026년 11월 1일",
+  "postCount": null,
+  "updatedAt": "2026-10-29T07:25:54.074Z",
   "codes": [
+    {
+      "code": "DOWNLOAD11",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DOWNLOAD9S",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "DOWNLOAD5Y",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "QGHRDT",
       "reward": "",
@@ -39,36 +69,6 @@
     },
     {
       "code": "PRE111",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "DOWNLOAD9S",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "DOWNLOAD5Y",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224449481242",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-29",
-      "status": "active"
-    },
-    {
-      "code": "DOWNLOAD11",
       "reward": "",
       "expiry": "2026-11-01",
       "postedAt": "2026-10-22",

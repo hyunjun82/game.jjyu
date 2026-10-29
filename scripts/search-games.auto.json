@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-29T01:12:57.004Z",
+  "generatedAt": "2026-10-29T07:21:15.723Z",
   "games": [
     {
       "slug": "f4-u",
@@ -45,12 +45,6 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -63,40 +57,10 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
-    },
-    {
-      "slug": "disgaea-rpg",
-      "loungeId": "DISGAEA_RPG",
-      "titleKo": "마계전기 DISGAEA RPG",
-      "titleEn": "Disgaea Rpg"
-    },
-    {
-      "slug": "disney-realm-breakers",
-      "loungeId": "Disney_Realm_Breakers",
-      "titleKo": "디즈니 렐름 브레이커스",
-      "titleEn": "Disney Realm Breakers"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
-    },
-    {
-      "slug": "dothero",
-      "loungeId": "dothero",
-      "titleKo": "도트 공주들 구하기",
-      "titleEn": "Dothero"
-    },
-    {
-      "slug": "dragon-rider-idle",
-      "loungeId": "Dragon_Rider_Idle",
-      "titleKo": "드래곤 라이더 키우기",
-      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -111,40 +75,112 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dragoon-of-the-wind",
-      "loungeId": "Dragoon_Of_The_Wind",
-      "titleKo": "바람의 드래군M",
-      "titleEn": "Dragoon Of The Wind"
+      "slug": "dungeonand-breaker",
+      "loungeId": "DungeonandBreaker",
+      "titleKo": "던전앤브레이커",
+      "titleEn": "Dungeonand Breaker"
     },
     {
-      "slug": "dream-furniture",
-      "loungeId": "dream_furniture",
-      "titleKo": "꿈꾸는 가구점",
-      "titleEn": "Dream Furniture"
+      "slug": "dungeon-dungeon",
+      "loungeId": "DungeonDungeon",
+      "titleKo": "던전던전",
+      "titleEn": "Dungeon Dungeon"
     },
     {
-      "slug": "eternal-chronicle",
-      "loungeId": "Eternal_Chronicle",
-      "titleKo": "이터널 크로니클",
-      "titleEn": "Eternal Chronicle"
+      "slug": "dwarfidlerpg",
+      "loungeId": "Dwarfidlerpg",
+      "titleKo": "드워프 키우기 : 방치형RPG",
+      "titleEn": "Dwarfidlerpg"
     },
     {
-      "slug": "solo-exorcist",
-      "loungeId": "solo_exorcist",
-      "titleKo": "나만 SSS급 퇴마사",
-      "titleEn": "Solo Exorcist"
+      "slug": "dx-awaken",
+      "loungeId": "dx_awaken",
+      "titleKo": "DX: 각성자들",
+      "titleEn": "Dx Awaken"
+    },
+    {
+      "slug": "echocalypse-scarlet-covenant",
+      "loungeId": "Echocalypse_Scarlet_Covenant",
+      "titleKo": "에코칼립스: 진홍의 서약",
+      "titleEn": "Echocalypse Scarlet Covenant"
+    },
+    {
+      "slug": "eggmon",
+      "loungeId": "eggmon",
+      "titleKo": "에그몬 월드:저니",
+      "titleEn": "Eggmon"
+    },
+    {
+      "slug": "elfidle",
+      "loungeId": "elfidle",
+      "titleKo": "엘프키우기",
+      "titleEn": "Elfidle"
+    },
+    {
+      "slug": "escape-tonight-49-days",
+      "loungeId": "Escape_Tonight_49Days",
+      "titleKo": "밤탈출 - 49일",
+      "titleEn": "Escape Tonight 49 Days"
+    },
+    {
+      "slug": "eternal-three-kingdoms",
+      "loungeId": "Eternal_Three_Kingdoms",
+      "titleKo": "이터널삼국지",
+      "titleEn": "Eternal Three Kingdoms"
+    },
+    {
+      "slug": "ex-astris",
+      "loungeId": "Ex_Astris",
+      "titleKo": "엑스 아스트리스",
+      "titleEn": "Ex Astris"
+    },
+    {
+      "slug": "fantasysamgook",
+      "loungeId": "fantasysamgook",
+      "titleKo": "판타지 삼국",
+      "titleEn": "Fantasysamgook"
+    },
+    {
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
+    },
+    {
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
+    },
+    {
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
+    },
+    {
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
+    },
+    {
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
+    },
+    {
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
     },
     {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
-    },
-    {
-      "slug": "immortal-rising2",
-      "loungeId": "Immortal_Rising2",
-      "titleKo": "임모탈 키우기 2",
-      "titleEn": "Immortal Rising2"
     },
     {
       "slug": "kungfuchaos",
@@ -193,12 +229,6 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
-    },
-    {
-      "slug": "ybd-merge",
-      "loungeId": "YBD_Merge",
-      "titleKo": "이 용병단 머지: 디펜스",
-      "titleEn": "Ybd Merge"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T06:08:06.977Z",
+  "generatedAt": "2026-10-29T07:35:22.666Z",
   "today": "2026-10-29",
-  "todayNew": 68,
+  "todayNew": 122,
   "totals": {
-    "games": 374,
-    "codes": 5150,
-    "active": 802,
-    "expired": 4348,
-    "withExpiry": 2990
+    "games": 378,
+    "codes": 5204,
+    "active": 816,
+    "expired": 4388,
+    "withExpiry": 3042
   },
   "newByDate": [
     {
@@ -64,10 +64,16 @@
     },
     {
       "date": "2026-10-29",
-      "count": 68
+      "count": 122
     }
   ],
   "expiringSoon": [
+    {
+      "slug": "adventureofheroes",
+      "code": "WEEKEND9VW6A",
+      "expiry": "2026-10-29",
+      "days": 0
+    },
     {
       "slug": "cheonsangbi-k",
       "code": "buuzi8ug0e",
@@ -214,6 +220,30 @@
     },
     {
       "slug": "jo-jo-dream",
+      "code": "JOJOSFALL",
+      "expiry": "2026-10-30",
+      "days": 1
+    },
+    {
+      "slug": "jo-jo-dream",
+      "code": "IRNKPSTR",
+      "expiry": "2026-10-30",
+      "days": 1
+    },
+    {
+      "slug": "jo-jo-dream",
+      "code": "ESEPMRXN",
+      "expiry": "2026-10-30",
+      "days": 1
+    },
+    {
+      "slug": "jo-jo-dream",
+      "code": "WULRDQVI",
+      "expiry": "2026-10-30",
+      "days": 1
+    },
+    {
+      "slug": "jo-jo-dream",
       "code": "Chuseok7",
       "expiry": "2026-10-30",
       "days": 1
@@ -337,36 +367,6 @@
       "code": "OCT1003BMDEV",
       "expiry": "2026-10-31",
       "days": 2
-    },
-    {
-      "slug": "com2us-pro-baseball-v22",
-      "code": "T4W9B2M6Z8P3",
-      "expiry": "2026-10-31",
-      "days": 2
-    },
-    {
-      "slug": "com2us-pro-baseball-v22",
-      "code": "V26A7K9P3XQ2",
-      "expiry": "2026-10-31",
-      "days": 2
-    },
-    {
-      "slug": "com2us-pro-baseball-v22",
-      "code": "K8R3V7N2Q9X5",
-      "expiry": "2026-10-31",
-      "days": 2
-    },
-    {
-      "slug": "darktower",
-      "code": "darktower1hbd",
-      "expiry": "2026-10-31",
-      "days": 2
-    },
-    {
-      "slug": "do-e-dungeon-of-exile",
-      "code": "SEPT26",
-      "expiry": "2026-10-31",
-      "days": 2
     }
   ],
   "topGames": [
@@ -461,15 +461,15 @@
       "total": 13
     },
     {
+      "slug": "jo-jo-dream",
+      "active": 10,
+      "total": 21
+    },
+    {
       "slug": "kalpa-of-universe",
       "active": 10,
       "total": 39
-    },
-    {
-      "slug": "meipeulm",
-      "active": 8,
-      "total": 8
     }
   ],
-  "noImage": 63
+  "noImage": 61
 }

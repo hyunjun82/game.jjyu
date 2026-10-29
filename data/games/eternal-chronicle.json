@@ -2,11 +2,41 @@
   "slug": "eternal-chronicle",
   "titleEn": "Eternal Chronicle",
   "titleKo": "이터널 크로니클",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMjc1/MDAxNzkwNTYyNjQ4Mjkx.Xw63Iq8zB7fOXVZ0QBfUmXR8f-yrYc3o7ukuc562_SQg.cSCl_OrK4b99Mbm2HK9TYA1zr2Wm23aKPFeZVeL4Xc4g.JPEG/Gift_Code.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Eternal_Chronicle",
+  "sourceUrl": "https://game.naver.com/lounge/Eternal_Chronicle/board/detail/8305134",
   "howTo": "",
-  "updatedAt": "2026-10-02T14:20:01.858Z",
+  "postCount": null,
+  "updatedAt": "2026-10-29T07:25:50.275Z",
   "codes": [
+    {
+      "code": "hangulday26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-10-09",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "Gaecheon26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-10-03",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
+    {
+      "code": "MIDAUT26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-09-24",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "status": "active"
+    },
     {
       "code": "Jungbok2026",
       "reward": "",
