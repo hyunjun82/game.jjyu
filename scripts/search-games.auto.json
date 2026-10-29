@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-28T21:17:10.054Z",
+  "generatedAt": "2026-10-29T01:12:57.004Z",
   "games": [
     {
       "slug": "f4-u",
@@ -45,16 +45,10 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "yuyu-hakusho-slugfest",
-      "loungeId": "Yu_Yu_Hakusho_Slugfest",
-      "titleKo": "유유백서: 격전",
-      "titleEn": "Yu Yu Hakusho Slugfest"
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
     },
     {
       "slug": "pokemon-go",
@@ -69,124 +63,40 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "aof",
-      "loungeId": "aof",
-      "titleKo": "에테르 오브 판타지",
-      "titleEn": "Aof"
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
     },
     {
-      "slug": "arisen-ants",
-      "loungeId": "Arisen_Ants",
-      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
-      "titleEn": "Arisen Ants"
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
     },
     {
-      "slug": "armored-girls",
-      "loungeId": "Armored_Girls",
-      "titleKo": "삼국무장소녀",
-      "titleEn": "Armored Girls"
-    },
-    {
-      "slug": "asap-arena",
-      "loungeId": "ASAP_ARENA",
-      "titleKo": "ASAP 아레나",
-      "titleEn": "Asap Arena"
-    },
-    {
-      "slug": "ash-n-veil",
-      "loungeId": "AshNVeil",
-      "titleKo": "애쉬앤베일",
-      "titleEn": "Ash N Veil"
-    },
-    {
-      "slug": "assetonline",
-      "loungeId": "assetonline",
-      "titleKo": "에셋온라인",
-      "titleEn": "Assetonline"
-    },
-    {
-      "slug": "avatar-hero-battle",
-      "loungeId": "Avatar_Hero_Battle",
-      "titleKo": "아바타 영웅 대전",
-      "titleEn": "Avatar Hero Battle"
-    },
-    {
-      "slug": "awesome-devil",
-      "loungeId": "Awesome_Devil",
-      "titleKo": "어쩌다 멋진 마왕",
-      "titleEn": "Awesome Devil"
-    },
-    {
-      "slug": "bang-bang",
-      "loungeId": "BangBang",
-      "titleKo": "빵야빵야",
-      "titleEn": "Bang Bang"
-    },
-    {
-      "slug": "battlemage-idle-pixel-adventure",
-      "loungeId": "Battlemage_Idle_Pixel_Adventure",
-      "titleKo": "배틀메이지 키우기",
-      "titleEn": "Battlemage Idle Pixel Adventure"
-    },
-    {
-      "slug": "billionaire",
-      "loungeId": "Billionaire",
-      "titleKo": "억만장자",
-      "titleEn": "Billionaire"
-    },
-    {
-      "slug": "black-shadow-idle-rpg",
-      "loungeId": "Black_Shadow_Idle_RPG",
-      "titleKo": "블랙 쉐도우 키우기",
-      "titleEn": "Black Shadow Idle Rpg"
-    },
-    {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
-    },
-    {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
-    },
-    {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -201,10 +111,16 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dream-garden-cozy-lite-management",
-      "loungeId": "Dream_Garden_Cozy_Lite_Management",
-      "titleKo": "드림 가든: 추억의 힐링 경영",
-      "titleEn": "Dream Garden Cozy Lite Management"
+      "slug": "dragoon-of-the-wind",
+      "loungeId": "Dragoon_Of_The_Wind",
+      "titleKo": "바람의 드래군M",
+      "titleEn": "Dragoon Of The Wind"
+    },
+    {
+      "slug": "dream-furniture",
+      "loungeId": "dream_furniture",
+      "titleKo": "꿈꾸는 가구점",
+      "titleEn": "Dream Furniture"
     },
     {
       "slug": "eternal-chronicle",
@@ -223,6 +139,12 @@
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
+    },
+    {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
     },
     {
       "slug": "kungfuchaos",
@@ -271,6 +193,12 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "ybd-merge",
+      "loungeId": "YBD_Merge",
+      "titleKo": "이 용병단 머지: 디펜스",
+      "titleEn": "Ybd Merge"
     }
   ]
 }

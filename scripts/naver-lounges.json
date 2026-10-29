@@ -2147,6 +2147,34 @@
       "titleKo": "ASURA: 블러드 앤 소울",
       "titleEn": "Blood Soul",
       "auto": "2026-10-29"
+    },
+    {
+      "slug": "doodle-magic-wizard-vs-slime",
+      "loungeId": "Doodle_Magic_Wizard_vs_Slime",
+      "titleKo": "땡땡 마법사",
+      "titleEn": "Doodle Magic Wizard Vs Slime",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "dream-garden-cozy-lite-management",
+      "loungeId": "Dream_Garden_Cozy_Lite_Management",
+      "titleKo": "드림 가든: 추억의 힐링 경영",
+      "titleEn": "Dream Garden Cozy Lite Management",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "dream-samguk",
+      "loungeId": "dream_samguk",
+      "titleKo": "드림삼국",
+      "titleEn": "Dream Samguk",
+      "auto": "2026-10-29"
+    },
+    {
+      "slug": "duet-night-abyss",
+      "loungeId": "Duet_Night_Abyss",
+      "titleKo": "듀엣 나이트 어비스",
+      "titleEn": "Duet Night Abyss",
+      "auto": "2026-10-29"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

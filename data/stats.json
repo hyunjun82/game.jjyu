@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T22:56:47.749Z",
+  "generatedAt": "2026-10-29T01:26:58.244Z",
   "today": "2026-10-29",
-  "todayNew": 17,
+  "todayNew": 39,
   "totals": {
-    "games": 365,
-    "codes": 5099,
-    "active": 764,
-    "expired": 4335,
-    "withExpiry": 2957
+    "games": 368,
+    "codes": 5121,
+    "active": 771,
+    "expired": 4350,
+    "withExpiry": 2973
   },
   "newByDate": [
     {
@@ -64,13 +64,19 @@
     },
     {
       "date": "2026-10-29",
-      "count": 17
+      "count": 39
     }
   ],
   "expiringSoon": [
     {
       "slug": "cheonsangbi-k",
       "code": "buuzi8ug0e",
+      "expiry": "2026-10-29",
+      "days": 0
+    },
+    {
+      "slug": "doodle-magic-wizard-vs-slime",
+      "code": "3VDDLJ",
       "expiry": "2026-10-29",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "SEPT26",
       "expiry": "2026-10-31",
       "days": 2
-    },
-    {
-      "slug": "do-e-dungeon-of-exile",
-      "code": "DOE1STYEAR",
-      "expiry": "2026-10-31",
-      "days": 2
     }
   ],
   "topGames": [
@@ -471,5 +471,5 @@
       "total": 8
     }
   ],
-  "noImage": 59
+  "noImage": 58
 }
