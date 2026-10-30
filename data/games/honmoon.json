@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/honmoon/board/detail/8385864",
   "howTo": "추석 보름달에 빈 플레이어님들의 소원이 이루어 지기를 진심으로 바라겠습니다.",
   "postCount": 8,
-  "updatedAt": "2026-10-30T13:18:50.643Z",
+  "updatedAt": "2026-10-30T18:53:09.061Z",
   "codes": [
     {
       "code": "트릭오어트릿",
@@ -17,7 +17,7 @@
       "expiryFrom": "event",
       "postedAt": "2026-10-30",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -27,7 +27,7 @@
       "expiryFrom": "event",
       "postedAt": "2026-05-13",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -37,7 +37,7 @@
       "tag": "사전예약",
       "postedAt": "2026-05-13",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -47,7 +47,7 @@
       "expiryFrom": "event",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -56,7 +56,7 @@
       "expiry": null,
       "postedAt": "2026-08-14",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -65,7 +65,7 @@
       "expiry": null,
       "postedAt": "2026-07-16",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "expiry": null,
       "postedAt": "2026-06-05",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -83,7 +83,7 @@
       "expiry": null,
       "postedAt": "2026-05-22",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     }
   ]

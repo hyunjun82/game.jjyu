@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-30T13:17:06.408Z",
+  "generatedAt": "2026-10-30T18:51:30.133Z",
   "games": [
     {
       "slug": "f4-u",
@@ -39,12 +39,6 @@
       "titleEn": "Arknights_Endfield"
     },
     {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
       "slug": "watcher-of-realms",
       "loungeId": "Watcher_of_Realms",
       "titleKo": "워처 오브 렐름",
@@ -57,16 +51,10 @@
       "titleEn": "Forest Sigh Neverland"
     },
     {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
-    },
-    {
-      "slug": "tukiers-god-tier-life-idle-tycoon",
-      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
-      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
-      "titleEn": "Tukiers God Tier Life Idle Tycoon"
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
     },
     {
       "slug": "pokemon-go",
@@ -81,10 +69,46 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "clash-summoners",
-      "loungeId": "Clash_Summoners",
-      "titleKo": "클래시 서머너즈",
-      "titleEn": "Clash Summoners"
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -103,6 +127,30 @@
       "loungeId": "Dragonheir_Silent_Gods",
       "titleKo": "드래곤에어 : 침묵의 신",
       "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "final-guild",
+      "loungeId": "FinalGuild",
+      "titleKo": "파이널길드",
+      "titleEn": "Final Guild"
+    },
+    {
+      "slug": "finalhunter",
+      "loungeId": "finalhunter",
+      "titleKo": "파이널 헌터",
+      "titleEn": "Finalhunter"
+    },
+    {
+      "slug": "fishclush",
+      "loungeId": "Fishclush",
+      "titleKo": "먹텐물꼬기",
+      "titleEn": "Fishclush"
+    },
+    {
+      "slug": "football-top-manager",
+      "loungeId": "Football_Top_Manager",
+      "titleKo": "풋볼 탑 매니저",
+      "titleEn": "Football Top Manager"
     },
     {
       "slug": "idle-king",
@@ -151,72 +199,6 @@
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "taptap-hero",
-      "loungeId": "Taptap_Hero",
-      "titleKo": "탑탑 히어로",
-      "titleEn": "Taptap Hero"
-    },
-    {
-      "slug": "the-ace-banker",
-      "loungeId": "The_Ace_Banker",
-      "titleKo": "사장님의 이중생활",
-      "titleEn": "The Ace Banker"
-    },
-    {
-      "slug": "the-contract-of-blood",
-      "loungeId": "The_contract_of_Blood",
-      "titleKo": "피의 계약: 언데드",
-      "titleEn": "The Contract Of Blood"
-    },
-    {
-      "slug": "the-first-hunter-vanguard",
-      "loungeId": "The_First_Hunter_Vanguard",
-      "titleKo": "최초의 헌터: 뱅가드",
-      "titleEn": "The First Hunter Vanguard"
-    },
-    {
-      "slug": "the-last-chronicle",
-      "loungeId": "The_Last_Chronicle",
-      "titleKo": "마지막 연대기",
-      "titleEn": "The Last Chronicle"
-    },
-    {
-      "slug": "the-pixel-ark",
-      "loungeId": "THE_PIXEL_ARK",
-      "titleKo": "픽셀방주",
-      "titleEn": "The Pixel Ark"
-    },
-    {
-      "slug": "three-kingdoms-rise-of-warlords",
-      "loungeId": "Three_kingdoms_Rise_of_Warlords",
-      "titleKo": "삼국지: 군웅할거",
-      "titleEn": "Three Kingdoms Rise Of Warlords"
-    },
-    {
-      "slug": "tt-tiny-tales",
-      "loungeId": "TT_Tiny_Tales",
-      "titleKo": "TT: 타이니 테일즈",
-      "titleEn": "Tt Tiny Tales"
-    },
-    {
-      "slug": "ultirpg",
-      "loungeId": "ultirpg",
-      "titleKo": "실력존많겜",
-      "titleEn": "Ultirpg"
-    },
-    {
-      "slug": "undergroundz",
-      "loungeId": "undergroundz",
-      "titleKo": "이번역은 좀비입니다",
-      "titleEn": "Undergroundz"
-    },
-    {
-      "slug": "vahns-quest-idlerpg",
-      "loungeId": "Vahns_Quest_IDLERPG",
-      "titleKo": "반의모험 : IDLE RPG",
-      "titleEn": "Vahns Quest Idlerpg"
     },
     {
       "slug": "wtbk",

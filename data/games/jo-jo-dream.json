@@ -8,51 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/JoJo_Dream/board/detail/8382275",
   "howTo": "게임 내 좌측 상단(11시 방향) 프로필 클릭",
   "postCount": 7,
-  "updatedAt": "2026-10-30T13:19:05.868Z",
+  "updatedAt": "2026-10-30T18:53:23.577Z",
   "codes": [
-    {
-      "code": "JOJOSFALL",
-      "reward": "",
-      "expiry": "2026-10-30",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "IRNKPSTR",
-      "reward": "",
-      "expiry": "2026-10-30",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "ESEPMRXN",
-      "reward": "",
-      "expiry": "2026-10-30",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "WULRDQVI",
-      "reward": "",
-      "expiry": "2026-10-30",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
     {
       "code": "JOJOBACK",
       "reward": "",
       "expiry": "2026-10-31",
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -61,7 +25,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -70,7 +34,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -79,16 +43,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "Chuseok7",
-      "reward": "",
-      "expiry": "2026-10-30",
-      "postedAt": "2026-09-22",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -101,12 +56,48 @@
       "status": "active"
     },
     {
+      "code": "JOJOSFALL",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "IRNKPSTR",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "ESEPMRXN",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "WULRDQVI",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
       "code": "VPMOLLVY",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-29",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -115,7 +106,7 @@
       "expiry": null,
       "postedAt": "2026-09-29",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -124,7 +115,7 @@
       "expiry": null,
       "postedAt": "2026-09-29",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -133,7 +124,7 @@
       "expiry": null,
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -142,7 +133,7 @@
       "expiry": null,
       "postedAt": "2025-09-02",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -170,6 +161,15 @@
       "postedAt": "2026-07-15",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-29",
+      "status": "expired"
+    },
+    {
+      "code": "Chuseok7",
+      "reward": "",
+      "expiry": "2026-10-30",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {

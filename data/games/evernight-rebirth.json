@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Evernight/board/detail/8331433",
   "howTo": "",
   "postCount": 5,
-  "updatedAt": "2026-10-30T13:18:28.383Z",
+  "updatedAt": "2026-10-30T18:52:46.472Z",
   "codes": [
     {
       "code": "evernight1month",
@@ -16,8 +16,8 @@
       "expiry": null,
       "postedAt": "2026-10-16",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "evernightday7",
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-09-16",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     }
   ]

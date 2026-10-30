@@ -2,21 +2,30 @@
   "slug": "legends-reborn",
   "titleEn": "Legends Reborn",
   "titleKo": "Legends Reborn: 마지막 전투",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTE1/MDAxNzkwMjIwMDUxNzg1.m1kBaHC6FUYci7aE1Q3uEADVHlays1apHj8JNjMoaM0g.866abOQePNF4drgfuWabhTM2q18CeyBvUzMNFymKhTYg.JPEG/code.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMjAg/MDAxNzkwMjIwMTcwMjUz.UQxF9zX0M0u67V5veRSz6dH3Ny2tcj0aBFkQgZlglEUg.avBcTLXHajt6vyqLc9rxRLti7R5ZeN0wEv48MZI5XvUg.JPEG/code.jpg",
   "source": "naver-lounge",
   "loungeId": "Legends_Reborn",
-  "sourceUrl": "https://game.naver.com/lounge/Legends_Reborn/board/detail/8352706",
+  "sourceUrl": "https://game.naver.com/lounge/Legends_Reborn/board/detail/8388600",
   "howTo": "게임 내",
   "postCount": null,
-  "updatedAt": "2026-10-30T13:21:37.409Z",
+  "updatedAt": "2026-10-30T18:55:46.739Z",
   "codes": [
+    {
+      "code": "SPOOKY26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "SNOWCAT26",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-23",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     }
   ]
