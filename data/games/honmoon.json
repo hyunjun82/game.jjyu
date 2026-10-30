@@ -2,14 +2,24 @@
   "slug": "honmoon",
   "titleEn": "Honmoon",
   "titleKo": "혼문",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfODYg/MDAxNzg4NDg1MTM0NjUz.bA03-p1gvYTYTyWB1Pj3d42Jo4vTzxZDv3luQm-9V5gg.ERPB8x4lhljGsCKiS9TfFxQgY2Uh8nAl5PnSRU6L9l0g.JPEG/honmoon_lounge_preview_event_all.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMjEg/MDAxNzkyOTg1NTIwMTAz.UZt4InbnC3RQ7k7aaLZCIpclHfO3zYl3RKv3m9pYKTQg.bzO4FyEa-1wkDLFovcPkl9X5nnUqDjnVkleLqOdz_4cg.JPEG/honmoon_lounge_preview_event_all.jpg",
   "source": "naver-lounge",
   "loungeId": "honmoon",
-  "sourceUrl": "https://game.naver.com/lounge/honmoon/board/detail/8226754",
+  "sourceUrl": "https://game.naver.com/lounge/honmoon/board/detail/8385864",
   "howTo": "추석 보름달에 빈 플레이어님들의 소원이 이루어 지기를 진심으로 바라겠습니다.",
-  "postCount": 7,
-  "updatedAt": "2026-10-30T00:11:16.694Z",
+  "postCount": 8,
+  "updatedAt": "2026-10-30T05:47:55.307Z",
   "codes": [
+    {
+      "code": "트릭오어트릿",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "expiryFrom": "event",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "다이아10억",
       "reward": "",

@@ -2,14 +2,23 @@
   "slug": "ballistic-hero",
   "titleEn": "Ballistic_Hero",
   "titleKo": "각도와 바람의 전쟁",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTY1/MDAxNzkzMjQ0NTk5NDMy.dthra5ATj9BBAXy6l89SSv64JLzwIUSq8FhUv5yruWUg.W8nSrjSAfvD5KbX0HUAd5UdtuenZ4u1FMRc5Qh6Su8cg.PNG/86b53880-a80e-4f8f-8866-6bcaf3225328.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMzcg/MDAxNzkzMjQ0NjQ4NjQw.k-yNomYWEsGfrpcL9uei5xE6j4kLqSK9_KpJpNIw-UAg.g_SW3CAvsIGLA2HkwnOPMaKdgsc0-y8ESbyI-W_ps8og.PNG/6081ff30-943c-4855-8d1a-ebef8d7aee65.png",
   "source": "naver-lounge",
   "loungeId": "Ballistic_Hero",
-  "sourceUrl": "https://game.naver.com/lounge/Ballistic_Hero/board/detail/8381531",
+  "sourceUrl": "https://game.naver.com/lounge/Ballistic_Hero/board/detail/8385407",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-10-30T00:14:20.359Z",
+  "postCount": 3,
+  "updatedAt": "2026-10-30T05:50:53.006Z",
   "codes": [
+    {
+      "code": "HAPPYDODO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "WELCOME2BH",
       "reward": "",

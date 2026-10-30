@@ -6,10 +6,19 @@
   "source": "naver-lounge",
   "loungeId": "SoulEater_Idle",
   "sourceUrl": "https://game.naver.com/lounge/SoulEater_Idle/board/detail/8264761",
-  "howTo": "에 대하여 안내 드리도록 하겠습니다. 쿠폰 정보 2026.09.30  업데이트 grandopen0409",
+  "howTo": "에 대하여 안내 드리도록 하겠습니다. 쿠폰 정보 2026.10.30  업데이트 grandopen0409",
   "postCount": 5,
-  "updatedAt": "2026-10-30T00:10:28.959Z",
+  "updatedAt": "2026-10-30T05:47:09.569Z",
   "codes": [
+    {
+      "code": "devthx22",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2025-06-09",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "expired"
+    },
     {
       "code": "devthx21",
       "reward": "",

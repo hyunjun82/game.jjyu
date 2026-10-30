@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T00:27:55.546Z",
+  "generatedAt": "2026-10-30T05:51:11.686Z",
   "today": "2026-10-30",
-  "todayNew": 11,
+  "todayNew": 52,
   "totals": {
-    "games": 383,
-    "codes": 5230,
-    "active": 800,
-    "expired": 4430,
-    "withExpiry": 3058
+    "games": 385,
+    "codes": 5271,
+    "active": 839,
+    "expired": 4432,
+    "withExpiry": 3077
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-30",
-      "count": 11
+      "count": 52
     }
   ],
   "expiringSoon": [
@@ -372,13 +372,13 @@
   "topGames": [
     {
       "slug": "rogw-remains-of-gods",
-      "active": 24,
-      "total": 24
+      "active": 25,
+      "total": 25
     },
     {
       "slug": "apex-girls",
-      "active": 19,
-      "total": 65
+      "active": 20,
+      "total": 66
     },
     {
       "slug": "idle-berserker",
@@ -402,8 +402,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 57
+      "active": 16,
+      "total": 58
     },
     {
       "slug": "sword-immortal",
@@ -436,6 +436,11 @@
       "total": 14
     },
     {
+      "slug": "kalpa-of-universe",
+      "active": 11,
+      "total": 41
+    },
+    {
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
@@ -464,12 +469,7 @@
       "slug": "jo-jo-dream",
       "active": 10,
       "total": 21
-    },
-    {
-      "slug": "kalpa-of-universe",
-      "active": 9,
-      "total": 39
     }
   ],
-  "noImage": 63
+  "noImage": 65
 }

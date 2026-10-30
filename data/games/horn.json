@@ -2,14 +2,23 @@
   "slug": "horn",
   "titleEn": "Horn",
   "titleKo": "혼(Horn)",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDFfNDEg/MDAxNzg4MjQ5MjEyNTE1.mEbbuLjBXg-nwEJ59yIAdzkmD_Xs-lwTVPx9H5su7SEg.22BryYCzCZqz7v22AUxo5ryEz2h-4fGhxYsh5HRvCkMg.PNG/gsg_horn_lounge_preview_event_all.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMTk0/MDAxNzkyNTYzMTM0MDky.ixgvF0K3CROfeyZ4mjxnRuoywMrK5hEN9I-S7gM7fUcg.oGKXAmacpEHXHQenBGZTRaxUV_DS5aEhube1LxwU6y4g.PNG/gsg_horn_lounge_preview_event_all.png",
   "source": "naver-lounge",
   "loungeId": "horn",
-  "sourceUrl": "https://game.naver.com/lounge/horn/board/detail/8226753",
-  "howTo": "📢 쿠폰 코드 및 선물 쿠폰 사용 기한 쿠폰 코드 쿠폰 구성품 2026년 9월 23일(수)",
-  "postCount": 152,
-  "updatedAt": "2026-10-30T00:11:13.613Z",
+  "sourceUrl": "https://game.naver.com/lounge/horn/board/detail/8385859",
+  "howTo": "📢 쿠폰 코드 및 선물 쿠폰 사용 기한 쿠폰 코드 쿠폰 구성품 2026년 10월 30일(금)",
+  "postCount": 153,
+  "updatedAt": "2026-10-30T05:47:53.252Z",
   "codes": [
+    {
+      "code": "halloween",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "bdaygift",
       "reward": "",

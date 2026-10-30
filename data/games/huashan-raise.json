@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDEyMzFfMTYx/MDAxNzM1NjQzMzc3ODMz.kwGJHrvW_cP7xB9ycU6wZlu6vnAS8fmgzQMEE9FgKy4g.kjoYa02VGa7siLkbFvdeXid3ViEseQ1FqAzb5it6blYg.PNG/%EA%B0%80%EC%9D%B4%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Huashan_Raise",
-  "sourceUrl": "https://game.naver.com/lounge/Huashan_Raise/board/detail/8301216",
+  "sourceUrl": "https://game.naver.com/lounge/Huashan_Raise/board/detail/8386333",
   "howTo": "1. 안드로이드 쿠폰 입력 방법 - 게임 내 설정 → 쿠폰코드란에 쿠폰 입력",
   "postCount": 1,
-  "updatedAt": "2026-10-30T00:14:25.476Z",
+  "updatedAt": "2026-10-30T05:50:57.848Z",
   "codes": [
+    {
+      "code": "2026HALLOWEEN",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "2026HANGULDAY",
       "reward": "",

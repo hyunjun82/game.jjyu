@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfNjAg/MDAxNzkyNzM4Nzk2MzE5.dp6kEW3ktoKpQeFGVJ1DouIULMcIq_WlahX43niEqSwg.1zWVwLmLnWfsB6VWemwogS3smLV0TO2vLIo2iS0pqHYg.PNG/%EA%B0%80%EC%9D%B4%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "magician_cat_idle",
-  "sourceUrl": "https://game.naver.com/lounge/magician_cat_idle/board/detail/8355430",
+  "sourceUrl": "https://game.naver.com/lounge/magician_cat_idle/board/detail/8386292",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-10-30T00:13:33.351Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-30T05:50:06.379Z",
   "codes": [
+    {
+      "code": "2026HALLOWEEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "CATCMGIFT",
       "reward": "",

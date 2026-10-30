@@ -2,14 +2,23 @@
   "slug": "kingdomssiege",
   "titleEn": "Kingdomssiege",
   "titleKo": "삼국지 공성판",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTFfMjEw/MDAxNzg5MTIwMDY5OTYz.ac64BSwHgNCkqNn2zG3-vBsvj4BVSrIEwUd45FMnohEg.IzWCChT1QW7KBcLovDWjulyUiv-TrPplPu6gA3A6Lucg.JPEG/kingdomskr_lounge_preview_event_all.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfNzAg/MDAxNzkyNTc0MDk0NTI0.yn1C4YY-DbKlwiWPZc1Dm0f1WjJRaBr1j9OXyXxmLfog.YzEl2eAFSCGRxCiBP3lwUmy8xn0mdlpYgdlLBWyL4kEg.JPEG/kingdomskr_lounge_preview_event_all.jpg",
   "source": "naver-lounge",
   "loungeId": "kingdomssiege",
-  "sourceUrl": "https://game.naver.com/lounge/kingdomssiege/board/detail/8226755",
-  "howTo": "📌 공용 쿠폰 코드 쿠폰 코드 fullmoon ※ 본 쿠폰은 2026년 10월 21일(수)까지만 사용할 수 있습니다.",
-  "postCount": 151,
-  "updatedAt": "2026-10-30T00:11:19.684Z",
+  "sourceUrl": "https://game.naver.com/lounge/kingdomssiege/board/detail/8385861",
+  "howTo": "📌 공용 쿠폰 코드 쿠폰 코드 halloween ※ 본 쿠폰은 2026년 11월 27일(금)까지만 사용할 수 있습니다.",
+  "postCount": 152,
+  "updatedAt": "2026-10-30T05:47:58.224Z",
   "codes": [
+    {
+      "code": "halloween",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "present",
       "reward": "",

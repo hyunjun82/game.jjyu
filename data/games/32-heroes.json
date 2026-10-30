@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTAyMTRfMjM0/MDAxNzM5NTAwNTkyNDcx.6QDCpGwrEhc6K9oTyUFKtmoeBm7izNr_KqZKfwkz-WIg.WjP2ou9yBf2_Y9kuGXrl36TwQ9N9LMQiCauwUXS5tY8g.PNG/%EA%B0%80%EC%9D%B4%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "32Heroes",
-  "sourceUrl": "https://game.naver.com/lounge/32Heroes/board/detail/8301279",
+  "sourceUrl": "https://game.naver.com/lounge/32Heroes/board/detail/8386298",
   "howTo": "1. 안드로이드 쿠폰 입력 방법 - 게임 내 설정 → 쿠폰입력 → 입력란에 쿠폰 입력 2. IOS 쿠폰 입력 방법 - 게임 내 설정 → 쿠폰입력 → 입력란에 쿠폰 입력",
   "postCount": null,
-  "updatedAt": "2026-10-30T00:14:17.236Z",
+  "updatedAt": "2026-10-30T05:50:50.217Z",
   "codes": [
+    {
+      "code": "2026HALLOWEEN",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "2026HANGULDAY",
       "reward": "",
