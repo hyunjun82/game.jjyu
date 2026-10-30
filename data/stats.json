@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T19:09:02.471Z",
+  "generatedAt": "2026-10-30T22:41:07.818Z",
   "today": "2026-10-31",
-  "todayNew": 5,
+  "todayNew": 30,
   "totals": {
-    "games": 386,
-    "codes": 5308,
-    "active": 849,
-    "expired": 4459,
-    "withExpiry": 3106
+    "games": 388,
+    "codes": 5333,
+    "active": 856,
+    "expired": 4477,
+    "withExpiry": 3108
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-31",
-      "count": 5
+      "count": 30
     }
   ],
   "expiringSoon": [
@@ -446,6 +446,11 @@
       "total": 28
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 10,
+      "total": 33
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
@@ -464,11 +469,6 @@
       "slug": "busy-savior",
       "active": 9,
       "total": 35
-    },
-    {
-      "slug": "dokkaebiuisegye",
-      "active": 9,
-      "total": 11
     }
   ],
   "noImage": 65

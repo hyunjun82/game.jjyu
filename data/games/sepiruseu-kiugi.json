@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-30T13:31:56.706Z",
+  "updatedAt": "2026-10-30T22:35:48.150Z",
   "codes": [
     {
       "code": "sephiki1012",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "SEPHIFREE001",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "SEPHIFREE002",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "SEPHIFREE003",
@@ -44,8 +44,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "SEPHIFREE004",
@@ -54,8 +54,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "SEPHIFREE005",
@@ -64,8 +64,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     },
     {
       "code": "SEPHIFREE006",
@@ -74,8 +74,8 @@
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     }
   ]
 }

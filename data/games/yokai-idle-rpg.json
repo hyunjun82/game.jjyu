@@ -5,11 +5,20 @@
   "image": "https://hub.epicleague.io/assets/images/logos/eplhub.svg",
   "source": "naver-lounge",
   "loungeId": "Yokai_Idle_RPG",
-  "sourceUrl": "https://game.naver.com/lounge/Yokai_Idle_RPG/board/detail/8368703",
-  "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-10-30T18:55:40.274Z",
+  "sourceUrl": "https://game.naver.com/lounge/Yokai_Idle_RPG/board/detail/8386950",
+  "howTo": "​ * 안드로이드(AOS): 게임 내 설정 - 계정 - 쿠폰입력하기 터치 후 입력 ​ * 아이폰(iOS): 게임 내 설정 - 계정 - 유저 ID 복사 버튼 터치 후 아래 링크에서 입력",
+  "postCount": 3,
+  "updatedAt": "2026-10-30T22:40:25.504Z",
   "codes": [
+    {
+      "code": "YOKAIHALLOWEEN2026",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "YOKAIRPG",
       "reward": "",

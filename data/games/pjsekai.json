@@ -2,14 +2,32 @@
   "slug": "pjsekai",
   "titleEn": "pjsekai",
   "titleKo": "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjlfMTc3/MDAxNzkwNjQ5ODM1NTMw.pD-f7WaXAVJLPvxQMzu0VfoyqyNHHa2nFYdO1blzTKAg.1HxwTHFzUs0vzURE0Ruk_PCUGyKUF0CZBjp0ZYhN6H0g.PNG/%EC%9D%B4%EB%AF%B8%EC%A7%801.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfNDYg/MDAxNzkzMjQyNjg2Mjc3.dEd3R-d7O4F6pTwROV-yOWUH3UwKHIFEsU6rENy4I0Mg.erpawzIaalIaCRL8D6bnc4n0YxyRypkM4Zaj29Qbejcg.JPEG/%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg",
   "source": "naver-lounge",
   "loungeId": "pjsekai",
-  "sourceUrl": "https://game.naver.com/lounge/pjsekai/board/detail/8264327",
+  "sourceUrl": "https://game.naver.com/lounge/pjsekai/board/detail/8386477",
   "howTo": "",
   "postCount": 1,
-  "updatedAt": "2026-10-30T18:54:58.631Z",
+  "updatedAt": "2026-10-30T22:39:40.794Z",
   "codes": [
+    {
+      "code": "MEIKO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "KAITO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "NORMAL",
       "reward": "",

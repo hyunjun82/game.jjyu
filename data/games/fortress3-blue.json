@@ -1,0 +1,113 @@
+{
+  "slug": "fortress3-blue",
+  "titleEn": "Fortress3_BLUE",
+  "titleKo": "포트리스3 BLUE",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfNSAg/MDAxNzkyNTY0ODUzODgx.zrYIwoHRaPmvrgL6-AHEgGPaEwGWc2mMX0tCKdCnbSsg.YTjhiQFH5-vvUpcoWtZLDPNj0BGKh0xbNipFtdmbZEkg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4_M.png",
+  "source": "naver-lounge",
+  "loungeId": "Fortress3_BLUE",
+  "sourceUrl": "https://game.naver.com/lounge/Fortress3_BLUE/board/detail/8385860",
+  "howTo": "- 게임 접속 후 로비의 [메뉴] > [환경설정] > [일반] – [쿠폰 번호 입력] 메뉴에 진입 후 쿠폰 코드 입력 ※ 유의사항 - 쿠폰 보상은 UID당 1회에 한해 우편함으로 지급됩니다. - 우편함에 지급된 보상은 7일 이내에 수령해야 하며, 기한 만료 시 우편이 삭제되어 보상을 받을 수 없습니다. - 이벤트 기간 및 보상은 내부 사정에 따라 변경될 수 있으며, 변경 시 공지를 통해 안내드립니다.",
+  "postCount": 380,
+  "updatedAt": "2026-10-30T22:41:00.484Z",
+  "codes": [
+    {
+      "code": "F3BHALLOWEEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "GRANDOPEN28",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "THANKSBLUE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "FORT3GIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "F3B0530",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "FORTDAY04",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "BLUEGIFT123",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "GOODDAY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "7DAYGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMER0604",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "FRIDAY123",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-05-27",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    }
+  ]
+}

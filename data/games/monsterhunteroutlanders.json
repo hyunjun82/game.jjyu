@@ -5,26 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-30T13:26:07.372Z",
+  "updatedAt": "2026-10-30T22:30:42.613Z",
   "codes": [
     {
       "code": "famitsumho2026",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-30",
+      "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/yolofnc/224459064037",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "mho1029",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-30",
-      "sourceUrl": "https://blog.naver.com/ssingu33/224458920534",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "active"
     },
     {
@@ -32,9 +22,19 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-30",
-      "sourceUrl": "https://blog.naver.com/ssingu33/224458920534",
+      "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "mho1029",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/12512512/224458377065",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-31",
       "status": "active"
     }
   ]

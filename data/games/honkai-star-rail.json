@@ -5,8 +5,38 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-30T13:23:46.986Z",
+  "updatedAt": "2026-10-30T22:28:32.230Z",
   "codes": [
+    {
+      "code": "NEVERGONNAGIVE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224459630789",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "NEVERGONNAMAKE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224459630789",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "AHABLESSYOU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/didcjddns/224459630789",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "RT4BPNA8FBS3",
       "reward": "",
@@ -104,7 +134,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -114,7 +144,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -124,7 +154,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -134,7 +164,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {
@@ -304,7 +334,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
       "status": "expired"
     }
   ]
