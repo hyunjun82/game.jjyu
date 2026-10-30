@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T13:07:46.301Z",
+  "generatedAt": "2026-10-30T13:32:03.085Z",
   "today": "2026-10-30",
-  "todayNew": 77,
+  "todayNew": 84,
   "totals": {
     "games": 385,
-    "codes": 5296,
-    "active": 864,
-    "expired": 4432,
-    "withExpiry": 3096
+    "codes": 5303,
+    "active": 877,
+    "expired": 4426,
+    "withExpiry": 3104
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-30",
-      "count": 77
+      "count": 84
     }
   ],
   "expiringSoon": [
@@ -382,8 +382,8 @@
     },
     {
       "slug": "idle-berserker",
-      "active": 18,
-      "total": 54
+      "active": 19,
+      "total": 55
     },
     {
       "slug": "aniimo",

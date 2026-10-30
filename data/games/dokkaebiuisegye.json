@@ -5,8 +5,78 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-30T05:44:22.302Z",
+  "updatedAt": "2026-10-30T13:29:51.901Z",
   "codes": [
+    {
+      "code": "칭호나와라뚝딱",
+      "reward": "",
+      "expiry": "2026-11-11",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "매출1위감사합니다",
+      "reward": "",
+      "expiry": "2026-11-11",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "도깨비의내일",
+      "reward": "",
+      "expiry": "2026-11-11",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "도깨비의보답",
+      "reward": "",
+      "expiry": "2026-11-20",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "애플1위풍악을울려라",
+      "reward": "",
+      "expiry": "2026-11-11",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "도깨비의마음",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "도깨비의약속",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "도깨비1008",
       "reward": "",
@@ -18,24 +88,14 @@
       "status": "active"
     },
     {
-      "code": "애플1위풍악을울려라",
+      "code": "구글1위잔치로구나",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-17",
-      "sourceUrl": "https://blog.naver.com/dbs_jln/224444400211",
-      "firstSeen": "2026-10-21",
-      "lastSeen": "2026-10-26",
-      "status": "expired"
-    },
-    {
-      "code": "도깨비의마음",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-12",
-      "sourceUrl": "https://blog.naver.com/qorgusdo3339/224439154748",
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-25",
-      "status": "expired"
+      "expiry": "2026-11-11",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-10-30",
+      "status": "active"
     },
     {
       "code": "COKER",
@@ -48,16 +108,6 @@
       "status": "expired"
     },
     {
-      "code": "도깨비의약속",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/game_mayo/224437464800",
-      "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-16",
-      "status": "expired"
-    },
-    {
       "code": "횟수",
       "reward": "",
       "expiry": null,
@@ -65,16 +115,6 @@
       "sourceUrl": "https://blog.naver.com/bomding/224435538933",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-20",
-      "status": "expired"
-    },
-    {
-      "code": "구글1위잔치로구나",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224437505488",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18",
       "status": "expired"
     }
   ]
