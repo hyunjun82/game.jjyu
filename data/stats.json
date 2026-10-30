@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T06:24:45.798Z",
+  "generatedAt": "2026-10-30T13:07:46.301Z",
   "today": "2026-10-30",
-  "todayNew": 52,
+  "todayNew": 77,
   "totals": {
     "games": 385,
-    "codes": 5271,
-    "active": 839,
+    "codes": 5296,
+    "active": 864,
     "expired": 4432,
-    "withExpiry": 3077
+    "withExpiry": 3096
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-30",
-      "count": 52
+      "count": 77
     }
   ],
   "expiringSoon": [
@@ -202,12 +202,6 @@
     },
     {
       "slug": "blood-of-youth",
-      "code": "THANKSFOREVER",
-      "expiry": "2026-10-31",
-      "days": 1
-    },
-    {
-      "slug": "blood-of-youth",
       "code": "GANGHO73529046",
       "expiry": "2026-10-31",
       "days": 1
@@ -215,6 +209,12 @@
     {
       "slug": "blood-of-youth",
       "code": "GANGHO18476352",
+      "expiry": "2026-10-31",
+      "days": 1
+    },
+    {
+      "slug": "blood-of-youth",
+      "code": "THANKSFOREVER",
       "expiry": "2026-10-31",
       "days": 1
     },

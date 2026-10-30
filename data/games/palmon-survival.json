@@ -2,14 +2,23 @@
   "slug": "palmon-survival",
   "titleEn": "Palmon Survival",
   "titleKo": "팰몬: 서바이벌",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTA4/MDAxNzkwMjM3NjI4NjE5.0vOjV7xAOZ0XGvb9_F32oyalZ9Ao3nsVN16ciAFwgI8g.Dkbw8ZKKDUf5BMoRJjpcOka_-80pPCb_iUs0_-Woah8g.PNG/556547.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjUz/MDAxNzkzMjY2MzcwNjg5.Lr9hhpk5gF3ajp16fA2uGAbaSC6qBAr_Z7Ff92Wy9MIg.BUOtnCNevEMMC5tzCGHhmVHE67mnosQ8ZhwCb9ZOFVgg.JPEG/KO.jpg",
   "source": "naver-lounge",
   "loungeId": "PalmonSurvival",
-  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8242178",
-  "howTo": "",
-  "postCount": 66,
-  "updatedAt": "2026-10-30T06:09:47.388Z",
+  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8387405",
+  "howTo": "프로필 → 설정 → 선물 코드 → 【2026HALLOWEEN】 입력 달빛 아래에서 더욱 짜릿한 모험을 함께해요! 🎃🥂",
+  "postCount": 67,
+  "updatedAt": "2026-10-30T13:05:26.418Z",
   "codes": [
+    {
+      "code": "2026HALLOWEEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "palmonmoon2026",
       "reward": "",

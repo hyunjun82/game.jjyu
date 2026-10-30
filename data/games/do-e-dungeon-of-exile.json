@@ -2,14 +2,23 @@
   "slug": "do-e-dungeon-of-exile",
   "titleEn": "Do E Dungeon Of Exile",
   "titleKo": "DoE: 던전앤엑자일",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjJfMTU4/MDAxNzkwMDcwNjU5NTQ4.eIM8IBoXstXEc6-ZYRHnkSN56L3QwRO_BDgw6LDeQC8g.AFROU0xECYkcQUDh9tQeIqVj7XOgniwtfpjPEphA2jMg.JPEG/doe-%E7%A4%BE%E7%BE%A4-%E4%B8%AD%E7%A7%8B%E7%A4%BC%E5%8C%85%E7%A0%81-1200-CZW-%E9%87%91%E9%93%B6%E5%AE%9E-%E9%9F%A9.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMzAw/MDAxNzkzMTc4Mzg3Mjcw.cqgviO88FIFR_xE0c5wAcQgKeJ-cML01kpgdrjbTG-cg.IhgeF3CrOkZONQrp65aGu3BXCTzmiMNWtY-mDmZv5Gog.JPEG/%E9%9F%A9.jpg",
   "source": "naver-lounge",
   "loungeId": "DoE_Dungeon_of_Exile",
-  "sourceUrl": "https://game.naver.com/lounge/DoE_Dungeon_of_Exile/board/detail/8239951",
+  "sourceUrl": "https://game.naver.com/lounge/DoE_Dungeon_of_Exile/board/detail/8387176",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-10-30T06:10:12.472Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-30T13:05:53.241Z",
   "codes": [
+    {
+      "code": "HALLOWEEN2026",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "SEPT26",
       "reward": "",

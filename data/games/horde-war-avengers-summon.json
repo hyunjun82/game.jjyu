@@ -2,14 +2,32 @@
   "slug": "horde-war-avengers-summon",
   "titleEn": "Horde War Avengers Summon",
   "titleKo": "호드 워:어벤저의 소환",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTlfMjQx/MDAxNzkyMzkzOTM1Mjkx.OWn9o8k56SjxOyWT3M2GWl_OqAJVBH1qzoUJb0DNIJkg.s1B_62N1Yu68tCMGlbie703ONTVCxiAcXI1uoK4V9AMg.JPEG/%E5%85%91%E6%8D%A2%E7%A0%811.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjcx/MDAxNzkzMzU4MjQ3MjM4.ToZ3zEdQRoO593X5ItrvmkI_Lz6AOiXi2T4MBhiRLNEg.gBF4ePF0NyMywh4gh9eijNMHixWZNDcrmw4cpOHwk7Eg.JPEG/%E5%85%91%E6%8D%A2%E7%A0%811.jpg",
   "source": "naver-lounge",
   "loungeId": "Horde_War_Avengers_Summon",
-  "sourceUrl": "https://game.naver.com/lounge/Horde_War_Avengers_Summon/board/detail/8355691",
+  "sourceUrl": "https://game.naver.com/lounge/Horde_War_Avengers_Summon/board/detail/8387680",
   "howTo": "",
-  "postCount": 597,
-  "updatedAt": "2026-10-30T06:10:28.116Z",
+  "postCount": 599,
+  "updatedAt": "2026-10-30T13:06:08.867Z",
   "codes": [
+    {
+      "code": "halloween",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "hnmdesw",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "hangeul2026",
       "reward": "",

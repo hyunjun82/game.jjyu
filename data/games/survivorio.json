@@ -2,14 +2,23 @@
   "slug": "survivorio",
   "titleEn": "Survivorio",
   "titleKo": "탕탕특공대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMTQ5/MDAxNzkyNTY1NzEwNDQ5.i6fv2WKeHMGUFJVmKGhsIFCpJ82ZLIs_GRNwNQA4J9Yg.tQ6kCA7Q7H6Fjvk9rKqOvzxlP7zVjnPppzQK3xOOPlwg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjY3/MDAxNzkzMjY3MDM0NTYy.lG3kmhC-GloPu4cLUjjQM0OxMW5AE_8-KLDwIRnMP-Ug.txxsR4SXtgRuV-LaBYj3NNTCzh1Ec8LYn4Yn_HCkVfkg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Survivorio",
-  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8356207",
+  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8387608",
   "howTo": "(frost2026) 를 입력해 선물을 받으세요!",
-  "postCount": 1,
-  "updatedAt": "2026-10-30T06:11:34.357Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-30T13:07:16.458Z",
   "codes": [
+    {
+      "code": "Halloween2026",
+      "reward": "",
+      "expiry": "2026-11-04",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "frost2026",
       "reward": "",

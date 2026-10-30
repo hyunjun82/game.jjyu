@@ -7,14 +7,23 @@
   "loungeId": "Last_Light_Defense",
   "sourceUrl": "https://game.naver.com/lounge/Last_Light_Defense/board/detail/8306499",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-10-30T06:09:00.241Z",
+  "postCount": 4,
+  "updatedAt": "2026-10-30T13:04:39.546Z",
   "codes": [
+    {
+      "code": "HALLOWEEN",
+      "reward": "",
+      "expiry": "2026-11-29",
+      "postedAt": "2026-03-10",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "34pzXN",
       "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-10-09",
+      "expiry": "2026-12-30",
+      "postedAt": "2026-03-10",
       "firstSeen": "2026-10-09",
       "lastSeen": "2026-10-30",
       "status": "active"
@@ -25,16 +34,7 @@
       "expiry": "2026-12-30",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-10-19",
-      "status": "active"
-    },
-    {
-      "code": "LIGHT2026",
-      "reward": "",
-      "expiry": "2027-01-01",
-      "postedAt": "2026-03-10",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-30",
       "status": "active"
     },
     {
@@ -43,7 +43,16 @@
       "expiry": "2026-12-30",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
+    {
+      "code": "LIGHT2026",
+      "reward": "",
+      "expiry": "2027-01-01",
+      "postedAt": "2026-03-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-30",
       "status": "active"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": "2026-09-29",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": "2026-09-29",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -88,7 +97,7 @@
       "expiry": "2026-09-29",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {
@@ -97,7 +106,7 @@
       "expiry": "2026-09-29",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-19",
+      "lastSeen": "2026-10-30",
       "status": "expired"
     }
   ]

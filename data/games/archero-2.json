@@ -2,14 +2,23 @@
   "slug": "archero-2",
   "titleEn": "Archero 2",
   "titleKo": "궁수의 전설2",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjNfNTEg/MDAxNzkwMTU1NzEzMjI1.t3gU0vqqjxLiua-DCmMTOYWKyj-TWVI3PehqusB83fQg.tvB_ij188EmLBZKoYvDTcKIQI_jKaqPUI5XQFH9mNBkg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C-%EA%B0%80%EB%A1%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMSAg/MDAxNzkzMzQ1NDQyNTYw.5HB7-vrQ0kh93Jlas4aUY734zdjZjYpvMZ-AnU0iBHwg.rh12zW6HeGJ0_v2QkPwYh_861TDYqUqfATEeZNL6K6Qg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C-%EA%B0%80%EB%A1%9C.png",
   "source": "naver-lounge",
   "loungeId": "Archero2",
-  "sourceUrl": "https://game.naver.com/lounge/Archero2/board/detail/8234728",
-  "howTo": "다음 링크를 접속하여 기프트코드 ( autumn2026 ) 를 입력해 선물을 받으세요!",
-  "postCount": 3598,
-  "updatedAt": "2026-10-30T06:09:42.325Z",
+  "sourceUrl": "https://game.naver.com/lounge/Archero2/board/detail/8387611",
+  "howTo": "다음 링크를 접속하여 기프트코드 ( halloween2026 ) 를 입력해 선물을 받으세요!",
+  "postCount": 3599,
+  "updatedAt": "2026-10-30T13:05:21.598Z",
   "codes": [
+    {
+      "code": "halloween2026",
+      "reward": "",
+      "expiry": "2026-11-06",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "autumn2026",
       "reward": "",

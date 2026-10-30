@@ -2,14 +2,23 @@
   "slug": "soul-hunter-idle",
   "titleEn": "Soul Hunter Idle",
   "titleKo": "소울 헌터 키우기: 방치형 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTEyMTlfMTU4/MDAxNzY2MTQ2NzkzNDc5.ZvFCQAHhfgJxPAggO-3kzGSsnAdA9oFBK2-MosVwCb0g.zKEHJYVVRBiauoWhfQROXjxadJw0Qi97ItPgQRWzY7Eg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EB%B0%B0%EB%84%88_00.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTkz/MDAxNzkzMzYwNTk0MjMy.V7BOsF9ICnJCfipEMDE4v73_WMpW_mRL-gZI7x8Mlxkg.d_4dvSPFAaUuIfCd0Np4y0wrBWAhoROoH4Ppa7IuUgUg.PNG/image.png",
   "source": "naver-lounge",
   "loungeId": "Soul_Hunter_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8357857",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Hunter_Idle/board/detail/8387754",
   "howTo": "1. AOS의 경우,",
-  "postCount": 39,
-  "updatedAt": "2026-10-30T06:07:58.508Z",
+  "postCount": 40,
+  "updatedAt": "2026-10-30T13:03:33.851Z",
   "codes": [
+    {
+      "code": "HW2026",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "status": "active"
+    },
     {
       "code": "HANGEUL",
       "reward": "",
