@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-31T18:47:16.069Z",
+  "generatedAt": "2026-10-31T22:04:07.183Z",
   "games": [
     {
       "slug": "f4-u",
@@ -63,64 +63,22 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
-    },
-    {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
-    },
-    {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
-    },
-    {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
-    },
-    {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
-    },
-    {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
-    },
-    {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
-    },
-    {
-      "slug": "disgaea-rpg",
-      "loungeId": "DISGAEA_RPG",
-      "titleKo": "마계전기 DISGAEA RPG",
-      "titleEn": "Disgaea Rpg"
-    },
-    {
-      "slug": "disney-realm-breakers",
-      "loungeId": "Disney_Realm_Breakers",
-      "titleKo": "디즈니 렐름 브레이커스",
-      "titleEn": "Disney Realm Breakers"
-    },
-    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -133,6 +91,90 @@
       "loungeId": "Dragonheir_Silent_Gods",
       "titleKo": "드래곤에어 : 침묵의 신",
       "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "dragoon-of-the-wind",
+      "loungeId": "Dragoon_Of_The_Wind",
+      "titleKo": "바람의 드래군M",
+      "titleEn": "Dragoon Of The Wind"
+    },
+    {
+      "slug": "dungeonand-breaker",
+      "loungeId": "DungeonandBreaker",
+      "titleKo": "던전앤브레이커",
+      "titleEn": "Dungeonand Breaker"
+    },
+    {
+      "slug": "dungeon-dungeon",
+      "loungeId": "DungeonDungeon",
+      "titleKo": "던전던전",
+      "titleEn": "Dungeon Dungeon"
+    },
+    {
+      "slug": "dwarfidlerpg",
+      "loungeId": "Dwarfidlerpg",
+      "titleKo": "드워프 키우기 : 방치형RPG",
+      "titleEn": "Dwarfidlerpg"
+    },
+    {
+      "slug": "dx-awaken",
+      "loungeId": "dx_awaken",
+      "titleKo": "DX: 각성자들",
+      "titleEn": "Dx Awaken"
+    },
+    {
+      "slug": "echocalypse-scarlet-covenant",
+      "loungeId": "Echocalypse_Scarlet_Covenant",
+      "titleKo": "에코칼립스: 진홍의 서약",
+      "titleEn": "Echocalypse Scarlet Covenant"
+    },
+    {
+      "slug": "eggmon",
+      "loungeId": "eggmon",
+      "titleKo": "에그몬 월드:저니",
+      "titleEn": "Eggmon"
+    },
+    {
+      "slug": "elfidle",
+      "loungeId": "elfidle",
+      "titleKo": "엘프키우기",
+      "titleEn": "Elfidle"
+    },
+    {
+      "slug": "eternal-three-kingdoms",
+      "loungeId": "Eternal_Three_Kingdoms",
+      "titleKo": "이터널삼국지",
+      "titleEn": "Eternal Three Kingdoms"
+    },
+    {
+      "slug": "ex-astris",
+      "loungeId": "Ex_Astris",
+      "titleKo": "엑스 아스트리스",
+      "titleEn": "Ex Astris"
+    },
+    {
+      "slug": "fantasysamgook",
+      "loungeId": "fantasysamgook",
+      "titleKo": "판타지 삼국",
+      "titleEn": "Fantasysamgook"
+    },
+    {
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
+    },
+    {
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
+    },
+    {
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
     },
     {
       "slug": "idle-king",
