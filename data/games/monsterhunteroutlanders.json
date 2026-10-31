@@ -5,48 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T14:12:00.378Z",
+  "updatedAt": "2026-10-31T18:56:15.669Z",
   "codes": [
-    {
-      "code": "MHOU2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459999029",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
-    {
-      "code": "OUTLANDERS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459999029",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
-    {
-      "code": "HUNTBEGINS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459999029",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
-    {
-      "code": "famitsumho2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-30",
-      "sourceUrl": "https://blog.naver.com/yolofnc/224459064037",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
     {
       "code": "mhogohunt",
       "reward": "",
@@ -54,7 +14,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active"
     },
     {
@@ -64,8 +24,48 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active"
+    },
+    {
+      "code": "MHOU2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459999029",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "OUTLANDERS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459999029",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "HUNTBEGINS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459999029",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "famitsumho2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/yolofnc/224459064037",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
     }
   ]
 }

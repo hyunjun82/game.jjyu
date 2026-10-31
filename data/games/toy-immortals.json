@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Toy_Immortals/board/detail/8386856",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-31T14:07:47.327Z",
+  "updatedAt": "2026-10-31T18:51:59.251Z",
   "codes": [
     {
       "code": "TOY10THANKS",
@@ -16,7 +16,7 @@
       "expiry": "2026-11-05",
       "postedAt": "2026-10-30",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active"
     },
     {
@@ -25,42 +25,13 @@
       "expiry": null,
       "postedAt": "2026-10-20",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
-    {
-      "code": "TOY1016",
-      "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-10-16",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "TOYGALAXY1",
-      "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-27",
+      "lastSeen": "2026-11-01",
       "status": "active"
     },
     {
       "code": "TOYSOPEN",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-09-28",
-      "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
-      "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-27",
-      "status": "active"
-    },
-    {
-      "code": "TOYONE1",
-      "reward": "",
-      "expiry": "2026-10-31",
       "postedAt": "2026-09-28",
       "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
       "firstSeen": "2026-10-02",
@@ -88,14 +59,13 @@
       "status": "active"
     },
     {
-      "code": "TOYGOOGLE1",
+      "code": "TOY1016",
       "reward": "",
       "expiry": "2026-10-31",
-      "postedAt": "2026-09-29",
-      "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
-      "firstSeen": "2026-10-02",
-      "lastSeen": "2026-10-27",
-      "status": "active"
+      "postedAt": "2026-10-16",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-30",
+      "status": "expired"
     },
     {
       "code": "이름",
@@ -118,6 +88,16 @@
       "status": "expired"
     },
     {
+      "code": "TOYGALAXY1",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
       "code": "TOYONE11",
       "reward": "",
       "expiry": null,
@@ -134,6 +114,26 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224431269819",
       "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "TOYONE1",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-28",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224424768605",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-27",
+      "status": "expired"
+    },
+    {
+      "code": "TOYGOOGLE1",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-09-29",
+      "sourceUrl": "https://blog.naver.com/spectator_79/224425703261",
+      "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-27",
       "status": "expired"
     }

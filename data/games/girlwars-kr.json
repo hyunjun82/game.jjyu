@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/girlwars/board/detail/8376630",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-31T14:07:35.651Z",
+  "updatedAt": "2026-10-31T18:51:46.409Z",
   "codes": [
     {
       "code": "4THPRECIOUS",
@@ -16,7 +16,7 @@
       "expiry": "2026-11-28",
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-20",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-31",
-      "status": "active"
+      "lastSeen": "2026-11-01",
+      "status": "expired"
     }
   ]
 }

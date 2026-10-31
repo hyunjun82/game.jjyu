@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Titan_War/board/detail/8390296",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-10-31T14:06:09.288Z",
+  "updatedAt": "2026-10-31T18:50:14.047Z",
   "codes": [
     {
       "code": "pumpkin",
@@ -16,7 +16,7 @@
       "expiry": "2026-12-01",
       "postedAt": "2026-10-31",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-09",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-10-31",
-      "status": "active"
+      "lastSeen": "2026-11-01",
+      "status": "expired"
     },
     {
       "code": "DIVINE0817",
@@ -34,7 +34,7 @@
       "expiry": "2026-10-01",
       "postedAt": "2026-08-17",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "expired"
     }
   ]

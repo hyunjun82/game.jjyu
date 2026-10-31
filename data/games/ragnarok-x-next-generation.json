@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/RAGNAROK_X_Next_Generation/board/detail/8328227",
   "howTo": "",
   "postCount": 1,
-  "updatedAt": "2026-10-31T14:07:32.624Z",
+  "updatedAt": "2026-10-31T18:51:42.514Z",
   "codes": [
     {
       "code": "ROX66666",
@@ -16,8 +16,8 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-31",
-      "status": "active"
+      "lastSeen": "2026-11-01",
+      "status": "expired"
     },
     {
       "code": "delaypromax",
@@ -25,8 +25,8 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-31",
-      "status": "active"
+      "lastSeen": "2026-11-01",
+      "status": "expired"
     },
     {
       "code": "kwave1015",
@@ -34,8 +34,8 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-31",
-      "status": "active"
+      "lastSeen": "2026-11-01",
+      "status": "expired"
     },
     {
       "code": "404servernotfound",
@@ -43,8 +43,8 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-31",
-      "status": "active"
+      "lastSeen": "2026-11-01",
+      "status": "expired"
     }
   ]
 }

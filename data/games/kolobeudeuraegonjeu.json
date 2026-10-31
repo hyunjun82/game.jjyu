@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T14:16:33.550Z",
+  "updatedAt": "2026-10-31T19:00:06.571Z",
   "codes": [
-    {
-      "code": "CODFMFGIFT",
-      "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-10-22",
-      "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
     {
       "code": "League2026",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
       "status": "active"
     },
     {
@@ -34,7 +24,17 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "status": "expired"
+    },
+    {
+      "code": "CODFMFGIFT",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/oksong49/224450322829",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-11-01",
       "status": "expired"
     }
   ]
