@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T12:27:59.424Z",
+  "updatedAt": "2026-10-31T14:16:03.412Z",
   "codes": [
+    {
+      "code": "구분",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/naakey/224460501388",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "MAGICHALFYR",
+      "reward": "",
+      "expiry": "2026-12-10",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/land-kangpm/224459546953",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "DOKKAEBI2026",
       "reward": "",
@@ -33,16 +53,6 @@
       "expiry": null,
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460001144",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
-    {
-      "code": "MAGICHALFYR",
-      "reward": "",
-      "expiry": "2026-12-10",
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/land-kangpm/224459546953",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-10-31",
       "status": "active"
@@ -121,8 +131,8 @@
       "code": "도깨비1008",
       "reward": "",
       "expiry": "2026-11-05",
-      "postedAt": "2026-10-08",
-      "sourceUrl": "https://blog.naver.com/ldkboaz/224435565590",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/12512512/224460480931",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-31",
       "status": "active"

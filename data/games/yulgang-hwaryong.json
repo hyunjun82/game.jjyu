@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Yulgang_Fire_Dragon_Tale/board/detail/8388607",
   "howTo": "",
   "postCount": 7,
-  "updatedAt": "2026-10-31T12:31:33.688Z",
+  "updatedAt": "2026-10-31T14:04:52.568Z",
   "codes": [
+    {
+      "code": "SPOOKY31",
+      "reward": "",
+      "expiry": "2026-11-07",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "OCTSERVER",
       "reward": "",
@@ -29,15 +38,6 @@
       "status": "active"
     },
     {
-      "code": "THEDAY815",
-      "reward": "",
-      "expiry": "2026-11-07",
-      "postedAt": "2026-10-31",
-      "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-31",
-      "status": "active"
-    },
-    {
       "code": "0716HELLO",
       "reward": "",
       "expiry": "2026-07-31",
@@ -51,6 +51,15 @@
       "reward": "",
       "expiry": "2026-09-30",
       "postedAt": "2026-09-01",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "THEDAY815",
+      "reward": "",
+      "expiry": "2026-08-22",
+      "postedAt": "2026-08-15",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-10-31",
       "status": "expired"

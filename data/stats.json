@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-31T12:34:57.345Z",
+  "generatedAt": "2026-10-31T14:17:59.523Z",
   "today": "2026-10-31",
-  "todayNew": 134,
+  "todayNew": 137,
   "totals": {
     "games": 391,
-    "codes": 5437,
-    "active": 949,
-    "expired": 4488,
-    "withExpiry": 3163
+    "codes": 5440,
+    "active": 951,
+    "expired": 4489,
+    "withExpiry": 3165
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-31",
-      "count": 134
+      "count": 137
     }
   ],
   "expiringSoon": [
@@ -412,8 +412,8 @@
     },
     {
       "slug": "dokkaebiuisegye",
-      "active": 13,
-      "total": 15
+      "active": 14,
+      "total": 16
     },
     {
       "slug": "whoa-adventurers",

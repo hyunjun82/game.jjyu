@@ -2,14 +2,23 @@
   "slug": "heartopia",
   "titleEn": "Heartopia",
   "titleKo": "두근두근타운",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMTM0/MDAxNzkyNDYxMDQxNjcw.CdUbOveEk7ZWAUcu9xMhLH9BVKjubwCn_B7_9Z9u8log.4EuuHiEQsqnBpOU3qF0ySTmv3maWZioNrv418yLmCkEg.JPEG/%EB%A6%AC%EB%94%A4_%EC%BD%94%EB%93%9C.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjM5/MDAxNzkzMzI0NTI0Mzc1.QAp2ELlBcB3Y3CGtIt3n-OnPyCUFWFr_bgdj-ZhTjv4g.zrIoONIKF_u50U1LWwh1iDllSN1Z6Nyb6dedCP8cd_wg.JPEG/%EB%A6%AC%EB%94%A4_%EC%BD%94%EB%93%9C.jpg",
   "source": "naver-lounge",
   "loungeId": "Heartopia",
-  "sourceUrl": "https://game.naver.com/lounge/Heartopia/board/detail/8368206",
+  "sourceUrl": "https://game.naver.com/lounge/Heartopia/board/detail/8392494",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-10-31T12:34:32.232Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-31T14:07:52.078Z",
   "codes": [
+    {
+      "code": "pumpkin2026",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "p7k5a3n9r2m8",
       "reward": "",
