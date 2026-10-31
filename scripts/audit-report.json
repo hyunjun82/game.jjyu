@@ -1,70 +1,40 @@
 {
- "generatedAt": "2026-10-31T05:21:31.516Z",
- "window": "20261029~20261031",
+ "generatedAt": "2026-10-31T21:24:20.047Z",
+ "window": "20261030~20261101",
  "lounges": 2362,
- "posts": 784,
- "couponPosts": 117,
+ "posts": 559,
+ "couponPosts": 110,
  "fixedTracked": [
-  "각도와 바람의 전쟁 | DAY3ISHERE | 3일 차 출석 체크 GIFTCODE! 💝",
-  "빵빵 좀비단 | TRICK9345 | 🎃 Happy Halloween! 👻",
-  "브라운더스트2 | 2026BD2NOV | 🎁2026년 11월 이달의 쿠폰 공개!",
-  "딸깍 다이스 | Halloween2026 | [기프트코드]할로윈 기프트코드!🦇",
-  "둠스데이: 라스트 서바이버 | TRICKORTREAT | [이벤트] 🎃망령의 신부와 함께하는 핼러윈의 밤",
-  "그놈은 드래곤 | HappyHalloween | 할로윈 기념 특별 이벤트 - 유령이 장난친 흔적을 찾아서 - 틀린 그림 ",
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | KJRM582 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/31 깜짝 쿠폰!",
-  "천지겁 | 2026November | 11월 달력 공유 | 찬 바람이 불어오는 계절, 따뜻한 11월 달력을 선",
-  "끄투 | TRICKORTREAT2026 | 🎃 핼러윈 기념 쿠폰 배포 안내",
-  "추억의 잡화점 | 2026Halloween | 🎃할로윈 특별 혜택 도착!🎃",
-  "퍼즐 오브 Z | PNSHAL26 | 🎃 해피 할로윈!",
-  "레이드 : 그림자의 전설 | 2GTTRICKORTREAT | 🔥 레이드: 그림자의 전설 할로윈 프로모 코드 선물! ",
-  "영혼 인도자：신의 이름으로 | Z2T8Q5L3 | ✨ 할로윈 기념 특별 쿠폰"
+  "레이드 : 그림자의 전설 | 2GTTRICKORTREAT | 🔥 레이드: 그림자의 전설 할로윈 프로모 코드 선물! "
  ],
  "addedLounges": [
-  "바이오하자드 서바이벌 유닛 (BIOHAZARD_Survival_Unit) → /biohazard-survival-unit/ | TASTYGLUCOSE",
-  "슬라임 군단 (Slime_Legion) → /slime-legion/ | SLIMETRICK26",
-  "숲의 소환단:방치형 판타지 수집 RPG (Tree_World) → /tree-world/ | VIP111, VIP222, VIP333, VIP666, VIP777, VIP888"
+  "에이지 오브 엠파이어 모바일 (Age_of_Empires_Mobile) → /age-of-empires-mobile/ | TRICKORTREAT",
+  "기적의 검 (MiracleSwordM) → /miracle-sword-m-kr/ | Halloween26"
  ],
  "labelOnly": [
-  "이사만루26 | 2026-10-29 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "ACECRAFT | 2026-10-30 | 핼러윈 특별 기획 | 파일럿 변장, 으스스한 밤에 이륙",
-  "애니멀 가든 | 2026-10-29 | 🌸 [공지] 더욱 새로워진 정원! 시스템 UI 업데이트 및 기능 통합 안내",
   "애니멀 가든 | 2026-10-31 | [주말코드]🎁해피 할로윈🎁",
   "다크엔젤:천사 강림 | 2026-10-30 | [공지]💸U-store 포인트 상점 신규 오픈 안내🛒",
-  "검신제로 | 2026-10-29 | [공지] 알려진 이슈 안내 (최종 업데이트: 10/30 11:50)",
-  "검신제로 | 2026-10-29 | [이벤트] 정식 출시 기념 7일 릴레이 교환 코드 이벤트 안내",
   "라스트 소녀 전사 | 2026-10-30 | 👻 신서버 S6108 오픈 안내",
-  "드래곤 나이트 키우기 : 방치형 RPG | 2026-10-29 | [안내] v2.8.0 업데이트 GM 노트",
+  "라스트 소녀 전사 | 2026-10-31 | 👻 [무료 배포] 오싹달콤! 할로윈 인생네컷 6종 📸",
   "드래곤 나이트 키우기 : 방치형 RPG | 2026-10-30 | [쿠폰] 할로윈 기념 쿠폰 안내",
-  "드래곤에어 : 침묵의 신 | 2026-10-29 | 【이벤트】 <드래곤에어: 침묵의 신> '드래곤에어를 하는 이유' 주간 오픈! ✨",
+  "드래곤네스트 월드 | 2026-10-31 | 🎃할로윈 특별 쿠폰 안내",
   "드림 가든: 추억의 힐링 경영 | 2026-10-30 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "드림 가든: 추억의 힐링 경영 | 2026-10-31 | 🌸[할로윈 특별 혜택]🌸",
   "궁신 : 방치형 RPG | 2026-10-30 | 할로윈 선물 받고 신나게 놀아보세요!🕸🎃",
-  "부족 또 전쟁 : 무한루프 RPG | 2026-10-29 | 🎉 [이벤트] 《부족 또 전쟁》 카카오톡 채널 오픈 기념 이벤트! 🎁",
   "히어로 랜드M | 2026-10-30 | 주간 혜택（10/30~11/6）",
-  "I9: 인페르노 나인 | 2026-10-29 | ✨수리수리 마수리!🎃할로윈 코스프레!",
   "루미마스터 | 2026-10-31 | [라운지 이벤트] 장난의 날 전용 컬러링 루미를 자랑하고 이벤트 보상을 받아가세요!🎁",
   "루미마스터 | 2026-10-30 | [라운지 이벤트] 지정 임무 달성 이벤트가 오픈되었습니다!🎁",
   "아케론: 종말의 서곡 | 2026-10-31 | [이벤트] 🎃할로윈 TRICK or TREAT（10/31-11/10）",
+  "라그나로크3 | 2026-10-31 | 해피 할로윈! 이벤트 참여하면? 추첨을 통해 Discord Nitro 1개월권이?!!",
   "전생했더니 검 한 자루 | 2026-10-31 | 🔔사전예약 퀴즈 이벤트 3탄! ",
   "전생했더니 검 한 자루 | 2026-10-30 | 👻 으스스한 할로윈 밤… 호박이 숨어 있다! 🎃",
-  "전생했더니 검 한 자루 | 2026-10-29 | 👀내 최애 검령 one pick은? 검령 투표 이벤트💓",
   "사커워즈 | 2026-10-31 | [사전예약] 사커워즈 사전예약을 시작합니다! (~11/17)",
-  "이것이 삼국지다 | 2026-10-29 | [이벤트] 주유의 사자성어 창고털이",
   "Total Football - 25/26 시즌 | 2026-10-30 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/2 ~ 11/8)",
   "불칸 | 2026-10-31 | [이벤트] 서버 통합 기념 쿠폰",
   "명조:워더링 웨이브 | 2026-10-30 | 🌟「명조 | Galaxy Store」 「에이메스」 빅스비 보이스 스페셜 키트 2차 예약 "
  ],
  "imageOnly": [
-  {
-   "game": "이사만루26",
-   "loungeId": "24manru3",
-   "feedId": 8382674,
-   "date": "2026-10-29",
-   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
-   ]
-  },
   {
    "game": "검신제로",
    "loungeId": "Dawns_Wake",
@@ -74,17 +44,6 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTAg/MDAxNzkzMzY2MTg5OTQ1.0ERUo_TZJ-nqfOJDKu78qDfudqfbfzCz-Y1gJGIp-Agg.WrhYnQPaUHqFpYNWQ8ogy90-qU2TUTCZgjz1oVD2JBIg.JPEG/4_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjA2/MDAxNzkzMzY2MTk5NjAz.BcK7C8m-sMKMTThnmL7yUODijhBBaYRqTOD3wN_TM7sg.vkibqlzOMk12E_pBRvzgW3UFQXuOc0QU9JhwBmVFDYEg.JPEG/4_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "검신제로",
-   "loungeId": "Dawns_Wake",
-   "feedId": 8381207,
-   "date": "2026-10-29",
-   "title": "[이벤트] 정식 출시 기념 7일 릴레이 교환 코드 이벤트 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMjEz/MDAxNzkzMTk1NjQ2Mzkx.OZ6snnOW_eewH4oUOsuDU-2sGiH9gdcikC706996h7Ug.UeSRqHGkbYFbWYmETfDu_6ql9yXw1_3wqh0TklIPlCwg.JPEG/5_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjYg/MDAxNzkzMzY0NjQzODA5.e8Xr7k6s-vEntMb92h459164Eyrdlutwp4PkFSIp4Jcg.lfeXdmDlRPSHou-lGNwZjtA-f4lgm0Gamn0Y_Zd1FmQg.JPEG/5_%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg?type=w1678"
    ]
   },
   {
@@ -99,18 +58,14 @@
    ]
   },
   {
-   "game": "레알팜 크래프트",
-   "loungeId": "REALFARM_CRAFT",
-   "feedId": 8382001,
-   "date": "2026-10-29",
-   "title": "🎁[레알쿠폰 7차 특별 이벤트 사전 안내] (11/11 ~ 11/24)🎁",
+   "game": "드래곤네스트 월드",
+   "loungeId": "DragonnestWorld",
+   "feedId": 8391927,
+   "date": "2026-10-31",
+   "title": "🎃할로윈 특별 쿠폰 안내",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfOTEg/MDAxNzkzMjUwNjAwODE1.Ensm4AVhO_MvrYHKUzZhf8m7bKLdAoq3d-WuU25gzb4g.LLVTVT4t6FL1P-wtHFG46mc_Q8hKrVkYRnDAd3fn4p0g.JPEG/%EC%B7%A8%EB%82%98%EB%AC%BC%EC%89%90%EC%9D%B4%ED%81%AC.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTMg/MDAxNzkzMjUwNjExMDI3.bN4BZt3Hst1o0yzWakTSWbPyMvHCOp61HsporuDLSikg.oXUZkfbBNhtCdOqxq53i67bvaC4YnSC5yWX-gyesog8g.JPEG/%EC%A7%80%EC%97%AD(%EC%9E%90%EC%82%AC%EB%AA%B0%EC%A7%80%EB%8F%84)_%EC%A0%84%EB%82%A8%EA%B3%A0%ED%9D%A5_0.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjYw/MDAxNzkzMjUwNjE3NTc1.IR-Wjinw44w7q1MvhaM9N3NiqrWX-iWHtouzcsShuL0g.SgJQAHg7D0n84TRFiYweIKz5zD395YjRegsYR54zb2Ag.JPEG/5640c77e8cf18.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfNTUg/MDAxNzkzMjUwNjQzMDkw.ryNUyF5aYO0550P9ELk2_hErpMmL3zgtddTVzVDqehsg.hya_4TUecnsJL0d_7C91abWJWVyIlHeKXstXKr8lF5sg.JPEG/%EB%B9%84%EB%B2%BC%EB%B0%A504-2.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjE2/MDAxNzkzMjUwNjU1NDEx.O_d9c_OTfhDiNs66F58h3-Fyiwx0EX2oiJKSDdtcO8Yg.UdVbT48fUFHKE-hOf3qXiEIyGlOa7L7Jk1rk3bKs4eYg.JPEG/%EB%B9%84%EB%B2%BC%EB%B0%A506.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTU5/MDAxNzkzMjUwNzIxMzIw.c8T4eBMLKLOqksBMNAkmtkyds1Bpp-0oRi96K4Vwoowg.fDmUSII8pYK04AAzx9vMSuZuPCJQ_cQxCbzxLi2TC3wg.JPEG/1.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjAw/MDAxNzkzMzM2Mzg4OTky.pnIMFDeeHTe9PV485_NEE4IjivxpicCzyf4sKbgUf10g.CQOTIdAYV1_Ta9VTwHregI2cNieV3gh5LMFDmueGRywg.PNG/%E4%B8%8B%E8%BD%BD.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTU0/MDAxNzkzMzM2NTcxNjI5.-6n-G8mjKXMR8e9UTE7shFNi8rKqJ_YSHIQ545enmGUg.-XyQ_zWptleSTkP92vHMKnxy_lwFQVtylXYHbRKy8TUg.PNG/img_v3_0216v_7b1b5703-9c6d-4e12-a502-78443abe084g.png?type=w1678"
    ]
   },
   {

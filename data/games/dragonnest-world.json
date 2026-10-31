@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/DragonnestWorld/board/detail/8385682",
   "howTo": ": 게임 내 상단 [혜택] 메뉴 진입 > 좌측 [코드 입력 보상] 탭 선택 > 교환 코드 입력 후 [받기] 버튼 클릭",
   "postCount": 429,
-  "updatedAt": "2026-10-31T18:49:20.260Z",
+  "updatedAt": "2026-10-31T21:51:28.524Z",
   "codes": [
+    {
+      "code": "HalloweenY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "HAPPYWEEKLY1026V",
       "reward": "",

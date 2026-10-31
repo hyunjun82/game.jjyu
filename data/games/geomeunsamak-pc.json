@@ -1,0 +1,31 @@
+{
+  "slug": "geomeunsamak-pc",
+  "titleEn": "geomeunsamak-pc",
+  "titleKo": "검은사막 PC",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-31T21:49:03.920Z",
+  "codes": [
+    {
+      "code": "BEYONDTHEJOURNEY",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/travous/224460544132",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "TYALLADVENTURERS",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/travous/224460544132",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    }
+  ]
+}
