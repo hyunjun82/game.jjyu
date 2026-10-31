@@ -2,14 +2,23 @@
   "slug": "brown-dust-2",
   "titleEn": "Brown Dust 2",
   "titleKo": "브라운더스트2",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjlfMjgx/MDAxNzkwNjcwNjU0NjU1.2zQtwYRO_2xgQTnYZDML468pkZDsSGNxPH7uOWAkQzMg._lIe1ArIl-tuQDjmPsCpRaf7cReEBGlqGcIvX2T25Xcg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjkz/MDAxNzkzMzYwMzA2MjE2.m2id4DeLtCPdvgwR7VWdZcXDm5JLgq0IV6f7RvZZXksg.EgTLcFtkNyT-6YbfisisB4ZixOWdNZmWV4JmDI8i92gg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "BrownDust2",
-  "sourceUrl": "https://game.naver.com/lounge/BrownDust2/board/detail/8263310",
+  "sourceUrl": "https://game.naver.com/lounge/BrownDust2/board/detail/8391011",
   "howTo": "1. Android 기기는 게임 내 [기타] > [쿠폰 등록]에서 쿠폰을 사용하실 수 있습니다. 2. 브라운더스트2 공식 사이트에서도 쿠폰을 사용하실 수 있습니다.",
   "postCount": 1,
-  "updatedAt": "2026-10-26T05:15:46.261Z",
+  "updatedAt": "2026-10-31T05:54:46.947Z",
   "codes": [
+    {
+      "code": "2026BD2NOV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "2026BD2OCT",
       "reward": "",

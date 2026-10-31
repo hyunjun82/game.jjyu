@@ -2,14 +2,23 @@
   "slug": "kkutu",
   "titleEn": "KKuTu",
   "titleKo": "끄투",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTA4MjdfMTk0/MDAxNzU2MjIwNjY2Mzg1.SXYhBl5_-uFB6Iuz7ccw2-aJuoSzMBh3EyMJg1jl8FQg.fqTsuU93aatBndd3-PuW9-ihypCe9Y1vYblXZofVK24g.PNG/moremi-256.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzFfMTgx/MDAxNzkzNDIwNTYzMzU2.SN1-OxzMc11MxhIk58AJ6_SmSpi6BKSkbLTkZsMGYqAg.86esb8ZVQhZBaGfE1xGAP-MkRw3BXDc5Y0G7JFxAwisg.PNG/jack-o-lantern-hat.png",
   "source": "naver-lounge",
   "loungeId": "kkutu",
-  "sourceUrl": "https://game.naver.com/lounge/kkutu/board/detail/8178459",
+  "sourceUrl": "https://game.naver.com/lounge/kkutu/board/detail/8390869",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-10-31T02:01:28.945Z",
+  "postCount": 2,
+  "updatedAt": "2026-10-31T05:54:27.906Z",
   "codes": [
+    {
+      "code": "TRICKORTREAT2026",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "BETASEASONLETSGO",
       "reward": "",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-31T02:15:11.666Z",
+  "generatedAt": "2026-10-31T05:59:02.670Z",
   "today": "2026-10-31",
-  "todayNew": 66,
+  "todayNew": 101,
   "totals": {
-    "games": 388,
-    "codes": 5369,
-    "active": 891,
-    "expired": 4478,
-    "withExpiry": 3135
+    "games": 391,
+    "codes": 5404,
+    "active": 915,
+    "expired": 4489,
+    "withExpiry": 3155
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-31",
-      "count": 66
+      "count": 101
     }
   ],
   "expiringSoon": [
@@ -402,8 +402,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 58
+      "active": 16,
+      "total": 59
     },
     {
       "slug": "sword-immortal",
@@ -416,14 +416,14 @@
       "total": 13
     },
     {
+      "slug": "dragon-traveler",
+      "active": 12,
+      "total": 83
+    },
+    {
       "slug": "solo-exorcist",
       "active": 12,
       "total": 12
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 11,
-      "total": 82
     },
     {
       "slug": "genshin-impact",
@@ -434,6 +434,11 @@
       "slug": "gray-saga",
       "active": 11,
       "total": 14
+    },
+    {
+      "slug": "kalpa-of-universe",
+      "active": 11,
+      "total": 42
     },
     {
       "slug": "sabuk-ice-kingdom",
@@ -459,11 +464,6 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "kalpa-of-universe",
-      "active": 10,
-      "total": 41
     },
     {
       "slug": "astro-defenders",

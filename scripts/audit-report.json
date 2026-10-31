@@ -1,22 +1,28 @@
 {
- "generatedAt": "2026-10-30T22:12:33.543Z",
+ "generatedAt": "2026-10-31T05:21:31.516Z",
  "window": "20261029~20261031",
  "lounges": 2362,
- "posts": 694,
- "couponPosts": 85,
+ "posts": 784,
+ "couponPosts": 117,
  "fixedTracked": [
-  "9UP 프로야구 | 26kbochampion | [이벤트] 한국 시리즈 이벤트",
-  "호라이즌 워커 | 26HAPPYHW | 《호라이즌 워커》 l 이벤트 - 햅삐 할로윈?! 해피 호라이즌워커~~",
-  "미르의 전설2: 레볼루션 | REVOLUTION | <미르의 전설2: 레볼루션> 예약 60만 돌파! 🎉",
-  "나 혼자 만렙 키우기 | 2NDANNIVERSARYADV1 | [공지사항] 11/19(목) 2주년 업데이트 예고 1차 안내",
-  "프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠 | MEIKO, KAITO | ✨[예고] 'Colors of Pure Sense' 이벤트 개최 예정!✨",
+  "각도와 바람의 전쟁 | DAY3ISHERE | 3일 차 출석 체크 GIFTCODE! 💝",
+  "빵빵 좀비단 | TRICK9345 | 🎃 Happy Halloween! 👻",
+  "브라운더스트2 | 2026BD2NOV | 🎁2026년 11월 이달의 쿠폰 공개!",
+  "딸깍 다이스 | Halloween2026 | [기프트코드]할로윈 기프트코드!🦇",
+  "둠스데이: 라스트 서바이버 | TRICKORTREAT | [이벤트] 🎃망령의 신부와 함께하는 핼러윈의 밤",
+  "그놈은 드래곤 | HappyHalloween | 할로윈 기념 특별 이벤트 - 유령이 장난친 흔적을 찾아서 - 틀린 그림 ",
+  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | KJRM582 | [c-o-u-p-o-n] 히어로 여러분을 위한 10/31 깜짝 쿠폰!",
+  "천지겁 | 2026November | 11월 달력 공유 | 찬 바람이 불어오는 계절, 따뜻한 11월 달력을 선",
+  "끄투 | TRICKORTREAT2026 | 🎃 핼러윈 기념 쿠폰 배포 안내",
+  "추억의 잡화점 | 2026Halloween | 🎃할로윈 특별 혜택 도착!🎃",
+  "퍼즐 오브 Z | PNSHAL26 | 🎃 해피 할로윈!",
   "레이드 : 그림자의 전설 | 2GTTRICKORTREAT | 🔥 레이드: 그림자의 전설 할로윈 프로모 코드 선물! ",
-  "응발로키우기 | YEPTHANKYOU2 | [개발자노트] 응발로 키우기 두 번째 개발자 노트",
-  "요괴 키우기 | YOKAIHALLOWEEN2026 | 요괴 키우기 할로윈 기념 특별 쿠폰 안내"
+  "영혼 인도자：신의 이름으로 | Z2T8Q5L3 | ✨ 할로윈 기념 특별 쿠폰"
  ],
  "addedLounges": [
-  "포트리스3 BLUE (Fortress3_BLUE) → /fortress3-blue/ | F3BHALLOWEEN",
-  "숲의 소환단:방치형 판타지 수집 RPG (Tree_World) → /tree-world/ | VIP666, VIP777, VIP888"
+  "바이오하자드 서바이벌 유닛 (BIOHAZARD_Survival_Unit) → /biohazard-survival-unit/ | TASTYGLUCOSE",
+  "슬라임 군단 (Slime_Legion) → /slime-legion/ | SLIMETRICK26",
+  "숲의 소환단:방치형 판타지 수집 RPG (Tree_World) → /tree-world/ | VIP111, VIP222, VIP333, VIP666, VIP777, VIP888"
  ],
  "labelOnly": [
   "이사만루26 | 2026-10-29 | [이벤트] 키워드 쿠폰 이벤트 안내",
@@ -31,16 +37,21 @@
   "드래곤 나이트 키우기 : 방치형 RPG | 2026-10-30 | [쿠폰] 할로윈 기념 쿠폰 안내",
   "드래곤에어 : 침묵의 신 | 2026-10-29 | 【이벤트】 <드래곤에어: 침묵의 신> '드래곤에어를 하는 이유' 주간 오픈! ✨",
   "드림 가든: 추억의 힐링 경영 | 2026-10-30 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
+  "드림 가든: 추억의 힐링 경영 | 2026-10-31 | 🌸[할로윈 특별 혜택]🌸",
   "궁신 : 방치형 RPG | 2026-10-30 | 할로윈 선물 받고 신나게 놀아보세요!🕸🎃",
   "부족 또 전쟁 : 무한루프 RPG | 2026-10-29 | 🎉 [이벤트] 《부족 또 전쟁》 카카오톡 채널 오픈 기념 이벤트! 🎁",
   "히어로 랜드M | 2026-10-30 | 주간 혜택（10/30~11/6）",
   "I9: 인페르노 나인 | 2026-10-29 | ✨수리수리 마수리!🎃할로윈 코스프레!",
+  "루미마스터 | 2026-10-31 | [라운지 이벤트] 장난의 날 전용 컬러링 루미를 자랑하고 이벤트 보상을 받아가세요!🎁",
   "루미마스터 | 2026-10-30 | [라운지 이벤트] 지정 임무 달성 이벤트가 오픈되었습니다!🎁",
   "아케론: 종말의 서곡 | 2026-10-31 | [이벤트] 🎃할로윈 TRICK or TREAT（10/31-11/10）",
+  "전생했더니 검 한 자루 | 2026-10-31 | 🔔사전예약 퀴즈 이벤트 3탄! ",
   "전생했더니 검 한 자루 | 2026-10-30 | 👻 으스스한 할로윈 밤… 호박이 숨어 있다! 🎃",
   "전생했더니 검 한 자루 | 2026-10-29 | 👀내 최애 검령 one pick은? 검령 투표 이벤트💓",
+  "사커워즈 | 2026-10-31 | [사전예약] 사커워즈 사전예약을 시작합니다! (~11/17)",
   "이것이 삼국지다 | 2026-10-29 | [이벤트] 주유의 사자성어 창고털이",
   "Total Football - 25/26 시즌 | 2026-10-30 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/2 ~ 11/8)",
+  "불칸 | 2026-10-31 | [이벤트] 서버 통합 기념 쿠폰",
   "명조:워더링 웨이브 | 2026-10-30 | 🌟「명조 | Galaxy Store」 「에이메스」 빅스비 보이스 스페셜 키트 2차 예약 "
  ],
  "imageOnly": [
@@ -100,6 +111,17 @@
     "https://nng-phinf.pstatic.net/MjAyNjEwMjlfNTUg/MDAxNzkzMjUwNjQzMDkw.ryNUyF5aYO0550P9ELk2_hErpMmL3zgtddTVzVDqehsg.hya_4TUecnsJL0d_7C91abWJWVyIlHeKXstXKr8lF5sg.JPEG/%EB%B9%84%EB%B2%BC%EB%B0%A504-2.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjE2/MDAxNzkzMjUwNjU1NDEx.O_d9c_OTfhDiNs66F58h3-Fyiwx0EX2oiJKSDdtcO8Yg.UdVbT48fUFHKE-hOf3qXiEIyGlOa7L7Jk1rk3bKs4eYg.JPEG/%EB%B9%84%EB%B2%BC%EB%B0%A506.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTU5/MDAxNzkzMjUwNzIxMzIw.c8T4eBMLKLOqksBMNAkmtkyds1Bpp-0oRi96K4Vwoowg.fDmUSII8pYK04AAzx9vMSuZuPCJQ_cQxCbzxLi2TC3wg.JPEG/1.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "불칸",
+   "loungeId": "VULCAN",
+   "feedId": 8390605,
+   "date": "2026-10-31",
+   "title": "[이벤트] 서버 통합 기념 쿠폰",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNTA3MTlfNTIg/MDAxNzUyOTIzMDk0MDY2.VCnZg8GyoG3OcqVRKFVKODv80m5pkq0N1EDLY1Qk9KAg.mF9F_IO7Y3IJLFMRIFLlzZrA0SPsNRnk0SSDyUiuHYAg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%83%81%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjEwMzFfNDMg/MDAxNzkzNDE2MjYxMDgy.c0Q-8hsG5SbL9SGaD_x6uhpdvFDxC5j2urwgL0N_c40g.LJUJBep3IED4P4FVnEeG_6aIcgTuO3NZMR1I6AIubTwg.PNG/2026-10-31_03_47_39.png?type=w1678"
    ]
   },
   {
