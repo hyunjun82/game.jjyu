@@ -3,18 +3,46 @@
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMjk4/MDAxNzkyNTY0Njc5NTY1.xweBuTZ5p4WY0odDTJRXqNJD-Xw55A6_YtDuu7wC1Ukg.hbc-BnqcZMt6QIzlqfBNHCGBrefwr99aXAcJtfzjtvkg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-700x154.jpg",
-  "source": "naver-lounge",
-  "loungeId": "Samgukji_Kingdom",
-  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8375617",
+  "source": "naver-search",
   "howTo": "게임에 접속한 후, 메인 화면 [좌측 상단 프로필 아이콘]을 터치하여 기본 정보 창을 엽니다. 메뉴 중",
-  "postCount": 368,
-  "updatedAt": "2026-10-31T05:58:06.196Z",
+  "updatedAt": "2026-10-31T07:52:03.430Z",
   "codes": [
+    {
+      "code": "KINGDOM2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460139491",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "THREEKINGDOMS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460139491",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEKINGDOM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460139491",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "week999",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-28",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/dpfvlfxm/224459210089",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-10-31",
       "status": "active"

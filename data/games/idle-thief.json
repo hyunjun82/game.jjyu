@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMTM3/MDAxNzkyNDY2NTAyMjM4.oB5AWv8bGp1L7Yt20CLbhp0c7NhhoI0hU0SgvwhtZQAg.6BEMdXio3OI09ZGe0o80rZ-OMJJwDCx6pKersSdyheMg.PNG/2.png",
   "source": "naver-lounge",
   "loungeId": "IdleThief",
-  "sourceUrl": "https://game.naver.com/lounge/IdleThief/board/detail/8364960",
-  "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-10-31T05:58:15.897Z",
+  "sourceUrl": "https://game.naver.com/lounge/IdleThief/board/detail/8391312",
+  "howTo": "게임 내 [메뉴]→ [설정] → [쿠폰]에서 쿠폰 코드를 입력하시면 보상을 받으실 수 있습니다.",
+  "postCount": 3,
+  "updatedAt": "2026-10-31T07:46:57.138Z",
   "codes": [
+    {
+      "code": "HALLOWEEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "THIEF",
       "reward": "",

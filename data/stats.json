@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T05:59:02.670Z",
+  "generatedAt": "2026-10-31T07:57:48.520Z",
   "today": "2026-10-31",
-  "todayNew": 101,
+  "todayNew": 123,
   "totals": {
     "games": 391,
-    "codes": 5404,
-    "active": 915,
-    "expired": 4489,
+    "codes": 5426,
+    "active": 938,
+    "expired": 4488,
     "withExpiry": 3155
   },
   "newByDate": [
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-31",
-      "count": 101
+      "count": 123
     }
   ],
   "expiringSoon": [
@@ -411,6 +411,11 @@
       "total": 21
     },
     {
+      "slug": "dokkaebiuisegye",
+      "active": 13,
+      "total": 15
+    },
+    {
       "slug": "whoa-adventurers",
       "active": 13,
       "total": 13
@@ -446,14 +451,14 @@
       "total": 18
     },
     {
+      "slug": "wtbk",
+      "active": 11,
+      "total": 11
+    },
+    {
       "slug": "byeolbyeol-hero",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "dokkaebiuisegye",
-      "active": 10,
-      "total": 12
     },
     {
       "slug": "honkai-star-rail",
@@ -464,11 +469,6 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
     }
   ],
   "noImage": 66

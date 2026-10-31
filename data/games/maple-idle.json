@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T02:08:54.642Z",
+  "updatedAt": "2026-10-31T07:50:51.181Z",
   "codes": [
+    {
+      "code": "선물",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-29",
+      "sourceUrl": "https://blog.naver.com/official-jgblog/224458321089",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "PINKBEANATTACK",
       "reward": "",
@@ -34,16 +44,6 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/villainnote/224458791013",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "선물",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-30",
-      "sourceUrl": "https://blog.naver.com/official-jgblog/224458321089",
-      "firstSeen": "2026-10-29",
       "lastSeen": "2026-10-30",
       "status": "expired"
     },

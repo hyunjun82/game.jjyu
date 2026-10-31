@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T02:13:10.781Z",
+  "updatedAt": "2026-10-31T07:55:33.980Z",
   "codes": [
+    {
+      "code": "DOKKAEBI2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460001144",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "GHOSTWORLD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460001144",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEDOKKAEBI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460001144",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "MAGICHALFYR",
       "reward": "",
