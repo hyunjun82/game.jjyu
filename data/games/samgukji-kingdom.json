@@ -3,9 +3,12 @@
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMjk4/MDAxNzkyNTY0Njc5NTY1.xweBuTZ5p4WY0odDTJRXqNJD-Xw55A6_YtDuu7wC1Ukg.hbc-BnqcZMt6QIzlqfBNHCGBrefwr99aXAcJtfzjtvkg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-700x154.jpg",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "Samgukji_Kingdom",
+  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8375617",
   "howTo": "게임에 접속한 후, 메인 화면 [좌측 상단 프로필 아이콘]을 터치하여 기본 정보 창을 엽니다. 메뉴 중",
-  "updatedAt": "2026-10-31T07:52:03.430Z",
+  "postCount": 368,
+  "updatedAt": "2026-10-31T12:34:04.551Z",
   "codes": [
     {
       "code": "KINGDOM2026",
@@ -41,8 +44,7 @@
       "code": "week999",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/dpfvlfxm/224459210089",
+      "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-10-31",
       "status": "active"
