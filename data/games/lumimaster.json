@@ -2,14 +2,23 @@
   "slug": "lumimaster",
   "titleEn": "Lumimaster",
   "titleKo": "루미마스터",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfMjI4/MDAxNzkyNzU2NTk5NDk4.E-kvhpv-uPvVG0roudzGcQYy7VchmXss39lgkCBKclkg.fxrBe2bytVd6C1Sp_31PktD-oLFCWS1MxVLk8E3la_Eg.JPEG/16-9-%E9%9F%A9%E8%AF%AD.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzFfMjA1/MDAxNzkzMzgxMzMzNjkw.CcAoU2D5FYzQE12kiv89t9B7IqwJX6KoqJcBi3qbtOAg.Kj7k85pGb_4TaE8ti2-dMfCdDSu4kkvz-pyle2gXoycg.JPEG/16-9-%E9%9F%A9%E8%AF%AD.jpg",
   "source": "naver-lounge",
   "loungeId": "lumimaster",
-  "sourceUrl": "https://game.naver.com/lounge/lumimaster/board/detail/8356458",
+  "sourceUrl": "https://game.naver.com/lounge/lumimaster/board/detail/8389550",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-10-30T22:53:47.149Z",
+  "updatedAt": "2026-10-31T02:04:26.684Z",
   "codes": [
+    {
+      "code": "NOVTRICKFES",
+      "reward": "",
+      "expiry": "2026-11-07",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "LUMIWISH",
       "reward": "",

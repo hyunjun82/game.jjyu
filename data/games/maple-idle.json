@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-30T13:25:05.144Z",
+  "updatedAt": "2026-10-31T02:08:54.642Z",
   "codes": [
+    {
+      "code": "PINKBEANATTACK",
+      "reward": "",
+      "expiry": "2027-01-27",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/aispark/224458939748",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "MI100DAYS",
       "reward": "",
@@ -15,7 +25,7 @@
       "sourceUrl": "https://blog.naver.com/villainnote/224458791013",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "MAPLEFESTA",
@@ -25,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/villainnote/224458791013",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "선물",
@@ -35,17 +45,7 @@
       "sourceUrl": "https://blog.naver.com/official-jgblog/224458321089",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-10-30",
-      "status": "active"
-    },
-    {
-      "code": "PINKBEANATTACK",
-      "reward": "",
-      "expiry": "2027-01-27",
-      "postedAt": "2026-10-30",
-      "sourceUrl": "https://blog.naver.com/villainnote/224458791013",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-30",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "50CUBECOUPON",

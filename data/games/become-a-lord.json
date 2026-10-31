@@ -2,14 +2,23 @@
   "slug": "become-a-lord",
   "titleEn": "Become A Lord",
   "titleKo": "펭귄 대모험 : 꽁꽁 방어전",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfMjM4/MDAxNzkyNzQ2NjQzNzgz.Xb9QPs7gRFWrzoM4cUuVYF4aPqSYbUFpOy6Mv3x7UcEg.aPJirGWCiIIEreAdTA8DS3kzv4yCPKZf2fOyc6eNEgUg.JPEG/250515-%E7%A4%BE%E5%8C%BA%E5%B0%81%E9%9D%A2%E5%9B%BE-%E5%BD%A9%E6%A0%BC(1920x320)-ZL-%E6%B3%BD%E8%90%8D.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMzEg/MDAxNzkzMzQ5NzUxNjcx.dEbAwOMgHdmKmYFDx2-w7JaIP08gxt5q-rhQb8Rr0PQg.Ezy5XmOWGp39Xa5yBJEsLIP-KCvMqhR9bipL_4TEYa0g.JPEG/250515-%E7%A4%BE%E5%8C%BA%E5%B0%81%E9%9D%A2%E5%9B%BE-%E5%BD%A9%E6%A0%BC(1920x320)-ZL-%E6%B3%BD%E8%90%8D.jpg",
   "source": "naver-lounge",
   "loungeId": "Become_a_lord",
-  "sourceUrl": "https://game.naver.com/lounge/Become_a_lord/board/detail/8359413",
+  "sourceUrl": "https://game.naver.com/lounge/Become_a_lord/board/detail/8389927",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-10-30T22:55:11.471Z",
+  "updatedAt": "2026-10-31T02:05:48.506Z",
   "codes": [
+    {
+      "code": "HOLDAY626",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "WK261023",
       "reward": "",

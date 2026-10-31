@@ -5,11 +5,21 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAyMTBfNzAg/MDAxNzcwNjgwNzQ2MDQ1.eBzS_qz-x3O0A7tcIzujKOSL91tP_qT-8dIcyG5Zarog.S_wL2FiwQ4gCJMg1x-uK_mCsQE6S03H-om2OTgFRbrkg.JPEG/Untitled_image.jpeg",
   "source": "naver-lounge",
   "loungeId": "DRAGON_RISE",
-  "sourceUrl": "https://game.naver.com/lounge/DRAGON_RISE/board/detail/8264872",
+  "sourceUrl": "https://game.naver.com/lounge/DRAGON_RISE/board/detail/8389517",
   "howTo": "게임 내",
-  "postCount": 4,
-  "updatedAt": "2026-10-30T22:52:09.921Z",
+  "postCount": 5,
+  "updatedAt": "2026-10-31T02:02:48.851Z",
   "codes": [
+    {
+      "code": "DRAGONRISE11",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "expiryFrom": "event",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "DRAGONRISE10",
       "reward": "",

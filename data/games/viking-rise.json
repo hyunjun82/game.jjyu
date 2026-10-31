@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDRfMjMx/MDAxNzg4NTE0OTI0MTg3.Co9wCSJjBii3fb6p2z4dluWc_FGml9KnkAvZonvaPIgg.zxYAsgR-5-Cg9aw2JGabKCDdspWvKUKrkgSUPjWq740g.JPEG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%ED%8C%90%EC%83%81%EB%8B%A8_H_700x154.jpg",
   "source": "naver-lounge",
   "loungeId": "Viking_Rise",
-  "sourceUrl": "https://game.naver.com/lounge/Viking_Rise/board/detail/8149101",
+  "sourceUrl": "https://game.naver.com/lounge/Viking_Rise/board/detail/8390310",
   "howTo": "- 메인 인터페이스 왼쪽 상단에 있는 프로필을 탭 하세요 - 왼쪽 메뉴에서 설정을 선택하세요 - [선물 코드 교환]을 탭 하여 코드를 입력하세요. 보상은 인게임 우편을 발송됩니다.",
-  "postCount": 52,
-  "updatedAt": "2026-10-30T22:50:38.796Z",
+  "postCount": 53,
+  "updatedAt": "2026-10-31T02:01:19.403Z",
   "codes": [
+    {
+      "code": "HALLOWEENVR2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "VR26CHAMPIONSHIP",
       "reward": "",

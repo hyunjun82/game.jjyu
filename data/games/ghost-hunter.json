@@ -2,14 +2,32 @@
   "slug": "ghost-hunter",
   "titleEn": "Ghost Hunter",
   "titleKo": "다크 슬레이어 : 방치형 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjNfMTA1/MDAxNzkyNzMxMDI5NjMw.nVlqbRIFzSpz3zpAiY3aWUTvfSlSjCXOAXJ7Q9p2JWgg.HkVB1RD9Ht9yL4TN1Bq8fJpGi-sACW1ag96ituwa6c4g.PNG/%EB%A0%88%EC%9D%B4%EC%96%B4_5.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNDA1MTBfMTk5/MDAxNzE1MzMzNDA3NjY0.xkXwAA_LJ098hTiO8Iqyn5ogpQqnVN3VvX3tW8NHMZwg.lpMsR6LkBOtizEHoXDgSbZwdySi0oq3p0Z7S9fbRYPcg.PNG/%EB%A0%88%EC%9D%B4%EC%96%B4_1.png",
   "source": "naver-lounge",
   "loungeId": "Ghost_Hunter",
-  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8354607",
+  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8389453",
   "howTo": "",
-  "postCount": 467,
-  "updatedAt": "2026-10-30T22:52:35.896Z",
+  "postCount": 468,
+  "updatedAt": "2026-10-31T02:03:15.223Z",
   "codes": [
+    {
+      "code": "1031ppa",
+      "reward": "",
+      "expiry": "2026-11-02",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "1101skk",
+      "reward": "",
+      "expiry": "2026-11-02",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "1024ds1",
       "reward": "",
@@ -560,24 +578,6 @@
       "status": "expired"
     },
     {
-      "code": "404wvv",
-      "reward": "",
-      "expiry": "2026-04-06",
-      "postedAt": "2026-04-04",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-31",
-      "status": "expired"
-    },
-    {
-      "code": "405awv",
-      "reward": "",
-      "expiry": "2026-04-06",
-      "postedAt": "2026-04-04",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-31",
-      "status": "expired"
-    },
-    {
       "code": "1114bfre",
       "reward": "",
       "expiry": "2025-11-17",
@@ -618,6 +618,24 @@
       "reward": "",
       "expiry": "2025-12-01",
       "postedAt": "2025-11-28",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "404wvv",
+      "reward": "",
+      "expiry": "2026-04-06",
+      "postedAt": "2026-04-04",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-10-31",
+      "status": "expired"
+    },
+    {
+      "code": "405awv",
+      "reward": "",
+      "expiry": "2026-04-06",
+      "postedAt": "2026-04-04",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-10-31",
       "status": "expired"

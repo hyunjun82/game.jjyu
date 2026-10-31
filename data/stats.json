@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T23:08:06.093Z",
+  "generatedAt": "2026-10-31T02:15:11.666Z",
   "today": "2026-10-31",
-  "todayNew": 16,
+  "todayNew": 66,
   "totals": {
-    "games": 387,
-    "codes": 5319,
-    "active": 850,
-    "expired": 4469,
-    "withExpiry": 3106
+    "games": 388,
+    "codes": 5369,
+    "active": 891,
+    "expired": 4478,
+    "withExpiry": 3135
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-10-31",
-      "count": 16
+      "count": 66
     }
   ],
   "expiringSoon": [
@@ -372,13 +372,13 @@
   "topGames": [
     {
       "slug": "rogw-remains-of-gods",
-      "active": 25,
-      "total": 25
+      "active": 26,
+      "total": 26
     },
     {
       "slug": "apex-girls",
-      "active": 19,
-      "total": 66
+      "active": 20,
+      "total": 67
     },
     {
       "slug": "idle-berserker",
@@ -391,14 +391,14 @@
       "total": 19
     },
     {
+      "slug": "dungeon-hunter6-awakening",
+      "active": 17,
+      "total": 43
+    },
+    {
       "slug": "tangtangeiseu",
       "active": 17,
       "total": 17
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 16,
-      "total": 42
     },
     {
       "slug": "idle-hero-but-save-the-world",
@@ -411,12 +411,12 @@
       "total": 21
     },
     {
-      "slug": "solo-exorcist",
-      "active": 12,
-      "total": 12
+      "slug": "whoa-adventurers",
+      "active": 13,
+      "total": 13
     },
     {
-      "slug": "whoa-adventurers",
+      "slug": "solo-exorcist",
       "active": 12,
       "total": 12
     },
@@ -424,6 +424,11 @@
       "slug": "dragon-traveler",
       "active": 11,
       "total": 82
+    },
+    {
+      "slug": "genshin-impact",
+      "active": 11,
+      "total": 28
     },
     {
       "slug": "gray-saga",
@@ -441,9 +446,9 @@
       "total": 13
     },
     {
-      "slug": "genshin-impact",
+      "slug": "dokkaebiuisegye",
       "active": 10,
-      "total": 28
+      "total": 12
     },
     {
       "slug": "honkai-star-rail",
@@ -464,12 +469,7 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 9,
-      "total": 35
     }
   ],
-  "noImage": 65
+  "noImage": 66
 }

@@ -2,14 +2,23 @@
   "slug": "eternal-chronicle",
   "titleEn": "Eternal Chronicle",
   "titleKo": "이터널 크로니클",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjhfMjc1/MDAxNzkwNTYyNjQ4Mjkx.Xw63Iq8zB7fOXVZ0QBfUmXR8f-yrYc3o7ukuc562_SQg.cSCl_OrK4b99Mbm2HK9TYA1zr2Wm23aKPFeZVeL4Xc4g.JPEG/Gift_Code.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTI2/MDAxNzkzMzUyMDI2NDcz.MN2pl8c-4SN6lK0dibx4WV0CGPGLWxacEEH__JgveuQg.PHCp_C0HGhFvfKwV9_-XCm18j5DhN2vsKb4_C4nU8sog.PNG/t1(1).png",
   "source": "naver-lounge",
   "loungeId": "Eternal_Chronicle",
-  "sourceUrl": "https://game.naver.com/lounge/Eternal_Chronicle/board/detail/8305134",
+  "sourceUrl": "https://game.naver.com/lounge/Eternal_Chronicle/board/detail/8389931",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-10-30T22:55:11.051Z",
+  "updatedAt": "2026-10-31T02:05:48.148Z",
   "codes": [
+    {
+      "code": "Halloween26",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
     {
       "code": "hangulday26",
       "reward": "",

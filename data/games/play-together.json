@@ -1,0 +1,71 @@
+{
+  "slug": "play-together",
+  "titleEn": "Play Together",
+  "titleKo": "플레이투게더",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-10-31T02:11:10.965Z",
+  "codes": [
+    {
+      "code": "PTHALLOWEENTRICK",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "SETEMOTEFREE",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "PTMERGEHOTEL",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "PT26OCTMONTHLY",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "PTWELCOME1",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    },
+    {
+      "code": "PTWITHYAMINORA",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-10-31",
+      "status": "active"
+    }
+  ]
+}
