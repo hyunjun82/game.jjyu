@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-11-01T15:00:20.210Z",
+  "generatedAt": "2026-11-01T19:41:13.369Z",
   "today": "2026-11-02",
-  "todayNew": 0,
+  "todayNew": 1,
   "totals": {
-    "games": 397,
-    "codes": 5507,
-    "active": 851,
-    "expired": 4656,
-    "withExpiry": 3200
+    "games": 398,
+    "codes": 5508,
+    "active": 821,
+    "expired": 4687,
+    "withExpiry": 3201
   },
   "newByDate": [
-    {
-      "date": "2026-10-19",
-      "count": 33
-    },
     {
       "date": "2026-10-20",
       "count": 35
@@ -65,6 +61,10 @@
     {
       "date": "2026-11-01",
       "count": 67
+    },
+    {
+      "date": "2026-11-02",
+      "count": 1
     }
   ],
   "expiringSoon": [
@@ -416,11 +416,6 @@
       "total": 13
     },
     {
-      "slug": "dokkaebiuisegye",
-      "active": 11,
-      "total": 16
-    },
-    {
       "slug": "dragon-traveler",
       "active": 11,
       "total": 83
@@ -469,6 +464,11 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
+    },
+    {
+      "slug": "dokkaebiuisegye",
+      "active": 9,
+      "total": 16
     }
   ],
   "noImage": 68

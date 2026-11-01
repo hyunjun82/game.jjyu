@@ -5,38 +5,8 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-01T07:54:19.553Z",
+  "updatedAt": "2026-11-01T19:33:15.011Z",
   "codes": [
-    {
-      "code": "NEVERGONNAGIVE",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/leejt6614/224460554780",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
-    {
-      "code": "NEVERGONNAMAKE",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/leejt6614/224460554780",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
-    {
-      "code": "AHABLESSYOU",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/leejt6614/224460554780",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
     {
       "code": "RT4BPNA8FBS3",
       "reward": "",
@@ -108,6 +78,36 @@
       "status": "active"
     },
     {
+      "code": "NEVERGONNAGIVE",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/leejt6614/224460554780",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-02",
+      "status": "expired"
+    },
+    {
+      "code": "NEVERGONNAMAKE",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/leejt6614/224460554780",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-02",
+      "status": "expired"
+    },
+    {
+      "code": "AHABLESSYOU",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/leejt6614/224460554780",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-02",
+      "status": "expired"
+    },
+    {
       "code": "HSR46SPECIAL2026",
       "reward": "",
       "expiry": null,
@@ -134,7 +134,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     },
     {
@@ -144,7 +144,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     },
     {
@@ -154,7 +154,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     },
     {
@@ -164,7 +164,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     },
     {
@@ -334,7 +334,7 @@
       "postedAt": "2026-10-04",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224430217643",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     }
   ]

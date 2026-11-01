@@ -8,24 +8,24 @@
   "sourceUrl": "https://game.naver.com/lounge/bekkogame20/board/detail/8382276",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-11-01T14:46:15.252Z",
+  "updatedAt": "2026-11-01T19:31:26.137Z",
   "codes": [
-    {
-      "code": "HALLOWEEN2026",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
     {
       "code": "hyeonchung",
       "reward": "",
       "expiry": "2026-06-08",
       "postedAt": "2026-06-06",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
+      "status": "expired"
+    },
+    {
+      "code": "HALLOWEEN2026",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-02-14",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-02",
       "status": "expired"
     }
   ]
