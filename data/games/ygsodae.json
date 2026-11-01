@@ -2,14 +2,23 @@
   "slug": "ygsodae",
   "titleEn": "Ygsodae",
   "titleKo": "요괴잡이소대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMTEw/MDAxNzkzMTY2NDM0NDk1.lBrevAhKoKIsOdJyEPL7Fu47tISS0eP_J-9bX-Kkqykg.n9FrUhb0mZtft-uhbfr-NtutyGdjIyqcmV6mMD15Hdwg.PNG/sodae_lounge_preview_event_all.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjY1/MDAxNzkzMzU1NDUyODU3.CaEf0k93fdonhgTccXyn8_eFFOkIhG71ASEd9XNmz4wg.PX3yxxs186pSdNgJlp1gnqYEKeJQQubhUGIzbs8uUMcg.PNG/sodae_lounge_preview_event_all.png",
   "source": "naver-lounge",
   "loungeId": "ygsodae",
-  "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/8381389",
-  "howTo": "🔸 정식 오픈 1주년 기념 쿠폰 보상 쿠폰 코드 쿠폰 보상 유효 기간 1주년선물",
-  "postCount": 11,
-  "updatedAt": "2026-10-31T22:05:40.690Z",
+  "sourceUrl": "https://game.naver.com/lounge/ygsodae/board/detail/8395051",
+  "howTo": "🔸11월 특별선물 쿠폰 보상 쿠폰 코드 쿠폰 보상 유효 기간 월동준비",
+  "postCount": 12,
+  "updatedAt": "2026-11-01T01:26:55.804Z",
   "codes": [
+    {
+      "code": "월동준비",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "1주년선물",
       "reward": "",

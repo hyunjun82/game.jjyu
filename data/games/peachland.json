@@ -2,14 +2,23 @@
   "slug": "peachland",
   "titleEn": "Peachland",
   "titleKo": "산너머 도원마을",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMTNfMTg0/MDAxNzkxODc0MzA3NDk0.v3IHkYrBG-1SNRJ75rFk5FKIUrCHZkBt134xJFt5FRsg.6VPQt5A-ykO_Cm8UPLNoFWsTdXq5WBexgtLXVpt2_o4g.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjJfMTg5/MDAxNzkyNjU1ODgxNDEw.wZxkG0EdEP6g9HTJ0PWglZWCA_TRgK8y2aqJC7AugoIg.J9wbR7PCtCqh-AUd0UmZoAkpXWl4aYMJWUN3NL0MpJog.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "peachland",
-  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8321188",
-  "howTo": "신나는 무림 모험을 떠나 보아요~! 💚",
-  "postCount": 5,
-  "updatedAt": "2026-10-31T22:06:20.309Z",
+  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8395044",
+  "howTo": "산너머 도원마을에서 무무와 함께 포근한 겨울을 준비해 보세무✨",
+  "postCount": 6,
+  "updatedAt": "2026-11-01T01:27:39.454Z",
   "codes": [
+    {
+      "code": "GIFT2026NOV",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "MUMUKUNGFU",
       "reward": "",

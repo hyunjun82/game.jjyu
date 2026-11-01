@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-10-31T22:04:07.183Z",
+  "generatedAt": "2026-11-01T01:25:20.496Z",
   "games": [
     {
       "slug": "f4-u",
@@ -69,18 +69,6 @@
       "titleEn": "Dokkaebi Girl"
     },
     {
-      "slug": "dothero",
-      "loungeId": "dothero",
-      "titleKo": "도트 공주들 구하기",
-      "titleEn": "Dothero"
-    },
-    {
-      "slug": "dragon-rider-idle",
-      "loungeId": "Dragon_Rider_Idle",
-      "titleKo": "드래곤 라이더 키우기",
-      "titleEn": "Dragon Rider Idle"
-    },
-    {
       "slug": "dragonblade-grow",
       "loungeId": "Dragonblade_Grow",
       "titleKo": "용칼이 키우기",
@@ -93,94 +81,58 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dragoon-of-the-wind",
-      "loungeId": "Dragoon_Of_The_Wind",
-      "titleKo": "바람의 드래군M",
-      "titleEn": "Dragoon Of The Wind"
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
     },
     {
-      "slug": "dungeonand-breaker",
-      "loungeId": "DungeonandBreaker",
-      "titleKo": "던전앤브레이커",
-      "titleEn": "Dungeonand Breaker"
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
     },
     {
-      "slug": "dungeon-dungeon",
-      "loungeId": "DungeonDungeon",
-      "titleKo": "던전던전",
-      "titleEn": "Dungeon Dungeon"
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
     },
     {
-      "slug": "dwarfidlerpg",
-      "loungeId": "Dwarfidlerpg",
-      "titleKo": "드워프 키우기 : 방치형RPG",
-      "titleEn": "Dwarfidlerpg"
-    },
-    {
-      "slug": "dx-awaken",
-      "loungeId": "dx_awaken",
-      "titleKo": "DX: 각성자들",
-      "titleEn": "Dx Awaken"
-    },
-    {
-      "slug": "echocalypse-scarlet-covenant",
-      "loungeId": "Echocalypse_Scarlet_Covenant",
-      "titleKo": "에코칼립스: 진홍의 서약",
-      "titleEn": "Echocalypse Scarlet Covenant"
-    },
-    {
-      "slug": "eggmon",
-      "loungeId": "eggmon",
-      "titleKo": "에그몬 월드:저니",
-      "titleEn": "Eggmon"
-    },
-    {
-      "slug": "elfidle",
-      "loungeId": "elfidle",
-      "titleKo": "엘프키우기",
-      "titleEn": "Elfidle"
-    },
-    {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
-    },
-    {
-      "slug": "ex-astris",
-      "loungeId": "Ex_Astris",
-      "titleKo": "엑스 아스트리스",
-      "titleEn": "Ex Astris"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "hell-gate",
-      "loungeId": "HELL_GATE",
-      "titleKo": "헬게이트",
-      "titleEn": "Hell Gate"
-    },
-    {
-      "slug": "hero-raid",
-      "loungeId": "HeroRaid",
-      "titleKo": "용사 키우기",
-      "titleEn": "Hero Raid"
-    },
-    {
-      "slug": "hero-raised-by-god",
-      "loungeId": "HeroRaisedByGod",
-      "titleKo": "신이 키우는 용사",
-      "titleEn": "Hero Raised By God"
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
+    },
+    {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
+    },
+    {
+      "slug": "k-zombie-saga-idle-game",
+      "loungeId": "K_Zombie_Saga_Idle_Game",
+      "titleKo": "조선 좀비전",
+      "titleEn": "K Zombie Saga Idle Game"
     },
     {
       "slug": "kungfuchaos",

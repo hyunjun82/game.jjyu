@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTExMDNfMTQ5/MDAxNzYyMTMxMzA3OTI1.xkVyijgn6DRkMdFoWuoFRU0l9TJMQy2q2ag9MC6xV3kg.jid81x9Gp0idWTa08HZwfFDjM1FWQm4bfA_0Ysl2cr0g.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Yulgang_Fire_Dragon_Tale",
-  "sourceUrl": "https://game.naver.com/lounge/Yulgang_Fire_Dragon_Tale/board/detail/8388607",
+  "sourceUrl": "https://game.naver.com/lounge/Yulgang_Fire_Dragon_Tale/board/detail/8395045",
   "howTo": "",
-  "postCount": 7,
-  "updatedAt": "2026-10-31T22:05:35.989Z",
+  "postCount": 8,
+  "updatedAt": "2026-11-01T01:26:50.527Z",
   "codes": [
+    {
+      "code": "SUPERNOVA",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "SPOOKY31",
       "reward": "",

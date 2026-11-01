@@ -2,14 +2,23 @@
   "slug": "lunar-eversoul",
   "titleEn": "LUNAR: EverSoul",
   "titleKo": "LUNAR: 에버소울",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDlfNzUg/MDAxNzg4OTM0MTg2MTEx.5kkj3BtGgjTMiZhKpsCQAG_-36cXJj9K_fkqzeydBqUg.0kYafwpDoSxB6q3AeFeXtfgjBe1HzCWno3lhdgXabCAg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-800x200.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTlfMjQg/MDAxNzg3MTA4NTQwMzk0.08Fi1Yh5ZTcvHoe9DcNZLiHKLL_2m-yIpCPRXNn8lKAg.Omi8tUbC_k1rfD1rAxxlx1qAeiXbYmUaIZf92aafCeYg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-800x200.jpg",
   "source": "naver-lounge",
   "loungeId": "LUNAR_EverSoul",
-  "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8380506",
+  "sourceUrl": "https://game.naver.com/lounge/LUNAR_EverSoul/board/detail/8393668",
   "howTo": "게임 접속 → 혜택 → 활성화 코드 → `Halloween666` 입력 --- 대륙의 운명을 결정할 할로윈의 밤! 지금 바로 참여해 보세요! ⚔️🎃 #할로윈이벤트 #쿠폰코드 #Halloween666 #결제페이백 #사탕수집 #한정던전 #네이버라운지한정",
-  "postCount": 1334,
-  "updatedAt": "2026-10-31T22:04:29.754Z",
+  "postCount": 1335,
+  "updatedAt": "2026-11-01T01:25:43.292Z",
   "codes": [
+    {
+      "code": "week8273",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "Halloween666",
       "reward": "",
