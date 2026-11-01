@@ -2,14 +2,24 @@
   "slug": "raas",
   "titleEn": "RAAS",
   "titleKo": "전생했더니 검 한 자루",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjEg/MDAxNzkzMzUwNDA3NDky.H9lWz_m8lC9ZCvgAEk-GyFGDkjcwgoGSEIBoIW1GAtQg._Bsw0z576ot8naRu6gk3gEk5dhnvNw9V_HYP0ABTycYg.PNG/%EC%84%A0%EB%AC%BC_%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDFfOSAg/MDAxNzkzNTE1NzQyNDcx.MByU8fsT72xoKhDdb0gasdfiUkND0-6CNIcEOGlWqWcg.cl9D2CIZsBo_C92HxhG__7UnRfcepjMVa12sZvF83-4g.PNG/%EC%84%A0%EB%AC%BC_%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "RAAS",
-  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8389930",
+  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8397602",
   "howTo": "",
-  "postCount": 1962,
-  "updatedAt": "2026-11-01T07:51:54.863Z",
+  "postCount": 2011,
+  "updatedAt": "2026-11-01T13:46:48.946Z",
   "codes": [
+    {
+      "code": "RAAS5",
+      "reward": "",
+      "expiry": "2030-12-31",
+      "tag": "사전예약",
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "Halloween2026",
       "reward": "",

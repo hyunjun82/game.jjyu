@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjFfMTc5/MDAxNzg0NjM2MDU0MDk5.4OvHYZET_73aBLGczVqVrfVshNKnpdPOUqATg-03zwMg.bQUsVkb9EN49DM0RfCKFHLOC9OUBT6HKKI_noWI_Mscg.JPEG/TERMINALO07-kr.jpg",
   "source": "naver-lounge",
   "loungeId": "Chasing_KaleidoRIDER",
-  "sourceUrl": "https://game.naver.com/lounge/Chasing_KaleidoRIDER/board/detail/7992360",
+  "sourceUrl": "https://game.naver.com/lounge/Chasing_KaleidoRIDER/board/detail/8397483",
   "howTo": "",
-  "postCount": 4,
-  "updatedAt": "2026-11-01T07:51:22.250Z",
+  "postCount": 5,
+  "updatedAt": "2026-11-01T13:46:19.121Z",
   "codes": [
+    {
+      "code": "printf",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "TERMINAL007",
       "reward": "",
