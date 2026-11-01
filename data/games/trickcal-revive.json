@@ -2,14 +2,23 @@
   "slug": "trickcal-revive",
   "titleEn": "Trickcal Revive",
   "titleKo": "트릭컬 리바이브",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDVfMjMw/MDAxNzkxMTY4MTQ4NTE3.U8oDoVu82xKkDNjJQmh0xEdf7uUOlTJyFNUTx1IDAwQg.9Otx6rgFTYO10a1Hb5DhDJMAtUPViN_8RKart2KkHfog.PNG/3_3.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDFfOTIg/MDAxNzkzNTAwNzEzMzk5.b27j40HsELtCPV4hF586qdjJ6R6FVNrEzWBVXylNUKAg.JpNztKSFAGNcPYa9nXzG3cSZUhtKRzh-IJgzYDrFt4Ag.PNG/3_3.png",
   "source": "naver-lounge",
   "loungeId": "Trickcal",
-  "sourceUrl": "https://game.naver.com/lounge/Trickcal/board/detail/8288627",
+  "sourceUrl": "https://game.naver.com/lounge/Trickcal/board/detail/8395684",
   "howTo": "- AOS : 게임 접속 - 우측상단 햄버거 버튼 (三) - 설정 - 기타 - 쿠폰등록 버튼으로 입력 - IOS :",
-  "postCount": 2961,
-  "updatedAt": "2026-11-01T01:26:02.074Z",
+  "postCount": 2962,
+  "updatedAt": "2026-11-01T06:23:30.985Z",
   "codes": [
+    {
+      "code": "BOLLOWEEN",
+      "reward": "",
+      "expiry": "2026-11-12",
+      "postedAt": "2026-11-01",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "SILVERBOL",
       "reward": "",
