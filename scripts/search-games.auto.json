@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-01T01:25:20.496Z",
+  "generatedAt": "2026-11-01T07:47:13.134Z",
   "games": [
     {
       "slug": "f4-u",
@@ -57,10 +57,22 @@
       "titleEn": "Pokemon Go"
     },
     {
+      "slug": "forest-sigh-neverland",
+      "loungeId": "Forest_Sigh_Neverland",
+      "titleKo": "포레스트 사이: 네버랜드​",
+      "titleEn": "Forest Sigh Neverland"
+    },
+    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
     },
     {
       "slug": "dokkaebi-girl",
@@ -81,64 +93,46 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "high-ranker",
-      "loungeId": "HighRanker",
-      "titleKo": "하이랭커",
-      "titleEn": "High Ranker"
-    },
-    {
-      "slug": "honkai-nexus-anima",
-      "loungeId": "Honkai_Nexus_Anima",
-      "titleKo": "붕괴: 넥서스 아니마",
-      "titleEn": "Honkai Nexus Anima"
-    },
-    {
-      "slug": "hwansaenggangho",
-      "loungeId": "hwansaenggangho",
-      "titleKo": "환생강호",
-      "titleEn": "Hwansaenggangho"
-    },
-    {
-      "slug": "lucifer-idle",
-      "loungeId": "Lucifer_Idle",
-      "titleKo": "루시퍼 키우기",
-      "titleEn": "Lucifer Idle"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
     },
     {
-      "slug": "immortal-rising2",
-      "loungeId": "Immortal_Rising2",
-      "titleKo": "임모탈 키우기 2",
-      "titleEn": "Immortal Rising2"
-    },
-    {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
-    },
-    {
-      "slug": "j-jalltoon-rumble-with-animalfriends",
-      "loungeId": "JJalltoonRumble_with_animalfriends",
-      "titleKo": "짤툰대난투 with. 짐승친구들",
-      "titleEn": "J Jalltoon Rumble With Animalfriends"
-    },
-    {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
-    },
-    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "langrisser-sea-of-sword",
+      "loungeId": "Langrisser_Sea_of_Sword",
+      "titleKo": "랑그릿사: 검의 바다",
+      "titleEn": "Langrisser Sea Of Sword"
+    },
+    {
+      "slug": "last-cloudia",
+      "loungeId": "Last_Cloudia",
+      "titleKo": "라스트 클라우디아",
+      "titleEn": "Last Cloudia"
+    },
+    {
+      "slug": "leubens-adventure",
+      "loungeId": "Leubens_Adventure",
+      "titleKo": "루벤의 대모험",
+      "titleEn": "Leubens Adventure"
+    },
+    {
+      "slug": "lost-era-mupa",
+      "loungeId": "LostEra_Mupa",
+      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
+      "titleEn": "Lost Era Mupa"
+    },
+    {
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
     },
     {
       "slug": "play-together",
@@ -157,6 +151,12 @@
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
     },
     {
       "slug": "rush-three-kingdom",
@@ -187,6 +187,18 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "zombie-hunter",
+      "loungeId": "ZombieHunter",
+      "titleKo": "이세계 좀비 헌터",
+      "titleEn": "Zombie Hunter"
+    },
+    {
+      "slug": "ybd-merge",
+      "loungeId": "YBD_Merge",
+      "titleKo": "이 용병단 머지: 디펜스",
+      "titleEn": "Ybd Merge"
     },
     {
       "slug": "tree-world",

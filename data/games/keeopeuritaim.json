@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T22:16:17.277Z",
+  "updatedAt": "2026-11-01T08:00:42.105Z",
   "codes": [
+    {
+      "code": "CAREFREE2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "RESTTIME",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMECARE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "Z497GB62W8S",
       "reward": "",
@@ -16,36 +46,6 @@
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-01",
       "status": "active"
-    },
-    {
-      "code": "CAREFREE2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "expired"
-    },
-    {
-      "code": "RESTTIME",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "expired"
-    },
-    {
-      "code": "WELCOMECARE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31",
-      "status": "expired"
     },
     {
       "code": "JY666",

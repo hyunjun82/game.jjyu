@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T22:16:28.226Z",
+  "updatedAt": "2026-11-01T08:00:55.796Z",
   "codes": [
+    {
+      "code": "SEALM2WATCHGIFT",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-27",
+      "sourceUrl": "https://blog.naver.com/gim0304/224454852401",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "SEALM2LIVEFEST",
       "reward": "",

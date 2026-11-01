@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-17T04:55:31.506Z",
+  "updatedAt": "2026-11-01T07:54:54.762Z",
   "codes": [
+    {
+      "code": "GROWTHAGATHA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461051024",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "AGATHA2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461051024",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEAGATHA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461051024",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "VOLTEX",
       "reward": "",
@@ -15,26 +45,6 @@
       "sourceUrl": "https://blog.naver.com/shitet7/224435639166",
       "firstSeen": "2026-10-11",
       "lastSeen": "2026-10-13",
-      "status": "expired"
-    },
-    {
-      "code": "AGATHA2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-21",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224418557269",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-17",
-      "status": "expired"
-    },
-    {
-      "code": "WELCOMEAGATHA",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-21",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224418557269",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-17",
       "status": "expired"
     }
   ]

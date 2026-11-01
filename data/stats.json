@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-01T06:28:03.030Z",
+  "generatedAt": "2026-11-01T08:02:53.702Z",
   "today": "2026-11-01",
-  "todayNew": 47,
+  "todayNew": 62,
   "totals": {
     "games": 396,
-    "codes": 5487,
-    "active": 865,
-    "expired": 4622,
-    "withExpiry": 3194
+    "codes": 5502,
+    "active": 897,
+    "expired": 4605,
+    "withExpiry": 3197
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-01",
-      "count": 47
+      "count": 62
     }
   ],
   "expiringSoon": [
@@ -231,6 +231,12 @@
       "days": 0
     },
     {
+      "slug": "monsterhunteroutlanders",
+      "code": "famitsumho2026",
+      "expiry": "2026-11-01",
+      "days": 0
+    },
+    {
       "slug": "mookhon",
       "code": "HALLOWEEN26",
       "expiry": "2026-11-01",
@@ -361,12 +367,6 @@
       "code": "GhostFestival26",
       "expiry": "2026-11-01",
       "days": 0
-    },
-    {
-      "slug": "warframe",
-      "code": "CARRYTHEFIRE",
-      "expiry": "2026-11-01",
-      "days": 0
     }
   ],
   "topGames": [
@@ -379,6 +379,11 @@
       "slug": "apex-girls",
       "active": 20,
       "total": 67
+    },
+    {
+      "slug": "tangtangeiseu",
+      "active": 19,
+      "total": 19
     },
     {
       "slug": "idle-berserker",
@@ -394,11 +399,6 @@
       "slug": "dungeon-hunter6-awakening",
       "active": 17,
       "total": 43
-    },
-    {
-      "slug": "tangtangeiseu",
-      "active": 17,
-      "total": 17
     },
     {
       "slug": "idle-hero-but-save-the-world",

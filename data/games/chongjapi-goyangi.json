@@ -5,14 +5,44 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-10-31T22:16:32.789Z",
+  "updatedAt": "2026-11-01T08:01:04.030Z",
   "codes": [
+    {
+      "code": "GUNNERCAT2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461187192",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "BANGALLPASS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461187192",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMECATGUN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461187192",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01",
+      "status": "active"
+    },
     {
       "code": "CATGUN2609",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/mola__mola/224452576591",
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/blok74/224446697820",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-01",
       "status": "active"
