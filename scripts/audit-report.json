@@ -1,64 +1,26 @@
 {
- "generatedAt": "2026-11-01T13:10:12.577Z",
- "window": "20261030~20261101",
+ "generatedAt": "2026-11-01T21:57:11.564Z",
+ "window": "20261031~20261102",
  "lounges": 2362,
- "posts": 656,
- "couponPosts": 124,
- "fixedTracked": [
-  "체이싱 칼레이도라이더 | printf | 바닷바람, 바이크, 소녀와 함께하는 두근두근 설레는 밤",
-  "승리의 여신: 니케 | NIKKE4thYongsan | <MARIAN: WHITE & BLACK IN 용산> DAY 3 오픈 및",
-  "레이드 : 그림자의 전설 | 2GTTRICKORTREAT | 🔥 레이드: 그림자의 전설 할로윈 프로모 코드 선물! ",
-  "전생했더니 검 한 자루 | RAAS5 | [전생했더니 검 한 자루] 사전예약 50만 달성! 🎉"
- ],
+ "posts": 323,
+ "couponPosts": 65,
+ "fixedTracked": [],
  "addedLounges": [],
  "labelOnly": [
-  "ACECRAFT | 2026-10-30 | 핼러윈 특별 기획 | 파일럿 변장, 으스스한 밤에 이륙",
   "애니멀 가든 | 2026-10-31 | [주말코드]🎁해피 할로윈🎁",
-  "다크엔젤:천사 강림 | 2026-10-30 | [공지]💸U-store 포인트 상점 신규 오픈 안내🛒",
-  "라스트 소녀 전사 | 2026-10-30 | 👻 신서버 S6108 오픈 안내",
   "라스트 소녀 전사 | 2026-10-31 | 👻 [무료 배포] 오싹달콤! 할로윈 인생네컷 6종 📸",
-  "드래곤 나이트 키우기 : 방치형 RPG | 2026-10-30 | [쿠폰] 할로윈 기념 쿠폰 안내",
   "드래곤네스트 월드 | 2026-10-31 | 🎃할로윈 특별 쿠폰 안내",
-  "드림 가든: 추억의 힐링 경영 | 2026-10-30 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "드림 가든: 추억의 힐링 경영 | 2026-10-31 | 🌸[할로윈 특별 혜택]🌸",
-  "궁신 : 방치형 RPG | 2026-10-30 | 할로윈 선물 받고 신나게 놀아보세요!🕸🎃",
-  "히어로 랜드M | 2026-10-30 | 주간 혜택（10/30~11/6）",
   "루미마스터 | 2026-10-31 | [라운지 이벤트] 장난의 날 전용 컬러링 루미를 자랑하고 이벤트 보상을 받아가세요!🎁",
-  "루미마스터 | 2026-10-30 | [라운지 이벤트] 지정 임무 달성 이벤트가 오픈되었습니다!🎁",
   "아케론: 종말의 서곡 | 2026-10-31 | [이벤트] 🎃할로윈 TRICK or TREAT（10/31-11/10）",
   "라그나로크3 | 2026-10-31 | 해피 할로윈! 이벤트 참여하면? 추첨을 통해 Discord Nitro 1개월권이?!!",
   "전생했더니 검 한 자루 | 2026-11-01 | <전생했더니 검 한 자루> OX 퀴즈 이벤트🔥",
   "전생했더니 검 한 자루 | 2026-10-31 | 🔔사전예약 퀴즈 이벤트 3탄! ",
-  "전생했더니 검 한 자루 | 2026-10-30 | 👻 으스스한 할로윈 밤… 호박이 숨어 있다! 🎃",
   "사커워즈 | 2026-10-31 | [사전예약] 사커워즈 사전예약을 시작합니다! (~11/17)",
   "소드 x 스태프: 화산귀환 콜라보 | 2026-11-01 | [소드 x 스태프] 정식 오픈 FAQ",
-  "Total Football - 25/26 시즌 | 2026-10-30 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/2 ~ 11/8)",
-  "불칸 | 2026-10-31 | [이벤트] 서버 통합 기념 쿠폰",
-  "명조:워더링 웨이브 | 2026-10-30 | 🌟「명조 | Galaxy Store」 「에이메스」 빅스비 보이스 스페셜 키트 2차 예약 "
+  "불칸 | 2026-10-31 | [이벤트] 서버 통합 기념 쿠폰"
  ],
  "imageOnly": [
-  {
-   "game": "검신제로",
-   "loungeId": "Dawns_Wake",
-   "feedId": 8388168,
-   "date": "2026-10-30",
-   "title": "[안내] 글로벌 공식 디스코드에 참여하고 선착순 쿠폰 받으세요!",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTAg/MDAxNzkzMzY2MTg5OTQ1.0ERUo_TZJ-nqfOJDKu78qDfudqfbfzCz-Y1gJGIp-Agg.WrhYnQPaUHqFpYNWQ8ogy90-qU2TUTCZgjz1oVD2JBIg.JPEG/4_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjA2/MDAxNzkzMzY2MTk5NjAz.BcK7C8m-sMKMTThnmL7yUODijhBBaYRqTOD3wN_TM7sg.vkibqlzOMk12E_pBRvzgW3UFQXuOc0QU9JhwBmVFDYEg.JPEG/4_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "드래곤 나이트 키우기 : 방치형 RPG",
-   "loungeId": "Dragon_Knight_Idle",
-   "feedId": 8387640,
-   "date": "2026-10-30",
-   "title": "[쿠폰] 할로윈 기념 쿠폰 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTky/MDAxNzkzMzU3NzU5NTg3.aweIEWB9CohWZWagzpFUZ1sqpgTCflCibWfUeArfYKwg.oq2beNiChvXd9S6jI1HyhzW5mrMWCLPMmjKkJhmDGrcg.PNG/%EC%BF%A0%ED%8F%B0_%EB%B0%B0%EB%84%88.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTEy/MDAxNzkzMzU3ODIyODQw.4CeC_4XerZyE977jQzqShiA7vgtRXRrQdIKPPYlRQwog.szuAjvilCfj2Qi6wksIGkJnFanx2tiKeY5jJ3rkzdcMg.PNG/%EC%BF%A0%ED%8F%B0_%EB%B0%B0%EB%84%882.png?type=w1678"
-   ]
-  },
   {
    "game": "드래곤네스트 월드",
    "loungeId": "DragonnestWorld",
@@ -79,19 +41,6 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNTA3MTlfNTIg/MDAxNzUyOTIzMDk0MDY2.VCnZg8GyoG3OcqVRKFVKODv80m5pkq0N1EDLY1Qk9KAg.mF9F_IO7Y3IJLFMRIFLlzZrA0SPsNRnk0SSDyUiuHYAg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%83%81%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjEwMzFfNDMg/MDAxNzkzNDE2MjYxMDgy.c0Q-8hsG5SbL9SGaD_x6uhpdvFDxC5j2urwgL0N_c40g.LJUJBep3IED4P4FVnEeG_6aIcgTuO3NZMR1I6AIubTwg.PNG/2026-10-31_03_47_39.png?type=w1678"
-   ]
-  },
-  {
-   "game": "왓더뼈킹",
-   "loungeId": "wtbk",
-   "feedId": 8386850,
-   "date": "2026-10-30",
-   "title": "💌 [왓더뼈킹] 플러스친구 쿠폰 OPEN! 🦴",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTQ0/MDAxNzkzMzQ1NjUwNjg1.v0XN3dGgwV2RX-27thP_YHo7alPjItkZg7MRA1Qtz-Ug.1LgqV_pJ8TlIJog3ACL_smLqX5dj0Vw_UWe60hjfheQg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B0%B0%EB%84%88.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMzkg/MDAxNzkzMzQ2MTMyMjcw.Yf6Qegn5g6EY5ubvLPNpu5vjpsphkHSq5BFZc3ZH73Qg.EnsfW2N1gpVjOpqi_4uYOYhQcieROBtfjBNhgxmskdcg.JPEG/%EA%B3%B5%EC%A7%80%EC%9A%A9-%EB%B0%B0%EB%84%88.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTg4/MDAxNzkzMzQ2MjAyOTQ4.cVBjT3XPTpElQoWUZdbicJ4JbgGYO1Tw_BFLSUicWP0g.nPicL8vWcTKb-cQbFhdv3S1TzKJLrkIMypv7GhbMSv0g.PNG/QQ_1793346199950.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjE1/MDAxNzkzMzQ1NjU0ODIw.jK-n8YCblEWgXiDB6cMoa0ClKPAYmdpfmynnj5mIlqsg.LpugF8OJ7UNK91G9lvaL04lj5B_38QkYLGIBN2CWdbUg.PNG/%ED%95%98%EB%8B%A8.png?type=w1678"
    ]
   }
  ]
