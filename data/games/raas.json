@@ -7,18 +7,9 @@
   "loungeId": "RAAS",
   "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8397602",
   "howTo": "",
-  "postCount": 2083,
-  "updatedAt": "2026-11-02T10:16:31.640Z",
+  "postCount": 2104,
+  "updatedAt": "2026-11-02T16:11:11.878Z",
   "codes": [
-    {
-      "code": "COUNTDOWN03",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-02",
-      "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-02",
-      "status": "active"
-    },
     {
       "code": "RAAS5",
       "reward": "",
@@ -26,7 +17,7 @@
       "tag": "사전예약",
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -35,7 +26,7 @@
       "expiry": "2030-12-31",
       "postedAt": "2026-10-31",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -45,7 +36,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-29",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -55,7 +46,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -65,7 +56,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -75,8 +66,17 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
+    },
+    {
+      "code": "COUNTDOWN03",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "expired"
     }
   ]
 }

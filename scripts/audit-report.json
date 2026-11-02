@@ -1,48 +1,32 @@
 {
- "generatedAt": "2026-11-02T05:49:03.598Z",
- "window": "20261031~20261102",
- "lounges": 2363,
- "posts": 428,
- "couponPosts": 85,
+ "generatedAt": "2026-11-02T15:34:14.451Z",
+ "window": "20261101~20261103",
+ "lounges": 2365,
+ "posts": 411,
+ "couponPosts": 50,
  "fixedTracked": [
-  "그놈은 드래곤 | HeidrunXDDC | [헤이드룬] 진정한 용사가 되고 싶다면, 끝까지 버텨 봐!",
-  "이터널 에볼루션 | EE1102VNBG | 주간 선물 코드",
-  "방세구 : 방치된 히어로지만 세상을 구할 수 있어 | NFQW369 | [c-o-u-p-o-n] 히어로 여러분을 위한 11/2 깜짝 쿠폰!",
-  "NBA 바스켓볼 월드 2026 | ENERGY26 | 🎁이번 달 선물 코드입니다. 가득한 에너지와 함께 구단주님들께서 경기장",
-  "도쿄 구울: Awakening | NOVQHVP5 | [11월 02일] 월요일 선물",
-  "숲의 소환단:방치형 판타지 수집 RPG | VIP444, VIP555 | [공지] 신규 서버 관련 안내"
+  "2X | 4C299CEA | [쿠폰 선물] 🎁11월초 쿠폰 선물 도착!",
+  "비스트 로드: The New Land | BLJUW412X | 🎉혜택 타임🎉",
+  "승리의 여신: 니케 | 주의사항 | 4주년 특집 성우 토크쇼 라운지 댓글 이벤트",
+  "정령킹 키우기 | 400DAYCELEBR4TE | [이벤트] 런칭 400일 기념 감사 쿠폰!"
  ],
- "addedLounges": [],
+ "addedLounges": [
+  "다이너마이트 블루 (dynamiteblue) → /dynamiteblue/ | FUSE300",
+  "모던 워쉽 (modernwarships) → /modernwarships/ | WH-7"
+ ],
  "labelOnly": [
-  "애니멀 가든 | 2026-10-31 | [주말코드]🎁해피 할로윈🎁",
-  "라스트 소녀 전사 | 2026-10-31 | 👻 [무료 배포] 오싹달콤! 할로윈 인생네컷 6종 📸",
-  "드래곤네스트 월드 | 2026-10-31 | 🎃할로윈 특별 쿠폰 안내",
-  "드림 가든: 추억의 힐링 경영 | 2026-10-31 | 🌸[할로윈 특별 혜택]🌸",
+  "이터널 리턴 | 2026-11-02 | 개발팀과의 만남 for Season 13 방송 안내",
   "이모탈 라이징: 불멸의 각성 | 2026-11-02 | 두 신이 강림했다 (교환 코드가 포함되어 있습니다)",
-  "루미마스터 | 2026-10-31 | [라운지 이벤트] 장난의 날 전용 컬러링 루미를 자랑하고 이벤트 보상을 받아가세요!🎁",
-  "아케론: 종말의 서곡 | 2026-10-31 | [이벤트] 🎃할로윈 TRICK or TREAT（10/31-11/10）",
-  "라그나로크3 | 2026-10-31 | 해피 할로윈! 이벤트 참여하면? 추첨을 통해 Discord Nitro 1개월권이?!!",
+  "라테일 플러스 | 2026-11-02 | 900일 감사 쿠폰🎁",
+  "전생했더니 검 한 자루 | 2026-11-02 | 🎮닌텐도 스위치 획득 기회! 기대평 남기기 이벤트💙",
   "전생했더니 검 한 자루 | 2026-11-01 | <전생했더니 검 한 자루> OX 퀴즈 이벤트🔥",
-  "전생했더니 검 한 자루 | 2026-10-31 | 🔔사전예약 퀴즈 이벤트 3탄! ",
-  "사커워즈 | 2026-10-31 | [사전예약] 사커워즈 사전예약을 시작합니다! (~11/17)",
   "소드 앤 프론티아 | 2026-11-02 | 주간 미니 이벤트✨기억력 테스트🔔",
   "소드 x 스태프: 화산귀환 콜라보 | 2026-11-01 | [소드 x 스태프] 정식 오픈 FAQ",
   "트릭컬 리바이브 | 2026-11-02 | [쿠폰] 포브스 코리아 선정 프리미엄 브랜드 1위 기념 쿠폰 안내",
-  "불칸 | 2026-10-31 | [이벤트] 서버 통합 기념 쿠폰",
+  "다크엔젤: 심연의 날개 | 2026-11-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.03~11.09) ",
   "열혈강호: 화룡전 | 2026-11-02 | [쿠폰] 11월 주간 쿠폰 지급 안내 "
  ],
  "imageOnly": [
-  {
-   "game": "드래곤네스트 월드",
-   "loungeId": "DragonnestWorld",
-   "feedId": 8391927,
-   "date": "2026-10-31",
-   "title": "🎃할로윈 특별 쿠폰 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjAw/MDAxNzkzMzM2Mzg4OTky.pnIMFDeeHTe9PV485_NEE4IjivxpicCzyf4sKbgUf10g.CQOTIdAYV1_Ta9VTwHregI2cNieV3gh5LMFDmueGRywg.PNG/%E4%B8%8B%E8%BD%BD.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTU0/MDAxNzkzMzM2NTcxNjI5.-6n-G8mjKXMR8e9UTE7shFNi8rKqJ_YSHIQ545enmGUg.-XyQ_zWptleSTkP92vHMKnxy_lwFQVtylXYHbRKy8TUg.PNG/img_v3_0216v_7b1b5703-9c6d-4e12-a502-78443abe084g.png?type=w1678"
-   ]
-  },
   {
    "game": "이모탈 라이징: 불멸의 각성",
    "loungeId": "ImmortalRising",
@@ -51,6 +35,17 @@
    "title": "두 신이 강림했다 (교환 코드가 포함되어 있습니다)",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMDJfOTkg/MDAxNzkzNTg1ODU4NTc2.91NHsBAAVAQ1DCczbyUbC1qB29slq-nqusQ0H5xJ1Lwg.pkIf49BIyOeA0B2IBRrGpEGREDgYR2ZHauNvTidwZNYg.PNG/mot%E5%AD%9F%E5%A9%86%E6%96%AF%E5%8D%A1%E8%92%82.png?type=w1678"
+   ]
+  },
+  {
+   "game": "라테일 플러스",
+   "loungeId": "Latale_Plus",
+   "feedId": 8400574,
+   "date": "2026-11-02",
+   "title": "900일 감사 쿠폰🎁",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjA3MjNfMTc5/MDAxNzg0Nzg4NDY3MTY5.10e5FFVcD8O1shnDLNqCVWOMVCBHczgHOG3Cwu0y_U8g.OOAuesnY7E_jFwlM_OeW_ZS1t-cn0iQUC38FpeliIYEg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjAzMDRfMjc0/MDAxNzcyNTg4NTQ4Mzgw.rROJSlbQBCDduj0Ons4NcVIDf6BqtenVBBSP1aLu8kog.gjPtmtGjlZigbEGMY8fz0q64-sM0Laoxn579t2IDEzMg.PNG/%ED%95%98%EB%8B%A8_740x130.png?type=w1678"
    ]
   },
   {
@@ -63,17 +58,6 @@
     "https://nng-phinf.pstatic.net/MjAyNjExMDJfOTQg/MDAxNzkzNTg3MDcwODY4.YwpAhV06FBLXSXhfFo1ReBxbg6cwIsGiqvqIas-Bbugg.LjQSHzRUVp-aBTrprtoGtvmKtCqO6dL2JgUMFvzYsmog.GIF/3.gif?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTMw/MDAxNzkzNTg3MDg1Nzc2.mKNFzA2MjHrfRbL4q_7-eQgJRofKALS2tG-KEwr3HxAg.2suW089Fp87StnJzbLD7OiRaXxckJM9co1vRjCdpkZog.GIF/1.gif?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTE5/MDAxNzkzNTg3MDQwMzkz.Ah1K93ZDR7wj6DpyLE356MyZIEROj2zVMClGVAzwoGMg.vm1RcMh0RMWD9KRG0klhULwTEy5dJOfLen0rfdaCrnkg.PNG/3_3.png?type=w1678"
-   ]
-  },
-  {
-   "game": "불칸",
-   "loungeId": "VULCAN",
-   "feedId": 8390605,
-   "date": "2026-10-31",
-   "title": "[이벤트] 서버 통합 기념 쿠폰",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNTA3MTlfNTIg/MDAxNzUyOTIzMDk0MDY2.VCnZg8GyoG3OcqVRKFVKODv80m5pkq0N1EDLY1Qk9KAg.mF9F_IO7Y3IJLFMRIFLlzZrA0SPsNRnk0SSDyUiuHYAg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%83%81%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzFfNDMg/MDAxNzkzNDE2MjYxMDgy.c0Q-8hsG5SbL9SGaD_x6uhpdvFDxC5j2urwgL0N_c40g.LJUJBep3IED4P4FVnEeG_6aIcgTuO3NZMR1I6AIubTwg.PNG/2026-10-31_03_47_39.png?type=w1678"
    ]
   },
   {

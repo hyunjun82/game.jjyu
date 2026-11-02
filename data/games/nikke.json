@@ -5,18 +5,27 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDFfMjE0/MDAxNzkzNTE1Nzk0MzMx.SfC12E2jW3lRgmr_RlQ4bFFH8xw_QR9HMsB9CCosFrsg.mvnLIXWBcA-KdcNet92hjK7Qn6haLShTKxHVedUBSckg.PNG/241030_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_100x100.png",
   "source": "naver-lounge",
   "loungeId": "nikke",
-  "sourceUrl": "https://game.naver.com/lounge/nikke/board/detail/8397665",
+  "sourceUrl": "https://game.naver.com/lounge/nikke/board/detail/8401427",
   "howTo": "- 게임 로그인 → 로비 우측 상단 [공지] → [교환 코드] 화면 → 교환 코드 입력",
-  "postCount": 2,
-  "updatedAt": "2026-11-02T10:16:35.001Z",
+  "postCount": 3,
+  "updatedAt": "2026-11-02T16:11:14.935Z",
   "codes": [
+    {
+      "code": "주의사항",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "status": "active"
+    },
     {
       "code": "NIKKE4thYongsan",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-11-01",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     }
   ]

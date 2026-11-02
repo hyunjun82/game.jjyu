@@ -1,0 +1,23 @@
+{
+  "slug": "dynamiteblue",
+  "titleEn": "dynamiteblue",
+  "titleKo": "다이너마이트 블루",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjA1MDhfNjYg/MDAxNzc4MjAzNzIwODY0.QVOlCa2u9_ZgvyX8_WrDqhK3zcu-9iYKCDfDHhVZ8hkg.ceBvG1cdwJOhB_6MngvOY6homENDCgqIO54LGnEbVTMg.PNG/AppIcon_Guide300300.png",
+  "source": "naver-lounge",
+  "loungeId": "dynamiteblue",
+  "sourceUrl": "https://game.naver.com/lounge/dynamiteblue/board/detail/8400171",
+  "howTo": "1. https://gift.dynamite-blue.com 에 접속해 주세요. 2. 게임 안 유저 코드와 쿠폰 코드를 입력해 주세요. 3. 게임 안 우편함에서 보상을 받으시면 됩니다. ※ 안드로이드는 게임 안에서도 쿠폰을 입력할 수 있습니다. ※ iOS는 게임 안 입력이 막혀 있어 위 주소로만 등록할 수 있습니다.",
+  "postCount": 1,
+  "updatedAt": "2026-11-02T16:11:42.275Z",
+  "codes": [
+    {
+      "code": "FUSE300",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "status": "active"
+    }
+  ]
+}
