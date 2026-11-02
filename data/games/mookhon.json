@@ -7,8 +7,8 @@
   "loungeId": "MOOKHON",
   "sourceUrl": "https://game.naver.com/lounge/MOOKHON/board/detail/8339776",
   "howTo": "",
-  "postCount": 8,
-  "updatedAt": "2026-11-01T23:05:52.005Z",
+  "postCount": 7,
+  "updatedAt": "2026-11-02T02:40:56.822Z",
   "codes": [
     {
       "code": "HALLOWEEN26",
@@ -65,19 +65,19 @@
       "status": "expired"
     },
     {
-      "code": "NEWRAIDBOSS",
+      "code": "TOWEROFENDLESS",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2025-07-28",
+      "expiry": "2026-01-31",
+      "postedAt": "2025-12-19",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-11-02",
       "status": "expired"
     },
     {
-      "code": "TOWEROFENDLESS",
+      "code": "NEWRAIDBOSS",
       "reward": "",
-      "expiry": "2026-01-31",
-      "postedAt": "2025-12-19",
+      "expiry": null,
+      "postedAt": "2025-07-28",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-11-02",
       "status": "expired"

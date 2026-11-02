@@ -2,14 +2,23 @@
   "slug": "soul-strike",
   "titleEn": "Soul Strike",
   "titleKo": "소울 스트라이크",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfNjUg/MDAxNzkyOTc3MDk4ODMx.ErKwSnR_8QAydLwvpHEjVquJdzkb6p12DHedwwsks-4g.KNW0zda1iqYZJTzEguQ6ee4-gIyAXDqD0BSpS6GD7q8g.PNG/200x%EC%A3%BC%EA%B0%84%EC%BF%A0%ED%8F%B0.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTA1/MDAxNzkzNTg1MjM3NjE1.IH8sg5Sf8lH_682U9i4cvmXO-sDOWdIy_F-snf6Oml8g.9YJhwdHMteZ-rkuuNlNXIfw3jJ42djVESEGITd_orJIg.PNG/200x%EC%A3%BC%EA%B0%84%EC%BF%A0%ED%8F%B0.png",
   "source": "naver-lounge",
   "loungeId": "Soul_Strike",
-  "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8377431",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8399464",
   "howTo": "",
-  "postCount": 86,
-  "updatedAt": "2026-11-01T23:03:04.005Z",
+  "postCount": 87,
+  "updatedAt": "2026-11-02T02:37:57.029Z",
   "codes": [
+    {
+      "code": "SS11K7VM",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "active"
+    },
     {
       "code": "NOTNAHIDA",
       "reward": "",
