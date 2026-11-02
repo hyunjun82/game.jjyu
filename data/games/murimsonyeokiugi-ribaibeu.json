@@ -5,46 +5,56 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-01T19:40:16.193Z",
+  "updatedAt": "2026-11-02T20:46:59.927Z",
   "codes": [
+    {
+      "code": "GOOGLE01",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/t326598/224462859022",
+      "firstSeen": "2026-11-03",
+      "lastSeen": "2026-11-03",
+      "status": "active"
+    },
     {
       "code": "E0261001",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/inchul9426/224459929350",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/t326598/224462859022",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-02",
-      "status": "expired"
-    },
-    {
-      "code": "E0261009",
-      "reward": "",
-      "expiry": "2026-11-01",
-      "postedAt": "2026-10-28",
-      "sourceUrl": "https://blog.naver.com/aispark/224456412442",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "expired"
     },
     {
       "code": "E0261031",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-28",
-      "sourceUrl": "https://blog.naver.com/aispark/224456412442",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224462378697",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "E0261009",
+      "reward": "",
+      "expiry": "2026-11-01",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224462378697",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-03",
       "status": "expired"
     },
     {
       "code": "E0261025",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-10-28",
-      "sourceUrl": "https://blog.naver.com/aispark/224456412442",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/ablack2018/224462378697",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "expired"
     }
   ]

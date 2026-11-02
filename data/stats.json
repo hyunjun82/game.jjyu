@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-02T16:11:58.547Z",
+  "generatedAt": "2026-11-02T20:48:00.751Z",
   "today": "2026-11-03",
-  "todayNew": 6,
+  "todayNew": 13,
   "totals": {
     "games": 399,
-    "codes": 5548,
-    "active": 840,
-    "expired": 4708,
-    "withExpiry": 3226
+    "codes": 5555,
+    "active": 846,
+    "expired": 4709,
+    "withExpiry": 3228
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-03",
-      "count": 6
+      "count": 13
     }
   ],
   "expiringSoon": [
@@ -315,6 +315,18 @@
       "days": 2
     },
     {
+      "slug": "kingshot",
+      "code": "KS1102",
+      "expiry": "2026-11-05",
+      "days": 2
+    },
+    {
+      "slug": "kingshot",
+      "code": "TREAT4U",
+      "expiry": "2026-11-05",
+      "days": 2
+    },
+    {
       "slug": "origin-of-chaos",
       "code": "HALLOWEEN26",
       "expiry": "2026-11-05",
@@ -353,18 +365,6 @@
     {
       "slug": "reverse-1999",
       "code": "yyy1999ccc",
-      "expiry": "2026-11-05",
-      "days": 2
-    },
-    {
-      "slug": "samgukji-origin2",
-      "code": "7059-9a0f646a4-1",
-      "expiry": "2026-11-05",
-      "days": 2
-    },
-    {
-      "slug": "samgukji2022",
-      "code": "AN388D0I",
       "expiry": "2026-11-05",
       "days": 2
     }

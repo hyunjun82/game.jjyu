@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-01T19:35:14.230Z",
+  "updatedAt": "2026-11-02T20:41:36.598Z",
   "codes": [
     {
       "code": "TRICKORCHIEF",
       "reward": "",
       "expiry": "2026-11-06",
-      "postedAt": "2026-11-02",
+      "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
@@ -24,37 +24,37 @@
       "postedAt": "2026-10-29",
       "sourceUrl": "https://blog.naver.com/jonges_/224458199189",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
       "code": "CAFECHIEF",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-02",
+      "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
       "code": "FBCHIEF2026",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-02",
+      "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {
       "code": "DCSPATROL26",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-02",
+      "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-02",
+      "lastSeen": "2026-11-03",
       "status": "active"
     },
     {

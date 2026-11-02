@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-01T19:39:42.085Z",
+  "updatedAt": "2026-11-02T20:46:25.149Z",
   "codes": [
-    {
-      "code": "CATGUN2609",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-19",
-      "sourceUrl": "https://blog.naver.com/blok74/224446697820",
-      "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-02",
-      "status": "active"
-    },
     {
       "code": "GUNNERCAT2026",
       "reward": "",
@@ -45,6 +35,16 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461187192",
       "firstSeen": "2026-11-01",
       "lastSeen": "2026-11-01",
+      "status": "expired"
+    },
+    {
+      "code": "CATGUN2609",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-19",
+      "sourceUrl": "https://blog.naver.com/blok74/224446697820",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-11-03",
       "status": "expired"
     }
   ]
