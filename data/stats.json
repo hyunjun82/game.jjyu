@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-02T06:28:20.713Z",
+  "generatedAt": "2026-11-02T10:30:32.283Z",
   "today": "2026-11-02",
-  "todayNew": 27,
+  "todayNew": 35,
   "totals": {
     "games": 398,
-    "codes": 5534,
-    "active": 845,
+    "codes": 5542,
+    "active": 853,
     "expired": 4689,
-    "withExpiry": 3221
+    "withExpiry": 3224
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-02",
-      "count": 27
+      "count": 35
     }
   ],
   "expiringSoon": [
@@ -297,6 +297,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-MAGIC",
+      "expiry": "2026-11-04",
+      "days": 2
+    },
+    {
       "slug": "survivorio",
       "code": "Halloween2026",
       "expiry": "2026-11-04",
@@ -359,12 +365,6 @@
     {
       "slug": "eternal-evolution",
       "code": "EE1021CV78",
-      "expiry": "2026-11-05",
-      "days": 3
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "EE1019DWQ3",
       "expiry": "2026-11-05",
       "days": 3
     }

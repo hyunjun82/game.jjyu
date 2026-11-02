@@ -2,14 +2,23 @@
   "slug": "pixel-tamerz",
   "titleEn": "Pixel Tamerz",
   "titleKo": "픽셀 테이머즈",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjhfNTUg/MDAxNzkzMTY1MjAzOTUy.IKbtt0yfFCMVVbjlMWIDKc6GO-bH0DWkh0o6J2pKHxwg.vVnB9RDYzY3dieUOSWgXC46FZlV_gsPfL13CMfiief0g.PNG/banner_lounge_long_event.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDJfNDkg/MDAxNzkzNjExMTU1NDYz.fnug5tQoWE9fm2_aZLHcOsEwnhPsZNPfqbFv4ImQM_Yg.zrO5Q6XISwBu6U_R8eXKcw7qacRrymSG9IU689HohaAg.PNG/banner_lounge_long_notice.png",
   "source": "naver-lounge",
   "loungeId": "PIXEL_TAMERZ",
-  "sourceUrl": "https://game.naver.com/lounge/PIXEL_TAMERZ/board/detail/8377004",
+  "sourceUrl": "https://game.naver.com/lounge/PIXEL_TAMERZ/board/detail/8400986",
   "howTo": "- 설정 > 쿠폰 입력에서 입력해 주세요. - 보상은 입력 즉시 지급됩니다. ■ 유의 사항 • 쿠폰은 계정당 1회",
-  "postCount": 3,
-  "updatedAt": "2026-11-02T06:24:43.375Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-02T10:13:42.304Z",
   "codes": [
+    {
+      "code": "SORRYFIREGOD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "active"
+    },
     {
       "code": "SongpyeonAGAIN",
       "reward": "",

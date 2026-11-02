@@ -2,19 +2,46 @@
   "slug": "ballistic-hero",
   "titleEn": "Ballistic_Hero",
   "titleKo": "각도와 바람의 전쟁",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjUz/MDAxNzkzMjQ0NzE4MjQx.LaDqE19W7PFkU_SqwElVlHsQvmsYj3Hx7c1UmqqfAbEg.PD8Q2bg5upJlSVXEGtMYFU_miXKJG37ZHH-zQ75Es0kg.PNG/da0d9b6b-d4dc-4859-9f34-cec45085a1cd.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDJfNCAg/MDAxNzkzNjEwMjY4MTI5.YAr5-56l2PedVHIXjEOGtFcO1F1LbdHQW8kQoAwMZm0g.-D8rDLexGDt_c91Ko-ynKGtg2TPN5ibfAp5xPCqKIfgg.PNG/1ca071cf-22a8-4395-a229-6896ffc93000.png",
   "source": "naver-lounge",
   "loungeId": "Ballistic_Hero",
-  "sourceUrl": "https://game.naver.com/lounge/Ballistic_Hero/board/detail/8390558",
+  "sourceUrl": "https://game.naver.com/lounge/Ballistic_Hero/board/detail/8400925",
   "howTo": "",
-  "postCount": 4,
-  "updatedAt": "2026-11-02T06:27:56.355Z",
+  "postCount": 5,
+  "updatedAt": "2026-11-02T10:16:50.055Z",
   "codes": [
+    {
+      "code": "BHKRSTART1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "active"
+    },
+    {
+      "code": "BHKRSTART2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "active"
+    },
+    {
+      "code": "BHKRSTART3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "active"
+    },
     {
       "code": "DAY3ISHERE",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-31",
+      "postedAt": "2026-11-02",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-02",
       "status": "active"
@@ -23,7 +50,7 @@
       "code": "HAPPYDODO",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-30",
+      "postedAt": "2026-11-02",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-02",
       "status": "active"
@@ -32,7 +59,7 @@
       "code": "WELCOME2BH",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-29",
+      "postedAt": "2026-11-02",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-02",
       "status": "active"

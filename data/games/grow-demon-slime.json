@@ -2,14 +2,23 @@
   "slug": "grow-demon-slime",
   "titleEn": "Grow Demon Slime",
   "titleKo": "마왕 슬라임 키우기 : 방치형 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDFfODIg/MDAxNzkwODMwOTczMzE1.AnAJv0N8BheZ8_XDiz1H7drQQPTAd1hVVVZa9pvEBXAg.GFcx3uqFcZKiPWh28M90EVCR4W_38QzcX0W1iQwGMzEg.PNG/NAVER_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTIy/MDAxNzkzNjAwOTk3MzA0.KpcUUJn2D7UXEZ4fzb78OkpMJvdANpWohfSRhM7zhusg._2klU7qwg8cacUwTKDlkftzlD4nKZNBAmllXg3sAe9cg.PNG/NAVER_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png",
   "source": "naver-lounge",
   "loungeId": "GrowDemonSlime",
-  "sourceUrl": "https://game.naver.com/lounge/GrowDemonSlime/board/detail/8269954",
+  "sourceUrl": "https://game.naver.com/lounge/GrowDemonSlime/board/detail/8400308",
   "howTo": "",
-  "postCount": 20,
-  "updatedAt": "2026-11-02T06:25:12.727Z",
+  "postCount": 21,
+  "updatedAt": "2026-11-02T10:14:10.784Z",
   "codes": [
+    {
+      "code": "GOLDBOX",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
+      "lastSeen": "2026-11-02",
+      "status": "active"
+    },
     {
       "code": "BOOBOX",
       "reward": "",
