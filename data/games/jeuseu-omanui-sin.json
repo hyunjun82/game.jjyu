@@ -5,8 +5,58 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-02T20:46:01.167Z",
+  "updatedAt": "2026-11-03T18:16:23.939Z",
   "codes": [
+    {
+      "code": "6RYFJ242",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "AVG768Y1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "ZEUSDEV0828",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "ZEUSLIVE1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "DEVLIVE0911",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "ZEUSWELCOME",
       "reward": "",
@@ -15,7 +65,7 @@
       "sourceUrl": "https://blog.naver.com/event7777-/224462284584",
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "OBLIVIONSPRING",
@@ -25,7 +75,7 @@
       "sourceUrl": "https://blog.naver.com/event7777-/224462284584",
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "GODOFPRIDE77",
@@ -35,7 +85,7 @@
       "sourceUrl": "https://blog.naver.com/event7777-/224462284584",
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "RANKINGNO2",
@@ -45,7 +95,7 @@
       "sourceUrl": "https://blog.naver.com/event7777-/224462284584",
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ZEUS1002LIVE",
@@ -65,56 +115,6 @@
       "sourceUrl": "https://blog.naver.com/alssulsinjab/224429925660",
       "firstSeen": "2026-11-01",
       "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
-    {
-      "code": "6RYFJ242",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "AVG768Y1",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "ZEUSDEV0828",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "ZEUSLIVE1ST",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "DEVLIVE0911",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-30",
       "status": "expired"
     },
     {

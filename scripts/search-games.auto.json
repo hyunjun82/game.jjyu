@@ -1,18 +1,18 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-03T10:09:49.803Z",
+  "generatedAt": "2026-11-03T18:04:28.338Z",
   "games": [
-    {
-      "slug": "f4-u",
-      "loungeId": "F4U",
-      "titleKo": "판타지포유",
-      "titleEn": "F4 U"
-    },
     {
       "slug": "three-kingdoms-senkiban",
       "loungeId": "THREE_KINGDOMS_SENKIBAN",
       "titleKo": "삼국지 전기판",
       "titleEn": "Three Kingdoms Senkiban"
+    },
+    {
+      "slug": "f4-u",
+      "loungeId": "F4U",
+      "titleKo": "판타지포유",
+      "titleEn": "F4 U"
     },
     {
       "slug": "monsterhunteroutlanders",
@@ -21,16 +21,16 @@
       "titleEn": "Monsterhunteroutlanders"
     },
     {
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
+    },
+    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights_Endfield"
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "torchlight-infinite-kr",
@@ -39,39 +39,27 @@
       "titleEn": "Torchlight_Infinite"
     },
     {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
-    },
-    {
-      "slug": "loadto-ninza",
-      "loungeId": "loadtoNINZA",
-      "titleKo": "로드 투 닌자-K닌자의 귀환",
-      "titleEn": "Loadto Ninza"
-    },
-    {
-      "slug": "pixel-pocket",
-      "loungeId": "pixel_pocket",
-      "titleKo": "픽셀 포켓 모험",
-      "titleEn": "Pixel Pocket"
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -87,6 +75,36 @@
       "titleEn": "Dragonheir"
     },
     {
+      "slug": "weapon-master",
+      "loungeId": "WeaponMaster",
+      "titleKo": "웨폰마스터 키우기",
+      "titleEn": "Weapon Master"
+    },
+    {
+      "slug": "goblin-slayer",
+      "loungeId": "Goblin_Slayer",
+      "titleKo": "고블린 슬레이어 키우기",
+      "titleEn": "Goblin Slayer"
+    },
+    {
+      "slug": "god-slayer",
+      "loungeId": "God_Slayer",
+      "titleKo": "갓 슬레이어",
+      "titleEn": "God Slayer"
+    },
+    {
+      "slug": "grim-soul",
+      "loungeId": "Grim_Soul",
+      "titleKo": "그림소울",
+      "titleEn": "Grim Soul"
+    },
+    {
+      "slug": "gumihomobile",
+      "loungeId": "gumihomobile",
+      "titleKo": "요신:구미호뎐",
+      "titleEn": "Gumihomobile"
+    },
+    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -95,19 +113,19 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "Play_Together",
+      "titleKo": "플레이투게더",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -119,7 +137,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
