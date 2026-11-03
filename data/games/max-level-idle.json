@@ -7,8 +7,8 @@
   "loungeId": "Max_Level_Idle",
   "sourceUrl": "https://game.naver.com/lounge/Max_Level_Idle/board/detail/8387820",
   "howTo": "",
-  "postCount": 119,
-  "updatedAt": "2026-11-03T10:10:55.159Z",
+  "postCount": 118,
+  "updatedAt": "2026-11-03T14:36:44.461Z",
   "codes": [
     {
       "code": "2NDANNIVERSARYADV1",
@@ -256,78 +256,6 @@
       "status": "expired"
     },
     {
-      "code": "P4X8NR",
-      "reward": "",
-      "expiry": "2026-09-22",
-      "postedAt": "2026-09-22",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "7MQ3ZK",
-      "reward": "",
-      "expiry": "2026-09-22",
-      "postedAt": "2026-09-21",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "FabreD1",
-      "reward": "",
-      "expiry": "2026-10-14",
-      "postedAt": "2026-09-16",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "FabreD2",
-      "reward": "",
-      "expiry": "2026-10-14",
-      "postedAt": "2026-09-15",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "FabreD3",
-      "reward": "",
-      "expiry": "2026-10-14",
-      "postedAt": "2026-09-14",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "FabreD4",
-      "reward": "",
-      "expiry": "2026-10-14",
-      "postedAt": "2026-09-13",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "FabreD5",
-      "reward": "",
-      "expiry": "2026-10-14",
-      "postedAt": "2026-09-12",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "FabreD6",
-      "reward": "",
-      "expiry": "2026-10-14",
-      "postedAt": "2026-09-11",
-      "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
       "code": "CELEBRATION8",
       "reward": "",
       "expiry": "2026-06-21",
@@ -413,6 +341,78 @@
       "reward": "",
       "expiry": "2026-10-14",
       "postedAt": "2026-09-18",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "P4X8NR",
+      "reward": "",
+      "expiry": "2026-09-22",
+      "postedAt": "2026-09-22",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "7MQ3ZK",
+      "reward": "",
+      "expiry": "2026-09-22",
+      "postedAt": "2026-09-21",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "FabreD1",
+      "reward": "",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-16",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "FabreD2",
+      "reward": "",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-15",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "FabreD3",
+      "reward": "",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-14",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "FabreD4",
+      "reward": "",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-13",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "FabreD5",
+      "reward": "",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-12",
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-03",
+      "status": "expired"
+    },
+    {
+      "code": "FabreD6",
+      "reward": "",
+      "expiry": "2026-10-14",
+      "postedAt": "2026-09-11",
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-11-03",
       "status": "expired"
