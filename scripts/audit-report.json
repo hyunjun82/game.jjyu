@@ -1,19 +1,14 @@
 {
- "generatedAt": "2026-11-02T15:34:14.451Z",
+ "generatedAt": "2026-11-03T00:53:43.656Z",
  "window": "20261101~20261103",
  "lounges": 2365,
- "posts": 411,
- "couponPosts": 50,
+ "posts": 419,
+ "couponPosts": 51,
  "fixedTracked": [
-  "2X | 4C299CEA | [쿠폰 선물] 🎁11월초 쿠폰 선물 도착!",
-  "비스트 로드: The New Land | BLJUW412X | 🎉혜택 타임🎉",
-  "승리의 여신: 니케 | 주의사항 | 4주년 특집 성우 토크쇼 라운지 댓글 이벤트",
-  "정령킹 키우기 | 400DAYCELEBR4TE | [이벤트] 런칭 400일 기념 감사 쿠폰!"
+  "모던 워쉽 | WH-7 | [이벤트] 그림자 거래 ",
+  "산너머 도원마을 | MUMUHARVEST | 🌾풍성한 결실과 함께하는 풍요로운 나날!"
  ],
- "addedLounges": [
-  "다이너마이트 블루 (dynamiteblue) → /dynamiteblue/ | FUSE300",
-  "모던 워쉽 (modernwarships) → /modernwarships/ | WH-7"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "이터널 리턴 | 2026-11-02 | 개발팀과의 만남 for Season 13 방송 안내",
   "이모탈 라이징: 불멸의 각성 | 2026-11-02 | 두 신이 강림했다 (교환 코드가 포함되어 있습니다)",
