@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-03T03:09:00.620Z",
+  "generatedAt": "2026-11-03T10:26:43.984Z",
   "today": "2026-11-03",
-  "todayNew": 16,
+  "todayNew": 26,
   "totals": {
     "games": 399,
-    "codes": 5558,
-    "active": 850,
+    "codes": 5568,
+    "active": 860,
     "expired": 4708,
-    "withExpiry": 3231
+    "withExpiry": 3240
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-03",
-      "count": 16
+      "count": 26
     }
   ],
   "expiringSoon": [
@@ -372,8 +372,8 @@
   "topGames": [
     {
       "slug": "rogw-remains-of-gods",
-      "active": 26,
-      "total": 26
+      "active": 27,
+      "total": 27
     },
     {
       "slug": "tangtangeiseu",
@@ -402,13 +402,13 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 61
+      "active": 16,
+      "total": 62
     },
     {
       "slug": "sword-immortal",
-      "active": 14,
-      "total": 21
+      "active": 15,
+      "total": 22
     },
     {
       "slug": "whoa-adventurers",
@@ -417,8 +417,8 @@
     },
     {
       "slug": "dragon-traveler",
-      "active": 11,
-      "total": 84
+      "active": 12,
+      "total": 85
     },
     {
       "slug": "genshin-impact",

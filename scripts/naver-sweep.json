@@ -2547,7 +2547,7 @@
    "total": 16
   },
   "DNK": {
-   "at": "2026-11-01",
+   "at": "2026-11-03",
    "live": 0,
    "total": 4
   },
@@ -3102,7 +3102,7 @@
    "total": 4
   },
   "ERUA_SAGA": {
-   "at": "2026-11-01",
+   "at": "2026-11-03",
    "live": 0,
    "total": 33
   },
@@ -5765,7 +5765,7 @@
    "total": 3
   },
   "mjsg": {
-   "at": "2026-11-01",
+   "at": "2026-11-03",
    "error": "코드 없음"
   },
   "MLB_9INNINGS_RIVALS": {
@@ -12900,7 +12900,7 @@
    "error": "코드 없음"
   },
   "pixel_pocket": {
-   "at": "2026-10-27",
+   "at": "2026-11-03",
    "error": "보드 잠김(가입 필요)"
   },
   "Dont_play_tricks_on_me": {
@@ -14715,7 +14715,7 @@
    "error": "코드 없음"
   },
   "SeraphimIdle": {
-   "at": "2026-10-02",
+   "at": "2026-11-03",
    "error": "코드 없음"
   },
   "Guildream": {
@@ -18657,7 +18657,7 @@
    "error": "코드 없음"
   },
   "ASTROs_PLAYROOM": {
-   "at": "2026-10-16",
+   "at": "2026-11-03",
    "error": "코드 없음"
   },
   "Million_Depth": {
@@ -20205,7 +20205,7 @@
    "error": "코드 없음"
   },
   "The_Legend_of_Heroes_Kuro_no_Kiseki2": {
-   "at": "2026-10-29",
+   "at": "2026-11-03",
    "error": "코드 없음"
   },
   "Arcana_Tactics": {
@@ -22857,7 +22857,7 @@
    "error": "코드 없음"
   },
   "Puzzle_Clash": {
-   "at": "2026-10-30",
+   "at": "2026-11-03",
    "error": "코드 없음"
   },
   "VX": {
@@ -23109,7 +23109,7 @@
    "error": "코드 없음"
   },
   "Monster_Hunter_Rise_SunBreak": {
-   "at": "2026-10-31",
+   "at": "2026-11-03",
    "error": "코드 없음"
   },
   "The_Woman_Above": {
@@ -23737,6 +23737,38 @@
    "error": "코드 없음"
   },
   "Mega_Man4": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "3kingdomsslaves": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "NORSE_Oath_of_Blood": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "Tennis_Club_Story": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "Corpus_et_Spiritus": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "billiardsgod": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "DEKARON_M": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "Decipher_The_Brain_Game": {
+   "at": "2026-11-03",
+   "error": "코드 없음"
+  },
+  "KingdomM": {
    "at": "2026-11-03",
    "error": "코드 없음"
   }
