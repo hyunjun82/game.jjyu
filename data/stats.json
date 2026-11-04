@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T00:07:05.121Z",
+  "generatedAt": "2026-11-04T03:46:11.894Z",
   "today": "2026-11-04",
-  "todayNew": 8,
+  "todayNew": 18,
   "totals": {
     "games": 399,
-    "codes": 5579,
-    "active": 872,
-    "expired": 4707,
-    "withExpiry": 3244
+    "codes": 5589,
+    "active": 881,
+    "expired": 4708,
+    "withExpiry": 3250
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-04",
-      "count": 8
+      "count": 18
     }
   ],
   "expiringSoon": [
@@ -291,6 +291,12 @@
       "days": 1
     },
     {
+      "slug": "top-heroes",
+      "code": "GB453823A0",
+      "expiry": "2026-11-05",
+      "days": 1
+    },
+    {
       "slug": "toy-immortals",
       "code": "TOY10THANKS",
       "expiry": "2026-11-05",
@@ -361,12 +367,6 @@
       "code": "GIFThS8LuW",
       "expiry": "2026-11-06",
       "days": 2
-    },
-    {
-      "slug": "nuksam",
-      "code": "9B9TBR",
-      "expiry": "2026-11-06",
-      "days": 2
     }
   ],
   "topGames": [
@@ -402,8 +402,8 @@
     },
     {
       "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 62
+      "active": 16,
+      "total": 63
     },
     {
       "slug": "sword-immortal",
@@ -411,14 +411,14 @@
       "total": 22
     },
     {
+      "slug": "dragon-traveler",
+      "active": 13,
+      "total": 86
+    },
+    {
       "slug": "whoa-adventurers",
       "active": 13,
       "total": 13
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 12,
-      "total": 85
     },
     {
       "slug": "gray-saga",

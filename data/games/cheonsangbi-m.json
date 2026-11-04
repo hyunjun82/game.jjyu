@@ -2,14 +2,23 @@
   "slug": "cheonsangbi-m",
   "titleEn": "Cheonsangbi M",
   "titleKo": "천상비M",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDdfOTgg/MDAxNzkxMzM1NDA5Mzk1.iJZERq6Q1VLxIdHmNeBKQv69_LYleSa2dahbcYJP6hEg.mdCrgLcAdoVKAsPYxkJ2qYZ_4yk36LUuUQT1nKAI9ygg.PNG/image.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDJfMjc5/MDAxNzkzNTkzNjc5MjAw.Ih6PYPUf_HRJIFnyagnor5e3KDzlzR2lWGYrlZTXbXsg.4GTgAsB086gZcyoJxjtBd0ixeRsW17DhsHdHHUAHxUgg.PNG/image.png",
   "source": "naver-lounge",
   "loungeId": "1003BM",
-  "sourceUrl": "https://game.naver.com/lounge/1003BM/board/detail/8296883",
+  "sourceUrl": "https://game.naver.com/lounge/1003BM/board/detail/8407896",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-11-03T23:55:25.092Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-04T03:31:58.326Z",
   "codes": [
+    {
+      "code": "1003BMDEV11",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "OCT1003BMDEV",
       "reward": "",

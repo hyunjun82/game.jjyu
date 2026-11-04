@@ -2,14 +2,23 @@
   "slug": "raas",
   "titleEn": "RAAS",
   "titleKo": "전생했더니 검 한 자루",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTI1/MDAxNzkzNjcxNjM0MjI3.ftAOMf48g8CuLKxIKI1bdUHAtd9VOh5qOfec5np4pY4g.vyebVwkeCWS3W0AqfokqSbxzOHE_Zn2_x2BK41iLOecg.JPEG/D3-2560x1480.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjkx/MDAxNzkzNzU3MTMwMzUx.K-7aqq1ognpfZ7PPh8710OfgAc0BYc-8PgUvGKWXwfIg.dsE9P6tw2wHpAS_41w94kRImmZVAe1Mvn2iLay9jT_gg.JPEG/D2-2560x1480.jpg",
   "source": "naver-lounge",
   "loungeId": "RAAS",
-  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8403323",
+  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8407565",
   "howTo": "",
-  "postCount": 2198,
-  "updatedAt": "2026-11-03T23:58:11.017Z",
+  "postCount": 2212,
+  "updatedAt": "2026-11-04T03:34:58.133Z",
   "codes": [
+    {
+      "code": "COUNTDOWN02",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "COUNTDOWN03",
       "reward": "",

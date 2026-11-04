@@ -2,14 +2,23 @@
   "slug": "todays-flower",
   "titleEn": "Today's Flower",
   "titleKo": "오늘의 꽃",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfNiAg/MDAxNzkyNDY3NjgxMTYz.UnMaDPl2U6QpPp2RjHgo4FTz4UllkT8d-NEXAKOHJBsg.tRifbBNBA9PEJ57QJSMxD87_ll1JjFu9FKbTgXKz1Ugg.PNG/%ED%91%B8%EB%A5%B8%EC%82%B0%ED%98%B81028.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjgx/MDAxNzkyNDY3NzY1MDQx.kTXl0agrurG4tpfqWSp-rkOU7_84Aegp2O6RZBTBexMg.UkckIKy2NIyt4DO6N9n8MKs6uJuKH4gBe_t0vkDuS_Ag.PNG/%ED%95%98%EC%96%80%EC%9D%80%EB%A0%A8%ED%99%94114.png",
   "source": "naver-lounge",
   "loungeId": "Todays_Flower",
-  "sourceUrl": "https://game.naver.com/lounge/Todays_Flower/board/detail/8375917",
+  "sourceUrl": "https://game.naver.com/lounge/Todays_Flower/board/detail/8407281",
   "howTo": "- 게임 내 [설정] - [교환 코드] 버튼을 클릭 - 쿠폰 입력창에 쿠폰 코드 입력",
   "postCount": 20,
-  "updatedAt": "2026-10-28T09:09:40.564Z",
+  "updatedAt": "2026-11-04T03:31:46.423Z",
   "codes": [
+    {
+      "code": "하얀은련화114",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "푸른산호1028",
       "reward": "",
@@ -17,7 +26,7 @@
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-10-28",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }
