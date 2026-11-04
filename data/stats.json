@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T11:38:27.371Z",
+  "generatedAt": "2026-11-04T14:40:24.923Z",
   "today": "2026-11-04",
   "todayNew": 50,
   "totals": {
     "games": 403,
     "codes": 5621,
-    "active": 950,
-    "expired": 4671,
+    "active": 949,
+    "expired": 4672,
     "withExpiry": 3299
   },
   "newByDate": [
@@ -451,11 +451,6 @@
       "total": 13
     },
     {
-      "slug": "samgukji-kingdom",
-      "active": 10,
-      "total": 11
-    },
-    {
       "slug": "sword-frontier",
       "active": 10,
       "total": 26
@@ -467,6 +462,11 @@
     },
     {
       "slug": "astro-defenders",
+      "active": 9,
+      "total": 10
+    },
+    {
+      "slug": "chaos-zero-nightmare",
       "active": 9,
       "total": 10
     }
