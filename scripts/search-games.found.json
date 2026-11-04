@@ -225,6 +225,31 @@
       "titleKo": "검은사막 PC",
       "titleEn": "geomeunsamak-pc",
       "found": "2026-11-01"
+    },
+    {
+      "slug": "hyeopdong-tawo-dipenseu",
+      "titleKo": "[협동 타워 디펜스",
+      "titleEn": "hyeopdong-tawo-dipenseu",
+      "found": "2026-11-04"
+    },
+    {
+      "slug": "bitsseom",
+      "titleKo": "빗썸",
+      "titleEn": "bitsseom",
+      "found": "2026-11-04"
+    },
+    {
+      "slug": "warline",
+      "titleKo": "워라인:스나이퍼",
+      "titleEn": "warline",
+      "loungeId": "warline",
+      "found": "2026-11-04"
+    },
+    {
+      "slug": "royal-kingdeom",
+      "titleKo": "로얄 킹덤",
+      "titleEn": "royal-kingdeom",
+      "found": "2026-11-04"
     }
   ],
   "rejected": [

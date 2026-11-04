@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T03:46:11.894Z",
+  "generatedAt": "2026-11-04T06:33:56.434Z",
   "today": "2026-11-04",
-  "todayNew": 18,
+  "todayNew": 38,
   "totals": {
-    "games": 399,
-    "codes": 5589,
-    "active": 881,
-    "expired": 4708,
-    "withExpiry": 3250
+    "games": 403,
+    "codes": 5609,
+    "active": 900,
+    "expired": 4709,
+    "withExpiry": 3255
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-04",
-      "count": 18
+      "count": 38
     }
   ],
   "expiringSoon": [
@@ -89,6 +89,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "FBDY815",
+      "expiry": "2026-11-04",
+      "days": 0
+    },
+    {
+      "slug": "jamryong",
+      "code": "AW26114MERGE",
       "expiry": "2026-11-04",
       "days": 0
     },
@@ -361,12 +367,6 @@
       "code": "T2CV3LSO",
       "expiry": "2026-11-06",
       "days": 2
-    },
-    {
-      "slug": "nostalgic-corner-store",
-      "code": "GIFThS8LuW",
-      "expiry": "2026-11-06",
-      "days": 2
     }
   ],
   "topGames": [
@@ -446,11 +446,6 @@
       "total": 13
     },
     {
-      "slug": "samgukji-kingdom",
-      "active": 10,
-      "total": 11
-    },
-    {
       "slug": "sword-frontier",
       "active": 10,
       "total": 26
@@ -466,10 +461,15 @@
       "total": 10
     },
     {
+      "slug": "chaos-zero-nightmare",
+      "active": 9,
+      "total": 10
+    },
+    {
       "slug": "dokkaebiuisegye",
       "active": 9,
       "total": 16
     }
   ],
-  "noImage": 68
+  "noImage": 72
 }

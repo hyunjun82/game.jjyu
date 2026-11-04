@@ -1,0 +1,41 @@
+{
+  "slug": "royal-kingdeom",
+  "titleEn": "royal-kingdeom",
+  "titleKo": "로얄 킹덤",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-04T06:28:22.841Z",
+  "codes": [
+    {
+      "code": "ROYAL2026GO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461024250",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "KINGDOMSTART",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461024250",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEROYAL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461024250",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    }
+  ]
+}

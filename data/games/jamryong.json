@@ -2,14 +2,23 @@
   "slug": "jamryong",
   "titleEn": "Awakening",
   "titleKo": "잠룡: 무협 도트 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MDlfMjA3/MDAxNzg4OTExNTIxMzQz.sINfsJuzgDvUhquAWEG1uH_EqQpj0jGPip9Wh9hjNCUg.FoC0JPP3uQbm-buvPWRLeC1itSf0A8YDe3OO1-0t09wg.PNG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%EC%BF%A0%ED%8F%B0%EC%95%88%EB%82%B4_540x540.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjkg/MDAxNzkzNzYzMDY1MTc5.-sAgazwr4oU6qKERNfS9rx_fsF53JLs5uTyHGSzpcHUg.JF58RmuyTNFO044Jp4FwOOTty_brJ2QI8cgv6IzpB_0g.PNG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%EC%BF%A0%ED%8F%B0%EC%95%88%EB%82%B4_540x540.png",
   "source": "naver-lounge",
   "loungeId": "Awakening",
-  "sourceUrl": "https://game.naver.com/lounge/Awakening/board/detail/8168283",
+  "sourceUrl": "https://game.naver.com/lounge/Awakening/board/detail/8408078",
   "howTo": "",
-  "postCount": 16,
-  "updatedAt": "2026-11-04T03:30:51.075Z",
+  "postCount": 17,
+  "updatedAt": "2026-11-04T06:28:51.015Z",
   "codes": [
+    {
+      "code": "AW26114MERGE",
+      "reward": "",
+      "expiry": "2026-11-04",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "AW909COLLABO",
       "reward": "",

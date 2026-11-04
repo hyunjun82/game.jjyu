@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-04T03:43:27.255Z",
+  "updatedAt": "2026-11-04T06:25:02.775Z",
   "codes": [
+    {
+      "code": "CHAOS2026GO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461141141",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "HAPPY1YEARCZN",
       "reward": "",
@@ -86,16 +96,6 @@
       "firstSeen": "2026-10-13",
       "lastSeen": "2026-11-04",
       "status": "active"
-    },
-    {
-      "code": "CHAOS2026GO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461141141",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
     },
     {
       "code": "epicwithczn",

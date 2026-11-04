@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTA1/MDAxNzkzNTg1MjM3NjE1.IH8sg5Sf8lH_682U9i4cvmXO-sDOWdIy_F-snf6Oml8g.9YJhwdHMteZ-rkuuNlNXIfw3jJ42djVESEGITd_orJIg.PNG/200x%EC%A3%BC%EA%B0%84%EC%BF%A0%ED%8F%B0.png",
   "source": "naver-lounge",
   "loungeId": "Soul_Strike",
-  "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8399464",
+  "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8408831",
   "howTo": "",
-  "postCount": 87,
-  "updatedAt": "2026-11-04T03:30:59.014Z",
+  "postCount": 89,
+  "updatedAt": "2026-11-04T06:29:00.682Z",
   "codes": [
+    {
+      "code": "DOOMS2SS",
+      "reward": "",
+      "expiry": "2026-11-10",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "SS11K7VM",
       "reward": "",
@@ -27,6 +36,15 @@
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-04",
       "status": "active"
+    },
+    {
+      "code": "공지",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-06-02",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "expired"
     },
     {
       "code": "SS10QL4U",
