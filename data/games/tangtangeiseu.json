@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-03T18:16:55.670Z",
+  "updatedAt": "2026-11-04T00:05:44.978Z",
   "codes": [
+    {
+      "code": "번호",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-04",
+      "sourceUrl": "https://blog.naver.com/rkdasf/224464163977",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "TRICKY",
       "reward": "",

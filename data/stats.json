@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T23:51:12.479Z",
+  "generatedAt": "2026-11-04T00:07:05.121Z",
   "today": "2026-11-04",
-  "todayNew": 6,
+  "todayNew": 8,
   "totals": {
     "games": 399,
-    "codes": 5577,
-    "active": 847,
-    "expired": 4730,
+    "codes": 5579,
+    "active": 872,
+    "expired": 4707,
     "withExpiry": 3244
   },
   "newByDate": [
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-04",
-      "count": 6
+      "count": 8
     }
   ],
   "expiringSoon": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "tangtangeiseu",
-      "active": 19,
-      "total": 19
+      "active": 20,
+      "total": 20
     },
     {
       "slug": "apex-girls",
@@ -446,6 +446,11 @@
       "total": 13
     },
     {
+      "slug": "samgukji-kingdom",
+      "active": 10,
+      "total": 11
+    },
+    {
       "slug": "sword-frontier",
       "active": 10,
       "total": 26
@@ -464,11 +469,6 @@
       "slug": "dokkaebiuisegye",
       "active": 9,
       "total": 16
-    },
-    {
-      "slug": "busy-savior",
-      "active": 8,
-      "total": 36
     }
   ],
   "noImage": 68

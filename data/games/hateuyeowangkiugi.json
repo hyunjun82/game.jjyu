@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-03T18:17:31.725Z",
+  "updatedAt": "2026-11-04T00:06:20.792Z",
   "codes": [
+    {
+      "code": "QUEEN2026GO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "RECLAIMTHRONE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "ALICEBACK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "hqwelcome",
       "reward": "",
@@ -26,36 +56,6 @@
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-04",
       "status": "active"
-    },
-    {
-      "code": "QUEEN2026GO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
-    {
-      "code": "RECLAIMTHRONE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
-    },
-    {
-      "code": "ALICEBACK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
     }
   ]
 }
