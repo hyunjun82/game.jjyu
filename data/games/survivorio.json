@@ -8,25 +8,25 @@
   "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8387608",
   "howTo": "(frost2026) 를 입력해 선물을 받으세요!",
   "postCount": 2,
-  "updatedAt": "2026-11-04T14:39:41.872Z",
+  "updatedAt": "2026-11-04T18:55:00.471Z",
   "codes": [
-    {
-      "code": "Halloween2026",
-      "reward": "",
-      "expiry": "2026-11-04",
-      "postedAt": "2026-10-30",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-04",
-      "status": "active"
-    },
     {
       "code": "frost2026",
       "reward": "",
       "expiry": "2026-11-07",
       "postedAt": "2026-10-23",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
+    },
+    {
+      "code": "Halloween2026",
+      "reward": "",
+      "expiry": "2026-11-04",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-05",
+      "status": "expired"
     },
     {
       "code": "colddew2026",

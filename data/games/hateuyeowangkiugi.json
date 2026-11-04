@@ -5,38 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-04T11:37:07.677Z",
+  "updatedAt": "2026-11-04T19:04:14.084Z",
   "codes": [
-    {
-      "code": "QUEEN2026GO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-04",
-      "status": "active"
-    },
-    {
-      "code": "RECLAIMTHRONE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-04",
-      "status": "active"
-    },
-    {
-      "code": "ALICEBACK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-04",
-      "status": "active"
-    },
     {
       "code": "hqwelcome",
       "reward": "",
@@ -44,7 +14,7 @@
       "postedAt": "2026-10-08",
       "sourceUrl": "https://blog.naver.com/jelly___0215/224435401108",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -54,8 +24,38 @@
       "postedAt": "2026-10-08",
       "sourceUrl": "https://blog.naver.com/jelly___0215/224435401108",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
+    },
+    {
+      "code": "QUEEN2026GO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "expired"
+    },
+    {
+      "code": "RECLAIMTHRONE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "expired"
+    },
+    {
+      "code": "ALICEBACK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461008129",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "expired"
     }
   ]
 }

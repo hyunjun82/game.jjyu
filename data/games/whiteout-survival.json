@@ -5,8 +5,48 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-04T14:24:02.103Z",
+  "updatedAt": "2026-11-04T18:57:36.246Z",
   "codes": [
+    {
+      "code": "WOS1104",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "SpookySeason26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "GuDokYTKOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "gogoWOS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
     {
       "code": "WOS1025",
       "reward": "",
@@ -24,7 +64,7 @@
       "postedAt": "2026-10-19",
       "sourceUrl": "https://blog.naver.com/jjuba424/224446485286",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "expired"
     },
     {

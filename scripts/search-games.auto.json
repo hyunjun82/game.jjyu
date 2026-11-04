@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-04T11:22:09.410Z",
+  "generatedAt": "2026-11-04T18:50:11.495Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -15,16 +15,10 @@
       "titleEn": "F4 U"
     },
     {
-      "slug": "monsterhunteroutlanders",
-      "loungeId": "monsterhunteroutlanders",
-      "titleKo": "몬스터헌터 아웃랜더스",
-      "titleEn": "Monsterhunteroutlanders"
-    },
-    {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
+      "slug": "torchlight-infinite-kr",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight_Infinite"
     },
     {
       "slug": "arknights-endfield",
@@ -33,16 +27,22 @@
       "titleEn": "Arknights_Endfield"
     },
     {
-      "slug": "torchlight-infinite-kr",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight_Infinite"
+      "slug": "monsterhunteroutlanders",
+      "loungeId": "monsterhunteroutlanders",
+      "titleKo": "몬스터헌터 아웃랜더스",
+      "titleEn": "Monsterhunteroutlanders"
     },
     {
       "slug": "samgukji-kingdom",
       "loungeId": "Samgukji_Kingdom",
       "titleKo": "삼국지: 킹덤",
       "titleEn": "Samgukji_Kingdom"
+    },
+    {
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "pokemon-go",
@@ -57,34 +57,52 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "blade-m",
-      "loungeId": "BladeM",
-      "titleKo": "블레이드M",
-      "titleEn": "Blade M"
+      "slug": "bum-the-age-of-romance",
+      "loungeId": "BUM_The_age_of_Romance",
+      "titleKo": "범:낭만의 시대",
+      "titleEn": "Bum The Age Of Romance"
     },
     {
-      "slug": "brave-chess",
-      "loungeId": "BraveChess",
-      "titleKo": "브레이브 체스",
-      "titleEn": "Brave Chess"
+      "slug": "cabal-red",
+      "loungeId": "CABAL_RED",
+      "titleKo": "카발RED",
+      "titleEn": "Cabal Red"
     },
     {
-      "slug": "brave-puppy",
-      "loungeId": "BravePuppy",
-      "titleKo": "용감한 댕댕이",
-      "titleEn": "Brave Puppy"
+      "slug": "catoutdoor",
+      "loungeId": "catoutdoor",
+      "titleKo": "숲속 고양이마을",
+      "titleEn": "Catoutdoor"
     },
     {
-      "slug": "break3-k",
-      "loungeId": "Break3K",
-      "titleKo": "돌파 삼국지",
-      "titleEn": "Break3 K"
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
+    },
+    {
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
+    },
+    {
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
     },
     {
       "slug": "dragonblade-grow",
@@ -147,64 +165,10 @@
       "titleEn": "Star Of The Overlord"
     },
     {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
-    },
-    {
       "slug": "stone-three-kingdoms",
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
-    },
-    {
-      "slug": "wandering-mercenary-force",
-      "loungeId": "wandering_mercenary_force",
-      "titleKo": "방랑용병단",
-      "titleEn": "Wandering Mercenary Force"
-    },
-    {
-      "slug": "warphero",
-      "loungeId": "warphero",
-      "titleKo": "워프히어로",
-      "titleEn": "Warphero"
-    },
-    {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
-    },
-    {
-      "slug": "with",
-      "loungeId": "WITH",
-      "titleKo": "위드 : 신의 날개",
-      "titleEn": "With"
     },
     {
       "slug": "wtbk",

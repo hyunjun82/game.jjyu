@@ -7,8 +7,8 @@
   "loungeId": "RAAS",
   "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8407565",
   "howTo": "",
-  "postCount": 2241,
-  "updatedAt": "2026-11-04T14:39:35.454Z",
+  "postCount": 2247,
+  "updatedAt": "2026-11-04T18:54:52.163Z",
   "codes": [
     {
       "code": "COUNTDOWN02",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-04",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-11-03",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "tag": "사전예약",
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -44,7 +44,7 @@
       "expiry": "2030-12-31",
       "postedAt": "2026-10-31",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-29",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -74,7 +74,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -84,7 +84,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     }
   ]
