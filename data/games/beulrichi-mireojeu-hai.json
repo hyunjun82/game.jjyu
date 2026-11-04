@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-02T20:47:29.571Z",
+  "updatedAt": "2026-11-04T11:37:26.766Z",
   "codes": [
-    {
-      "code": "st3wk9yy",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-28",
-      "sourceUrl": "https://blog.naver.com/enoaxia/224457180664",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-03",
-      "status": "active"
-    },
     {
       "code": "BLEACH2026",
       "reward": "",
@@ -24,8 +14,8 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459993859",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
+      "lastSeen": "2026-11-04",
+      "status": "active"
     },
     {
       "code": "MIRRORSHIGH",
@@ -34,8 +24,8 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459993859",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
+      "lastSeen": "2026-11-04",
+      "status": "active"
     },
     {
       "code": "WELCOMEBLEACH",
@@ -44,7 +34,17 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459993859",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
+    {
+      "code": "st3wk9yy",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/enoaxia/224457180664",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-03",
       "status": "expired"
     }
   ]

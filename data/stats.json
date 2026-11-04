@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T06:33:56.434Z",
+  "generatedAt": "2026-11-04T11:38:27.371Z",
   "today": "2026-11-04",
-  "todayNew": 38,
+  "todayNew": 50,
   "totals": {
     "games": 403,
-    "codes": 5609,
-    "active": 900,
-    "expired": 4709,
-    "withExpiry": 3255
+    "codes": 5621,
+    "active": 950,
+    "expired": 4671,
+    "withExpiry": 3299
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-04",
-      "count": 38
+      "count": 50
     }
   ],
   "expiringSoon": [
@@ -371,6 +371,11 @@
   ],
   "topGames": [
     {
+      "slug": "soul-eater-idle",
+      "active": 42,
+      "total": 43
+    },
+    {
       "slug": "rogw-remains-of-gods",
       "active": 27,
       "total": 27
@@ -446,6 +451,11 @@
       "total": 13
     },
     {
+      "slug": "samgukji-kingdom",
+      "active": 10,
+      "total": 11
+    },
+    {
       "slug": "sword-frontier",
       "active": 10,
       "total": 26
@@ -459,16 +469,6 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "active": 9,
-      "total": 10
-    },
-    {
-      "slug": "dokkaebiuisegye",
-      "active": 9,
-      "total": 16
     }
   ],
   "noImage": 72

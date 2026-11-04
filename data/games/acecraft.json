@@ -2,14 +2,23 @@
   "slug": "acecraft",
   "titleEn": "Acecraft",
   "titleKo": "ACECRAFT",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjk0/MDAxNzkzMzUzODE4MDg0.Lj4CACu2NDMScyjqakBQFRdDWInqb2xv4KCXl6FtYMIg.CWMGhRNJ_Ft5kO6Qu0yPT40jGsnm4Ceu2kVIN6giiQQg.PNG/%EC%9D%B8_%EA%B2%8C%EC%9E%84_%EC%9D%B4%EB%B2%A4%ED%8A%B81.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjA5/MDAxNzkzNzkwMjMwMjUy.mmerErRgCM-3xuLLd-itgr--0jevXlWQj170lFtRnCkg.TrmUbNnQS2-oOWLrjJLhSdsDanofwCf8V3uT99yCrH8g.PNG/%EA%B3%B5%EC%A7%80_%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "ACECRAFT",
-  "sourceUrl": "https://game.naver.com/lounge/ACECRAFT/board/detail/8396803",
+  "sourceUrl": "https://game.naver.com/lounge/ACECRAFT/board/detail/8410522",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-11-04T06:33:18.449Z",
+  "postCount": 3,
+  "updatedAt": "2026-11-04T11:26:45.791Z",
   "codes": [
+    {
+      "code": "SPOOKYGIFT",
+      "reward": "",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-04",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04",
+      "status": "active"
+    },
     {
       "code": "SPJOEYGO",
       "reward": "",
