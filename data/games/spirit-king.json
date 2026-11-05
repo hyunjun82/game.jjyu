@@ -2,14 +2,41 @@
   "slug": "spirit-king",
   "titleEn": "Spirit King",
   "titleKo": "정령킹 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMjQw/MDAxNzkyOTgzMzYyMjAx.h9gFN7g6kI8eto6S5PTZ97EhMJ9ahdPjuEL5iIBusoIg.hmO8hir996fSAmsqhhcse6gYkhlQW13S-THJPsN8PXUg.PNG/%EC%83%81%ED%95%98%EB%8B%A8_%EC%BF%A0%ED%8F%B0%EB%B3%B4%EC%83%81_100.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMjQz/MDAxNzkyOTgzMzYyMjI5.mBm2gy81M7XvBxROUgRWSQWpB4fqsBaRR1ziWVSyM3Qg.SVmTiCfM03_jZnVTuZznHU52dpziFaApF6HGaP9cMXIg.PNG/%EC%83%81%ED%95%98%EB%8B%A8_%EC%BF%A0%ED%8F%B0%EB%B3%B4%EC%83%81_700.png",
   "source": "naver-lounge",
   "loungeId": "Spirit_King",
-  "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8402258",
+  "sourceUrl": "https://game.naver.com/lounge/Spirit_King/board/detail/8414304",
   "howTo": "",
-  "postCount": 47,
-  "updatedAt": "2026-11-05T00:19:32.232Z",
+  "postCount": 49,
+  "updatedAt": "2026-11-05T06:52:21.766Z",
   "codes": [
+    {
+      "code": "7AOMXNZKHQ",
+      "reward": "",
+      "expiry": "2026-11-12",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "KXOQNZLKZ",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "SWEETSPIRIT",
+      "reward": "",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
     {
       "code": "400DAYCELEBR4TE",
       "reward": "",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-05T00:39:06.220Z",
+  "generatedAt": "2026-11-05T06:57:12.087Z",
   "today": "2026-11-05",
-  "todayNew": 7,
+  "todayNew": 30,
   "totals": {
-    "games": 403,
-    "codes": 5628,
-    "active": 899,
-    "expired": 4729,
-    "withExpiry": 3300
+    "games": 404,
+    "codes": 5651,
+    "active": 940,
+    "expired": 4711,
+    "withExpiry": 3313
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-05",
-      "count": 7
+      "count": 30
     }
   ],
   "expiringSoon": [
@@ -401,14 +401,14 @@
       "total": 55
     },
     {
+      "slug": "idle-hero-but-save-the-world",
+      "active": 16,
+      "total": 64
+    },
+    {
       "slug": "aniimo",
       "active": 15,
       "total": 19
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "active": 15,
-      "total": 63
     },
     {
       "slug": "sword-immortal",
@@ -466,9 +466,9 @@
       "total": 16
     },
     {
-      "slug": "samgukji-kingdom",
+      "slug": "raas",
       "active": 9,
-      "total": 11
+      "total": 9
     }
   ],
   "noImage": 73
