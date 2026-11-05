@@ -5,20 +5,30 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-05T00:00:31.952Z",
+  "updatedAt": "2026-11-05T07:21:16.145Z",
   "codes": [
     {
-      "code": "TRICKY",
+      "code": "ACE888",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/doek11/224461116345",
-      "firstSeen": "2026-11-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/urania800/224466022161",
+      "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
       "code": "ACETOP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/urania800/224466022161",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "TRICKY",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-01",

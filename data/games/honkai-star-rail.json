@@ -5,8 +5,28 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-04T23:52:56.594Z",
+  "updatedAt": "2026-11-05T07:14:01.526Z",
   "codes": [
+    {
+      "code": "DSLSPNBREASP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/hschoi82/224465553584",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "PearlAppraise",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/hschoi82/224465553584",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
     {
       "code": "RT4BPNA8FBS3",
       "reward": "",
@@ -51,24 +71,24 @@
       "code": "OMEGA",
       "reward": "",
       "expiry": "2026-11-18",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/hschoi82/224465553584",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-24",
-      "status": "active"
-    },
-    {
-      "code": "IFYOUAREREADINGTHIS",
-      "reward": "",
-      "expiry": "2026-11-18",
-      "postedAt": "2026-09-24",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224422095497",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-24",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
       "code": "FAREWELL",
+      "reward": "",
+      "expiry": "2026-11-18",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/hschoi82/224465553584",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "IFYOUAREREADINGTHIS",
       "reward": "",
       "expiry": "2026-11-18",
       "postedAt": "2026-09-24",
