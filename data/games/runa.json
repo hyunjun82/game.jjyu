@@ -1,0 +1,41 @@
+{
+  "slug": "runa",
+  "titleEn": "runa",
+  "titleKo": "루나",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-05T20:16:33.853Z",
+  "codes": [
+    {
+      "code": "AGRADE71",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224459189388",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "code": "PLUSPOWERLUNA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224459189388",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "code": "LOUITHEBOOST",
+      "reward": "",
+      "expiry": "2026-11-03",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224459189388",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "expired"
+    }
+  ]
+}

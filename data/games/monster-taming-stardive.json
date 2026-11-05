@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-05T07:15:34.737Z",
+  "updatedAt": "2026-11-05T20:09:34.777Z",
   "codes": [
+    {
+      "code": "MAKEANDDESTROY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/rjdlrose/224466398474",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "HAPPYHALF1014",
       "reward": "",
@@ -14,7 +24,7 @@
       "postedAt": "2026-10-15",
       "sourceUrl": "https://blog.naver.com/alfson/224442492860",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {

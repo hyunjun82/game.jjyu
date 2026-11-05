@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-05T16:04:53.973Z",
+  "generatedAt": "2026-11-05T20:22:12.350Z",
   "today": "2026-11-06",
-  "todayNew": 5,
+  "todayNew": 18,
   "totals": {
-    "games": 404,
-    "codes": 5659,
-    "active": 903,
-    "expired": 4756,
-    "withExpiry": 3317
+    "games": 405,
+    "codes": 5672,
+    "active": 890,
+    "expired": 4782,
+    "withExpiry": 3325
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-06",
-      "count": 5
+      "count": 18
     }
   ],
   "expiringSoon": [
@@ -382,7 +382,7 @@
     },
     {
       "slug": "tangtangeiseu",
-      "active": 20,
+      "active": 19,
       "total": 21
     },
     {
@@ -461,15 +461,15 @@
       "total": 10
     },
     {
+      "slug": "chaos-zero-nightmare",
+      "active": 9,
+      "total": 11
+    },
+    {
       "slug": "honkai-star-rail",
       "active": 9,
       "total": 35
-    },
-    {
-      "slug": "warline",
-      "active": 9,
-      "total": 9
     }
   ],
-  "noImage": 73
+  "noImage": 74
 }

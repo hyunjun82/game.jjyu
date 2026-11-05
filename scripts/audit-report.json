@@ -1,46 +1,45 @@
 {
- "generatedAt": "2026-11-04T23:34:04.041Z",
- "window": "20261103~20261105",
- "lounges": 2368,
- "posts": 596,
- "couponPosts": 37,
- "fixedTracked": [],
+ "generatedAt": "2026-11-05T19:51:23.006Z",
+ "window": "20261104~20261106",
+ "lounges": 2371,
+ "posts": 610,
+ "couponPosts": 39,
+ "fixedTracked": [
+  "나 혼자 만렙 키우기 | 2NDANNIVERSARYWITH2 | [공지사항] 11/19(목) 2주년 업데이트 예고 2차 안내"
+ ],
  "addedLounges": [],
  "labelOnly": [
-  "치지직 | 2026-11-03 | [월즈 2026] 토너먼트 스테이지(8강~결승) 배달의민족 쿠폰 시청 드롭스 이벤트 안내",
-  "다크엔젤:천사 강림 | 2026-11-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.03~11.09)",
-  "드래곤에어 : 침묵의 신 | 2026-11-03 | 【이벤트】 🍺 선술집 게시판 - 신의 기적이 일어났다!? 📜",
+  "이사만루26 | 2026-11-05 | [이벤트] 키워드 쿠폰 이벤트 안내",
+  "조선협객전 클래식 | 2026-11-05 | [안내] '더' 빠른 부스팅 신규 월드 '여주' 사전예약 안내",
+  "라스트 소녀 전사 | 2026-11-06 | 🎄 신서버 S6109 오픈 안내",
+  "드래곤에어 : 침묵의 신 | 2026-11-05 | 【이벤트】 🎲 굴러라 주사위 - 이벤트 미리보기 & 댓글 이벤트 🎁",
   "드림 가든: 추억의 힐링 경영 | 2026-11-04 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "부족 또 전쟁 : 무한루프 RPG | 2026-11-03 | 🎃 [보상 공개] 트릭 오어 트릿! 사탕 뽑기! 🍬🎁",
-  "호드 워:어벤저의 소환 | 2026-11-03 | 주간 이벤트-퀴즈를 풀어보세요!(11/3-11/8)",
-  "스카이 어비스: 혈맹의 서약 | 2026-11-03 | [라운지 이벤트]주간 퀴즈 이벤트(11/3-11/9)",
-  "스카이 어비스: 혈맹의 서약 | 2026-11-03 | [⭐최대 20%아이템 캐시백]11/2~11/4 한정 누적 충전 혜택 안내",
+  "호드 워:어벤저의 소환 | 2026-11-05 | 📅11월 출체 이벤트(11/5-11/12)",
+  "I9: 인페르노 나인 | 2026-11-05 | 🎮각성자 유형 테스트!접속 루틴으로 알아보는 나의 유형!",
+  "삼국지 오리진2: 적벽대전 | 2026-11-05 | 3주년 페스티벌 제3탄: 일일 쿠폰(11/5~11/8)",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-06 | [💥역대급 캐시백]11/6~11/11 한정 누적 충전 혜택 안내",
   "슬라임 군단 | 2026-11-04 | [이벤트]슬라임 미니 퀴즈 2탄! ",
-  "소드 x 스태프: 화산귀환 콜라보 | 2026-11-04 |  [소드 x 스태프] 정식 출시 기념, 2차 1,000만 원 이벤트 진행 중! ",
-  "숲의 소환단:방치형 판타지 수집 RPG | 2026-11-03 | [안내] 3-1 탐험 퀘스트 (나무통 위치 조정)",
-  "다크엔젤: 심연의 날개 | 2026-11-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.03~11.09) ",
-  "열혈강호: 넥스트 | 2026-11-03 | 【갤스토어 쿠폰 증정!!】신규 직업 '미고' 인증샷 이벤트"
+  "소드 x 스태프: 화산귀환 콜라보 | 2026-11-04 |  [소드 x 스태프] 정식 출시 기념, 2차 1,000만 원 이벤트 진행 중! "
  ],
  "imageOnly": [
   {
-   "game": "치지직",
-   "loungeId": "chzzk",
-   "feedId": 8404855,
-   "date": "2026-11-03",
-   "title": "[월즈 2026] 토너먼트 스테이지(8강~결승) 배달의민족 쿠폰 시청 드롭스 이벤트 안내",
+   "game": "이사만루26",
+   "loungeId": "24manru3",
+   "feedId": 8414803,
+   "date": "2026-11-05",
+   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDJfMjYx/MDAxNzkzNjA1NzkwODY2.63iGF2Mpl4LkDJA_-Gvh7j_NSWkxDduq4FglTXcTTXEg.dIb1bRGTu-uepUt8GB39lQ--uXFk5Qw63ftBLrmTAWMg.PNG/preview.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMDJfNiAg/MDAxNzkzNjA1OTE0MDE2.YayWCLGkbLELcxcEiIDLuAF39C75pEWkddDjT12BoyUg.7s1Ox16ZtLUQaAQFvKG_SsxEQEIqPBS6d_JiQXPGTHsg.PNG/%EC%B1%84%EB%84%90_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
    ]
   },
   {
-   "game": "삼국지: 킹덤",
-   "loungeId": "Samgukji_Kingdom",
-   "feedId": 8404513,
-   "date": "2026-11-03",
-   "title": "[이벤트] ❄️ 겨울 맞이 감사 선물! 캐시 쿠폰 충전 혜택 이벤트 안내",
+   "game": "삼국지 오리진2: 적벽대전",
+   "loungeId": "samgukji_origin2",
+   "feedId": 8413008,
+   "date": "2026-11-05",
+   "title": "3주년 페스티벌 제3탄: 일일 쿠폰(11/5~11/8)",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTkg/MDAxNzkzNjkxMDY5MTY2.xAhlxUPeakIx8wq0pv6869n0CTviikDtKIQBTPaf9qkg.Kgab4yVvb-APbAo-XQXswiNrCbDgyC3DwCjvfmAhjjAg.JPEG/%E6%B4%BB%E5%8A%A8-850x170.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNDA0MjZfMjU4/MDAxNzE0MTIwMzgyMTUx.dGnQqPfcfP3F5DO584ZKnuErStXNAxvukMp9LZ3vv9Ig.UJMDBwQgPvuv2G3Kv0ntZjITQlOjxc_SvF24KGUAXnkg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678"
    ]
   }
  ]

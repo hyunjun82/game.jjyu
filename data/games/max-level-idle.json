@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMjQx/MDAxNzkzNzA2ODg2MDIz.f2eg49vOwCucwLH2aBJJ3OIqpYvKn8FyvhoGctqwrYQg.UViF6jlfzr1dsKS5GiWfE6Ir7Hn-oS7uA_4wt7Fsv4kg.PNG/image.png",
   "source": "naver-lounge",
   "loungeId": "Max_Level_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Max_Level_Idle/board/detail/8406202",
+  "sourceUrl": "https://game.naver.com/lounge/Max_Level_Idle/board/detail/8416806",
   "howTo": "게임 화면 오른쪽 위 메뉴의 **[설정 → 쿠폰]**에서 쿠폰 코드를 입력하시면 보상이 우편함으로 지급됩니다. ※ 쿠폰 코드는 띄어쓰기 없이 붙여 쓰셔야 정상 반영이 됩니다. ※",
-  "postCount": 119,
-  "updatedAt": "2026-11-05T15:47:23.623Z",
+  "postCount": 120,
+  "updatedAt": "2026-11-05T20:18:01.235Z",
   "codes": [
+    {
+      "code": "2NDANNIVERSARYWITH2",
+      "reward": "",
+      "expiry": "2026-12-16",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "2NDTHANKYOULOVEU",
       "reward": "",

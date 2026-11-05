@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-05T07:23:15.457Z",
+  "updatedAt": "2026-11-05T20:16:24.832Z",
   "codes": [
+    {
+      "code": "WORLDOPEN",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/orin2611/224466392791",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "code": "LUCKYGACHA",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/orin2611/224466392791",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "code": "LEVELUPNOW",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/orin2611/224466392791",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "ssgfpre",
       "reward": "",
@@ -14,7 +44,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -24,7 +54,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -34,7 +64,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -44,7 +74,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -54,7 +84,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -64,7 +94,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     }
   ]

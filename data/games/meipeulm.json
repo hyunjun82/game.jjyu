@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-02T20:46:47.666Z",
+  "updatedAt": "2026-11-05T20:14:42.279Z",
   "codes": [
     {
       "code": "CRIMSONXBDM",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "HEIDEL2026",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "PLAYEASIER",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "FORYOURGROWTH",
@@ -44,8 +44,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "THANKS4FEEDBACK",
@@ -54,8 +54,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "PRESENTFROMGM",
@@ -64,8 +64,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "DEVCOMMENTARY26",
@@ -74,8 +74,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "OUR10YEARS",
@@ -84,8 +84,8 @@
       "postedAt": "2026-10-22",
       "sourceUrl": "https://blog.naver.com/sns_gram/224449920985",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-03",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     }
   ]
 }
