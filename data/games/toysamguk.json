@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/toysamguk/board/detail/8404304",
   "howTo": "스텝1) 왼쪽 위의 프로필 버튼 스텝2) 하단의 교환코드 버튼 스텝3) 쿠폰번호 입력 및 보상 수령",
   "postCount": 2,
-  "updatedAt": "2026-11-05T07:11:43.301Z",
+  "updatedAt": "2026-11-05T15:51:04.582Z",
   "codes": [
     {
       "code": "k7P2mX",
@@ -16,7 +16,7 @@
       "expiry": "2026-12-05",
       "postedAt": "2026-11-03",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": "2026-11-05",
       "postedAt": "2026-10-27",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-05",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "ToyOpen",

@@ -2,21 +2,31 @@
   "slug": "raas",
   "titleEn": "RAAS",
   "titleKo": "전생했더니 검 한 자루",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfMjQx/MDAxNzkzODQyNTUxNzky.z0ZmCQzFM-qc7q1qBNUX3P8iCwBbqfrD2-vQLaYOL8Qg.w19pV7sU8OvggjSiknsX97cW6guQFP_Xj9z49qgEJZ8g.JPEG/D1-2560x1480.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfNTUg/MDAxNzkzODczMjk0NjQx.TKlgVgxTbAk10EJZWnVFn-0UdH9EidpXX5rEBtZhDyog.hHfmFJj1Wwa5dUTnMcCWOkYsuhmEPI-1S6o5jmf3HaYg.JPEG/%EC%9D%B8%EC%9B%90%EC%88%98100W-2560x1480.jpg",
   "source": "naver-lounge",
   "loungeId": "RAAS",
-  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8413162",
+  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8415466",
   "howTo": "",
-  "postCount": 2268,
-  "updatedAt": "2026-11-05T07:11:29.298Z",
+  "postCount": 2333,
+  "updatedAt": "2026-11-05T15:50:47.428Z",
   "codes": [
+    {
+      "code": "100RAAS",
+      "reward": "",
+      "expiry": "2030-12-31",
+      "tag": "사전예약",
+      "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "COUNTDOWN01",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-05",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -25,7 +35,7 @@
       "expiry": null,
       "postedAt": "2026-11-04",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -34,7 +44,7 @@
       "expiry": null,
       "postedAt": "2026-11-03",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -44,7 +54,7 @@
       "tag": "사전예약",
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -53,7 +63,7 @@
       "expiry": "2030-12-31",
       "postedAt": "2026-10-31",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -63,7 +73,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-29",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -73,7 +83,7 @@
       "tag": "사전예약",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "active"
     },
     {
@@ -83,8 +93,8 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-05",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     },
     {
       "code": "PREGIFT26",
@@ -93,8 +103,8 @@
       "tag": "사전예약",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-05",
-      "status": "active"
+      "lastSeen": "2026-11-06",
+      "status": "expired"
     }
   ]
 }

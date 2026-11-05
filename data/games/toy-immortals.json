@@ -8,17 +8,8 @@
   "sourceUrl": "https://game.naver.com/lounge/Toy_Immortals/board/detail/8386856",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-11-05T07:11:37.940Z",
+  "updatedAt": "2026-11-05T15:50:59.235Z",
   "codes": [
-    {
-      "code": "TOY10THANKS",
-      "reward": "",
-      "expiry": "2026-11-05",
-      "postedAt": "2026-10-30",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-05",
-      "status": "active"
-    },
     {
       "code": "TOYSOPEN",
       "reward": "",
@@ -50,12 +41,21 @@
       "status": "active"
     },
     {
+      "code": "TOY10THANKS",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-06",
+      "status": "expired"
+    },
+    {
       "code": "TOYGUK1020",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-20",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-06",
       "status": "expired"
     },
     {
