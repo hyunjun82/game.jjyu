@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-04T19:05:04.279Z",
+  "updatedAt": "2026-11-05T00:02:22.250Z",
   "codes": [
+    {
+      "code": "BEST1004",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/sunflower-lab/224465433068",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
     {
       "code": "FJ45NZYSB1",
       "reward": "",

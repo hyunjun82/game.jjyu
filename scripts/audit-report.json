@@ -1,41 +1,25 @@
 {
- "generatedAt": "2026-11-04T06:00:19.358Z",
- "window": "20261102~20261104",
+ "generatedAt": "2026-11-04T23:34:04.041Z",
+ "window": "20261103~20261105",
  "lounges": 2368,
- "posts": 698,
- "couponPosts": 62,
- "fixedTracked": [
-  "잠룡: 무협 도트 RPG | AW26114MERGE | 11월 4일(수) 서버 통합 기념 쿠폰 안내",
-  "에브리타운 | ILOVELOOPY | [이벤트] 잔망💗쿠폰 [ILOVELOOPY](~11/30)",
-  "모던 워쉽 | WH-7 | [이벤트] 그림자 거래 ",
-  "오피스 퀸 키우기 | S1-S191 | [이벤트] 「오피스 퀸 키우기」 SP 극야 장미!! 11월5일~11월8일",
-  "삼국지 오리진 | 1681-5d9702351-1 | 주간 이벤트 367탄",
-  "삼국지: 제후의 전쟁 | 1681-5d9702351-1 | [제후의 전쟁] 주간 이벤트 9탄",
-  "소울 스트라이크 | DOOMS2SS | 종말의 전장에 보급이 도착했습니다! ⚔️",
-  "발할라 서바이벌 | 26COUNOV | 11월 월간 쿠폰 이벤트 안내"
- ],
+ "posts": 596,
+ "couponPosts": 37,
+ "fixedTracked": [],
  "addedLounges": [],
  "labelOnly": [
-  "이터널 리턴 | 2026-11-02 | 개발팀과의 만남 for Season 13 방송 안내",
   "치지직 | 2026-11-03 | [월즈 2026] 토너먼트 스테이지(8강~결승) 배달의민족 쿠폰 시청 드롭스 이벤트 안내",
   "다크엔젤:천사 강림 | 2026-11-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.03~11.09)",
   "드래곤에어 : 침묵의 신 | 2026-11-03 | 【이벤트】 🍺 선술집 게시판 - 신의 기적이 일어났다!? 📜",
   "드림 가든: 추억의 힐링 경영 | 2026-11-04 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "부족 또 전쟁 : 무한루프 RPG | 2026-11-03 | 🎃 [보상 공개] 트릭 오어 트릿! 사탕 뽑기! 🍬🎁",
   "호드 워:어벤저의 소환 | 2026-11-03 | 주간 이벤트-퀴즈를 풀어보세요!(11/3-11/8)",
-  "이모탈 라이징: 불멸의 각성 | 2026-11-02 | 두 신이 강림했다 (교환 코드가 포함되어 있습니다)",
-  "라테일 플러스 | 2026-11-02 | 900일 감사 쿠폰🎁",
-  "전생했더니 검 한 자루 | 2026-11-02 | 🎮닌텐도 스위치 획득 기회! 기대평 남기기 이벤트💙",
   "스카이 어비스: 혈맹의 서약 | 2026-11-03 | [라운지 이벤트]주간 퀴즈 이벤트(11/3-11/9)",
   "스카이 어비스: 혈맹의 서약 | 2026-11-03 | [⭐최대 20%아이템 캐시백]11/2~11/4 한정 누적 충전 혜택 안내",
   "슬라임 군단 | 2026-11-04 | [이벤트]슬라임 미니 퀴즈 2탄! ",
-  "소드 앤 프론티아 | 2026-11-02 | 주간 미니 이벤트✨기억력 테스트🔔",
   "소드 x 스태프: 화산귀환 콜라보 | 2026-11-04 |  [소드 x 스태프] 정식 출시 기념, 2차 1,000만 원 이벤트 진행 중! ",
   "숲의 소환단:방치형 판타지 수집 RPG | 2026-11-03 | [안내] 3-1 탐험 퀘스트 (나무통 위치 조정)",
-  "트릭컬 리바이브 | 2026-11-02 | [쿠폰] 포브스 코리아 선정 프리미엄 브랜드 1위 기념 쿠폰 안내",
   "다크엔젤: 심연의 날개 | 2026-11-03 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.03~11.09) ",
-  "열혈강호: 넥스트 | 2026-11-03 | 【갤스토어 쿠폰 증정!!】신규 직업 '미고' 인증샷 이벤트",
-  "열혈강호: 화룡전 | 2026-11-02 | [쿠폰] 11월 주간 쿠폰 지급 안내 "
+  "열혈강호: 넥스트 | 2026-11-03 | 【갤스토어 쿠폰 증정!!】신규 직업 '미고' 인증샷 이벤트"
  ],
  "imageOnly": [
   {
@@ -50,27 +34,6 @@
    ]
   },
   {
-   "game": "이모탈 라이징: 불멸의 각성",
-   "loungeId": "ImmortalRising",
-   "feedId": 8399459,
-   "date": "2026-11-02",
-   "title": "두 신이 강림했다 (교환 코드가 포함되어 있습니다)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDJfOTkg/MDAxNzkzNTg1ODU4NTc2.91NHsBAAVAQ1DCczbyUbC1qB29slq-nqusQ0H5xJ1Lwg.pkIf49BIyOeA0B2IBRrGpEGREDgYR2ZHauNvTidwZNYg.PNG/mot%E5%AD%9F%E5%A9%86%E6%96%AF%E5%8D%A1%E8%92%82.png?type=w1678"
-   ]
-  },
-  {
-   "game": "라테일 플러스",
-   "loungeId": "Latale_Plus",
-   "feedId": 8400574,
-   "date": "2026-11-02",
-   "title": "900일 감사 쿠폰🎁",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA3MjNfMTc5/MDAxNzg0Nzg4NDY3MTY5.10e5FFVcD8O1shnDLNqCVWOMVCBHczgHOG3Cwu0y_U8g.OOAuesnY7E_jFwlM_OeW_ZS1t-cn0iQUC38FpeliIYEg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjAzMDRfMjc0/MDAxNzcyNTg4NTQ4Mzgw.rROJSlbQBCDduj0Ons4NcVIDf6BqtenVBBSP1aLu8kog.gjPtmtGjlZigbEGMY8fz0q64-sM0Laoxn579t2IDEzMg.PNG/%ED%95%98%EB%8B%A8_740x130.png?type=w1678"
-   ]
-  },
-  {
    "game": "삼국지: 킹덤",
    "loungeId": "Samgukji_Kingdom",
    "feedId": 8404513,
@@ -78,28 +41,6 @@
    "title": "[이벤트] ❄️ 겨울 맞이 감사 선물! 캐시 쿠폰 충전 혜택 이벤트 안내",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTkg/MDAxNzkzNjkxMDY5MTY2.xAhlxUPeakIx8wq0pv6869n0CTviikDtKIQBTPaf9qkg.Kgab4yVvb-APbAo-XQXswiNrCbDgyC3DwCjvfmAhjjAg.JPEG/%E6%B4%BB%E5%8A%A8-850x170.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "트릭컬 리바이브",
-   "loungeId": "Trickcal",
-   "feedId": 8399569,
-   "date": "2026-11-02",
-   "title": "[쿠폰] 포브스 코리아 선정 프리미엄 브랜드 1위 기념 쿠폰 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDJfOTQg/MDAxNzkzNTg3MDcwODY4.YwpAhV06FBLXSXhfFo1ReBxbg6cwIsGiqvqIas-Bbugg.LjQSHzRUVp-aBTrprtoGtvmKtCqO6dL2JgUMFvzYsmog.GIF/3.gif?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTMw/MDAxNzkzNTg3MDg1Nzc2.mKNFzA2MjHrfRbL4q_7-eQgJRofKALS2tG-KEwr3HxAg.2suW089Fp87StnJzbLD7OiRaXxckJM9co1vRjCdpkZog.GIF/1.gif?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMDJfMTE5/MDAxNzkzNTg3MDQwMzkz.Ah1K93ZDR7wj6DpyLE356MyZIEROj2zVMClGVAzwoGMg.vm1RcMh0RMWD9KRG0klhULwTEy5dJOfLen0rfdaCrnkg.PNG/3_3.png?type=w1678"
-   ]
-  },
-  {
-   "game": "열혈강호: 화룡전",
-   "loungeId": "Yulgang_Fire_Dragon_Tale",
-   "feedId": 8399227,
-   "date": "2026-11-02",
-   "title": "[쿠폰] 11월 주간 쿠폰 지급 안내 ",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNTExMDNfMjA1/MDAxNzYyMTMxOTQ0MDc4.nq7KIv0qPVRaEfpOWKlkxckD7eEIrnio4n3cB7bo2SIg.zEiKjMcL_ZVY5VWOPFJkLazbM9Lk5gwJzhfRLVnqFWcg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678"
    ]
   }
  ]

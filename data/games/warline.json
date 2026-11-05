@@ -5,8 +5,68 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-04T11:38:11.040Z",
+  "updatedAt": "2026-11-05T00:02:28.890Z",
   "codes": [
+    {
+      "code": "WARLINES1",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/chulgeun3/224465313044",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "WARLINEOBT",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/chulgeun3/224465313044",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "GUIDEMAKER",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/chulgeun3/224465313044",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "WARLINESTR",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/chulgeun3/224465313044",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "WARLINETAC",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/chulgeun3/224465313044",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
+    {
+      "code": "WARLINEVIC",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/chulgeun3/224465313044",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05",
+      "status": "active"
+    },
     {
       "code": "WARLINE2026",
       "reward": "",
@@ -14,7 +74,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461031556",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -24,7 +84,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461031556",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     },
     {
@@ -34,7 +94,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461031556",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-05",
       "status": "active"
     }
   ]

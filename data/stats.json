@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T19:05:19.961Z",
+  "generatedAt": "2026-11-05T00:08:18.008Z",
   "today": "2026-11-05",
-  "todayNew": 5,
+  "todayNew": 19,
   "totals": {
-    "games": 403,
-    "codes": 5626,
-    "active": 898,
-    "expired": 4728,
-    "withExpiry": 3299
+    "games": 404,
+    "codes": 5640,
+    "active": 932,
+    "expired": 4708,
+    "withExpiry": 3306
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-05",
-      "count": 5
+      "count": 19
     }
   ],
   "expiringSoon": [
@@ -466,10 +466,10 @@
       "total": 16
     },
     {
-      "slug": "busy-savior",
-      "active": 8,
-      "total": 36
+      "slug": "samgukji-kingdom",
+      "active": 9,
+      "total": 11
     }
   ],
-  "noImage": 72
+  "noImage": 73
 }
