@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-05T15:46:14.635Z",
+  "generatedAt": "2026-11-05T21:38:07.648Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -45,21 +45,27 @@
       "titleEn": "Samgukji_Kingdom"
     },
     {
+      "slug": "rin-m",
+      "loungeId": "RinM",
+      "titleKo": "린M:잊혀진 유산",
+      "titleEn": "Rin M"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "포켓몬 GO",
+      "titleKo": "Pokemon_GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -83,61 +89,19 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
-    },
-    {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
-    },
-    {
-      "slug": "leubens-adventure",
-      "loungeId": "Leubens_Adventure",
-      "titleKo": "루벤의 대모험",
-      "titleEn": "Leubens Adventure"
-    },
-    {
-      "slug": "lost-era-mupa",
-      "loungeId": "LostEra_Mupa",
-      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
-      "titleEn": "Lost Era Mupa"
-    },
-    {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
-    },
-    {
-      "slug": "magical-ink",
-      "loungeId": "Magical_Ink",
-      "titleKo": "마법의 잉크",
-      "titleEn": "Magical Ink"
-    },
-    {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
-    },
-    {
-      "slug": "mecha-break",
-      "loungeId": "Mecha_BREAK",
-      "titleKo": "메카 브레이크",
-      "titleEn": "Mecha Break"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "플레이투게더",
+      "titleKo": "Play_Together",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -149,7 +113,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
