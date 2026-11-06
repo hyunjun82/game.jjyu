@@ -5,10 +5,10 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfNTUg/MDAxNzkzODczMjk0NjQx.TKlgVgxTbAk10EJZWnVFn-0UdH9EidpXX5rEBtZhDyog.hHfmFJj1Wwa5dUTnMcCWOkYsuhmEPI-1S6o5jmf3HaYg.JPEG/%EC%9D%B8%EC%9B%90%EC%88%98100W-2560x1480.jpg",
   "source": "naver-lounge",
   "loungeId": "RAAS",
-  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8415466",
+  "sourceUrl": "https://game.naver.com/lounge/RAAS/board/detail/8418467",
   "howTo": "",
-  "postCount": 2344,
-  "updatedAt": "2026-11-05T21:42:33.922Z",
+  "postCount": 2387,
+  "updatedAt": "2026-11-06T02:05:47.742Z",
   "codes": [
     {
       "code": "100RAAS",
@@ -16,6 +16,15 @@
       "expiry": "2030-12-31",
       "tag": "사전예약",
       "postedAt": "2026-11-05",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
+    {
+      "code": "3RR13B9",
+      "reward": "",
+      "expiry": "2027-06-30",
+      "postedAt": "2026-11-06",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-06",
       "status": "active"

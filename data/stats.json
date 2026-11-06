@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-05T21:56:01.091Z",
+  "generatedAt": "2026-11-06T02:21:22.954Z",
   "today": "2026-11-06",
-  "todayNew": 18,
+  "todayNew": 22,
   "totals": {
     "games": 405,
-    "codes": 5672,
-    "active": 890,
+    "codes": 5676,
+    "active": 894,
     "expired": 4782,
-    "withExpiry": 3325
+    "withExpiry": 3328
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-06",
-      "count": 18
+      "count": 22
     }
   ],
   "expiringSoon": [
@@ -279,6 +279,12 @@
       "days": 2
     },
     {
+      "slug": "dragonnest-world",
+      "code": "HAPPYWEEKLY1106U",
+      "expiry": "2026-11-08",
+      "days": 2
+    },
+    {
       "slug": "gauntlet-afk-rpg",
       "code": "2026HANGEUL",
       "expiry": "2026-11-08",
@@ -359,12 +365,6 @@
     {
       "slug": "tangtangeiseu",
       "code": "ACETW99",
-      "expiry": "2026-11-08",
-      "days": 2
-    },
-    {
-      "slug": "tangtangeiseu",
-      "code": "KRGIFT00",
       "expiry": "2026-11-08",
       "days": 2
     }

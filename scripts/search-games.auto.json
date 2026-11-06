@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-05T21:38:07.648Z",
+  "generatedAt": "2026-11-06T02:01:00.047Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -45,27 +45,27 @@
       "titleEn": "Samgukji_Kingdom"
     },
     {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
     },
     {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -89,19 +89,103 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "metempsychosis",
+      "loungeId": "metempsychosis",
+      "titleKo": "메템사이코시스",
+      "titleEn": "Metempsychosis"
+    },
+    {
+      "slug": "midnight-ghost-tales",
+      "loungeId": "midnight_ghost_tales",
+      "titleKo": "심야귀담",
+      "titleEn": "Midnight Ghost Tales"
+    },
+    {
+      "slug": "mir2-bounty",
+      "loungeId": "Mir2_Bounty",
+      "titleKo": "묵청대도: 바운티",
+      "titleEn": "Mir2 Bounty"
+    },
+    {
+      "slug": "mir2-rise-of-sabuk",
+      "loungeId": "Mir2_Rise_of_Sabuk",
+      "titleKo": "묵청대도: 깨어난 사북성",
+      "titleEn": "Mir2 Rise Of Sabuk"
+    },
+    {
+      "slug": "mnlkr",
+      "loungeId": "mnlkr",
+      "titleKo": "머지데이 나잇 라이브",
+      "titleEn": "Mnlkr"
+    },
+    {
+      "slug": "moeverse-live",
+      "loungeId": "MOEVERSE_LIVE",
+      "titleKo": "모에버스:라이브",
+      "titleEn": "Moeverse Live"
+    },
+    {
+      "slug": "monstage",
+      "loungeId": "Monstage",
+      "titleKo": "몬스테이지",
+      "titleEn": "Monstage"
+    },
+    {
+      "slug": "monster-never-cry",
+      "loungeId": "Monster_Never_Cry",
+      "titleKo": "마왕만만세",
+      "titleEn": "Monster Never Cry"
+    },
+    {
+      "slug": "fellow-moon",
+      "loungeId": "FellowMoon",
+      "titleKo": "신월동행",
+      "titleEn": "Fellow Moon"
+    },
+    {
+      "slug": "moris-nightmare-hide-and-seek-multi",
+      "loungeId": "Moris_Nightmare_Hide_and_seek_Multi",
+      "titleKo": "공포의 술래잡기",
+      "titleEn": "Moris Nightmare Hide And Seek Multi"
+    },
+    {
+      "slug": "mushroom-hero",
+      "loungeId": "mushroom_hero",
+      "titleKo": "버섯 키우기: 머쉬룸 히어로",
+      "titleEn": "Mushroom Hero"
+    },
+    {
+      "slug": "my-little-paradise",
+      "loungeId": "MY_LITTLE_PARADISE",
+      "titleKo": "마이 리틀 파라다이스",
+      "titleEn": "My Little Paradise"
+    },
+    {
+      "slug": "mzsamguk",
+      "loungeId": "MZSAMGUK",
+      "titleKo": "MZ삼국지",
+      "titleEn": "Mzsamguk"
+    },
+    {
+      "slug": "neural-cloud",
+      "loungeId": "Neural_Cloud",
+      "titleKo": "뉴럴 클라우드",
+      "titleEn": "Neural Cloud"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "Play_Together",
+      "titleKo": "플레이투게더",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -111,9 +195,15 @@
       "titleEn": "Redmythnezha"
     },
     {
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
+    },
+    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -139,6 +229,12 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "zombie-hunter",
+      "loungeId": "ZombieHunter",
+      "titleKo": "이세계 좀비 헌터",
+      "titleEn": "Zombie Hunter"
     },
     {
       "slug": "tree-world",

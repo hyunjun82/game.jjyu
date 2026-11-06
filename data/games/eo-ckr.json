@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA3MDVfMjM4/MDAxNzIwMTcyNjk3NDkw.KOsjl-1h-q7tnbV9jU-TRpJukffX0ITptFTv-YEw24wg.tqb4i_8nm8ZYuypM2HPntgYUjOFVB1HM0BzGowvBIY0g.JPEG/en_logo.jpg",
   "source": "naver-lounge",
   "loungeId": "EoCKR",
-  "sourceUrl": "https://game.naver.com/lounge/EoCKR/board/detail/8385406",
+  "sourceUrl": "https://game.naver.com/lounge/EoCKR/board/detail/8418159",
   "howTo": "- 교환 기간 : 공지 게시 후 ~ 2026/12/31 23:59 (UTC) 항상 두근거리는 전장이 되길 바라겠습니다.",
-  "postCount": 194,
-  "updatedAt": "2026-11-05T21:41:23.177Z",
+  "postCount": 195,
+  "updatedAt": "2026-11-06T02:04:31.863Z",
   "codes": [
+    {
+      "code": "P2R7D9K5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "B6X4H8N3",
       "reward": "",
@@ -281,19 +290,19 @@
       "status": "expired"
     },
     {
-      "code": "P2Q9W4R6",
+      "code": "S3CONQUEST",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-04-10",
+      "expiry": "2024-07-15",
+      "postedAt": "2024-06-11",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-11-06",
       "status": "expired"
     },
     {
-      "code": "S3CONQUEST",
+      "code": "P2Q9W4R6",
       "reward": "",
-      "expiry": "2024-07-15",
-      "postedAt": "2024-06-11",
+      "expiry": null,
+      "postedAt": "2026-04-10",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-11-06",
       "status": "expired"
