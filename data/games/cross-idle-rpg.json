@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Cross_Idle_RPG/board/detail/8419071",
   "howTo": "",
   "postCount": 6,
-  "updatedAt": "2026-11-06T08:48:14.677Z",
+  "updatedAt": "2026-11-06T16:34:24.563Z",
   "codes": [
     {
       "code": "K8J06MXYQWPB",
@@ -16,7 +16,7 @@
       "expiry": "2026-11-12",
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-06",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
@@ -25,16 +25,7 @@
       "expiry": "2026-11-11",
       "postedAt": "2026-11-05",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-06",
-      "status": "active"
-    },
-    {
-      "code": "GIFT10059X2K",
-      "reward": "",
-      "expiry": "2026-11-06",
-      "postedAt": "2026-10-30",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-06",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
@@ -43,8 +34,17 @@
       "expiry": "2026-11-08",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-06",
+      "lastSeen": "2026-11-07",
       "status": "active"
+    },
+    {
+      "code": "GIFT10059X2K",
+      "reward": "",
+      "expiry": "2026-11-06",
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-07",
+      "status": "expired"
     },
     {
       "code": "THELORD2026",
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-06",
+      "lastSeen": "2026-11-07",
       "status": "expired"
     }
   ]
