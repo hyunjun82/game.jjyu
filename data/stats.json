@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-06T02:21:22.954Z",
+  "generatedAt": "2026-11-06T06:51:28.446Z",
   "today": "2026-11-06",
-  "todayNew": 22,
+  "todayNew": 33,
   "totals": {
     "games": 405,
-    "codes": 5676,
-    "active": 894,
-    "expired": 4782,
-    "withExpiry": 3328
+    "codes": 5687,
+    "active": 906,
+    "expired": 4781,
+    "withExpiry": 3342
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-06",
-      "count": 22
+      "count": 33
     }
   ],
   "expiringSoon": [
@@ -327,6 +327,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-PEACE",
+      "expiry": "2026-11-08",
+      "days": 2
+    },
+    {
       "slug": "soul-strike",
       "code": "SS11K7VM",
       "expiry": "2026-11-08",
@@ -359,12 +365,6 @@
     {
       "slug": "tangtangeiseu",
       "code": "KRGIFT88",
-      "expiry": "2026-11-08",
-      "days": 2
-    },
-    {
-      "slug": "tangtangeiseu",
-      "code": "ACETW99",
       "expiry": "2026-11-08",
       "days": 2
     }
@@ -417,12 +417,17 @@
     },
     {
       "slug": "dragon-traveler",
-      "active": 13,
-      "total": 86
+      "active": 14,
+      "total": 87
     },
     {
       "slug": "whoa-adventurers",
       "active": 13,
+      "total": 13
+    },
+    {
+      "slug": "raas",
+      "active": 12,
       "total": 13
     },
     {
@@ -464,11 +469,6 @@
       "slug": "chaos-zero-nightmare",
       "active": 9,
       "total": 11
-    },
-    {
-      "slug": "honkai-star-rail",
-      "active": 9,
-      "total": 35
     }
   ],
   "noImage": 74

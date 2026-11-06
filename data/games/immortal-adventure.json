@@ -2,14 +2,23 @@
   "slug": "immortal-adventure",
   "titleEn": "Immortal Adventure",
   "titleKo": "극락",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA0MjhfMjQ4/MDAxNzc3MzY5MTM3ODYw.RW0DZDrmKeTb6-y2dwDfTjmyfX5mOeBJPsA3nC66TDQg.202o4AHqRT2MkCpYa13YAPJPgB7DbFETQR44yQii5Ecg.PNG/56bd4c43-84e9-4df6-ac79-7f1033347bae.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNTA3MTFfMjY4/MDAxNzUyMjEyMzg3MTUx.jafa82pgiVNwhpxeIBz7Jsm8KHnzC-6d1yk_Ez6WZCUg.YE02dOtWxXR7J2x2vsZcWjfnHhsJBfr_oMMZP3dk1Aog.JPEG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4.jpg",
   "source": "naver-lounge",
   "loungeId": "IMMORTAL_ADVENTURE",
-  "sourceUrl": "https://game.naver.com/lounge/IMMORTAL_ADVENTURE/board/detail/8395692",
+  "sourceUrl": "https://game.naver.com/lounge/IMMORTAL_ADVENTURE/board/detail/8418822",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-11-06T02:05:49.158Z",
+  "updatedAt": "2026-11-06T06:50:41.525Z",
   "codes": [
+    {
+      "code": "pearl1109",
+      "reward": "",
+      "expiry": "2026-11-10",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "Halloween2026",
       "reward": "",

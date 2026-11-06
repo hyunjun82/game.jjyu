@@ -2,14 +2,23 @@
   "slug": "shiba-quest",
   "titleEn": "Shiba Quest",
   "titleKo": "시바 모험단",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjUg/MDAxNzkzNzgyNDQ2OTU3.spQzr1hRjoM6V8-wIpcBTs0dEBFN-iUqd6Lnc8YCrCQg.tdThYRBrc9oDojuEERIIurRJWAymIFYOzHWWNxq4Ptwg.PNG/event_ko.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjM0/MDAxNzkzNzgyNDA0Nzc2.8i7y0oLaqiufVunL_WD8Q0cFNnEbWrLToPMIxDiLKQAg.0EwKF1NMV6Uewwmg7mSCz-Xfl1WibJi4mL5IhJLte18g.PNG/event_ko.png",
   "source": "naver-lounge",
   "loungeId": "Shiba_Quest",
-  "sourceUrl": "https://game.naver.com/lounge/Shiba_Quest/board/detail/8412785",
+  "sourceUrl": "https://game.naver.com/lounge/Shiba_Quest/board/detail/8419352",
   "howTo": "■ 쿠폰 링크 : ※ 링크로 등록하실 경우 CS코드를 직접 입력해야 합니다. 게임 내에서 쿠폰 교환소에 접속하면 CS코드가 자동으로 입력됩니다.",
-  "postCount": 7,
-  "updatedAt": "2026-11-06T02:03:26.644Z",
+  "postCount": 8,
+  "updatedAt": "2026-11-06T06:48:34.309Z",
   "codes": [
+    {
+      "code": "pick99te",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "cong88r7",
       "reward": "",
