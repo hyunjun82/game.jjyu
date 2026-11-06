@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-05T07:20:34.962Z",
+  "updatedAt": "2026-11-06T19:26:28.157Z",
   "codes": [
+    {
+      "code": "9BZZ5V19",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/2v2nt-/224467806851",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "6RYFJ242",
       "reward": "",
@@ -14,7 +24,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
@@ -24,7 +34,17 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "DEVLIVE0911",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/2v2nt-/224467806851",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
@@ -34,7 +54,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
@@ -44,17 +64,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-05",
-      "status": "active"
-    },
-    {
-      "code": "DEVLIVE0911",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {

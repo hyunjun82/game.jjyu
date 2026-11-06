@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-06T16:49:39.369Z",
+  "generatedAt": "2026-11-06T19:34:33.287Z",
   "today": "2026-11-07",
-  "todayNew": 15,
+  "todayNew": 33,
   "totals": {
-    "games": 405,
-    "codes": 5707,
-    "active": 897,
-    "expired": 4810,
-    "withExpiry": 3351
+    "games": 407,
+    "codes": 5725,
+    "active": 917,
+    "expired": 4808,
+    "withExpiry": 3368
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-07",
-      "count": 15
+      "count": 33
     }
   ],
   "expiringSoon": [
@@ -386,11 +386,6 @@
       "total": 68
     },
     {
-      "slug": "tangtangeiseu",
-      "active": 19,
-      "total": 21
-    },
-    {
       "slug": "dungeon-hunter6-awakening",
       "active": 18,
       "total": 44
@@ -399,6 +394,11 @@
       "slug": "idle-berserker",
       "active": 18,
       "total": 56
+    },
+    {
+      "slug": "tangtangeiseu",
+      "active": 17,
+      "total": 21
     },
     {
       "slug": "aniimo",
@@ -419,6 +419,11 @@
       "slug": "idle-hero-but-save-the-world",
       "active": 14,
       "total": 64
+    },
+    {
+      "slug": "sodeu-seutaepeu",
+      "active": 14,
+      "total": 14
     },
     {
       "slug": "whoa-adventurers",
@@ -464,12 +469,7 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "active": 9,
-      "total": 11
     }
   ],
-  "noImage": 74
+  "noImage": 76
 }

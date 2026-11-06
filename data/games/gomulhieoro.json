@@ -1,0 +1,41 @@
+{
+  "slug": "gomulhieoro",
+  "titleEn": "gomulhieoro",
+  "titleKo": "고물히어로",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-06T19:29:04.897Z",
+  "codes": [
+    {
+      "code": "THANKYOU1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/blackwz/224467060563",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "LEVELUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/blackwz/224467060563",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "GROWUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/jjuba424/224467545010",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    }
+  ]
+}

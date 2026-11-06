@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-05T20:13:35.763Z",
+  "updatedAt": "2026-11-06T19:26:09.152Z",
   "codes": [
     {
       "code": "구분",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/naakey/224460501388",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-06",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
@@ -28,17 +28,17 @@
       "status": "active"
     },
     {
-      "code": "칭호나와라뚝딱",
+      "code": "매출1위감사합니다",
       "reward": "",
       "expiry": "2026-11-11",
-      "postedAt": "2026-10-30",
-      "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/todayisfull/224467502551",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-01",
+      "lastSeen": "2026-11-07",
       "status": "active"
     },
     {
-      "code": "매출1위감사합니다",
+      "code": "칭호나와라뚝딱",
       "reward": "",
       "expiry": "2026-11-11",
       "postedAt": "2026-10-30",
@@ -154,7 +154,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/12512512/224460480931",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-06",
+      "lastSeen": "2026-11-07",
       "status": "expired"
     },
     {
