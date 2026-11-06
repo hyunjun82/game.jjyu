@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAxMTlfNTgg/MDAxNzY4ODEwOTk1NzQw.151920M4v2p4IR9RWvPAn5Mfecful1ns2t8m8ZuaEDEg.ShlX-CcVcqZ_CHRYdyAFFUjyYtRdekv2u0FVklFuowUg.PNG/image.png",
   "source": "naver-lounge",
   "loungeId": "adventureofheroes",
-  "sourceUrl": "https://game.naver.com/lounge/adventureofheroes/board/detail/8387043",
+  "sourceUrl": "https://game.naver.com/lounge/adventureofheroes/board/detail/8420356",
   "howTo": "설정 → 교환 코드 → 쿠폰 코드 입력 히어로님들 행복한 주말 되세요!",
   "postCount": null,
-  "updatedAt": "2026-11-06T06:51:06.597Z",
+  "updatedAt": "2026-11-06T08:48:58.925Z",
   "codes": [
+    {
+      "code": "WEEKENDS8ACM",
+      "reward": "",
+      "expiry": "2026-11-12",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06",
+      "status": "active"
+    },
     {
       "code": "WEEKENDG9X2R",
       "reward": "",
