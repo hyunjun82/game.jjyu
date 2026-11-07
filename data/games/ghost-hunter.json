@@ -5,11 +5,29 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA1MTBfMTk5/MDAxNzE1MzMzNDA3NjY0.xkXwAA_LJ098hTiO8Iqyn5ogpQqnVN3VvX3tW8NHMZwg.lpMsR6LkBOtizEHoXDgSbZwdySi0oq3p0Z7S9fbRYPcg.PNG/%EB%A0%88%EC%9D%B4%EC%96%B4_1.png",
   "source": "naver-lounge",
   "loungeId": "Ghost_Hunter",
-  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8389453",
+  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8424911",
   "howTo": "",
-  "postCount": 468,
-  "updatedAt": "2026-11-07T06:03:58.393Z",
+  "postCount": 469,
+  "updatedAt": "2026-11-07T07:28:19.767Z",
   "codes": [
+    {
+      "code": "1107uuu",
+      "reward": "",
+      "expiry": "2026-11-09",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "1108yyy",
+      "reward": "",
+      "expiry": "2026-11-09",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "1031ppa",
       "reward": "",
@@ -560,24 +578,6 @@
       "status": "expired"
     },
     {
-      "code": "411egt",
-      "reward": "",
-      "expiry": "2026-04-13",
-      "postedAt": "2026-04-11",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-07",
-      "status": "expired"
-    },
-    {
-      "code": "412qwr",
-      "reward": "",
-      "expiry": "2026-04-13",
-      "postedAt": "2026-04-11",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-07",
-      "status": "expired"
-    },
-    {
       "code": "1114bfre",
       "reward": "",
       "expiry": "2025-11-17",
@@ -618,6 +618,24 @@
       "reward": "",
       "expiry": "2025-12-01",
       "postedAt": "2025-11-28",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-07",
+      "status": "expired"
+    },
+    {
+      "code": "411egt",
+      "reward": "",
+      "expiry": "2026-04-13",
+      "postedAt": "2026-04-11",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-07",
+      "status": "expired"
+    },
+    {
+      "code": "412qwr",
+      "reward": "",
+      "expiry": "2026-04-13",
+      "postedAt": "2026-04-11",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-07",
       "status": "expired"
