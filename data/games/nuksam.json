@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA1MTRfNCAg/MDAxNzc4NzM5MTE2NjIx.StdYbz26pduc2sZLE2yxH6mimpV4m1bUkawbgnrUGx8g.iSOhb3YZGCzGMH357-kVYEL9jaAoLHz_gQEBLO1PEcwg.JPEG/%E9%80%9A%E7%94%A8%E8%B4%B4%E6%96%87%E5%9B%BE-%E7%A6%8F%E5%88%A9%E6%94%BE%E9%80%81-%ED%98%9C%ED%83%9D_%EB%8C%80%EB%B0%A9%EC%86%A1.jpg",
   "source": "naver-lounge",
   "loungeId": "nuksam",
-  "sourceUrl": "https://game.naver.com/lounge/nuksam/board/detail/8390291",
+  "sourceUrl": "https://game.naver.com/lounge/nuksam/board/detail/8423693",
   "howTo": "① 게임 메인 화면에서 프로필 클릭 ② [쿠폰 번호 입력] 클릭 ③ 쿠폰 번호를 입력한 후 [수령] 클릭",
-  "postCount": 32,
-  "updatedAt": "2026-11-07T01:29:12.567Z",
+  "postCount": 33,
+  "updatedAt": "2026-11-07T06:01:50.670Z",
   "codes": [
+    {
+      "code": "TK3DSY",
+      "reward": "",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "9B9TBR",
       "reward": "",
@@ -275,7 +284,17 @@
       "code": "WELCOME",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-05-12",
+      "postedAt": "2026-05-13",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-11-07",
+      "status": "expired"
+    },
+    {
+      "code": "100KGO",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-05-11",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-11-07",
       "status": "expired"
@@ -300,15 +319,6 @@
     },
     {
       "code": "HP800K",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-05-12",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-11-07",
-      "status": "expired"
-    },
-    {
-      "code": "100KGO",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-05-12",

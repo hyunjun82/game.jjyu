@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T01:47:01.575Z",
+  "generatedAt": "2026-11-07T06:07:01.334Z",
   "today": "2026-11-07",
-  "todayNew": 38,
+  "todayNew": 64,
   "totals": {
-    "games": 407,
-    "codes": 5730,
-    "active": 930,
-    "expired": 4800,
-    "withExpiry": 3369
+    "games": 409,
+    "codes": 5756,
+    "active": 967,
+    "expired": 4789,
+    "withExpiry": 3384
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-07",
-      "count": 38
+      "count": 64
     }
   ],
   "expiringSoon": [
@@ -125,6 +125,12 @@
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "GYSL841",
+      "expiry": "2026-11-07",
+      "days": 0
+    },
+    {
+      "slug": "kungpu-halmae",
+      "code": "KPGHWN2026",
       "expiry": "2026-11-07",
       "days": 0
     },
@@ -233,6 +239,12 @@
     {
       "slug": "kkutu",
       "code": "TRICKORTREAT2026",
+      "expiry": "2026-11-08",
+      "days": 1
+    },
+    {
+      "slug": "kungpu-halmae",
+      "code": "n2egpppxqvkm",
       "expiry": "2026-11-08",
       "days": 1
     },
@@ -355,18 +367,6 @@
       "code": "ACEKR23",
       "expiry": "2026-11-08",
       "days": 1
-    },
-    {
-      "slug": "tangtangeiseu",
-      "code": "HIDDEN2026",
-      "expiry": "2026-11-08",
-      "days": 1
-    },
-    {
-      "slug": "watcher-of-realms",
-      "code": "HALLOWEEN2WOR",
-      "expiry": "2026-11-08",
-      "days": 1
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 27,
-      "total": 27
+      "active": 28,
+      "total": 28
     },
     {
       "slug": "apex-girls",
@@ -387,8 +387,8 @@
     },
     {
       "slug": "dungeon-hunter6-awakening",
-      "active": 18,
-      "total": 44
+      "active": 19,
+      "total": 45
     },
     {
       "slug": "idle-berserker",
@@ -471,5 +471,5 @@
       "total": 10
     }
   ],
-  "noImage": 76
+  "noImage": 78
 }

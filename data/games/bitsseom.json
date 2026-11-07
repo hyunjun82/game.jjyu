@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-06T19:28:29.784Z",
+  "updatedAt": "2026-11-07T06:00:47.765Z",
   "codes": [
+    {
+      "code": "ZTX1HEYU",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/sunflower-lab/224468212882",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "2611WELCOME",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/sunflower-lab/224468212882",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "BEST1004",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/sunflower-lab/224468212882",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "FJ45NZYSB1",
       "reward": "",
@@ -16,16 +46,6 @@
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-07",
       "status": "active"
-    },
-    {
-      "code": "BEST1004",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/sunflower-lab/224465433068",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-05",
-      "status": "expired"
     },
     {
       "code": "HA1234",

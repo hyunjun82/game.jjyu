@@ -2,14 +2,23 @@
   "slug": "merge-seasons",
   "titleEn": "Merge Seasons",
   "titleKo": "머지 시즌스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjIw/MDAxNzkzMjQyNjA3NzAw.ideEgoPz194EBJOqzpmEQjN3yqIpXhQKCc9hEJSjdJcg.dXH0ta6ul-nAOzojbqahFnZx-soft-vN-Q8QcLaMyaIg.PNG/%E9%9F%A9%E5%8C%BA.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMTcx/MDAxNzkzOTUxMjQ4NzI4.C8YBlDIAPO9TNib9rFnyAZnDgL4vvbe8XddOCtkkAcQg.51MeQOdO-IKPjGdyAzPjnes00JZiDqzm_POv3k1-vCMg.PNG/853eb7a6-8828-4f61-bb1f-60ac56909c2b.png",
   "source": "naver-lounge",
   "loungeId": "Merge_Seasons",
-  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8399400",
-  "howTo": "1️⃣ 게임 메인 화면으로 접속해 주세요. 2️⃣ 왼쪽 상단 [노란색 삼각형 아이콘 ◀️]을 눌러 [설정]으로 들어가세요. 3️⃣",
-  "postCount": 24,
-  "updatedAt": "2026-11-07T01:32:34.174Z",
+  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8423687",
+  "howTo": "1️⃣ 게임 메인 화면으로 접속해 주세요. 2️⃣ 왼쪽 상단 [노란색 삼각형 아이콘 ◀️]을 눌러 [설정]으로 들어가세요. 3️⃣ [교환 코드]를 찾아 [ cozywinter ] 을 입력하면 선물이 숑!",
+  "postCount": 25,
+  "updatedAt": "2026-11-07T06:05:04.205Z",
   "codes": [
+    {
+      "code": "cozywinter",
+      "reward": "",
+      "expiry": "2026-11-21",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "animalhero",
       "reward": "",
