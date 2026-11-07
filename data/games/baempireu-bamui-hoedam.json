@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-07T13:13:55.854Z",
+  "updatedAt": "2026-11-07T19:13:30.602Z",
   "codes": [
     {
       "code": "vampir",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/ok2ra/224452440800",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "1020SPECIALCP",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/ok2ra/224452440800",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "VAMGIFTCP1020",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/ok2ra/224452440800",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "VAMDEVTALK1020",
@@ -44,8 +44,8 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/ok2ra/224452440800",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "THANKSCP1020",
@@ -54,8 +54,8 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/ok2ra/224452440800",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     }
   ]
 }

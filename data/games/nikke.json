@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/nikke/board/detail/8401427",
   "howTo": "- 게임 로그인 → 로비 우측 상단 [공지] → [교환 코드] 화면 → 교환 코드 입력",
   "postCount": 3,
-  "updatedAt": "2026-11-07T14:20:35.265Z",
+  "updatedAt": "2026-11-07T19:05:14.499Z",
   "codes": [
     {
       "code": "주의사항",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-02",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-07",
+      "lastSeen": "2026-11-08",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-07",
+      "lastSeen": "2026-11-08",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-11-01",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-07",
+      "lastSeen": "2026-11-08",
       "status": "active"
     },
     {
@@ -43,8 +43,8 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "RECLAIMTHESURFACE",
@@ -52,8 +52,8 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "GODDESSMARCHON",
@@ -61,8 +61,8 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     },
     {
       "code": "FORGETMENOT",
@@ -70,8 +70,8 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-07",
-      "status": "active"
+      "lastSeen": "2026-11-08",
+      "status": "expired"
     }
   ]
 }

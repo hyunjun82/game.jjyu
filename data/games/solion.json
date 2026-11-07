@@ -1,0 +1,23 @@
+{
+  "slug": "solion",
+  "titleEn": "Solion",
+  "titleKo": "솔리온",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjQy/MDAxNzkzODk2MTUwMjk4.FkFytYB1Ttub04CBDc8pOwxm2RWM0CoeG40ZvozMIFMg.jPz3ndr05EeK7OeeYrxilN_nVoCnDtm0c7Wuk7OltDIg.PNG/image.png",
+  "source": "naver-lounge",
+  "loungeId": "SOLION",
+  "sourceUrl": "https://game.naver.com/lounge/SOLION/board/detail/8417079",
+  "howTo": "",
+  "postCount": null,
+  "updatedAt": "2026-11-07T19:05:42.227Z",
+  "codes": [
+    {
+      "code": "SOLIONLOUNGEOPEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "status": "active"
+    }
+  ]
+}
