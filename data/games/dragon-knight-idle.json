@@ -2,14 +2,23 @@
   "slug": "dragon-knight-idle",
   "titleEn": "Dragon_Knight_Idle",
   "titleKo": "드래곤 나이트 키우기 : 방치형 RPG",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMjYw/MDAxNzkzMTY0MzQ2Njkx.AtRoeEzLtw5QMNuB6Lxw3wF8txybR6e2gtUEys425SYg.pW1ITckKdxO6PvDS09Lt65Bi1QcqUotXg6GiWT6fvtog.PNG/notice_square.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTky/MDAxNzkzMzU3NzU5NTg3.aweIEWB9CohWZWagzpFUZ1sqpgTCflCibWfUeArfYKwg.oq2beNiChvXd9S6jI1HyhzW5mrMWCLPMmjKkJhmDGrcg.PNG/%EC%BF%A0%ED%8F%B0_%EB%B0%B0%EB%84%88.png",
   "source": "naver-lounge",
   "loungeId": "Dragon_Knight_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Dragon_Knight_Idle/board/detail/8376939",
+  "sourceUrl": "https://game.naver.com/lounge/Dragon_Knight_Idle/board/detail/8422616",
   "howTo": "1. Android(AOS) 게임 내 [설정]에서 쿠폰 입력창을 열고, 쿠폰 번호를 입력하면 아이템이 지급됩니다. 2. iOS 게임 내 채팅창에 아래 명령어를 입력하면 아이템이 지급됩니다.",
-  "postCount": 3,
-  "updatedAt": "2026-11-06T21:51:15.510Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-07T01:34:06.782Z",
   "codes": [
+    {
+      "code": "RANK01",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "OPEN1028",
       "reward": "",
