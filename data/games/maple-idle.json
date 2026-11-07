@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-07T19:08:35.005Z",
+  "updatedAt": "2026-11-07T22:01:42.901Z",
   "codes": [
     {
       "code": "1STANN1V",
@@ -68,6 +68,16 @@
       "status": "active"
     },
     {
+      "code": "선물",
+      "reward": "",
+      "expiry": "2027-02-04",
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/su_ffy/224468823616",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-08",
+      "status": "active"
+    },
+    {
       "code": "PINKBEANATTACK",
       "reward": "",
       "expiry": "2027-01-27",
@@ -95,16 +105,6 @@
       "sourceUrl": "https://blog.naver.com/villainnote/224458791013",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "선물",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-29",
-      "sourceUrl": "https://blog.naver.com/official-jgblog/224458321089",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-10-31",
       "status": "expired"
     },
     {

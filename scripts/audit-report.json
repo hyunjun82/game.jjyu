@@ -1,47 +1,28 @@
 {
- "generatedAt": "2026-11-07T12:51:35.695Z",
- "window": "20261105~20261107",
+ "generatedAt": "2026-11-07T21:43:12.348Z",
+ "window": "20261106~20261108",
  "lounges": 2375,
- "posts": 751,
- "couponPosts": 57,
- "fixedTracked": [
-  "딸깍 다이스 | winterfrost2026 | [기프트코드]❄️ 입동 기프트코드 ❄️ "
- ],
+ "posts": 477,
+ "couponPosts": 40,
+ "fixedTracked": [],
  "addedLounges": [],
  "labelOnly": [
-  "이사만루26 | 2026-11-05 | [이벤트] 키워드 쿠폰 이벤트 안내",
-  "조선협객전 클래식 | 2026-11-05 | [안내] '더' 빠른 부스팅 신규 월드 '여주' 사전예약 안내",
   "라스트 소녀 전사 | 2026-11-06 | 🎄 신서버 S6109 오픈 안내",
   "라스트 소녀 전사 | 2026-11-07 | 11월丨🍫7Days 누적 출석🍫 이벤트",
   "드래곤 나이트 키우기 : 방치형 RPG | 2026-11-06 | [안내] v3.0.0 업데이트 GM 노트",
   "드래곤에어 : 침묵의 신 | 2026-11-06 | 【게임소식】 아덴시아 노래하는 자들의 기록 - 🌱 추천 크리에이터&영상! 12 (댓글 이",
-  "드래곤에어 : 침묵의 신 | 2026-11-05 | 【이벤트】 🎲 굴러라 주사위 - 이벤트 미리보기 & 댓글 이벤트 🎁",
   "드림 가든: 추억의 힐링 경영 | 2026-11-07 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "후더덕 서바이벌 | 2026-11-06 | 서버통합 설문조사 안내",
   "갓오브하이스쿨: 체인지 | 2026-11-06 | 다가오는 빼빼로데이🍫미리 준비한 선물!",
-  "호드 워:어벤저의 소환 | 2026-11-05 | 📅11월 출체 이벤트(11/5-11/12)",
   "사북: 아이스 킹덤 | 2026-11-06 | <사북: 아이스 킹덤> 보물지도 퀴즈✨",
-  "I9: 인페르노 나인 | 2026-11-05 | 🎮각성자 유형 테스트!접속 루틴으로 알아보는 나의 유형!",
   "전생했더니 검 한 자루 | 2026-11-07 | <버그 찾기 이벤트> 안내👀",
   "전생했더니 검 한 자루 | 2026-11-06 | 📢지포스 RTX 5090 증정! <전생했더니 검 한 자루>GRAND OPEN축하 이벤트⚔",
-  "전생했더니 검 한 자루 | 2026-11-05 | 💻맥북 프로 증정! 다운로드 인증 이벤트",
-  "삼국지 오리진2: 적벽대전 | 2026-11-05 | 3주년 페스티벌 제3탄: 일일 쿠폰(11/5~11/8)",
   "스카이 어비스: 혈맹의 서약 | 2026-11-06 | [💥역대급 캐시백]11/6~11/11 한정 누적 충전 혜택 안내",
   "탑 히어로즈 | 2026-11-06 | 🎉 탑 히어로즈| 공식 카카오톡 채널 오픈 기념 이벤트!",
   "Total Football - 25/26 시즌 | 2026-11-06 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/9 ~ 11/15)",
   "명조:워더링 웨이브 | 2026-11-06 | 『명조:워더링 웨이브』 데스크톱 펫 Wuwa Tappo 주요 업데이트 및 향후 개발 계획 "
  ],
  "imageOnly": [
-  {
-   "game": "이사만루26",
-   "loungeId": "24manru3",
-   "feedId": 8414803,
-   "date": "2026-11-05",
-   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
-   ]
-  },
   {
    "game": "LUNAR：에버소울",
    "loungeId": "LUNAR_EverSoul",
@@ -51,16 +32,6 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMDVfMjcz/MDAxNzkzODQ5NzI2MjI2.gsqBYPZp8mcbR0fMBJEYLPF3O0Ycc0YiQSl0dBTigPEg.bBv9IIoOgqr5bddvXvdAcIuVXiE9GR1FqD9_djY4fcog.JPEG/%E9%99%90%E6%97%B6%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE-850x170.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjA5MTRfMjQw/MDAxNzg5MzcxMDgyMjE3.7zrqo_bRx6W46vwYjV6jEr-L6JTyXL7Vv1LedvS5XK4g.Zf805o5NAyK5qrXHx7JO3a-Xmtrn__qEJ2q4b1h0IdYg.JPEG/%E4%B8%89%E6%96%B9%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE%281%29.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "삼국지 오리진2: 적벽대전",
-   "loungeId": "samgukji_origin2",
-   "feedId": 8413008,
-   "date": "2026-11-05",
-   "title": "3주년 페스티벌 제3탄: 일일 쿠폰(11/5~11/8)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNDA0MjZfMjU4/MDAxNzE0MTIwMzgyMTUx.dGnQqPfcfP3F5DO584ZKnuErStXNAxvukMp9LZ3vv9Ig.UJMDBwQgPvuv2G3Kv0ntZjITQlOjxc_SvF24KGUAXnkg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678"
    ]
   },
   {
