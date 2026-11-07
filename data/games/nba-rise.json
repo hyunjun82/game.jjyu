@@ -1,0 +1,21 @@
+{
+  "slug": "nba-rise",
+  "titleEn": "nba-rise",
+  "titleKo": "NBA RISE",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-07T13:16:23.523Z",
+  "codes": [
+    {
+      "code": "NBARISE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/nslwvtqhoekyvv/224467297354",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    }
+  ]
+}

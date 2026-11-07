@@ -2,14 +2,23 @@
   "slug": "survivorio",
   "titleEn": "Survivorio",
   "titleKo": "탕탕특공대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjY3/MDAxNzkzMjY3MDM0NTYy.lG3kmhC-GloPu4cLUjjQM0OxMW5AE_8-KLDwIRnMP-Ug.txxsR4SXtgRuV-LaBYj3NNTCzh1Ec8LYn4Yn_HCkVfkg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMTg3/MDAxNzkzNzg0NjE1MzM4.x4usW95duWQ28g8DdInAcNjRaKJTfiAJ2FICFEFFKxUg.QrVUT6Bh6l6pyvGCzIBa7xYmw__LF-cxazJTArnl6Eog.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Survivorio",
-  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8387608",
-  "howTo": "(frost2026) 를 입력해 선물을 받으세요!",
-  "postCount": 2,
-  "updatedAt": "2026-11-07T07:30:39.765Z",
+  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8425579",
+  "howTo": "(newseason26) 를 입력해 선물을 받으세요!",
+  "postCount": 3,
+  "updatedAt": "2026-11-07T13:20:58.406Z",
   "codes": [
+    {
+      "code": "newseason26",
+      "reward": "",
+      "expiry": "2026-11-22",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "frost2026",
       "reward": "",

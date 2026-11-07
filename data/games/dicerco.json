@@ -2,14 +2,23 @@
   "slug": "dicerco",
   "titleEn": "Dicerco",
   "titleKo": "딸깍 다이스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjMw/MDAxNzkzMzQ3OTQ1NTU3.G0X1HF41-LaVhIJatNP3dt_yLtVM5cj9Y_s0oa8Hoj8g.Fv_XIJb2NYwSmRqjTOrPX3wloS7D4aQjY1_0BcGES0cg.PNG/event_%EF%BC%88%E4%B8%87%E5%9C%A3%E8%8A%82%E9%99%90%E5%AE%9A.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDdfOTQg/MDAxNzkzOTg5OTE3NTQ0.S8ZGcu5O9pFOfJqRVbD7uDGPcoTkcx9l0BVOQyCWsdIg.zaW3wZKsLubZG3mZK_gmILXE-XpEoA6oYMOKYsivIlcg.PNG/event.png",
   "source": "naver-lounge",
   "loungeId": "dicerco",
-  "sourceUrl": "https://game.naver.com/lounge/dicerco/board/detail/8390781",
-  "howTo": "",
-  "postCount": 8,
-  "updatedAt": "2026-11-07T07:29:14.868Z",
+  "sourceUrl": "https://game.naver.com/lounge/dicerco/board/detail/8425582",
+  "howTo": "아래 링크를 터치하여 교환 페이지로 이동한 후, 기프트코드( winterfrost2026 )를 입력하시면 보상을 수령하실 수 있습니다!",
+  "postCount": 9,
+  "updatedAt": "2026-11-07T13:19:37.648Z",
   "codes": [
+    {
+      "code": "winterfrost2026",
+      "reward": "",
+      "expiry": "2026-11-22",
+      "postedAt": "2026-11-07",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "Halloween2026",
       "reward": "",

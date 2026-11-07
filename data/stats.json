@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T07:42:17.643Z",
+  "generatedAt": "2026-11-07T13:21:35.467Z",
   "today": "2026-11-07",
-  "todayNew": 68,
+  "todayNew": 71,
   "totals": {
-    "games": 409,
-    "codes": 5760,
-    "active": 973,
+    "games": 410,
+    "codes": 5763,
+    "active": 976,
     "expired": 4787,
-    "withExpiry": 3386
+    "withExpiry": 3390
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-07",
-      "count": 68
+      "count": 71
     }
   ],
   "expiringSoon": [
@@ -391,14 +391,14 @@
       "total": 45
     },
     {
+      "slug": "tangtangeiseu",
+      "active": 19,
+      "total": 21
+    },
+    {
       "slug": "idle-berserker",
       "active": 18,
       "total": 56
-    },
-    {
-      "slug": "tangtangeiseu",
-      "active": 17,
-      "total": 21
     },
     {
       "slug": "aniimo",
@@ -471,5 +471,5 @@
       "total": 10
     }
   ],
-  "noImage": 78
+  "noImage": 79
 }

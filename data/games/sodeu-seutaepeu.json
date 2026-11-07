@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-07T07:41:38.409Z",
+  "updatedAt": "2026-11-07T13:15:43.317Z",
   "codes": [
     {
       "code": "NPC2026",
@@ -88,11 +88,11 @@
       "status": "active"
     },
     {
-      "code": "ssgfpre",
+      "code": "ssinvenpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/obama8775/224467207197",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-07",
       "status": "active"
@@ -101,8 +101,18 @@
       "code": "ssqmpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/obama8775/224467207197",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "ssgfpre",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/obama8775/224467207197",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-07",
       "status": "active"
@@ -111,28 +121,8 @@
       "code": "sshgpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-07",
-      "status": "active"
-    },
-    {
-      "code": "ssinvenpre",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-07",
-      "status": "active"
-    },
-    {
-      "code": "SSYTPRE",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/obama8775/224467207197",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-07",
       "status": "active"
@@ -141,8 +131,18 @@
       "code": "SXSWITHYOU",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224465053856",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/obama8775/224467207197",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "SSYTPRE",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/obama8775/224467207197",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-07",
       "status": "active"

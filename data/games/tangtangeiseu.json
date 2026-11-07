@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-07T07:39:49.740Z",
+  "updatedAt": "2026-11-07T13:13:52.395Z",
   "codes": [
+    {
+      "code": "TRICKY",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/cubebrick/224468238245",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
+    {
+      "code": "ACETOP",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/cubebrick/224468238245",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-07",
+      "status": "active"
+    },
     {
       "code": "ACEJPW66",
       "reward": "",
@@ -195,26 +215,6 @@
       "sourceUrl": "https://blog.naver.com/rkdasf/224464163977",
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04",
-      "status": "expired"
-    },
-    {
-      "code": "TRICKY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/doek11/224461116345",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-06",
-      "status": "expired"
-    },
-    {
-      "code": "ACETOP",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/doek11/224461116345",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-06",
       "status": "expired"
     }
   ]
