@@ -2,14 +2,23 @@
   "slug": "hiki",
   "titleEn": "Hiki",
   "titleKo": "히어로즈 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjcy/MDAxNzkzMzU3ODg5MDc2.JbtwvBxhwjpCGqLE60JkQnbwScR28Ne8-pqvxmK16JYg.m4K4EStP9C90aKxWWuORG_ppwwdzyg5lfnGUCorc9pAg.PNG/%EC%9D%B4%EB%A6%84_%EB%B9%A8%EA%B0%95.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfNjgg/MDAxNzkzMzU3NzQ4Mjgx.GiXxoB3d3K66d0hO7CvXuXcRy6UEOsYcWRr8a6_xF-4g.QyiNlzn_RqdzLLFp65yXyPnQMVgJgd7HNJ3yM68N6bIg.PNG/11-9_%EC%B9%B4%EB%9D%BC.png",
   "source": "naver-lounge",
   "loungeId": "hiki",
-  "sourceUrl": "https://game.naver.com/lounge/hiki/board/detail/8416997",
+  "sourceUrl": "https://game.naver.com/lounge/hiki/board/detail/8431318",
   "howTo": "메인 화면 좌측 상단의 [프로필] - [교환코드]에서 보유하신 쿠폰 코드를 입력 하실 수 있습니다.",
   "postCount": null,
-  "updatedAt": "2026-11-08T15:34:50.181Z",
+  "updatedAt": "2026-11-08T20:00:09.998Z",
   "codes": [
+    {
+      "code": "CL261109",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
     {
       "code": "VT261106",
       "reward": "",

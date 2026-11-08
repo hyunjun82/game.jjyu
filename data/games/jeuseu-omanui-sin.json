@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-08T01:54:07.027Z",
+  "updatedAt": "2026-11-08T20:07:57.272Z",
   "codes": [
     {
       "code": "9BZZ5V19",
@@ -15,17 +15,7 @@
       "sourceUrl": "https://blog.naver.com/2v2nt-/224467806851",
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "DEVLIVE0911",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/2v2nt-/224467806851",
-      "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ZEUSWELCOME",
@@ -94,7 +84,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -104,7 +94,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -114,7 +104,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -124,7 +114,17 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
+      "status": "expired"
+    },
+    {
+      "code": "DEVLIVE0911",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224452379224",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {

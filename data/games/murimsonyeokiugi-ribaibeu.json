@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-08T01:55:07.265Z",
+  "updatedAt": "2026-11-08T20:08:56.917Z",
   "codes": [
+    {
+      "code": "E0261107",
+      "reward": "",
+      "expiry": "2026-12-07",
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224469741668",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
     {
       "code": "GOOGLE01",
       "reward": "",
@@ -14,7 +24,7 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/t326598/224462859022",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "active"
     },
     {
@@ -24,7 +34,7 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/t326598/224462859022",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -34,7 +44,7 @@
       "postedAt": "2026-11-02",
       "sourceUrl": "https://blog.naver.com/ablack2018/224462378697",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -44,7 +54,7 @@
       "postedAt": "2026-11-02",
       "sourceUrl": "https://blog.naver.com/ablack2018/224462378697",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -54,7 +64,7 @@
       "postedAt": "2026-11-02",
       "sourceUrl": "https://blog.naver.com/ablack2018/224462378697",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     }
   ]

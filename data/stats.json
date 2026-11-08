@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-11-08T15:49:18.052Z",
+  "generatedAt": "2026-11-08T20:11:02.849Z",
   "today": "2026-11-09",
-  "todayNew": 0,
+  "todayNew": 7,
   "totals": {
     "games": 412,
-    "codes": 5782,
-    "active": 909,
-    "expired": 4873,
-    "withExpiry": 3402
+    "codes": 5789,
+    "active": 895,
+    "expired": 4894,
+    "withExpiry": 3409
   },
   "newByDate": [
-    {
-      "date": "2026-10-26",
-      "count": 60
-    },
     {
       "date": "2026-10-27",
       "count": 171
@@ -65,6 +61,10 @@
     {
       "date": "2026-11-08",
       "count": 19
+    },
+    {
+      "date": "2026-11-09",
+      "count": 7
     }
   ],
   "expiringSoon": [
@@ -76,7 +76,7 @@
     },
     {
       "slug": "beulruakaibeu",
-      "code": "MAGICALPUMPKIN",
+      "code": "HANAWOTADOTTE",
       "expiry": "2026-11-09",
       "days": 0
     },
@@ -466,9 +466,9 @@
       "total": 37
     },
     {
-      "slug": "chaos-zero-nightmare",
+      "slug": "dragon-traveler",
       "active": 9,
-      "total": 11
+      "total": 87
     }
   ],
   "noImage": 79
