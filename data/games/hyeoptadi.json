@@ -1,0 +1,51 @@
+{
+  "slug": "hyeoptadi",
+  "titleEn": "hyeoptadi",
+  "titleKo": "협타디",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-08T22:21:36.352Z",
+  "codes": [
+    {
+      "code": "COOPTD2ANNIV",
+      "reward": "",
+      "expiry": "2026-11-19",
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/naakey/224469675887",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "FORU2ANNIV",
+      "reward": "",
+      "expiry": "2026-11-19",
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/naakey/224469675887",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "HYOPTD2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461305046",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMEHYOPTD",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461305046",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    }
+  ]
+}

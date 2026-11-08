@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-08T20:08:33.056Z",
+  "updatedAt": "2026-11-08T22:19:02.905Z",
   "codes": [
     {
       "code": "TRICKY",
@@ -188,21 +188,21 @@
       "status": "expired"
     },
     {
-      "code": "ACEKR10",
+      "code": "ACEKR23",
       "reward": "",
       "expiry": "2026-11-08",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/gametube123/224461380742",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/bluekai1/224466778240",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
-      "code": "ACEKR23",
+      "code": "ACEKR10",
       "reward": "",
       "expiry": "2026-11-08",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/gametube123/224461380742",
+      "postedAt": "2026-11-06",
+      "sourceUrl": "https://blog.naver.com/bluekai1/224466778240",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-09",
       "status": "expired"
