@@ -1480,7 +1480,7 @@
    "error": "코드 없음"
   },
   "bombtank": {
-   "at": "2026-11-07",
+   "at": "2026-11-09",
    "error": "쿠폰 보드 없음"
   },
   "boneagain": {
@@ -1992,7 +1992,7 @@
    "error": "코드 없음"
   },
   "COUNTERSIDE": {
-   "at": "2026-10-17",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "Counting_Star": {
@@ -2259,7 +2259,7 @@
    "error": "코드 없음"
   },
   "DarkTide": {
-   "at": "2026-11-07",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "darktower": {
@@ -3616,7 +3616,7 @@
    "total": 16
   },
   "Ghost_Girl_Idle": {
-   "at": "2026-11-07",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "Ghost_Hunter": {
@@ -6866,7 +6866,7 @@
    "error": "코드 없음"
   },
   "RAGNAROK_ARENA": {
-   "at": "2026-11-06",
+   "at": "2026-11-09",
    "live": 0,
    "total": 1
   },
@@ -8561,7 +8561,7 @@
    "error": "코드 없음"
   },
   "The_Regressive_Three_Kingdoms": {
-   "at": "2026-11-07",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "The_Richest": {
@@ -9557,8 +9557,8 @@
    "error": "코드 없음"
   },
   "Chained_Together": {
-   "at": "2026-09-19",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-11-09",
+   "error": "코드 없음"
   },
   "Pocket_Bravery": {
    "at": "2026-09-19",
@@ -15294,7 +15294,7 @@
    "total": 31
   },
   "Way_of_the_Samurai4": {
-   "at": "2026-10-04",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "Call_of_Duty_Modern_Warfare3_2023": {
@@ -17319,7 +17319,7 @@
    "error": "코드 없음"
   },
   "Pokemon_Heart_Gold": {
-   "at": "2026-10-12",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "The_Sexy_Brutale": {
@@ -18964,7 +18964,7 @@
    "error": "코드 없음"
   },
   "Phasmophobia": {
-   "at": "2026-11-01",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "Warcraft_II_Remastered": {
@@ -19820,7 +19820,7 @@
    "error": "코드 없음"
   },
   "RE_ZERO_Lost_in_Memories": {
-   "at": "2026-10-20",
+   "at": "2026-11-09",
    "error": "코드 없음"
   },
   "Latale_W": {
@@ -24771,6 +24771,38 @@
    "error": "코드 없음"
   },
   "Luthiel": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "RoboGAL_Gaga_Delta_Lady": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "Kart_League_Manager": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "Dark_Souls_Remastered": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "All_Hands_on_Deck": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "The_Forest": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "VOEZ": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "Forager": {
+   "at": "2026-11-09",
+   "error": "코드 없음"
+  },
+  "Maliki_Poison_Of_The_Past": {
    "at": "2026-11-09",
    "error": "코드 없음"
   }
