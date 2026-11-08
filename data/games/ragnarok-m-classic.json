@@ -2,14 +2,23 @@
   "slug": "ragnarok-m-classic",
   "titleEn": "Ragnarok M: Classic",
   "titleKo": "라그나로크M: Classic",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MTFfMTYz/MDAxNzg5MDkwMDIwNzA1.ATWR3_rsVz49gdjDe6DXlQS0SyQvRut3ld9LLmsyUJog.9bzECjfy2Zff5HtbQPZS-NzjZQcevUTxbwkiszdhOcgg.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-270.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDhfMTc2/MDAxNzk0MTM0MDAxMzU1.czPp-TWYXkFQlg81oM7ChQDIbpZwA2cbwWxU6qqozT0g.Fhb6VjU0xZJyUwcm5begzS4pH5rEYEN_seeoEBgBbjUg.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-270.jpg",
   "source": "naver-lounge",
   "loungeId": "Ragnarok_M_Classic",
-  "sourceUrl": "https://game.naver.com/lounge/Ragnarok_M_Classic/board/detail/8182950",
+  "sourceUrl": "https://game.naver.com/lounge/Ragnarok_M_Classic/board/detail/8430429",
   "howTo": "- 선물 코드 사용 시 우편으로 지급된 보상은 14일 동안 보관됩니다. 기한 내에 받아 주시기 바랍니다. 마지막으로 이번 시즌컵의 보상을 함께 감상해 보시죠!",
-  "postCount": 2,
-  "updatedAt": "2026-11-08T08:13:21.549Z",
+  "postCount": 3,
+  "updatedAt": "2026-11-08T13:49:15.654Z",
   "codes": [
+    {
+      "code": "ROMC6V6S2",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-08",
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "status": "active"
+    },
     {
       "code": "ROMCWELCOME",
       "reward": "",
