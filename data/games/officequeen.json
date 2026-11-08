@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MjRfMTE2/MDAxNzkwMjE0NDgyNzQ5.9oeVvbz1FBm39dPyuyO2sM3liwHD5i0ka0PqmNSNX_Mg.G9_BBUOyIdoBZVl2jcCg57p5UM4qgEud9I8NwTcKTLQg.PNG/9.LOUNGE%E9%80%9A%E7%94%A8%E4%B8%8A%E4%B8%8BBANNER-3_02.png",
   "source": "naver-lounge",
   "loungeId": "officequeen",
-  "sourceUrl": "https://game.naver.com/lounge/officequeen/board/detail/8407859",
+  "sourceUrl": "https://game.naver.com/lounge/officequeen/board/detail/8428490",
   "howTo": "STEP1:홈 화면 좌측 상단 \"이벤트\" 선택 STEP2:이벤트 리스트 중 \"혜택\" 선택 STEP3:혜택 리스트 중 \"교환 센터\" 선 STEP4:교환 코드를 입력 후 확인을 클릭하면 아이템 지급 즐거운 한가위 되세요~",
-  "postCount": 6,
-  "updatedAt": "2026-11-08T01:44:33.487Z",
+  "postCount": 7,
+  "updatedAt": "2026-11-08T06:26:04.460Z",
   "codes": [
+    {
+      "code": "S1-S192",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-08",
+      "firstSeen": "2026-11-08",
+      "lastSeen": "2026-11-08",
+      "status": "active"
+    },
     {
       "code": "S1-S191",
       "reward": "",

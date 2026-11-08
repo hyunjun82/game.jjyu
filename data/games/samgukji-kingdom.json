@@ -3,9 +3,12 @@
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfNjYg/MDAxNzkyNTcyOTgxMjg4.Soq1u9OHhUC9wFhUeechQ1e8vycWo0wzRk-HryUpIvIg.5fRTKMckQxNHzFtdHS6VZTZqoo6bIIRnu90D2iIjdbIg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-700x154.jpg",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "Samgukji_Kingdom",
+  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8422915",
   "howTo": "게임 접속 후 메인 화면",
-  "updatedAt": "2026-11-08T01:50:46.235Z",
+  "postCount": 370,
+  "updatedAt": "2026-11-08T06:27:19.081Z",
   "codes": [
     {
       "code": "winter777",
@@ -59,8 +62,7 @@
       "code": "week999",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-08",
       "status": "active"
@@ -69,19 +71,8 @@
       "code": "D5vPTfC8",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "king777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-08",
       "status": "active"
     },
@@ -106,14 +97,13 @@
       "status": "active"
     },
     {
-      "code": "landmark20",
+      "code": "king777",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-15",
+      "postedAt": "2026-10-22",
+      "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "landmark100",
@@ -123,6 +113,16 @@
       "postedAt": "2026-10-20",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
+      "status": "expired"
+    },
+    {
+      "code": "landmark20",
+      "reward": "",
+      "expiry": null,
+      "tag": "사전예약",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-11-08",
       "status": "expired"
     }
   ]

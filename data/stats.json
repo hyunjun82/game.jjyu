@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-08T01:57:12.084Z",
+  "generatedAt": "2026-11-08T06:28:24.495Z",
   "today": "2026-11-08",
-  "todayNew": 6,
+  "todayNew": 14,
   "totals": {
-    "games": 411,
-    "codes": 5769,
-    "active": 946,
-    "expired": 4823,
-    "withExpiry": 3395
+    "games": 412,
+    "codes": 5777,
+    "active": 952,
+    "expired": 4825,
+    "withExpiry": 3397
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-08",
-      "count": 6
+      "count": 14
     }
   ],
   "expiringSoon": [
@@ -382,8 +382,8 @@
     },
     {
       "slug": "apex-girls",
-      "active": 19,
-      "total": 68
+      "active": 21,
+      "total": 70
     },
     {
       "slug": "dungeon-hunter6-awakening",
@@ -441,11 +441,6 @@
       "total": 18
     },
     {
-      "slug": "samgukji-kingdom",
-      "active": 11,
-      "total": 12
-    },
-    {
       "slug": "byeolbyeol-hero",
       "active": 10,
       "total": 13
@@ -469,6 +464,11 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
+    },
+    {
+      "slug": "busy-savior",
+      "active": 9,
+      "total": 37
     }
   ],
   "noImage": 79
