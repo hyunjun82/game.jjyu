@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/wtbk/board/detail/8373032",
   "howTo": "",
   "postCount": 4,
-  "updatedAt": "2026-11-08T13:52:23.584Z",
+  "updatedAt": "2026-11-08T15:34:05.753Z",
   "codes": [
     {
       "code": "BONELOVE2",
@@ -16,7 +16,52 @@
       "expiry": "2026-11-30",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "PUMPKIN7",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-27",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "BONEKING9",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "GOOGLEACE",
+      "reward": "",
+      "expiry": "2027-01-16",
+      "postedAt": "2026-10-23",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "BESTONEBONE",
+      "reward": "",
+      "expiry": "2027-01-17",
+      "postedAt": "2026-10-19",
+      "firstSeen": "2026-10-19",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "BONEOPEN",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-15",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-11-09",
       "status": "active"
     },
     {
@@ -27,7 +72,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459973603",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "BONE2026",
@@ -37,7 +82,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459973603",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "WELCOMESKULL",
@@ -47,52 +92,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459973603",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "PUMPKIN7",
-      "reward": "",
-      "expiry": "2026-11-30",
-      "postedAt": "2026-10-27",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "BONEKING9",
-      "reward": "",
-      "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-24",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "GOOGLEACE",
-      "reward": "",
-      "expiry": "2027-01-16",
-      "postedAt": "2026-10-23",
-      "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "BESTONEBONE",
-      "reward": "",
-      "expiry": "2027-01-17",
-      "postedAt": "2026-10-19",
-      "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "BONEOPEN",
-      "reward": "",
-      "expiry": "2026-11-30",
-      "postedAt": "2026-10-15",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "BONUS100",

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8422915",
   "howTo": "게임 접속 후 메인 화면",
   "postCount": 370,
-  "updatedAt": "2026-11-08T13:52:25.899Z",
+  "updatedAt": "2026-11-08T15:34:07.098Z",
   "codes": [
     {
       "code": "winter777",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "active"
     },
     {
@@ -25,7 +25,25 @@
       "expiry": null,
       "postedAt": "2026-11-02",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "week999",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-28",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "D5vPTfC8",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "lastSeen": "2026-11-09",
       "status": "active"
     },
     {
@@ -36,7 +54,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460139491",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "THREEKINGDOMS",
@@ -46,7 +64,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460139491",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "WELCOMEKINGDOM",
@@ -56,45 +74,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460139491",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "week999",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-28",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "D5vPTfC8",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-26",
-      "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "landmark80",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-11-08",
-      "status": "active"
-    },
-    {
-      "code": "landmark50",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-08",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "king777",
@@ -102,7 +82,7 @@
       "expiry": null,
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     },
     {
@@ -116,13 +96,33 @@
       "status": "expired"
     },
     {
+      "code": "landmark80",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-11-08",
+      "status": "expired"
+    },
+    {
+      "code": "landmark50",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-11-08",
+      "status": "expired"
+    },
+    {
       "code": "landmark20",
       "reward": "",
       "expiry": null,
       "tag": "사전예약",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-09",
       "status": "expired"
     }
   ]
