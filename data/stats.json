@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T22:50:05.286Z",
+  "generatedAt": "2026-11-08T01:57:12.084Z",
   "today": "2026-11-08",
-  "todayNew": 2,
+  "todayNew": 6,
   "totals": {
     "games": 411,
-    "codes": 5765,
-    "active": 919,
-    "expired": 4846,
-    "withExpiry": 3393
+    "codes": 5769,
+    "active": 946,
+    "expired": 4823,
+    "withExpiry": 3395
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-08",
-      "count": 2
+      "count": 6
     }
   ],
   "expiringSoon": [
@@ -441,6 +441,11 @@
       "total": 18
     },
     {
+      "slug": "samgukji-kingdom",
+      "active": 11,
+      "total": 12
+    },
+    {
       "slug": "byeolbyeol-hero",
       "active": 10,
       "total": 13
@@ -464,11 +469,6 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "active": 9,
-      "total": 11
     }
   ],
   "noImage": 79

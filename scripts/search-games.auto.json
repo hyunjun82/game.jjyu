@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-07T22:30:21.976Z",
+  "generatedAt": "2026-11-08T01:41:39.389Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -45,12 +45,6 @@
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "ordinaryday",
-      "loungeId": "ordinaryday",
-      "titleKo": "평범한날 : 청하구 편",
-      "titleEn": "Ordinaryday"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -63,22 +57,40 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
+      "slug": "catoutdoor",
+      "loungeId": "catoutdoor",
+      "titleKo": "숲속 고양이마을",
+      "titleEn": "Catoutdoor"
     },
     {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
+    },
+    {
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
+    },
+    {
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -91,6 +103,24 @@
       "loungeId": "Dragonheir_Silent_Gods",
       "titleKo": "드래곤에어 : 침묵의 신",
       "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "dragoon-of-the-wind",
+      "loungeId": "Dragoon_Of_The_Wind",
+      "titleKo": "바람의 드래군M",
+      "titleEn": "Dragoon Of The Wind"
+    },
+    {
+      "slug": "dungeonand-breaker",
+      "loungeId": "DungeonandBreaker",
+      "titleKo": "던전앤브레이커",
+      "titleEn": "Dungeonand Breaker"
+    },
+    {
+      "slug": "dungeon-dungeon",
+      "loungeId": "DungeonDungeon",
+      "titleKo": "던전던전",
+      "titleEn": "Dungeon Dungeon"
     },
     {
       "slug": "idle-king",
@@ -141,64 +171,10 @@
       "titleEn": "Star Of The Overlord"
     },
     {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
-    },
-    {
       "slug": "stone-three-kingdoms",
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
-    },
-    {
-      "slug": "wandering-mercenary-force",
-      "loungeId": "wandering_mercenary_force",
-      "titleKo": "방랑용병단",
-      "titleEn": "Wandering Mercenary Force"
-    },
-    {
-      "slug": "warphero",
-      "loungeId": "warphero",
-      "titleKo": "워프히어로",
-      "titleEn": "Warphero"
-    },
-    {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
-    },
-    {
-      "slug": "with",
-      "loungeId": "WITH",
-      "titleKo": "위드 : 신의 날개",
-      "titleEn": "With"
     },
     {
       "slug": "wtbk",
