@@ -2,14 +2,23 @@
   "slug": "acecraft",
   "titleEn": "Acecraft",
   "titleKo": "ACECRAFT",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMjA5/MDAxNzkzNzkwMjMwMjUy.mmerErRgCM-3xuLLd-itgr--0jevXlWQj170lFtRnCkg.TrmUbNnQS2-oOWLrjJLhSdsDanofwCf8V3uT99yCrH8g.PNG/%EA%B3%B5%EC%A7%80_%EC%82%AC%ED%95%AD.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDlfODMg/MDAxNzk0MjA4NTgzODcw.foArjF_1Pogr2WgXol-sVhVBTgs0lRE4tKZMaVl6qOYg.OtZpQppKTz3WaU-ii7wHH7XXnspwWPOlVsUPywV3B_cg.PNG/%EA%B3%B5%EC%A7%80_%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "ACECRAFT",
-  "sourceUrl": "https://game.naver.com/lounge/ACECRAFT/board/detail/8410522",
+  "sourceUrl": "https://game.naver.com/lounge/ACECRAFT/board/detail/8436476",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-11-09T06:20:00.340Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-09T10:39:16.124Z",
   "codes": [
+    {
+      "code": "CHATWISH",
+      "reward": "",
+      "expiry": "2026-11-21",
+      "postedAt": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
     {
       "code": "SPOOKYGIFT",
       "reward": "",
