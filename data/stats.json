@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T03:15:52.885Z",
+  "generatedAt": "2026-11-09T06:20:34.491Z",
   "today": "2026-11-09",
-  "todayNew": 34,
+  "todayNew": 49,
   "totals": {
-    "games": 414,
-    "codes": 5816,
-    "active": 931,
-    "expired": 4885,
-    "withExpiry": 3423
+    "games": 415,
+    "codes": 5831,
+    "active": 956,
+    "expired": 4875,
+    "withExpiry": 3431
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-09",
-      "count": 34
+      "count": 49
     }
   ],
   "expiringSoon": [
@@ -446,6 +446,11 @@
       "total": 13
     },
     {
+      "slug": "samgukji-kingdom",
+      "active": 10,
+      "total": 13
+    },
+    {
       "slug": "sword-frontier",
       "active": 10,
       "total": 26
@@ -464,12 +469,7 @@
       "slug": "busy-savior",
       "active": 9,
       "total": 37
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 9,
-      "total": 87
     }
   ],
-  "noImage": 81
+  "noImage": 82
 }

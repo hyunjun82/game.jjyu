@@ -2,14 +2,23 @@
   "slug": "baseball-go-2026",
   "titleEn": "2026 Baseball GO",
   "titleKo": "2026 프로야구GO!",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjAzMjRfMjAy/MDAxNzc0MzIzNzM2NzEy.ZKjC_1vMGQbdIWkAYBabpMuFkWTRXP_cKAssjlTUV_wg.E-7LJCo5lvT48eI7PNJcmW1gQWS9unxFDw1uwngFeLQg.PNG/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%EA%B3%A0_%EB%A1%9C%EA%B3%A0.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDlfMTg2/MDAxNzk0MjA0NTUzMDE5.3e9LOn-QWkex-rqrpbQmMYotO7EkVAA90zx5CJ-aIcQg.goX0rU1ufH2nVIoKpN9Xxzx4eBoAj74A6GlRUTX6vD4g.JPEG/KBO_SeasonCoupon_04_Kr.jpg",
   "source": "naver-lounge",
   "loungeId": "2026baseballgo",
-  "sourceUrl": "https://game.naver.com/lounge/2026baseballgo/board/detail/7992206",
-  "howTo": "",
-  "postCount": 9,
-  "updatedAt": "2026-11-09T02:55:26.229Z",
+  "sourceUrl": "https://game.naver.com/lounge/2026baseballgo/board/detail/8435336",
+  "howTo": "- Android : 메뉴 > 설정 > [쿠폰] 버튼 선택 > 쿠폰 번호 입력 - iOS : 메뉴 > 설정 > 공지사항 > 좌측 상단 [쿠폰 입력하기] 버튼 선택 > 쿠폰 번호 입력 ※ 쿠폰 사용 후 보상은 우편함으로 지급됩니다.",
+  "postCount": 10,
+  "updatedAt": "2026-11-09T06:15:56.427Z",
   "codes": [
+    {
+      "code": "LIONSV92026",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
     {
       "code": "CJ11S20HR",
       "reward": "",

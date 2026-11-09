@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTAzMjFfMjg4/MDAxNzQyNTU1NTE1MjI1.W0-roWaZh10-iXRnHYBcTmlll2Z5Xn6V_4K7wBfSRYQg.YrVvuyxOIVmXwXWGENFsFnaQRXx5c8Z2gDxCgLSJdmkg.PNG/banner-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "kurobas_sr",
-  "sourceUrl": "https://game.naver.com/lounge/kurobas_sr/board/detail/8427466",
+  "sourceUrl": "https://game.naver.com/lounge/kurobas_sr/board/detail/8434636",
   "howTo": "",
-  "postCount": 647,
-  "updatedAt": "2026-11-09T02:56:55.894Z",
+  "postCount": 646,
+  "updatedAt": "2026-11-09T06:17:26.580Z",
   "codes": [
+    {
+      "code": "1109WNRKSZNVHS",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
     {
       "code": "NFLGKXKBD1108",
       "reward": "",
@@ -182,15 +191,6 @@
       "status": "expired"
     },
     {
-      "code": "0817AOWNZNVHS",
-      "reward": "",
-      "expiry": "2026-08-23",
-      "postedAt": "2026-08-17",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-09",
-      "status": "expired"
-    },
-    {
       "code": "VELENTINEDAY",
       "reward": "",
       "expiry": "2025-02-24",
@@ -204,6 +204,15 @@
       "reward": "",
       "expiry": "2024-08-31",
       "postedAt": "2024-08-13",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-09",
+      "status": "expired"
+    },
+    {
+      "code": "0817AOWNZNVHS",
+      "reward": "",
+      "expiry": "2026-08-23",
+      "postedAt": "2026-08-17",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-09",
       "status": "expired"

@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Last_Light_Defense/board/detail/7638085",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-11-09T02:56:33.367Z",
+  "updatedAt": "2026-11-09T06:17:02.681Z",
   "codes": [
+    {
+      "code": "YWH512",
+      "reward": "",
+      "expiry": "2027-01-30",
+      "postedAt": "2026-03-10",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
     {
       "code": "HALLOWEEN",
       "reward": "",
@@ -38,18 +47,18 @@
       "status": "active"
     },
     {
-      "code": "2ZzMqe",
+      "code": "LIGHT2026",
       "reward": "",
-      "expiry": "2026-12-30",
+      "expiry": "2027-01-01",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-09",
       "status": "active"
     },
     {
-      "code": "LIGHT2026",
+      "code": "2ZzMqe",
       "reward": "",
-      "expiry": "2027-01-01",
+      "expiry": "2026-12-30",
       "postedAt": "2026-03-10",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-09",
@@ -74,15 +83,6 @@
       "status": "expired"
     },
     {
-      "code": "oO5L3y",
-      "reward": "",
-      "expiry": "2026-09-29",
-      "postedAt": "2026-03-10",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-09",
-      "status": "expired"
-    },
-    {
       "code": "qZC0Iy",
       "reward": "",
       "expiry": "2026-09-29",
@@ -102,6 +102,15 @@
     },
     {
       "code": "27aoO5",
+      "reward": "",
+      "expiry": "2026-09-29",
+      "postedAt": "2026-03-10",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-09",
+      "status": "expired"
+    },
+    {
+      "code": "oO5L3y",
       "reward": "",
       "expiry": "2026-09-29",
       "postedAt": "2026-03-10",

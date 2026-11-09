@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-08T22:14:05.179Z",
+  "updatedAt": "2026-11-09T06:06:19.192Z",
   "codes": [
     {
       "code": "THANKYOUDAEVA",
@@ -28,14 +28,54 @@
       "status": "active"
     },
     {
+      "code": "AION21STANNIVERSARY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "LIGHTANDSHADOW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "AION2THANKSGIVING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "code": "plaync",
+      "reward": "",
+      "expiry": "2027-03-03",
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/hanjangjeongri/224469959451",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "active"
+    },
+    {
       "code": "AION2",
       "reward": "",
-      "expiry": "2026-10-27",
-      "postedAt": "2026-10-26",
-      "sourceUrl": "https://blog.naver.com/gamenote_/224454472455",
+      "expiry": "2027-03-03",
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/hanjangjeongri/224469959451",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-09",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "TAKEFLIGHTAION2",
