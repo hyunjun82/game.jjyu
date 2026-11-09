@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-09T10:48:17.798Z",
+  "updatedAt": "2026-11-09T16:32:51.181Z",
   "codes": [
     {
       "code": "CZNNOVEMBERGIFT",
@@ -14,7 +14,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/mola__mola/224468614274",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/mola__mola/224468614274",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -44,17 +44,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-09",
-      "status": "active"
-    },
-    {
-      "code": "NIGHTMARECARNIVAL",
-      "reward": "",
-      "expiry": "2026-11-09",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/12512512/224453325521",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -64,7 +54,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -74,7 +64,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -94,7 +84,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "expired"
     },
     {
@@ -104,7 +94,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/kkodug9/224453340447",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "expired"
     },
     {
@@ -114,7 +104,17 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/kkodug9/224453340447",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
+      "status": "expired"
+    },
+    {
+      "code": "NIGHTMARECARNIVAL",
+      "reward": "",
+      "expiry": "2026-11-09",
+      "postedAt": "2026-10-25",
+      "sourceUrl": "https://blog.naver.com/12512512/224453325521",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-11-10",
       "status": "expired"
     }
   ]

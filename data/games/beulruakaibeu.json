@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-09T10:50:32.440Z",
+  "updatedAt": "2026-11-09T16:35:00.296Z",
   "codes": [
     {
       "code": "5YEARSWITHSENSEI",
@@ -14,17 +14,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/doek11/224469282439",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
-      "status": "active"
-    },
-    {
-      "code": "HANAWOTADOTTE",
-      "reward": "",
-      "expiry": "2026-11-09",
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/mola__mola/224469325973",
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -34,8 +24,18 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/doek11/224469282439",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
+    },
+    {
+      "code": "HANAWOTADOTTE",
+      "reward": "",
+      "expiry": "2026-11-09",
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224469325973",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-10",
+      "status": "expired"
     },
     {
       "code": "KIRAKIRAERIKA",

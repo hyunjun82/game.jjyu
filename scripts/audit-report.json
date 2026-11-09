@@ -1,38 +1,55 @@
 {
- "generatedAt": "2026-11-08T21:56:47.801Z",
- "window": "20261107~20261109",
- "lounges": 2375,
- "posts": 260,
- "couponPosts": 25,
- "fixedTracked": [],
- "addedLounges": [],
+ "generatedAt": "2026-11-09T15:59:42.692Z",
+ "window": "20261108~20261110",
+ "lounges": 2377,
+ "posts": 298,
+ "couponPosts": 30,
+ "fixedTracked": [
+  "비스트 로드: The New Land | BLX9Y6EPM | 🎉혜택 타임🎉",
+  "소드 x 스태프 | WELCOME01 | 🎁 주간 시크릿 코드 대방출!"
+ ],
+ "addedLounges": [
+  "타워 디펜스 온라인 (Tower_Defense_Online) → /tower-defense-online/ | 타디온파이팅"
+ ],
  "labelOnly": [
-  "라스트 소녀 전사 | 2026-11-07 | 11월丨🍫7Days 누적 출석🍫 이벤트",
-  "드림 가든: 추억의 힐링 경영 | 2026-11-07 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "판타지포유 | 2026-11-08 | [계정] 홈페이지 사전예약 보상은 어떻게 수령하나요?",
+  "전생했더니 검 한 자루 | 2026-11-09 | ⚔️ 검주님의 추리력 발동! 퍼즐 맞추기",
   "전생했더니 검 한 자루 | 2026-11-08 | 레벨업 도전💪100레벨 달성 인증 이벤트",
-  "전생했더니 검 한 자루 | 2026-11-07 | <버그 찾기 이벤트> 안내👀"
+  "소드 앤 프론티아 | 2026-11-09 | 주간 미니 이벤트✨틀린 그림 찾기🔍",
+  "소년가행: 강호의 시작 | 2026-11-09 | 🎁 [라운지 이벤트] 강호의 비보! 보상 공개 및 지급 완료 안내",
+  "삼국지: 구주제패 | 2026-11-09 | ⚔️ 사전 연맹 집결 이벤트 안내 - 서버 선택, 쿠폰 코드 수령 및 마감 시간",
+  "열혈강호: 화룡전 | 2026-11-09 | [쿠폰][2차 공개] 11월 주간 쿠폰 지급 안내 "
  ],
  "imageOnly": [
   {
-   "game": "LUNAR：에버소울",
-   "loungeId": "LUNAR_EverSoul",
-   "feedId": 8422555,
-   "date": "2026-11-07",
-   "title": "🎉 11월 7일 한정 혜택: 웹페이지 20% 쿠폰 & 5% 다이아 페이백",
+   "game": "데블2M",
+   "loungeId": "Devil_2M",
+   "feedId": 8436863,
+   "date": "2026-11-09",
+   "title": "매일 로그인 쿠폰 지급 10%🎁 ",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDVfMjcz/MDAxNzkzODQ5NzI2MjI2.gsqBYPZp8mcbR0fMBJEYLPF3O0Ycc0YiQSl0dBTigPEg.bBv9IIoOgqr5bddvXvdAcIuVXiE9GR1FqD9_djY4fcog.JPEG/%E9%99%90%E6%97%B6%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE-850x170.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjA5MTRfMjQw/MDAxNzg5MzcxMDgyMjE3.7zrqo_bRx6W46vwYjV6jEr-L6JTyXL7Vv1LedvS5XK4g.Zf805o5NAyK5qrXHx7JO3a-Xmtrn__qEJ2q4b1h0IdYg.JPEG/%E4%B8%89%E6%96%B9%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE%281%29.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMDlfMTk1/MDAxNzk0MjIyOTIxMjAz.GRzvRAcNm9CFqx2KLvvSVDvLtYhFj8QJ6Rj8l5c2kQAg.T-1II3iaBMqQGElVEa-5Tl8690vi69C8wQlkIGvULm0g.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17933544124997.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMDlfMjky/MDAxNzk0MjIzMjQzNzgy.aRm8150ZlLXHmjmOJvT0FuJP8-BxcKVpY6qjx7bcf_Yg.vC5-a483GUBNa0EyfmbFlOQtYfs3kDICGFA1akTtAw8g.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17942221193291.png?type=w1678"
    ]
   },
   {
-   "game": "소드 x 스태프: 화산귀환 콜라보",
-   "loungeId": "SwordxStaff",
-   "feedId": 8425239,
-   "date": "2026-11-07",
-   "title": "[공지] 자유 게시판 비공식 쿠폰 및 이벤트 게시물 관련 주의 안내",
+   "game": "삼국지: 구주제패",
+   "loungeId": "Three_Kingdoms_Conquering_the_World",
+   "feedId": 8436045,
+   "date": "2026-11-09",
+   "title": "⚔️ 사전 연맹 집결 이벤트 안내 - 서버 선택, 쿠폰 코드 수령 및 마감 시간",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDdfMjEg/MDAxNzk0MDM5Nzg2MDIz.PTJLV0g8K7v6wEk_gidmRo71uPK5sZYb6EUmtaWfgQIg.AmIN8TEPWm8bnxrehPM9OIxAN7WQuPNeTX3jNXmxnl0g.PNG/1.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMDlfMTM4/MDAxNzk0MjEzMTc0MTQ3.cyHwxLns1MiKI3ist63XaKyjnSMTOgjoPPcZY45L9WYg.2O9bU5PLSAzeIVAd51zRWuQkSJMT2f0Av6m4sVSSkscg.JPEG/%E9%A2%84%E5%88%9B%E7%9B%9F%E6%B4%BB%E5%8A%A8-1200x628.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "열혈강호: 화룡전",
+   "loungeId": "Yulgang_Fire_Dragon_Tale",
+   "feedId": 8432612,
+   "date": "2026-11-09",
+   "title": "[쿠폰][2차 공개] 11월 주간 쿠폰 지급 안내 ",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNTExMDNfMjA1/MDAxNzYyMTMxOTQ0MDc4.nq7KIv0qPVRaEfpOWKlkxckD7eEIrnio4n3cB7bo2SIg.zEiKjMcL_ZVY5VWOPFJkLazbM9Lk5gwJzhfRLVnqFWcg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678"
    ]
   }
  ]
