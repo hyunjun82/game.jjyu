@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-09T10:43:39.491Z",
+  "updatedAt": "2026-11-09T21:27:52.999Z",
   "codes": [
     {
       "code": "THANKYOUDAEVA",
       "reward": "",
-      "expiry": "2027-03-03",
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/bebe_rabit/224469650255",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/kjg3635/224470951589",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-10",
       "status": "active"
     },
     {
@@ -23,36 +23,6 @@
       "expiry": "2027-03-03",
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/game_gallery/224469394657",
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
-      "status": "active"
-    },
-    {
-      "code": "AION21STANNIVERSARY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
-      "status": "active"
-    },
-    {
-      "code": "LIGHTANDSHADOW",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
-      "status": "active"
-    },
-    {
-      "code": "AION2THANKSGIVING",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-09",
       "status": "active"
@@ -76,6 +46,36 @@
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-09",
       "status": "active"
+    },
+    {
+      "code": "AION21STANNIVERSARY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "expired"
+    },
+    {
+      "code": "LIGHTANDSHADOW",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "expired"
+    },
+    {
+      "code": "AION2THANKSGIVING",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/tomeno00/224470345744",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-09",
+      "status": "expired"
     },
     {
       "code": "TAKEFLIGHTAION2",

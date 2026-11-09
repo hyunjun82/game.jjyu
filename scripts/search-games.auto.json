@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-09T10:34:29.875Z",
+  "generatedAt": "2026-11-09T21:19:12.150Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -15,16 +15,22 @@
       "titleEn": "F4 U"
     },
     {
+      "slug": "torchlight-infinite-kr",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight_Infinite"
+    },
+    {
       "slug": "arknights-endfield",
       "loungeId": "Arknights_Endfield",
       "titleKo": "명일방주: 엔드필드",
       "titleEn": "Arknights_Endfield"
     },
     {
-      "slug": "torchlight-infinite-kr",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight_Infinite"
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "samgukji-kingdom",
@@ -39,16 +45,10 @@
       "titleEn": "Monsterhunteroutlanders"
     },
     {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
+      "slug": "weapon-master",
+      "loungeId": "WeaponMaster",
+      "titleKo": "웨폰마스터 키우기",
+      "titleEn": "Weapon Master"
     },
     {
       "slug": "pokemon-go",
@@ -63,82 +63,88 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "alterego",
-      "loungeId": "Alterego",
-      "titleKo": "분신 캐 키우기",
-      "titleEn": "Alterego"
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
     },
     {
-      "slug": "loadto-ninza",
-      "loungeId": "loadtoNINZA",
-      "titleKo": "로드 투 닌자-K닌자의 귀환",
-      "titleEn": "Loadto Ninza"
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
     },
     {
-      "slug": "amber-guard",
-      "loungeId": "AmberGuard",
-      "titleKo": "앰버가드",
-      "titleEn": "Amber Guard"
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
     },
     {
-      "slug": "ananta",
-      "loungeId": "Ananta",
-      "titleKo": "무한대 아난타",
-      "titleEn": "Ananta"
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
     },
     {
-      "slug": "angel-knights",
-      "loungeId": "Angel_Knights",
-      "titleKo": "엔젤나이츠",
-      "titleEn": "Angel Knights"
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
     },
     {
-      "slug": "animal-quest",
-      "loungeId": "Animal_Quest",
-      "titleKo": "애니멀 퀘스트",
-      "titleEn": "Animal Quest"
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
     },
     {
-      "slug": "anotherthreekingdoms",
-      "loungeId": "anotherthreekingdoms",
-      "titleKo": "이세계 삼국지",
-      "titleEn": "Anotherthreekingdoms"
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
     },
     {
-      "slug": "aof",
-      "loungeId": "aof",
-      "titleKo": "에테르 오브 판타지",
-      "titleEn": "Aof"
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
     },
     {
-      "slug": "arisen-ants",
-      "loungeId": "Arisen_Ants",
-      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
-      "titleEn": "Arisen Ants"
+      "slug": "brave-puppy",
+      "loungeId": "BravePuppy",
+      "titleKo": "용감한 댕댕이",
+      "titleEn": "Brave Puppy"
     },
     {
-      "slug": "armored-girls",
-      "loungeId": "Armored_Girls",
-      "titleKo": "삼국무장소녀",
-      "titleEn": "Armored Girls"
+      "slug": "break3-k",
+      "loungeId": "Break3K",
+      "titleKo": "돌파 삼국지",
+      "titleEn": "Break3 K"
     },
     {
-      "slug": "asap-arena",
-      "loungeId": "ASAP_ARENA",
-      "titleKo": "ASAP 아레나",
-      "titleEn": "Asap Arena"
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
     },
     {
-      "slug": "ash-n-veil",
-      "loungeId": "AshNVeil",
-      "titleKo": "애쉬앤베일",
-      "titleEn": "Ash N Veil"
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
     },
     {
-      "slug": "assetonline",
-      "loungeId": "assetonline",
-      "titleKo": "에셋온라인",
-      "titleEn": "Assetonline"
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
     },
     {
       "slug": "dokkaebi-girl",
@@ -183,40 +189,10 @@
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
-    },
-    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
-    },
-    {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
-    },
-    {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
     },
     {
       "slug": "rush-three-kingdom",
@@ -247,12 +223,6 @@
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
-    },
-    {
-      "slug": "zombie-hunter",
-      "loungeId": "ZombieHunter",
-      "titleKo": "이세계 좀비 헌터",
-      "titleEn": "Zombie Hunter"
     },
     {
       "slug": "tree-world",

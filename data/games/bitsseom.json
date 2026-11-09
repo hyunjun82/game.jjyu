@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-09T10:51:21.175Z",
+  "updatedAt": "2026-11-09T21:35:14.325Z",
   "codes": [
+    {
+      "code": "FC1234",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/poss12388/224470980274",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "status": "active"
+    },
+    {
+      "code": "FJ45NZYSB1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/at_otter/224470735693",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-10",
+      "status": "active"
+    },
     {
       "code": "PSZCWYVMNH",
       "reward": "",
@@ -15,17 +35,7 @@
       "sourceUrl": "https://blog.naver.com/issue_item/224469905985",
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-09",
-      "status": "active"
-    },
-    {
-      "code": "FJ45NZYSB1",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/event_expert/224469255937",
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-09",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "ZTX1HEYU",
