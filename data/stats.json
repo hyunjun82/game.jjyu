@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-08T23:32:47.193Z",
+  "generatedAt": "2026-11-09T03:15:52.885Z",
   "today": "2026-11-09",
-  "todayNew": 20,
+  "todayNew": 34,
   "totals": {
     "games": 414,
-    "codes": 5802,
-    "active": 917,
+    "codes": 5816,
+    "active": 931,
     "expired": 4885,
-    "withExpiry": 3411
+    "withExpiry": 3423
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-09",
-      "count": 20
+      "count": 34
     }
   ],
   "expiringSoon": [
@@ -286,6 +286,12 @@
     },
     {
       "slug": "top-heroes",
+      "code": "GB3EF6C0C1F1",
+      "expiry": "2026-11-10",
+      "days": 1
+    },
+    {
+      "slug": "top-heroes",
       "code": "HalloweenParty2026",
       "expiry": "2026-11-10",
       "days": 1
@@ -361,12 +367,6 @@
       "code": "MAKEANDDESTROY",
       "expiry": "2026-11-11",
       "days": 2
-    },
-    {
-      "slug": "monster-taming-stardive",
-      "code": "HAPPYHALF1014",
-      "expiry": "2026-11-11",
-      "days": 2
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 28,
-      "total": 28
+      "active": 29,
+      "total": 29
     },
     {
       "slug": "apex-girls",
@@ -387,8 +387,8 @@
     },
     {
       "slug": "dungeon-hunter6-awakening",
-      "active": 19,
-      "total": 45
+      "active": 20,
+      "total": 46
     },
     {
       "slug": "idle-berserker",
