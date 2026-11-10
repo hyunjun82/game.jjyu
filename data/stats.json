@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T19:19:14.508Z",
+  "generatedAt": "2026-11-10T23:51:33.214Z",
   "today": "2026-11-11",
-  "todayNew": 9,
+  "todayNew": 10,
   "totals": {
     "games": 418,
-    "codes": 5864,
-    "active": 911,
-    "expired": 4953,
-    "withExpiry": 3447
+    "codes": 5865,
+    "active": 909,
+    "expired": 4956,
+    "withExpiry": 3448
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-11",
-      "count": 9
+      "count": 10
     }
   ],
   "expiringSoon": [
@@ -297,6 +297,12 @@
       "days": 2
     },
     {
+      "slug": "lunar-eversoul",
+      "code": "Pepero1111",
+      "expiry": "2026-11-13",
+      "days": 2
+    },
+    {
       "slug": "nostalgic-corner-store",
       "code": "GIFTpFTAyW",
       "expiry": "2026-11-13",
@@ -359,12 +365,6 @@
     {
       "slug": "beulruakaibeu",
       "code": "MAGICALPUMPKIN",
-      "expiry": "2026-11-15",
-      "days": 4
-    },
-    {
-      "slug": "daksa-rpg",
-      "code": "사파이어777",
       "expiry": "2026-11-15",
       "days": 4
     }

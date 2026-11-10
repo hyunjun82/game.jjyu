@@ -1,28 +1,24 @@
 {
- "generatedAt": "2026-11-10T14:45:10.748Z",
- "window": "20261108~20261110",
+ "generatedAt": "2026-11-10T23:10:18.391Z",
+ "window": "20261109~20261111",
  "lounges": 2380,
- "posts": 611,
- "couponPosts": 40,
+ "posts": 553,
+ "couponPosts": 33,
  "fixedTracked": [
-  "F급 용사 키우기 | 11Autumn2Q | [쿠폰] 26년 11월 10일 신규 쿠폰 안내",
-  "레알팜 | Event3 | 농업인의 날 맞이 5종 잔치 안내(단! 하루)",
-  "스타세이비어 | ENDOFTHEJOURNEY | [공지사항] 개발자 토크: 스타세이비어 1주년 기념 개발자 토크 특별 방",
-  "스타세이비어 | TOGETHER1STANNIV | [GM 노트] 개발자 토크: 스타세이비어 1주년 기념 특별 방송 요약 안",
-  "탑 히어로즈 | GB6C87F7D5 | 선물 코드 포함|🎉 파티 룰렛 오픈! 행운의 주인공은 누구?!"
+  "LUNAR: 에버소울 | Pepero1111 | 🔥[11월 빼빼로데이 이벤트]🔥달콤한 100% 페이백 추첨",
+  "레알팜 | Event3 | 농업인의 날 맞이 5종 잔치 안내(단! 하루)"
  ],
- "addedLounges": [
-  "오늘도 레벨업 히어로키우기 방치형RPG (Level_Up_Daily_Hero_Idle_RPG) → /level-up-daily-hero-idle-rpg/ | WELCOME"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "라스트 소녀 전사 | 2026-11-10 | [보상 지급 완료]💌 최애의 날 보상 도착!",
   "드림 가든: 추억의 힐링 경영 | 2026-11-10 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "판타지포유 | 2026-11-08 | [계정] 홈페이지 사전예약 보상은 어떻게 수령하나요?",
+  "꿈의 여행자: 별빛 여정 | 2026-11-11 | [이벤트]⭐가장 빛나는 나만의 스타!",
   "호드 워:어벤저의 소환 | 2026-11-10 | 주간 이벤트-정답을 맞혀보세요!(11/10-11/15)",
   "이모탈 라이징: 불멸의 각성 | 2026-11-10 | 👑 서약과 결혼의 수호신, 헤라가 강림하려 한다.(리뎀션 코드 포함)",
+  "아케론: 종말의 서곡 | 2026-11-11 | [이벤트] 💝 11.11 감사의 마음 전달 이벤트 (11/11~11/20)",
+  "아케론: 종말의 서곡 | 2026-11-11 | [쿠폰] 빼빼로데이 기념 선물🍫",
   "전생했더니 검 한 자루 | 2026-11-10 | 😎난 혼자가 아니야! 길드 가입 인증 이벤트 ⚔️",
   "전생했더니 검 한 자루 | 2026-11-09 | ⚔️ 검주님의 추리력 발동! 퍼즐 맞추기",
-  "전생했더니 검 한 자루 | 2026-11-08 | 레벨업 도전💪100레벨 달성 인증 이벤트",
   "스카이 어비스: 혈맹의 서약 | 2026-11-10 | [라운지 이벤트]주간 퀴즈 이벤트",
   "소드 앤 프론티아 | 2026-11-09 | 주간 미니 이벤트✨틀린 그림 찾기🔍",
   "소년가행: 강호의 시작 | 2026-11-09 | 🎁 [라운지 이벤트] 강호의 비보! 보상 공개 및 지급 완료 안내",
@@ -51,6 +47,16 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMTBfMTUx/MDAxNzk0MzE3MDgxNDk4.LCqJr637lOayg7Xah4j5i8yFU5FUeziidJ-ThKlGGvsg.8ZYWcaQ--Bv04RLoLwOCy8T-xx7CQpd8T1Kd_8855Jog.PNG/%EC%83%81%EB%8B%A8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_700x154.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMTBfMjYx/MDAxNzk0MzE3MDg1Nzkx.sZl_rlUBV6aMbGRlKPqLCbp9-QrkJB6D5uvi1JpC1Wkg.YRwjsJ34k6hrCslczOVZAxs3rnpav8j05diq9Qg5X9Eg.PNG/%ED%95%98%EB%8B%A8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_100.png?type=w1678"
+   ]
+  },
+  {
+   "game": "아케론: 종말의 서곡",
+   "loungeId": "Origin_of_Chaos",
+   "feedId": 8441954,
+   "date": "2026-11-11",
+   "title": "[쿠폰] 빼빼로데이 기념 선물🍫",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTE3/MDAxNzkzMjU4ODE5OTQ2.IrKFfW59pkDu_Xqcgs3Qsu6H5N23MH24AsPitAL28Bsg.Hb59uUesy6J2q7lQudeCCIny4zAvAxk8cDlliTUrwnAg.PNG/EBB9BCEBB9BCEBA19CEB8DB0EC9DB4_EAB8B0EB8590EC84A0EBACBC_700x154.png?type=w1678"
    ]
   },
   {
