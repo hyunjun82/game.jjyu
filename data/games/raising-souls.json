@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA3MjhfMjc2/MDAxNzg1MjIwNjY5NjI4.PmetJrydkBFbC-YxIPBVj7zofAqa1g3Q9Ev8eUaYsP8g.63HzQOiXEPbfLg9HpH39GVusCaBis6cVgFlMDEvDTtAg.PNG/1280X1280_(2).png",
   "source": "naver-lounge",
   "loungeId": "Raising_Souls",
-  "sourceUrl": "https://game.naver.com/lounge/Raising_Souls/board/detail/8433901",
+  "sourceUrl": "https://game.naver.com/lounge/Raising_Souls/board/detail/8438852",
   "howTo": "1. 채팅창 진입 2. /coupon 쿠폰 번호 입력 후 등록",
-  "postCount": 31,
-  "updatedAt": "2026-11-10T02:04:49.855Z",
+  "postCount": 32,
+  "updatedAt": "2026-11-10T03:49:05.230Z",
   "codes": [
+    {
+      "code": "YOUNG-FUN",
+      "reward": "",
+      "expiry": "2026-11-12",
+      "postedAt": "2026-11-10",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "status": "active"
+    },
     {
       "code": "YOUNG-JOY",
       "reward": "",

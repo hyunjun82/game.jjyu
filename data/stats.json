@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T02:08:22.779Z",
+  "generatedAt": "2026-11-10T04:07:17.575Z",
   "today": "2026-11-10",
-  "todayNew": 9,
+  "todayNew": 11,
   "totals": {
     "games": 416,
-    "codes": 5844,
-    "active": 911,
+    "codes": 5846,
+    "active": 913,
     "expired": 4933,
-    "withExpiry": 3438
+    "withExpiry": 3440
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 9
+      "count": 11
     }
   ],
   "expiringSoon": [
@@ -327,6 +327,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-FUN",
+      "expiry": "2026-11-12",
+      "days": 2
+    },
+    {
       "slug": "samgukji-origin2",
       "code": "7091-6cde6cfba-1",
       "expiry": "2026-11-12",
@@ -361,12 +367,6 @@
       "code": "SPOOKYGIFT",
       "expiry": "2026-11-13",
       "days": 3
-    },
-    {
-      "slug": "doomsday-warrior",
-      "code": "TRIPLESNIPE",
-      "expiry": "2026-11-13",
-      "days": 3
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 29,
-      "total": 29
+      "active": 30,
+      "total": 30
     },
     {
       "slug": "apex-girls",
