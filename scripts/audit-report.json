@@ -1,20 +1,33 @@
 {
- "generatedAt": "2026-11-10T01:26:49.480Z",
+ "generatedAt": "2026-11-10T14:45:10.748Z",
  "window": "20261108~20261110",
- "lounges": 2377,
- "posts": 330,
- "couponPosts": 30,
- "fixedTracked": [],
- "addedLounges": [],
+ "lounges": 2380,
+ "posts": 611,
+ "couponPosts": 40,
+ "fixedTracked": [
+  "F급 용사 키우기 | 11Autumn2Q | [쿠폰] 26년 11월 10일 신규 쿠폰 안내",
+  "레알팜 | Event3 | 농업인의 날 맞이 5종 잔치 안내(단! 하루)",
+  "스타세이비어 | ENDOFTHEJOURNEY | [공지사항] 개발자 토크: 스타세이비어 1주년 기념 개발자 토크 특별 방",
+  "스타세이비어 | TOGETHER1STANNIV | [GM 노트] 개발자 토크: 스타세이비어 1주년 기념 특별 방송 요약 안",
+  "탑 히어로즈 | GB6C87F7D5 | 선물 코드 포함|🎉 파티 룰렛 오픈! 행운의 주인공은 누구?!"
+ ],
+ "addedLounges": [
+  "오늘도 레벨업 히어로키우기 방치형RPG (Level_Up_Daily_Hero_Idle_RPG) → /level-up-daily-hero-idle-rpg/ | WELCOME"
+ ],
  "labelOnly": [
+  "라스트 소녀 전사 | 2026-11-10 | [보상 지급 완료]💌 최애의 날 보상 도착!",
+  "드림 가든: 추억의 힐링 경영 | 2026-11-10 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "판타지포유 | 2026-11-08 | [계정] 홈페이지 사전예약 보상은 어떻게 수령하나요?",
   "호드 워:어벤저의 소환 | 2026-11-10 | 주간 이벤트-정답을 맞혀보세요!(11/10-11/15)",
+  "이모탈 라이징: 불멸의 각성 | 2026-11-10 | 👑 서약과 결혼의 수호신, 헤라가 강림하려 한다.(리뎀션 코드 포함)",
   "전생했더니 검 한 자루 | 2026-11-10 | 😎난 혼자가 아니야! 길드 가입 인증 이벤트 ⚔️",
   "전생했더니 검 한 자루 | 2026-11-09 | ⚔️ 검주님의 추리력 발동! 퍼즐 맞추기",
   "전생했더니 검 한 자루 | 2026-11-08 | 레벨업 도전💪100레벨 달성 인증 이벤트",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-10 | [라운지 이벤트]주간 퀴즈 이벤트",
   "소드 앤 프론티아 | 2026-11-09 | 주간 미니 이벤트✨틀린 그림 찾기🔍",
   "소년가행: 강호의 시작 | 2026-11-09 | 🎁 [라운지 이벤트] 강호의 비보! 보상 공개 및 지급 완료 안내",
   "삼국지: 구주제패 | 2026-11-09 | ⚔️ 사전 연맹 집결 이벤트 안내 - 서버 선택, 쿠폰 코드 수령 및 마감 시간",
+  "야생소녀: 리버스 | 2026-11-10 | [안내] 야생소녀: 리버스 정식 서비스 시작! 🐾",
   "열혈강호: 화룡전 | 2026-11-09 | [쿠폰][2차 공개] 11월 주간 쿠폰 지급 안내 "
  ],
  "imageOnly": [
@@ -27,6 +40,17 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMDlfMTk1/MDAxNzk0MjIyOTIxMjAz.GRzvRAcNm9CFqx2KLvvSVDvLtYhFj8QJ6Rj8l5c2kQAg.T-1II3iaBMqQGElVEa-5Tl8690vi69C8wQlkIGvULm0g.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17933544124997.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMDlfMjky/MDAxNzk0MjIzMjQzNzgy.aRm8150ZlLXHmjmOJvT0FuJP8-BxcKVpY6qjx7bcf_Yg.vC5-a483GUBNa0EyfmbFlOQtYfs3kDICGFA1akTtAw8g.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17942221193291.png?type=w1678"
+   ]
+  },
+  {
+   "game": "판타지포유",
+   "loungeId": "F4U",
+   "feedId": 8441551,
+   "date": "2026-11-10",
+   "title": "[공지사항] 사전예약 쿠폰 LMS 미수신 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMTBfMTUx/MDAxNzk0MzE3MDgxNDk4.LCqJr637lOayg7Xah4j5i8yFU5FUeziidJ-ThKlGGvsg.8ZYWcaQ--Bv04RLoLwOCy8T-xx7CQpd8T1Kd_8855Jog.PNG/%EC%83%81%EB%8B%A8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_700x154.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTBfMjYx/MDAxNzk0MzE3MDg1Nzkx.sZl_rlUBV6aMbGRlKPqLCbp9-QrkJB6D5uvi1JpC1Wkg.YRwjsJ34k6hrCslczOVZAxs3rnpav8j05diq9Qg5X9Eg.PNG/%ED%95%98%EB%8B%A8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_100.png?type=w1678"
    ]
   },
   {

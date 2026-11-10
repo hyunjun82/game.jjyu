@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/stellasora/board/detail/8430332",
   "howTo": "",
   "postCount": 382,
-  "updatedAt": "2026-11-10T11:58:17.509Z",
+  "updatedAt": "2026-11-10T15:13:50.447Z",
   "codes": [
     {
       "code": "Leafia",
@@ -16,7 +16,7 @@
       "expiry": "2026-12-03",
       "postedAt": "2026-11-08",
       "firstSeen": "2026-11-08",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": "2026-11-10",
       "postedAt": "2026-10-18",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-10",
-      "status": "active"
+      "lastSeen": "2026-11-11",
+      "status": "expired"
     }
   ]
 }

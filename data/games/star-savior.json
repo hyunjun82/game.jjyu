@@ -5,18 +5,36 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTYx/MDAxNzkzNjkzNDY1NTUx.JrCbGLdsTo29scK9fSm0timubLvJQ1b9iwXkYZu3kQsg.O8I5HtfMFv6RBsDLoypj5pH5QPb32RU4fzU8QPfKK40g.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Starsavior",
-  "sourceUrl": "https://game.naver.com/lounge/Starsavior/board/detail/8404853",
+  "sourceUrl": "https://game.naver.com/lounge/Starsavior/board/detail/8439049",
   "howTo": "다가오는 특별 방송에도 단장님들의 많은 관심과 시청을 부탁드립니다.",
-  "postCount": 2,
-  "updatedAt": "2026-11-10T11:54:40.623Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-10T15:10:34.547Z",
   "codes": [
+    {
+      "code": "ENDOFTHEJOURNEY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-10",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "TOGETHER1STANNIV",
+      "reward": "",
+      "expiry": "2026-12-10",
+      "postedAt": "2026-11-10",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "GIFTREADYANNIV1ST",
       "reward": "",
       "expiry": "2026-11-27",
       "postedAt": "2026-11-03",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "active"
     },
     {
@@ -25,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-05-15",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {

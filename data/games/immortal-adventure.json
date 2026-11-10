@@ -8,25 +8,25 @@
   "sourceUrl": "https://game.naver.com/lounge/IMMORTAL_ADVENTURE/board/detail/8418822",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-11-10T11:58:26.071Z",
+  "updatedAt": "2026-11-10T15:13:58.115Z",
   "codes": [
-    {
-      "code": "pearl1109",
-      "reward": "",
-      "expiry": "2026-11-10",
-      "postedAt": "2026-11-06",
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-10",
-      "status": "active"
-    },
     {
       "code": "Halloween2026",
       "reward": "",
       "expiry": "2027-02-01",
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "active"
+    },
+    {
+      "code": "pearl1109",
+      "reward": "",
+      "expiry": "2026-11-10",
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-11",
+      "status": "expired"
     },
     {
       "code": "cedar1102",
@@ -34,7 +34,7 @@
       "expiry": "2026-11-03",
       "postedAt": "2026-10-30",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-10-20",
       "postedAt": "2026-10-16",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-10-13",
       "postedAt": "2026-10-10",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-10-06",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {
