@@ -5,14 +5,24 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-09T21:34:31.850Z",
+  "updatedAt": "2026-11-10T12:08:24.840Z",
   "codes": [
+    {
+      "code": "bluearchive",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/foryoucom_/224471934301",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "status": "active"
+    },
     {
       "code": "5YEARSWITHSENSEI",
       "reward": "",
-      "expiry": "2026-11-24",
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/doek11/224469282439",
+      "expiry": "2026-11-17",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-10",
       "status": "active"

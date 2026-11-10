@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T04:07:17.575Z",
+  "generatedAt": "2026-11-10T12:10:48.739Z",
   "today": "2026-11-10",
-  "todayNew": 11,
+  "todayNew": 20,
   "totals": {
-    "games": 416,
-    "codes": 5846,
-    "active": 913,
-    "expired": 4933,
-    "withExpiry": 3440
+    "games": 417,
+    "codes": 5855,
+    "active": 925,
+    "expired": 4930,
+    "withExpiry": 3442
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 11
+      "count": 20
     }
   ],
   "expiringSoon": [
@@ -441,6 +441,11 @@
       "total": 13
     },
     {
+      "slug": "dragon-traveler",
+      "active": 10,
+      "total": 88
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
@@ -464,12 +469,7 @@
       "slug": "busy-savior",
       "active": 9,
       "total": 37
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 9,
-      "total": 87
     }
   ],
-  "noImage": 82
+  "noImage": 83
 }
