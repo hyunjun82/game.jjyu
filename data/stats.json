@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-11T00:25:18.263Z",
+  "generatedAt": "2026-11-11T06:30:06.423Z",
   "today": "2026-11-11",
-  "todayNew": 12,
+  "todayNew": 68,
   "totals": {
-    "games": 418,
-    "codes": 5867,
-    "active": 911,
-    "expired": 4956,
-    "withExpiry": 3450
+    "games": 422,
+    "codes": 5923,
+    "active": 996,
+    "expired": 4927,
+    "withExpiry": 3485
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-11",
-      "count": 12
+      "count": 68
     }
   ],
   "expiringSoon": [
@@ -297,6 +297,18 @@
       "days": 2
     },
     {
+      "slug": "kingshot",
+      "code": "CHALLENGE26",
+      "expiry": "2026-11-13",
+      "days": 2
+    },
+    {
+      "slug": "kingshot",
+      "code": "11OFFICIALSTORE08",
+      "expiry": "2026-11-13",
+      "days": 2
+    },
+    {
       "slug": "lunar-eversoul",
       "code": "Pepero1111",
       "expiry": "2026-11-13",
@@ -321,6 +333,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-CHEER",
+      "expiry": "2026-11-13",
+      "days": 2
+    },
+    {
       "slug": "spirit-king",
       "code": "SWEETSPIRIT",
       "expiry": "2026-11-13",
@@ -333,40 +351,22 @@
       "days": 2
     },
     {
-      "slug": "idle-berserker",
-      "code": "NOVNOV3846",
-      "expiry": "2026-11-14",
-      "days": 3
+      "slug": "wuthering-waves",
+      "code": "RareTappo",
+      "expiry": "2026-11-13",
+      "days": 2
     },
     {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "MXKR251",
-      "expiry": "2026-11-14",
-      "days": 3
+      "slug": "wuthering-waves",
+      "code": "TRAINOFSOULS",
+      "expiry": "2026-11-13",
+      "days": 2
     },
     {
-      "slug": "romantic-gangho",
-      "code": "3jdmnhzd",
-      "expiry": "2026-11-14",
-      "days": 3
-    },
-    {
-      "slug": "baseball-go-2026",
-      "code": "LIONSV92026",
-      "expiry": "2026-11-15",
-      "days": 4
-    },
-    {
-      "slug": "beast-lord-the-new-land",
-      "code": "BLX9Y6EPM",
-      "expiry": "2026-11-15",
-      "days": 4
-    },
-    {
-      "slug": "beulruakaibeu",
-      "code": "MAGICALPUMPKIN",
-      "expiry": "2026-11-15",
-      "days": 4
+      "slug": "wuthering-waves",
+      "code": "WuwaTappo",
+      "expiry": "2026-11-13",
+      "days": 2
     }
   ],
   "topGames": [
@@ -377,18 +377,18 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 30,
-      "total": 30
+      "active": 31,
+      "total": 31
+    },
+    {
+      "slug": "dungeon-hunter6-awakening",
+      "active": 21,
+      "total": 47
     },
     {
       "slug": "apex-girls",
       "active": 20,
       "total": 70
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 20,
-      "total": 46
     },
     {
       "slug": "idle-berserker",
@@ -401,13 +401,18 @@
       "total": 19
     },
     {
+      "slug": "sodeu-seutaepeu",
+      "active": 15,
+      "total": 15
+    },
+    {
       "slug": "sword-immortal",
       "active": 15,
       "total": 22
     },
     {
-      "slug": "sodeu-seutaepeu",
-      "active": 14,
+      "slug": "raas",
+      "active": 13,
       "total": 14
     },
     {
@@ -416,9 +421,14 @@
       "total": 13
     },
     {
-      "slug": "raas",
+      "slug": "byeolbyeol-hero",
       "active": 12,
-      "total": 13
+      "total": 15
+    },
+    {
+      "slug": "dragon-traveler",
+      "active": 11,
+      "total": 89
     },
     {
       "slug": "gray-saga",
@@ -431,14 +441,9 @@
       "total": 18
     },
     {
-      "slug": "byeolbyeol-hero",
-      "active": 10,
-      "total": 13
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 10,
-      "total": 88
+      "slug": "sword-frontier",
+      "active": 11,
+      "total": 27
     },
     {
       "slug": "idle-hero-but-save-the-world",
@@ -451,9 +456,9 @@
       "total": 13
     },
     {
-      "slug": "sword-frontier",
+      "slug": "kingshot",
       "active": 10,
-      "total": 26
+      "total": 15
     },
     {
       "slug": "tree-world",
@@ -461,15 +466,10 @@
       "total": 10
     },
     {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 9,
-      "total": 37
+      "slug": "wtbk",
+      "active": 10,
+      "total": 13
     }
   ],
-  "noImage": 83
+  "noImage": 87
 }

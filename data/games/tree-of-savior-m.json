@@ -2,14 +2,32 @@
   "slug": "tree-of-savior-m",
   "titleEn": "Tree of Savior M",
   "titleKo": "트리 오브 세이비어 M",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTA1MjFfMjg0/MDAxNzQ3ODE2NzYyMTU0.7Ycxclh1UZcb8tVYBXgXe70I0HJPkVbsY3BjtlnUZUog.4vgi9mltCkFwoxuSTbRJE_JUTJu2jDkJpBCfXb-wgzwg.PNG/icon_mtos.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfODkg/MDAxNzkzOTQ4OTEwOTk2.ifJu0JJFxMwVlyJU9nfQKL1zTPbY6ytcyPHePIE6jSog.rg1VutnXZCIbnOWQZ7iKIKW1JKJklsug41NROnaasS4g.PNG/TOSM_Farmers_Day_Coupon_THANKSFARMERS_992x558.png",
   "source": "naver-lounge",
   "loungeId": "tosm",
-  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8305543",
+  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8443597",
   "howTo": "게임 내 [메뉴] - [옵션] - [계정] - 오른쪽 아래 [쿠폰입력] 란에서 쿠폰 번호 입력 🎁쿠폰 구성품 지급 보상 개수 벨로브 안정제",
   "postCount": 6,
-  "updatedAt": "2026-11-11T00:07:47.057Z",
+  "updatedAt": "2026-11-11T06:25:23.463Z",
   "codes": [
+    {
+      "code": "THANKS",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "FARMERS",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "TOSM4EVER",
       "reward": "",

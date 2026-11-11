@@ -1,0 +1,31 @@
+{
+  "slug": "raseuteu-kaempeu-dipenseu",
+  "titleEn": "raseuteu-kaempeu-dipenseu",
+  "titleKo": "라스트 캠프 디펜스",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-11T06:24:21.810Z",
+  "codes": [
+    {
+      "code": "DEFENSE2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224468960931",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "LASTCAMP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224468960931",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    }
+  ]
+}

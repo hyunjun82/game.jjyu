@@ -2,13 +2,13 @@
   "slug": "tales-of-angels",
   "titleEn": "Tales Of Angels",
   "titleKo": "각성소녀: 욕망의 여정",
-  "image": "https://nng-phinf.pstatic.net/MjAyNTEyMTJfMzAg/MDAxNzY1NTUwMzMyNjUw.Eatd7u_QdmDBRsxFdPtW6l5ByEa5BTkp-Tu0lby_4Ucg.M9uBctqfXXtxLiGWxIs3BYf_96RxQTbo8sz7j7fqvkQg.PNG/%E5%8F%91%E5%A5%96-1080.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjhfMjIw/MDAxNzkzMTUxNzc5NTE0.gR1KnhuKNFjUqZSbTUZ2TFflhaxwTCsvM1QoiZdrgIUg.sJ8guOx-irhyb11cAWRB00qi1kF1ByrJrem9bAq9CVYg.PNG/%E5%8F%91%E5%A5%96-1080.png",
   "source": "naver-lounge",
   "loungeId": "Tales_of_Angels",
   "sourceUrl": "https://game.naver.com/lounge/Tales_of_Angels/board/detail/8418810",
   "howTo": "",
-  "postCount": 30,
-  "updatedAt": "2026-11-11T00:10:19.913Z",
+  "postCount": 29,
+  "updatedAt": "2026-11-11T06:28:13.940Z",
   "codes": [
     {
       "code": "Z3R8KD",
@@ -79,15 +79,6 @@
       "expiry": "2026-10-16",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-11",
-      "status": "expired"
-    },
-    {
-      "code": "A8ZL73",
-      "reward": "",
-      "expiry": "2026-01-02",
-      "postedAt": "2025-12-12",
-      "firstSeen": "2026-09-27",
       "lastSeen": "2026-11-11",
       "status": "expired"
     },
@@ -276,6 +267,15 @@
       "reward": "",
       "expiry": "2026-05-29",
       "postedAt": "2026-05-15",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-11-11",
+      "status": "expired"
+    },
+    {
+      "code": "A8ZL73",
+      "reward": "",
+      "expiry": "2026-01-02",
+      "postedAt": "2025-12-12",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-11-11",
       "status": "expired"

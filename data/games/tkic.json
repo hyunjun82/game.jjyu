@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAzMTNfMjQ3/MDAxNzczMzk2MTU5NzI3.9-ewQT0-lrm0pGpm5NTyPrujLYITK4Y4ISN6b-NdGowg.5T-8hFhSUQdw5cp7s7qH4yDRy3i575gwmCeVMmUjZpQg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%93%A8%ED%84%B0.png",
   "source": "naver-lounge",
   "loungeId": "tkic",
-  "sourceUrl": "https://game.naver.com/lounge/tkic/board/detail/8407661",
+  "sourceUrl": "https://game.naver.com/lounge/tkic/board/detail/8443319",
   "howTo": "- 쿠폰 등록 페이지에서 등록하기 : 쿠폰 등록 페이지",
-  "postCount": 11,
-  "updatedAt": "2026-11-11T00:09:23.162Z",
+  "postCount": 12,
+  "updatedAt": "2026-11-11T06:27:09.817Z",
   "codes": [
+    {
+      "code": "SAMY21111",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "SAMY21104",
       "reward": "",

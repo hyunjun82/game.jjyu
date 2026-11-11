@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-10T19:09:56.919Z",
+  "updatedAt": "2026-11-11T06:14:51.144Z",
   "codes": [
+    {
+      "code": "HangulDay2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472598696",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "GAECHEONJEOL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472598696",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "WOS1104",
       "reward": "",
@@ -48,6 +68,16 @@
       "status": "active"
     },
     {
+      "code": "SPORTSDAY26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472598696",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
       "code": "WOS1025",
       "reward": "",
       "expiry": "2026-10-27",
@@ -61,20 +91,10 @@
       "code": "WOS1018",
       "reward": "",
       "expiry": "2026-10-20",
-      "postedAt": "2026-10-19",
-      "sourceUrl": "https://blog.naver.com/jjuba424/224446485286",
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472598696",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-08",
-      "status": "expired"
-    },
-    {
-      "code": "SPORTSDAY26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/whitelink224/224443662770",
-      "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-04",
+      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {

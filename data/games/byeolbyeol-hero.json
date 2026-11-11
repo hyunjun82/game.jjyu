@@ -2,14 +2,32 @@
   "slug": "byeolbyeol-hero",
   "titleEn": "ByeolByeol Hero",
   "titleKo": "별별 히어로",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MTlfOSAg/MDAxNzg3MTIxNTM5MzU3.zOIHD5FU0yF1byPSbyBWgkcYrojxQHYtKOJU1icG2MEg.bpeAN9yUqswM07LfGXbp5IX3onKu0pRMTioSnFeWhR8g.JPEG/image2.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDVfODEg/MDAxNzkzODQ5NTE0NTg5.YEzf97s7fGS9f7UZY70mFlnaTeCaBX8YNz68R7SGKT0g.nHhltY_HnomOoOnjcJhDYMTMCkktDh8wlGEvw9zJvngg.JPEG/image3.jpg",
   "source": "naver-lounge",
   "loungeId": "bbhero",
-  "sourceUrl": "https://game.naver.com/lounge/bbhero/board/detail/8078225",
+  "sourceUrl": "https://game.naver.com/lounge/bbhero/board/detail/8442840",
   "howTo": "- 좌측 상단의 프로필(①) 터치 후 설정에서 교환코드(②)를 입력 후 획득할 수 있습니다. ✧ 참고 사항 - 해당 쿠폰은 캐릭터 당 1회만 사용 가능합니다.",
-  "postCount": 4,
-  "updatedAt": "2026-11-11T00:07:58.269Z",
+  "postCount": 5,
+  "updatedAt": "2026-11-11T06:25:34.629Z",
   "codes": [
+    {
+      "code": "스테이지",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "halfanniv",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "xfollow30",
       "reward": "",

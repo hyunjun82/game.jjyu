@@ -310,6 +310,30 @@
       "titleKo": "[FC온라인",
       "titleEn": "fconrain",
       "found": "2026-11-09"
+    },
+    {
+      "slug": "geim",
+      "titleKo": "게임",
+      "titleEn": "geim",
+      "found": "2026-11-11"
+    },
+    {
+      "slug": "nyangnyang-sinobi",
+      "titleKo": "냥냥 시노비",
+      "titleEn": "nyangnyang-sinobi",
+      "found": "2026-11-11"
+    },
+    {
+      "slug": "pokeaijak-pok-isaac",
+      "titleKo": "포케아이작(PokéIsaac)",
+      "titleEn": "pokeaijak-pok-isaac",
+      "found": "2026-11-11"
+    },
+    {
+      "slug": "raseuteu-kaempeu-dipenseu",
+      "titleKo": "라스트 캠프 디펜스",
+      "titleEn": "raseuteu-kaempeu-dipenseu",
+      "found": "2026-11-11"
     }
   ],
   "rejected": [

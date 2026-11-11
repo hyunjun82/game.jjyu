@@ -2,14 +2,23 @@
   "slug": "dungeon-hunter6-awakening",
   "titleEn": "Dungeon Hunter6 Awakening",
   "titleKo": "던전헌터 6 : 각성",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTg5/MDAxNzkzMzU0MDI0NjI3.n-5ZsbrlH8ffyfcPziQ1xbT-N6vkZCe2qQ_4fGQxcZ4g.omGkFV4_pZCFKBpR2RODshvL1uKEDiaQaRN7cZ0crbEg.JPEG/06_%EC%BF%A0%ED%8F%B0%EC%BD%94%EB%93%9C_(800_X_150).jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMzIg/MDAxNzkzOTU5MzY4Nzgz.ElVT_egNyh5yzhbqSX_yDtigLCyPFWKkCViYjomNt-og.hkeJgj7YLqBXVtO5_p4OHZD3AQ6qHnXZv863GdrvCsUg.JPEG/06_%EC%BF%A0%ED%8F%B0%EC%BD%94%EB%93%9C_(800_X_150).jpg",
   "source": "naver-lounge",
   "loungeId": "Dungeon_Hunter6_Awakening",
-  "sourceUrl": "https://game.naver.com/lounge/Dungeon_Hunter6_Awakening/board/detail/8433621",
+  "sourceUrl": "https://game.naver.com/lounge/Dungeon_Hunter6_Awakening/board/detail/8443010",
   "howTo": "①메인 화면 우측 상단 '혜택' ②코드 보상 클릭 ③쿠폰 입력 후 보상 수령 (단, 쿠폰은 20레벨 이상 사용 가능)",
-  "postCount": 235,
-  "updatedAt": "2026-11-11T00:09:01.475Z",
+  "postCount": 236,
+  "updatedAt": "2026-11-11T06:26:47.046Z",
   "codes": [
+    {
+      "code": "dz54fdg",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "dz54eq7",
       "reward": "",

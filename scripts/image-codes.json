@@ -40,7 +40,9 @@
   "8436045": "2026-11-10",
   "8436863": "2026-11-10",
   "8441551": "2026-11-11",
-  "8441954": "2026-11-11"
+  "8441954": "2026-11-11",
+  "8443219": "2026-11-11",
+  "8443346": "2026-11-11"
  },
  "lounges": {
   "Ehrpis": [
@@ -51,6 +53,14 @@
     "feedId": 8327396,
     "at": "2026-10-15",
     "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8327396"
+   },
+   {
+    "code": "1111PEPE",
+    "expiry": null,
+    "postedAt": "2026-11-11",
+    "feedId": 8443219,
+    "at": "2026-11-11",
+    "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8443219"
    }
   ],
   "Samgukji2022": [

@@ -2,14 +2,23 @@
   "slug": "rogw-remains-of-gods",
   "titleEn": "ROGW: Remains of Gods",
   "titleKo": "로그W: 리메인즈 오브 갓",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTBfMTI1/MDAxNzk0Mjc3NTQ4NjYz.H_uwH5ACxv4mmFXiivDLEsVGinlB_2e7QIuu5hs7Ve4g.nTCmVhNnlUQ3vLnDQvLpwxVfQNZDTJprLx_-xeIfa84g.JPEG/%EC%BF%A0%ED%8F%B0%EC%BD%94%EB%93%9C_(800_X_150).jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfNzQg/MDAxNzkzOTU4Njg0OTI0.LTs2DT7NuwVFQljBnj1EJVQz1Wxdi_AI5hHu4hziNYMg.uhXe2Dnt-W_OyXWvgTe3nUPRLr3Kxp0FPmezilRDcy0g.JPEG/%EC%BF%A0%ED%8F%B0%EC%BD%94%EB%93%9C_(800_X_150).jpg",
   "source": "naver-lounge",
   "loungeId": "ROGW_Remains_Of_Gods",
-  "sourceUrl": "https://game.naver.com/lounge/ROGW_Remains_Of_Gods/board/detail/8438927",
+  "sourceUrl": "https://game.naver.com/lounge/ROGW_Remains_Of_Gods/board/detail/8443009",
   "howTo": "①메인 화면 좌측 상단 캐릭터 프로필 - [설정] 클릭 ②'코드 보상' 클릭 ③쿠폰 입력 후 보상 수령 (단, 쿠폰은 캐릭터 당 1회 사용 가능)",
-  "postCount": 28,
-  "updatedAt": "2026-11-11T00:07:35.433Z",
+  "postCount": 29,
+  "updatedAt": "2026-11-11T06:25:11.823Z",
   "codes": [
+    {
+      "code": "ROGW1111",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "ROGWU1110",
       "reward": "",

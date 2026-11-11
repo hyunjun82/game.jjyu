@@ -5,24 +5,14 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-10T19:16:53.280Z",
+  "updatedAt": "2026-11-11T06:21:22.060Z",
   "codes": [
     {
       "code": "SKI3RDYEARS1",
       "reward": "",
       "expiry": "2027-09-17",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/cono00_/224453096901",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-11",
-      "status": "active"
-    },
-    {
-      "code": "SKI3RDYEARS3",
-      "reward": "",
-      "expiry": "2027-09-27",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/cono00_/224453096901",
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472663968",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-11",
       "status": "active"
@@ -31,8 +21,18 @@
       "code": "SKI3RDYEARS2",
       "reward": "",
       "expiry": "2027-09-22",
-      "postedAt": "2026-10-25",
-      "sourceUrl": "https://blog.naver.com/cono00_/224453096901",
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472663968",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "SKI3RDYEARS3",
+      "reward": "",
+      "expiry": "2027-09-27",
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472663968",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-11",
       "status": "active"

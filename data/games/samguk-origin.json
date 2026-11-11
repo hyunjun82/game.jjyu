@@ -7,13 +7,22 @@
   "loungeId": "Samguk_Origin",
   "sourceUrl": "https://game.naver.com/lounge/Samguk_Origin/board/detail/8442661",
   "howTo": "",
-  "postCount": 5,
-  "updatedAt": "2026-11-11T00:10:32.901Z",
+  "postCount": 6,
+  "updatedAt": "2026-11-11T06:28:29.167Z",
   "codes": [
     {
       "code": "1688-fbebb0100-1",
       "reward": "",
       "expiry": "2026-11-16",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "1689-1612bb847-1",
+      "reward": "",
+      "expiry": "2026-11-17",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
