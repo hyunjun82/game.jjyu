@@ -2,11 +2,23 @@
   "slug": "f4-u",
   "titleEn": "F4 U",
   "titleKo": "판타지포유",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTFfMjYy/MDAxNzk0Mzk1OTE1MTYy.bVCrWna5rgMUv800rt9O6H3lJTA3ETSEzuTonfqiPy8g.GLTOI2xKVSE-Q58YXo-pmsUql-03QUY9oU749nvl3qsg.JPEG/%EB%B9%BC%EB%B9%BC%EB%A1%9C%EB%8D%B0%EC%9D%B4_2560x1480.jpg",
+  "source": "naver-lounge",
+  "loungeId": "F4U",
+  "sourceUrl": "https://game.naver.com/lounge/F4U/board/detail/8446946",
   "howTo": "",
-  "updatedAt": "2026-11-11T14:07:58.752Z",
+  "postCount": 1,
+  "updatedAt": "2026-11-11T14:51:25.482Z",
   "codes": [
+    {
+      "code": "F4UTHANKS1111DAY",
+      "reward": "",
+      "expiry": "2026-11-19",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "CFA3EC73D4D99776",
       "reward": "",

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-11T14:07:18.259Z",
+  "updatedAt": "2026-11-11T14:54:19.290Z",
   "codes": [
     {
       "code": "MAKEANDDESTROY",
@@ -15,7 +15,7 @@
       "sourceUrl": "https://blog.naver.com/alfson/224467027177",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-11",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "HAPPYHALF1014",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://blog.naver.com/alfson/224442492860",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-11-06",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "MONGILREPORT",

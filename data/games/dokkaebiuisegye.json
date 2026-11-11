@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-11T14:11:26.742Z",
+  "updatedAt": "2026-11-11T14:57:21.216Z",
   "codes": [
     {
       "code": "구분",
@@ -35,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/sunrokie/224472345699",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-11",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "칭호나와라뚝딱",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-01",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "도깨비의내일",
@@ -55,7 +55,7 @@
       "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-01",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "도깨비의보답",
@@ -75,7 +75,7 @@
       "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
       "firstSeen": "2026-10-21",
       "lastSeen": "2026-11-01",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "구글1위잔치로구나",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://blog.naver.com/8461wld/224459215244",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-11-01",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "DOKKAEBI2026",
