@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Wooparoo_Odyssey/board/detail/8443380",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-11-11T14:50:17.664Z",
+  "updatedAt": "2026-11-11T21:49:58.921Z",
   "codes": [
     {
       "code": "WANDAROO",
@@ -16,7 +16,7 @@
       "expiry": "2026-11-25",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -29,21 +29,21 @@
       "status": "active"
     },
     {
+      "code": "ADVENTUREDICE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-14",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-11-12",
+      "status": "expired"
+    },
+    {
       "code": "WPR3RDANVCOUPON3",
       "reward": "",
       "expiry": "2026-11-11",
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-14",
       "lastSeen": "2026-10-30",
-      "status": "expired"
-    },
-    {
-      "code": "ADVENTUREDICE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-14",
-      "firstSeen": "2026-10-14",
-      "lastSeen": "2026-11-11",
       "status": "expired"
     },
     {

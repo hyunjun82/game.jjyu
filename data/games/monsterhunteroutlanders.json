@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-11T14:55:11.099Z",
+  "updatedAt": "2026-11-11T21:55:08.757Z",
   "codes": [
     {
       "code": "mhogohunt",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/dkqnddl33/224471411809",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     }
   ]

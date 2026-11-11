@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-11-11T15:01:26.467Z",
+  "generatedAt": "2026-11-11T22:03:05.682Z",
   "today": "2026-11-12",
-  "todayNew": 0,
+  "todayNew": 3,
   "totals": {
     "games": 423,
-    "codes": 5952,
-    "active": 1011,
-    "expired": 4941,
-    "withExpiry": 3494
+    "codes": 5955,
+    "active": 971,
+    "expired": 4984,
+    "withExpiry": 3496
   },
   "newByDate": [
-    {
-      "date": "2026-10-29",
-      "count": 137
-    },
     {
       "date": "2026-10-30",
       "count": 84
@@ -65,6 +61,10 @@
     {
       "date": "2026-11-11",
       "count": 97
+    },
+    {
+      "date": "2026-11-12",
+      "count": 3
     }
   ],
   "expiringSoon": [
@@ -249,6 +249,12 @@
       "days": 1
     },
     {
+      "slug": "tangtangeiseu",
+      "code": "ACEKR23",
+      "expiry": "2026-11-13",
+      "days": 1
+    },
+    {
       "slug": "wuthering-waves",
       "code": "RareTappo",
       "expiry": "2026-11-13",
@@ -361,12 +367,6 @@
       "code": "EE1102VNBG",
       "expiry": "2026-11-15",
       "days": 3
-    },
-    {
-      "slug": "genshin-impact",
-      "code": "MIJIQ23V2437",
-      "expiry": "2026-11-15",
-      "days": 3
     }
   ],
   "topGames": [
@@ -401,14 +401,14 @@
       "total": 19
     },
     {
-      "slug": "sodeu-seutaepeu",
-      "active": 15,
-      "total": 15
-    },
-    {
       "slug": "sword-immortal",
       "active": 15,
       "total": 22
+    },
+    {
+      "slug": "sodeu-seutaepeu",
+      "active": 14,
+      "total": 15
     },
     {
       "slug": "raas",
@@ -424,11 +424,6 @@
       "slug": "byeolbyeol-hero",
       "active": 12,
       "total": 15
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "active": 12,
-      "total": 13
     },
     {
       "slug": "gray-saga",
@@ -466,9 +461,14 @@
       "total": 10
     },
     {
-      "slug": "wtbk",
-      "active": 10,
-      "total": 13
+      "slug": "astro-defenders",
+      "active": 9,
+      "total": 10
+    },
+    {
+      "slug": "busy-savior",
+      "active": 9,
+      "total": 37
     }
   ],
   "noImage": 87

@@ -5,27 +5,17 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-11T14:57:03.008Z",
+  "updatedAt": "2026-11-11T21:58:25.040Z",
   "codes": [
     {
       "code": "CZNNOVEMBERGIFT",
       "reward": "",
       "expiry": "2026-11-17",
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/bb6888/224466097575",
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224468614274",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
-    },
-    {
-      "code": "HAPPY1YEARCZN",
-      "reward": "",
-      "expiry": "2026-11-11",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/naakey/224460520791",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-11",
-      "status": "expired"
     },
     {
       "code": "10211STANNIVERSARY",
@@ -34,7 +24,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -44,7 +34,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -54,7 +44,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -64,7 +54,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -78,13 +68,23 @@
       "status": "expired"
     },
     {
+      "code": "HAPPY1YEARCZN",
+      "reward": "",
+      "expiry": "2026-11-11",
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/naakey/224460520791",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-12",
+      "status": "expired"
+    },
+    {
       "code": "epicwithczn",
       "reward": "",
       "expiry": "2026-10-28",
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/kkodug9/224453340447",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -104,7 +104,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/kkodug9/224453340447",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -114,7 +114,7 @@
       "postedAt": "2026-10-25",
       "sourceUrl": "https://blog.naver.com/12512512/224453325521",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     }
   ]

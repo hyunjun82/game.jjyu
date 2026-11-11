@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/PIXEL_TAMERZ/board/detail/8400986",
   "howTo": "- 설정 > 쿠폰 입력에서 입력해 주세요. - 보상은 입력 즉시 지급됩니다. ■ 유의 사항 • 쿠폰은 계정당 1회",
   "postCount": 4,
-  "updatedAt": "2026-11-11T14:48:07.607Z",
+  "updatedAt": "2026-11-11T21:47:40.152Z",
   "codes": [
     {
       "code": "SORRYFIREGOD",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-02",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": null,
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-11",
-      "status": "active"
+      "lastSeen": "2026-11-12",
+      "status": "expired"
     },
     {
       "code": "SORRYEVENT",
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -88,7 +88,7 @@
       "expiry": "2026-09-22",
       "postedAt": "2026-08-19",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -97,7 +97,7 @@
       "expiry": "2026-09-22",
       "postedAt": "2026-08-19",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {

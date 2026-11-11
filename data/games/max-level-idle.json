@@ -2,21 +2,31 @@
   "slug": "max-level-idle",
   "titleEn": "Max Level Idle",
   "titleKo": "나 혼자 만렙 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMjQx/MDAxNzkzNzA2ODg2MDIz.f2eg49vOwCucwLH2aBJJ3OIqpYvKn8FyvhoGctqwrYQg.UViF6jlfzr1dsKS5GiWfE6Ir7Hn-oS7uA_4wt7Fsv4kg.PNG/image.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDlfMjA4/MDAxNzk0MjIxNDgzODk0.mnIftzrFIoaoFSra44sCdH-LWHZQILr2rm1ap9A0Asog.yx_J_kTW9U2WDruaHOtV1PlrORWzBmp6Siy7XrHGFMYg.PNG/03_D-7_11%EC%9B%9412%EC%9D%BC.png",
   "source": "naver-lounge",
   "loungeId": "Max_Level_Idle",
-  "sourceUrl": "https://game.naver.com/lounge/Max_Level_Idle/board/detail/8416806",
-  "howTo": "게임 화면 오른쪽 위 메뉴의 **[설정 → 쿠폰]**에서 쿠폰 코드를 입력하시면 보상이 우편함으로 지급됩니다. ※ 쿠폰 코드는 띄어쓰기 없이 붙여 쓰셔야 정상 반영이 됩니다. ※",
-  "postCount": 120,
-  "updatedAt": "2026-11-11T14:47:42.075Z",
+  "sourceUrl": "https://game.naver.com/lounge/Max_Level_Idle/board/detail/8448885",
+  "howTo": "게임 오른쪽 위 메뉴의 [설정 → 쿠폰]에서 쿠폰 코드를 입력해 주세요. 쿠폰 보상은 게임 내 우편함으로 지급됩니다. ※ 쿠폰 코드는 띄어쓰기 없이 입력해 주세요. ※",
+  "postCount": 121,
+  "updatedAt": "2026-11-11T21:47:12.946Z",
   "codes": [
+    {
+      "code": "2NDANNIVERSARYD7",
+      "reward": "",
+      "expiry": "2026-12-16",
+      "expiryFrom": "event",
+      "postedAt": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "status": "active"
+    },
     {
       "code": "2NDANNIVERSARYWITH2",
       "reward": "",
       "expiry": "2026-12-16",
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -26,7 +36,7 @@
       "expiryFrom": "event",
       "postedAt": "2026-11-04",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -35,7 +45,7 @@
       "expiry": "2026-12-16",
       "postedAt": "2026-10-30",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -44,7 +54,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-03-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -54,7 +64,7 @@
       "expiryFrom": "event",
       "postedAt": "2026-03-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -64,7 +74,7 @@
       "expiryFrom": "event",
       "postedAt": "2026-03-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "active"
     },
     {
@@ -73,7 +83,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-10-14",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -82,7 +92,7 @@
       "expiry": "2026-10-13",
       "postedAt": "2026-10-13",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -91,7 +101,7 @@
       "expiry": "2026-10-12",
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -100,7 +110,7 @@
       "expiry": "2026-10-11",
       "postedAt": "2026-10-11",
       "firstSeen": "2026-10-11",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -109,7 +119,7 @@
       "expiry": "2026-10-10",
       "postedAt": "2026-10-10",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -118,7 +128,7 @@
       "expiry": "2026-10-09",
       "postedAt": "2026-10-09",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -127,7 +137,7 @@
       "expiry": "2026-10-08",
       "postedAt": "2026-10-08",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -136,7 +146,7 @@
       "expiry": "2026-10-07",
       "postedAt": "2026-10-07",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -145,7 +155,7 @@
       "expiry": "2026-10-06",
       "postedAt": "2026-10-06",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -154,7 +164,7 @@
       "expiry": "2026-10-05",
       "postedAt": "2026-10-05",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -163,7 +173,7 @@
       "expiry": "2026-10-04",
       "postedAt": "2026-10-04",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -172,7 +182,7 @@
       "expiry": "2026-10-03",
       "postedAt": "2026-10-03",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -181,7 +191,7 @@
       "expiry": "2026-10-02",
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -190,7 +200,7 @@
       "expiry": "2026-10-01",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -208,7 +218,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-09-30",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -217,7 +227,7 @@
       "expiry": "2026-09-29",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -226,7 +236,7 @@
       "expiry": "2026-09-28",
       "postedAt": "2026-09-28",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -235,7 +245,7 @@
       "expiry": "2026-09-27",
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -244,7 +254,7 @@
       "expiry": "2026-09-26",
       "postedAt": "2026-09-26",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -253,7 +263,7 @@
       "expiry": "2026-09-25",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -262,7 +272,7 @@
       "expiry": "2026-09-24",
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -271,7 +281,7 @@
       "expiry": "2026-09-23",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -280,7 +290,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-22",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -289,7 +299,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-20",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -298,7 +308,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-18",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -307,7 +317,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-16",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -316,7 +326,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-14",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -325,7 +335,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-12",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -334,7 +344,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-10",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -343,7 +353,7 @@
       "expiry": "2026-06-21",
       "postedAt": "2026-05-08",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -352,7 +362,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -361,7 +371,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -370,7 +380,7 @@
       "expiry": "2026-09-22",
       "postedAt": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -379,7 +389,7 @@
       "expiry": "2026-09-22",
       "postedAt": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -388,7 +398,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-16",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -397,7 +407,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-15",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -406,7 +416,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-14",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -415,7 +425,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-13",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -424,7 +434,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-12",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -433,7 +443,7 @@
       "expiry": "2026-10-14",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -460,7 +470,7 @@
       "expiry": null,
       "postedAt": "2026-04-24",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -469,7 +479,7 @@
       "expiry": null,
       "postedAt": "2026-04-23",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -478,7 +488,7 @@
       "expiry": null,
       "postedAt": "2026-04-22",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -487,7 +497,7 @@
       "expiry": null,
       "postedAt": "2026-04-21",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -496,7 +506,7 @@
       "expiry": null,
       "postedAt": "2026-04-20",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -505,7 +515,7 @@
       "expiry": null,
       "postedAt": "2026-04-19",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -514,7 +524,7 @@
       "expiry": null,
       "postedAt": "2026-04-18",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -523,7 +533,7 @@
       "expiry": null,
       "postedAt": "2026-04-17",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -532,7 +542,7 @@
       "expiry": null,
       "postedAt": "2026-04-16",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -541,7 +551,7 @@
       "expiry": null,
       "postedAt": "2026-04-15",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -550,7 +560,7 @@
       "expiry": null,
       "postedAt": "2026-04-14",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -559,7 +569,7 @@
       "expiry": null,
       "postedAt": "2026-04-13",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -568,7 +578,7 @@
       "expiry": null,
       "postedAt": "2026-04-12",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -577,7 +587,7 @@
       "expiry": null,
       "postedAt": "2026-04-11",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -586,7 +596,7 @@
       "expiry": null,
       "postedAt": "2026-04-10",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -595,7 +605,7 @@
       "expiry": null,
       "postedAt": "2026-04-09",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -604,7 +614,7 @@
       "expiry": null,
       "postedAt": "2026-04-08",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -613,7 +623,7 @@
       "expiry": null,
       "postedAt": "2026-04-07",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -622,7 +632,7 @@
       "expiry": null,
       "postedAt": "2026-04-06",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -631,7 +641,7 @@
       "expiry": null,
       "postedAt": "2026-04-05",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -640,7 +650,7 @@
       "expiry": null,
       "postedAt": "2026-04-04",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -649,7 +659,7 @@
       "expiry": null,
       "postedAt": "2026-04-03",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -658,7 +668,7 @@
       "expiry": null,
       "postedAt": "2026-04-02",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -667,7 +677,7 @@
       "expiry": null,
       "postedAt": "2026-04-01",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -676,7 +686,7 @@
       "expiry": null,
       "postedAt": "2026-03-31",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     },
     {
@@ -685,7 +695,7 @@
       "expiry": null,
       "postedAt": "2026-03-30",
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "status": "expired"
     }
   ]
