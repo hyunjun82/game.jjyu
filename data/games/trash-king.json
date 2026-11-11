@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAyMTNfMTg2/MDAxNzcwOTc2MTI0Njg0.ghGTeNf_Oqmt0rtCIijF-YTBo4h3t_7tTPuLc4K5zh8g.3fyhJ5iJ4YoKpdjjaK1MjIk5D5oAGhlYEJ2V3cPAEBMg.JPEG/Naver_Lounge_PC_Write_Banner_740x250_coupon.jpg",
   "source": "naver-lounge",
   "loungeId": "Trash_King",
-  "sourceUrl": "https://game.naver.com/lounge/Trash_King/board/detail/8386310",
+  "sourceUrl": "https://game.naver.com/lounge/Trash_King/board/detail/8445010",
   "howTo": "방법 1 : 메인>설정>Player ID 복사>쿠폰등록웹사이트 접속>Player ID와 쿠폰번호 입력 > 우편함 확인 방법 2 : 메인>설정>쿠폰 버튼 클릭 후 쿠폰번호 입력(대소문자 가능) > 우편함 확인 ※ 쿠폰등록웹사이트 :",
-  "postCount": 23,
-  "updatedAt": "2026-11-11T06:51:50.148Z",
+  "postCount": 24,
+  "updatedAt": "2026-11-11T14:18:18.518Z",
   "codes": [
+    {
+      "code": "SWEET1111",
+      "reward": "",
+      "expiry": "2026-12-11",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "2026HALLOWEEN",
       "reward": "",

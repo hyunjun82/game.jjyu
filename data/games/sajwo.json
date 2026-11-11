@@ -1,0 +1,51 @@
+{
+  "slug": "sajwo",
+  "titleEn": "sajwo",
+  "titleKo": "사줘",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-11T14:15:25.496Z",
+  "codes": [
+    {
+      "code": "W65L47",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/guine_pig/224470169754",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "W6P79D",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/mmi042/224466413696",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "W3D1Z6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/yaerim-/224467900783",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
+    {
+      "code": "JOKEM4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/annamoroll/224469692210",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    }
+  ]
+}

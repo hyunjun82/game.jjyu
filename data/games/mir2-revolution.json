@@ -2,14 +2,23 @@
   "slug": "mir2-revolution",
   "titleEn": "Legend of Mir2: Revolution",
   "titleKo": "미르의 전설2: 레볼루션",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTE4/MDAxNzkzMjY5NDc5NzAz.mSmHfWgEdpADwbcriDibObPIRokw4kN0DXZzhBWhrGMg.XxxOLgrQHtr1QJ-ZGDuqbWiSHYePiNft5u0cYj1hmlwg.JPEG/%E8%BE%BE%E6%88%9060w.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTFfODYg/MDAxNzk0Mzc4Njk5NDEx.oiL0cH40U1Nngvj9qf9AyAPQVOT28-ha8QrHqDW_SP8g.bPGnTd4D6PD_DiYsZZ3w4YavNL0NyYp75lFgQ7p86MAg.JPEG/%E5%80%92%E8%AE%A1%E6%97%B6D1.jpg",
   "source": "naver-lounge",
   "loungeId": "INFINITE_Awakening",
-  "sourceUrl": "https://game.naver.com/lounge/INFINITE_Awakening/board/detail/8385649",
+  "sourceUrl": "https://game.naver.com/lounge/INFINITE_Awakening/board/detail/8444145",
   "howTo": "게임 접속 후 [설정] → [활성화 코드 교환]에서 코드를 입력해 주세요. ⚠️ 유의사항 각 선물코드는 계정당 1회만 사용할 수 있습니다. 보상은 게임 내 우편 또는 가방으로 지급될 수 있습니다.",
-  "postCount": 4,
-  "updatedAt": "2026-11-11T06:49:57.788Z",
+  "postCount": 5,
+  "updatedAt": "2026-11-11T14:16:27.205Z",
   "codes": [
+    {
+      "code": "leesoogeun",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "status": "active"
+    },
     {
       "code": "REVOLUTION",
       "reward": "",
