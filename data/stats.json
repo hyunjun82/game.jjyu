@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T01:13:03.621Z",
+  "generatedAt": "2026-11-12T02:54:17.046Z",
   "today": "2026-11-12",
-  "todayNew": 5,
+  "todayNew": 8,
   "totals": {
     "games": 423,
-    "codes": 5957,
-    "active": 969,
+    "codes": 5960,
+    "active": 972,
     "expired": 4988,
-    "withExpiry": 3498
+    "withExpiry": 3501
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-12",
-      "count": 5
+      "count": 8
     }
   ],
   "expiringSoon": [
@@ -291,6 +291,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-SWEET",
+      "expiry": "2026-11-14",
+      "days": 2
+    },
+    {
       "slug": "romantic-gangho",
       "code": "3jdmnhzd",
       "expiry": "2026-11-14",
@@ -359,12 +365,6 @@
     {
       "slug": "eternal-evolution",
       "code": "EE11048B1N",
-      "expiry": "2026-11-15",
-      "days": 3
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "EE1102VNBG",
       "expiry": "2026-11-15",
       "days": 3
     }

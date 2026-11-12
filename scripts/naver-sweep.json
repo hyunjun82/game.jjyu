@@ -754,7 +754,7 @@
    "error": "코드 없음"
   },
   "AFK_Dungeon": {
-   "at": "2026-11-09",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "AFK_HEROS": {
@@ -1704,7 +1704,7 @@
    "total": 33
   },
   "catgirlsurvivor": {
-   "at": "2026-11-08",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "Cat_Heaven": {
@@ -1877,7 +1877,7 @@
    "error": "코드 없음"
   },
   "Cloud_Trail_Teamventure": {
-   "at": "2026-11-08",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "Clover_Magic_Potion": {
@@ -5412,7 +5412,7 @@
    "error": "코드 없음"
   },
   "Magicraft": {
-   "at": "2026-11-09",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "makedrama": {
@@ -7012,7 +7012,7 @@
    "total": 4
   },
   "Rebirth_Arena": {
-   "at": "2026-11-09",
+   "at": "2026-11-12",
    "live": 0,
    "total": 1
   },
@@ -10471,8 +10471,8 @@
    "error": "쿠폰 보드 없음"
   },
   "The_Song_of_Saya": {
-   "at": "2026-09-20",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-11-12",
+   "error": "코드 없음"
   },
   "Pokemon_LEGENDS_ZA": {
    "at": "2026-09-20",
@@ -10611,8 +10611,8 @@
    "error": "쿠폰 보드 없음"
   },
   "Why_Me": {
-   "at": "2026-09-21",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-11-12",
+   "error": "코드 없음"
   },
   "Titan_Souls": {
    "at": "2026-09-21",
@@ -10887,8 +10887,8 @@
    "error": "쿠폰 보드 없음"
   },
   "Spin_Royale": {
-   "at": "2026-09-21",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-11-12",
+   "error": "코드 없음"
   },
   "Yoggy_pang": {
    "at": "2026-10-13",
@@ -11469,7 +11469,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Beat_Paws_Odyssey": {
-   "at": "2026-10-10",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "Treasure_Beach": {
@@ -23054,7 +23054,7 @@
    "error": "코드 없음"
   },
   "iRacing": {
-   "at": "2026-10-31",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "ANLIFE_Motion_Learning_Life_Evolution": {
@@ -24612,7 +24612,7 @@
    "error": "코드 없음"
   },
   "Boom_Beach": {
-   "at": "2026-11-08",
+   "at": "2026-11-12",
    "error": "코드 없음"
   },
   "Sherman_Commander": {
@@ -25277,6 +25277,50 @@
    "error": "코드 없음"
   },
   "Reigns": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Defense_The_Drone": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Arena_of_the_Forge": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Puss_in_Boxes_Warehouse_Puzzle": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Another_Game_About_Automation": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "TricksterM": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "SILENT_HILL_DOWNPOUR": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Princess_Maker_Children_of_Revelation": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Left4_Dead2": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "NIDANA": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Dragon_Ball_Z_Dokkan_Battle": {
+   "at": "2026-11-12",
+   "error": "코드 없음"
+  },
+  "Last_Ember": {
    "at": "2026-11-12",
    "error": "코드 없음"
   }
