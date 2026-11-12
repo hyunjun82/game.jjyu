@@ -2377,6 +2377,14 @@
       "titleKo": "판타지포유",
       "titleEn": "F4 U",
       "auto": "2026-11-11"
+    },
+    {
+      "slug": "nba2-k-mobile",
+      "loungeId": "NBA2K_Mobile",
+      "titleKo": "NBA 2K Mobile - 모바일 농구 게임",
+      "titleEn": "NBA2K_Mobile",
+      "auto": "2026-11-13",
+      "note": "자가 점검(audit-naver)에서 발견"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."

@@ -340,6 +340,13 @@
       "titleKo": "사줘",
       "titleEn": "sajwo",
       "found": "2026-11-11"
+    },
+    {
+      "slug": "lost-sword",
+      "titleKo": "로스트 소드",
+      "titleEn": "Lost_Sword",
+      "loungeId": "Lost_Sword",
+      "found": "2026-11-13"
     }
   ],
   "rejected": [

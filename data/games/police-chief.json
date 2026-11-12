@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-12T10:39:35.950Z",
+  "updatedAt": "2026-11-12T15:19:21.141Z",
   "codes": [
-    {
-      "code": "GO2024",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-29",
-      "sourceUrl": "https://blog.naver.com/jonges_/224458199189",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-12",
-      "status": "active"
-    },
     {
       "code": "CAFECHIEF",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
     },
     {
@@ -34,7 +24,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
     },
     {
@@ -44,7 +34,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
     },
     {
@@ -54,7 +44,17 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
+      "status": "expired"
+    },
+    {
+      "code": "GO2024",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-29",
+      "sourceUrl": "https://blog.naver.com/jonges_/224458199189",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-13",
       "status": "expired"
     },
     {

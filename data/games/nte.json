@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/NTE/board/detail/8347913",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-11-12T10:34:29.734Z",
+  "updatedAt": "2026-11-12T15:30:49.057Z",
   "codes": [
     {
       "code": "NTENIGHT1021",
@@ -16,8 +16,8 @@
       "expiry": "2026-11-12",
       "postedAt": "2026-10-21",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-12",
-      "status": "active"
+      "lastSeen": "2026-11-13",
+      "status": "expired"
     },
     {
       "code": "WONDERLOGGIFT",
@@ -34,7 +34,7 @@
       "expiry": "2026-10-21",
       "postedAt": "2026-09-29",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "expired"
     }
   ]

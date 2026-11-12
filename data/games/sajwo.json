@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-12T10:47:07.458Z",
+  "updatedAt": "2026-11-12T15:27:04.500Z",
   "codes": [
-    {
-      "code": "JY46GZ",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/swjddnjsd000/224473796423",
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12",
-      "status": "active"
-    },
     {
       "code": "W65L47",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-11-09",
       "sourceUrl": "https://blog.naver.com/guine_pig/224470169754",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
     },
     {
@@ -34,7 +24,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/mmi042/224466413696",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
     },
     {
@@ -44,7 +34,7 @@
       "postedAt": "2026-11-09",
       "sourceUrl": "https://blog.naver.com/annamoroll/224469692210",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
     },
     {
@@ -54,8 +44,18 @@
       "postedAt": "2026-11-07",
       "sourceUrl": "https://blog.naver.com/yaerim-/224467900783",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-13",
       "status": "active"
+    },
+    {
+      "code": "JY46GZ",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/swjddnjsd000/224473796423",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "status": "expired"
     }
   ]
 }
