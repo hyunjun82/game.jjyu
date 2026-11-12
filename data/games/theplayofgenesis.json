@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMjg2/MDAxNzkyNDYwODcxNDI1.pAbbcpjLILvXdQCsy1_T23qBKopDV8l-WbRlyvjxku4g.ObhZLIiFwk__5Ti5EohjZQKD6HrJ2HZQux__fcwtHwIg.PNG/%EC%9E%91%EC%9D%80-%EB%B0%B0%EB%84%88_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "theplayofgenesis",
-  "sourceUrl": "https://game.naver.com/lounge/theplayofgenesis/board/detail/8342807",
-  "howTo": "※ 쿠폰이 정상적으로 사용되지 않을 경우, 게임을 완전히 종료하여 재실행 후 쿠폰 코드를 다시 입력해 주시기 바랍니다. ◆ 쿠폰 코드 - KWSLETTER73 ◆ 쿠폰 보상",
-  "postCount": 17,
-  "updatedAt": "2026-11-12T02:38:58.103Z",
+  "sourceUrl": "https://game.naver.com/lounge/theplayofgenesis/board/detail/8452624",
+  "howTo": "※ 쿠폰이 정상적으로 사용되지 않을 경우, 게임을 완전히 종료하여 재실행 후 쿠폰 코드를 다시 입력해 주시기 바랍니다. ◆ 쿠폰 코드 - NEXTSTEP ◆ 쿠폰 보상 - 인연의 큐브*10개",
+  "postCount": 18,
+  "updatedAt": "2026-11-12T10:34:30.190Z",
   "codes": [
+    {
+      "code": "NEXTSTEP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "status": "active"
+    },
     {
       "code": "MYSTERYBOX",
       "reward": "",

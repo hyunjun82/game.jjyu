@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA2MTlfMjgy/MDAxNzUwMjk2NzI2NDE4.E9kiU2TMs1aLXbMHjSwOiHC0rRNABgCc0Su2T-LyMEkg.KQoZRL1IwPmulPiiaghb6RxkGXHagS79o9y3fkBYhIQg.PNG/800x200-4.png",
   "source": "naver-lounge",
   "loungeId": "moe",
-  "sourceUrl": "https://game.naver.com/lounge/moe/board/detail/8302458",
+  "sourceUrl": "https://game.naver.com/lounge/moe/board/detail/8452552",
   "howTo": "1.인 게임 로비 화면 왼쪽 상단 프로필 클릭 2.유저정보 화면에서 [교환 쿠폰] 버튼을 클릭 3.쿠폰 입력창에 쿠폰 코드 입력 *쿠폰 교환 기능은 단장 레벨 20레벨 달성 시 해제됩니다.",
-  "postCount": 501,
-  "updatedAt": "2026-11-12T02:38:53.739Z",
+  "postCount": 502,
+  "updatedAt": "2026-11-12T10:34:25.361Z",
   "codes": [
+    {
+      "code": "HAPPY2611",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "status": "active"
+    },
     {
       "code": "HAPPY2610",
       "reward": "",

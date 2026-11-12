@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-11T22:00:28.927Z",
+  "updatedAt": "2026-11-12T10:44:45.489Z",
   "codes": [
+    {
+      "code": "MAGICAL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/storm18/224474424561",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-12",
+      "status": "active"
+    },
     {
       "code": "bluearchive",
       "reward": "",

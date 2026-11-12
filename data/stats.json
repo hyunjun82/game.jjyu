@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T02:54:17.046Z",
+  "generatedAt": "2026-11-12T10:47:14.301Z",
   "today": "2026-11-12",
-  "todayNew": 8,
+  "todayNew": 20,
   "totals": {
     "games": 423,
-    "codes": 5960,
-    "active": 972,
-    "expired": 4988,
-    "withExpiry": 3501
+    "codes": 5972,
+    "active": 1014,
+    "expired": 4958,
+    "withExpiry": 3505
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-12",
-      "count": 8
+      "count": 20
     }
   ],
   "expiringSoon": [
@@ -426,6 +426,11 @@
       "total": 15
     },
     {
+      "slug": "samgukji-kingdom",
+      "active": 12,
+      "total": 13
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -461,14 +466,9 @@
       "total": 10
     },
     {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 9,
-      "total": 37
+      "slug": "wtbk",
+      "active": 10,
+      "total": 13
     }
   ],
   "noImage": 87
