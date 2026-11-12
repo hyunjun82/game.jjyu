@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-11T22:03:05.682Z",
+  "generatedAt": "2026-11-12T01:13:03.621Z",
   "today": "2026-11-12",
-  "todayNew": 3,
+  "todayNew": 5,
   "totals": {
     "games": 423,
-    "codes": 5955,
-    "active": 971,
-    "expired": 4984,
-    "withExpiry": 3496
+    "codes": 5957,
+    "active": 969,
+    "expired": 4988,
+    "withExpiry": 3498
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-12",
-      "count": 3
+      "count": 5
     }
   ],
   "expiringSoon": [
@@ -406,14 +406,14 @@
       "total": 22
     },
     {
-      "slug": "sodeu-seutaepeu",
+      "slug": "raas",
       "active": 14,
       "total": 15
     },
     {
-      "slug": "raas",
-      "active": 13,
-      "total": 14
+      "slug": "sodeu-seutaepeu",
+      "active": 14,
+      "total": 15
     },
     {
       "slug": "whoa-adventurers",
