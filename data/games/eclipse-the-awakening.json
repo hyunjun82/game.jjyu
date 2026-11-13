@@ -5,14 +5,24 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T06:30:22.348Z",
+  "updatedAt": "2026-11-13T07:04:42.076Z",
   "codes": [
+    {
+      "code": "LPDLIVETHX1110",
+      "reward": "",
+      "expiry": "2026-11-17",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/petmare/224475787139",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
     {
       "code": "LEEPDSECRETSKILL",
       "reward": "",
       "expiry": "2026-11-17",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224473012558",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/petmare/224475787139",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-13",
       "status": "active"
@@ -21,18 +31,8 @@
       "code": "UPTPREVIEWNOV11",
       "reward": "",
       "expiry": "2026-11-17",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224473012558",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
-      "status": "active"
-    },
-    {
-      "code": "LPDLIVETHX1110",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224473012558",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/petmare/224475787139",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-13",
       "status": "active"
@@ -40,9 +40,9 @@
     {
       "code": "FORSAVIORS261111",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224473012558",
+      "expiry": "2026-11-17",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/petmare/224475787139",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-13",
       "status": "active"

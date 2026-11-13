@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T06:39:34.486Z",
+  "updatedAt": "2026-11-13T07:13:10.138Z",
   "codes": [
     {
       "code": "X00OR6",
@@ -13,6 +13,16 @@
       "expiry": null,
       "postedAt": "2026-11-13",
       "sourceUrl": "https://blog.naver.com/bidsh/224475237180",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
+    {
+      "code": "WP0GDX",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/metanan/224475695816",
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-13",
       "status": "active"

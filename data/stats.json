@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T06:45:08.591Z",
+  "generatedAt": "2026-11-13T07:13:23.992Z",
   "today": "2026-11-13",
-  "todayNew": 37,
+  "todayNew": 38,
   "totals": {
     "games": 427,
-    "codes": 6009,
-    "active": 1026,
-    "expired": 4983,
-    "withExpiry": 3528
+    "codes": 6010,
+    "active": 1031,
+    "expired": 4979,
+    "withExpiry": 3530
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-13",
-      "count": 37
+      "count": 38
     }
   ],
   "expiringSoon": [
@@ -426,6 +426,11 @@
       "total": 15
     },
     {
+      "slug": "samgukji-kingdom",
+      "active": 12,
+      "total": 13
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -464,11 +469,6 @@
       "slug": "kingshot",
       "active": 10,
       "total": 15
-    },
-    {
-      "slug": "tree-world",
-      "active": 10,
-      "total": 10
     }
   ],
   "noImage": 89
