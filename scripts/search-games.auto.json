@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-12T18:35:39.121Z",
+  "generatedAt": "2026-11-13T00:20:55.901Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -39,12 +39,6 @@
       "titleEn": "Samgukji_Kingdom"
     },
     {
-      "slug": "hero-raid",
-      "loungeId": "HeroRaid",
-      "titleKo": "용사 키우기",
-      "titleEn": "Hero Raid"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -75,88 +69,16 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dragoon-of-the-wind",
-      "loungeId": "Dragoon_Of_The_Wind",
-      "titleKo": "바람의 드래군M",
-      "titleEn": "Dragoon Of The Wind"
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
     },
     {
-      "slug": "dungeonand-breaker",
-      "loungeId": "DungeonandBreaker",
-      "titleKo": "던전앤브레이커",
-      "titleEn": "Dungeonand Breaker"
-    },
-    {
-      "slug": "dungeon-dungeon",
-      "loungeId": "DungeonDungeon",
-      "titleKo": "던전던전",
-      "titleEn": "Dungeon Dungeon"
-    },
-    {
-      "slug": "dwarfidlerpg",
-      "loungeId": "Dwarfidlerpg",
-      "titleKo": "드워프 키우기 : 방치형RPG",
-      "titleEn": "Dwarfidlerpg"
-    },
-    {
-      "slug": "dx-awaken",
-      "loungeId": "dx_awaken",
-      "titleKo": "DX: 각성자들",
-      "titleEn": "Dx Awaken"
-    },
-    {
-      "slug": "echocalypse-scarlet-covenant",
-      "loungeId": "Echocalypse_Scarlet_Covenant",
-      "titleKo": "에코칼립스: 진홍의 서약",
-      "titleEn": "Echocalypse Scarlet Covenant"
-    },
-    {
-      "slug": "eggmon",
-      "loungeId": "eggmon",
-      "titleKo": "에그몬 월드:저니",
-      "titleEn": "Eggmon"
-    },
-    {
-      "slug": "elfidle",
-      "loungeId": "elfidle",
-      "titleKo": "엘프키우기",
-      "titleEn": "Elfidle"
-    },
-    {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "hell-gate",
-      "loungeId": "HELL_GATE",
-      "titleKo": "헬게이트",
-      "titleEn": "Hell Gate"
-    },
-    {
-      "slug": "hero-raised-by-god",
-      "loungeId": "HeroRaisedByGod",
-      "titleKo": "신이 키우는 용사",
-      "titleEn": "Hero Raised By God"
-    },
-    {
-      "slug": "high-ranker",
-      "loungeId": "HighRanker",
-      "titleKo": "하이랭커",
-      "titleEn": "High Ranker"
-    },
-    {
-      "slug": "honkai-nexus-anima",
-      "loungeId": "Honkai_Nexus_Anima",
-      "titleKo": "붕괴: 넥서스 아니마",
-      "titleEn": "Honkai Nexus Anima"
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
     },
     {
       "slug": "idle-king",
@@ -165,10 +87,28 @@
       "titleEn": "Idle King"
     },
     {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "pirate",
+      "loungeId": "pirate",
+      "titleKo": "우당탕탕 해적단",
+      "titleEn": "Pirate"
+    },
+    {
+      "slug": "pk-world",
+      "loungeId": "PkWorld",
+      "titleKo": "PK월드",
+      "titleEn": "Pk World"
     },
     {
       "slug": "play-together",
@@ -181,6 +121,36 @@
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "popucom",
+      "loungeId": "POPUCOM",
+      "titleKo": "팝유컴",
+      "titleEn": "Popucom"
+    },
+    {
+      "slug": "prime-football-manager",
+      "loungeId": "Prime_Football_Manager",
+      "titleKo": "프라임 풋볼 매니저",
+      "titleEn": "Prime Football Manager"
+    },
+    {
+      "slug": "pro-soccer-legend-eleven",
+      "loungeId": "Pro_Soccer_Legend_Eleven",
+      "titleKo": "프로사커: 레전드 일레븐",
+      "titleEn": "Pro Soccer Legend Eleven"
+    },
+    {
+      "slug": "promise-of-lingyun",
+      "loungeId": "Promise_of_Lingyun",
+      "titleKo": "능운낙",
+      "titleEn": "Promise Of Lingyun"
+    },
+    {
+      "slug": "promisekr",
+      "loungeId": "promisekr",
+      "titleKo": "궁과 약속",
+      "titleEn": "Promisekr"
     },
     {
       "slug": "redmythnezha",
@@ -199,6 +169,12 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
+    },
+    {
+      "slug": "soul-land-second-coming",
+      "loungeId": "Soul_Land_Second_Coming",
+      "titleKo": "소울랜드:세컨드 커밍",
+      "titleEn": "Soul Land Second Coming"
     },
     {
       "slug": "star-of-the-overlord",
