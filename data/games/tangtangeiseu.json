@@ -5,26 +5,26 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T07:09:46.840Z",
+  "updatedAt": "2026-11-13T19:56:46.038Z",
   "codes": [
     {
       "code": "BLESSU",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-13",
-      "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224474035717",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
       "code": "ACETOP",
       "reward": "",
       "expiry": "2026-11-15",
-      "postedAt": "2026-11-13",
-      "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224474035717",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -36,16 +36,6 @@
       "firstSeen": "2026-11-01",
       "lastSeen": "2026-11-10",
       "status": "active"
-    },
-    {
-      "code": "ACEKR23",
-      "reward": "",
-      "expiry": "2026-11-13",
-      "postedAt": "2026-11-13",
-      "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
-      "status": "expired"
     },
     {
       "code": "ACE888",
@@ -114,7 +104,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -124,7 +114,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -134,7 +124,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -144,7 +134,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -154,7 +144,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -164,7 +154,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -174,7 +164,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -184,7 +174,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -194,7 +184,7 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -204,17 +194,27 @@
       "postedAt": "2026-10-26",
       "sourceUrl": "https://blog.naver.com/12512512/224454733836",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
       "code": "ACEKR10",
       "reward": "",
       "expiry": "2026-11-08",
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
+      "status": "expired"
+    },
+    {
+      "code": "ACEKR23",
+      "reward": "",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {

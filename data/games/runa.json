@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T07:11:49.486Z",
+  "updatedAt": "2026-11-13T19:58:51.375Z",
   "codes": [
     {
       "code": "AGRADE71",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/jinjioni/224459189388",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "status": "active"
+      "lastSeen": "2026-11-14",
+      "status": "expired"
     },
     {
       "code": "PLUSPOWERLUNA",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/jinjioni/224459189388",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
-      "status": "active"
+      "lastSeen": "2026-11-14",
+      "status": "expired"
     },
     {
       "code": "LOUITHEBOOST",
@@ -34,7 +34,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/jinjioni/224459189388",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     }
   ]

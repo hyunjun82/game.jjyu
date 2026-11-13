@@ -5,26 +5,26 @@
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T07:03:14.146Z",
+  "updatedAt": "2026-11-13T19:49:24.541Z",
   "codes": [
     {
       "code": "BLACKSHORES14",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
       "code": "CAMELLYA1113",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -35,7 +35,7 @@
       "sourceUrl": "https://blog.naver.com/seungchuny2/224473477980",
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-13",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "SHOREKEEPER1112",
@@ -45,7 +45,7 @@
       "sourceUrl": "https://blog.naver.com/seungchuny2/224473477980",
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-13",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "BLACKSHORES2026",
@@ -55,7 +55,7 @@
       "sourceUrl": "https://blog.naver.com/seungchuny2/224473477980",
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-13",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "RareTappo",
@@ -64,7 +64,7 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472658494",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472658494",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -84,7 +84,7 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472658494",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472658494",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -201,10 +201,10 @@
       "code": "WUTHERINGGIFT",
       "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
       "expiry": "2026-09-29",
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     }
   ]

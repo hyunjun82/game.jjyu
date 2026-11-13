@@ -1,28 +1,31 @@
 {
- "generatedAt": "2026-11-12T23:29:27.225Z",
- "window": "20261111~20261113",
- "lounges": 2383,
- "posts": 722,
- "couponPosts": 63,
- "fixedTracked": [],
+ "generatedAt": "2026-11-13T19:32:55.232Z",
+ "window": "20261112~20261114",
+ "lounges": 2388,
+ "posts": 612,
+ "couponPosts": 48,
+ "fixedTracked": [
+  "델타포스 | q1anye | 프로 선수들의 로드아웃 - DFI 에디션 (Regan.S Gaming)",
+  "나 혼자 만렙 키우기 | 2NDANNIVERSARYSHINE3 | [공지사항] 11/19(목) 2주년 업데이트 예고 3차 안내",
+  "퍼즐 오브 Z | PNSKIND26 | 세계 친절의 날 특별 이벤트(11/13~11/19)"
+ ],
  "addedLounges": [],
  "labelOnly": [
   "이사만루26 | 2026-11-12 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "펭귄 대모험 : 꽁꽁 방어전 | 2026-11-12 | [게임 시간 정답] 20261112",
   "라스트 소녀 전사 | 2026-11-13 | 🦋 신서버 S6110 오픈 안내",
   "드래곤 나이트 키우기 : 방치형 RPG | 2026-11-12 | [안내] v4.0.0 업데이트 GM 노트",
-  "드래곤에어 : 침묵의 신 | 2026-11-11 | 【이벤트】 🍺 선술집 게시판 - 여섯 개의 인장이 찍힌 도전장 📜",
+  "드래곤에어 : 침묵의 신 | 2026-11-13 | 【이벤트】 <드래곤에어: 침묵의 신> '진형 쇼케이스 위크' 오픈! ✨",
   "드림 가든: 추억의 힐링 경영 | 2026-11-12 | 🌸 [함께 정원 단풍 전시회를 준비해요!] 🌸",
-  "꿈의 여행자: 별빛 여정 | 2026-11-11 | [이벤트]⭐최애 직업 투표!",
-  "판타지포유 | 2026-11-11 | [기타] 쿠폰은 어디에서 사용할 수 있나요?",
-  "아케론: 종말의 서곡 | 2026-11-11 | [이벤트] 💝 11.11 감사의 마음 전달 이벤트 (11/11~11/20)",
-  "아케론: 종말의 서곡 | 2026-11-11 | [쿠폰] 빼빼로데이 기념 선물🍫",
+  "태어나니 슬라임 | 2026-11-13 | [FAQ] 쿠폰은 이렇게 사용해요",
+  "전생했더니 검 한 자루 | 2026-11-13 | 🧐 이 실루엣의 정체는?",
   "전생했더니 검 한 자루 | 2026-11-12 | 💖정식 오픈 7일 기념 이벤트",
-  "전생했더니 검 한 자루 | 2026-11-11 | 🎁 오픈 목표 달성! 미션 완료 인증 이벤트",
   "삼국지: 킹덤 | 2026-11-12 | [이벤트] 🤫 삼국지: 킹덤 캐릭터 실루엣 퀴즈! 나는 누구일까요?",
   "스카이 어비스: 혈맹의 서약 | 2026-11-13 | [⭐최대 20%아이템 캐시백]11/13~11/15 한정 누적 충전 혜택 안내",
+  "Total Football - 25/26 시즌 | 2026-11-13 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/16 ~ 11/22)",
   "명조:워더링 웨이브 | 2026-11-12 | 🎥 『명조:워더링 웨이브』 3.8 버전 라이브 드롭스 이벤트",
-  "요괴 키우기 | 2026-11-11 | 11/11 업데이트 완료 안내"
+  "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 어서와 ! 라운지 가입 인증",
+  "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 이 실루엣의 주인공은 누구일까요?"
  ],
  "imageOnly": [
   {
@@ -36,36 +39,33 @@
    ]
   },
   {
-   "game": "에르피스",
-   "loungeId": "Ehrpis",
-   "feedId": 8443219,
-   "date": "2026-11-11",
-   "title": "11.11 빼빼로데이 기념 쿠폰 배포🥢",
+   "game": "태어나니 슬라임",
+   "loungeId": "From_Slime",
+   "feedId": 8457420,
+   "date": "2026-11-13",
+   "title": "[쿠폰] 태어나니 슬라임 쿠폰 모아보기",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA2MDlfMTY3/MDAxNzgwOTgzODgyMzQ3.GK6yEZytXqXZ3Rd0SQgH2ANDfPro11-hYlwoh5NJqqYg.5x7K7d5zRf_0wvLdgu40FtU4G_GrfIZvdhQ_wEJxqOIg.PNG/EP_GM%EB%85%B8%ED%8A%B8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTMz/MDAxNzk0MzY1OTE5MjY5.nZbEA70nQJnbV73wbcQYaetEqv7UEt9mY4B-FSZwg_sg.F8gU9v0tFhRPjBIuK5qdQleg7AvoVtLHfVvHiAJk-sYg.JPEG/A_668x364_8%EC%9E%90_(5).jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMTNfMTk5/MDAxNzk0NTcxMDIzNjc1.RbUhd-iz2oVhiv2U9zosvcoRPxvd6HajmQbMXLw4bGog.E6SqHTqgY90aPRcaevEZ-ltwRQJpgyF2KX2a_zzuIdAg.PNG/article-coupon-1000x250.png?type=w1678"
    ]
   },
   {
-   "game": "판타지포유",
-   "loungeId": "F4U",
-   "feedId": 8446281,
-   "date": "2026-11-11",
-   "title": "[기타] 쿠폰은 어디에서 사용할 수 있나요?",
+   "game": "태어나니 슬라임",
+   "loungeId": "From_Slime",
+   "feedId": 8456908,
+   "date": "2026-11-13",
+   "title": "[안내] 비공식 쿠폰과 운영진 사칭에 주의해 주세요",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTEw/MDAxNzk0MzkyNTk0MzA2.O6FPvfj6ex762pYOktcrE0kDGfUFVBdxYCwdqCzSQ98g.hA76FhrhbE_rPWrVh13r122Sy1w4bd3RUnK7ypH2VAUg.PNG/%EC%83%81%EB%8B%A8_FAQ_700x154.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTI5/MDAxNzk0MzkyNjA2MTc0.-NlPAbez5E_oxVvO5hncy_ZBVKMxax47LX8dwPHCytkg.uiMt70OjyDjl1Do1PR7K9lHDNoXV7DhNn57lUvWXDDcg.PNG/Group_628397.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMjA3/MDAxNzk0MzkyNjE4MTgy.LXdRINoDBFlg2kGbzEIPljkEGMcw9lw5kLAhbmEnYLog.aV8UpdrEqqHUl356H0TCHUoHRXR3iB1VnfJ46iCkEb0g.PNG/%ED%95%98%EB%8B%A8_FAQ_100.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMTNfOTcg/MDAxNzk0NTcwODY3MjQ3.lFLVVaxru8c4YKdom6tU0oQbAbrh2bnga7zlEm5ceFIg.ZUkLGp1GRZSbRZJgEb11wMlEYGTUEF2pjlbX94crkSMg.PNG/article-notice-1000x250.png?type=w1678"
    ]
   },
   {
-   "game": "아케론: 종말의 서곡",
-   "loungeId": "Origin_of_Chaos",
-   "feedId": 8441954,
-   "date": "2026-11-11",
-   "title": "[쿠폰] 빼빼로데이 기념 선물🍫",
+   "game": "태어나니 슬라임",
+   "loungeId": "From_Slime",
+   "feedId": 8456898,
+   "date": "2026-11-13",
+   "title": "[FAQ] 쿠폰은 이렇게 사용해요",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMTE3/MDAxNzkzMjU4ODE5OTQ2.IrKFfW59pkDu_Xqcgs3Qsu6H5N23MH24AsPitAL28Bsg.Hb59uUesy6J2q7lQudeCCIny4zAvAxk8cDlliTUrwnAg.PNG/EBB9BCEBB9BCEBA19CEB8DB0EC9DB4_EAB8B0EB8590EC84A0EBACBC_700x154.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMTNfOTcg/MDAxNzk0NTcwODY3MjQ3.lFLVVaxru8c4YKdom6tU0oQbAbrh2bnga7zlEm5ceFIg.ZUkLGp1GRZSbRZJgEb11wMlEYGTUEF2pjlbX94crkSMg.PNG/article-notice-1000x250.png?type=w1678"
    ]
   },
   {
@@ -84,14 +84,15 @@
    ]
   },
   {
-   "game": "스킬 마법사 키우기",
-   "loungeId": "Skill_Wizard_Idle",
-   "feedId": 8443346,
-   "date": "2026-11-11",
-   "title": "🎁[ 쿠폰 ] 11.11 쿠폰!🎉",
+   "game": "삼국지: 구주제패",
+   "loungeId": "Three_Kingdoms_Conquering_the_World",
+   "feedId": 8457225,
+   "date": "2026-11-13",
+   "title": "🌙 월정액 혜택! 구매하고 본성 레벨을 올리면 게임 쿠폰으로 돌려받으세요!",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMjk1/MDAxNzk0MzY3MTY5NTIx.Nykfqm86lqkPrx1dzLqiYY3CKcnz9LPvUUPLIh2bfZ0g.ayBWbnyBegFfsmuq4tnKZhxf6l1k_DWbMqbkwyAeSCEg.PNG/4.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTAw/MDAxNzk0MzY3NTI2MTMz.NXaqwu_MmIU27Wq5FPwueOBp7RzsALC4fp1rpQNCJEog.NAadHYS57a0I_IxS6RsPXobSGLeSp3GADCGSqIau8qUg.PNG/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8_%EB%B0%B0%EB%84%88.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMTNfMjk1/MDAxNzk0NTYyMzE5MzQy.J_Fa_PWrad6r7wLlP17F7wSnPgPwp5Bd8jiX7UoqlE0g.6oRKyQOoPT2AJTi1zr5U1jzkKm_OKZw2__-XNeQB9Zcg.JPEG/%E5%85%AC%E5%91%8A%E8%B4%B4%E6%96%87BANNER%EF%BC%88%E9%A1%B6%E9%83%A8%EF%BC%89-5.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTNfNDMg/MDAxNzk0NTYyNDQ4ODEx.VPff60U6CcUO-E2PkCmwsclJfE9N9wYtSFwO3Fa_Mbog.eB2Z-1gCXZCLaSJrgvfMFtoJO6hIkXTP7rBbeuX673og.JPEG/6a552b8a-b817-4e8d-a4a5-08d8ae6ed8e9.jpg?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTNfMzYg/MDAxNzk0NTYyNDIwOTg4.JrRJyO2665tvJIPJJekSSSte5mivDTm5uBl7g_DrieAg.F3chOAyoPW9Q9TpvAc7kiWt6NQQfqRY0eOhMH9J8X-gg.JPEG/%E5%85%AC%E5%91%8A%E8%B4%B4%E6%96%87BANNER%EF%BC%88%E5%BA%95%E9%83%A8%EF%BC%89.jpg?type=w1678"
    ]
   },
   {

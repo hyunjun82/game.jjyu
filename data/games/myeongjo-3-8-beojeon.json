@@ -1,0 +1,31 @@
+{
+  "slug": "myeongjo-3-8-beojeon",
+  "titleEn": "myeongjo-3-8-beojeon",
+  "titleKo": "명조 3.8 버전",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-13T20:00:29.242Z",
+  "codes": [
+    {
+      "code": "BLOOMINGFLOWERS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/dorados/224468095684",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
+    {
+      "code": "SCHOOLLIFE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/dorados/224468095684",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    }
+  ]
+}

@@ -5,16 +5,26 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T07:11:18.836Z",
+  "updatedAt": "2026-11-13T19:58:22.098Z",
   "codes": [
     {
       "code": "MRGK1UHET5",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/worye/224475740111",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
+    {
+      "code": "BEST1004",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/sunflower-lab/224476432379",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -24,7 +34,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/at_fox_/224471682924",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -75,16 +85,6 @@
       "sourceUrl": "https://blog.naver.com/sunflower-lab/224473166975",
       "firstSeen": "2026-11-07",
       "lastSeen": "2026-11-11",
-      "status": "expired"
-    },
-    {
-      "code": "BEST1004",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/sunflower-lab/224468212882",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-08",
       "status": "expired"
     },
     {

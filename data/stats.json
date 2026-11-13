@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T15:56:59.193Z",
+  "generatedAt": "2026-11-13T20:06:14.378Z",
   "today": "2026-11-14",
-  "todayNew": 23,
+  "todayNew": 29,
   "totals": {
-    "games": 427,
-    "codes": 6033,
-    "active": 991,
-    "expired": 5042,
-    "withExpiry": 3544
+    "games": 429,
+    "codes": 6039,
+    "active": 975,
+    "expired": 5064,
+    "withExpiry": 3547
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-14",
-      "count": 23
+      "count": 29
     }
   ],
   "expiringSoon": [
@@ -461,15 +461,15 @@
       "total": 13
     },
     {
+      "slug": "max-level-idle",
+      "active": 10,
+      "total": 79
+    },
+    {
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 9,
-      "total": 78
     }
   ],
-  "noImage": 89
+  "noImage": 91
 }

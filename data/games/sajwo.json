@@ -5,26 +5,26 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T07:13:10.138Z",
+  "updatedAt": "2026-11-13T20:00:09.349Z",
   "codes": [
     {
       "code": "X00OR6",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/bidsh/224475237180",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
       "code": "WP0GDX",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-13",
+      "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/metanan/224475695816",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -34,17 +34,7 @@
       "postedAt": "2026-11-09",
       "sourceUrl": "https://blog.naver.com/guine_pig/224470169754",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
-      "status": "active"
-    },
-    {
-      "code": "JOKEM4",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/annamoroll/224469692210",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -54,7 +44,7 @@
       "postedAt": "2026-11-07",
       "sourceUrl": "https://blog.naver.com/yaerim-/224467900783",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -64,7 +54,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/mmi042/224466413696",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -75,6 +65,16 @@
       "sourceUrl": "https://blog.naver.com/swjddnjsd000/224473796423",
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-12",
+      "status": "expired"
+    },
+    {
+      "code": "JOKEM4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-09",
+      "sourceUrl": "https://blog.naver.com/annamoroll/224469692210",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-13",
       "status": "expired"
     }
   ]

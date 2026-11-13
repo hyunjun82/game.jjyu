@@ -5,28 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T07:07:59.432Z",
+  "updatedAt": "2026-11-13T19:55:04.059Z",
   "codes": [
-    {
-      "code": "CHALLENGE26",
-      "reward": "",
-      "expiry": "2026-11-13",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472775059",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
-      "status": "expired"
-    },
-    {
-      "code": "11OFFICIALSTORE08",
-      "reward": "",
-      "expiry": "2026-11-13",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472775059",
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-13",
-      "status": "expired"
-    },
     {
       "code": "FORTHEKINGDOM",
       "reward": "",
@@ -34,7 +14,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jonges_/224466675335",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -44,7 +24,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jonges_/224466675335",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -54,7 +34,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -64,7 +44,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -74,7 +54,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -84,7 +64,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -94,7 +74,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -104,8 +84,28 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
+    },
+    {
+      "code": "CHALLENGE26",
+      "reward": "",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472775059",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-14",
+      "status": "expired"
+    },
+    {
+      "code": "11OFFICIALSTORE08",
+      "reward": "",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472775059",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-14",
+      "status": "expired"
     },
     {
       "code": "KS1102",
@@ -134,7 +134,7 @@
       "postedAt": "2026-10-18",
       "sourceUrl": "https://blog.naver.com/mola__mola/224445009260",
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
