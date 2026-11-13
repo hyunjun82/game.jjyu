@@ -347,6 +347,13 @@
       "titleEn": "Lost_Sword",
       "loungeId": "Lost_Sword",
       "found": "2026-11-13"
+    },
+    {
+      "slug": "luminaseraphia",
+      "titleKo": "루미나: 세라피아",
+      "titleEn": "luminaseraphia",
+      "loungeId": "luminaseraphia",
+      "found": "2026-11-13"
     }
   ],
   "rejected": [

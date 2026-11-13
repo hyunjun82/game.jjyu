@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T00:41:01.060Z",
+  "generatedAt": "2026-11-13T06:45:08.591Z",
   "today": "2026-11-13",
-  "todayNew": 13,
+  "todayNew": 37,
   "totals": {
-    "games": 426,
-    "codes": 5985,
-    "active": 972,
-    "expired": 5013,
-    "withExpiry": 3509
+    "games": 427,
+    "codes": 6009,
+    "active": 1026,
+    "expired": 4983,
+    "withExpiry": 3528
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-13",
-      "count": 13
+      "count": 37
     }
   ],
   "expiringSoon": [
@@ -249,14 +249,14 @@
       "days": 2
     },
     {
-      "slug": "elpis-soul-ring",
-      "code": "HWGIFT26",
+      "slug": "dragonnest-world",
+      "code": "HAPPYWEEKLY1113S",
       "expiry": "2026-11-15",
       "days": 2
     },
     {
-      "slug": "eternal-evolution",
-      "code": "EE1111F94G",
+      "slug": "elpis-soul-ring",
+      "code": "HWGIFT26",
       "expiry": "2026-11-15",
       "days": 2
     },
@@ -327,6 +327,12 @@
       "days": 2
     },
     {
+      "slug": "horde-war-avengers-summon",
+      "code": "nmhdehah",
+      "expiry": "2026-11-15",
+      "days": 2
+    },
+    {
       "slug": "idle-hero-but-save-the-world",
       "code": "KJRM582",
       "expiry": "2026-11-15",
@@ -359,12 +365,6 @@
     {
       "slug": "merge-seasons",
       "code": "mermaidsong",
-      "expiry": "2026-11-15",
-      "days": 2
-    },
-    {
-      "slug": "opmkr",
-      "code": "CANDYHERO2026",
       "expiry": "2026-11-15",
       "days": 2
     }
@@ -446,6 +446,16 @@
       "total": 27
     },
     {
+      "slug": "wtbk",
+      "active": 11,
+      "total": 14
+    },
+    {
+      "slug": "dragon-traveler",
+      "active": 10,
+      "total": 90
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
@@ -459,17 +469,7 @@
       "slug": "tree-world",
       "active": 10,
       "total": 10
-    },
-    {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 9,
-      "total": 89
     }
   ],
-  "noImage": 88
+  "noImage": 89
 }

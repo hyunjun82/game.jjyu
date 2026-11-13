@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Become_a_lord/board/detail/8389927",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-11-13T00:25:27.251Z",
+  "updatedAt": "2026-11-13T06:44:40.155Z",
   "codes": [
     {
       "code": "HOLDAY626",
@@ -20,19 +20,19 @@
       "status": "active"
     },
     {
-      "code": "WK261023",
+      "code": "NEWSTATRPG",
       "reward": "",
-      "expiry": "2026-10-28",
-      "postedAt": "2026-10-24",
+      "expiry": null,
+      "postedAt": "2025-06-24",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-13",
       "status": "expired"
     },
     {
-      "code": "NEWSTATRPG",
+      "code": "WK261023",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2025-06-24",
+      "expiry": "2026-10-28",
+      "postedAt": "2026-10-24",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-13",
       "status": "expired"

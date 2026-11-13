@@ -2,18 +2,27 @@
   "slug": "eternal-evolution",
   "titleEn": "Eternalevolution",
   "titleKo": "이터널 에볼루션",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTgy/MDAxNzk0MzY0NDYzOTc0.GWeSv1YEC7fQf9h5A9Zx7O9mGs0gC4KrO3P98dTJf_8g.hAihtjt4qIXP_m85D62z-CTJzgq0YQGLdJwJUKezOO8g.JPEG/_U2_KR_P_%E7%A4%BE%E7%BE%A4%E6%B3%95%E5%B0%94%E7%BB%B4%E5%A8%85_LSZ_800x150_SSY_PRE.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTNfOSAg/MDAxNzk0NTM3MDM5NTgx.krxk7o9RiaT5hrZ3MTiWxVauqQRpiPpi9XPvwfvLkCwg.9AgxgepTmA28RwgvQO7WeD983zmKG9LuQiTBbScwSEcg.JPEG/_U2_KR_P_%E7%A4%BE%E7%BE%A4%E6%B3%95%E5%B0%94%E7%BB%B4%E5%A8%85_LSZ_800x150_SSY_PRE.jpg",
   "source": "naver-lounge",
   "loungeId": "eternalevolution",
-  "sourceUrl": "https://game.naver.com/lounge/eternalevolution/board/detail/8443145",
+  "sourceUrl": "https://game.naver.com/lounge/eternalevolution/board/detail/8455651",
   "howTo": "",
-  "postCount": 130,
-  "updatedAt": "2026-11-13T00:22:51.237Z",
+  "postCount": 131,
+  "updatedAt": "2026-11-13T06:41:49.340Z",
   "codes": [
+    {
+      "code": "EE1113V922",
+      "reward": "",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
     {
       "code": "EE1111F94G",
       "reward": "",
-      "expiry": "2026-11-15",
+      "expiry": "2026-11-25",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-13",
@@ -326,19 +335,19 @@
       "status": "expired"
     },
     {
-      "code": "EE0902F9BN",
+      "code": "EE08178V8N",
       "reward": "",
-      "expiry": "2026-09-20",
-      "postedAt": "2026-09-02",
+      "expiry": "2026-09-05",
+      "postedAt": "2026-08-17",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-13",
       "status": "expired"
     },
     {
-      "code": "EE08178V8N",
+      "code": "EE0902F9BN",
       "reward": "",
-      "expiry": "2026-09-05",
-      "postedAt": "2026-08-17",
+      "expiry": "2026-09-20",
+      "postedAt": "2026-09-02",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-13",
       "status": "expired"

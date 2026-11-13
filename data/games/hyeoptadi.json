@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-12T18:51:53.108Z",
+  "updatedAt": "2026-11-13T06:38:49.877Z",
   "codes": [
     {
       "code": "COOPTD2ANNIV",
@@ -34,8 +34,8 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461305046",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-12",
-      "status": "expired"
+      "lastSeen": "2026-11-13",
+      "status": "active"
     },
     {
       "code": "WELCOMEHYOPTD",
@@ -44,8 +44,8 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461305046",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-12",
-      "status": "expired"
+      "lastSeen": "2026-11-13",
+      "status": "active"
     }
   ]
 }

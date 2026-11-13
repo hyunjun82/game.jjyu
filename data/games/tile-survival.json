@@ -5,8 +5,48 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-12T18:44:18.178Z",
+  "updatedAt": "2026-11-13T06:31:18.100Z",
   "codes": [
+    {
+      "code": "HUGDAY2026",
+      "reward": "",
+      "expiry": "2026-11-23",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224474856537",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
+    {
+      "code": "TS777",
+      "reward": "",
+      "expiry": "2026-11-23",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224474856537",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
+    {
+      "code": "TS888",
+      "reward": "",
+      "expiry": "2026-11-23",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224474856537",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
+    {
+      "code": "TS999",
+      "reward": "",
+      "expiry": "2026-11-23",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/mola__mola/224474856537",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-13",
+      "status": "active"
+    },
     {
       "code": "DISCORD50K",
       "reward": "",
@@ -25,36 +65,6 @@
       "sourceUrl": "https://blog.naver.com/liilllilililiii/224431359719",
       "firstSeen": "2026-10-05",
       "lastSeen": "2026-10-07",
-      "status": "expired"
-    },
-    {
-      "code": "TS777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/mola__mola/224451714751",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-13",
-      "status": "expired"
-    },
-    {
-      "code": "TS999",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/mola__mola/224451714751",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-13",
-      "status": "expired"
-    },
-    {
-      "code": "TS888",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-24",
-      "sourceUrl": "https://blog.naver.com/mola__mola/224451714751",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-13",
       "status": "expired"
     }
   ]
