@@ -1,13 +1,7 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-13T06:56:49.546Z",
+  "generatedAt": "2026-11-13T15:36:59.470Z",
   "games": [
-    {
-      "slug": "ybd-merge",
-      "loungeId": "YBD_Merge",
-      "titleKo": "이 용병단 머지: 디펜스",
-      "titleEn": "Ybd Merge"
-    },
     {
       "slug": "three-kingdoms-senkiban",
       "loungeId": "THREE_KINGDOMS_SENKIBAN",
@@ -15,16 +9,16 @@
       "titleEn": "Three Kingdoms Senkiban"
     },
     {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
-    },
-    {
       "slug": "torchlight-infinite-kr",
       "loungeId": "Torchlight_Infinite",
       "titleKo": "토치라이트: 인피니트",
       "titleEn": "Torchlight_Infinite"
+    },
+    {
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "arknights-endfield",
@@ -45,27 +39,21 @@
       "titleEn": "Samgukji_Kingdom"
     },
     {
-      "slug": "angel-knights",
-      "loungeId": "Angel_Knights",
-      "titleKo": "엔젤나이츠",
-      "titleEn": "Angel Knights"
-    },
-    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
-      "titleKo": "Pokemon_GO",
+      "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go"
     },
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -89,19 +77,19 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "Play_Together",
+      "titleKo": "플레이투게더",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -113,7 +101,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -129,10 +117,64 @@
       "titleEn": "Star Of The Overlord"
     },
     {
+      "slug": "stellar-traveler",
+      "loungeId": "stellar_traveler",
+      "titleKo": "별빛 여행자",
+      "titleEn": "Stellar Traveler"
+    },
+    {
       "slug": "stone-three-kingdoms",
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
+    },
+    {
+      "slug": "striked-fixer",
+      "loungeId": "Striked_Fixer",
+      "titleKo": "내리침 해결사",
+      "titleEn": "Striked Fixer"
+    },
+    {
+      "slug": "stylight",
+      "loungeId": "stylight",
+      "titleKo": "스타일라잇",
+      "titleEn": "Stylight"
+    },
+    {
+      "slug": "sweethome",
+      "loungeId": "sweethome",
+      "titleKo": "스위트홈 : 욕망의 파편",
+      "titleEn": "Sweethome"
+    },
+    {
+      "slug": "w-cross-world",
+      "loungeId": "W_CROSS_WORLD",
+      "titleKo": "더블유: 크로스월드",
+      "titleEn": "W Cross World"
+    },
+    {
+      "slug": "wandering-mercenary-force",
+      "loungeId": "wandering_mercenary_force",
+      "titleKo": "방랑용병단",
+      "titleEn": "Wandering Mercenary Force"
+    },
+    {
+      "slug": "warphero",
+      "loungeId": "warphero",
+      "titleKo": "워프히어로",
+      "titleEn": "Warphero"
+    },
+    {
+      "slug": "wild-hunt",
+      "loungeId": "Wild_Hunt",
+      "titleKo": "와일드헌트",
+      "titleEn": "Wild Hunt"
+    },
+    {
+      "slug": "with",
+      "loungeId": "WITH",
+      "titleKo": "위드 : 신의 날개",
+      "titleEn": "With"
     },
     {
       "slug": "wtbk",

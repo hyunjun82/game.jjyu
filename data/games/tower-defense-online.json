@@ -2,13 +2,13 @@
   "slug": "tower-defense-online",
   "titleEn": "Tower_Defense_Online",
   "titleKo": "타워 디펜스 온라인",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDlfMTA5/MDAxNzk0MTg2NTg4NzY1.brB-b4xXiWnavQgyNpyqPiLkA4QSrgTXi-VZtVa3Chgg.sGKjr2QfdyLUElYg7j4hnIIONOP9TlN36Bxndp27wlog.PNG/ChatGPT_%EC%9D%B4%EB%AF%B8%EC%A7%80_2026%EB%85%84_10%EC%9B%94_13%EC%9D%BC_%EC%98%A4%ED%9B%84_06__(1).png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTBfMTAy/MDAxNzk0Mjg4NzY0MDE3.GJUHhvYC-eQUmt9dHKtDZDz5X-i4s2r3drdaasLEpmEg.Z2cJCMXQQjlyopGVN4fowkX1eI8VJo2E3eL7Y56oTREg.PNG/KakaoTalk_20261110_134745114.png",
   "source": "naver-lounge",
   "loungeId": "Tower_Defense_Online",
   "sourceUrl": "https://game.naver.com/lounge/Tower_Defense_Online/board/detail/8455983",
-  "howTo": "메뉴 → 설정 → 쿠폰 → 쿠폰 코드 입력 ※ 쿠폰은 11월 20일까지 사용 가능하니 기간 내 꼭 사용해 주세요. 받은 쿠폰은 우편함에 7일 동안 보관되니 이 점 유의해주시기 바랍니다! 친구와 함께 플레이하려면 모든 용사님께서 최신 버전으로 업데이트해 주세요. 정식 출시를 기다려주시고, 소프트런칭 기간 동안 다양한 의견과 제보를 보내주신 용사님들께 감사드립니다.",
-  "postCount": 1,
-  "updatedAt": "2026-11-13T07:01:50.626Z",
+  "howTo": "메뉴 → 설정 → 쿠폰 → 쿠폰 코드 입력",
+  "postCount": 3,
+  "updatedAt": "2026-11-13T15:41:51.559Z",
   "codes": [
     {
       "code": "타디온어서와",
@@ -16,16 +16,16 @@
       "expiry": "2026-11-26",
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
       "code": "타디온파이팅",
       "reward": "",
       "expiry": "2026-11-20",
-      "postedAt": "2026-11-09",
+      "postedAt": "2026-11-10",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     }
   ]

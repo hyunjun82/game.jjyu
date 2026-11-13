@@ -2,30 +2,30 @@
   "slug": "merge-teahouse",
   "titleEn": "Merge Teahouse",
   "titleKo": "동방 찻집",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfODEg/MDAxNzkzOTQ3MzU2NTY5.2QraDgViXdQ4LiWtI29AsLV9RzqARaM-Np97HyPEbyAg.QCiZnBWIr5CoMWngoe9I6XztEbp2FJuP6YYn0skN5UEg.JPEG/%E9%80%B1%E6%9C%AB%E7%A6%8F%E5%88%A9-%E9%9F%93.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTNfMjIg/MDAxNzk0NTU4NDk5MDcz.Gu4ZtKtzeRrtyAq3RG9PkYFDR0fnxIhMXpJh5eVVnEEg.oteR0stDDWTIPjZtqjBihgtVW-j5smdvT_n8YP6D0Dsg.JPEG/%E9%80%B1%E6%9C%AB%E7%A6%8F%E5%88%A9-%E9%9F%93.jpg",
   "source": "naver-lounge",
   "loungeId": "MergeTeahouse",
-  "sourceUrl": "https://game.naver.com/lounge/MergeTeahouse/board/detail/8420893",
+  "sourceUrl": "https://game.naver.com/lounge/MergeTeahouse/board/detail/8457403",
   "howTo": "",
-  "postCount": 57,
-  "updatedAt": "2026-11-13T07:00:07.710Z",
+  "postCount": 58,
+  "updatedAt": "2026-11-13T15:40:10.876Z",
   "codes": [
+    {
+      "code": "q99kdrnks8",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
     {
       "code": "5w7n54fs5f",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-13",
-      "status": "active"
-    },
-    {
-      "code": "74dvkfc4em",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-30",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -34,8 +34,17 @@
       "expiry": "2027-02-28",
       "postedAt": "2026-09-23",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
+    },
+    {
+      "code": "74dvkfc4em",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-30",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-14",
+      "status": "expired"
     },
     {
       "code": "jte4ybnpnu",
@@ -43,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-10-23",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-10-16",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-10-16",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-10-09",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-10-02",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -97,7 +106,7 @@
       "expiry": null,
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -106,7 +115,7 @@
       "expiry": null,
       "postedAt": "2026-09-18",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -115,7 +124,7 @@
       "expiry": null,
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -124,7 +133,7 @@
       "expiry": null,
       "postedAt": "2026-09-04",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -133,7 +142,7 @@
       "expiry": null,
       "postedAt": "2026-08-28",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -142,7 +151,7 @@
       "expiry": null,
       "postedAt": "2026-08-21",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -151,7 +160,7 @@
       "expiry": null,
       "postedAt": "2026-08-19",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -160,7 +169,7 @@
       "expiry": null,
       "postedAt": "2026-08-07",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -169,7 +178,7 @@
       "expiry": null,
       "postedAt": "2026-07-31",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -178,7 +187,7 @@
       "expiry": null,
       "postedAt": "2026-07-24",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -187,7 +196,7 @@
       "expiry": null,
       "postedAt": "2026-07-17",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -196,7 +205,7 @@
       "expiry": null,
       "postedAt": "2026-07-10",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -205,7 +214,7 @@
       "expiry": null,
       "postedAt": "2026-07-03",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -214,7 +223,7 @@
       "expiry": null,
       "postedAt": "2026-06-26",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -223,7 +232,7 @@
       "expiry": null,
       "postedAt": "2026-06-19",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -232,7 +241,7 @@
       "expiry": null,
       "postedAt": "2026-06-19",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -241,7 +250,7 @@
       "expiry": null,
       "postedAt": "2026-06-12",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -250,7 +259,7 @@
       "expiry": null,
       "postedAt": "2026-06-05",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -259,7 +268,7 @@
       "expiry": null,
       "postedAt": "2026-05-29",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -268,7 +277,7 @@
       "expiry": null,
       "postedAt": "2026-05-22",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {
@@ -277,7 +286,7 @@
       "expiry": null,
       "postedAt": "2026-05-15",
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "expired"
     },
     {

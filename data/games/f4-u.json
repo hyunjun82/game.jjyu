@@ -2,21 +2,39 @@
   "slug": "f4-u",
   "titleEn": "F4 U",
   "titleKo": "판타지포유",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTJfMTg2/MDAxNzk0NDc3NjAxODI2.B_NFvXVpzl9YH3UMDbeWyxpOiLjlEpyxMtmAQe3aS_Eg.jpdznVb7a-ad8fUa0ugAQjzYtC73pLMgKyuslg5VAccg.PNG/%ED%95%98%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_100.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTNfODAg/MDAxNzk0NTY1ODAxNjgz.17-Hbv3RQ08GyIVVmY3SEVtDzNypgeEN6ZsAnaCXU38g.pR832KGhiZhbd4LEKjfAZ5hQo2ldC0gU_lk-E-6RmpAg.PNG/%ED%95%98%EB%8B%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_100.png",
   "source": "naver-lounge",
   "loungeId": "F4U",
-  "sourceUrl": "https://game.naver.com/lounge/F4U/board/detail/8453051",
+  "sourceUrl": "https://game.naver.com/lounge/F4U/board/detail/8457405",
   "howTo": "",
-  "postCount": 2,
-  "updatedAt": "2026-11-13T07:01:57.814Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-13T15:41:57.893Z",
   "codes": [
+    {
+      "code": "BASTARAFIREF1113",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
+    {
+      "code": "F4UTUBECOUTY1113",
+      "reward": "",
+      "expiry": "2026-11-19",
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
     {
       "code": "F4UTHANKS1ST1110",
       "reward": "",
       "expiry": "2026-11-25",
       "postedAt": "2026-11-12",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
@@ -25,7 +43,7 @@
       "expiry": "2026-11-19",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-13",
+      "lastSeen": "2026-11-14",
       "status": "active"
     },
     {
