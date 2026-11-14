@@ -5,17 +5,17 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-01T08:00:18.879Z",
+  "updatedAt": "2026-11-14T13:48:19.710Z",
   "codes": [
     {
       "code": "도깨비의다짐",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-10",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224436684871",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477265068",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-01",
-      "status": "expired"
+      "lastSeen": "2026-11-14",
+      "status": "active"
     }
   ]
 }

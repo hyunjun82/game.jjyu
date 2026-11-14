@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-14T08:35:54.706Z",
+  "updatedAt": "2026-11-14T13:52:41.861Z",
   "codes": [
     {
       "code": "W217KY",
@@ -13,6 +13,16 @@
       "expiry": null,
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/kko_ggumma/224476499857",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
+    {
+      "code": "JV8V4G",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/bio22bu/224472631014",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-14",
       "status": "active"

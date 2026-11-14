@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-14T08:36:31.810Z",
+  "generatedAt": "2026-11-14T13:58:29.549Z",
   "today": "2026-11-14",
-  "todayNew": 60,
+  "todayNew": 63,
   "totals": {
     "games": 432,
-    "codes": 6070,
-    "active": 1038,
-    "expired": 5032,
-    "withExpiry": 3556
+    "codes": 6073,
+    "active": 1042,
+    "expired": 5031,
+    "withExpiry": 3558
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-14",
-      "count": 60
+      "count": 63
     }
   ],
   "expiringSoon": [
@@ -406,14 +406,14 @@
       "total": 16
     },
     {
+      "slug": "sodeu-seutaepeu",
+      "active": 15,
+      "total": 15
+    },
+    {
       "slug": "sword-immortal",
       "active": 15,
       "total": 22
-    },
-    {
-      "slug": "sodeu-seutaepeu",
-      "active": 14,
-      "total": 15
     },
     {
       "slug": "whoa-adventurers",
@@ -424,11 +424,6 @@
       "slug": "byeolbyeol-hero",
       "active": 12,
       "total": 15
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "active": 12,
-      "total": 13
     },
     {
       "slug": "gray-saga",
@@ -469,6 +464,11 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 10,
+      "total": 79
     }
   ],
   "noImage": 93

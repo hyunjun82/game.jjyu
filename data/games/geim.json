@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-14T08:35:33.306Z",
+  "updatedAt": "2026-11-14T13:52:21.193Z",
   "codes": [
+    {
+      "code": "S13D7GLORY",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/gim0304/224477229715",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
+    {
+      "code": "GLORYBLAIR",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/gim0304/224477229715",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
     {
       "code": "L5W9QJ",
       "reward": "",
