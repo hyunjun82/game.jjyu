@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-14T13:48:11.244Z",
+  "updatedAt": "2026-11-14T15:26:22.299Z",
   "codes": [
-    {
-      "code": "구분",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "sourceUrl": "https://blog.naver.com/naakey/224460501388",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-14",
-      "status": "active"
-    },
     {
       "code": "MAGICHALFYR",
       "reward": "",
@@ -36,6 +26,16 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-11-01",
       "status": "active"
+    },
+    {
+      "code": "구분",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/naakey/224460501388",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-14",
+      "status": "expired"
     },
     {
       "code": "DOKKAEBI2026",
@@ -144,7 +144,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/12512512/224460480931",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     },
     {

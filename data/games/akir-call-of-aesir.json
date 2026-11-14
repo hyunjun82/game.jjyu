@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/AKIR_CALL_OF_AESIR/board/detail/8389933",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-11-14T13:57:50.788Z",
+  "updatedAt": "2026-11-14T15:19:09.273Z",
   "codes": [
-    {
-      "code": "Halloween26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-31",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-14",
-      "status": "active"
-    },
     {
       "code": "hangulday6",
       "reward": "",
       "expiry": "2027-06-30",
       "postedAt": "2026-10-09",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "active"
     },
     {
@@ -45,6 +36,15 @@
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-02",
       "status": "active"
+    },
+    {
+      "code": "Halloween26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-31",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-15",
+      "status": "expired"
     }
   ]
 }

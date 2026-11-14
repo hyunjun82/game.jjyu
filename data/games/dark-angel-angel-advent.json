@@ -2,21 +2,30 @@
   "slug": "dark-angel-angel-advent",
   "titleEn": "Dark Angel Angel Advent",
   "titleKo": "다크엔젤:천사 강림",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMSAg/MDAxNzkyOTk0NjY3NjI3.qyfPXT8s8K5o-Q0XwkyE8qGQr6bgzBkDPjuy-tjGKyog.dPW7SwpOmVXNmbPmI6Gm_BeE_7B2Kdp-I6np4Oa7J6cg.PNG/11%EC%9B%94_%EC%BF%A0%ED%8F%B0.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjZfMTYw/MDAxNzkyOTk1MDIyNzU5.HmC4xvmuXd_4mQH4a22eoMBnL2HYNIUAin-KgfJ3mr4g.0wuj6V3YTP_SH24yJS9ZFxlntfpyr1B9DopdgcLwZnEg.PNG/11%EC%9B%94_%EC%BF%A0%ED%8F%B0.png",
   "source": "naver-lounge",
   "loungeId": "Dark_Angel_Angel_Advent",
-  "sourceUrl": "https://game.naver.com/lounge/Dark_Angel_Angel_Advent/board/detail/8392937",
+  "sourceUrl": "https://game.naver.com/lounge/Dark_Angel_Angel_Advent/board/detail/8461760",
   "howTo": "- 게임 화면 우측 하단 \"기타\" → \"설정\" → \"교환\" → 교환 코드 입력",
-  "postCount": 9,
-  "updatedAt": "2026-11-14T13:56:51.357Z",
+  "postCount": 10,
+  "updatedAt": "2026-11-14T15:18:05.289Z",
   "codes": [
+    {
+      "code": "DA26115Q",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
     {
       "code": "DA26118X",
       "reward": "",
       "expiry": "2026-12-31",
       "postedAt": "2026-11-01",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "active"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-10-15",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "active"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-02",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "active"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-09-15",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-09-14",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-09-13",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     },
     {
@@ -70,7 +79,7 @@
       "expiry": null,
       "postedAt": "2026-09-12",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     },
     {
@@ -79,7 +88,7 @@
       "expiry": null,
       "postedAt": "2026-09-11",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-14",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     }
   ]
