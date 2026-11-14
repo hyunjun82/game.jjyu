@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA5MThfMTQ5/MDAxNzg5NzAxMTY3NzYy.8KCP_NNNU_6RTmJEpmudxm8ysa53LGHqOFc4lXfvbLQg.ztArvq1DvjtKv6NeAhOvmGoXW4Ju7c7kcKWWtFJsQF4g.JPEG/Naver_%EA%B3%B5%EC%8B%9D%EB%9D%BC%EC%9A%B4%EC%A7%80_%EA%B2%8C%EC%8B%9C%EA%B8%80_A.jpg",
   "source": "naver-lounge",
   "loungeId": "Duck_Survival",
-  "sourceUrl": "https://game.naver.com/lounge/Duck_Survival/board/detail/8206212",
+  "sourceUrl": "https://game.naver.com/lounge/Duck_Survival/board/detail/8461804",
   "howTo": "잊지 말고 꼭 접속해서 쿠폰을 사용해 주세요! 💎정식오픈 기념 쿠폰 Welcome LAUNCH0918 kibangduck",
-  "postCount": 1,
-  "updatedAt": "2026-11-14T20:08:33.136Z",
+  "postCount": 2,
+  "updatedAt": "2026-11-14T22:43:00.243Z",
   "codes": [
+    {
+      "code": "CYBERDUCK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
     {
       "code": "LAUNCH0918",
       "reward": "",

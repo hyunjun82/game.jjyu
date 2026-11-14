@@ -1,40 +1,35 @@
 {
- "generatedAt": "2026-11-14T13:25:03.749Z",
- "window": "20261112~20261114",
+ "generatedAt": "2026-11-14T22:15:36.829Z",
+ "window": "20261113~20261115",
  "lounges": 2388,
- "posts": 713,
- "couponPosts": 57,
- "fixedTracked": [],
+ "posts": 403,
+ "couponPosts": 41,
+ "fixedTracked": [
+  "후더덕 서바이벌 | CYBERDUCK | 11월 15일 인게임 이벤트 안내"
+ ],
  "addedLounges": [],
  "labelOnly": [
-  "이사만루26 | 2026-11-12 | [이벤트] 키워드 쿠폰 이벤트 안내",
-  "펭귄 대모험 : 꽁꽁 방어전 | 2026-11-12 | [게임 시간 정답] 20261112",
   "라스트 소녀 전사 | 2026-11-13 | 🦋 신서버 S6110 오픈 안내",
-  "드래곤 나이트 키우기 : 방치형 RPG | 2026-11-12 | [안내] v4.0.0 업데이트 GM 노트",
   "드래곤에어 : 침묵의 신 | 2026-11-13 | 【이벤트】 <드래곤에어: 침묵의 신> '진형 쇼케이스 위크' 오픈! ✨",
   "드림 가든: 추억의 힐링 경영 | 2026-11-14 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "드림 가든: 추억의 힐링 경영 | 2026-11-12 | 🌸 [함께 정원 단풍 전시회를 준비해요!] 🌸",
   "진 삼국무쌍 오버로드 | 2026-11-14 | 주말 선물 쿠폰",
   "태어나니 슬라임 | 2026-11-13 | [FAQ] 쿠폰은 이렇게 사용해요",
   "전생했더니 검 한 자루 | 2026-11-13 | 🧐 이 실루엣의 정체는?",
-  "전생했더니 검 한 자루 | 2026-11-12 | 💖정식 오픈 7일 기념 이벤트",
-  "삼국지: 킹덤 | 2026-11-12 | [이벤트] 🤫 삼국지: 킹덤 캐릭터 실루엣 퀴즈! 나는 누구일까요?",
   "스카이 어비스: 혈맹의 서약 | 2026-11-13 | [⭐최대 20%아이템 캐시백]11/13~11/15 한정 누적 충전 혜택 안내",
   "Total Football - 25/26 시즌 | 2026-11-13 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/16 ~ 11/22)",
-  "명조:워더링 웨이브 | 2026-11-12 | 🎥 『명조:워더링 웨이브』 3.8 버전 라이브 드롭스 이벤트",
   "이 용병단 머지: 디펜스 | 2026-11-14 | [이벤트] 우리의 첫 만남을 들려주세요!",
   "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 어서와 ! 라운지 가입 인증",
   "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 이 실루엣의 주인공은 누구일까요?"
  ],
  "imageOnly": [
   {
-   "game": "이사만루26",
-   "loungeId": "24manru3",
-   "feedId": 8452089,
-   "date": "2026-11-12",
-   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
+   "game": "다크엔젤:천사 강림",
+   "loungeId": "Dark_Angel_Angel_Advent",
+   "feedId": 8461767,
+   "date": "2026-11-15",
+   "title": "[이벤트] Ustore 포인트 20배 반환 & 무료 쿠폰 증정 이벤트 (11/15)",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTUw/MDAxNzkzMzQ4NjE1ODQw.12FQfz3wUeiaz_gkEmO_MlvG50HqqqhWV0tGUZurM8wg.o3biYVllGwY8hXtsWOFFJViYhtMx68jy9feCQ9mq46sg.PNG/700x154.png?type=w1678"
    ]
   },
   {
@@ -78,21 +73,6 @@
    ]
   },
   {
-   "game": "레알팜 크래프트",
-   "loungeId": "REALFARM_CRAFT",
-   "feedId": 8452334,
-   "date": "2026-11-12",
-   "title": "🎁[레알쿠폰 8차 특별 이벤트 사전 안내] (11/25 ~ 12/08)🎁",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMjQ0/MDAxNzk0Mzg3MjMwOTQ1.DRPa9nxFMviVSGykjt-Gwd2euxPCxPk35Fj4ZkqhWCUg.WkJ8hxsI9MZ2fXoTzQoo6gGjMmoPh9lKChDfbo_z4QUg.PNG/%EA%B7%B8%EB%A6%BC1_2_%EC%9B%90%EB%B3%B8%EB%B3%91%ED%95%A9.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMjEx/MDAxNzk0Mzg1ODIwNzQx.R-cJMRoBzUoXd26_Hyp4OHMNH3rrE6f79ic-VCY4NcAg.5C4bJImnAuG9XQgok5bTgXI3HMRMXYdFgnV2YlDR1hAg.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfNzEg/MDAxNzk0Mzg3MjQ4NDQ0.2I7sFSXAJfHUCgGKPlezkI4_YPQ_DLqpo0kcyOM9s58g.GtCmEzxhDx70ND9ivrxGcFxsoOkjmEZBLD61jeRYaOUg.PNG/%EA%B7%B8%EB%A6%BC4_5_%EC%9B%90%EB%B3%B8%EB%B3%91%ED%95%A9.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTk1/MDAxNzk0Mzg2MDAyNDUz.GvzbdlU15pPJeLrI-81U6e3xPu-eGaRVx3gPEFYl3RIg.HB9R6VwmBVwPTzRApcyMI1Xw81W5262KLHUzMNC6Vgwg.JPEG/%EA%B7%B8%EB%A6%BC6.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfMjM0/MDAxNzk0Mzg3MjYxMTY1.rcSLJsg4XoXxtyfgML-nZznC9kzvEnyyuq5m_QtTo2Ig.sHIMCcYEMl2rmdX7oMJELA22o2PPFNhMWQnRzfnPxt8g.PNG/%EA%B7%B8%EB%A6%BC7_8_%EC%9B%90%EB%B3%B8%EB%B3%91%ED%95%A9.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTFfODkg/MDAxNzk0Mzg2MTM4OTcy.GzVWhhPFxkrQLe7xhGK_AhCi12ZEZFB-qQ94jkwZt3gg.pKIXGaSwJlCdqGBOK6nf8fgFbaIYgTArGLA8-0F46LYg.PNG/%EA%B7%B8%EB%A6%BC9.png?type=w1678"
-   ]
-  },
-  {
    "game": "삼국지: 구주제패",
    "loungeId": "Three_Kingdoms_Conquering_the_World",
    "feedId": 8457225,
@@ -105,17 +85,13 @@
    ]
   },
   {
-   "game": "삼국지: 구주제패",
-   "loungeId": "Three_Kingdoms_Conquering_the_World",
-   "feedId": 8453393,
-   "date": "2026-11-12",
-   "title": "🎉<삼국지: 구주제패> 플랫폼 결제 쿠폰 사용 안내(상세 설명)",
+   "game": "다크엔젤: 심연의 날개",
+   "loungeId": "Wings_of_the_Goddess",
+   "feedId": 8461764,
+   "date": "2026-11-15",
+   "title": "[이벤트] Ustore 포인트 20배 반환 & 무료 쿠폰 증정 이벤트 (11/15)",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTJfNTAg/MDAxNzk0NDgxNDI2Nzg1.gvJvI8Jbmq0J71hv5LrenUOVW0giJ5Gmxa4B4ysNu58g.vV2Ud9CzDOCqR9c8RhULqNVCMSn4IkDPzw2r_kMNZbwg.JPEG/%E5%85%AC%E5%91%8A%E8%B4%B4%E6%96%87BANNER%EF%BC%88%E9%A1%B6%E9%83%A8%EF%BC%89-5.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTJfNzEg/MDAxNzk0NDgxNTU2NzQw.xlmnSSTLbw5TJiTHXmEFwrFkhahDOYx0y8-G-fMsTeEg.VPKtirUBS4r_0HvBexYlCtUTpO3eDap-zExjZ1F3KY0g.PNG/1.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTJfMjE2/MDAxNzk0NDgxNTg2NDU1.DzwjU-VHAD4-c1cPu6CYB4VkE17VdqEt9IY5aNxkAYcg._SsfMSkWK624nZDgsCRKOwjlP1AG9Org2zTvNYFQCW4g.PNG/2.PNG?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTJfNDIg/MDAxNzk0NDgxNTk5OTg3.g-5OKJrIRamtKWWUwbho0iDuCmDB76M30ShmMtEOjFkg.kTBijvfI3c728oA2MftFaNddqvMRAUVASg5c-tQuIeUg.PNG/3.PNG?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTJfMTIx/MDAxNzk0NDgxNDM5NDE5.5S8hYihPeOO8q725dwkBgYyBtNkRV4D6N-mZUi8w_Eog.ozhvF1gvaCFDvZPgEK6jd1rtKe8knwgtBYOmurNu6Jwg.JPEG/%E5%85%AC%E5%91%8A%E8%B4%B4%E6%96%87BANNER%EF%BC%88%E5%BA%95%E9%83%A8%EF%BC%89.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjc3/MDAxNzkzMzI0NDI4MDM3.Ll0NS-eLQrqRB__6nrpXLvsDmiUf54W9Vk-KuJKzATQg.uOZ9JzVuuGHEI7Mkm7yTOlCkqbgxkMfMauRZmF1mmDgg.JPEG/700x154_3.jpg?type=w1678"
    ]
   }
  ]
