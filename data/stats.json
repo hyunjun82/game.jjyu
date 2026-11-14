@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-14T02:20:49.921Z",
+  "generatedAt": "2026-11-14T06:38:12.118Z",
   "today": "2026-11-14",
-  "todayNew": 46,
+  "todayNew": 60,
   "totals": {
-    "games": 430,
-    "codes": 6056,
-    "active": 1024,
-    "expired": 5032,
-    "withExpiry": 3555
+    "games": 432,
+    "codes": 6070,
+    "active": 1034,
+    "expired": 5036,
+    "withExpiry": 3556
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-14",
-      "count": 46
+      "count": 60
     }
   ],
   "expiringSoon": [
@@ -426,11 +426,6 @@
       "total": 15
     },
     {
-      "slug": "samgukji-kingdom",
-      "active": 12,
-      "total": 13
-    },
-    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -469,7 +464,12 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
+    },
+    {
+      "slug": "max-level-idle",
+      "active": 10,
+      "total": 79
     }
   ],
-  "noImage": 91
+  "noImage": 93
 }

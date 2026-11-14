@@ -1,13 +1,11 @@
 {
- "generatedAt": "2026-11-13T19:32:55.232Z",
+ "generatedAt": "2026-11-14T06:05:38.792Z",
  "window": "20261112~20261114",
  "lounges": 2388,
- "posts": 612,
- "couponPosts": 48,
+ "posts": 676,
+ "couponPosts": 57,
  "fixedTracked": [
-  "델타포스 | q1anye | 프로 선수들의 로드아웃 - DFI 에디션 (Regan.S Gaming)",
-  "나 혼자 만렙 키우기 | 2NDANNIVERSARYSHINE3 | [공지사항] 11/19(목) 2주년 업데이트 예고 3차 안내",
-  "퍼즐 오브 Z | PNSKIND26 | 세계 친절의 날 특별 이벤트(11/13~11/19)"
+  "천지겁 | HEROINTRO1114 | 수주 | 술 한 잔 더 하시게. 삼도천 밖에는 더는 벗이 없네... (깜"
  ],
  "addedLounges": [],
  "labelOnly": [
@@ -16,7 +14,9 @@
   "라스트 소녀 전사 | 2026-11-13 | 🦋 신서버 S6110 오픈 안내",
   "드래곤 나이트 키우기 : 방치형 RPG | 2026-11-12 | [안내] v4.0.0 업데이트 GM 노트",
   "드래곤에어 : 침묵의 신 | 2026-11-13 | 【이벤트】 <드래곤에어: 침묵의 신> '진형 쇼케이스 위크' 오픈! ✨",
+  "드림 가든: 추억의 힐링 경영 | 2026-11-14 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "드림 가든: 추억의 힐링 경영 | 2026-11-12 | 🌸 [함께 정원 단풍 전시회를 준비해요!] 🌸",
+  "진 삼국무쌍 오버로드 | 2026-11-14 | 주말 선물 쿠폰",
   "태어나니 슬라임 | 2026-11-13 | [FAQ] 쿠폰은 이렇게 사용해요",
   "전생했더니 검 한 자루 | 2026-11-13 | 🧐 이 실루엣의 정체는?",
   "전생했더니 검 한 자루 | 2026-11-12 | 💖정식 오픈 7일 기념 이벤트",
@@ -24,6 +24,7 @@
   "스카이 어비스: 혈맹의 서약 | 2026-11-13 | [⭐최대 20%아이템 캐시백]11/13~11/15 한정 누적 충전 혜택 안내",
   "Total Football - 25/26 시즌 | 2026-11-13 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/16 ~ 11/22)",
   "명조:워더링 웨이브 | 2026-11-12 | 🎥 『명조:워더링 웨이브』 3.8 버전 라이브 드롭스 이벤트",
+  "이 용병단 머지: 디펜스 | 2026-11-14 | [이벤트] 우리의 첫 만남을 들려주세요!",
   "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 어서와 ! 라운지 가입 인증",
   "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 이 실루엣의 주인공은 누구일까요?"
  ],
@@ -36,6 +37,16 @@
    "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "진 삼국무쌍 오버로드",
+   "loungeId": "Dynasty_Warriors_Overlords",
+   "feedId": 8460086,
+   "date": "2026-11-14",
+   "title": "주말 선물 쿠폰",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMTRfMTEy/MDAxNzk0NjM0MzAyNDEz.GcT41gQNCbluJeeX--Sl72jcff1jniSLhSMTixGVPuIg.Q5VMR_8S-MpXbai_aVjLc5z9xJ0TEY8PaEr1KF9plCsg.PNG/code_1.png?type=w1678"
    ]
   },
   {

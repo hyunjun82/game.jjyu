@@ -366,6 +366,19 @@
       "titleKo": "명조 3.8 버전",
       "titleEn": "myeongjo-3-8-beojeon",
       "found": "2026-11-14"
+    },
+    {
+      "slug": "unppalhaejeokdan",
+      "titleKo": "운빨해적단",
+      "titleEn": "unppalhaejeokdan",
+      "found": "2026-11-14"
+    },
+    {
+      "slug": "puzzles-chaos",
+      "titleKo": "퍼즐 앤 카오스",
+      "titleEn": "Puzzles_Chaos",
+      "loungeId": "Puzzles_Chaos",
+      "found": "2026-11-14"
     }
   ],
   "rejected": [
