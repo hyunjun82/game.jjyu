@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-13T21:49:47.135Z",
+  "generatedAt": "2026-11-14T02:01:23.311Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -39,6 +39,12 @@
       "titleEn": "Samgukji_Kingdom"
     },
     {
+      "slug": "aether-gazer",
+      "loungeId": "AetherGazer",
+      "titleKo": "에테르 게이저",
+      "titleEn": "Aether Gazer"
+    },
+    {
       "slug": "pokemon-go",
       "loungeId": "Pokemon_GO",
       "titleKo": "포켓몬 GO",
@@ -49,114 +55,6 @@
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
-    },
-    {
-      "slug": "7tharcher",
-      "loungeId": "7tharcher",
-      "titleKo": "7번째 신의 궁수 키우기",
-      "titleEn": "7tharcher"
-    },
-    {
-      "slug": "abyss-infinite-realm",
-      "loungeId": "Abyss_Infinite_Realm",
-      "titleKo": "어비스: 무한계",
-      "titleEn": "Abyss Infinite Realm"
-    },
-    {
-      "slug": "abyssdestiny",
-      "loungeId": "abyssdestiny",
-      "titleKo": "어비스: 데스티니",
-      "titleEn": "Abyssdestiny"
-    },
-    {
-      "slug": "acadia-m",
-      "loungeId": "AcadiaM",
-      "titleKo": "아카디아M",
-      "titleEn": "Acadia M"
-    },
-    {
-      "slug": "aether-gazer",
-      "loungeId": "AetherGazer",
-      "titleKo": "에테르 게이저",
-      "titleEn": "Aether Gazer"
-    },
-    {
-      "slug": "afk-mercenary",
-      "loungeId": "AFK_Mercenary",
-      "titleKo": "우리 단장 뭐함?!",
-      "titleEn": "Afk Mercenary"
-    },
-    {
-      "slug": "alterego",
-      "loungeId": "Alterego",
-      "titleKo": "분신 캐 키우기",
-      "titleEn": "Alterego"
-    },
-    {
-      "slug": "loadto-ninza",
-      "loungeId": "loadtoNINZA",
-      "titleKo": "로드 투 닌자-K닌자의 귀환",
-      "titleEn": "Loadto Ninza"
-    },
-    {
-      "slug": "amber-guard",
-      "loungeId": "AmberGuard",
-      "titleKo": "앰버가드",
-      "titleEn": "Amber Guard"
-    },
-    {
-      "slug": "ananta",
-      "loungeId": "Ananta",
-      "titleKo": "무한대 아난타",
-      "titleEn": "Ananta"
-    },
-    {
-      "slug": "animal-quest",
-      "loungeId": "Animal_Quest",
-      "titleKo": "애니멀 퀘스트",
-      "titleEn": "Animal Quest"
-    },
-    {
-      "slug": "anotherthreekingdoms",
-      "loungeId": "anotherthreekingdoms",
-      "titleKo": "이세계 삼국지",
-      "titleEn": "Anotherthreekingdoms"
-    },
-    {
-      "slug": "aof",
-      "loungeId": "aof",
-      "titleKo": "에테르 오브 판타지",
-      "titleEn": "Aof"
-    },
-    {
-      "slug": "arisen-ants",
-      "loungeId": "Arisen_Ants",
-      "titleKo": "어리즌 앤츠 - 1%로 앤츠왕국 건설",
-      "titleEn": "Arisen Ants"
-    },
-    {
-      "slug": "armored-girls",
-      "loungeId": "Armored_Girls",
-      "titleKo": "삼국무장소녀",
-      "titleEn": "Armored Girls"
-    },
-    {
-      "slug": "asap-arena",
-      "loungeId": "ASAP_ARENA",
-      "titleKo": "ASAP 아레나",
-      "titleEn": "Asap Arena"
-    },
-    {
-      "slug": "ash-n-veil",
-      "loungeId": "AshNVeil",
-      "titleKo": "애쉬앤베일",
-      "titleEn": "Ash N Veil"
-    },
-    {
-      "slug": "assetonline",
-      "loungeId": "assetonline",
-      "titleKo": "에셋온라인",
-      "titleEn": "Assetonline"
     },
     {
       "slug": "dokkaebi-girl",
@@ -183,10 +81,52 @@
       "titleEn": "Idle King"
     },
     {
+      "slug": "jingyeok",
+      "loungeId": "Jingyeok",
+      "titleKo": "군주의 전쟁: 진격",
+      "titleEn": "Jingyeok"
+    },
+    {
+      "slug": "j-jalltoon-rumble-with-animalfriends",
+      "loungeId": "JJalltoonRumble_with_animalfriends",
+      "titleKo": "짤툰대난투 with. 짐승친구들",
+      "titleEn": "J Jalltoon Rumble With Animalfriends"
+    },
+    {
+      "slug": "k-zombie-saga-idle-game",
+      "loungeId": "K_Zombie_Saga_Idle_Game",
+      "titleKo": "조선 좀비전",
+      "titleEn": "K Zombie Saga Idle Game"
+    },
+    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "langrisser-sea-of-sword",
+      "loungeId": "Langrisser_Sea_of_Sword",
+      "titleKo": "랑그릿사: 검의 바다",
+      "titleEn": "Langrisser Sea Of Sword"
+    },
+    {
+      "slug": "last-cloudia",
+      "loungeId": "Last_Cloudia",
+      "titleKo": "라스트 클라우디아",
+      "titleEn": "Last Cloudia"
+    },
+    {
+      "slug": "leubens-adventure",
+      "loungeId": "Leubens_Adventure",
+      "titleKo": "루벤의 대모험",
+      "titleEn": "Leubens Adventure"
+    },
+    {
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
     },
     {
       "slug": "play-together",

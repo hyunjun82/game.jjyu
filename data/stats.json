@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T22:11:45.671Z",
+  "generatedAt": "2026-11-14T02:20:49.921Z",
   "today": "2026-11-14",
-  "todayNew": 29,
+  "todayNew": 46,
   "totals": {
-    "games": 429,
-    "codes": 6039,
-    "active": 975,
-    "expired": 5064,
-    "withExpiry": 3547
+    "games": 430,
+    "codes": 6056,
+    "active": 1024,
+    "expired": 5032,
+    "withExpiry": 3555
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-14",
-      "count": 29
+      "count": 46
     }
   ],
   "expiringSoon": [
@@ -339,6 +339,12 @@
       "days": 2
     },
     {
+      "slug": "dunjeonpang",
+      "code": "UMLZD3",
+      "expiry": "2026-11-16",
+      "days": 2
+    },
+    {
       "slug": "f-class-hero",
       "code": "Nov11Start",
       "expiry": "2026-11-16",
@@ -359,12 +365,6 @@
     {
       "slug": "god-kkaebi",
       "code": "ndqfdred",
-      "expiry": "2026-11-16",
-      "days": 2
-    },
-    {
-      "slug": "heroes-tales2",
-      "code": "HJFHK1109",
       "expiry": "2026-11-16",
       "days": 2
     }
@@ -401,14 +401,14 @@
       "total": 19
     },
     {
+      "slug": "raas",
+      "active": 15,
+      "total": 16
+    },
+    {
       "slug": "sword-immortal",
       "active": 15,
       "total": 22
-    },
-    {
-      "slug": "raas",
-      "active": 14,
-      "total": 15
     },
     {
       "slug": "sodeu-seutaepeu",
@@ -424,6 +424,11 @@
       "slug": "byeolbyeol-hero",
       "active": 12,
       "total": 15
+    },
+    {
+      "slug": "samgukji-kingdom",
+      "active": 12,
+      "total": 13
     },
     {
       "slug": "gray-saga",
@@ -451,6 +456,11 @@
       "total": 14
     },
     {
+      "slug": "wtbk",
+      "active": 11,
+      "total": 14
+    },
+    {
       "slug": "dragon-traveler",
       "active": 10,
       "total": 90
@@ -459,16 +469,6 @@
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 10,
-      "total": 79
-    },
-    {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
     }
   ],
   "noImage": 91

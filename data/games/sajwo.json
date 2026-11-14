@@ -5,13 +5,23 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T20:00:09.349Z",
+  "updatedAt": "2026-11-14T02:20:17.162Z",
   "codes": [
+    {
+      "code": "W217KY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/kko_ggumma/224476499857",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
     {
       "code": "X00OR6",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-14",
+      "postedAt": "2026-11-13",
       "sourceUrl": "https://blog.naver.com/bidsh/224475237180",
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-14",

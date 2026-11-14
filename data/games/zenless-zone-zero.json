@@ -5,8 +5,18 @@
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-13T19:49:31.508Z",
+  "updatedAt": "2026-11-14T02:08:23.396Z",
   "codes": [
+    {
+      "code": "NEWERA2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224476135706",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
     {
       "code": "ZZZSEASON3",
       "reward": "",
@@ -14,6 +24,16 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
       "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-14",
+      "status": "active"
+    },
+    {
+      "code": "ZZZFREE100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224476135706",
+      "firstSeen": "2026-10-05",
       "lastSeen": "2026-11-14",
       "status": "active"
     },
@@ -65,16 +85,6 @@
       "sourceUrl": "https://blog.naver.com/noorimer/224436628278",
       "firstSeen": "2026-10-10",
       "lastSeen": "2026-11-08",
-      "status": "expired"
-    },
-    {
-      "code": "ZZZFREE100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-05",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224431190481",
-      "firstSeen": "2026-10-05",
-      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {
