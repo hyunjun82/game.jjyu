@@ -5,47 +5,57 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-10T15:02:30.022Z",
+  "updatedAt": "2026-11-14T20:15:18.511Z",
   "codes": [
     {
       "code": "CRKREBIRTHLIVE",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477274435",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
-    },
-    {
-      "code": "SCOOPVOICEACTORS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
+      "lastSeen": "2026-11-15",
+      "status": "active"
     },
     {
       "code": "TODEARESTFROMIHWAN",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477274435",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
+      "code": "SCOOPVOICEACTORS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477274435",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-15",
+      "status": "active"
     },
     {
       "code": "CRKKPDHCOLLABNOW",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477274435",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
+      "code": "CRKCHRONOSLIVE26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477274435",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-15",
+      "status": "active"
     },
     {
       "code": "COOKIERUNXIDUS",
@@ -165,16 +175,6 @@
       "sourceUrl": "https://blog.naver.com/whitelink224/224438448441",
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-11-11",
-      "status": "expired"
-    },
-    {
-      "code": "CRKCHRONOSLIVE26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-29",
       "status": "expired"
     },
     {

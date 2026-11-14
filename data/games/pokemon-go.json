@@ -2,11 +2,23 @@
   "slug": "pokemon-go",
   "titleEn": "Pokemon Go",
   "titleKo": "포켓몬 GO",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTJfMTU4/MDAxNzk0NDgxMDk2MTMw.Fj6Ep20a8SO22sr6QgY4eIH04YMEDHvY9bRKXRedlqsg.mBb9RUqUhhhBfaQ_AyD2UgsmEZSkNAPUh9X5aA55hCAg.PNG/%EC%8B%A4%EB%A3%A8%EC%97%A3_%ED%80%B4%EC%A6%88_58.png",
+  "source": "naver-lounge",
+  "loungeId": "Pokemon_GO",
+  "sourceUrl": "https://game.naver.com/lounge/Pokemon_GO/board/detail/8453296",
   "howTo": "",
-  "updatedAt": "2026-10-21T01:24:35.028Z",
+  "postCount": 1,
+  "updatedAt": "2026-11-14T20:12:08.418Z",
   "codes": [
+    {
+      "code": "sangha",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-12",
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
     {
       "code": "0004POKEMONGO",
       "reward": "",
