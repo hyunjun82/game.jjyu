@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/F4U/board/detail/8457405",
   "howTo": "",
   "postCount": 4,
-  "updatedAt": "2026-11-15T14:28:31.122Z",
+  "updatedAt": "2026-11-15T19:15:05.843Z",
   "codes": [
-    {
-      "code": "BASTARAFIREF1113",
-      "reward": "",
-      "expiry": "2026-11-15",
-      "postedAt": "2026-11-13",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
     {
       "code": "F4UTUBECOUTY1113",
       "reward": "",
       "expiry": "2026-11-19",
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": "2026-11-25",
       "postedAt": "2026-11-12",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -43,8 +34,17 @@
       "expiry": "2026-11-19",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
+    },
+    {
+      "code": "BASTARAFIREF1113",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
     },
     {
       "code": "CFA3EC73D4D99776",

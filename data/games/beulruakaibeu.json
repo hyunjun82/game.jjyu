@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:25:00.423Z",
+  "updatedAt": "2026-11-15T19:06:54.116Z",
   "codes": [
     {
       "code": "MAGICAL",
@@ -14,7 +14,7 @@
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/storm18/224474424561",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/foryoucom_/224471934301",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -34,17 +34,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "MAGICALPUMPKIN",
-      "reward": "",
-      "expiry": "2026-11-15",
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/doek11/224469282439",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -55,6 +45,16 @@
       "sourceUrl": "https://blog.naver.com/mola__mola/224469325973",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-10",
+      "status": "expired"
+    },
+    {
+      "code": "MAGICALPUMPKIN",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/doek11/224469282439",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {

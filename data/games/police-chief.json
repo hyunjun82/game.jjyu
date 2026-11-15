@@ -5,38 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T14:32:20.224Z",
+  "updatedAt": "2026-11-15T19:02:40.646Z",
   "codes": [
-    {
-      "code": "CAFECHIEF",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "FBCHIEF2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "DCSPATROL26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
     {
       "code": "TRICKORCHIEF",
       "reward": "",
@@ -44,7 +14,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
@@ -54,7 +24,7 @@
       "postedAt": "2026-10-29",
       "sourceUrl": "https://blog.naver.com/jonges_/224458199189",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
@@ -85,6 +55,36 @@
       "sourceUrl": "https://blog.naver.com/dustpeodls/224416489775",
       "firstSeen": "2026-10-07",
       "lastSeen": "2026-10-18",
+      "status": "expired"
+    },
+    {
+      "code": "CAFECHIEF",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "FBCHIEF2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "DCSPATROL26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224460889587",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {

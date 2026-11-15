@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:27:53.558Z",
+  "updatedAt": "2026-11-15T19:09:12.583Z",
   "codes": [
     {
       "code": "LTSDNOVEMBER",
@@ -14,17 +14,7 @@
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/jonges_/224473806619",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "TRICKORTREATLTSD",
-      "reward": "",
-      "expiry": "2026-11-15",
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/jonges_/224473806619",
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -34,8 +24,18 @@
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/jonges_/224473806619",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
+    },
+    {
+      "code": "TRICKORTREATLTSD",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/jonges_/224473806619",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
     }
   ]
 }

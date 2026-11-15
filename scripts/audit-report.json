@@ -1,25 +1,20 @@
 {
- "generatedAt": "2026-11-14T22:15:36.829Z",
- "window": "20261113~20261115",
+ "generatedAt": "2026-11-15T18:45:24.746Z",
+ "window": "20261114~20261116",
  "lounges": 2388,
- "posts": 403,
- "couponPosts": 41,
+ "posts": 216,
+ "couponPosts": 19,
  "fixedTracked": [
-  "후더덕 서바이벌 | CYBERDUCK | 11월 15일 인게임 이벤트 안내"
+  "나 혼자 만렙 키우기 | 2NDANNIVERSARYD3 | [쿠폰] 🎁 2주년 “매일매일 쿠폰” 이벤트 D-3 카운트다운!"
  ],
  "addedLounges": [],
  "labelOnly": [
-  "라스트 소녀 전사 | 2026-11-13 | 🦋 신서버 S6110 오픈 안내",
-  "드래곤에어 : 침묵의 신 | 2026-11-13 | 【이벤트】 <드래곤에어: 침묵의 신> '진형 쇼케이스 위크' 오픈! ✨",
   "드림 가든: 추억의 힐링 경영 | 2026-11-14 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "진 삼국무쌍 오버로드 | 2026-11-14 | 주말 선물 쿠폰",
-  "태어나니 슬라임 | 2026-11-13 | [FAQ] 쿠폰은 이렇게 사용해요",
-  "전생했더니 검 한 자루 | 2026-11-13 | 🧐 이 실루엣의 정체는?",
-  "스카이 어비스: 혈맹의 서약 | 2026-11-13 | [⭐최대 20%아이템 캐시백]11/13~11/15 한정 누적 충전 혜택 안내",
-  "Total Football - 25/26 시즌 | 2026-11-13 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/16 ~ 11/22)",
-  "이 용병단 머지: 디펜스 | 2026-11-14 | [이벤트] 우리의 첫 만남을 들려주세요!",
-  "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 어서와 ! 라운지 가입 인증",
-  "이 용병단 머지: 디펜스 | 2026-11-13 | [이벤트] 이 실루엣의 주인공은 누구일까요?"
+  "삼국지 오리진2: 적벽대전 | 2026-11-15 | 🎁 GURU 황금 충전 쿠폰 반환 - 11월 특혜 반환 이벤트 (11.16 ~ 18)",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-16 | ☀영보 선물 GO!누적 충전 이벤트(11/16~11/22)",
+  "슬라임 군단 | 2026-11-16 | [이벤트] 타마모를 찾아라!🔍",
+  "이 용병단 머지: 디펜스 | 2026-11-14 | [이벤트] 우리의 첫 만남을 들려주세요!"
  ],
  "imageOnly": [
   {
@@ -43,45 +38,15 @@
    ]
   },
   {
-   "game": "태어나니 슬라임",
-   "loungeId": "From_Slime",
-   "feedId": 8457420,
-   "date": "2026-11-13",
-   "title": "[쿠폰] 태어나니 슬라임 쿠폰 모아보기",
+   "game": "삼국지 오리진2: 적벽대전",
+   "loungeId": "samgukji_origin2",
+   "feedId": 8468621,
+   "date": "2026-11-15",
+   "title": "🎁 GURU 황금 충전 쿠폰 반환 - 11월 특혜 반환 이벤트 (11.16 ~ 18)",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTNfMTk5/MDAxNzk0NTcxMDIzNjc1.RbUhd-iz2oVhiv2U9zosvcoRPxvd6HajmQbMXLw4bGog.E6SqHTqgY90aPRcaevEZ-ltwRQJpgyF2KX2a_zzuIdAg.PNG/article-coupon-1000x250.png?type=w1678"
-   ]
-  },
-  {
-   "game": "태어나니 슬라임",
-   "loungeId": "From_Slime",
-   "feedId": 8456908,
-   "date": "2026-11-13",
-   "title": "[안내] 비공식 쿠폰과 운영진 사칭에 주의해 주세요",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTNfOTcg/MDAxNzk0NTcwODY3MjQ3.lFLVVaxru8c4YKdom6tU0oQbAbrh2bnga7zlEm5ceFIg.ZUkLGp1GRZSbRZJgEb11wMlEYGTUEF2pjlbX94crkSMg.PNG/article-notice-1000x250.png?type=w1678"
-   ]
-  },
-  {
-   "game": "태어나니 슬라임",
-   "loungeId": "From_Slime",
-   "feedId": 8456898,
-   "date": "2026-11-13",
-   "title": "[FAQ] 쿠폰은 이렇게 사용해요",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTNfOTcg/MDAxNzk0NTcwODY3MjQ3.lFLVVaxru8c4YKdom6tU0oQbAbrh2bnga7zlEm5ceFIg.ZUkLGp1GRZSbRZJgEb11wMlEYGTUEF2pjlbX94crkSMg.PNG/article-notice-1000x250.png?type=w1678"
-   ]
-  },
-  {
-   "game": "삼국지: 구주제패",
-   "loungeId": "Three_Kingdoms_Conquering_the_World",
-   "feedId": 8457225,
-   "date": "2026-11-13",
-   "title": "🌙 월정액 혜택! 구매하고 본성 레벨을 올리면 게임 쿠폰으로 돌려받으세요!",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTNfMjk1/MDAxNzk0NTYyMzE5MzQy.J_Fa_PWrad6r7wLlP17F7wSnPgPwp5Bd8jiX7UoqlE0g.6oRKyQOoPT2AJTi1zr5U1jzkKm_OKZw2__-XNeQB9Zcg.JPEG/%E5%85%AC%E5%91%8A%E8%B4%B4%E6%96%87BANNER%EF%BC%88%E9%A1%B6%E9%83%A8%EF%BC%89-5.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTNfNDMg/MDAxNzk0NTYyNDQ4ODEx.VPff60U6CcUO-E2PkCmwsclJfE9N9wYtSFwO3Fa_Mbog.eB2Z-1gCXZCLaSJrgvfMFtoJO6hIkXTP7rBbeuX673og.JPEG/6a552b8a-b817-4e8d-a4a5-08d8ae6ed8e9.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTNfMzYg/MDAxNzk0NTYyNDIwOTg4.JrRJyO2665tvJIPJJekSSSte5mivDTm5uBl7g_DrieAg.F3chOAyoPW9Q9TpvAc7kiWt6NQQfqRY0eOhMH9J8X-gg.JPEG/%E5%85%AC%E5%91%8A%E8%B4%B4%E6%96%87BANNER%EF%BC%88%E5%BA%95%E9%83%A8%EF%BC%89.jpg?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjIw/MDAxNzY1ODY2MzU2Mzk4.9-qcwuG-Mgc6rDvl0mXHKfGJVoIKMCUmLmKkF6JBNCwg.IjrxQDfy-1ce-2bV_0sDjjKSwG7NXClBpJnfGY4ZMesg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjM5/MDAxNzUyNjM0OTY3NTE0.3ImPslOJTNDXRVRoy7vSw0wShYgTTqoBHyh4FU8gvKgg.YjlxLq0_xT9KzZ8J8SRNvgjG95OJ4u4C5omOAo6K4x0g.PNG/image.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjMw/MDAxNzUyNjM0OTgzODcx.1O_iBhAVhEtq3YgCuQCk4GPwjKuGPKsZytb2V5JZy-cg.-_YkF0CdSzcvDPbrQOBOWZ4I2fvlVLaCs2dH6XONyfEg.JPEG/img_v3_02o2_06591e35-06d2-454c-a89f-923ef64818dg.jpg?type=w1678"
    ]
   },
   {

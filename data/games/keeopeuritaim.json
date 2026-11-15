@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:23:33.687Z",
+  "updatedAt": "2026-11-15T19:05:39.173Z",
   "codes": [
     {
       "code": "CAREFREE2026",
@@ -35,6 +35,16 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224459994631",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-15",
+      "status": "expired"
+    },
+    {
+      "code": "Z497GB62W8S",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-18",
+      "sourceUrl": "https://blog.naver.com/naakey/224444821327",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
@@ -73,16 +83,6 @@
       "expiry": null,
       "postedAt": "2026-10-16",
       "sourceUrl": "https://blog.naver.com/bbbbbap/224444106810",
-      "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-15",
-      "status": "expired"
-    },
-    {
-      "code": "Z497GB62W8S",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-18",
-      "sourceUrl": "https://blog.naver.com/naakey/224444821327",
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-15",
       "status": "expired"

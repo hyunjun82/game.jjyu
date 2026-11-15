@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T14:31:51.039Z",
+  "updatedAt": "2026-11-15T19:02:15.408Z",
   "codes": [
+    {
+      "code": "D-31",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/mysg1029/224477612591",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "D-101",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/mysg1029/224477612591",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "D-108",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/mysg1029/224477612591",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "THANKYOUDAEVA",
       "reward": "",
@@ -14,7 +44,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/bebe_rabit/224469650255",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -24,7 +54,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/game_gallery/224469394657",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {

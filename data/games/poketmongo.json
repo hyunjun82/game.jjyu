@@ -1,0 +1,41 @@
+{
+  "slug": "poketmongo",
+  "titleEn": "poketmongo",
+  "titleKo": "포켓몬고",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-15T19:09:44.832Z",
+  "codes": [
+    {
+      "code": "COMMUNITYMAX10",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/trendcatch624/224478222279",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "QKJAJ",
+      "reward": "",
+      "expiry": "2026-11-05",
+      "postedAt": "2026-10-31",
+      "sourceUrl": "https://blog.naver.com/yong9260/224459683185",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "JEBLOG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-10-27",
+      "sourceUrl": "https://blog.naver.com/eojin7550/224454940156",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    }
+  ]
+}

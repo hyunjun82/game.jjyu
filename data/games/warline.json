@@ -5,8 +5,28 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:25:57.730Z",
+  "updatedAt": "2026-11-15T19:07:40.040Z",
   "codes": [
+    {
+      "code": "WARLINEOBT",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/blok74/224478227709",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "WARLINETAC",
+      "reward": "",
+      "expiry": "2027-07-01",
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/blok74/224478227709",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "WARLINES1",
       "reward": "",
@@ -14,7 +34,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jinjioni/224467394663",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -24,17 +44,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jinjioni/224467394663",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "WARLINEOBT",
-      "reward": "",
-      "expiry": "2027-07-01",
-      "postedAt": "2026-11-06",
-      "sourceUrl": "https://blog.naver.com/jinjioni/224467394663",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -44,7 +54,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jinjioni/224467394663",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -54,17 +64,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jinjioni/224467394663",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "WARLINETAC",
-      "reward": "",
-      "expiry": "2027-07-01",
-      "postedAt": "2026-11-06",
-      "sourceUrl": "https://blog.naver.com/jinjioni/224467394663",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -75,7 +75,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461031556",
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-15",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "SNIPERGO",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461031556",
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-15",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "FRONTIERSTART",
@@ -95,7 +95,7 @@
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224461031556",
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-15",
-      "status": "active"
+      "status": "expired"
     }
   ]
 }

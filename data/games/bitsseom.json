@@ -5,8 +5,48 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:25:48.657Z",
+  "updatedAt": "2026-11-15T19:07:32.513Z",
   "codes": [
+    {
+      "code": "LOVE5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "BITHUMB50",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "AAA777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/didvk1318/224478254812",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
+    {
+      "code": "944ZQRW1OZ",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/satoukenta/224478024454",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "MRGK1UHET5",
       "reward": "",
@@ -15,17 +55,7 @@
       "sourceUrl": "https://blog.naver.com/worye/224475740111",
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "FJ45NZYSB1",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/at_fox_/224471682924",
-      "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-15",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "1EBB42",
@@ -85,6 +115,16 @@
       "sourceUrl": "https://blog.naver.com/sunflower-lab/224476432379",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-14",
+      "status": "expired"
+    },
+    {
+      "code": "FJ45NZYSB1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/at_fox_/224471682924",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-15",
       "status": "expired"
     },
     {

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:22:13.055Z",
+  "updatedAt": "2026-11-15T19:04:36.026Z",
   "codes": [
     {
       "code": "FORTHEKINGDOM",
@@ -14,7 +14,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/danbong23/224466384929",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -24,57 +24,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/danbong23/224466384929",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "IG200KS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "KS1017",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "VIP1017",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "OFFICIALSTORE1023",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "KS1025",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
-      "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -84,7 +34,7 @@
       "postedAt": "2026-11-01",
       "sourceUrl": "https://blog.naver.com/naakey/224460510043",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -94,17 +44,17 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472775059",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
       "code": "11OFFICIALSTORE08",
       "reward": "",
       "expiry": "2026-11-13",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472775059",
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/danbong23/224466384929",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
@@ -128,13 +78,63 @@
       "status": "expired"
     },
     {
+      "code": "IG200KS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "KS1017",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "VIP1017",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "OFFICIALSTORE1023",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "KS1025",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-01",
+      "sourceUrl": "https://blog.naver.com/naakey/224460510043",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
       "code": "특징",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-18",
       "sourceUrl": "https://blog.naver.com/mola__mola/224445009260",
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:25:17.714Z",
+  "updatedAt": "2026-11-15T19:07:06.983Z",
   "codes": [
     {
       "code": "SEPHIRUS2026",
@@ -40,71 +40,71 @@
     {
       "code": "sephiki1012",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
-      "status": "expired"
-    },
-    {
-      "code": "SEPHIFREE001",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
-      "status": "expired"
-    },
-    {
-      "code": "SEPHIFREE002",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
-      "status": "expired"
-    },
-    {
-      "code": "SEPHIFREE003",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
-      "status": "expired"
-    },
-    {
-      "code": "SEPHIFREE004",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
-      "status": "expired"
-    },
-    {
-      "code": "SEPHIFREE005",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
       "code": "SEPHIFREE006",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-16",
-      "sourceUrl": "https://blog.naver.com/blackwz/224444173914",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "SEPHIFREE001",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "SEPHIFREE002",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "SEPHIFREE003",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "SEPHIFREE004",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "SEPHIFREE005",
+      "reward": "",
+      "expiry": "2026-10-31",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224456047859",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     }
   ]
