@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-15T14:23:05.981Z",
+  "generatedAt": "2026-11-15T19:56:04.197Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -9,28 +9,10 @@
       "titleEn": "Three Kingdoms Senkiban"
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
-    },
-    {
-      "slug": "echocalypse-scarlet-covenant",
-      "loungeId": "Echocalypse_Scarlet_Covenant",
-      "titleKo": "에코칼립스: 진홍의 서약",
-      "titleEn": "Echocalypse Scarlet Covenant"
-    },
-    {
       "slug": "torchlight-infinite-kr",
       "loungeId": "Torchlight_Infinite",
       "titleKo": "토치라이트: 인피니트",
       "titleEn": "Torchlight_Infinite"
-    },
-    {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "arknights-endfield",
@@ -39,16 +21,16 @@
       "titleEn": "Arknights_Endfield"
     },
     {
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
+    },
+    {
       "slug": "monsterhunteroutlanders",
       "loungeId": "monsterhunteroutlanders",
       "titleKo": "몬스터헌터 아웃랜더스",
       "titleEn": "Monsterhunteroutlanders"
-    },
-    {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "oops-tomb-raid",
@@ -67,6 +49,12 @@
       "loungeId": "Dragonblade_Grow",
       "titleKo": "용칼이 키우기",
       "titleEn": "Dragonblade Grow"
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
     },
     {
       "slug": "idle-king",
@@ -109,6 +97,12 @@
       "loungeId": "Samguk_Origin",
       "titleKo": "삼국지 오리진",
       "titleEn": "Samguk_Origin"
+    },
+    {
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "star-of-the-overlord",
