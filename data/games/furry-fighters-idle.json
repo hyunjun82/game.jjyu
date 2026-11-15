@@ -5,8 +5,17 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjAzMTdfOTMg/MDAxNzczNzM3NjE3Nzk5.vF7UnjZmlQ-RhYT_QMudvNx-nK3yB_AAsbQAcKBi388g.oGfu6gW32RAE2hDdtCjsSpAY1JKSkKXIrhx3Dj0NVeEg.PNG/2.png",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:14:45.589Z",
+  "updatedAt": "2026-11-15T14:29:14.806Z",
   "codes": [
+    {
+      "code": "SWEEPALL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
     {
       "code": "TRICKORTREAT",
       "reward": "",
