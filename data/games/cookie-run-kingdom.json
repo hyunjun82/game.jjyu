@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-14T22:33:13.752Z",
+  "updatedAt": "2026-11-15T00:17:51.154Z",
   "codes": [
+    {
+      "code": "HAPPYSONGKRANCRK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
     {
       "code": "CRKREBIRTHLIVE",
       "reward": "",
@@ -48,6 +58,56 @@
       "status": "active"
     },
     {
+      "code": "2MSUBSCRIBERSCRK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
+      "code": "COOKIERUNXIDUS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
+      "code": "HAPPY5THANNIVERSARY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
+      "code": "KDHXCRK2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
+      "code": "BACK2BASICS2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-15",
+      "status": "active"
+    },
+    {
       "code": "CRKCHRONOSLIVE26",
       "reward": "",
       "expiry": null,
@@ -58,44 +118,24 @@
       "status": "active"
     },
     {
-      "code": "COOKIERUNXIDUS",
+      "code": "MISSEARTHBREAD26",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-15",
+      "status": "active"
     },
     {
-      "code": "KDHXCRK2026",
+      "code": "DEVNOW2026THANKU",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
-    },
-    {
-      "code": "2MSUBSCRIBERSCRK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
-    },
-    {
-      "code": "BACK2BASICS2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468459791",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-11-15",
+      "status": "active"
     },
     {
       "code": "CRKINTAIWAN2026",
@@ -148,42 +188,12 @@
       "status": "expired"
     },
     {
-      "code": "HAPPY5THANNIVERSARY",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
-    },
-    {
       "code": "CRKANIMEIMPULSE2026",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-09-30",
       "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-29",
-      "status": "expired"
-    },
-    {
-      "code": "MISSEARTHBREAD26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-12",
-      "sourceUrl": "https://blog.naver.com/whitelink224/224438448441",
-      "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-11",
-      "status": "expired"
-    },
-    {
-      "code": "DEVNOW2026THANKU",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-09-30",
-      "sourceUrl": "https://blog.naver.com/wkdenddl1/224426812625",
-      "firstSeen": "2026-10-03",
       "lastSeen": "2026-10-29",
       "status": "expired"
     },

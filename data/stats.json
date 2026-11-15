@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-14T22:46:44.946Z",
+  "generatedAt": "2026-11-15T00:28:30.075Z",
   "today": "2026-11-15",
-  "todayNew": 9,
+  "todayNew": 13,
   "totals": {
     "games": 433,
-    "codes": 6082,
-    "active": 999,
-    "expired": 5083,
-    "withExpiry": 3562
+    "codes": 6086,
+    "active": 1021,
+    "expired": 5065,
+    "withExpiry": 3563
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-15",
-      "count": 9
+      "count": 13
     }
   ],
   "expiringSoon": [
@@ -416,6 +416,11 @@
       "total": 22
     },
     {
+      "slug": "cookie-run-kingdom",
+      "active": 13,
+      "total": 20
+    },
+    {
       "slug": "whoa-adventurers",
       "active": 13,
       "total": 13
@@ -464,11 +469,6 @@
       "slug": "astro-defenders",
       "active": 9,
       "total": 10
-    },
-    {
-      "slug": "play-together",
-      "active": 9,
-      "total": 9
     }
   ],
   "noImage": 93

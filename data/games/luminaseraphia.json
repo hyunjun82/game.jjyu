@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-14T08:36:01.612Z",
+  "updatedAt": "2026-11-15T00:27:56.222Z",
   "codes": [
     {
       "code": "LUMINA2026",
@@ -14,8 +14,8 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460072549",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-14",
-      "status": "active"
+      "lastSeen": "2026-11-15",
+      "status": "expired"
     },
     {
       "code": "SERAPHIA",
@@ -24,8 +24,8 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460072549",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-14",
-      "status": "active"
+      "lastSeen": "2026-11-15",
+      "status": "expired"
     },
     {
       "code": "WELCOMESERA",
@@ -34,8 +34,8 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/rvaaymjivxtudk/224460072549",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-14",
-      "status": "active"
+      "lastSeen": "2026-11-15",
+      "status": "expired"
     }
   ]
 }
