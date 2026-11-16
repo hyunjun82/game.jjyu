@@ -2,14 +2,23 @@
   "slug": "cross-idle-rpg",
   "titleEn": "Cross_Idle_RPG",
   "titleKo": "영주님은 죽지 않는다",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTNfMTg0/MDAxNzk0NTQzMjg0MzE0.gvDmSrvJOBkWsXwFONVr9sfu1XCRTzsxdPUH00I_y2Ug.PiqJcwTBMCVIoKhxlXX34Tz-j1lYoGiNN-hf262pE3Mg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EC%9D%B4%EB%B2%A4%ED%8A%B8_%ED%97%A4%EB%8D%94.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTZfMTk5/MDAxNzk0ODAyNTIwMjg5.uFQhBqQe9DTO-tBXX1lKtxlv2rpL8H_iCutianWlhfsg.JPkS3UpZj_o3jEmCrTPXGZeBKMnpAOVh_cWEldK2Chgg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98_%EB%B3%B8%EB%AC%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%97%A4%EB%8D%94.jpg",
   "source": "naver-lounge",
   "loungeId": "Cross_Idle_RPG",
-  "sourceUrl": "https://game.naver.com/lounge/Cross_Idle_RPG/board/detail/8456019",
-  "howTo": "",
-  "postCount": 6,
-  "updatedAt": "2026-11-16T03:29:18.883Z",
+  "sourceUrl": "https://game.naver.com/lounge/Cross_Idle_RPG/board/detail/8470383",
+  "howTo": "우측 상단 [메뉴] > [쿠폰] > [쿠폰 입력] 지금 바로 접속하여 대륙의 주인이 되어보세요!",
+  "postCount": 7,
+  "updatedAt": "2026-11-16T06:43:18.818Z",
   "codes": [
+    {
+      "code": "VALKYR2026",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "H13FVDNRLTZS",
       "reward": "",
