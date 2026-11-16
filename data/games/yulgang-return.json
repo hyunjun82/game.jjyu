@@ -2,11 +2,23 @@
   "slug": "yulgang-return",
   "titleEn": "Yulgang: Return",
   "titleKo": "열혈강호: 귀환",
-  "image": null,
-  "source": "naver-search",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfOTgg/MDAxNzkzNjc3NzEzNTAy.SKC-1q_4klgeuSyG8QnyhLA-iOzTjKQydmsKrAhheigg.rDfTYW4uS63j_5805EAIIg7ileVztWC3NkAdH9dhe-Ig.JPEG/%E5%B8%96%E5%AD%90BN-%E5%85%91%E6%8D%A2%E7%A0%81%E5%85%AC%E5%BC%80.jpg",
+  "source": "naver-lounge",
+  "loungeId": "yulgangreturn",
+  "sourceUrl": "https://game.naver.com/lounge/yulgangreturn/board/detail/8471327",
   "howTo": "",
-  "updatedAt": "2026-11-12T18:40:50.266Z",
+  "postCount": null,
+  "updatedAt": "2026-11-16T11:49:18.764Z",
   "codes": [
+    {
+      "code": "BONUS2611",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "LOUNGE50000",
       "reward": "",

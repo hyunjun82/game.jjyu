@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-16T03:24:51.569Z",
+  "generatedAt": "2026-11-16T11:48:01.048Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -33,40 +33,46 @@
       "titleEn": "Monsterhunteroutlanders"
     },
     {
-      "slug": "shinchan",
-      "loungeId": "shinchan",
-      "titleKo": "짱구는 못말려:GO",
-      "titleEn": "Shinchan"
-    },
-    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "bum-the-age-of-romance",
-      "loungeId": "BUM_The_age_of_Romance",
-      "titleKo": "범:낭만의 시대",
-      "titleEn": "Bum The Age Of Romance"
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
     },
     {
-      "slug": "cabal-red",
-      "loungeId": "CABAL_RED",
-      "titleKo": "카발RED",
-      "titleEn": "Cabal Red"
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
     },
     {
-      "slug": "catoutdoor",
-      "loungeId": "catoutdoor",
-      "titleKo": "숲속 고양이마을",
-      "titleEn": "Catoutdoor"
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
+    },
+    {
+      "slug": "dragon-rider-idle",
+      "loungeId": "Dragon_Rider_Idle",
+      "titleKo": "드래곤 라이더 키우기",
+      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -81,6 +87,12 @@
       "titleEn": "Dragonheir"
     },
     {
+      "slug": "fresh-rpg",
+      "loungeId": "FreshRPG",
+      "titleKo": "싱싱한RPG : 강남상어 키우기",
+      "titleEn": "Fresh Rpg"
+    },
+    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -91,6 +103,12 @@
       "loungeId": "kungfuchaos",
       "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "lost-era-mupa",
+      "loungeId": "LostEra_Mupa",
+      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
+      "titleEn": "Lost Era Mupa"
     },
     {
       "slug": "play-together",
@@ -129,60 +147,6 @@
       "titleEn": "Samgukji_Kingdom"
     },
     {
-      "slug": "seollaesamguk",
-      "loungeId": "seollaesamguk",
-      "titleKo": "설레 삼국:미인계",
-      "titleEn": "Seollaesamguk"
-    },
-    {
-      "slug": "seondo-m",
-      "loungeId": "Seondo_M",
-      "titleKo": "선도M : 선마결전",
-      "titleEn": "Seondo M"
-    },
-    {
-      "slug": "seraphim-saga",
-      "loungeId": "Seraphim_Saga",
-      "titleKo": "세라핌 사가: 날개소녀 키우기",
-      "titleEn": "Seraphim Saga"
-    },
-    {
-      "slug": "shoot-shoot",
-      "loungeId": "ShootShoot",
-      "titleKo": "마녀 슈슈슉 - 1000 뽑기 증정",
-      "titleEn": "Shoot Shoot"
-    },
-    {
-      "slug": "silver-and-blood",
-      "loungeId": "Silver_And_Blood",
-      "titleKo": "실버 앤 블러드",
-      "titleEn": "Silver And Blood"
-    },
-    {
-      "slug": "silver-palace",
-      "loungeId": "Silver_Palace",
-      "titleKo": "실버 팰리스",
-      "titleEn": "Silver Palace"
-    },
-    {
-      "slug": "skull-defense",
-      "loungeId": "Skull_Defense",
-      "titleKo": "스컬디펜스",
-      "titleEn": "Skull Defense"
-    },
-    {
-      "slug": "slingshooter",
-      "loungeId": "slingshooter",
-      "titleKo": "용사의 모험: 슬링슈터",
-      "titleEn": "Slingshooter"
-    },
-    {
-      "slug": "solosamguk",
-      "loungeId": "solosamguk",
-      "titleKo": "나 혼자 만렙 삼국",
-      "titleEn": "Solosamguk"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
@@ -195,16 +159,34 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "survivor-warriors",
-      "loungeId": "Survivor_Warriors",
-      "titleKo": "서바이버 워리어즈",
-      "titleEn": "Survivor Warriors"
+      "slug": "taptap-hero",
+      "loungeId": "Taptap_Hero",
+      "titleKo": "탑탑 히어로",
+      "titleEn": "Taptap Hero"
     },
     {
-      "slug": "swordgirl-hero",
-      "loungeId": "swordgirl_hero",
-      "titleKo": "칼잽이소녀",
-      "titleEn": "Swordgirl Hero"
+      "slug": "the-ace-banker",
+      "loungeId": "The_Ace_Banker",
+      "titleKo": "사장님의 이중생활",
+      "titleEn": "The Ace Banker"
+    },
+    {
+      "slug": "the-contract-of-blood",
+      "loungeId": "The_contract_of_Blood",
+      "titleKo": "피의 계약: 언데드",
+      "titleEn": "The Contract Of Blood"
+    },
+    {
+      "slug": "the-first-hunter-vanguard",
+      "loungeId": "The_First_Hunter_Vanguard",
+      "titleKo": "최초의 헌터: 뱅가드",
+      "titleEn": "The First Hunter Vanguard"
+    },
+    {
+      "slug": "the-last-chronicle",
+      "loungeId": "The_Last_Chronicle",
+      "titleKo": "마지막 연대기",
+      "titleEn": "The Last Chronicle"
     },
     {
       "slug": "wtbk",

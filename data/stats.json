@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T06:44:37.572Z",
+  "generatedAt": "2026-11-16T12:06:03.439Z",
   "today": "2026-11-16",
-  "todayNew": 40,
+  "todayNew": 42,
   "totals": {
     "games": 434,
-    "codes": 6136,
-    "active": 990,
-    "expired": 5146,
-    "withExpiry": 3596
+    "codes": 6138,
+    "active": 995,
+    "expired": 5143,
+    "withExpiry": 3597
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-16",
-      "count": 40
+      "count": 42
     }
   ],
   "expiringSoon": [
@@ -466,10 +466,10 @@
       "total": 13
     },
     {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
+      "slug": "samgukji-kingdom",
+      "active": 10,
+      "total": 14
     }
   ],
-  "noImage": 94
+  "noImage": 93
 }
