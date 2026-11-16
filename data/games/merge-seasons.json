@@ -2,14 +2,23 @@
   "slug": "merge-seasons",
   "titleEn": "Merge Seasons",
   "titleKo": "머지 시즌스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfNzMg/MDAxNzkzOTUwODA0NTI1.-fCknRasphKTdnk9-A4mb8cfwM3cfrrP_HqHyZjt96Ig.B9UyDuKbL_vWnanhLHzDAzIvnApQpnAHWhycPUHlJdYg.PNG/%E9%9F%A9%E5%8C%BA.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTNfMjcw/MDAxNzk0NTM2Mjc5Mjc3.t6sjBtIcYmOi4Pr0307ZaBQlyF8Gladrf8gg3CRHJZEg.w73M4wDjAb8ktd-LyMMNCkNIpZ12v4KsMAeFnoz4pqsg.PNG/%E9%9F%A9%E5%8C%BA.png",
   "source": "naver-lounge",
   "loungeId": "Merge_Seasons",
-  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8433632",
+  "sourceUrl": "https://game.naver.com/lounge/Merge_Seasons/board/detail/8469886",
   "howTo": "1️⃣ 게임 메인 화면으로 접속해 주세요. 2️⃣ 왼쪽 상단 [노란색 삼각형 아이콘 ◀️]을 눌러 [설정]으로 들어가세요. 3️⃣",
-  "postCount": 26,
-  "updatedAt": "2026-11-15T23:45:16.901Z",
+  "postCount": 27,
+  "updatedAt": "2026-11-16T03:28:23.376Z",
   "codes": [
+    {
+      "code": "naughtycat",
+      "reward": "",
+      "expiry": "2026-11-22",
+      "postedAt": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "cozywinter",
       "reward": "",

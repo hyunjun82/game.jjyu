@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNDA5MjVfMTg4/MDAxNzI3MjQzMTE3Mzgw.l2CtXiJyIa8T4R2wR7ETz-qSw_J4kaD8Rk4QNjRIm5Eg.gytu9H9R5vGlBN08yxof4y7NP_MuEIAgzYpQdvZ9cwYg.PNG/960%C3%97207_banner1.png",
   "source": "naver-lounge",
   "loungeId": "potatozombie",
-  "sourceUrl": "https://game.naver.com/lounge/potatozombie/board/detail/8432673",
+  "sourceUrl": "https://game.naver.com/lounge/potatozombie/board/detail/8469682",
   "howTo": "1. 좌측 상단의 캐릭터 프로필 클릭 2. [교환코드] 버튼 클릭 후 교환코드 입력 3. 보상 수령",
-  "postCount": 488,
-  "updatedAt": "2026-11-15T23:44:18.474Z",
+  "postCount": 489,
+  "updatedAt": "2026-11-16T03:27:15.668Z",
   "codes": [
+    {
+      "code": "97QPNGBWHU8QCY",
+      "reward": "",
+      "expiry": "2026-11-22",
+      "postedAt": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "status": "active"
+    },
     {
       "code": "2025chuseok",
       "reward": "",
@@ -308,15 +317,6 @@
       "status": "expired"
     },
     {
-      "code": "3C6P6GBQYU9VC3",
-      "reward": "",
-      "expiry": "2026-04-19",
-      "postedAt": "2026-04-13",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "expired"
-    },
-    {
       "code": "lucky2026",
       "reward": "",
       "expiry": "2026-02-28",
@@ -348,6 +348,15 @@
       "reward": "",
       "expiry": "2024-09-16",
       "postedAt": "2024-09-16",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "3C6P6GBQYU9VC3",
+      "reward": "",
+      "expiry": "2026-04-19",
+      "postedAt": "2026-04-13",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-16",
       "status": "expired"

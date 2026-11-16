@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-15T00:20:48.923Z",
+  "updatedAt": "2026-11-16T03:36:00.273Z",
   "codes": [
     {
       "code": "PTHELLOAUTUMN",
@@ -14,7 +14,7 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472778039",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472778039",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
@@ -34,38 +34,18 @@
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472778039",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "PTMERGEHOTEL",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472778039",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "active"
     },
     {
       "code": "PTHALLOWEENTRICK",
       "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472778039",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-15",
-      "status": "active"
-    },
-    {
-      "code": "PTWITHYAMINORA",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472778039",
-      "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-15",
-      "status": "active"
+      "lastSeen": "2026-11-16",
+      "status": "expired"
     },
     {
       "code": "SETEMOTEFREE",
@@ -74,7 +54,17 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "PTMERGEHOTEL",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
@@ -84,7 +74,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     },
     {
@@ -94,7 +84,17 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-15",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "PTWITHYAMINORA",
+      "reward": "",
+      "expiry": "2026-11-15",
+      "postedAt": "2026-10-30",
+      "sourceUrl": "https://blog.naver.com/neopgame/224459040794",
+      "firstSeen": "2026-10-31",
+      "lastSeen": "2026-11-16",
       "status": "expired"
     }
   ]

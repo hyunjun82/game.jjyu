@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T00:02:37.605Z",
+  "generatedAt": "2026-11-16T03:43:52.595Z",
   "today": "2026-11-16",
-  "todayNew": 13,
+  "todayNew": 32,
   "totals": {
     "games": 434,
-    "codes": 6109,
-    "active": 965,
-    "expired": 5144,
-    "withExpiry": 3579
+    "codes": 6128,
+    "active": 983,
+    "expired": 5145,
+    "withExpiry": 3592
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-16",
-      "count": 13
+      "count": 32
     }
   ],
   "expiringSoon": [
@@ -321,6 +321,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-KISS",
+      "expiry": "2026-11-18",
+      "days": 2
+    },
+    {
       "slug": "vardian",
       "code": "UP1112",
       "expiry": "2026-11-18",
@@ -359,12 +365,6 @@
     {
       "slug": "chaos-zero-nightmare",
       "code": "10211STANNIVERSARY",
-      "expiry": "2026-11-19",
-      "days": 3
-    },
-    {
-      "slug": "cross-idle-rpg",
-      "code": "H13FVDNRLTZS",
       "expiry": "2026-11-19",
       "days": 3
     }
@@ -456,19 +456,19 @@
       "total": 27
     },
     {
+      "slug": "dragon-traveler",
+      "active": 10,
+      "total": 91
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
     },
     {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
-    },
-    {
-      "slug": "busy-savior",
-      "active": 9,
-      "total": 38
+      "slug": "samgukji-kingdom",
+      "active": 10,
+      "total": 14
     }
   ],
   "noImage": 94
