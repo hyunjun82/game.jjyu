@@ -1,20 +1,16 @@
 {
- "generatedAt": "2026-11-16T06:09:47.911Z",
- "window": "20261114~20261116",
- "lounges": 2388,
- "posts": 322,
- "couponPosts": 38,
+ "generatedAt": "2026-11-16T21:55:31.294Z",
+ "window": "20261115~20261117",
+ "lounges": 2390,
+ "posts": 341,
+ "couponPosts": 31,
  "fixedTracked": [
-  "영주님은 죽지 않는다 | VALKYR2026 | [쿠폰] 새로운 전장, 신규 서버 '발키르' 오픈! (+오픈 기념 쿠폰)",
+  "비스트 로드: The New Land | BLARYZ2FA | 🎉혜택 타임🎉",
   "드래곤 엠파이어 | BLACK50OFF | [웹상점] 50%, 30%, 30% 쿠폰 이벤트",
-  "천지겁 | HEROINTRO1116 | 담향 | 향을 피우시면, 소첩이 소원을 이뤄드리지요.  (깜짝 선물 포함",
-  "소드 x 스태프 | WELCOME02 | 🎁 주간 시크릿 코드 대방출!",
-  "도쿄 구울: Awakening | NOV3B77W | [11월 16일] 월요일 선물"
+  "오피스 퀸 키우기 | S1-S193 | [이벤트] 「오피스 퀸 키우기」 SP 임사율!! 11월17일~11월20일"
  ],
  "addedLounges": [],
  "labelOnly": [
-  "드림 가든: 추억의 힐링 경영 | 2026-11-14 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "진 삼국무쌍 오버로드 | 2026-11-14 | 주말 선물 쿠폰",
   "골프 슈퍼 크루 | 2026-11-16 | 11/16 업데이트 패치노트",
   "Legends Reborn: 마지막 전투 | 2026-11-16 | 📢 11월 17일(화) 점검 및 업데이트 안내",
   "전생했더니 검 한 자루 | 2026-11-16 | 🧠 기억력 테스트! 과연 정답을 맞힐 수 있을까요? 👀",
@@ -22,7 +18,7 @@
   "스카이 어비스: 혈맹의 서약 | 2026-11-16 | ☀영보 선물 GO!누적 충전 이벤트(11/16~11/22)",
   "슬라임 군단 | 2026-11-16 | [이벤트] 타마모를 찾아라!🔍",
   "소드 앤 프론티아 | 2026-11-16 | 주간 미니 이벤트: 💎아이템 이름 맞히기🤔❓",
-  "이 용병단 머지: 디펜스 | 2026-11-14 | [이벤트] 우리의 첫 만남을 들려주세요!",
+  "숲의 소환단:방치형 판타지 수집 RPG | 2026-11-16 | [수고했수능] 수능 대박 기원! 기념 쿠폰 지급 이벤트",
   "젠레스 존 제로 | 2026-11-16 | 〈젠레스 존 제로〉 3.4 버전 「긴 나날의 끝자락」 특별 방송 예고"
  ],
  "imageOnly": [
@@ -37,13 +33,14 @@
    ]
   },
   {
-   "game": "진 삼국무쌍 오버로드",
-   "loungeId": "Dynasty_Warriors_Overlords",
-   "feedId": 8460086,
-   "date": "2026-11-14",
-   "title": "주말 선물 쿠폰",
+   "game": "데블2M",
+   "loungeId": "Devil_2M",
+   "feedId": 8471891,
+   "date": "2026-11-16",
+   "title": "매일 로그인 쿠폰 지급 10%🎁",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTRfMTEy/MDAxNzk0NjM0MzAyNDEz.GcT41gQNCbluJeeX--Sl72jcff1jniSLhSMTixGVPuIg.Q5VMR_8S-MpXbai_aVjLc5z9xJ0TEY8PaEr1KF9plCsg.PNG/code_1.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNjExMTZfMTMy/MDAxNzk0ODI5NDMwMjg1.3H0N5RwqojK1PIPwvgJczJOjDvw9BnMVkyuiLN5RSmYg.zeLCk_G9Werm4LshqCUSCiqV1ieg6O1eJ6cDbne67vUg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17933544124997.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTZfMTYg/MDAxNzk0ODI5MzIyMjA2.3lmOX5077xGYsDNQ3vm61WONMw_ttKtxmvGLk3wW5M4g.tBqMUTjNewh564Xcom4f4I5a1-1KpLadp2_1lI9NSJcg.JPEG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17948128573460.jpg?type=w1678"
    ]
   },
   {
@@ -56,6 +53,18 @@
     "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjIw/MDAxNzY1ODY2MzU2Mzk4.9-qcwuG-Mgc6rDvl0mXHKfGJVoIKMCUmLmKkF6JBNCwg.IjrxQDfy-1ce-2bV_0sDjjKSwG7NXClBpJnfGY4ZMesg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjM5/MDAxNzUyNjM0OTY3NTE0.3ImPslOJTNDXRVRoy7vSw0wShYgTTqoBHyh4FU8gvKgg.YjlxLq0_xT9KzZ8J8SRNvgjG95OJ4u4C5omOAo6K4x0g.PNG/image.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjMw/MDAxNzUyNjM0OTgzODcx.1O_iBhAVhEtq3YgCuQCk4GPwjKuGPKsZytb2V5JZy-cg.-_YkF0CdSzcvDPbrQOBOWZ4I2fvlVLaCs2dH6XONyfEg.JPEG/img_v3_02o2_06591e35-06d2-454c-a89f-923ef64818dg.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "숲의 소환단:방치형 판타지 수집 RPG",
+   "loungeId": "Tree_World",
+   "feedId": 8471272,
+   "date": "2026-11-16",
+   "title": "[수고했수능] 수능 대박 기원! 기념 쿠폰 지급 이벤트",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMTZfODMg/MDAxNzk0ODE5NzA1OTQy.4JcQm9opA3y9oP-z3weqCrcXxjUIgfQP-PK04hLoQl4g.HkVzUgKOFt6j7Ysxn-E9zIJtoMm8uEnTzyJC49KozEMg.PNG/12313123123.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjYx/MDAxNzk0ODE4MzkyMTA5.nyEH_yzPeT5mcgTVQviwKrbGTegp88DNlUcREkn_CfEg.VWQI2f0vb-KyVKmKafMmI6eKrCz5xSsAJEjUE2Maew8g.PNG/%EC%88%98%EB%8A%A5_%EC%9D%B4%EB%B2%A4%ED%8A%B81.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjA4/MDAxNzk0ODE4NTAxMTM5.nuhOM9qtHoeGTGDmmR6hdHP1oeEREfGi2WoSfYWp3Pwg.qmvHIp8Opz60Sr6c_IKqUFUdJ86-mFNF_AGK_OiKjscg.PNG/logo%E6%9C%80%E7%BB%88%E7%89%88.png?type=w1678"
    ]
   },
   {
