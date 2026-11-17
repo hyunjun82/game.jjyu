@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-16T11:54:30.862Z",
+  "updatedAt": "2026-11-17T07:48:08.208Z",
   "codes": [
     {
       "code": "NEWERA2026",
@@ -14,7 +14,17 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224476135706",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-17",
+      "status": "active"
+    },
+    {
+      "code": "ZZZFREE100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224476135706",
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-11-17",
       "status": "active"
     },
     {
@@ -25,47 +35,7 @@
       "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-16",
-      "status": "active"
-    },
-    {
-      "code": "ZZZFREE100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-14",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224476135706",
-      "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-16",
-      "status": "active"
-    },
-    {
-      "code": "ZZZ2YEAR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "active"
-    },
-    {
-      "code": "ZZZMEIJI",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "active"
-    },
-    {
-      "code": "ZZZ31REMIELLE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "HOLLOWRUN33",
@@ -74,7 +44,7 @@
       "postedAt": "2026-10-27",
       "sourceUrl": "https://blog.naver.com/gjqhgus11/224455295976",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-17",
       "status": "expired"
     },
     {
@@ -124,7 +94,7 @@
       "postedAt": "2026-10-27",
       "sourceUrl": "https://blog.naver.com/gjqhgus11/224455295976",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-17",
       "status": "expired"
     },
     {
@@ -134,7 +104,7 @@
       "postedAt": "2026-10-27",
       "sourceUrl": "https://blog.naver.com/gjqhgus11/224455295976",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-17",
       "status": "expired"
     },
     {
@@ -144,6 +114,36 @@
       "postedAt": "2026-10-27",
       "sourceUrl": "https://blog.naver.com/gjqhgus11/224455295976",
       "firstSeen": "2026-09-22",
+      "lastSeen": "2026-11-17",
+      "status": "expired"
+    },
+    {
+      "code": "ZZZ2YEAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "ZZZMEIJI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "ZZZ31REMIELLE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
+      "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-16",
       "status": "expired"
     },
@@ -164,7 +164,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224476135706",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-17",
       "status": "expired"
     },
     {

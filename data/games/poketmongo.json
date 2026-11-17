@@ -5,24 +5,24 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-16T12:05:42.272Z",
+  "updatedAt": "2026-11-17T07:59:06.908Z",
   "codes": [
-    {
-      "code": "COMMUNITYMAX10",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/trendcatch624/224478222279",
-      "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-16",
-      "status": "active"
-    },
     {
       "code": "QKJAJ",
       "reward": "",
       "expiry": "2026-11-05",
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/yong9260/224459683185",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-17",
+      "status": "expired"
+    },
+    {
+      "code": "COMMUNITYMAX10",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/trendcatch624/224478222279",
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
       "status": "expired"

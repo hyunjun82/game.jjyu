@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T04:21:59.606Z",
+  "generatedAt": "2026-11-17T08:05:21.437Z",
   "today": "2026-11-17",
-  "todayNew": 10,
+  "todayNew": 50,
   "totals": {
-    "games": 434,
-    "codes": 6148,
-    "active": 970,
-    "expired": 5178,
-    "withExpiry": 3604
+    "games": 437,
+    "codes": 6188,
+    "active": 1002,
+    "expired": 5186,
+    "withExpiry": 3610
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-17",
-      "count": 10
+      "count": 50
     }
   ],
   "expiringSoon": [
@@ -386,6 +386,11 @@
       "total": 47
     },
     {
+      "slug": "king-regeosi",
+      "active": 20,
+      "total": 20
+    },
+    {
       "slug": "apex-girls",
       "active": 18,
       "total": 70
@@ -414,6 +419,11 @@
       "slug": "sword-immortal",
       "active": 15,
       "total": 22
+    },
+    {
+      "slug": "honkai-star-rail",
+      "active": 14,
+      "total": 40
     },
     {
       "slug": "cookie-run-kingdom",
@@ -446,11 +456,6 @@
       "total": 14
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 11,
-      "total": 37
-    },
-    {
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
@@ -461,15 +466,10 @@
       "total": 27
     },
     {
-      "slug": "inferno-nine",
+      "slug": "aion2",
       "active": 10,
-      "total": 13
-    },
-    {
-      "slug": "astro-defenders",
-      "active": 9,
-      "total": 10
+      "total": 19
     }
   ],
-  "noImage": 93
+  "noImage": 96
 }

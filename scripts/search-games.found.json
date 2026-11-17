@@ -397,6 +397,24 @@
       "titleKo": "미르2 레볼루션",
       "titleEn": "mireu2-rebolrusyeon",
       "found": "2026-11-16"
+    },
+    {
+      "slug": "king-regeosi",
+      "titleKo": "킹 레거시",
+      "titleEn": "king-regeosi",
+      "found": "2026-11-17"
+    },
+    {
+      "slug": "rom-rimembeo-obeu-majeseuti",
+      "titleKo": "롬: 리멤버 오브 마제스티",
+      "titleEn": "rom-rimembeo-obeu-majeseuti",
+      "found": "2026-11-17"
+    },
+    {
+      "slug": "timppalhyeopdongjeon",
+      "titleKo": "팀빨협동전",
+      "titleEn": "timppalhyeopdongjeon",
+      "found": "2026-11-17"
     }
   ],
   "rejected": [
