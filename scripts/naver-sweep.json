@@ -605,7 +605,7 @@
    "error": "코드 없음"
   },
   "2048_Heroes": {
-   "at": "2026-11-14",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "2ACE": {
@@ -3845,7 +3845,7 @@
    "total": 5
   },
   "Gossip_Harbor": {
-   "at": "2026-11-15",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "gostop": {
@@ -7090,7 +7090,7 @@
    "error": "쿠폰 보드 없음"
   },
   "Rent_Please_Landlord_Sim": {
-   "at": "2026-11-15",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "requesttoguild": {
@@ -7623,7 +7623,7 @@
    "error": "코드 없음"
   },
   "shortformgame": {
-   "at": "2026-11-15",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "shptg": {
@@ -12888,7 +12888,7 @@
    "error": "코드 없음"
   },
   "The_Last_of_Us": {
-   "at": "2026-09-26",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "Tomb_Raider_IV_VI_Remastered": {
@@ -16657,7 +16657,7 @@
    "error": "코드 없음"
   },
   "Doors_Paradox": {
-   "at": "2026-10-09",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "Hytale": {
@@ -18746,7 +18746,7 @@
    "error": "코드 없음"
   },
   "New_World": {
-   "at": "2026-11-04",
+   "at": "2026-11-17",
    "error": "코드 없음"
   },
   "myeolsin": {
@@ -26102,6 +26102,75 @@
   "Thief_Simulator": {
    "at": "2026-11-17",
    "error": "코드 없음"
+  },
+  "nyangachi": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "MetaVersus_WISH_ONLINE": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Ranch": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "We_March_as_One": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Biographies_of_the_Later_ThreeKingdoms": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Brothers_A_Tale_of_Two_Sons_Remake": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Grand_Ages_Medieval": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Party_Madness": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Taichi_Panda2": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Assassins_Creed_Origin": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Tempest_Tower_of_Probatio": {
+   "at": "2026-11-17",
+   "error": "쿠폰 보드 없음"
+  },
+  "DragonBlaze": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "D1ALogue": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "The_Phantom": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "HanBaduk": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "Battlefield1942": {
+   "at": "2026-11-17",
+   "error": "코드 없음"
+  },
+  "InfiniteImmortalPath": {
+   "at": "2026-11-17",
+   "live": 7,
+   "total": 26
   }
  }
 }

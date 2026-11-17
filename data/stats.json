@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T22:38:15.755Z",
+  "generatedAt": "2026-11-17T04:21:59.606Z",
   "today": "2026-11-17",
-  "todayNew": 4,
+  "todayNew": 10,
   "totals": {
     "games": 434,
-    "codes": 6142,
-    "active": 964,
+    "codes": 6148,
+    "active": 970,
     "expired": 5178,
-    "withExpiry": 3599
+    "withExpiry": 3604
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-17",
-      "count": 4
+      "count": 10
     }
   ],
   "expiringSoon": [
@@ -345,6 +345,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-DAY",
+      "expiry": "2026-11-19",
+      "days": 2
+    },
+    {
       "slug": "samgukji-origin2",
       "code": "7092-2738f45d0-1",
       "expiry": "2026-11-19",
@@ -361,12 +367,6 @@
       "code": "GB6C87F7D5",
       "expiry": "2026-11-19",
       "days": 2
-    },
-    {
-      "slug": "dokkaebiuisegye",
-      "code": "도깨비의보답",
-      "expiry": "2026-11-20",
-      "days": 3
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 31,
-      "total": 31
+      "active": 32,
+      "total": 32
     },
     {
       "slug": "dungeon-hunter6-awakening",
@@ -436,6 +436,11 @@
       "total": 15
     },
     {
+      "slug": "dragon-traveler",
+      "active": 11,
+      "total": 92
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -454,11 +459,6 @@
       "slug": "sword-frontier",
       "active": 11,
       "total": 27
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 10,
-      "total": 91
     },
     {
       "slug": "inferno-nine",
