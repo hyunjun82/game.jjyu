@@ -2,14 +2,23 @@
   "slug": "busy-savior",
   "titleEn": "Busy Savior",
   "titleKo": "비지 세이비어",
-  "image": "https://nng-phinf.pstatic.net/MjAyNDEyMjhfNTAg/MDAxNzM1MzQ3NzMxMTE0.F0adC1gdUlgYgHBP5Aa6WnV0yPCiNUXKPAzA9p0sRacg.K9By-1povep_ZqujN4LaTZkx9VinbgMCjbJpVZdMVN8g.JPEG/%E5%91%A8%E6%9C%AB%E7%A4%BC%E7%89%A9.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTdfMTg1/MDAxNzk0OTAzNDQzODk2.tZ4gGiUZ-zVAG_sHffl37UMjJIjLRKowXGguGkrZptkg.1GY84IXRHZdE7yJB5zApgOM_wE81cuKhr6w-nYAwhwYg.JPEG/1117.jpg",
   "source": "naver-lounge",
   "loungeId": "busysavior",
-  "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8465201",
+  "sourceUrl": "https://game.naver.com/lounge/busysavior/board/detail/8475284",
   "howTo": "1. 화면 중앙 우측 [더보기] 클릭 2. [설정] 버튼 클릭 3. [교환코드] 버튼 클릭 4. 교환코드 입력 후 확인 오늘 하루도 비지 세이비어와 함께 행복한 하루 되시길 바랍니다.",
   "postCount": 664,
-  "updatedAt": "2026-11-17T07:59:59.720Z",
+  "updatedAt": "2026-11-17T13:44:23.895Z",
   "codes": [
+    {
+      "code": "skytrip",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17",
+      "status": "active"
+    },
     {
       "code": "w2jg6xbc",
       "reward": "",

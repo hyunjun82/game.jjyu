@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-17T04:01:05.445Z",
+  "generatedAt": "2026-11-17T13:44:02.137Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -41,13 +41,13 @@
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -63,27 +63,99 @@
       "titleEn": "Dragonheir"
     },
     {
+      "slug": "eternal-three-kingdoms",
+      "loungeId": "Eternal_Three_Kingdoms",
+      "titleKo": "이터널삼국지",
+      "titleEn": "Eternal Three Kingdoms"
+    },
+    {
+      "slug": "fantasysamgook",
+      "loungeId": "fantasysamgook",
+      "titleKo": "판타지 삼국",
+      "titleEn": "Fantasysamgook"
+    },
+    {
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
+    },
+    {
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
+    },
+    {
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
+    },
+    {
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
+    },
+    {
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
+    },
+    {
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
+    },
+    {
+      "slug": "lucifer-idle",
+      "loungeId": "Lucifer_Idle",
+      "titleKo": "루시퍼 키우기",
+      "titleEn": "Lucifer Idle"
+    },
+    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
     },
     {
+      "slug": "immortal-rising2",
+      "loungeId": "Immortal_Rising2",
+      "titleKo": "임모탈 키우기 2",
+      "titleEn": "Immortal Rising2"
+    },
+    {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
+    },
+    {
+      "slug": "pirate",
+      "loungeId": "pirate",
+      "titleKo": "우당탕탕 해적단",
+      "titleEn": "Pirate"
+    },
+    {
+      "slug": "pk-world",
+      "loungeId": "PkWorld",
+      "titleKo": "PK월드",
+      "titleEn": "Pk World"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "Play_Together",
+      "titleKo": "플레이투게더",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -95,7 +167,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
