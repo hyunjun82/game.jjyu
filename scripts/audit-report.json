@@ -1,20 +1,26 @@
 {
- "generatedAt": "2026-11-16T21:55:31.294Z",
- "window": "20261115~20261117",
- "lounges": 2390,
- "posts": 341,
- "couponPosts": 31,
+ "generatedAt": "2026-11-17T20:47:28.767Z",
+ "window": "20261116~20261118",
+ "lounges": 2394,
+ "posts": 519,
+ "couponPosts": 40,
  "fixedTracked": [
-  "비스트 로드: The New Land | BLARYZ2FA | 🎉혜택 타임🎉",
+  "델타포스 | ALEGRA, GUZMAN, FROST | POC S2에서 3위를 차지한 선수들이 자신들이 즐겨 사용하는 로드아웃을",
   "드래곤 엠파이어 | BLACK50OFF | [웹상점] 50%, 30%, 30% 쿠폰 이벤트",
-  "오피스 퀸 키우기 | S1-S193 | [이벤트] 「오피스 퀸 키우기」 SP 임사율!! 11월17일~11월20일"
+  "나 혼자 만렙 키우기 | 2NDANNIVERSARYD1 | [쿠폰] 🎁 2주년 “매일매일 쿠폰” 이벤트 D-1 카운트다운!",
+  "소울 스트라이크 | SSDOOMT4 | 둠스데이 골든타임! ⏰ 로드맵 보상을 향한 마지막 기회!"
  ],
  "addedLounges": [],
  "labelOnly": [
+  "바이오하자드 서바이벌 유닛 | 2026-11-17 | ◤　『BIOHAZARD Survival Unit』 1주년 기념 이벤트 정보 공개　◢",
+  "치지직 | 2026-11-16 | (11/17 업데이트) 2026 치지직컵 드롭스 이벤트 안내",
+  "드림 가든: 추억의 힐링 경영 | 2026-11-17 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "골프 슈퍼 크루 | 2026-11-16 | 11/16 업데이트 패치노트",
+  "호드 워:어벤저의 소환 | 2026-11-17 | 주간 이벤트-정답을 맞혀보세요!(11/17-11/22)",
   "Legends Reborn: 마지막 전투 | 2026-11-16 | 📢 11월 17일(화) 점검 및 업데이트 안내",
+  "풍운강호 | 2026-11-17 | [공지] 풍운강호 사전오픈 체험 이벤트 안내",
   "전생했더니 검 한 자루 | 2026-11-16 | 🧠 기억력 테스트! 과연 정답을 맞힐 수 있을까요? 👀",
-  "삼국지 오리진2: 적벽대전 | 2026-11-15 | 🎁 GURU 황금 충전 쿠폰 반환 - 11월 특혜 반환 이벤트 (11.16 ~ 18)",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-17 | [라운지 이벤트]주간 퀴즈 이벤트",
   "스카이 어비스: 혈맹의 서약 | 2026-11-16 | ☀영보 선물 GO!누적 충전 이벤트(11/16~11/22)",
   "슬라임 군단 | 2026-11-16 | [이벤트] 타마모를 찾아라!🔍",
   "소드 앤 프론티아 | 2026-11-16 | 주간 미니 이벤트: 💎아이템 이름 맞히기🤔❓",
@@ -22,16 +28,6 @@
   "젠레스 존 제로 | 2026-11-16 | 〈젠레스 존 제로〉 3.4 버전 「긴 나날의 끝자락」 특별 방송 예고"
  ],
  "imageOnly": [
-  {
-   "game": "다크엔젤:천사 강림",
-   "loungeId": "Dark_Angel_Angel_Advent",
-   "feedId": 8461767,
-   "date": "2026-11-15",
-   "title": "[이벤트] Ustore 포인트 20배 반환 & 무료 쿠폰 증정 이벤트 (11/15)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTUw/MDAxNzkzMzQ4NjE1ODQw.12FQfz3wUeiaz_gkEmO_MlvG50HqqqhWV0tGUZurM8wg.o3biYVllGwY8hXtsWOFFJViYhtMx68jy9feCQ9mq46sg.PNG/700x154.png?type=w1678"
-   ]
-  },
   {
    "game": "데블2M",
    "loungeId": "Devil_2M",
@@ -44,18 +40,6 @@
    ]
   },
   {
-   "game": "삼국지 오리진2: 적벽대전",
-   "loungeId": "samgukji_origin2",
-   "feedId": 8468621,
-   "date": "2026-11-15",
-   "title": "🎁 GURU 황금 충전 쿠폰 반환 - 11월 특혜 반환 이벤트 (11.16 ~ 18)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNTEyMTZfMjIw/MDAxNzY1ODY2MzU2Mzk4.9-qcwuG-Mgc6rDvl0mXHKfGJVoIKMCUmLmKkF6JBNCwg.IjrxQDfy-1ce-2bV_0sDjjKSwG7NXClBpJnfGY4ZMesg.PNG/%E5%8F%91%E8%B4%B4%E5%9B%BE-%E6%B4%BB%E5%8A%A8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjM5/MDAxNzUyNjM0OTY3NTE0.3ImPslOJTNDXRVRoy7vSw0wShYgTTqoBHyh4FU8gvKgg.YjlxLq0_xT9KzZ8J8SRNvgjG95OJ4u4C5omOAo6K4x0g.PNG/image.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTA3MTZfMjMw/MDAxNzUyNjM0OTgzODcx.1O_iBhAVhEtq3YgCuQCk4GPwjKuGPKsZytb2V5JZy-cg.-_YkF0CdSzcvDPbrQOBOWZ4I2fvlVLaCs2dH6XONyfEg.JPEG/img_v3_02o2_06591e35-06d2-454c-a89f-923ef64818dg.jpg?type=w1678"
-   ]
-  },
-  {
    "game": "숲의 소환단:방치형 판타지 수집 RPG",
    "loungeId": "Tree_World",
    "feedId": 8471272,
@@ -65,16 +49,6 @@
     "https://nng-phinf.pstatic.net/MjAyNjExMTZfODMg/MDAxNzk0ODE5NzA1OTQy.4JcQm9opA3y9oP-z3weqCrcXxjUIgfQP-PK04hLoQl4g.HkVzUgKOFt6j7Ysxn-E9zIJtoMm8uEnTzyJC49KozEMg.PNG/12313123123.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjYx/MDAxNzk0ODE4MzkyMTA5.nyEH_yzPeT5mcgTVQviwKrbGTegp88DNlUcREkn_CfEg.VWQI2f0vb-KyVKmKafMmI6eKrCz5xSsAJEjUE2Maew8g.PNG/%EC%88%98%EB%8A%A5_%EC%9D%B4%EB%B2%A4%ED%8A%B81.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjA4/MDAxNzk0ODE4NTAxMTM5.nuhOM9qtHoeGTGDmmR6hdHP1oeEREfGi2WoSfYWp3Pwg.qmvHIp8Opz60Sr6c_IKqUFUdJ86-mFNF_AGK_OiKjscg.PNG/logo%E6%9C%80%E7%BB%88%E7%89%88.png?type=w1678"
-   ]
-  },
-  {
-   "game": "다크엔젤: 심연의 날개",
-   "loungeId": "Wings_of_the_Goddess",
-   "feedId": 8461764,
-   "date": "2026-11-15",
-   "title": "[이벤트] Ustore 포인트 20배 반환 & 무료 쿠폰 증정 이벤트 (11/15)",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjc3/MDAxNzkzMzI0NDI4MDM3.Ll0NS-eLQrqRB__6nrpXLvsDmiUf54W9Vk-KuJKzATQg.uOZ9JzVuuGHEI7Mkm7yTOlCkqbgxkMfMauRZmF1mmDgg.JPEG/700x154_3.jpg?type=w1678"
    ]
   }
  ]

@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-11-17T14:05:31.476Z",
-  "today": "2026-11-17",
-  "todayNew": 52,
+  "generatedAt": "2026-11-17T21:20:01.324Z",
+  "today": "2026-11-18",
+  "todayNew": 19,
   "totals": {
-    "games": 437,
-    "codes": 6190,
-    "active": 1004,
-    "expired": 5186,
-    "withExpiry": 3611
+    "games": 439,
+    "codes": 6209,
+    "active": 1002,
+    "expired": 5207,
+    "withExpiry": 3619
   },
   "newByDate": [
-    {
-      "date": "2026-11-04",
-      "count": 50
-    },
     {
       "date": "2026-11-05",
       "count": 33
@@ -65,308 +61,312 @@
     {
       "date": "2026-11-17",
       "count": 52
+    },
+    {
+      "date": "2026-11-18",
+      "count": 19
     }
   ],
   "expiringSoon": [
     {
-      "slug": "beulruakaibeu",
-      "code": "5YEARSWITHSENSEI",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "boneagain",
-      "code": "N0H7RS",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "chaos-zero-nightmare",
-      "code": "CZNNOVEMBERGIFT",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "doomsday-warrior",
-      "code": "S6098",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "HeidrunXDDC",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "eclipse-the-awakening",
-      "code": "LPDLIVETHX1110",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "eclipse-the-awakening",
-      "code": "LEEPDSECRETSKILL",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "eclipse-the-awakening",
-      "code": "UPTPREVIEWNOV11",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "eclipse-the-awakening",
-      "code": "FORSAVIORS261111",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "idle-hero-but-save-the-world",
-      "code": "NFQW369",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "immortal-adventure",
-      "code": "comet1116",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "samguk-origin",
-      "code": "1689-1612bb847-1",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "samgukji-lords-war",
-      "code": "1689-1612bb847-1",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "soul-strike",
-      "code": "SS3DSDAY",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "the-cozy-florist",
-      "code": "pepero1111",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
-      "slug": "what-the-bug",
-      "code": "BW47X5",
-      "expiry": "2026-11-17",
-      "days": 0
-    },
-    {
       "slug": "cookie-run-crumble",
       "code": "cainecookieknows",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragon-traveler",
       "code": "HeidrunDJCN",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "genshin-impact",
       "code": "LW5thAnniversary",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "RT4BPNA8FBS3",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "KA5SV3FJM7WX",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "7S4AD2X35NE3",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "MALSV2F247FP",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "OMEGA",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "IFYOUAREREADINGTHIS",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "honkai-star-rail",
       "code": "FAREWELL",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "VZHC825",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "into-the-dungeon-reborn",
       "code": "FCKG2637KCA",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG-KISS",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "vardian",
       "code": "UP1112",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "watcher-of-realms",
       "code": "GADRIENSGIFT11",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "wildgirls-rebirth",
       "code": "WGONE1ST",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "wildgirls-rebirth",
       "code": "WG261111",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "wooparoo-odyssey",
       "code": "WPR3RDANVCOUPON4",
       "expiry": "2026-11-18",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "adventureofheroes",
       "code": "WEEKENDA9NSD",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "chaos-zero-nightmare",
       "code": "10211STANNIVERSARY",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "cross-idle-rpg",
       "code": "H13FVDNRLTZS",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "doodle-magic-wizard-vs-slime",
       "code": "SLZNP1",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "DALCROSSOVER",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "ehrpis",
       "code": "4EVERWITHU",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "f4-u",
       "code": "F4UTUBECOUTY1113",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "f4-u",
       "code": "F4UTHANKS1111DAY",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "hyeoptadi",
       "code": "COOPTD2ANNIV",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "hyeoptadi",
       "code": "FORU2ANNIV",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "idle-hero-but-save-the-world",
       "code": "PLDG461",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "puzzle-of-z",
       "code": "PNSKIND26",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG-DAY",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "samgukji-origin2",
       "code": "7092-2738f45d0-1",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "the-cozy-florist",
       "code": "C7e1221b",
       "expiry": "2026-11-19",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "top-heroes",
       "code": "GB6C87F7D5",
       "expiry": "2026-11-19",
+      "days": 1
+    },
+    {
+      "slug": "dokkaebiuisegye",
+      "code": "도깨비의보답",
+      "expiry": "2026-11-20",
       "days": 2
+    },
+    {
+      "slug": "dokkaebiuisegye",
+      "code": "도깨비의마음",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "dokkaebiuisegye",
+      "code": "도깨비의약속",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "heros-land-m",
+      "code": "w2veSxhA",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "idle-hero-but-save-the-world",
+      "code": "RWKS937",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "nostalgic-corner-store",
+      "code": "GIFTnrtKhW",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "nuksam",
+      "code": "W5Z37C",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "tales-of-angels",
+      "code": "Z3R8KD",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "tower-defense-online",
+      "code": "타디온파이팅",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "acecraft",
+      "code": "CHATWISH",
+      "expiry": "2026-11-21",
+      "days": 3
+    },
+    {
+      "slug": "dragon-traveler",
+      "code": "CROSSOVERCLUE1",
+      "expiry": "2026-11-21",
+      "days": 3
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
+      "expiry": "2026-11-21",
+      "days": 3
+    },
+    {
+      "slug": "idle-berserker",
+      "code": "NOVNOV9782",
+      "expiry": "2026-11-21",
+      "days": 3
+    },
+    {
+      "slug": "merge-seasons",
+      "code": "cozywinter",
+      "expiry": "2026-11-21",
+      "days": 3
+    },
+    {
+      "slug": "tokyo-ghoul-awakening",
+      "code": "2R6M3Q9V",
+      "expiry": "2026-11-21",
+      "days": 3
+    },
+    {
+      "slug": "top-heroes",
+      "code": "GB1A6853E70",
+      "expiry": "2026-11-21",
+      "days": 3
     }
   ],
   "topGames": [
@@ -426,14 +426,14 @@
       "total": 40
     },
     {
+      "slug": "max-level-idle",
+      "active": 14,
+      "total": 83
+    },
+    {
       "slug": "cookie-run-kingdom",
       "active": 13,
       "total": 20
-    },
-    {
-      "slug": "max-level-idle",
-      "active": 13,
-      "total": 82
     },
     {
       "slug": "whoa-adventurers",
@@ -444,11 +444,6 @@
       "slug": "byeolbyeol-hero",
       "active": 12,
       "total": 15
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 11,
-      "total": 92
     },
     {
       "slug": "gray-saga",
@@ -469,7 +464,12 @@
       "slug": "aion2",
       "active": 10,
       "total": 19
+    },
+    {
+      "slug": "busy-savior",
+      "active": 10,
+      "total": 39
     }
   ],
-  "noImage": 96
+  "noImage": 98
 }

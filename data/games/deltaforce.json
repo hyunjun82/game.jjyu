@@ -5,18 +5,45 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMTE0/MDAxNzkyNTY5Mzg0ODIw.Cdb0xtNBVO5FsJr2dwHH3GboxQHmF6XeDHRSACbhNF4g.8-YIILhT_Z0250fNQoicSh9iLeHLxBr_Ml7ahTA0dNcg.PNG/33.png",
   "source": "naver-lounge",
   "loungeId": "deltaforce",
-  "sourceUrl": "https://game.naver.com/lounge/deltaforce/board/detail/8457710",
+  "sourceUrl": "https://game.naver.com/lounge/deltaforce/board/detail/8476452",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-11-17T13:48:12.012Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-17T21:19:02.590Z",
   "codes": [
+    {
+      "code": "ALEGRA",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "code": "GUZMAN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "code": "FROST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
     {
       "code": "q1anye",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
@@ -25,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-11-12",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
@@ -34,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-10-21",
       "firstSeen": "2026-10-21",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     }
   ]

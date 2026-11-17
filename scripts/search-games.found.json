@@ -415,6 +415,19 @@
       "titleKo": "팀빨협동전",
       "titleEn": "timppalhyeopdongjeon",
       "found": "2026-11-17"
+    },
+    {
+      "slug": "worldtree-eternal-song",
+      "titleKo": "세계수의 노래",
+      "titleEn": "Worldtree_Eternal_Song",
+      "loungeId": "Worldtree_Eternal_Song",
+      "found": "2026-11-18"
+    },
+    {
+      "slug": "ilgop-gaeui-daejoe-grand-cross",
+      "titleKo": "일곱 개의 대죄 GRAND CROSS",
+      "titleEn": "ilgop-gaeui-daejoe-grand-cross",
+      "found": "2026-11-18"
     }
   ],
   "rejected": [

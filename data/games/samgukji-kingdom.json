@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8469332",
   "howTo": "① 게임 접속 후, 좌측 상단의 [프로필 아이콘]을 눌러 기본 정보 화면으로 이동합니다. ② [선물 교환]을 누릅니다. ③ [선물 코드]를 입력한 후 [확인]을 누르면 보상을 받을 수 있습니다.",
   "postCount": 371,
-  "updatedAt": "2026-11-17T13:48:03.932Z",
+  "updatedAt": "2026-11-17T21:18:53.482Z",
   "codes": [
     {
       "code": "97HUJWzA",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-16",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-11-09",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
@@ -34,37 +34,7 @@
       "expiry": null,
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-17",
-      "status": "active"
-    },
-    {
-      "code": "landmark80",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-11-17",
-      "status": "active"
-    },
-    {
-      "code": "landmark50",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-17",
-      "status": "active"
-    },
-    {
-      "code": "landmark20",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
-      "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
@@ -73,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-11-02",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     },
     {
@@ -112,7 +82,7 @@
       "expiry": null,
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     },
     {
@@ -121,7 +91,7 @@
       "expiry": null,
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     },
     {
@@ -130,7 +100,7 @@
       "expiry": null,
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     },
     {
@@ -141,6 +111,36 @@
       "postedAt": "2026-10-20",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-21",
+      "status": "expired"
+    },
+    {
+      "code": "landmark80",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-11-18",
+      "status": "expired"
+    },
+    {
+      "code": "landmark50",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-11-18",
+      "status": "expired"
+    },
+    {
+      "code": "landmark20",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "firstSeen": "2026-10-15",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     }
   ]

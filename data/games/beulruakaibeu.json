@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-17T07:55:38.914Z",
+  "updatedAt": "2026-11-17T21:11:18.048Z",
   "codes": [
     {
       "code": "MAGICAL",
@@ -14,37 +14,27 @@
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/storm18/224474424561",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-17",
-      "status": "active"
-    },
-    {
-      "code": "5YEARSWITHSENSEI",
-      "reward": "",
-      "expiry": "2026-11-17",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
-      "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
       "code": "HANAWOTADOTTE",
       "reward": "",
       "expiry": "2026-11-24",
-      "postedAt": "2026-11-17",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/gamedawoom/224479263778",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
       "code": "KIRAKIRAERIKA",
       "reward": "",
       "expiry": "2026-11-24",
-      "postedAt": "2026-11-17",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/gamedawoom/224479263778",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "active"
     },
     {
@@ -58,13 +48,23 @@
       "status": "expired"
     },
     {
+      "code": "5YEARSWITHSENSEI",
+      "reward": "",
+      "expiry": "2026-11-17",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
+      "firstSeen": "2026-11-09",
+      "lastSeen": "2026-11-18",
+      "status": "expired"
+    },
+    {
       "code": "MAGICALPUMPKIN",
       "reward": "",
       "expiry": "2026-11-15",
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/doek11/224469282439",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     }
   ]

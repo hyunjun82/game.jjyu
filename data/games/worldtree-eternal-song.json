@@ -1,0 +1,61 @@
+{
+  "slug": "worldtree-eternal-song",
+  "titleEn": "Worldtree_Eternal_Song",
+  "titleKo": "세계수의 노래",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-17T21:14:40.831Z",
+  "codes": [
+    {
+      "code": "SONG1028",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477275325",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "code": "WELCOMESONG",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477275325",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "code": "WORLDTREE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477275325",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "code": "WORLDSONG2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477275325",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "code": "YGGDRASILGO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/naakey/224477275325",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    }
+  ]
+}
