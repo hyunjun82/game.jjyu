@@ -2,14 +2,23 @@
   "slug": "hero-clash",
   "titleEn": "Hero Clash",
   "titleKo": "히어로 클래시",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMTgz/MDAxNzkzMzU1NDU5NzA4.j9unX91w_11PJgNCS-WLGBZ66VTYg5YXA00gvPDgSqEg.Zr8V8dsycD6t9U9fiO7NgloOhtmnclqsFNtVPpGNoukg.JPEG/11%E6%9C%88%E5%85%91%E6%8D%A2%E7%A0%81%EF%BC%88%E9%9F%A9%E6%96%87%EF%BC%89%EF%BC%89.jpg",
+  "image": "https://video-phinf.pstatic.net/20261116_142/1794811885544mkhta_JPEG/Br3ZDy82K3_08.jpg",
   "source": "naver-lounge",
   "loungeId": "Hero_Clash",
-  "sourceUrl": "https://game.naver.com/lounge/Hero_Clash/board/detail/8394352",
+  "sourceUrl": "https://game.naver.com/lounge/Hero_Clash/board/detail/8478023",
   "howTo": "",
   "postCount": null,
-  "updatedAt": "2026-11-13T00:22:12.581Z",
+  "updatedAt": "2026-11-18T03:56:18.522Z",
   "codes": [
+    {
+      "code": "LUMENNOVHC",
+      "reward": "",
+      "expiry": "2027-01-01",
+      "postedAt": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
     {
       "code": "GOLDHCNOV1",
       "reward": "",

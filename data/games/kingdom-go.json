@@ -2,14 +2,23 @@
   "slug": "kingdom-go",
   "titleEn": "Kingdom Go",
   "titleKo": "주공을 지켜라",
-  "image": "https://video-phinf.pstatic.net/20261027_70/17930680289421iNy3_JPEG/rmYctDOwgc_08.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTdfNyAg/MDAxNzk0OTExMzgxMTc4.sThBcEdCIRVOrb5T6CmvM9QPB_fvQdiP3bEfFb2RJrsg.2a0rA_ekFrxJP7RaOTmkioQJvUKR0lDHpxoYdwnEIJ8g.PNG/%E9%9F%A9.png",
   "source": "naver-lounge",
   "loungeId": "kingdom_go",
-  "sourceUrl": "https://game.naver.com/lounge/kingdom_go/board/detail/8376357",
+  "sourceUrl": "https://game.naver.com/lounge/kingdom_go/board/detail/8478025",
   "howTo": "",
-  "postCount": null,
-  "updatedAt": "2026-11-17T22:09:42.021Z",
+  "postCount": 1,
+  "updatedAt": "2026-11-18T04:00:15.058Z",
   "codes": [
+    {
+      "code": "NewSeason1",
+      "reward": "",
+      "expiry": "2026-12-13",
+      "postedAt": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
     {
       "code": "FIERCEKG10",
       "reward": "",

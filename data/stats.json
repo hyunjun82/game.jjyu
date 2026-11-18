@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-17T22:26:20.666Z",
+  "generatedAt": "2026-11-18T04:15:21.394Z",
   "today": "2026-11-18",
-  "todayNew": 19,
+  "todayNew": 38,
   "totals": {
     "games": 439,
-    "codes": 6209,
-    "active": 1002,
-    "expired": 5207,
-    "withExpiry": 3619
+    "codes": 6228,
+    "active": 1023,
+    "expired": 5205,
+    "withExpiry": 3629
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-18",
-      "count": 19
+      "count": 38
     }
   ],
   "expiringSoon": [
@@ -303,6 +303,12 @@
       "days": 2
     },
     {
+      "slug": "jeuseu-omanui-sin",
+      "code": "ZEUSLIVEGIFT1117",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
       "slug": "nostalgic-corner-store",
       "code": "GIFTnrtKhW",
       "expiry": "2026-11-20",
@@ -311,6 +317,12 @@
     {
       "slug": "nuksam",
       "code": "W5Z37C",
+      "expiry": "2026-11-20",
+      "days": 2
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG-NIGHT",
       "expiry": "2026-11-20",
       "days": 2
     },
@@ -339,12 +351,6 @@
       "days": 3
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
-      "expiry": "2026-11-21",
-      "days": 3
-    },
-    {
       "slug": "idle-berserker",
       "code": "NOVNOV9782",
       "expiry": "2026-11-21",
@@ -359,12 +365,6 @@
     {
       "slug": "tokyo-ghoul-awakening",
       "code": "2R6M3Q9V",
-      "expiry": "2026-11-21",
-      "days": 3
-    },
-    {
-      "slug": "top-heroes",
-      "code": "GB1A6853E70",
       "expiry": "2026-11-21",
       "days": 3
     }
@@ -461,14 +461,14 @@
       "total": 27
     },
     {
+      "slug": "whiteout-survival",
+      "active": 11,
+      "total": 35
+    },
+    {
       "slug": "aion2",
       "active": 10,
       "total": 19
-    },
-    {
-      "slug": "busy-savior",
-      "active": 10,
-      "total": 39
     }
   ],
   "noImage": 98
