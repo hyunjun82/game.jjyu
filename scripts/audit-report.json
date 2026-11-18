@@ -1,30 +1,40 @@
 {
- "generatedAt": "2026-11-17T20:47:28.767Z",
+ "generatedAt": "2026-11-18T07:08:59.025Z",
  "window": "20261116~20261118",
- "lounges": 2394,
- "posts": 519,
- "couponPosts": 40,
+ "lounges": 2397,
+ "posts": 693,
+ "couponPosts": 56,
  "fixedTracked": [
-  "델타포스 | ALEGRA, GUZMAN, FROST | POC S2에서 3위를 차지한 선수들이 자신들이 즐겨 사용하는 로드아웃을",
+  "잠룡: 무협 도트 RPG | 26118COLLABO | [잠룡 X 절대회귀] 콜라보 기념 쿠폰 안내",
+  "둠스데이: 라스트 서바이버 | DLSDUNE3 | [이벤트] 모래바람이 불기 시작했습니다! 둠스데이: 라스트 서바이버×듄:",
   "드래곤 엠파이어 | BLACK50OFF | [웹상점] 50%, 30%, 30% 쿠폰 이벤트",
-  "나 혼자 만렙 키우기 | 2NDANNIVERSARYD1 | [쿠폰] 🎁 2주년 “매일매일 쿠폰” 이벤트 D-1 카운트다운!",
-  "소울 스트라이크 | SSDOOMT4 | 둠스데이 골든타임! ⏰ 로드맵 보상을 향한 마지막 기회!"
+  "그놈은 드래곤 | WHQLlollipop | [데이트 어 라이브 콜라보] 환령 예고 3탄! 샤워실 사물함에서 뜻밖의 ",
+  "NBA 2K Mobile - 모바일 농구 게임 | ONESTORE2K | NBA 2K Mobile 원스토어 오픈 안내",
+  "야생소녀: 리버스 | REBIRTH261118 | [개발자 노트 #1] 출시 첫 주 인사와 11월·12월 업데이트 이야기 "
  ],
- "addedLounges": [],
+ "addedLounges": [
+  "냥아치 키우기 : 골목 접수 방치형 RPG (nyangachi) → /nyangachi/ | NYANG120",
+  "사커워즈 (Soccerwarz) → /soccerwarz/ | SWNAVER1"
+ ],
  "labelOnly": [
+  "바이오하자드 서바이벌 유닛 | 2026-11-18 | ◤　『BIOHAZARD Survival Unit』 1st ANNIVERSARY　　　　◢",
   "바이오하자드 서바이벌 유닛 | 2026-11-17 | ◤　『BIOHAZARD Survival Unit』 1주년 기념 이벤트 정보 공개　◢",
   "치지직 | 2026-11-16 | (11/17 업데이트) 2026 치지직컵 드롭스 이벤트 안내",
+  "델타포스 | 2026-11-18 | 📢 DFI 관전 드롭스 이벤트(11/27~11/29)",
   "드림 가든: 추억의 힐링 경영 | 2026-11-17 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "골프 슈퍼 크루 | 2026-11-16 | 11/16 업데이트 패치노트",
   "호드 워:어벤저의 소환 | 2026-11-17 | 주간 이벤트-정답을 맞혀보세요!(11/17-11/22)",
   "Legends Reborn: 마지막 전투 | 2026-11-16 | 📢 11월 17일(화) 점검 및 업데이트 안내",
   "풍운강호 | 2026-11-17 | [공지] 풍운강호 사전오픈 체험 이벤트 안내",
+  "전생했더니 검 한 자루 | 2026-11-18 | 🚀 스킬 성장 어디까지 했나요? 레벨 자랑 이벤트!",
   "전생했더니 검 한 자루 | 2026-11-16 | 🧠 기억력 테스트! 과연 정답을 맞힐 수 있을까요? 👀",
+  "삼국지 오리진 | 2026-11-18 | 주간 이벤트 369탄",
+  "삼국지: 킹덤 | 2026-11-18 | [이벤트] 🤫 삼국지: 킹덤 캐릭터 실루엣 퀴즈2! ",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-18 | 컬러 영보! 공식 충전 센터 한정 패키지 공개",
   "스카이 어비스: 혈맹의 서약 | 2026-11-17 | [라운지 이벤트]주간 퀴즈 이벤트",
   "스카이 어비스: 혈맹의 서약 | 2026-11-16 | ☀영보 선물 GO!누적 충전 이벤트(11/16~11/22)",
   "슬라임 군단 | 2026-11-16 | [이벤트] 타마모를 찾아라!🔍",
   "소드 앤 프론티아 | 2026-11-16 | 주간 미니 이벤트: 💎아이템 이름 맞히기🤔❓",
-  "숲의 소환단:방치형 판타지 수집 RPG | 2026-11-16 | [수고했수능] 수능 대박 기원! 기념 쿠폰 지급 이벤트",
   "젠레스 존 제로 | 2026-11-16 | 〈젠레스 존 제로〉 3.4 버전 「긴 나날의 끝자락」 특별 방송 예고"
  ],
  "imageOnly": [
@@ -40,15 +50,13 @@
    ]
   },
   {
-   "game": "숲의 소환단:방치형 판타지 수집 RPG",
-   "loungeId": "Tree_World",
-   "feedId": 8471272,
-   "date": "2026-11-16",
-   "title": "[수고했수능] 수능 대박 기원! 기념 쿠폰 지급 이벤트",
+   "game": "삼국블레이드 키우기",
+   "loungeId": "tkic",
+   "feedId": 8478785,
+   "date": "2026-11-18",
+   "title": "🚀. 2주년 기념, 수요일 3차 특별 쿠폰 공개!!",
    "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTZfODMg/MDAxNzk0ODE5NzA1OTQy.4JcQm9opA3y9oP-z3weqCrcXxjUIgfQP-PK04hLoQl4g.HkVzUgKOFt6j7Ysxn-E9zIJtoMm8uEnTzyJC49KozEMg.PNG/12313123123.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjYx/MDAxNzk0ODE4MzkyMTA5.nyEH_yzPeT5mcgTVQviwKrbGTegp88DNlUcREkn_CfEg.VWQI2f0vb-KyVKmKafMmI6eKrCz5xSsAJEjUE2Maew8g.PNG/%EC%88%98%EB%8A%A5_%EC%9D%B4%EB%B2%A4%ED%8A%B81.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjA4/MDAxNzk0ODE4NTAxMTM5.nuhOM9qtHoeGTGDmmR6hdHP1oeEREfGi2WoSfYWp3Pwg.qmvHIp8Opz60Sr6c_IKqUFUdJ86-mFNF_AGK_OiKjscg.PNG/logo%E6%9C%80%E7%BB%88%E7%89%88.png?type=w1678"
+    "https://nng-phinf.pstatic.net/MjAyNDExMDZfMjk1/MDAxNzMwODc5NTgwMTg5.i9W_BpmDghU43uZe4yaxzn_dh0BrOQK6NzZV1iU10cog._oRDX-NK1crtT66x1Lf33rN7sBDjspeSzoyA0jARg4Qg.PNG/%EB%AA%A8%EB%B0%94%EC%9D%BC_%EC%95%84%EC%9D%B4%EC%BD%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png?type=w1678"
    ]
   }
  ]

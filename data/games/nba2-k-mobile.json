@@ -2,14 +2,23 @@
   "slug": "nba2-k-mobile",
   "titleEn": "NBA2K_Mobile",
   "titleKo": "NBA 2K Mobile - 모바일 농구 게임",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTJfMTI1/MDAxNzk0NDc2MzkwMDM0.VaTN5C-BJS8Zj1ZZ6zyK6MQEsakQsWdVy5LOBjY7hBog.BN1LDi09PcSNlNCJwaGiPh8IXOZT9niSS21j1Gbh5Zcg.PNG/%EA%B0%80%EC%9D%B4%EB%93%9C_%ED%95%98%EB%8B%A8.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjdfMTg4/MDAxNzkzMDY3OTY5OTM2.KWakyfd10ydUBeUcEG5VEQapzMh37KOXWUWsBBqYAfsg.3EZ1CaDlU6dxxwRyTQ9Qz98uPcF_GTWShksi2NWEjnIg.PNG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_%ED%95%98%EB%8B%A8.png",
   "source": "naver-lounge",
   "loungeId": "NBA2K_Mobile",
-  "sourceUrl": "https://game.naver.com/lounge/NBA2K_Mobile/board/detail/8452972",
-  "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-11-18T04:00:25.793Z",
+  "sourceUrl": "https://game.naver.com/lounge/NBA2K_Mobile/board/detail/8478861",
+  "howTo": "1. 메인화면 우측 상단에 있는 옵션 아이콘을 터치합니다. 2. 우측 하단 우편함 아이콘을 터치합니다. 3. 좌측 신문 모양 아이콘을 터치하여 코드 입력란에 리딤코드 입력 후 우측의 획득 버튼을 터치합니다.",
+  "postCount": 2,
+  "updatedAt": "2026-11-18T07:53:31.285Z",
   "codes": [
+    {
+      "code": "ONESTORE2K",
+      "reward": "",
+      "expiry": "2026-12-05",
+      "postedAt": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
     {
       "code": "DRILLS",
       "reward": "",

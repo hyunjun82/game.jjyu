@@ -2406,6 +2406,22 @@
       "titleKo": "포켓몬 GO",
       "titleEn": "Pokemon Go",
       "auto": "2026-11-15"
+    },
+    {
+      "slug": "nyangachi",
+      "loungeId": "nyangachi",
+      "titleKo": "냥아치 키우기 : 골목 접수 방치형 RPG",
+      "titleEn": "nyangachi",
+      "auto": "2026-11-18",
+      "note": "자가 점검(audit-naver)에서 발견"
+    },
+    {
+      "slug": "soccerwarz",
+      "loungeId": "Soccerwarz",
+      "titleKo": "사커워즈",
+      "titleEn": "Soccerwarz",
+      "auto": "2026-11-18",
+      "note": "자가 점검(audit-naver)에서 발견"
     }
   ],
   "_출처": "네이버 게임 라운지 1,195곳 전수 조사. 전용 쿠폰 게시판뿐 아니라 공지·이벤트 게시판의 쿠폰 글까지 확인해, 실제로 코드가 나오는 곳만 넣었다. 2026-09-18 실측."
