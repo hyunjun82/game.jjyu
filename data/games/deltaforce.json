@@ -5,18 +5,27 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfMTE0/MDAxNzkyNTY5Mzg0ODIw.Cdb0xtNBVO5FsJr2dwHH3GboxQHmF6XeDHRSACbhNF4g.8-YIILhT_Z0250fNQoicSh9iLeHLxBr_Ml7ahTA0dNcg.PNG/33.png",
   "source": "naver-lounge",
   "loungeId": "deltaforce",
-  "sourceUrl": "https://game.naver.com/lounge/deltaforce/board/detail/8476452",
+  "sourceUrl": "https://game.naver.com/lounge/deltaforce/board/detail/8480314",
   "howTo": "",
-  "postCount": 4,
-  "updatedAt": "2026-11-18T12:32:20.075Z",
+  "postCount": 5,
+  "updatedAt": "2026-11-18T20:52:42.644Z",
   "codes": [
+    {
+      "code": "raidbull",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-18",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "ALEGRA",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-17",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-11-17",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": null,
       "postedAt": "2026-11-17",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-11-12",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -61,7 +70,7 @@
       "expiry": null,
       "postedAt": "2026-10-21",
       "firstSeen": "2026-10-21",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "expired"
     }
   ]

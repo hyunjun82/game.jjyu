@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-18T12:41:29.089Z",
+  "updatedAt": "2026-11-18T20:45:13.569Z",
   "codes": [
     {
       "code": "MAGICAL",
@@ -14,7 +14,7 @@
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/storm18/224474424561",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "expired"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/doek11/224469282439",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "status": "expired"
     }
   ]

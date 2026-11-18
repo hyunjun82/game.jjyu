@@ -5,16 +5,46 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-18T12:42:09.266Z",
+  "updatedAt": "2026-11-18T20:45:51.085Z",
   "codes": [
+    {
+      "code": "CACHROAD1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/clover_mini/224482580831",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "CURSALIS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-18",
+      "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/benefitindex/224481850616",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
+    {
+      "code": "LOVE5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
+    {
+      "code": "BITHUMB50",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-15",
+      "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -25,27 +55,7 @@
       "sourceUrl": "https://blog.naver.com/jiy1595178/224480799906",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
-      "status": "active"
-    },
-    {
-      "code": "LOVE5",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-15",
-      "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
-      "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-18",
-      "status": "active"
-    },
-    {
-      "code": "BITHUMB50",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-15",
-      "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
-      "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-18",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "AAA777",
@@ -55,17 +65,7 @@
       "sourceUrl": "https://blog.naver.com/didvk1318/224478254812",
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-18",
-      "status": "active"
-    },
-    {
-      "code": "MRGK1UHET5",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-13",
-      "sourceUrl": "https://blog.naver.com/worye/224475740111",
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-18",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "944ZQRW1OZ",
@@ -75,6 +75,16 @@
       "sourceUrl": "https://blog.naver.com/satoukenta/224478024454",
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "MRGK1UHET5",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/worye/224475740111",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     },
     {
