@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-18T07:53:46.251Z",
+  "generatedAt": "2026-11-18T12:45:12.875Z",
   "today": "2026-11-18",
-  "todayNew": 48,
+  "todayNew": 55,
   "totals": {
     "games": 441,
-    "codes": 6238,
-    "active": 1033,
+    "codes": 6245,
+    "active": 1040,
     "expired": 5205,
-    "withExpiry": 3637
+    "withExpiry": 3640
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-18",
-      "count": 48
+      "count": 55
     }
   ],
   "expiringSoon": [
@@ -357,14 +357,14 @@
       "days": 3
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
+      "slug": "idle-berserker",
+      "code": "NOVNOV9782",
       "expiry": "2026-11-21",
       "days": 3
     },
     {
-      "slug": "idle-berserker",
-      "code": "NOVNOV9782",
+      "slug": "merge-seasons",
+      "code": "cozywinter",
       "expiry": "2026-11-21",
       "days": 3
     }

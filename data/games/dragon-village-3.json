@@ -2,14 +2,23 @@
   "slug": "dragon-village-3",
   "titleEn": "Dragon Village 3",
   "titleKo": "드래곤빌리지3",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA2MjRfMjk5/MDAxNzgyMjY3Njc1Nzg3.q2tyjrWRqwDy2K7AwxsfKeJH13cK9Sn6cShCD0nLbqAg.r6O82oDHa1L6Rf6J6Lq8CtNVrn4mEEt5bZICUt5-ReIg.JPEG/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8_100x100.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMThfNzgg/MDAxNzk0OTkwMjUyMDI0.tewdz57kZALm5pHxmNU2MuIMj0MqDlv29uoXuFdnm08g.2ZTlX7lBlRW_PL9QY2WSQ_NegTBCVnJT1Ri_uuu_tHYg.JPEG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD_100x100.jpg",
   "source": "naver-lounge",
   "loungeId": "Dragon_Village3",
-  "sourceUrl": "https://game.naver.com/lounge/Dragon_Village3/board/detail/7839742",
-  "howTo": "- 사용 기한: 26.07.09(목) 업데이트 점검 이전까지 ▣ 업데이트 점검 스케줄 ■ 점검 일시 - 2026년 6월 25일(목) 08:00 ~ 09:00 (KST) (약 1시간 예정) ＊ 점검 시간 및 내용은 내부 사정에 따라 변경될 수 있습니다.",
-  "postCount": 1,
-  "updatedAt": "2026-11-18T07:50:54.502Z",
+  "sourceUrl": "https://game.naver.com/lounge/Dragon_Village3/board/detail/8480022",
+  "howTo": "쿠폰 사용 기한 : 각 쿠폰의 공개일로부터 12월 17일 업데이트 이전까지 사용 가능 2. 앞으로의 콘텐츠 로드맵 안내 앞으로 추가될 주요 콘텐츠도 함께 안내해 드립니다. ■ 아레나 토너먼트 (가칭) 아레나 토너먼트",
+  "postCount": 2,
+  "updatedAt": "2026-11-18T12:30:40.336Z",
   "codes": [
+    {
+      "code": "DV3XRESC",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "status": "active"
+    },
     {
       "code": "WEHEARDU",
       "reward": "",
