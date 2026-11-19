@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-18T21:26:14.491Z",
+  "generatedAt": "2026-11-19T02:35:55.601Z",
   "today": "2026-11-19",
-  "todayNew": 0,
+  "todayNew": 21,
   "totals": {
-    "games": 441,
-    "codes": 6245,
-    "active": 1017,
-    "expired": 5228,
-    "withExpiry": 3640
+    "games": 442,
+    "codes": 6274,
+    "active": 1027,
+    "expired": 5247,
+    "withExpiry": 3656
   },
   "newByDate": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-11-15",
-      "count": 23
+      "count": 24
     },
     {
       "date": "2026-11-16",
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-19",
-      "count": 14
+      "count": 21
     }
   ],
   "expiringSoon": [
@@ -396,6 +396,11 @@
       "total": 70
     },
     {
+      "slug": "raas",
+      "active": 16,
+      "total": 17
+    },
+    {
       "slug": "aniimo",
       "active": 15,
       "total": 19
@@ -404,11 +409,6 @@
       "slug": "idle-berserker",
       "active": 15,
       "total": 57
-    },
-    {
-      "slug": "raas",
-      "active": 15,
-      "total": 16
     },
     {
       "slug": "sword-immortal",
@@ -441,6 +441,11 @@
       "total": 15
     },
     {
+      "slug": "sword-frontier",
+      "active": 12,
+      "total": 28
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -449,11 +454,6 @@
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
-    },
-    {
-      "slug": "sword-frontier",
-      "active": 11,
-      "total": 27
     },
     {
       "slug": "whiteout-survival",

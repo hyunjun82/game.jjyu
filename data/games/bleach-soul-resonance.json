@@ -2,14 +2,23 @@
   "slug": "bleach-soul-resonance",
   "titleEn": "Bleach Soul Resonance",
   "titleKo": "블리치: 소울 레조넌스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTdfMjUw/MDAxNzk0ODgyODAwNjkw.XIxes6qE6b0CL0RiK55a5MPZWyfMU7aYt-zf7QA8Dtcg.47Sz6EPXbrkm0xNhvpNalf6wMRXxFApaRlm_G6A9OHsg.PNG/%EA%B2%8C%EC%9E%84%EA%B3%B5%EC%A7%80.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTdfMjg3/MDAxNzk0ODgyODc5ODUw.e7SHBCOgjflcbKli7MiA-AlLvIIejPznqVQi4xyce-Qg.dwHIZ2p6IB7RyA8cioGsmCl9uA7Rhg5gskRUJuuVuUEg.PNG/%EA%B2%8C%EC%9E%84%EA%B3%B5%EC%A7%80.png",
   "source": "naver-lounge",
   "loungeId": "BLEACH_Soul_Resonance",
-  "sourceUrl": "https://game.naver.com/lounge/BLEACH_Soul_Resonance/board/detail/8477711",
+  "sourceUrl": "https://game.naver.com/lounge/BLEACH_Soul_Resonance/board/detail/8482535",
   "howTo": "",
-  "postCount": 18,
-  "updatedAt": "2026-11-18T21:06:03.392Z",
+  "postCount": 19,
+  "updatedAt": "2026-11-19T02:15:38.842Z",
   "codes": [
+    {
+      "code": "COUNTDOWN1",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "COUNTDOWN2",
       "reward": "",
