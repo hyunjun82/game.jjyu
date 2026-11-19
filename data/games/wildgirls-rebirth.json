@@ -2,14 +2,23 @@
   "slug": "wildgirls-rebirth",
   "titleEn": "wildgirls_rebirth",
   "titleKo": "야생소녀: 리버스",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTFfMTgw/MDAxNzk0MzczNTE4MjM0.CnyJLH36KRM_SPYxhPA67XZ0tK8CmZHrSIggVRlQXeQg.HrfaGTLnrAtDjEsG87wq_YsiAXwT2LFtMPweIMnEGn8g.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTlfMjYx/MDAxNzk1MDU0NTYzNDEx.buzBTHM9mzgMh7brIOnoqWoklPfJ_5ALz8BilkOAndMg.eKzFNtN1wXm8mKJ_8iAUxsFAK1v5KMQ99ncvwlRgJWIg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png",
   "source": "naver-lounge",
   "loungeId": "wildgirls_rebirth",
-  "sourceUrl": "https://game.naver.com/lounge/wildgirls_rebirth/board/detail/8478504",
-  "howTo": "- 쿠폰 등록 방법 : ㄴ [메뉴 > 설정 > 계정정보 > 쿠폰] 메뉴에서 쿠폰번호를 입력 ㄴ 게임 내 채팅창에 '/coupon 쿠폰번호' 입력 - 쿠폰 사용 기한 : 2026년 11월 18일(수) 23:59까지 ※ 쿠폰을 등록하시면 우편함으로 보상이 도착해요.",
-  "postCount": 365,
-  "updatedAt": "2026-11-19T02:17:33.709Z",
+  "sourceUrl": "https://game.naver.com/lounge/wildgirls_rebirth/board/detail/8483652",
+  "howTo": "- 쿠폰 등록 방법 : ㄴ [메뉴 > 설정 > 계정정보 > 쿠폰] 메뉴에서 쿠폰번호를 입력 ㄴ 게임 내 채팅창에 '/coupon 쿠폰번호' 입력 - 쿠폰 사용 기한 : 2026년 11월 26일(목) 23:59까지 ※ 쿠폰을 등록하시면 우편함으로 보상이 도착해요.",
+  "postCount": 366,
+  "updatedAt": "2026-11-19T07:54:40.830Z",
   "codes": [
+    {
+      "code": "CHEERUP1119",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "REBIRTH261118",
       "reward": "",

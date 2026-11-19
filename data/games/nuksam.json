@@ -8,14 +8,14 @@
   "sourceUrl": "https://game.naver.com/lounge/nuksam/board/detail/8459420",
   "howTo": "① 게임 메인 화면에서 프로필 클릭 ② [쿠폰 번호 입력] 클릭 ③ 쿠폰 번호를 입력한 후 [수령] 클릭",
   "postCount": 34,
-  "updatedAt": "2026-11-19T02:13:00.107Z",
+  "updatedAt": "2026-11-19T07:50:08.581Z",
   "codes": [
     {
-      "code": "W5Z37C",
+      "code": "QF43WK",
       "reward": "",
       "expiry": "2026-11-20",
       "postedAt": "2026-11-14",
-      "firstSeen": "2026-10-10",
+      "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19",
       "status": "active"
     },
@@ -52,6 +52,15 @@
       "expiry": "2026-10-23",
       "postedAt": "2026-10-17",
       "firstSeen": "2026-10-17",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "W5Z37C",
+      "reward": "",
+      "expiry": "2026-10-16",
+      "postedAt": "2026-10-10",
+      "firstSeen": "2026-10-10",
       "lastSeen": "2026-11-19",
       "status": "expired"
     },

@@ -2,14 +2,23 @@
   "slug": "star-savior",
   "titleEn": "Star Savior",
   "titleKo": "스타세이비어",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTYx/MDAxNzkzNjkzNDY1NTUx.JrCbGLdsTo29scK9fSm0timubLvJQ1b9iwXkYZu3kQsg.O8I5HtfMFv6RBsDLoypj5pH5QPb32RU4fzU8QPfKK40g.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTlfNjIg/MDAxNzk1MDU2MjE4Njgz.ZUnbv4L5voBiZyyUy0tbuj2vQ9ckIiRfJz9LRFQb1vEg.ZkoU6mJP1qHZdaLfhfNe19f2JtxUvguHm9H6kJlQA3Eg.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "Starsavior",
-  "sourceUrl": "https://game.naver.com/lounge/Starsavior/board/detail/8439049",
-  "howTo": "다가오는 특별 방송에도 단장님들의 많은 관심과 시청을 부탁드립니다.",
-  "postCount": 4,
-  "updatedAt": "2026-11-19T02:13:52.782Z",
+  "sourceUrl": "https://game.naver.com/lounge/Starsavior/board/detail/8482956",
+  "howTo": "메인 로비화면 오른쪽 위 메뉴 > 게임설정 > 계정관리 > 쿠폰 입력 메뉴를 통해 사용할 수 있습니다.",
+  "postCount": 5,
+  "updatedAt": "2026-11-19T07:51:01.194Z",
   "codes": [
+    {
+      "code": "26THXCAPTAIN1ST",
+      "reward": "",
+      "expiry": "2027-01-13",
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "ENDOFTHEJOURNEY",
       "reward": "",

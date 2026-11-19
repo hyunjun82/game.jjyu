@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T02:35:55.601Z",
+  "generatedAt": "2026-11-19T07:55:43.022Z",
   "today": "2026-11-19",
-  "todayNew": 21,
+  "todayNew": 36,
   "totals": {
-    "games": 442,
-    "codes": 6274,
-    "active": 1027,
-    "expired": 5247,
-    "withExpiry": 3656
+    "games": 443,
+    "codes": 6289,
+    "active": 1041,
+    "expired": 5248,
+    "withExpiry": 3667
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-19",
-      "count": 21
+      "count": 36
     }
   ],
   "expiringSoon": [
@@ -208,7 +208,7 @@
     },
     {
       "slug": "nuksam",
-      "code": "W5Z37C",
+      "code": "QF43WK",
       "expiry": "2026-11-20",
       "days": 1
     },
