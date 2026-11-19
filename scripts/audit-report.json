@@ -1,38 +1,33 @@
 {
- "generatedAt": "2026-11-19T07:10:35.962Z",
- "window": "20261117~20261119",
- "lounges": 2401,
- "posts": 815,
- "couponPosts": 53,
+ "generatedAt": "2026-11-19T20:27:40.768Z",
+ "window": "20261118~20261120",
+ "lounges": 2402,
+ "posts": 690,
+ "couponPosts": 50,
  "fixedTracked": [
-  "이터널 리턴 | S13GLORYSTART | 시즌 13 글로리 시즌 스타트 쿠폰 공개!",
-  "다크엔젤:천사 강림 | KJ26A7M | [쿠폰] ✨여러분의 빛나는 내일을 응원합니다",
-  "천지겁 | HEROSKILL1119 | 수주 | SSR 영웅 얼음 속성 철위병 등장! (깜짝 선물 포함🎁)",
-  "리치리치:부자되는 법 | CHEERUP2026 | ✨여러분의 빛나는 내일을 응원합니다",
-  "정령킹 키우기 | OMJZOQJNO5 | [공지사항] 11월 19일(목) 정기 점검 조기 종료 안내",
-  "스타세이비어 | 26THXCAPTAIN1ST | [공지사항] 정식 서비스 1주년 기념 특별 쿠폰 선물",
-  "야생소녀: 리버스 | CHEERUP1119 | [이벤트] 수능 응원 쿠폰 이벤트 🐾",
-  "다크엔젤: 심연의 날개 | DAGIFT | [쿠폰] ✨여러분의 빛나는 내일을 응원합니다"
+  "델타포스 | JINQS | 프로 선수들의 로드아웃 - DFI 에디션: GodLike 팀",
+  "페이트 워 | FATEFULHARVEST | [이벤트] 추수감사절 대형 테마 이벤트가 성대하게 찾아왔습니다! 😎",
+  "광전사 키우기 | UPDATE261119 | 11월 19일 업데이트 상세 안내 "
  ],
  "addedLounges": [
-  "천상비 (1003b) → /1003b/ | cancle"
+  "언라이트: 부활 (UNLIGHT_Revive) → /unlight-revive/ | 50GEM, 100GEM"
  ],
  "labelOnly": [
-  "이사만루26 | 2026-11-19 | [이벤트] 라운지 티켓 교환소 이벤트 안내",
+  "이사만루26 | 2026-11-19 | (수정)[이벤트] 라운지 티켓 교환소 이벤트 안내",
   "이사만루26 | 2026-11-19 | [이벤트] 키워드 쿠폰 이벤트 안내",
   "아크: 오리진 | 2026-11-19 | 📢 -아크: 오리진- 쿠폰 코드 사용 안내",
-  "바이오하자드 서바이벌 유닛 | 2026-11-17 | ◤　『BIOHAZARD Survival Unit』 1주년 기념 이벤트 정보 공개　◢",
   "바이오하자드 서바이벌 유닛 | 2026-11-18 | ◤　『BIOHAZARD Survival Unit』 1st ANNIVERSARY　　　　◢",
+  "다크엔젤:천사 강림 | 2026-11-20 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.20~11.26)",
   "델타포스 | 2026-11-18 | 📢 DFI 관전 드롭스 이벤트(11/27~11/29)",
-  "드림 가든: 추억의 힐링 경영 | 2026-11-17 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "호드 워:어벤저의 소환 | 2026-11-17 | 주간 이벤트-정답을 맞혀보세요!(11/17-11/22)",
+  "DoE: 던전앤엑자일 | 2026-11-19 | S4시즌 버전 업데이트 교환 코드",
+  "라스트 소녀 전사 | 2026-11-20 | 🦌 신서버 S6111 오픈 안내",
+  "갓오브하이스쿨: 체인지 | 2026-11-19 | 수능 끝! 샤오첸이 준비한 깜짝 선물 🎁",
   "NBA 2K Mobile - 모바일 농구 게임 | 2026-11-18 | [이벤트] 🎉원스토어 다운로드 인증 이벤트 (11/19(목) 수정)",
-  "풍운강호 | 2026-11-17 | [공지] 풍운강호 사전오픈 체험 이벤트 안내",
   "전생했더니 검 한 자루 | 2026-11-18 | 🚀 스킬 성장 어디까지 했나요? 레벨 자랑 이벤트!",
   "삼국지 오리진 | 2026-11-18 | 주간 이벤트 369탄",
   "삼국지: 킹덤 | 2026-11-18 | [이벤트] 🤫 삼국지: 킹덤 캐릭터 실루엣 퀴즈2! ",
   "스카이 어비스: 혈맹의 서약 | 2026-11-18 | 컬러 영보! 공식 충전 센터 한정 패키지 공개",
-  "스카이 어비스: 혈맹의 서약 | 2026-11-17 | [라운지 이벤트]주간 퀴즈 이벤트"
+  "다크엔젤: 심연의 날개 | 2026-11-20 | [이벤트] 🗝️숨겨진 코드를 찾아라! "
  ],
  "imageOnly": [
   {
@@ -70,6 +65,28 @@
     "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTky/MDAxNzk1MDQxNDQ0Mzkz.PTXgix95LXVOy_hnE3J2dIwftRf5enaURAtWltD8VSEg.b0uogeXbSmSMen3x3X3rOJLiVI4jJ1xVQfqPmv2lUhgg.JPEG/800-200-1.jpg?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMTlfOTMg/MDAxNzk1MDQxNDcwMTUy.w-okGHwyu9HZJow6cWAIy_te3RfaDw8BDrIpEW5z9Tog.Eh0IszCKKUQUX-1Z0LG5N6yoyx6MCBIwa3fWIcdQgQkg.PNG/95c289d5ca4aaca675574871d5e1cebb.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTIx/MDAxNzk1MDQxNTM3NTU3.PFXqMGRLR07mTs72s5zc9Q-YDNuoUcODi9xvhPUBIasg.ndDOO_9CElrj4qTWXapBdDVuUqxWgd0WkmocwkbesZ4g.JPEG/1280.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "데블2M",
+   "loungeId": "Devil_2M",
+   "feedId": 8486381,
+   "date": "2026-11-19",
+   "title": "원보 15% 추가 +일일 로그인 쿠폰 12% 🎁",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTkz/MDAxNzk1MDkzNzgyMDAx.weu98OQiTKwiKCoQ1yTPFEzsD7V2Y1QjqdblGVnF7Fsg.4e1vqR_lheDz0pW6MUabouGc1KAbk08rUszM81pPZXMg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17933544124997.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTU5/MDAxNzk1MDkzODMyMjQy.fpGhDs9SwiDaILcvvehXfZcPGPYOZmOanzKgsExiacYg.fXKgvyTLOMLAey8XwSNc0iZ___qe3P6e0DZ-RSblMgIg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17950800971816.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMTlfNCAg/MDAxNzk1MDkzOTY1Njk3.xzUwYkbx6UuibbUyWTnf_TLGzexoI9fKb06feEJzXPog.Qz_FSRFIAfj3obPupYMF3Dh-gYhFFNdjHfuQYfrpvqAg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17950798646392.png?type=w1678"
+   ]
+  },
+  {
+   "game": "DoE: 던전앤엑자일",
+   "loungeId": "DoE_Dungeon_of_Exile",
+   "feedId": 8485062,
+   "date": "2026-11-19",
+   "title": "S4시즌 버전 업데이트 교환 코드",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTM1/MDAxNzk1MDc5NzA4NTkz.JQO6-mH2gVf2X1akN9NaN_lZjmOWdqthrrQeqQarFRog.PHEPBTfVzsq6pedcap1946ujNDsrB4khqsm8vchmoeIg.JPEG/img_v3_0217j_b97f84b3-346a-4745-ba79-85cf62bc354g.jpg?type=w1678"
    ]
   },
   {

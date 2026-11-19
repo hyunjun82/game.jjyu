@@ -1,0 +1,32 @@
+{
+  "slug": "unlight-revive",
+  "titleEn": "UNLIGHT_Revive",
+  "titleKo": "언라이트: 부활",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTlfMjc5/MDAxNzk1MDgxMjc2MDM5.GX8MIvhRu4H9CVP9-I3xE35PvUanWt4Gn4brFjxtpLMg.ARffOv719QPoEVVjLMMcsAVN_z93Rliv9ui_nZBRVsog.PNG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8.png",
+  "source": "naver-lounge",
+  "loungeId": "UNLIGHT_Revive",
+  "sourceUrl": "https://game.naver.com/lounge/UNLIGHT_Revive/board/detail/8485754",
+  "howTo": "",
+  "postCount": 1,
+  "updatedAt": "2026-11-19T21:10:36.468Z",
+  "codes": [
+    {
+      "code": "50GEM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
+    {
+      "code": "100GEM",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    }
+  ]
+}
