@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/F4U/board/detail/8475597",
   "howTo": "",
   "postCount": 3,
-  "updatedAt": "2026-11-19T10:43:39.516Z",
+  "updatedAt": "2026-11-19T19:26:54.378Z",
   "codes": [
     {
       "code": "F4UAPPLEOPEN1117",
@@ -16,16 +16,7 @@
       "expiry": "2026-12-09",
       "postedAt": "2026-11-17",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "F4UTUBECOUTY1113",
-      "reward": "",
-      "expiry": "2026-11-19",
-      "postedAt": "2026-11-13",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
@@ -34,17 +25,17 @@
       "expiry": "2026-11-25",
       "postedAt": "2026-11-12",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
-      "code": "F4UTHANKS1111DAY",
+      "code": "F4UTUBECOUTY1113",
       "reward": "",
       "expiry": "2026-11-19",
-      "postedAt": "2026-11-11",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-19",
-      "status": "active"
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-20",
+      "status": "expired"
     },
     {
       "code": "BASTARAFIREF1113",
@@ -53,6 +44,15 @@
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "F4UTHANKS1111DAY",
+      "reward": "",
+      "expiry": "2026-11-19",
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-19",
       "status": "expired"
     },
     {
