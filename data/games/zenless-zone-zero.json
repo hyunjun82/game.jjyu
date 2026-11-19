@@ -5,13 +5,13 @@
   "image": "https://media.pocketgamer.com/artwork/na-34179-1710751368/zenless-zone-zero-ios-android-amplifying-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-18T20:38:07.481Z",
+  "updatedAt": "2026-11-19T10:44:59.290Z",
   "codes": [
     {
       "code": "LEVELUP33",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/benefitq/224479948294",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-19",
@@ -21,7 +21,7 @@
       "code": "INKSHIFT33",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/benefitq/224479948294",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-19",
@@ -38,10 +38,20 @@
       "status": "active"
     },
     {
+      "code": "ZZZSEASON3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
+    {
       "code": "HOLLOWRUN33",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/benefitq/224479948294",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-19",
@@ -58,14 +68,34 @@
       "status": "active"
     },
     {
-      "code": "ZZZSEASON3",
+      "code": "ZZZ2YEAR",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-11",
       "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-16",
-      "status": "expired"
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
+    {
+      "code": "ZZZMEIJI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
+    {
+      "code": "ZZZ31REMIELLE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
     },
     {
       "code": "JRNY2SKY",
@@ -111,7 +141,7 @@
       "code": "ZZZINK32",
       "reward": "",
       "expiry": "2026-10-11",
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/benefitq/224479948294",
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-11-19",
@@ -138,36 +168,6 @@
       "status": "expired"
     },
     {
-      "code": "ZZZ2YEAR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "expired"
-    },
-    {
-      "code": "ZZZMEIJI",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "expired"
-    },
-    {
-      "code": "ZZZ31REMIELLE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "sourceUrl": "https://blog.naver.com/laakaaa/224472659778",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-16",
-      "status": "expired"
-    },
-    {
       "code": "FLINTWORKS",
       "reward": "",
       "expiry": "2026-08-31",
@@ -181,7 +181,7 @@
       "code": "ZENLESSGIFT",
       "reward": "50 Polychrome, 2 Official Investigator Log, 3 W-Engine Power Supply, 1 Bangboo Algorithm Module",
       "expiry": "2026-10-11",
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/benefitq/224479948294",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-11-19",

@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-18T20:45:51.085Z",
+  "updatedAt": "2026-11-19T10:53:50.451Z",
   "codes": [
+    {
+      "code": "B-NEW11",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/yummy03j/224483627462",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "CACHROAD1",
       "reward": "",
@@ -21,7 +31,7 @@
       "code": "CURSALIS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/benefitindex/224481850616",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-19",

@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-19T02:12:51.913Z",
+  "generatedAt": "2026-11-19T10:38:21.510Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -39,34 +39,82 @@
       "titleEn": "Oops Tomb Raid"
     },
     {
-      "slug": "avatar-hero-battle",
-      "loungeId": "Avatar_Hero_Battle",
-      "titleKo": "아바타 영웅 대전",
-      "titleEn": "Avatar Hero Battle"
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
     },
     {
-      "slug": "awesome-devil",
-      "loungeId": "Awesome_Devil",
-      "titleKo": "어쩌다 멋진 마왕",
-      "titleEn": "Awesome Devil"
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
     },
     {
-      "slug": "bang-bang",
-      "loungeId": "BangBang",
-      "titleKo": "빵야빵야",
-      "titleEn": "Bang Bang"
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
     },
     {
-      "slug": "battlemage-idle-pixel-adventure",
-      "loungeId": "Battlemage_Idle_Pixel_Adventure",
-      "titleKo": "배틀메이지 키우기",
-      "titleEn": "Battlemage Idle Pixel Adventure"
+      "slug": "brave-puppy",
+      "loungeId": "BravePuppy",
+      "titleKo": "용감한 댕댕이",
+      "titleEn": "Brave Puppy"
     },
     {
-      "slug": "billionaire",
-      "loungeId": "Billionaire",
-      "titleKo": "억만장자",
-      "titleEn": "Billionaire"
+      "slug": "break3-k",
+      "loungeId": "Break3K",
+      "titleKo": "돌파 삼국지",
+      "titleEn": "Break3 K"
+    },
+    {
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
+    },
+    {
+      "slug": "defenseking",
+      "loungeId": "defenseking",
+      "titleKo": "디펜스 킹",
+      "titleEn": "Defenseking"
+    },
+    {
+      "slug": "demonsamguk",
+      "loungeId": "demonsamguk",
+      "titleKo": "전지적 시점:데몬 삼국",
+      "titleEn": "Demonsamguk"
+    },
+    {
+      "slug": "devil-note",
+      "loungeId": "Devil_Note",
+      "titleKo": "데빌노트: 보물 헌터",
+      "titleEn": "Devil Note"
     },
     {
       "slug": "dokkaebi-girl",
@@ -85,6 +133,24 @@
       "loungeId": "Dragonheir_Silent_Gods",
       "titleKo": "드래곤에어 : 침묵의 신",
       "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "echocalypse-scarlet-covenant",
+      "loungeId": "Echocalypse_Scarlet_Covenant",
+      "titleKo": "에코칼립스: 진홍의 서약",
+      "titleEn": "Echocalypse Scarlet Covenant"
+    },
+    {
+      "slug": "ex-astris",
+      "loungeId": "Ex_Astris",
+      "titleKo": "엑스 아스트리스",
+      "titleEn": "Ex Astris"
+    },
+    {
+      "slug": "final-guild",
+      "loungeId": "FinalGuild",
+      "titleKo": "파이널길드",
+      "titleEn": "Final Guild"
     },
     {
       "slug": "idle-king",
@@ -145,54 +211,6 @@
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
-    },
-    {
-      "slug": "wandering-mercenary-force",
-      "loungeId": "wandering_mercenary_force",
-      "titleKo": "방랑용병단",
-      "titleEn": "Wandering Mercenary Force"
-    },
-    {
-      "slug": "warphero",
-      "loungeId": "warphero",
-      "titleKo": "워프히어로",
-      "titleEn": "Warphero"
-    },
-    {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
-    },
-    {
-      "slug": "with",
-      "loungeId": "WITH",
-      "titleKo": "위드 : 신의 날개",
-      "titleEn": "With"
     },
     {
       "slug": "wtbk",

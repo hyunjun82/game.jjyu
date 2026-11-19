@@ -2,14 +2,23 @@
   "slug": "saintess",
   "titleEn": "Saintess",
   "titleKo": "성녀 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA4MjZfMjQ0/MDAxNzg3NzE1OTg1MjAy.0JcL5zkII26RzDbmtiREKm2rjXhVQE7XOQhXOuIMeakg.qR7rGCTQ9lL5QwjaG96F59J6-v_S5_tFyMA-qKPIUCQg.JPEG/home_banner_04_coupon_300x300.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTY0/MDAxNzk1MDc1MTA1ODYy.8LwAMkB-MNPJcUdT2UC9JJfi9OZ3jvxH1vOAdN_xr_0g.-ECMxC9zwZbs7vvaSx5dJ-ySu4WAdz7928N9snmO2U8g.JPEG/banner_04_coupon_300x300.jpg",
   "source": "naver-lounge",
   "loungeId": "saintess",
-  "sourceUrl": "https://game.naver.com/lounge/saintess/board/detail/8105090",
-  "howTo": "",
-  "postCount": 33,
-  "updatedAt": "2026-11-19T07:54:04.759Z",
+  "sourceUrl": "https://game.naver.com/lounge/saintess/board/detail/8484655",
+  "howTo": "✦ 안드로이드 기기 사용자 설정 - [계정] → [쿠폰등록] 쿠폰 코드 입력 → 우편함에서 보상 획득 ✦ 아이폰 / 아이패드 기기 사용자 쿠폰입력 페이지 → 닉네임 / 쿠폰 코드 입력 → 우편함에서 보상 획득",
+  "postCount": 34,
+  "updatedAt": "2026-11-19T10:42:16.108Z",
   "codes": [
+    {
+      "code": "qweo2403",
+      "reward": "",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "없음",
       "reward": "",

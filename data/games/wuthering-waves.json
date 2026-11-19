@@ -5,8 +5,28 @@
   "image": "https://media.pocketgamer.com/artwork/na-35274-1679422992/wuthering-waves-banner.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-18T20:38:00.421Z",
+  "updatedAt": "2026-11-19T10:44:51.506Z",
   "codes": [
+    {
+      "code": "BLACKSHORES14",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
+    {
+      "code": "CAMELLYA1113",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "WUWACOMMUNITY",
       "reward": "",
@@ -36,26 +56,6 @@
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-19",
       "status": "active"
-    },
-    {
-      "code": "BLACKSHORES14",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-13",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-14",
-      "status": "expired"
-    },
-    {
-      "code": "CAMELLYA1113",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-13",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-14",
-      "status": "expired"
     },
     {
       "code": "RareTappo",
@@ -201,8 +201,8 @@
       "code": "WUTHERINGGIFT",
       "reward": "50x Astrite, 2x Premium Resonance Potion, 2x Medium Revival Inhaler, 2x Medium Energy Bag, 10k Shell Credit",
       "expiry": "2026-09-29",
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224473477980",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224474771927",
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-11-19",
       "status": "expired"

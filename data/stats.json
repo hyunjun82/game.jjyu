@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T07:55:43.022Z",
+  "generatedAt": "2026-11-19T10:57:18.329Z",
   "today": "2026-11-19",
-  "todayNew": 36,
+  "todayNew": 57,
   "totals": {
     "games": 443,
-    "codes": 6289,
-    "active": 1041,
-    "expired": 5248,
-    "withExpiry": 3667
+    "codes": 6302,
+    "active": 1069,
+    "expired": 5233,
+    "withExpiry": 3668
   },
   "newByDate": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "date": "2026-11-15",
-      "count": 24
+      "count": 23
     },
     {
       "date": "2026-11-16",
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-19",
-      "count": 36
+      "count": 57
     }
   ],
   "expiringSoon": [
@@ -243,12 +243,6 @@
       "days": 2
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
-      "expiry": "2026-11-21",
-      "days": 2
-    },
-    {
       "slug": "idle-berserker",
       "code": "NOVNOV9782",
       "expiry": "2026-11-21",
@@ -281,6 +275,12 @@
     {
       "slug": "dicerco",
       "code": "winterfrost2026",
+      "expiry": "2026-11-22",
+      "days": 3
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
       "expiry": "2026-11-22",
       "days": 3
     },
@@ -446,6 +446,11 @@
       "total": 28
     },
     {
+      "slug": "geim",
+      "active": 11,
+      "total": 11
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -464,11 +469,6 @@
       "slug": "busy-savior",
       "active": 10,
       "total": 39
-    },
-    {
-      "slug": "dragon-traveler",
-      "active": 10,
-      "total": 93
     }
   ],
   "noImage": 99

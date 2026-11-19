@@ -2,14 +2,23 @@
   "slug": "tree-of-savior-m",
   "titleEn": "Tree of Savior M",
   "titleKo": "트리 오브 세이비어 M",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfODkg/MDAxNzkzOTQ4OTEwOTk2.ifJu0JJFxMwVlyJU9nfQKL1zTPbY6ytcyPHePIE6jSog.rg1VutnXZCIbnOWQZ7iKIKW1JKJklsug41NROnaasS4g.PNG/TOSM_Farmers_Day_Coupon_THANKSFARMERS_992x558.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTZfMTky/MDAxNzk0ODIxMDI2NDI3.-IJ9OLGHqGUL0kfzRcLpML2oDdRzLNhplXavH6Le4mQg.H7-B0rcsPpDJDf0vUOkj6ByvPEjnkFH0E0fk0_WhGtgg.PNG/TOSM_WELLDONE_1000x563.png",
   "source": "naver-lounge",
   "loungeId": "tosm",
-  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8443597",
-  "howTo": "게임 내 [메뉴] - [옵션] - [계정] - 오른쪽 아래 [쿠폰입력] 란에서 쿠폰 번호 입력 🎁쿠폰 구성품 지급 보상 개수 벨로브 안정제",
-  "postCount": 6,
-  "updatedAt": "2026-11-19T07:50:46.783Z",
+  "sourceUrl": "https://game.naver.com/lounge/tosm/board/detail/8484988",
+  "howTo": "게임 내 [메뉴] - [옵션] - [계정] - 오른쪽 아래 [쿠폰입력] 란에서 쿠폰 번호 입력 🎁쿠폰 구성품 지급 보상 개수 족보의 정석 교과서",
+  "postCount": 7,
+  "updatedAt": "2026-11-19T10:39:05.543Z",
   "codes": [
+    {
+      "code": "WELLDONE",
+      "reward": "",
+      "expiry": "2026-12-22",
+      "postedAt": "2026-11-19",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "active"
+    },
     {
       "code": "THANKS",
       "reward": "",
