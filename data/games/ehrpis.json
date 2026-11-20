@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8451018",
   "howTo": "",
   "postCount": 13,
-  "updatedAt": "2026-11-20T01:35:10.127Z",
+  "updatedAt": "2026-11-20T07:41:41.245Z",
   "codes": [
+    {
+      "code": "4EVERWITHU",
+      "reward": "",
+      "expiry": "2026-11-20",
+      "postedAt": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
     {
       "code": "1111PEPE",
       "reward": "",
@@ -63,15 +72,6 @@
       "firstSeen": "2026-09-28",
       "lastSeen": "2026-11-20",
       "status": "active"
-    },
-    {
-      "code": "4EVERWITHU",
-      "reward": "",
-      "expiry": "2026-11-19",
-      "postedAt": "2026-11-12",
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-20",
-      "status": "expired"
     },
     {
       "code": "HAZYTRUTH",

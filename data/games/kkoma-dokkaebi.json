@@ -1,0 +1,41 @@
+{
+  "slug": "kkoma-dokkaebi",
+  "titleEn": "Kkoma_Dokkaebi",
+  "titleKo": "꼬마도깨비키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMThfMjg4/MDAxNzk0OTY3MDM4MTI4.tuUV3i94exdS-IAnxuxW_ymJnMbFnPWLlrzKE6Kmqs0g.kd_31qYQFXsr0TKXoBnCh8nTxe6S4jHF4kfXc0K3wVEg.PNG/2.png",
+  "source": "naver-lounge",
+  "loungeId": "Kkoma_Dokkaebi",
+  "sourceUrl": "https://game.naver.com/lounge/Kkoma_Dokkaebi/board/detail/8487822",
+  "howTo": "게임 실행 → [설정] → [쿠폰 입력] → 쿠폰 번호 입력 → 우편함에서 보상 받기 ​ ■ 사전등록·사전예약 하신 분 - 구글 플레이 사전등록: 게임 접속 시 우편으로 자동 지급 - 원스토어·네이버 사전예약: 알림으로 받은 쿠폰 번호를 같은 방법으로 입력해 주세요",
+  "postCount": 1,
+  "updatedAt": "2026-11-20T07:43:30.063Z",
+  "codes": [
+    {
+      "code": "KKOMA1207",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
+    {
+      "code": "DDUKTTAK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
+    {
+      "code": "LOUNGEOPEN",
+      "reward": "",
+      "expiry": "2027-01-06",
+      "postedAt": "2026-11-20",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    }
+  ]
+}

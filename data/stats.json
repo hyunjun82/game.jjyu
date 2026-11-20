@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-20T01:53:12.601Z",
+  "generatedAt": "2026-11-20T07:43:43.483Z",
   "today": "2026-11-20",
-  "todayNew": 13,
+  "todayNew": 30,
   "totals": {
-    "games": 444,
-    "codes": 6315,
-    "active": 1036,
+    "games": 445,
+    "codes": 6332,
+    "active": 1053,
     "expired": 5279,
-    "withExpiry": 3673
+    "withExpiry": 3682
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-20",
-      "count": 13
+      "count": 30
     }
   ],
   "expiringSoon": [
@@ -83,6 +83,12 @@
     {
       "slug": "dokkaebiuisegye",
       "code": "도깨비의약속",
+      "expiry": "2026-11-20",
+      "days": 0
+    },
+    {
+      "slug": "ehrpis",
+      "code": "4EVERWITHU",
       "expiry": "2026-11-20",
       "days": 0
     },
@@ -147,6 +153,12 @@
       "days": 1
     },
     {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
+      "expiry": "2026-11-21",
+      "days": 1
+    },
+    {
       "slug": "idle-berserker",
       "code": "NOVNOV9782",
       "expiry": "2026-11-21",
@@ -179,12 +191,6 @@
     {
       "slug": "dicerco",
       "code": "winterfrost2026",
-      "expiry": "2026-11-22",
-      "days": 2
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
       "expiry": "2026-11-22",
       "days": 2
     },
@@ -333,6 +339,12 @@
       "days": 4
     },
     {
+      "slug": "immortal-adventure",
+      "code": "velvet1123",
+      "expiry": "2026-11-24",
+      "days": 4
+    },
+    {
       "slug": "pokemon-go",
       "code": "sangha",
       "expiry": "2026-11-24",
@@ -355,18 +367,6 @@
       "code": "FARMERS",
       "expiry": "2026-11-24",
       "days": 4
-    },
-    {
-      "slug": "cheonsangbi-k",
-      "code": "bxangqwe6w",
-      "expiry": "2026-11-25",
-      "days": 5
-    },
-    {
-      "slug": "dragon-traveler",
-      "code": "GXGGHFLLQ",
-      "expiry": "2026-11-25",
-      "days": 5
     }
   ],
   "topGames": [
@@ -461,14 +461,14 @@
       "total": 39
     },
     {
+      "slug": "dragon-traveler",
+      "active": 10,
+      "total": 94
+    },
+    {
       "slug": "inferno-nine",
       "active": 10,
       "total": 13
-    },
-    {
-      "slug": "king-obeu-paiteo-afk",
-      "active": 10,
-      "total": 12
     }
   ],
   "noImage": 99
