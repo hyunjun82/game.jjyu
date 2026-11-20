@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:47:19.285Z",
+  "generatedAt": "2026-11-20T20:41:04.737Z",
   "today": "2026-11-21",
   "todayNew": 20,
   "totals": {
@@ -81,6 +81,12 @@
       "days": 0
     },
     {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
+      "expiry": "2026-11-21",
+      "days": 0
+    },
+    {
       "slug": "idle-berserker",
       "code": "NOVNOV9782",
       "expiry": "2026-11-21",
@@ -113,12 +119,6 @@
     {
       "slug": "dicerco",
       "code": "winterfrost2026",
-      "expiry": "2026-11-22",
-      "days": 1
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
       "expiry": "2026-11-22",
       "days": 1
     },
