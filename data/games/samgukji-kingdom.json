@@ -2,14 +2,20 @@
   "slug": "samgukji-kingdom",
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMTEg/MDAxNzkyNDYzMjI5Nzg3.jfT565R8S7s3QIV6LxuVPhVJNb92t6EKyUBD74ZuAoog.5RFofZqQ2-IgU5I79TIH3ZhHm--tlxPzJugXKoA3Oggg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-700x154.jpg",
-  "source": "naver-lounge",
-  "loungeId": "Samgukji_Kingdom",
-  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8469332",
-  "howTo": "① 게임 접속 후, 좌측 상단의 [프로필 아이콘]을 눌러 기본 정보 화면으로 이동합니다. ② [선물 교환]을 누릅니다. ③ [선물 코드]를 입력한 후 [확인]을 누르면 보상을 받을 수 있습니다.",
-  "postCount": 371,
-  "updatedAt": "2026-11-20T20:39:55.511Z",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjg2/MDAxNzkzOTI5OTI2NjQ4.1tnbgvmBZ81EM0RynxZvRhf7dmuNwSuDNbuphOjKoFcg.bk7HbxsSNXSnjyaFPtsBkxlWDnZpm2ADQwcK17D4SMwg.JPEG/%E6%BB%A1%E6%9C%88%E7%A4%BC.jpg",
+  "source": "naver-search",
+  "howTo": "게임에 접속한 후, 메인 화면 [좌측 상단 프로필 아이콘]을 터치하여 기본 정보 창을 엽니다. 메뉴 중 [선물 교환] 버튼을 클릭합니다. 선물 코드 입력란에 month333 입력 후 [확인]을 누르면 보상이 지급됩니다!",
+  "updatedAt": "2026-11-20T23:29:49.476Z",
   "codes": [
+    {
+      "code": "month333",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-21",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "status": "active"
+    },
     {
       "code": "97HUJWzA",
       "reward": "",
@@ -80,7 +86,8 @@
       "code": "week999",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-28",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-21",
       "status": "expired"
@@ -89,7 +96,8 @@
       "code": "D5vPTfC8",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-26",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-21",
       "status": "expired"
@@ -98,7 +106,8 @@
       "code": "king777",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-22",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-21",
       "status": "expired"

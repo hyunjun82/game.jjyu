@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T17:37:29.552Z",
+  "updatedAt": "2026-11-20T23:27:29.677Z",
   "codes": [
     {
       "code": "ANNIV",
@@ -58,56 +58,6 @@
       "status": "active"
     },
     {
-      "code": "100LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "30LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "60LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "80LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "98LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
       "code": "선물",
       "reward": "",
       "expiry": "2027-02-04",
@@ -126,6 +76,56 @@
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-11-07",
       "status": "active"
+    },
+    {
+      "code": "100LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "30LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "60LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "80LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "98LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
     },
     {
       "code": "MI100DAYS",

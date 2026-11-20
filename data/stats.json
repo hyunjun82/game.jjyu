@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-20T20:41:04.737Z",
+  "generatedAt": "2026-11-20T23:37:01.483Z",
   "today": "2026-11-21",
-  "todayNew": 20,
+  "todayNew": 23,
   "totals": {
     "games": 446,
-    "codes": 6356,
-    "active": 1053,
-    "expired": 5303,
-    "withExpiry": 3698
+    "codes": 6359,
+    "active": 1052,
+    "expired": 5307,
+    "withExpiry": 3699
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-21",
-      "count": 20
+      "count": 23
     }
   ],
   "expiringSoon": [
@@ -77,12 +77,6 @@
     {
       "slug": "dragon-traveler",
       "code": "CROSSOVERCLUE1",
-      "expiry": "2026-11-21",
-      "days": 0
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
       "expiry": "2026-11-21",
       "days": 0
     },
@@ -119,6 +113,12 @@
     {
       "slug": "dicerco",
       "code": "winterfrost2026",
+      "expiry": "2026-11-22",
+      "days": 1
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
       "expiry": "2026-11-22",
       "days": 1
     },
@@ -441,11 +441,6 @@
       "total": 15
     },
     {
-      "slug": "maple-idle",
-      "active": 12,
-      "total": 18
-    },
-    {
       "slug": "sword-frontier",
       "active": 12,
       "total": 28
@@ -469,6 +464,11 @@
       "slug": "aion2",
       "active": 10,
       "total": 20
+    },
+    {
+      "slug": "busy-savior",
+      "active": 10,
+      "total": 39
     }
   ],
   "noImage": 100
