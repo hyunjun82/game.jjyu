@@ -2,21 +2,30 @@
   "slug": "hiki",
   "titleEn": "Hiki",
   "titleKo": "히어로즈 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfODcg/MDAxNzkzMzU3OTcwMDAy.uD9kffQIZQYt6IsqxyODP0WvwD_tpZ0dl4CicI3c3ucg.977MYXT2GtmC-ge-b2LC13ra-2h8I_kkSEmotkyqmzsg.PNG/11-10_%EB%A3%A8%EC%B9%B4%EC%8A%A4.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMzBfMjcx/MDAxNzkzMzU4MDMyMzYx.idUdcf6y-aQWOeCbv28-Wa4d5WWXQTbWo_6ur3IGb-Yg.yj23LaDjSGU5yBJkGGQ__3BGJJoybtXbsqk9clyumyMg.PNG/11-21_%EC%95%84%EC%9D%BC%EB%9D%BC.png",
   "source": "naver-lounge",
   "loungeId": "hiki",
-  "sourceUrl": "https://game.naver.com/lounge/hiki/board/detail/8437889",
+  "sourceUrl": "https://game.naver.com/lounge/hiki/board/detail/8491844",
   "howTo": "메인 화면 좌측 상단의 [프로필] - [교환코드]에서 보유하신 쿠폰 코드를 입력 하실 수 있습니다.",
   "postCount": null,
-  "updatedAt": "2026-11-20T08:48:03.616Z",
+  "updatedAt": "2026-11-20T17:34:25.488Z",
   "codes": [
+    {
+      "code": "AL261121",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-11-21",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "status": "active"
+    },
     {
       "code": "LS261110",
       "reward": "",
       "expiry": "2026-11-16",
       "postedAt": "2026-11-10",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "expired"
     },
     {
@@ -25,7 +34,7 @@
       "expiry": "2026-11-15",
       "postedAt": "2026-11-09",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "expired"
     },
     {
@@ -34,7 +43,7 @@
       "expiry": "2026-11-12",
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "expired"
     },
     {
@@ -43,7 +52,7 @@
       "expiry": "2026-11-03",
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "expired"
     },
     {
@@ -52,7 +61,7 @@
       "expiry": "2026-11-01",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "expired"
     },
     {

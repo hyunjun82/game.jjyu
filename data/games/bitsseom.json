@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T08:58:43.734Z",
+  "updatedAt": "2026-11-20T17:44:08.607Z",
   "codes": [
     {
       "code": "B-NEW11",
@@ -14,17 +14,7 @@
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/yummy03j/224483627462",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-20",
-      "status": "active"
-    },
-    {
-      "code": "CURSALIS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-18",
-      "sourceUrl": "https://blog.naver.com/benefitindex/224481850616",
-      "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -34,7 +24,7 @@
       "postedAt": "2026-11-15",
       "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -44,27 +34,27 @@
       "postedAt": "2026-11-15",
       "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
       "code": "MRGK1UHET5",
       "reward": "",
       "expiry": "2026-11-27",
-      "postedAt": "2026-11-20",
+      "postedAt": "2026-11-21",
       "sourceUrl": "https://blog.naver.com/abajh/224484374663",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
       "code": "FJ45NZYSB1",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-20",
+      "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/at_fox_/224483769671",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -75,6 +65,16 @@
       "sourceUrl": "https://blog.naver.com/clover_mini/224482580831",
       "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "CURSALIS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-18",
+      "sourceUrl": "https://blog.naver.com/benefitindex/224481850616",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     },
     {

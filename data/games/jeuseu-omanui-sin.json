@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T08:56:25.174Z",
+  "updatedAt": "2026-11-20T17:42:02.790Z",
   "codes": [
-    {
-      "code": "ZEUSLIVEGIFT1117",
-      "reward": "",
-      "expiry": "2026-11-20",
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/haryungame/224480983443",
-      "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-20",
-      "status": "active"
-    },
     {
       "code": "ZEUS17NOVLIVE",
       "reward": "",
@@ -24,8 +14,18 @@
       "postedAt": "2026-11-17",
       "sourceUrl": "https://blog.naver.com/tbfkalalwmxl/224481076236",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
+    },
+    {
+      "code": "ZEUSLIVEGIFT1117",
+      "reward": "",
+      "expiry": "2026-11-20",
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/haryungame/224480983443",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
     },
     {
       "code": "9BZZ5V19",

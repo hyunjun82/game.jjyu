@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T08:59:26.957Z",
+  "updatedAt": "2026-11-20T17:44:45.882Z",
   "codes": [
     {
       "code": "GOMUL777",
@@ -14,7 +14,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224471851039",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/dustpeodls/224471851039",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -34,8 +34,8 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/blackwz/224467060563",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
-      "status": "active"
+      "lastSeen": "2026-11-21",
+      "status": "expired"
     },
     {
       "code": "LEVELUP",
@@ -44,8 +44,8 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/blackwz/224467060563",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
-      "status": "active"
+      "lastSeen": "2026-11-21",
+      "status": "expired"
     },
     {
       "code": "GROWUP",
@@ -54,8 +54,8 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jjuba424/224467545010",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
-      "status": "active"
+      "lastSeen": "2026-11-21",
+      "status": "expired"
     }
   ]
 }

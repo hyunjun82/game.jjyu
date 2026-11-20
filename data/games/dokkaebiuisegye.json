@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T08:56:04.257Z",
+  "updatedAt": "2026-11-20T17:41:44.305Z",
   "codes": [
     {
       "code": "MAGICHALFYR",
@@ -15,36 +15,6 @@
       "sourceUrl": "https://blog.naver.com/qw123-11/224462614384",
       "firstSeen": "2026-10-31",
       "lastSeen": "2026-11-04",
-      "status": "active"
-    },
-    {
-      "code": "도깨비의보답",
-      "reward": "",
-      "expiry": "2026-11-20",
-      "postedAt": "2026-11-20",
-      "sourceUrl": "https://blog.naver.com/edhwang2001/224484498153",
-      "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-20",
-      "status": "active"
-    },
-    {
-      "code": "도깨비의마음",
-      "reward": "",
-      "expiry": "2026-11-20",
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/gamejjikmeok/224480350202",
-      "firstSeen": "2026-10-18",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "도깨비의약속",
-      "reward": "",
-      "expiry": "2026-11-20",
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/gamejjikmeok/224480350202",
-      "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-19",
       "status": "active"
     },
     {
@@ -88,6 +58,16 @@
       "status": "expired"
     },
     {
+      "code": "도깨비의보답",
+      "reward": "",
+      "expiry": "2026-11-20",
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/gigimungu/224484999055",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
       "code": "매출1위감사합니다",
       "reward": "",
       "expiry": "2026-11-11",
@@ -128,6 +108,26 @@
       "status": "expired"
     },
     {
+      "code": "도깨비의마음",
+      "reward": "",
+      "expiry": "2026-11-20",
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/gigimungu/224484999055",
+      "firstSeen": "2026-10-18",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "도깨비의약속",
+      "reward": "",
+      "expiry": "2026-11-20",
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/gigimungu/224484999055",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
       "code": "COKER",
       "reward": "",
       "expiry": null,
@@ -144,7 +144,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/12512512/224460480931",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "expired"
     },
     {

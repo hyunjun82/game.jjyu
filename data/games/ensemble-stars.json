@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Ensemble_Stars/board/detail/8489328",
   "howTo": "※UID 1개당 1회씩만 사용하실 수 있어요!",
   "postCount": null,
-  "updatedAt": "2026-11-20T08:44:04.950Z",
+  "updatedAt": "2026-11-20T17:30:43.036Z",
   "codes": [
     {
       "code": "TGVLZIZQALQ8NS2H",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-20",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -25,16 +25,7 @@
       "expiry": null,
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-20",
-      "status": "active"
-    },
-    {
-      "code": "MFIIPBAQGBNKBTS7",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-06",
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-21",
       "status": "active"
     },
     {
@@ -46,6 +37,15 @@
       "firstSeen": "2026-09-14",
       "lastSeen": "2026-10-02",
       "status": "active"
+    },
+    {
+      "code": "MFIIPBAQGBNKBTS7",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-06",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
     },
     {
       "code": "CUKNXYEA5ZCS7NW8",
