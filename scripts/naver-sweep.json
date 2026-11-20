@@ -673,7 +673,7 @@
    "error": "보드 잠김(가입 필요)"
   },
   "Abyss_Rebirth_Phantom": {
-   "at": "2026-11-18",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "abyssdestiny": {
@@ -5381,7 +5381,7 @@
    "error": "코드 없음"
   },
   "Magic_Circus": {
-   "at": "2026-11-18",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "Magic_Defense": {
@@ -9232,7 +9232,7 @@
    "error": "코드 없음"
   },
   "With2": {
-   "at": "2026-11-17",
+   "at": "2026-11-20",
    "live": 0,
    "total": 22
   },
@@ -11111,8 +11111,8 @@
    "error": "코드 없음"
   },
   "Land_of_the_Vikings": {
-   "at": "2026-09-22",
-   "error": "쿠폰 보드 없음"
+   "at": "2026-11-20",
+   "error": "코드 없음"
   },
   "Kotama_and_Academy_Citadel": {
    "at": "2026-09-22",
@@ -13084,7 +13084,7 @@
    "error": "코드 없음"
   },
   "Invokyr": {
-   "at": "2026-10-16",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "Street_Fighter_X_Tekken": {
@@ -15722,7 +15722,7 @@
    "error": "코드 없음"
   },
   "Angel_Legion_3D_Hero_Idle_RPG": {
-   "at": "2026-10-05",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "BULLETSTORM": {
@@ -16249,7 +16249,7 @@
    "error": "코드 없음"
   },
   "FINAL_FANTASY_XV": {
-   "at": "2026-10-25",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "Garisani_Detective_Agency": {
@@ -21585,7 +21585,7 @@
    "error": "코드 없음"
   },
   "Merge_Kuya_Island": {
-   "at": "2026-10-25",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "Dungeon_Survival": {
@@ -24823,7 +24823,7 @@
    "error": "코드 없음"
   },
   "Forza_Horizon6": {
-   "at": "2026-11-09",
+   "at": "2026-11-20",
    "error": "코드 없음"
   },
   "Mega_Man_ZX_advent": {
@@ -26606,6 +26606,54 @@
    "total": 3
   },
   "Wizardry_Variants_Daphne": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Gently_Packed": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Light_of_Atlantis": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "monarch_sword": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "ancientgod": {
+   "at": "2026-11-20",
+   "error": "쿠폰 보드 없음"
+  },
+  "enhypenworld": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Blackthorn_Arena": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Speed_Racer": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "POOLS": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Silica": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Beat_Saber": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Crime_Boss_Rockay_City": {
+   "at": "2026-11-20",
+   "error": "코드 없음"
+  },
+  "Adventure_of_Flower": {
    "at": "2026-11-20",
    "error": "코드 없음"
   }

@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/na-35281-1715117393/solo-leveling-arise-sung-jinwoo.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T01:39:10.232Z",
+  "updatedAt": "2026-11-20T08:50:47.091Z",
   "codes": [
     {
       "code": "BEYONDAR1SE",
@@ -88,6 +88,16 @@
       "status": "active"
     },
     {
+      "code": "4D4N_M0N4RCH",
+      "reward": "",
+      "expiry": "2026-12-17",
+      "postedAt": "2026-10-22",
+      "sourceUrl": "https://blog.naver.com/whitelink224/224450597143",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
+    {
       "code": "CMN0TE09",
       "reward": "",
       "expiry": "2026-12-17",
@@ -96,16 +106,6 @@
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-11-20",
       "status": "active"
-    },
-    {
-      "code": "4D4N_M0N4RCH",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-21",
-      "sourceUrl": "https://blog.naver.com/jjsabu/224448730725",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-20",
-      "status": "expired"
     },
     {
       "code": "MONARCH0FFANGS",

@@ -5,15 +5,25 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T01:49:15.099Z",
+  "updatedAt": "2026-11-20T08:58:43.734Z",
   "codes": [
     {
       "code": "B-NEW11",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-20",
+      "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/yummy03j/224483627462",
       "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
+    {
+      "code": "CURSALIS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-18",
+      "sourceUrl": "https://blog.naver.com/benefitindex/224481850616",
+      "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-20",
       "status": "active"
     },
@@ -64,16 +74,6 @@
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/clover_mini/224482580831",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "expired"
-    },
-    {
-      "code": "CURSALIS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-18",
-      "sourceUrl": "https://blog.naver.com/benefitindex/224481850616",
-      "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-19",
       "status": "expired"
     },

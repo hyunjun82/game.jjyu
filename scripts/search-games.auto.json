@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-20T01:31:27.653Z",
+  "generatedAt": "2026-11-20T08:42:43.791Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -33,15 +33,21 @@
       "titleEn": "Monsterhunteroutlanders"
     },
     {
+      "slug": "sweethome",
+      "loungeId": "sweethome",
+      "titleKo": "스위트홈 : 욕망의 파편",
+      "titleEn": "Sweethome"
+    },
+    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "어쩌다 도굴",
+      "titleKo": "Oops_Tomb_Raid",
       "titleEn": "Oops Tomb Raid"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "도깨비 소녀와 함께",
+      "titleKo": "Dokkaebi_Girl",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -65,44 +71,20 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "문파존망겜",
+      "titleKo": "kungfuchaos",
       "titleEn": "Kungfuchaos"
-    },
-    {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "플레이투게더",
+      "titleKo": "Play_Together",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "피망 뉴맞고",
+      "titleKo": "Pmang_new_matgo",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
-    },
-    {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
     },
     {
       "slug": "redmythnezha",
@@ -111,39 +93,9 @@
       "titleEn": "Redmythnezha"
     },
     {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
-    },
-    {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
-    },
-    {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "질풍삼국",
+      "titleKo": "RushThreeKingdom",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -171,22 +123,10 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "the-pixel-ark",
-      "loungeId": "THE_PIXEL_ARK",
-      "titleKo": "픽셀방주",
-      "titleEn": "The Pixel Ark"
-    },
-    {
       "slug": "wtbk",
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
-    },
-    {
-      "slug": "zombie-hunter",
-      "loungeId": "ZombieHunter",
-      "titleKo": "이세계 좀비 헌터",
-      "titleEn": "Zombie Hunter"
     },
     {
       "slug": "tree-world",
