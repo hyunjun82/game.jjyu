@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-19T10:56:26.764Z",
+  "updatedAt": "2026-11-20T01:52:09.091Z",
   "codes": [
+    {
+      "code": "KKABI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-20",
+      "sourceUrl": "https://blog.naver.com/ssingu33/224484198147",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20",
+      "status": "active"
+    },
     {
       "code": "QKJAJ",
       "reward": "",
@@ -14,7 +24,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/yong9260/224459683185",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     },
     {

@@ -5,82 +5,12 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-19T10:55:24.334Z",
+  "updatedAt": "2026-11-20T01:50:59.741Z",
   "codes": [
     {
       "code": "UPDATE2026",
       "reward": "",
       "expiry": "2027-03-31",
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "THANKYOU100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "OPENING2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "NEWUSER2026",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "GAMESTART",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "A8K2M9P4",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "X7Q5L3N8",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "B4R9T2W6",
-      "reward": "",
-      "expiry": null,
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
       "firstSeen": "2026-11-19",
@@ -94,7 +24,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/gim0304/224477229715",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
@@ -104,7 +34,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/gim0304/224477229715",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
@@ -116,6 +46,76 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-14",
       "status": "active"
+    },
+    {
+      "code": "THANKYOU100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "OPENING2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "NEWUSER2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "GAMESTART",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "A8K2M9P4",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "X7Q5L3N8",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
+    },
+    {
+      "code": "B4R9T2W6",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/stroller84/224483231582",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19",
+      "status": "expired"
     }
   ]
 }

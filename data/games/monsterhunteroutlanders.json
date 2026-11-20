@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-19T10:47:56.013Z",
+  "updatedAt": "2026-11-20T01:42:00.987Z",
   "codes": [
     {
       "code": "MHOU2026",
@@ -41,10 +41,10 @@
       "code": "famitsumho2026",
       "reward": "",
       "expiry": "2026-11-01",
-      "postedAt": "2026-11-01",
-      "sourceUrl": "https://blog.naver.com/eeuu1133/224460988690",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471411809",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     },
     {
@@ -54,7 +54,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-10-30",
       "sourceUrl": "https://blog.naver.com/12512512/224458377065",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     }
   ]

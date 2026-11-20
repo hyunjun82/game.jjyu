@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-19T10:46:43.234Z",
+  "updatedAt": "2026-11-20T01:40:28.468Z",
   "codes": [
     {
       "code": "2026AWARD",
       "reward": "",
       "expiry": "2026-12-15",
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-20",
       "sourceUrl": "https://blog.naver.com/ppej1234/224483210658",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
@@ -24,67 +24,17 @@
       "postedAt": "2026-11-16",
       "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
       "code": "1STANN1V",
       "reward": "",
       "expiry": "2027-02-04",
-      "postedAt": "2026-11-19",
+      "postedAt": "2026-11-20",
       "sourceUrl": "https://blog.naver.com/ppej1234/224483210658",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "100LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "30LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "60LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "80LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-19",
-      "status": "active"
-    },
-    {
-      "code": "98LVCOUPON",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-20",
       "status": "active"
     },
     {
@@ -115,6 +65,56 @@
       "sourceUrl": "https://blog.naver.com/mysg1029/224471796659",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
+      "status": "expired"
+    },
+    {
+      "code": "100LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-20",
+      "status": "expired"
+    },
+    {
+      "code": "30LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-20",
+      "status": "expired"
+    },
+    {
+      "code": "60LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-20",
+      "status": "expired"
+    },
+    {
+      "code": "80LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-20",
+      "status": "expired"
+    },
+    {
+      "code": "98LVCOUPON",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/12512512/224466420986",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     },
     {

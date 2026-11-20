@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-19T21:10:46.355Z",
+  "generatedAt": "2026-11-20T01:53:12.601Z",
   "today": "2026-11-20",
-  "todayNew": 8,
+  "todayNew": 13,
   "totals": {
     "games": 444,
-    "codes": 6310,
-    "active": 1052,
-    "expired": 5258,
-    "withExpiry": 3672
+    "codes": 6315,
+    "active": 1036,
+    "expired": 5279,
+    "withExpiry": 3673
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-20",
-      "count": 8
+      "count": 13
     }
   ],
   "expiringSoon": [
@@ -147,12 +147,6 @@
       "days": 1
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
-      "expiry": "2026-11-21",
-      "days": 1
-    },
-    {
       "slug": "idle-berserker",
       "code": "NOVNOV9782",
       "expiry": "2026-11-21",
@@ -185,6 +179,12 @@
     {
       "slug": "dicerco",
       "code": "winterfrost2026",
+      "expiry": "2026-11-22",
+      "days": 2
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
       "expiry": "2026-11-22",
       "days": 2
     },
@@ -446,11 +446,6 @@
       "total": 28
     },
     {
-      "slug": "geim",
-      "active": 11,
-      "total": 11
-    },
-    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -461,14 +456,19 @@
       "total": 18
     },
     {
-      "slug": "whiteout-survival",
-      "active": 11,
-      "total": 35
-    },
-    {
       "slug": "busy-savior",
       "active": 10,
       "total": 39
+    },
+    {
+      "slug": "inferno-nine",
+      "active": 10,
+      "total": 13
+    },
+    {
+      "slug": "king-obeu-paiteo-afk",
+      "active": 10,
+      "total": 12
     }
   ],
   "noImage": 99

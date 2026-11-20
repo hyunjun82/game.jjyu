@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-19T19:21:56.980Z",
+  "generatedAt": "2026-11-20T01:31:27.653Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -33,12 +33,6 @@
       "titleEn": "Monsterhunteroutlanders"
     },
     {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
@@ -63,60 +57,6 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "finalhunter",
-      "loungeId": "finalhunter",
-      "titleKo": "파이널 헌터",
-      "titleEn": "Finalhunter"
-    },
-    {
-      "slug": "fishclush",
-      "loungeId": "Fishclush",
-      "titleKo": "먹텐물꼬기",
-      "titleEn": "Fishclush"
-    },
-    {
-      "slug": "football-top-manager",
-      "loungeId": "Football_Top_Manager",
-      "titleKo": "풋볼 탑 매니저",
-      "titleEn": "Football Top Manager"
-    },
-    {
-      "slug": "gaiam",
-      "loungeId": "GAIAM",
-      "titleKo": "가이아M",
-      "titleEn": "Gaiam"
-    },
-    {
-      "slug": "game-of-money",
-      "loungeId": "Game_Of_Money",
-      "titleKo": "대표님을 부탁해",
-      "titleEn": "Game Of Money"
-    },
-    {
-      "slug": "ghost-soul-afk",
-      "loungeId": "GhostSoulAFK",
-      "titleKo": "귀혼키우기",
-      "titleEn": "Ghost Soul Afk"
-    },
-    {
-      "slug": "weapon-master",
-      "loungeId": "WeaponMaster",
-      "titleKo": "웨폰마스터 키우기",
-      "titleEn": "Weapon Master"
-    },
-    {
-      "slug": "goblin-slayer",
-      "loungeId": "Goblin_Slayer",
-      "titleKo": "고블린 슬레이어 키우기",
-      "titleEn": "Goblin Slayer"
-    },
-    {
-      "slug": "god-slayer",
-      "loungeId": "God_Slayer",
-      "titleKo": "갓 슬레이어",
-      "titleEn": "God Slayer"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -129,10 +69,10 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
+      "slug": "pixel-heroes-adventure",
+      "loungeId": "PixelHeroesAdventure",
+      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
+      "titleEn": "Pixel Heroes Adventure"
     },
     {
       "slug": "play-together",
@@ -147,10 +87,58 @@
       "titleEn": "Pmang New Matgo"
     },
     {
+      "slug": "ptrctlt",
+      "loungeId": "ptrctlt",
+      "titleKo": "파트롱2:컨트랙트",
+      "titleEn": "Ptrctlt"
+    },
+    {
+      "slug": "puppy-three-kingdoms",
+      "loungeId": "puppy_three_kingdoms",
+      "titleKo": "멍멍삼국",
+      "titleEn": "Puppy Three Kingdoms"
+    },
+    {
+      "slug": "red-city",
+      "loungeId": "red_city",
+      "titleKo": "붉은 도시",
+      "titleEn": "Red City"
+    },
+    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
+    },
+    {
+      "slug": "res",
+      "loungeId": "RES",
+      "titleKo": "레조넌스",
+      "titleEn": "Res"
+    },
+    {
+      "slug": "rin-m",
+      "loungeId": "RinM",
+      "titleKo": "린M:잊혀진 유산",
+      "titleEn": "Rin M"
+    },
+    {
+      "slug": "rise-god-idle",
+      "loungeId": "Rise_God_Idle",
+      "titleKo": "라이즈 신 키우기",
+      "titleEn": "Rise God Idle"
+    },
+    {
+      "slug": "rookie-witch-rpg",
+      "loungeId": "rookie_witch_RPG",
+      "titleKo": "신입마녀 키우기 : 방치형 RPG",
+      "titleEn": "Rookie Witch Rpg"
+    },
+    {
+      "slug": "running-three-kingdoms",
+      "loungeId": "RunningThreeKingdoms",
+      "titleKo": "런닝 삼국",
+      "titleEn": "Running Three Kingdoms"
     },
     {
       "slug": "rush-three-kingdom",
@@ -183,10 +171,22 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
+      "slug": "the-pixel-ark",
+      "loungeId": "THE_PIXEL_ARK",
+      "titleKo": "픽셀방주",
+      "titleEn": "The Pixel Ark"
+    },
+    {
       "slug": "wtbk",
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
+    },
+    {
+      "slug": "zombie-hunter",
+      "loungeId": "ZombieHunter",
+      "titleKo": "이세계 좀비 헌터",
+      "titleEn": "Zombie Hunter"
     },
     {
       "slug": "tree-world",
