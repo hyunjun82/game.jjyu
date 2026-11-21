@@ -1,11 +1,16 @@
 {
- "generatedAt": "2026-11-20T19:58:57.709Z",
+ "generatedAt": "2026-11-21T06:54:22.340Z",
  "window": "20261119~20261121",
  "lounges": 2402,
- "posts": 630,
- "couponPosts": 50,
- "fixedTracked": [],
- "addedLounges": [],
+ "posts": 692,
+ "couponPosts": 65,
+ "fixedTracked": [
+  "델타포스 | GRIND, EASYYYY, LYNX4K | 프로 선수들의 로드아웃 - DFI 에디션 (얼라이언스 진영)"
+ ],
+ "addedLounges": [
+  "귀혼M (ghostsoulm) → /ghostsoulm/ | GHOSTM2ND",
+  "메크 아레나 (mecharena) → /mecharena/ | D1SCORD150K"
+ ],
  "labelOnly": [
   "이사만루26 | 2026-11-19 | (수정)[이벤트] 라운지 티켓 교환소 이벤트 안내",
   "이사만루26 | 2026-11-19 | [이벤트] 키워드 쿠폰 이벤트 안내",

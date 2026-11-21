@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-21T04:31:24.909Z",
+  "generatedAt": "2026-11-21T07:38:36.066Z",
   "today": "2026-11-21",
-  "todayNew": 43,
+  "todayNew": 50,
   "totals": {
-    "games": 446,
-    "codes": 6379,
-    "active": 1076,
-    "expired": 5303,
-    "withExpiry": 3715
+    "games": 448,
+    "codes": 6386,
+    "active": 1081,
+    "expired": 5305,
+    "withExpiry": 3717
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-21",
-      "count": 43
+      "count": 50
     }
   ],
   "expiringSoon": [
@@ -77,6 +77,12 @@
     {
       "slug": "dragon-traveler",
       "code": "CROSSOVERCLUE1",
+      "expiry": "2026-11-21",
+      "days": 0
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "code": "DRAGONS9",
       "expiry": "2026-11-21",
       "days": 0
     },
@@ -113,12 +119,6 @@
     {
       "slug": "dicerco",
       "code": "winterfrost2026",
-      "expiry": "2026-11-22",
-      "days": 1
-    },
-    {
-      "slug": "dragonheir-silent-gods",
-      "code": "DRAGONS9",
       "expiry": "2026-11-22",
       "days": 1
     },
