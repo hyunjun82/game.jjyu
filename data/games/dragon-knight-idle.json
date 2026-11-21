@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Dragon_Knight_Idle/board/detail/8443795",
   "howTo": "1. AOS의 경우,",
   "postCount": 5,
-  "updatedAt": "2026-11-21T13:00:19.063Z",
+  "updatedAt": "2026-11-21T19:34:46.371Z",
   "codes": [
     {
       "code": "PEPE11",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
@@ -25,8 +25,8 @@
       "expiry": null,
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
-      "status": "active"
+      "lastSeen": "2026-11-22",
+      "status": "expired"
     },
     {
       "code": "OPEN1028",
@@ -34,7 +34,7 @@
       "expiry": null,
       "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     }
   ]
