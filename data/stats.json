@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-20T23:37:01.483Z",
+  "generatedAt": "2026-11-21T04:31:24.909Z",
   "today": "2026-11-21",
-  "todayNew": 23,
+  "todayNew": 43,
   "totals": {
     "games": 446,
-    "codes": 6359,
-    "active": 1052,
-    "expired": 5307,
-    "withExpiry": 3699
+    "codes": 6379,
+    "active": 1076,
+    "expired": 5303,
+    "withExpiry": 3715
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-21",
-      "count": 23
+      "count": 43
     }
   ],
   "expiringSoon": [
@@ -195,6 +195,18 @@
       "days": 2
     },
     {
+      "slug": "ghost-hunter",
+      "code": "1121gst",
+      "expiry": "2026-11-23",
+      "days": 2
+    },
+    {
+      "slug": "ghost-hunter",
+      "code": "1122gst",
+      "expiry": "2026-11-23",
+      "days": 2
+    },
+    {
       "slug": "god-kkaebi",
       "code": "1u4gjkr3",
       "expiry": "2026-11-23",
@@ -267,6 +279,12 @@
       "days": 3
     },
     {
+      "slug": "dunjeonpang",
+      "code": "WXRZVG",
+      "expiry": "2026-11-24",
+      "days": 3
+    },
+    {
       "slug": "f-class-hero",
       "code": "11Autumn2Q",
       "expiry": "2026-11-24",
@@ -309,6 +327,12 @@
       "days": 3
     },
     {
+      "slug": "three-kingdoms-card-clash",
+      "code": "7HST2E",
+      "expiry": "2026-11-24",
+      "days": 3
+    },
+    {
       "slug": "tree-of-savior-m",
       "code": "THANKS",
       "expiry": "2026-11-24",
@@ -317,6 +341,12 @@
     {
       "slug": "tree-of-savior-m",
       "code": "FARMERS",
+      "expiry": "2026-11-24",
+      "days": 3
+    },
+    {
+      "slug": "what-the-bug",
+      "code": "MR57B5",
       "expiry": "2026-11-24",
       "days": 3
     },
@@ -337,36 +367,6 @@
       "code": "EE1113V922",
       "expiry": "2026-11-25",
       "days": 4
-    },
-    {
-      "slug": "eternal-evolution",
-      "code": "EE1111F94G",
-      "expiry": "2026-11-25",
-      "days": 4
-    },
-    {
-      "slug": "f4-u",
-      "code": "F4UTHANKS1ST1110",
-      "expiry": "2026-11-25",
-      "days": 4
-    },
-    {
-      "slug": "fortress-saga",
-      "code": "SWEET1111FS26",
-      "expiry": "2026-11-25",
-      "days": 4
-    },
-    {
-      "slug": "genshin-impact",
-      "code": "1104Anniv5th",
-      "expiry": "2026-11-25",
-      "days": 4
-    },
-    {
-      "slug": "genshin-impact",
-      "code": "11045thAnniv",
-      "expiry": "2026-11-25",
-      "days": 4
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 32,
-      "total": 32
+      "active": 33,
+      "total": 33
     },
     {
       "slug": "dungeon-hunter6-awakening",
@@ -402,8 +402,8 @@
     },
     {
       "slug": "raas",
-      "active": 16,
-      "total": 17
+      "active": 17,
+      "total": 18
     },
     {
       "slug": "aniimo",

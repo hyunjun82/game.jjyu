@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-20T23:25:49.236Z",
+  "updatedAt": "2026-11-21T04:18:19.096Z",
   "codes": [
+    {
+      "code": "TOMONICHIJOUE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/ondm18/224485702981",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "status": "active"
+    },
     {
       "code": "MEMORIESWITHYOU",
       "reward": "",
@@ -21,8 +31,8 @@
       "code": "4ANNIVVICTORY",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/orin2611/224478871542",
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/ondm18/224485702981",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-21",
       "status": "active"

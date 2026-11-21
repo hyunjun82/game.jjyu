@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA1MTRfNCAg/MDAxNzc4NzM5MTE2NjIx.StdYbz26pduc2sZLE2yxH6mimpV4m1bUkawbgnrUGx8g.iSOhb3YZGCzGMH357-kVYEL9jaAoLHz_gQEBLO1PEcwg.JPEG/%E9%80%9A%E7%94%A8%E8%B4%B4%E6%96%87%E5%9B%BE-%E7%A6%8F%E5%88%A9%E6%94%BE%E9%80%81-%ED%98%9C%ED%83%9D_%EB%8C%80%EB%B0%A9%EC%86%A1.jpg",
   "source": "naver-lounge",
   "loungeId": "nuksam",
-  "sourceUrl": "https://game.naver.com/lounge/nuksam/board/detail/8459420",
+  "sourceUrl": "https://game.naver.com/lounge/nuksam/board/detail/8492718",
   "howTo": "① 게임 메인 화면에서 프로필 클릭 ② [쿠폰 번호 입력] 클릭 ③ 쿠폰 번호를 입력한 후 [수령] 클릭",
-  "postCount": 34,
-  "updatedAt": "2026-11-20T23:19:50.113Z",
+  "postCount": 35,
+  "updatedAt": "2026-11-21T04:11:32.570Z",
   "codes": [
+    {
+      "code": "E6SAD7",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-11-21",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "status": "active"
+    },
     {
       "code": "QF43WK",
       "reward": "",
@@ -272,15 +281,6 @@
       "status": "expired"
     },
     {
-      "code": "LAHFBQ",
-      "reward": "",
-      "expiry": "2026-05-29",
-      "postedAt": "2026-05-23",
-      "firstSeen": "2026-09-08",
-      "lastSeen": "2026-11-21",
-      "status": "expired"
-    },
-    {
       "code": "WELCOME",
       "reward": "",
       "expiry": null,
@@ -295,6 +295,15 @@
       "expiry": null,
       "tag": "사전예약",
       "postedAt": "2026-05-11",
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "LAHFBQ",
+      "reward": "",
+      "expiry": "2026-05-29",
+      "postedAt": "2026-05-23",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-11-21",
       "status": "expired"
