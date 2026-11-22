@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T07:01:50.831Z",
+  "generatedAt": "2026-11-22T07:30:16.517Z",
   "today": "2026-11-22",
-  "todayNew": 10,
+  "todayNew": 14,
   "totals": {
     "games": 448,
-    "codes": 6396,
-    "active": 1041,
-    "expired": 5355,
-    "withExpiry": 3726
+    "codes": 6400,
+    "active": 1048,
+    "expired": 5352,
+    "withExpiry": 3727
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-22",
-      "count": 10
+      "count": 14
     }
   ],
   "expiringSoon": [
@@ -309,6 +309,12 @@
       "days": 2
     },
     {
+      "slug": "whiteout-survival",
+      "code": "A7K9M2",
+      "expiry": "2026-11-24",
+      "days": 2
+    },
+    {
       "slug": "cheonsangbi-k",
       "code": "bxangqwe6w",
       "expiry": "2026-11-25",
@@ -359,12 +365,6 @@
     {
       "slug": "genshin-impact",
       "code": "5thAnniv1104",
-      "expiry": "2026-11-25",
-      "days": 3
-    },
-    {
-      "slug": "into-the-dungeon-reborn",
-      "code": "EBZ6FB5WRMR",
       "expiry": "2026-11-25",
       "days": 3
     }
@@ -436,6 +436,11 @@
       "total": 15
     },
     {
+      "slug": "honkai-star-rail",
+      "active": 12,
+      "total": 40
+    },
+    {
       "slug": "solo-leveling-arise",
       "active": 12,
       "total": 18
@@ -464,11 +469,6 @@
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
-    },
-    {
-      "slug": "aion2",
-      "active": 10,
-      "total": 20
     }
   ],
   "noImage": 100

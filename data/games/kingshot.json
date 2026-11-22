@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-22T00:18:29.047Z",
+  "updatedAt": "2026-11-22T07:23:05.732Z",
   "codes": [
     {
       "code": "FORTHEKINGDOM",
@@ -39,6 +39,16 @@
     },
     {
       "code": "SAYHIHI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-05",
+      "sourceUrl": "https://blog.naver.com/danbong23/224466384929",
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "1T1G2D2",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-05",

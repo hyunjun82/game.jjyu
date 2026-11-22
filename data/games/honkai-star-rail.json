@@ -5,7 +5,7 @@
   "image": "https://media.pocketgamer.com/artwork/ra-94240-1683020037/an-image-of-honkai-star-rail-s-cover.jpg",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-22T00:13:09.772Z",
+  "updatedAt": "2026-11-22T07:17:59.579Z",
   "codes": [
     {
       "code": "NS4DU8AAGXBP",
@@ -41,8 +41,8 @@
       "code": "5S6ZHRWTDNJB",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/jinippo628/224474348786",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/riwen/224475654011",
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-22",
       "status": "active"
@@ -51,9 +51,29 @@
       "code": "4TKSX77Y58QK",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/jinippo628/224474348786",
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/riwen/224475654011",
       "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "code": "DSLSPNBREASP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/riwen/224475654011",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "code": "PEARLAPPRAISE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "sourceUrl": "https://blog.naver.com/riwen/224475654011",
+      "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-22",
       "status": "active"
     },
@@ -106,26 +126,6 @@
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-11-22",
       "status": "active"
-    },
-    {
-      "code": "DSLSPNBREASP",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/hschoi82/224465553584",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-21",
-      "status": "expired"
-    },
-    {
-      "code": "PearlAppraise",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/hschoi82/224465553584",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-21",
-      "status": "expired"
     },
     {
       "code": "NEVERGONNAGIVE",
@@ -334,7 +334,7 @@
       "postedAt": "2026-11-13",
       "sourceUrl": "https://blog.naver.com/riwen/224475654011",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -344,7 +344,7 @@
       "postedAt": "2026-11-13",
       "sourceUrl": "https://blog.naver.com/riwen/224475654011",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -354,7 +354,7 @@
       "postedAt": "2026-11-13",
       "sourceUrl": "https://blog.naver.com/riwen/224475654011",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {

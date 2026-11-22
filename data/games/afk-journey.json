@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-02T20:40:28.901Z",
+  "updatedAt": "2026-11-22T07:19:02.215Z",
   "codes": [
+    {
+      "code": "HQC0ZFSC6QYTX",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-22",
+      "sourceUrl": "https://blog.naver.com/riwen/224486767968",
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "code": "AFKJ2YRS2026",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-22",
+      "sourceUrl": "https://blog.naver.com/riwen/224486767968",
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-22",
+      "status": "active"
+    },
+    {
+      "code": "AFKJ10",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-22",
+      "sourceUrl": "https://blog.naver.com/riwen/224486767968",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-11-22",
+      "status": "active"
+    },
     {
       "code": "z6iBgiJBFBZjC",
       "reward": "",
@@ -59,16 +89,6 @@
     },
     {
       "code": "VMj522yLkrKDa",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-10-04",
-      "sourceUrl": "https://blog.naver.com/neopgame/224430808352",
-      "firstSeen": "2026-10-04",
-      "lastSeen": "2026-11-03",
-      "status": "expired"
-    },
-    {
-      "code": "AFKJ10",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-10-04",
