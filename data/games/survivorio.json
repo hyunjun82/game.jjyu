@@ -2,22 +2,31 @@
   "slug": "survivorio",
   "titleEn": "Survivorio",
   "titleKo": "탕탕특공대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMDRfMTg3/MDAxNzkzNzg0NjE1MzM4.x4usW95duWQ28g8DdInAcNjRaKJTfiAJ2FICFEFFKxUg.QrVUT6Bh6l6pyvGCzIBa7xYmw__LF-cxazJTArnl6Eog.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTlfNDEg/MDAxNzk1MDgwMDY0Mzk0.GniuACxs72wqFbnLub_BWtjilDWXA6pOhC2uQIkuk50g.TNEd8GcsIXgm-GB8isjlATxxGxjwKAW-uWhZ6VofSmwg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Survivorio",
-  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8425579",
-  "howTo": "(newseason26) 를 입력해 선물을 받으세요!",
-  "postCount": 2,
-  "updatedAt": "2026-11-22T07:15:30.704Z",
+  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8497354",
+  "howTo": "아래 링크의 공식 교환 페이지에 접속하여 기프트코드 (minorsnow26) 를 입력하시면 보상을 수령하실 수 있습니다!",
+  "postCount": 3,
+  "updatedAt": "2026-11-22T15:41:58.960Z",
   "codes": [
+    {
+      "code": "minorsnow26",
+      "reward": "",
+      "expiry": "2026-12-07",
+      "postedAt": "2026-11-22",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "active"
+    },
     {
       "code": "newseason26",
       "reward": "",
       "expiry": "2026-11-22",
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-22",
-      "status": "active"
+      "lastSeen": "2026-11-23",
+      "status": "expired"
     },
     {
       "code": "Halloween2026",
@@ -25,7 +34,7 @@
       "expiry": "2026-11-04",
       "postedAt": "2026-10-30",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {

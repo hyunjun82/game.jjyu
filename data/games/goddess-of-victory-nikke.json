@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-22T07:17:19.706Z",
+  "updatedAt": "2026-11-22T15:43:50.521Z",
   "codes": [
-    {
-      "code": "TOMONICHIJOUE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-22",
-      "sourceUrl": "https://blog.naver.com/ondm18/224485702981",
-      "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22",
-      "status": "active"
-    },
     {
       "code": "4ANNIVVICTORY",
       "reward": "",
@@ -26,6 +16,16 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-22",
       "status": "active"
+    },
+    {
+      "code": "TOMONICHIJOUE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-22",
+      "sourceUrl": "https://blog.naver.com/ondm18/224485702981",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
     },
     {
       "code": "MEMORIESWITHYOU",
@@ -44,7 +44,7 @@
       "postedAt": "2026-10-24",
       "sourceUrl": "https://blog.naver.com/12512512/224452486619",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {

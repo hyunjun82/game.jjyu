@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-22T07:29:07.508Z",
+  "updatedAt": "2026-11-22T15:54:33.542Z",
   "codes": [
     {
       "code": "10000DOWN",
@@ -14,27 +14,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224466659779",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22",
-      "status": "active"
-    },
-    {
-      "code": "LUCKYPIRATE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224468936968",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22",
-      "status": "active"
-    },
-    {
-      "code": "PIRATE777",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/dustpeodls/224468936968",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "status": "active"
     },
     {
@@ -44,7 +24,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224466659779",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {
@@ -54,7 +34,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224466659779",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {
@@ -64,7 +44,27 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jeonghoblog/224466659779",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "LUCKYPIRATE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224468936968",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "PIRATE777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/dustpeodls/224468936968",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     }
   ]

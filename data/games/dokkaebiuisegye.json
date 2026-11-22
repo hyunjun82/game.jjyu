@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-22T07:24:00.682Z",
+  "updatedAt": "2026-11-22T15:49:53.283Z",
   "codes": [
     {
       "code": "MAGICHALFYR",
@@ -61,10 +61,10 @@
       "code": "도깨비의보답",
       "reward": "",
       "expiry": "2026-11-20",
-      "postedAt": "2026-11-21",
+      "postedAt": "2026-11-20",
       "sourceUrl": "https://blog.naver.com/edhwang2001/224484498153",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {
@@ -144,7 +144,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/12512512/224460480931",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {

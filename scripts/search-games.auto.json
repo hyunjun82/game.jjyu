@@ -1,18 +1,12 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-22T07:11:00.433Z",
+  "generatedAt": "2026-11-22T15:37:18.388Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
       "loungeId": "THREE_KINGDOMS_SENKIBAN",
       "titleKo": "삼국지 전기판",
       "titleEn": "Three Kingdoms Senkiban"
-    },
-    {
-      "slug": "tales-runner-rpg",
-      "loungeId": "TalesRunnerRPG",
-      "titleKo": "테일즈런너RPG",
-      "titleEn": "Tales Runner Rpg"
     },
     {
       "slug": "arknights-endfield",
@@ -27,10 +21,22 @@
       "titleEn": "Torchlight_Infinite"
     },
     {
-      "slug": "monsterhunteroutlanders",
-      "loungeId": "monsterhunteroutlanders",
-      "titleKo": "몬스터헌터 아웃랜더스",
-      "titleEn": "Monsterhunteroutlanders"
+      "slug": "tales-runner-rpg",
+      "loungeId": "TalesRunnerRPG",
+      "titleKo": "테일즈런너RPG",
+      "titleEn": "Tales Runner Rpg"
+    },
+    {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "high-ranker",
+      "loungeId": "HighRanker",
+      "titleKo": "하이랭커",
+      "titleEn": "High Ranker"
     },
     {
       "slug": "oops-tomb-raid",
@@ -51,34 +57,10 @@
       "titleEn": "Dragonblade Grow"
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
-    },
-    {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
-    },
-    {
-      "slug": "j-jalltoon-rumble-with-animalfriends",
-      "loungeId": "JJalltoonRumble_with_animalfriends",
-      "titleKo": "짤툰대난투 with. 짐승친구들",
-      "titleEn": "J Jalltoon Rumble With Animalfriends"
-    },
-    {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
     },
     {
       "slug": "kungfuchaos",
@@ -87,22 +69,34 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
+      "slug": "lost-w-fallen-kingdom",
+      "loungeId": "LostW_FallenKingdom",
+      "titleKo": "로스트W : 폴른 킹덤",
+      "titleEn": "Lost W Fallen Kingdom"
     },
     {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
+      "slug": "magical-ink",
+      "loungeId": "Magical_Ink",
+      "titleKo": "마법의 잉크",
+      "titleEn": "Magical Ink"
     },
     {
-      "slug": "leubens-adventure",
-      "loungeId": "Leubens_Adventure",
-      "titleKo": "루벤의 대모험",
-      "titleEn": "Leubens Adventure"
+      "slug": "marvel-rivals",
+      "loungeId": "Marvel_Rivals",
+      "titleKo": "마블 라이벌즈",
+      "titleEn": "Marvel Rivals"
+    },
+    {
+      "slug": "mecha-break",
+      "loungeId": "Mecha_BREAK",
+      "titleKo": "메카 브레이크",
+      "titleEn": "Mecha Break"
+    },
+    {
+      "slug": "monsterhunteroutlanders",
+      "loungeId": "monsterhunteroutlanders",
+      "titleKo": "몬스터헌터 아웃랜더스",
+      "titleEn": "Monsterhunteroutlanders"
     },
     {
       "slug": "play-together",
@@ -115,6 +109,36 @@
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
+    },
+    {
+      "slug": "popucom",
+      "loungeId": "POPUCOM",
+      "titleKo": "팝유컴",
+      "titleEn": "Popucom"
+    },
+    {
+      "slug": "prime-football-manager",
+      "loungeId": "Prime_Football_Manager",
+      "titleKo": "프라임 풋볼 매니저",
+      "titleEn": "Prime Football Manager"
+    },
+    {
+      "slug": "pro-soccer-legend-eleven",
+      "loungeId": "Pro_Soccer_Legend_Eleven",
+      "titleKo": "프로사커: 레전드 일레븐",
+      "titleEn": "Pro Soccer Legend Eleven"
+    },
+    {
+      "slug": "promise-of-lingyun",
+      "loungeId": "Promise_of_Lingyun",
+      "titleKo": "능운낙",
+      "titleEn": "Promise Of Lingyun"
+    },
+    {
+      "slug": "promisekr",
+      "loungeId": "promisekr",
+      "titleKo": "궁과 약속",
+      "titleEn": "Promisekr"
     },
     {
       "slug": "redmythnezha",
