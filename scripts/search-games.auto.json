@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-22T15:37:18.388Z",
+  "generatedAt": "2026-11-22T21:29:08.879Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -33,16 +33,100 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "high-ranker",
-      "loungeId": "HighRanker",
-      "titleKo": "하이랭커",
-      "titleEn": "High Ranker"
-    },
-    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
+    },
+    {
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
+    },
+    {
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
+    },
+    {
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
+    },
+    {
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
+    },
+    {
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
+    },
+    {
+      "slug": "brave-puppy",
+      "loungeId": "BravePuppy",
+      "titleKo": "용감한 댕댕이",
+      "titleEn": "Brave Puppy"
+    },
+    {
+      "slug": "break3-k",
+      "loungeId": "Break3K",
+      "titleKo": "돌파 삼국지",
+      "titleEn": "Break3 K"
+    },
+    {
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
+    },
+    {
+      "slug": "dark-three-kingdoms",
+      "loungeId": "DARK_THREE_KINGDOMS",
+      "titleKo": "다크삼국",
+      "titleEn": "Dark Three Kingdoms"
+    },
+    {
+      "slug": "darkeden-r",
+      "loungeId": "DARKEDEN_R",
+      "titleKo": "다크에덴R",
+      "titleEn": "Darkeden R"
     },
     {
       "slug": "dokkaebi-girl",
@@ -69,30 +153,6 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "lost-w-fallen-kingdom",
-      "loungeId": "LostW_FallenKingdom",
-      "titleKo": "로스트W : 폴른 킹덤",
-      "titleEn": "Lost W Fallen Kingdom"
-    },
-    {
-      "slug": "magical-ink",
-      "loungeId": "Magical_Ink",
-      "titleKo": "마법의 잉크",
-      "titleEn": "Magical Ink"
-    },
-    {
-      "slug": "marvel-rivals",
-      "loungeId": "Marvel_Rivals",
-      "titleKo": "마블 라이벌즈",
-      "titleEn": "Marvel Rivals"
-    },
-    {
-      "slug": "mecha-break",
-      "loungeId": "Mecha_BREAK",
-      "titleKo": "메카 브레이크",
-      "titleEn": "Mecha Break"
-    },
-    {
       "slug": "monsterhunteroutlanders",
       "loungeId": "monsterhunteroutlanders",
       "titleKo": "몬스터헌터 아웃랜더스",
@@ -109,36 +169,6 @@
       "loungeId": "Pmang_new_matgo",
       "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
-    },
-    {
-      "slug": "popucom",
-      "loungeId": "POPUCOM",
-      "titleKo": "팝유컴",
-      "titleEn": "Popucom"
-    },
-    {
-      "slug": "prime-football-manager",
-      "loungeId": "Prime_Football_Manager",
-      "titleKo": "프라임 풋볼 매니저",
-      "titleEn": "Prime Football Manager"
-    },
-    {
-      "slug": "pro-soccer-legend-eleven",
-      "loungeId": "Pro_Soccer_Legend_Eleven",
-      "titleKo": "프로사커: 레전드 일레븐",
-      "titleEn": "Pro Soccer Legend Eleven"
-    },
-    {
-      "slug": "promise-of-lingyun",
-      "loungeId": "Promise_of_Lingyun",
-      "titleKo": "능운낙",
-      "titleEn": "Promise Of Lingyun"
-    },
-    {
-      "slug": "promisekr",
-      "loungeId": "promisekr",
-      "titleKo": "궁과 약속",
-      "titleEn": "Promisekr"
     },
     {
       "slug": "redmythnezha",
@@ -163,6 +193,12 @@
       "loungeId": "Samgukji_Kingdom",
       "titleKo": "삼국지: 킹덤",
       "titleEn": "Samgukji_Kingdom"
+    },
+    {
+      "slug": "soul-land-second-coming",
+      "loungeId": "Soul_Land_Second_Coming",
+      "titleKo": "소울랜드:세컨드 커밍",
+      "titleEn": "Soul Land Second Coming"
     },
     {
       "slug": "star-of-the-overlord",
