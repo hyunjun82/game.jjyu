@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T15:55:38.492Z",
+  "generatedAt": "2026-11-22T20:01:09.841Z",
   "today": "2026-11-23",
-  "todayNew": 5,
+  "todayNew": 14,
   "totals": {
-    "games": 448,
-    "codes": 6405,
-    "active": 1028,
+    "games": 451,
+    "codes": 6414,
+    "active": 1037,
     "expired": 5377,
-    "withExpiry": 3731
+    "withExpiry": 3732
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-23",
-      "count": 5
+      "count": 14
     }
   ],
   "expiringSoon": [
@@ -197,6 +197,12 @@
     {
       "slug": "immortal-adventure",
       "code": "velvet1123",
+      "expiry": "2026-11-24",
+      "days": 1
+    },
+    {
+      "slug": "mir4",
+      "code": "MIR4THANKYOU6TH",
       "expiry": "2026-11-24",
       "days": 1
     },
@@ -361,12 +367,6 @@
       "code": "20261027UPDATE",
       "expiry": "2026-11-26",
       "days": 3
-    },
-    {
-      "slug": "cross-idle-rpg",
-      "code": "PL20KBCVFWXQ",
-      "expiry": "2026-11-26",
-      "days": 3
     }
   ],
   "topGames": [
@@ -436,6 +436,11 @@
       "total": 15
     },
     {
+      "slug": "deltaforce",
+      "active": 12,
+      "total": 13
+    },
+    {
       "slug": "honkai-star-rail",
       "active": 12,
       "total": 40
@@ -464,12 +469,7 @@
       "slug": "sabuk-ice-kingdom",
       "active": 11,
       "total": 18
-    },
-    {
-      "slug": "aion2",
-      "active": 10,
-      "total": 20
     }
   ],
-  "noImage": 100
+  "noImage": 103
 }

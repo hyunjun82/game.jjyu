@@ -1,107 +1,18 @@
 {
- "generatedAt": "2026-11-21T06:54:22.340Z",
- "window": "20261119~20261121",
+ "generatedAt": "2026-11-22T19:27:29.084Z",
+ "window": "20261121~20261123",
  "lounges": 2402,
- "posts": 692,
- "couponPosts": 65,
+ "posts": 197,
+ "couponPosts": 22,
  "fixedTracked": [
-  "델타포스 | GRIND, EASYYYY, LYNX4K | 프로 선수들의 로드아웃 - DFI 에디션 (얼라이언스 진영)"
+  "델타포스 | xhazmat, myrica | 프로 선수들의 로드아웃 - FENNEL 에디션"
  ],
- "addedLounges": [
-  "귀혼M (ghostsoulm) → /ghostsoulm/ | GHOSTM2ND",
-  "메크 아레나 (mecharena) → /mecharena/ | D1SCORD150K"
- ],
+ "addedLounges": [],
  "labelOnly": [
-  "이사만루26 | 2026-11-19 | (수정)[이벤트] 라운지 티켓 교환소 이벤트 안내",
-  "이사만루26 | 2026-11-19 | [이벤트] 키워드 쿠폰 이벤트 안내",
-  "아크: 오리진 | 2026-11-19 | 📢 -아크: 오리진- 쿠폰 코드 사용 안내",
-  "블리치: 소울 레조넌스 | 2026-11-20 | 🎉 [「블리치: 소울 레조넌스」 1주년 기념제] 기획자 인터뷰 정식 개시!",
-  "다크엔젤:천사 강림 | 2026-11-20 | [이벤트] 숫자 한 방 로또 도전 이벤트! (11.20~11.26)",
-  "DoE: 던전앤엑자일 | 2026-11-19 | S4시즌 버전 업데이트 교환 코드",
-  "라스트 소녀 전사 | 2026-11-20 | 🦌 신서버 S6111 오픈 안내",
-  "드래곤에어 : 침묵의 신 | 2026-11-20 | 【게임소식】 아덴시아 노래하는 자들의 기록 - 🧙 추천 크리에이터&영상! 13 (댓글 이",
-  "드림 가든: 추억의 힐링 경영 | 2026-11-20 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
-  "포트리스3 BLUE | 2026-11-20 | 2026 FPL 마스터즈 결승전 진출 클랜 및 생중계 안내",
-  "갓오브하이스쿨: 체인지 | 2026-11-19 | 수능 끝! 샤오첸이 준비한 깜짝 선물 🎁",
-  "아너 오브 킹즈(왕자영요 글로벌) | 2026-11-20 | 💌영웅 그랜드 파티 초대장 도착!",
-  "이모탈 라이징: 불멸의 각성 | 2026-11-20 | 새로운 신 강림",
+  "드래곤에어 : 침묵의 신 | 2026-11-21 | 【이벤트】 🍺 선술집 게시판 - 세계 인사의 날 👋",
+  "루미마스터 | 2026-11-22 | [공지사항] S2 시즌 '어둠과 정령' 새로운 소식이 도착했어요!",
   "아케론: 종말의 서곡 | 2026-11-21 | [이벤트] 몬스터 실루엣 퀴즈（11/21-11/30）",
-  "삼국지: 킹덤 | 2026-11-20 | ❓ [이벤트] OX 퀴즈! 오관참육장의 주인공은 누구일까요?",
-  "Total Football - 25/26 시즌 | 2026-11-20 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/23 ~ 11/29)",
-  "다크엔젤: 심연의 날개 | 2026-11-20 | [이벤트] 🗝️숨겨진 코드를 찾아라! ",
-  "젠레스 존 제로 | 2026-11-20 | [보상 이벤트] 이벤트에 참여하고 오리지널 마스터 테이프x10 혹은 Urban Kit 시리",
-  "젠레스 존 제로 | 2026-11-20 | 〈젠레스 존 제로〉 3.4 버전 「긴 나날의 끝자락」 특별 방송 | 정보 일람"
+  "스카이 어비스: 혈맹의 서약 | 2026-11-23 | ☀영보 선물GO!2탄:누적 충전 이벤트(11/23~11/29)"
  ],
- "imageOnly": [
-  {
-   "game": "이사만루26",
-   "loungeId": "24manru3",
-   "feedId": 8483138,
-   "date": "2026-11-19",
-   "title": "[이벤트] 깜짝 쿠폰, 행운판 3종, 결제 이벤트 외 3종 이벤트 소식",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMTA4/MDAxNzc3NTMzNTMzNTcy.Dht_vvHfi8rF7guXmd9BbcfBScu8AobRLIH6Z4xdm30g.nXjuI5A2NPabH_14zemuby1unG3uarwfHjOEcSXUPqQg.JPEG/event.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMThfMjAz/MDAxNzk1MDA5MDUwODAy.q0WIjR2OkyIFMMIVe1G_RZBK-ozkXHCpSImH1dSd9Hog.0TabMUou9PrjRW1SMUCjSGxxNFeU-JVTBlV4zCEf6xYg.PNG/SS%EC%9E%A5%EB%B9%84_%ED%96%89%EC%9A%B4%ED%8C%90.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMThfNzcg/MDAxNzk1MDA4NjU0ODc5.cIG9bPOBqFVg-5EU4tz9U4MfI_TCnmR2ArGbX0SlPBEg.68rSUGzJEBFozCMzUm3mwnNXYoQIrkP8HmRoc5T9sBIg.PNG/%EA%B3%A8%EB%93%9C_%ED%96%89%EC%9A%B4%ED%8C%90.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMThfMTUg/MDAxNzk1MDA4NTYzODU2.GD5_n4HMFRRjFt94SWi7OSZMArobE8tVgtQlpTsSN18g.Xvgw_4HZPqNHZ7K8C3qJtuJ-XMDSCo506IQuBMpqSuog.PNG/%EB%8B%A4%EC%9D%B4%EC%95%84_%ED%96%89%EC%9A%B4%ED%8C%90.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMThfMjU4/MDAxNzk1MDA5NjAwODQ1.HMKg1-fExbBuPgyBgUEf7rQu9g3EH8uTLTArxYq6gUAg.ml-Xe-3CKUsqlcSClDwBjNS4ICTuFsSL60mJV-cX6u8g.PNG/%EA%B2%B0%EC%A0%9C_%EC%9D%B4%EB%B2%A4%ED%8A%B8.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNTEyMDRfNDMg/MDAxNzY0ODI0MDIxMDI0.BfH6scqgv9ygy2A1Xc1xbnTB_ggJqJlqZqf1cXpf4rwg.dDOpPEGrwsimCZ-l6fs2xxw3sqJuaErfLX6uFdavNE0g.PNG/+_%EB%8B%A4%EC%9D%B4%EC%95%84_%EC%BB%AC%EB%A0%89%EC%85%98_%EC%84%A0%EC%88%98%ED%8C%A9.png?type=w1678"
-   ]
-  },
-  {
-   "game": "이사만루26",
-   "loungeId": "24manru3",
-   "feedId": 8483124,
-   "date": "2026-11-19",
-   "title": "[이벤트] 키워드 쿠폰 이벤트 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjE5/MDAxNzc3NTMzOTUyMjY3.gSbiZDxtcTdbtfdKqR2g0PqG5CfL5vmvdN_V13g5J8wg.H25jiEYCuLUeBsC_5pQlBAWNoQwmfR2Fi0P6wOEw_pwg.JPEG/event.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "아크: 오리진",
-   "loungeId": "arkorign",
-   "feedId": 8481657,
-   "date": "2026-11-19",
-   "title": "📢 -아크: 오리진- 쿠폰 코드 사용 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTky/MDAxNzk1MDQxNDQ0Mzkz.PTXgix95LXVOy_hnE3J2dIwftRf5enaURAtWltD8VSEg.b0uogeXbSmSMen3x3X3rOJLiVI4jJ1xVQfqPmv2lUhgg.JPEG/800-200-1.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfOTMg/MDAxNzk1MDQxNDcwMTUy.w-okGHwyu9HZJow6cWAIy_te3RfaDw8BDrIpEW5z9Tog.Eh0IszCKKUQUX-1Z0LG5N6yoyx6MCBIwa3fWIcdQgQkg.PNG/95c289d5ca4aaca675574871d5e1cebb.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTIx/MDAxNzk1MDQxNTM3NTU3.PFXqMGRLR07mTs72s5zc9Q-YDNuoUcODi9xvhPUBIasg.ndDOO_9CElrj4qTWXapBdDVuUqxWgd0WkmocwkbesZ4g.JPEG/1280.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "데블2M",
-   "loungeId": "Devil_2M",
-   "feedId": 8486381,
-   "date": "2026-11-19",
-   "title": "원보 15% 추가 +일일 로그인 쿠폰 12% 🎁",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTkz/MDAxNzk1MDkzNzgyMDAx.weu98OQiTKwiKCoQ1yTPFEzsD7V2Y1QjqdblGVnF7Fsg.4e1vqR_lheDz0pW6MUabouGc1KAbk08rUszM81pPZXMg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17933544124997.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTU5/MDAxNzk1MDkzODMyMjQy.fpGhDs9SwiDaILcvvehXfZcPGPYOZmOanzKgsExiacYg.fXKgvyTLOMLAey8XwSNc0iZ___qe3P6e0DZ-RSblMgIg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17950800971816.png?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfNCAg/MDAxNzk1MDkzOTY1Njk3.xzUwYkbx6UuibbUyWTnf_TLGzexoI9fKb06feEJzXPog.Qz_FSRFIAfj3obPupYMF3Dh-gYhFFNdjHfuQYfrpvqAg.PNG/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17950798646392.png?type=w1678"
-   ]
-  },
-  {
-   "game": "DoE: 던전앤엑자일",
-   "loungeId": "DoE_Dungeon_of_Exile",
-   "feedId": 8485062,
-   "date": "2026-11-19",
-   "title": "S4시즌 버전 업데이트 교환 코드",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMTlfMTM1/MDAxNzk1MDc5NzA4NTkz.JQO6-mH2gVf2X1akN9NaN_lZjmOWdqthrrQeqQarFRog.PHEPBTfVzsq6pedcap1946ujNDsrB4khqsm8vchmoeIg.JPEG/img_v3_0217j_b97f84b3-346a-4745-ba79-85cf62bc354g.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "LUNAR：에버소울",
-   "loungeId": "LUNAR_EverSoul",
-   "feedId": 8490246,
-   "date": "2026-11-20",
-   "title": "🎁 두 배 혜택의 날! 20% 캐시 쿠폰 + 5% 다이아 페이백, 11월 21일만!",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDVfMjcz/MDAxNzkzODQ5NzI2MjI2.gsqBYPZp8mcbR0fMBJEYLPF3O0Ycc0YiQSl0dBTigPEg.bBv9IIoOgqr5bddvXvdAcIuVXiE9GR1FqD9_djY4fcog.JPEG/%E9%99%90%E6%97%B6%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE-850x170.jpg?type=w1678",
-    "https://nng-phinf.pstatic.net/MjAyNjA5MTRfMjQw/MDAxNzg5MzcxMDgyMjE3.7zrqo_bRx6W46vwYjV6jEr-L6JTyXL7Vv1LedvS5XK4g.Zf805o5NAyK5qrXHx7JO3a-Xmtrn__qEJ2q4b1h0IdYg.JPEG/%E4%B8%89%E6%96%B9%E5%85%85%E5%80%BC%E6%B4%BB%E5%8A%A8%E5%9B%BE%281%29.jpg?type=w1678"
-   ]
-  }
- ]
+ "imageOnly": []
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "mychicmall",
+  "titleEn": "mychicmall",
+  "titleKo": "마이시크몰",
+  "image": null,
+  "source": "naver-search",
+  "howTo": "",
+  "updatedAt": "2026-11-22T19:55:44.737Z",
+  "codes": [
+    {
+      "code": "FP666",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-18",
+      "sourceUrl": "https://blog.naver.com/jjuba424/224482001751",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "active"
+    }
+  ]
+}

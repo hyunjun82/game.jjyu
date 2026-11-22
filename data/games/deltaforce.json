@@ -7,9 +7,27 @@
   "loungeId": "deltaforce",
   "sourceUrl": "https://game.naver.com/lounge/deltaforce/board/detail/8493152",
   "howTo": "",
-  "postCount": 6,
-  "updatedAt": "2026-11-22T15:41:44.714Z",
+  "postCount": 7,
+  "updatedAt": "2026-11-22T20:00:07.370Z",
   "codes": [
+    {
+      "code": "xhazmat",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-21",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "active"
+    },
+    {
+      "code": "myrica",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-21",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "active"
+    },
     {
       "code": "GRIND",
       "reward": "",

@@ -434,6 +434,32 @@
       "titleKo": "킹 오브 파이터 AFK",
       "titleEn": "king-obeu-paiteo-afk",
       "found": "2026-11-19"
+    },
+    {
+      "slug": "deubil3-risenneu",
+      "titleKo": "드빌3 리센느",
+      "titleEn": "deubil3-risenneu",
+      "found": "2026-11-23"
+    },
+    {
+      "slug": "deubil3",
+      "titleKo": "드빌3",
+      "titleEn": "deubil3",
+      "found": "2026-11-23"
+    },
+    {
+      "slug": "mychicmall",
+      "titleKo": "마이시크몰",
+      "titleEn": "mychicmall",
+      "loungeId": "mychicmall",
+      "found": "2026-11-23"
+    },
+    {
+      "slug": "mir4",
+      "titleKo": "미르4",
+      "titleEn": "Mir4",
+      "loungeId": "Mir4",
+      "found": "2026-11-23"
     }
   ],
   "rejected": [
