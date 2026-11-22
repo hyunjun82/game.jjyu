@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-11-21T20:21:22.125Z",
+  "generatedAt": "2026-11-22T00:25:22.081Z",
   "today": "2026-11-22",
-  "todayNew": 0,
+  "todayNew": 7,
   "totals": {
     "games": 448,
-    "codes": 6386,
-    "active": 1064,
-    "expired": 5322,
-    "withExpiry": 3717
+    "codes": 6393,
+    "active": 1039,
+    "expired": 5354,
+    "withExpiry": 3724
   },
   "newByDate": [
-    {
-      "date": "2026-11-08",
-      "count": 19
-    },
     {
       "date": "2026-11-09",
       "count": 53
@@ -65,6 +61,10 @@
     {
       "date": "2026-11-21",
       "count": 50
+    },
+    {
+      "date": "2026-11-22",
+      "count": 7
     }
   ],
   "expiringSoon": [
@@ -426,11 +426,6 @@
       "total": 15
     },
     {
-      "slug": "cookie-run-kingdom",
-      "active": 13,
-      "total": 20
-    },
-    {
       "slug": "whoa-adventurers",
       "active": 13,
       "total": 13
@@ -439,6 +434,11 @@
       "slug": "byeolbyeol-hero",
       "active": 12,
       "total": 15
+    },
+    {
+      "slug": "solo-leveling-arise",
+      "active": 12,
+      "total": 18
     },
     {
       "slug": "sword-frontier",

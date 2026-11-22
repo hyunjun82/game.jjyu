@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-21T04:30:13.863Z",
+  "updatedAt": "2026-11-22T00:24:04.420Z",
   "codes": [
     {
       "code": "BLOOMINGFLOWERS",
@@ -14,8 +14,8 @@
       "postedAt": "2026-11-07",
       "sourceUrl": "https://blog.naver.com/dorados/224468095684",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-21",
-      "status": "active"
+      "lastSeen": "2026-11-22",
+      "status": "expired"
     },
     {
       "code": "SCHOOLLIFE",
@@ -24,8 +24,8 @@
       "postedAt": "2026-11-07",
       "sourceUrl": "https://blog.naver.com/dorados/224468095684",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-21",
-      "status": "active"
+      "lastSeen": "2026-11-22",
+      "status": "expired"
     }
   ]
 }

@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-21T04:20:13.697Z",
+  "updatedAt": "2026-11-22T00:14:22.676Z",
   "codes": [
-    {
-      "code": "ANNIV",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-21",
-      "sourceUrl": "https://blog.naver.com/os321so/224485461183",
-      "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
     {
       "code": "2026AWARD",
       "reward": "",
@@ -24,27 +14,7 @@
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/ppej1234/224483210658",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "MANTENIMIENTO120",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-16",
-      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
-      "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "마감",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-21",
-      "sourceUrl": "https://blog.naver.com/os321so/224485461183",
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
@@ -54,17 +24,17 @@
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/ppej1234/224483210658",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
       "code": "선물",
       "reward": "",
       "expiry": "2027-02-04",
-      "postedAt": "2026-11-08",
-      "sourceUrl": "https://blog.naver.com/su_ffy/224468823616",
+      "postedAt": "2026-11-22",
+      "sourceUrl": "https://blog.naver.com/du4321/224485728190",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-08",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
@@ -78,13 +48,43 @@
       "status": "active"
     },
     {
+      "code": "ANNIV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/os321so/224485461183",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "MANTENIMIENTO120",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-16",
+      "sourceUrl": "https://blog.naver.com/ddolistory/224478756542",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "마감",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-21",
+      "sourceUrl": "https://blog.naver.com/os321so/224485461183",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
       "code": "100LVCOUPON",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -94,7 +94,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -104,7 +104,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -114,7 +114,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -124,7 +124,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {

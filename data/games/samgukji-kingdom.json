@@ -3,12 +3,9 @@
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMDZfMjg2/MDAxNzkzOTI5OTI2NjQ4.1tnbgvmBZ81EM0RynxZvRhf7dmuNwSuDNbuphOjKoFcg.bk7HbxsSNXSnjyaFPtsBkxlWDnZpm2ADQwcK17D4SMwg.JPEG/%E6%BB%A1%E6%9C%88%E7%A4%BC.jpg",
-  "source": "naver-lounge",
-  "loungeId": "Samgukji_Kingdom",
-  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8492183",
+  "source": "naver-search",
   "howTo": "게임에 접속한 후, 메인 화면 [좌측 상단 프로필 아이콘]을 터치하여 기본 정보 창을 엽니다. 메뉴 중 [선물 교환] 버튼을 클릭합니다. 선물 코드 입력란에 month333 입력 후 [확인]을 누르면 보상이 지급됩니다!",
-  "postCount": 372,
-  "updatedAt": "2026-11-21T20:03:57.735Z",
+  "updatedAt": "2026-11-22T00:17:25.675Z",
   "codes": [
     {
       "code": "month333",
@@ -89,7 +86,8 @@
       "code": "week999",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-28",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-22",
       "status": "expired"
@@ -98,7 +96,8 @@
       "code": "D5vPTfC8",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-26",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-22",
       "status": "expired"
@@ -107,7 +106,8 @@
       "code": "king777",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-10-22",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-22",
       "status": "expired"
@@ -129,7 +129,7 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -139,7 +139,7 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -149,7 +149,7 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     }
   ]

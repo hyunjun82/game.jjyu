@@ -5,16 +5,16 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-21T04:27:17.212Z",
+  "updatedAt": "2026-11-22T00:21:02.883Z",
   "codes": [
     {
       "code": "SPECIAL",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-21",
+      "postedAt": "2026-11-22",
       "sourceUrl": "https://blog.naver.com/gogh368/224485678165",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
@@ -24,7 +24,7 @@
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/storm18/224474424561",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
@@ -64,7 +64,7 @@
       "postedAt": "2026-11-10",
       "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -74,7 +74,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/doek11/224469282439",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     }
   ]

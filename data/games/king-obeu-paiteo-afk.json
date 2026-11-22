@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-21T04:31:19.103Z",
+  "updatedAt": "2026-11-22T00:25:15.859Z",
   "codes": [
     {
       "code": "1KOFDEV1",
@@ -14,97 +14,7 @@
       "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/jonges_/224481925280",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "KOFAFKPHOTO",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "KOFISBACK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "FALLINDEV10",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "MALKOFAFK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "HPWKOFAFK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "TELONKOFAFK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "KOF400DAYS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "NAMELESS1019",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
-      "status": "active"
-    },
-    {
-      "code": "THANKS1012",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "active"
     },
     {
@@ -114,7 +24,7 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/jjsabu/224463297762",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     },
     {
@@ -124,7 +34,97 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/jjsabu/224463297762",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-21",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "KOFAFKPHOTO",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "KOFISBACK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "FALLINDEV10",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "MALKOFAFK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "HPWKOFAFK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "TELONKOFAFK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "KOF400DAYS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "NAMELESS1019",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "THANKS1012",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-07",
+      "sourceUrl": "https://blog.naver.com/riwen/224468464212",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-22",
       "status": "expired"
     }
   ]
