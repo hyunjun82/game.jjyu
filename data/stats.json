@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T00:25:22.081Z",
+  "generatedAt": "2026-11-22T07:01:50.831Z",
   "today": "2026-11-22",
-  "todayNew": 7,
+  "todayNew": 10,
   "totals": {
     "games": 448,
-    "codes": 6393,
-    "active": 1039,
-    "expired": 5354,
-    "withExpiry": 3724
+    "codes": 6396,
+    "active": 1041,
+    "expired": 5355,
+    "withExpiry": 3726
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-22",
-      "count": 7
+      "count": 10
     }
   ],
   "expiringSoon": [
@@ -451,6 +451,11 @@
       "total": 22
     },
     {
+      "slug": "busy-savior",
+      "active": 11,
+      "total": 40
+    },
+    {
       "slug": "gray-saga",
       "active": 11,
       "total": 14
@@ -464,11 +469,6 @@
       "slug": "aion2",
       "active": 10,
       "total": 20
-    },
-    {
-      "slug": "busy-savior",
-      "active": 10,
-      "total": 39
     }
   ],
   "noImage": 100
