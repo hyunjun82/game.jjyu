@@ -5,58 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-23T07:26:39.800Z",
+  "updatedAt": "2026-11-23T22:04:16.702Z",
   "codes": [
-    {
-      "code": "THANKYOUCZN",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-23",
-      "status": "active"
-    },
-    {
-      "code": "NTEGIFT",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-23",
-      "status": "active"
-    },
-    {
-      "code": "COMEBACK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-23",
-      "status": "active"
-    },
-    {
-      "code": "CALLELYMS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-23",
-      "status": "active"
-    },
-    {
-      "code": "no1mapleidle",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/doumy13/224487404145",
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-23",
-      "status": "active"
-    },
     {
       "code": "2026AWARD",
       "reward": "",
@@ -64,7 +14,7 @@
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/ppej1234/224483210658",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -74,7 +24,7 @@
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/ppej1234/224483210658",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -96,6 +46,56 @@
       "firstSeen": "2026-10-03",
       "lastSeen": "2026-11-23",
       "status": "active"
+    },
+    {
+      "code": "THANKYOUCZN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "NTEGIFT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "COMEBACK",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "CALLELYMS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/reviewer69/224487531977",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "no1mapleidle",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/doumy13/224487404145",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
     },
     {
       "code": "ANNIV",
@@ -134,7 +134,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {
@@ -144,7 +144,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {
@@ -154,7 +154,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {
@@ -164,7 +164,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {
@@ -174,7 +174,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/12512512/224466420986",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {

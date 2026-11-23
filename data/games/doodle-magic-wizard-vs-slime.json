@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Doodle_Magic_Wizard_vs_Slime/board/detail/8492722",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-11-23T10:05:00.569Z",
+  "updatedAt": "2026-11-23T22:00:42.571Z",
   "codes": [
     {
       "code": "813GPQ",
@@ -16,16 +16,7 @@
       "expiry": "2026-11-26",
       "postedAt": "2026-11-21",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-23",
-      "status": "active"
-    },
-    {
-      "code": "3YTHANKS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-13",
-      "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -35,6 +26,15 @@
       "postedAt": "2026-11-14",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-22",
+      "status": "expired"
+    },
+    {
+      "code": "3YTHANKS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": null,
       "postedAt": "2023-11-14",
       "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {

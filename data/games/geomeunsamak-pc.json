@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-23T07:33:42.984Z",
+  "updatedAt": "2026-11-23T22:11:05.530Z",
   "codes": [
+    {
+      "code": "SHAREYOURREWARDS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/jonges_/224488562416",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
     {
       "code": "BEYONDTHEJOURNEY",
       "reward": "",
@@ -14,7 +24,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/travous/224460544132",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -24,7 +34,7 @@
       "postedAt": "2026-10-31",
       "sourceUrl": "https://blog.naver.com/travous/224460544132",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     }
   ]

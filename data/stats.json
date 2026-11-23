@@ -1,19 +1,15 @@
 {
-  "generatedAt": "2026-11-23T10:23:02.844Z",
-  "today": "2026-11-23",
-  "todayNew": 61,
+  "generatedAt": "2026-11-23T22:15:47.840Z",
+  "today": "2026-11-24",
+  "todayNew": 9,
   "totals": {
-    "games": 453,
-    "codes": 6461,
-    "active": 1084,
-    "expired": 5377,
-    "withExpiry": 3753
+    "games": 454,
+    "codes": 6470,
+    "active": 1058,
+    "expired": 5412,
+    "withExpiry": 3758
   },
   "newByDate": [
-    {
-      "date": "2026-11-10",
-      "count": 20
-    },
     {
       "date": "2026-11-11",
       "count": 97
@@ -65,308 +61,312 @@
     {
       "date": "2026-11-23",
       "count": 61
+    },
+    {
+      "date": "2026-11-24",
+      "count": 9
     }
   ],
   "expiringSoon": [
     {
-      "slug": "devil-2m",
-      "code": "declm1116",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "dream-samguk",
-      "code": "B5F2M7Q",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "ghost-hunter",
-      "code": "1121gst",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "ghost-hunter",
-      "code": "1122gst",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "god-kkaebi",
-      "code": "1u4gjkr3",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "heroes-tales2",
-      "code": "HJQHK1116",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "mir4",
-      "code": "MIR4THANKYOU6TH",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "the-grand-mafia",
-      "code": "TGM2026THX",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "tile-survival",
-      "code": "HUGDAY2026",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "tile-survival",
-      "code": "TS777",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "tile-survival",
-      "code": "TS888",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
-      "slug": "tile-survival",
-      "code": "TS999",
-      "expiry": "2026-11-23",
-      "days": 0
-    },
-    {
       "slug": "beulrichi-mireojeu-hai",
       "code": "czvtguxg",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "beulruakaibeu",
       "code": "HANAWOTADOTTE",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "beulruakaibeu",
       "code": "KIRAKIRAERIKA",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "doomsday-warrior",
       "code": "DESTINYDUO",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dragon-traveler",
       "code": "YourExclusive",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "dunjeonpang",
       "code": "WXRZVG",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "f-class-hero",
       "code": "11Autumn2Q",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "genshin-impact",
       "code": "CDOF4X83H7X2",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "genshin-impact",
       "code": "NEEIJB764CA3",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "genshin-impact",
       "code": "NEEI8A8341OW",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "immortal-adventure",
       "code": "velvet1123",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "pokemon-go",
       "code": "sangha",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "requiem-m",
       "code": "NOVRQMM11",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "three-kingdoms-card-clash",
       "code": "7HST2E",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "tree-of-savior-m",
       "code": "THANKS",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "tree-of-savior-m",
       "code": "FARMERS",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "what-the-bug",
       "code": "MR57B5",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "whiteout-survival",
       "code": "A7K9M2",
       "expiry": "2026-11-24",
-      "days": 1
+      "days": 0
     },
     {
       "slug": "cheonsangbi-k",
       "code": "bxangqwe6w",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "dragon-traveler",
       "code": "GXGGHFLLQ",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "eternal-evolution",
       "code": "EE1113V922",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "eternal-evolution",
       "code": "EE1111F94G",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "f4-u",
       "code": "F4UTHANKS1ST1110",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "fortress-saga",
       "code": "SWEET1111FS26",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "genshin-impact",
       "code": "1104Anniv5th",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "genshin-impact",
       "code": "11045thAnniv",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "genshin-impact",
       "code": "5thAnniv1104",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "into-the-dungeon-reborn",
       "code": "EBZ6FB5WRMR",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
+    },
+    {
+      "slug": "kingshot",
+      "code": "1T1G2D2",
+      "expiry": "2026-11-25",
+      "days": 1
     },
     {
       "slug": "raising-souls",
       "code": "YOUNG-BRIGHT",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "saintess",
       "code": "qweo2403",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "spirit-king",
       "code": "ADVENTUREGIFT",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "wooparoo-odyssey",
       "code": "WANDAROO",
       "expiry": "2026-11-25",
-      "days": 2
+      "days": 1
     },
     {
       "slug": "acecraft",
       "code": "SPJOEYGO",
       "expiry": "2026-11-26",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "adventureofheroes",
       "code": "WEEKEND8J6WA",
       "expiry": "2026-11-26",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "arknights-endfield",
       "code": "ENDFIELDSTEAM",
       "expiry": "2026-11-26",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "arknights-endfield",
       "code": "ZAU2SYXHWX5L4ZH",
       "expiry": "2026-11-26",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "arknights-endfield",
       "code": "ENDFIELDGIFT",
       "expiry": "2026-11-26",
-      "days": 3
+      "days": 2
     },
     {
       "slug": "arknights-endfield",
       "code": "ENDFIELD4PC",
       "expiry": "2026-11-26",
-      "days": 3
+      "days": 2
+    },
+    {
+      "slug": "cheon-sam-mu",
+      "code": "20261027UPDATE",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "cross-idle-rpg",
+      "code": "PL20KBCVFWXQ",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "doodle-magic-wizard-vs-slime",
+      "code": "813GPQ",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "dragon-traveler",
+      "code": "MySuperherogirl",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "geomeunsamak-pc",
+      "code": "BEYONDTHEJOURNEY",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "geomeunsamak-pc",
+      "code": "TYALLADVENTURERS",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "kingshot",
+      "code": "SAYHIHI",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "lucky-plant-defense",
+      "code": "LUCKYKSAT2027",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "plantis-zombie-gangsters",
+      "code": "M6D3R1",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "ragnarok-origin-classic-korean",
+      "code": "ROOCHALFANNIV",
+      "expiry": "2026-11-26",
+      "days": 2
+    },
+    {
+      "slug": "samgukji-origin2",
+      "code": "7093-e2a763a26-1",
+      "expiry": "2026-11-26",
+      "days": 2
     }
   ],
   "topGames": [
@@ -381,14 +381,14 @@
       "total": 34
     },
     {
+      "slug": "changsulsa-kiugix",
+      "active": 21,
+      "total": 21
+    },
+    {
       "slug": "dungeon-hunter6-awakening",
       "active": 21,
       "total": 47
-    },
-    {
-      "slug": "changsulsa-kiugix",
-      "active": 20,
-      "total": 20
     },
     {
       "slug": "king-regeosi",

@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-23T07:35:07.396Z",
+  "updatedAt": "2026-11-23T22:12:36.056Z",
   "codes": [
     {
       "code": "2NDCOOPTDEVE",
@@ -15,7 +15,7 @@
       "sourceUrl": "https://blog.naver.com/mola__mola/224476208340",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "1STCOOPTD",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://blog.naver.com/mola__mola/224476208340",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "COOPTD2ANNIV",
@@ -34,7 +34,7 @@
       "postedAt": "2026-11-09",
       "sourceUrl": "https://blog.naver.com/naakey/224469675887",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {
@@ -44,7 +44,7 @@
       "postedAt": "2026-11-09",
       "sourceUrl": "https://blog.naver.com/naakey/224469675887",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {

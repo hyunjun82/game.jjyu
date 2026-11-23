@@ -5,16 +5,26 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-23T07:33:59.359Z",
+  "updatedAt": "2026-11-23T22:11:25.863Z",
   "codes": [
     {
-      "code": "B-NEW11",
+      "code": "18H94MQRNF",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/yummy03j/224483627462",
-      "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-23",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/1029aaa/224488907629",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "T4GC3GFUKY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/plng0619/224488959947",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -24,7 +34,7 @@
       "postedAt": "2026-11-15",
       "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -34,7 +44,7 @@
       "postedAt": "2026-11-15",
       "sourceUrl": "https://blog.naver.com/yahoyaho08/224478317958",
       "firstSeen": "2026-11-16",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
     },
     {
@@ -51,11 +61,21 @@
       "code": "FJ45NZYSB1",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/at_fox_/224483769671",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/at_duck/224488979679",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-24",
       "status": "active"
+    },
+    {
+      "code": "B-NEW11",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/yummy03j/224483627462",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-23",
+      "status": "expired"
     },
     {
       "code": "CACHROAD1",

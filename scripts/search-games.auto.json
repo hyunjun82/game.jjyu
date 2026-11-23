@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-23T10:00:14.063Z",
+  "generatedAt": "2026-11-23T21:55:47.708Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -15,10 +15,10 @@
       "titleEn": "Arknights_Endfield"
     },
     {
-      "slug": "torchlight-infinite-kr",
-      "loungeId": "Torchlight_Infinite",
-      "titleKo": "토치라이트: 인피니트",
-      "titleEn": "Torchlight_Infinite"
+      "slug": "samgukji-kingdom",
+      "loungeId": "Samgukji_Kingdom",
+      "titleKo": "삼국지: 킹덤",
+      "titleEn": "Samgukji_Kingdom"
     },
     {
       "slug": "tales-runner-rpg",
@@ -27,10 +27,10 @@
       "titleEn": "Tales Runner Rpg"
     },
     {
-      "slug": "dragonheir-silent-gods",
-      "loungeId": "Dragonheir_Silent_Gods",
-      "titleKo": "드래곤에어 : 침묵의 신",
-      "titleEn": "Dragonheir"
+      "slug": "torchlight-infinite-kr",
+      "loungeId": "Torchlight_Infinite",
+      "titleKo": "토치라이트: 인피니트",
+      "titleEn": "Torchlight_Infinite"
     },
     {
       "slug": "oops-tomb-raid",
@@ -51,6 +51,60 @@
       "titleEn": "Dragonblade Grow"
     },
     {
+      "slug": "dragonheir-silent-gods",
+      "loungeId": "Dragonheir_Silent_Gods",
+      "titleKo": "드래곤에어 : 침묵의 신",
+      "titleEn": "Dragonheir"
+    },
+    {
+      "slug": "finalhunter",
+      "loungeId": "finalhunter",
+      "titleKo": "파이널 헌터",
+      "titleEn": "Finalhunter"
+    },
+    {
+      "slug": "fishclush",
+      "loungeId": "Fishclush",
+      "titleKo": "먹텐물꼬기",
+      "titleEn": "Fishclush"
+    },
+    {
+      "slug": "football-top-manager",
+      "loungeId": "Football_Top_Manager",
+      "titleKo": "풋볼 탑 매니저",
+      "titleEn": "Football Top Manager"
+    },
+    {
+      "slug": "gaiam",
+      "loungeId": "GAIAM",
+      "titleKo": "가이아M",
+      "titleEn": "Gaiam"
+    },
+    {
+      "slug": "game-of-money",
+      "loungeId": "Game_Of_Money",
+      "titleKo": "대표님을 부탁해",
+      "titleEn": "Game Of Money"
+    },
+    {
+      "slug": "weapon-master",
+      "loungeId": "WeaponMaster",
+      "titleKo": "웨폰마스터 키우기",
+      "titleEn": "Weapon Master"
+    },
+    {
+      "slug": "goblin-slayer",
+      "loungeId": "Goblin_Slayer",
+      "titleKo": "고블린 슬레이어 키우기",
+      "titleEn": "Goblin Slayer"
+    },
+    {
+      "slug": "god-slayer",
+      "loungeId": "God_Slayer",
+      "titleKo": "갓 슬레이어",
+      "titleEn": "God Slayer"
+    },
+    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
@@ -67,18 +121,6 @@
       "loungeId": "monsterhunteroutlanders",
       "titleKo": "몬스터헌터 아웃랜더스",
       "titleEn": "Monsterhunteroutlanders"
-    },
-    {
-      "slug": "ninety-thousand-acres",
-      "loungeId": "NINETY_THOUSAND_ACRES",
-      "titleKo": "9만 에이커",
-      "titleEn": "Ninety Thousand Acres"
-    },
-    {
-      "slug": "ninja-must-die",
-      "loungeId": "Ninja_Must_Die",
-      "titleKo": "닌자 머스트 다이",
-      "titleEn": "Ninja Must Die"
     },
     {
       "slug": "play-together",
@@ -111,76 +153,16 @@
       "titleEn": "Samguk_Origin"
     },
     {
-      "slug": "samgukji-kingdom",
-      "loungeId": "Samgukji_Kingdom",
-      "titleKo": "삼국지: 킹덤",
-      "titleEn": "Samgukji_Kingdom"
-    },
-    {
       "slug": "star-of-the-overlord",
       "loungeId": "Star_of_the_Overlord",
       "titleKo": "패왕의별M",
       "titleEn": "Star Of The Overlord"
     },
     {
-      "slug": "stellar-traveler",
-      "loungeId": "stellar_traveler",
-      "titleKo": "별빛 여행자",
-      "titleEn": "Stellar Traveler"
-    },
-    {
       "slug": "stone-three-kingdoms",
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
-    },
-    {
-      "slug": "striked-fixer",
-      "loungeId": "Striked_Fixer",
-      "titleKo": "내리침 해결사",
-      "titleEn": "Striked Fixer"
-    },
-    {
-      "slug": "stylight",
-      "loungeId": "stylight",
-      "titleKo": "스타일라잇",
-      "titleEn": "Stylight"
-    },
-    {
-      "slug": "sweethome",
-      "loungeId": "sweethome",
-      "titleKo": "스위트홈 : 욕망의 파편",
-      "titleEn": "Sweethome"
-    },
-    {
-      "slug": "w-cross-world",
-      "loungeId": "W_CROSS_WORLD",
-      "titleKo": "더블유: 크로스월드",
-      "titleEn": "W Cross World"
-    },
-    {
-      "slug": "wandering-mercenary-force",
-      "loungeId": "wandering_mercenary_force",
-      "titleKo": "방랑용병단",
-      "titleEn": "Wandering Mercenary Force"
-    },
-    {
-      "slug": "warphero",
-      "loungeId": "warphero",
-      "titleKo": "워프히어로",
-      "titleEn": "Warphero"
-    },
-    {
-      "slug": "wild-hunt",
-      "loungeId": "Wild_Hunt",
-      "titleKo": "와일드헌트",
-      "titleEn": "Wild Hunt"
-    },
-    {
-      "slug": "with",
-      "loungeId": "WITH",
-      "titleKo": "위드 : 신의 날개",
-      "titleEn": "With"
     },
     {
       "slug": "wtbk",

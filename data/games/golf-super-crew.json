@@ -1,0 +1,23 @@
+{
+  "slug": "golf-super-crew",
+  "titleEn": "Golf Super Crew",
+  "titleKo": "골프 슈퍼 크루",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjBfMzYg/MDAxNzk1MTQyODkwNzg2.5ViV-eCgVCFpdej91IdJewRVnms2ORMnG5InIOcZB68g.5eQT-_wm3gSyaqocDY3sOJUHOb81rvQLy0QCKbYUhkAg.PNG/GSC_Thanksgiving_KO_820x260_v2.png",
+  "source": "naver-lounge",
+  "loungeId": "Golf_Super_Crew",
+  "sourceUrl": "https://game.naver.com/lounge/Golf_Super_Crew/board/detail/8499234",
+  "howTo": "STEP 1. 쿠폰 등록 화면 열기! - 게임 로비에서 메뉴를 열고 [쿠폰]을 선택해 주세요. STEP 2. 코드 입력하고 선물 받기! - [코드 등록] 화면에서 THANKSGIVINGDAY를 입력하고 등록해 주세요. - 게임 내 우편함에서 선물을 받아 주세요!",
+  "postCount": 1,
+  "updatedAt": "2026-11-23T22:01:09.760Z",
+  "codes": [
+    {
+      "code": "THANKSGIVINGDAY",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-11-23",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    }
+  ]
+}
