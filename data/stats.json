@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T21:52:46.555Z",
+  "generatedAt": "2026-11-23T02:21:39.668Z",
   "today": "2026-11-23",
-  "todayNew": 14,
+  "todayNew": 24,
   "totals": {
     "games": 451,
-    "codes": 6414,
-    "active": 1037,
-    "expired": 5377,
-    "withExpiry": 3732
+    "codes": 6424,
+    "active": 1046,
+    "expired": 5378,
+    "withExpiry": 3740
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-23",
-      "count": 14
+      "count": 24
     }
   ],
   "expiringSoon": [
@@ -309,6 +309,12 @@
       "days": 2
     },
     {
+      "slug": "raising-souls",
+      "code": "YOUNG-BRIGHT",
+      "expiry": "2026-11-25",
+      "days": 2
+    },
+    {
       "slug": "saintess",
       "code": "qweo2403",
       "expiry": "2026-11-25",
@@ -359,12 +365,6 @@
     {
       "slug": "arknights-endfield",
       "code": "ENDFIELD4PC",
-      "expiry": "2026-11-26",
-      "days": 3
-    },
-    {
-      "slug": "cheon-sam-mu",
-      "code": "20261027UPDATE",
       "expiry": "2026-11-26",
       "days": 3
     }
