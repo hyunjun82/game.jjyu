@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-23T02:21:39.668Z",
+  "generatedAt": "2026-11-23T07:43:26.152Z",
   "today": "2026-11-23",
-  "todayNew": 24,
+  "todayNew": 59,
   "totals": {
-    "games": 451,
-    "codes": 6424,
-    "active": 1046,
-    "expired": 5378,
-    "withExpiry": 3740
+    "games": 453,
+    "codes": 6459,
+    "active": 1082,
+    "expired": 5377,
+    "withExpiry": 3752
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-23",
-      "count": 24
+      "count": 59
     }
   ],
   "expiringSoon": [
@@ -101,6 +101,12 @@
     {
       "slug": "heroes-tales2",
       "code": "HJQHK1116",
+      "expiry": "2026-11-23",
+      "days": 0
+    },
+    {
+      "slug": "mir4",
+      "code": "MIR4THANKYOU6TH",
       "expiry": "2026-11-23",
       "days": 0
     },
@@ -197,12 +203,6 @@
     {
       "slug": "immortal-adventure",
       "code": "velvet1123",
-      "expiry": "2026-11-24",
-      "days": 1
-    },
-    {
-      "slug": "mir4",
-      "code": "MIR4THANKYOU6TH",
       "expiry": "2026-11-24",
       "days": 1
     },
@@ -377,13 +377,18 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 33,
-      "total": 33
+      "active": 34,
+      "total": 34
     },
     {
       "slug": "dungeon-hunter6-awakening",
       "active": 21,
       "total": 47
+    },
+    {
+      "slug": "changsulsa-kiugix",
+      "active": 20,
+      "total": 20
     },
     {
       "slug": "king-regeosi",
@@ -464,12 +469,7 @@
       "slug": "gray-saga",
       "active": 11,
       "total": 14
-    },
-    {
-      "slug": "sabuk-ice-kingdom",
-      "active": 11,
-      "total": 18
     }
   ],
-  "noImage": 103
+  "noImage": 105
 }

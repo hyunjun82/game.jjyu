@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-22T19:48:59.969Z",
+  "updatedAt": "2026-11-23T07:30:26.065Z",
   "codes": [
     {
       "code": "V26A7K9P2X4B",
@@ -68,11 +68,21 @@
       "status": "active"
     },
     {
+      "code": "V26A7K9P3XQ2",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/sofeman21/224468993592",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-11-23",
+      "status": "active"
+    },
+    {
       "code": "K8R3V7N2Q9X5",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-29",
-      "sourceUrl": "https://blog.naver.com/hschoi82/224457763948",
+      "postedAt": "2026-11-08",
+      "sourceUrl": "https://blog.naver.com/sofeman21/224468993592",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-11-23",
       "status": "active"
@@ -105,16 +115,6 @@
       "sourceUrl": "https://blog.naver.com/naakey/224449250519",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-11-20",
-      "status": "expired"
-    },
-    {
-      "code": "V26A7K9P3XQ2",
-      "reward": "",
-      "expiry": "2026-10-31",
-      "postedAt": "2026-10-29",
-      "sourceUrl": "https://blog.naver.com/hschoi82/224457763948",
-      "firstSeen": "2026-10-06",
-      "lastSeen": "2026-11-23",
       "status": "expired"
     },
     {

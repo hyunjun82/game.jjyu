@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTAzMjFfMjg4/MDAxNzQyNTU1NTE1MjI1.W0-roWaZh10-iXRnHYBcTmlll2Z5Xn6V_4K7wBfSRYQg.YrVvuyxOIVmXwXWGENFsFnaQRXx5c8Z2gDxCgLSJdmkg.PNG/banner-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png",
   "source": "naver-lounge",
   "loungeId": "kurobas_sr",
-  "sourceUrl": "https://game.naver.com/lounge/kurobas_sr/board/detail/8493088",
+  "sourceUrl": "https://game.naver.com/lounge/kurobas_sr/board/detail/8499179",
   "howTo": "",
-  "postCount": 647,
-  "updatedAt": "2026-11-23T02:00:18.631Z",
+  "postCount": 648,
+  "updatedAt": "2026-11-23T07:40:14.204Z",
   "codes": [
+    {
+      "code": "123WNRKSZNVHS",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-11-23",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-23",
+      "status": "active"
+    },
     {
       "code": "BD1121XKZKDS",
       "reward": "",
@@ -22,11 +31,11 @@
     {
       "code": "1116WNRKSZNVHS",
       "reward": "",
-      "expiry": null,
+      "expiry": "2026-11-20",
       "postedAt": "2026-11-16",
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-23",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "1109WNRKSZNVHS",
