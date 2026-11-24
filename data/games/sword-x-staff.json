@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMTZfMjMx/MDAxNzk0Nzk1ODI5Mzg3.-CKO0zyWO8p5tgmPrVmOZKSLCX0gDcuQ2Uz-4xOOTbsg.U5PObh9JxKJNLQb2dpyipdH9SN5adXT98BIwz1aRL4Ag.JPEG/2-%E5%85%91%E6%8D%A2%E7%A0%81-%E6%A3%AE%E6%A3%AE-%E9%9F%A9%E8%AF%AD.jpg",
   "source": "naver-lounge",
   "loungeId": "SwordxStaff",
-  "sourceUrl": "https://game.naver.com/lounge/SwordxStaff/board/detail/8469996",
+  "sourceUrl": "https://game.naver.com/lounge/SwordxStaff/board/detail/8499204",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-11-23T21:58:22.877Z",
+  "postCount": 2,
+  "updatedAt": "2026-11-24T00:20:15.016Z",
   "codes": [
+    {
+      "code": "WELCOME03",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-23",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
     {
       "code": "WELCOME02",
       "reward": "",

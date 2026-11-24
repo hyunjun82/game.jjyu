@@ -1,0 +1,32 @@
+{
+  "slug": "squirrel-sheriff",
+  "titleEn": "Squirrel_Sheriff",
+  "titleKo": "다람쥐 키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjNfMjk3/MDAxNzk1NDMxMDkyMzgx.Vme19L8SlmJmNnsVVNgjmCOme75tH1J14w0d2S0mEMMg.8pNdXh6XdWgguZaB9FS-NOmdsVOsBKEKn1BLsRkk0p0g.JPEG/%EA%B7%B8%EB%A6%BC1_01_%ED%91%9C%EC%A7%80.jpg",
+  "source": "naver-lounge",
+  "loungeId": "Squirrel_Sheriff",
+  "sourceUrl": "https://game.naver.com/lounge/Squirrel_Sheriff/board/detail/8500794",
+  "howTo": "",
+  "postCount": 2,
+  "updatedAt": "2026-11-24T00:23:08.977Z",
+  "codes": [
+    {
+      "code": "SIEGE1122",
+      "reward": "",
+      "expiry": "2026-12-21",
+      "postedAt": "2026-11-23",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "LEGEND1116",
+      "reward": "",
+      "expiry": "2026-12-14",
+      "postedAt": "2026-11-23",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    }
+  ]
+}
