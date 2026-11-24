@@ -5,8 +5,18 @@
   "image": "https://media.pocketgamer.com/artwork/na-31024-1611513068/genshin%20impact%20ios%20android%20redeem%20code%20title.JPG",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T09:57:49.253Z",
+  "updatedAt": "2026-11-24T22:33:21.631Z",
   "codes": [
+    {
+      "code": "원석",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-25",
+      "sourceUrl": "https://blog.naver.com/bj_15194/224490656427",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "status": "active"
+    },
     {
       "code": "POYMANSXF877",
       "reward": "",
@@ -14,18 +24,8 @@
       "postedAt": "2026-11-23",
       "sourceUrl": "https://blog.naver.com/jonges_/224488563614",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
-    },
-    {
-      "code": "CDOF4X83H7X2",
-      "reward": "",
-      "expiry": "2026-11-24",
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/fixxoil51/224483353891",
-      "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
     },
     {
       "code": "DEVNOTE2026",
@@ -68,23 +68,13 @@
       "status": "active"
     },
     {
-      "code": "NEEIJB764CA3",
+      "code": "CDOF4X83H7X2",
       "reward": "",
       "expiry": "2026-11-24",
       "postedAt": "2026-11-19",
       "sourceUrl": "https://blog.naver.com/fixxoil51/224483353891",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
-    },
-    {
-      "code": "NEEI8A8341OW",
-      "reward": "",
-      "expiry": "2026-11-24",
-      "postedAt": "2026-11-19",
-      "sourceUrl": "https://blog.naver.com/fixxoil51/224483353891",
-      "firstSeen": "2026-10-13",
-      "lastSeen": "2026-11-24",
+      "firstSeen": "2026-11-15",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -114,7 +104,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jjsabu/224467069722",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -124,7 +114,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jjsabu/224467069722",
       "firstSeen": "2026-11-04",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -134,7 +124,17 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jjsabu/224467069722",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "status": "expired"
+    },
+    {
+      "code": "NEEIJB764CA3",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/fixxoil51/224483353891",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -174,7 +174,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jjsabu/224467069722",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -185,6 +185,16 @@
       "sourceUrl": "https://blog.naver.com/hehoworld/224422339020",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-16",
+      "status": "expired"
+    },
+    {
+      "code": "NEEI8A8341OW",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/fixxoil51/224483353891",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -314,7 +324,7 @@
       "postedAt": "2026-11-06",
       "sourceUrl": "https://blog.naver.com/jjsabu/224467069722",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {

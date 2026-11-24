@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T10:05:15.460Z",
+  "updatedAt": "2026-11-24T22:40:14.782Z",
   "codes": [
+    {
+      "code": "MAGICAL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-12",
+      "sourceUrl": "https://blog.naver.com/storm18/224474424561",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-25",
+      "status": "active"
+    },
     {
       "code": "SPECIAL",
       "reward": "",
@@ -15,36 +25,6 @@
       "sourceUrl": "https://blog.naver.com/gogh368/224485678165",
       "firstSeen": "2026-11-21",
       "lastSeen": "2026-11-24",
-      "status": "active"
-    },
-    {
-      "code": "MAGICAL",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/storm18/224474424561",
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-24",
-      "status": "active"
-    },
-    {
-      "code": "HANAWOTADOTTE",
-      "reward": "",
-      "expiry": "2026-11-24",
-      "postedAt": "2026-11-20",
-      "sourceUrl": "https://blog.naver.com/riwen/224483170286",
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-20",
-      "status": "expired"
-    },
-    {
-      "code": "KIRAKIRAERIKA",
-      "reward": "",
-      "expiry": "2026-11-24",
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/gamedawoom/224479263778",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-18",
       "status": "expired"
     },
     {
@@ -62,9 +42,19 @@
       "reward": "",
       "expiry": "2026-11-17",
       "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224472035610",
+      "sourceUrl": "https://blog.naver.com/haryungame/224471988677",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "status": "expired"
+    },
+    {
+      "code": "HANAWOTADOTTE",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-20",
+      "sourceUrl": "https://blog.naver.com/riwen/224483170286",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-20",
       "status": "expired"
     },
     {
@@ -74,7 +64,17 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/doek11/224469282439",
       "firstSeen": "2026-10-30",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "status": "expired"
+    },
+    {
+      "code": "KIRAKIRAERIKA",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/gamedawoom/224479263778",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-18",
       "status": "expired"
     }
   ]

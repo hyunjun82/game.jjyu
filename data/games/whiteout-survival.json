@@ -5,57 +5,47 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T09:58:25.908Z",
+  "updatedAt": "2026-11-24T22:34:00.576Z",
   "codes": [
     {
       "code": "WORKERSTHANKS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-24",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
       "code": "OFFICIALSTORE",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-24",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
       "code": "WOS26TGS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-24",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
       "code": "HowieLovesWOS",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-24",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
-    },
-    {
-      "code": "A7K9M2",
-      "reward": "",
-      "expiry": "2026-11-24",
-      "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
-      "firstSeen": "2026-11-22",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
     },
     {
       "code": "WOS2026GLOBALWAR",
@@ -64,7 +54,7 @@
       "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224481015367",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
@@ -74,7 +64,7 @@
       "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224481015367",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
@@ -84,7 +74,7 @@
       "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224481015367",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
@@ -94,18 +84,28 @@
       "postedAt": "2026-11-18",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224481015367",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
       "code": "GuDokYTKOR",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-24",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
+    },
+    {
+      "code": "A7K9M2",
+      "reward": "",
+      "expiry": "2026-11-24",
+      "postedAt": "2026-11-25",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-25",
+      "status": "expired"
     },
     {
       "code": "HangulDay2026",
@@ -134,7 +134,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -144,7 +144,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {
@@ -154,7 +154,7 @@
       "postedAt": "2026-11-05",
       "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "expired"
     },
     {

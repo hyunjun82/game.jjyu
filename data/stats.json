@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T17:01:26.162Z",
+  "generatedAt": "2026-11-24T22:50:35.307Z",
   "today": "2026-11-25",
-  "todayNew": 1,
+  "todayNew": 6,
   "totals": {
     "games": 457,
-    "codes": 6493,
-    "active": 1061,
-    "expired": 5432,
-    "withExpiry": 3769
+    "codes": 6498,
+    "active": 1067,
+    "expired": 5431,
+    "withExpiry": 3773
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-25",
-      "count": 1
+      "count": 6
     }
   ],
   "expiringSoon": [
@@ -401,6 +401,11 @@
       "total": 18
     },
     {
+      "slug": "solo-leveling-arise",
+      "active": 17,
+      "total": 19
+    },
+    {
       "slug": "apex-girls",
       "active": 16,
       "total": 71
@@ -446,16 +451,6 @@
       "total": 13
     },
     {
-      "slug": "honkai-star-rail",
-      "active": 12,
-      "total": 40
-    },
-    {
-      "slug": "solo-leveling-arise",
-      "active": 12,
-      "total": 18
-    },
-    {
       "slug": "sword-frontier",
       "active": 12,
       "total": 28
@@ -469,6 +464,11 @@
       "slug": "gray-saga",
       "active": 11,
       "total": 14
+    },
+    {
+      "slug": "sabuk-ice-kingdom",
+      "active": 11,
+      "total": 18
     }
   ],
   "noImage": 105

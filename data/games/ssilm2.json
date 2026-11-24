@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T10:04:11.101Z",
+  "updatedAt": "2026-11-24T22:39:11.505Z",
   "codes": [
     {
       "code": "SEALM2WATCHGIFT",
@@ -14,7 +14,7 @@
       "postedAt": "2026-10-28",
       "sourceUrl": "https://blog.naver.com/jjsabu/224456661819",
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
@@ -24,37 +24,37 @@
       "postedAt": "2026-10-28",
       "sourceUrl": "https://blog.naver.com/jjsabu/224456661819",
       "firstSeen": "2026-10-25",
-      "lastSeen": "2026-11-24",
-      "status": "active"
-    },
-    {
-      "code": "SEALM2LIVESTART",
-      "reward": "",
-      "expiry": "2026-11-30",
-      "postedAt": "2026-10-26",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224453137587",
-      "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-24",
-      "status": "active"
-    },
-    {
-      "code": "SEALM2LIVEBOOST",
-      "reward": "",
-      "expiry": "2026-11-30",
-      "postedAt": "2026-10-26",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224453137587",
-      "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
       "code": "SEALM2TOP1",
       "reward": "",
       "expiry": "2026-11-30",
-      "postedAt": "2026-10-26",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224453137587",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224456661819",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
+      "status": "active"
+    },
+    {
+      "code": "SEALM2LIVESTART",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224456661819",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-11-25",
+      "status": "active"
+    },
+    {
+      "code": "SEALM2LIVEBOOST",
+      "reward": "",
+      "expiry": "2026-11-30",
+      "postedAt": "2026-10-28",
+      "sourceUrl": "https://blog.naver.com/jjsabu/224456661819",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-11-25",
       "status": "active"
     }
   ]
