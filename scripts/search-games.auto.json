@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-24T05:45:38.367Z",
+  "generatedAt": "2026-11-24T16:39:25.586Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -33,22 +33,64 @@
       "titleEn": "Torchlight_Infinite"
     },
     {
-      "slug": "mir-m",
-      "loungeId": "MirM",
-      "titleKo": "미르M",
-      "titleEn": "Mir M"
-    },
-    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
     },
     {
+      "slug": "angel-knights",
+      "loungeId": "Angel_Knights",
+      "titleKo": "엔젤나이츠",
+      "titleEn": "Angel Knights"
+    },
+    {
+      "slug": "bum-the-age-of-romance",
+      "loungeId": "BUM_The_age_of_Romance",
+      "titleKo": "범:낭만의 시대",
+      "titleEn": "Bum The Age Of Romance"
+    },
+    {
+      "slug": "cabal-red",
+      "loungeId": "CABAL_RED",
+      "titleKo": "카발RED",
+      "titleEn": "Cabal Red"
+    },
+    {
+      "slug": "catoutdoor",
+      "loungeId": "catoutdoor",
+      "titleKo": "숲속 고양이마을",
+      "titleEn": "Catoutdoor"
+    },
+    {
+      "slug": "clash-summoners",
+      "loungeId": "Clash_Summoners",
+      "titleKo": "클래시 서머너즈",
+      "titleEn": "Clash Summoners"
+    },
+    {
+      "slug": "disgaea-rpg",
+      "loungeId": "DISGAEA_RPG",
+      "titleKo": "마계전기 DISGAEA RPG",
+      "titleEn": "Disgaea Rpg"
+    },
+    {
+      "slug": "disney-realm-breakers",
+      "loungeId": "Disney_Realm_Breakers",
+      "titleKo": "디즈니 렐름 브레이커스",
+      "titleEn": "Disney Realm Breakers"
+    },
+    {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
+    },
+    {
+      "slug": "dothero",
+      "loungeId": "dothero",
+      "titleKo": "도트 공주들 구하기",
+      "titleEn": "Dothero"
     },
     {
       "slug": "dragonblade-grow",
@@ -81,18 +123,6 @@
       "titleEn": "Monsterhunteroutlanders"
     },
     {
-      "slug": "overlord-the-lord-of-nazarick",
-      "loungeId": "OVERLORD_The_Lord_of_Nazarick",
-      "titleKo": "오버로드: 나자릭의 왕",
-      "titleEn": "Overlord The Lord Of Nazarick"
-    },
-    {
-      "slug": "pixel-heroes-adventure",
-      "loungeId": "PixelHeroesAdventure",
-      "titleKo": "픽셀 히어로즈 어드벤처: MMORPG",
-      "titleEn": "Pixel Heroes Adventure"
-    },
-    {
       "slug": "play-together",
       "loungeId": "Play_Together",
       "titleKo": "플레이투게더",
@@ -105,58 +135,10 @@
       "titleEn": "Pmang New Matgo"
     },
     {
-      "slug": "ptrctlt",
-      "loungeId": "ptrctlt",
-      "titleKo": "파트롱2:컨트랙트",
-      "titleEn": "Ptrctlt"
-    },
-    {
-      "slug": "puppy-three-kingdoms",
-      "loungeId": "puppy_three_kingdoms",
-      "titleKo": "멍멍삼국",
-      "titleEn": "Puppy Three Kingdoms"
-    },
-    {
-      "slug": "red-city",
-      "loungeId": "red_city",
-      "titleKo": "붉은 도시",
-      "titleEn": "Red City"
-    },
-    {
       "slug": "redmythnezha",
       "loungeId": "redmythnezha",
       "titleKo": "붉은 신화 : 나타",
       "titleEn": "Redmythnezha"
-    },
-    {
-      "slug": "res",
-      "loungeId": "RES",
-      "titleKo": "레조넌스",
-      "titleEn": "Res"
-    },
-    {
-      "slug": "rin-m",
-      "loungeId": "RinM",
-      "titleKo": "린M:잊혀진 유산",
-      "titleEn": "Rin M"
-    },
-    {
-      "slug": "rise-god-idle",
-      "loungeId": "Rise_God_Idle",
-      "titleKo": "라이즈 신 키우기",
-      "titleEn": "Rise God Idle"
-    },
-    {
-      "slug": "rookie-witch-rpg",
-      "loungeId": "rookie_witch_RPG",
-      "titleKo": "신입마녀 키우기 : 방치형 RPG",
-      "titleEn": "Rookie Witch Rpg"
-    },
-    {
-      "slug": "running-three-kingdoms",
-      "loungeId": "RunningThreeKingdoms",
-      "titleKo": "런닝 삼국",
-      "titleEn": "Running Three Kingdoms"
     },
     {
       "slug": "rush-three-kingdom",
@@ -183,22 +165,10 @@
       "titleEn": "Stone Three Kingdoms"
     },
     {
-      "slug": "the-pixel-ark",
-      "loungeId": "THE_PIXEL_ARK",
-      "titleKo": "픽셀방주",
-      "titleEn": "The Pixel Ark"
-    },
-    {
       "slug": "wtbk",
       "loungeId": "wtbk",
       "titleKo": "왓더뼈킹",
       "titleEn": "wtbk"
-    },
-    {
-      "slug": "zombie-hunter",
-      "loungeId": "ZombieHunter",
-      "titleKo": "이세계 좀비 헌터",
-      "titleEn": "Zombie Hunter"
     },
     {
       "slug": "tree-world",
