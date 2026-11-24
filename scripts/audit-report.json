@@ -1,25 +1,50 @@
 {
- "generatedAt": "2026-11-23T23:46:45.866Z",
+ "generatedAt": "2026-11-24T09:42:05.776Z",
  "window": "20261122~20261124",
- "lounges": 2404,
- "posts": 349,
- "couponPosts": 29,
+ "lounges": 2407,
+ "posts": 564,
+ "couponPosts": 40,
  "fixedTracked": [
-  "비스트 로드: The New Land | BLS1EIU9U | 🎉혜택 타임🎉",
-  "소드 x 스태프 | WELCOME03 | 🎁 주간 시크릿 코드 대방출!"
+  "오피스 퀸 키우기 | S1-S194 | [이벤트] 「오피스 퀸 키우기」 소원 엄선!! 11월25일~11월28일 ",
+  "라그나로크 오리진 클래식 | ROOCWISHLIGHT | ✦ 등불 축제 기념 쿠폰 코드 안내 ✦",
+  "로그W: 리메인즈 오브 갓 | ROW1241A | 로그W 향후 개발 및 업데이트 계획 안내",
+  "탑 히어로즈 | GB4CBE4ADD5B | 공식 스토어|🐉 콜라보 사전 혜택 2탄 오픈!"
  ],
  "addedLounges": [
-  "다람쥐 키우기 (Squirrel_Sheriff) → /squirrel-sheriff/ | SIEGE1122, LEGEND1116"
+  "귀혼키우기 (GhostSoulAFK) → /ghost-soul-afk/ | SUPPORT1124, GRANDOPEN1124",
+  "웨이스트 건스타 : Idle RPG (Waste_Gunstar_Idle_RPG) → /waste-gunstar-idle-rpg/ | NG48566"
  ],
  "labelOnly": [
+  "이터널 리턴 | 2026-11-24 | AI 스트리머 루미 24시간 생방송 안내",
   "드래곤에어 : 침묵의 신 | 2026-11-23 | 【이벤트】 🐀 세 개의 귀 의뢰 - 장사는 역시 수완이지! 💰",
+  "드림 가든: 추억의 힐링 경영 | 2026-11-24 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
+  "귀혼키우기 | 2026-11-24 | 🎟️쿠폰 등록방법 안내",
+  "호드 워:어벤저의 소환 | 2026-11-24 | 주간 이벤트-정답을 맞혀보세요!(11/24-11/29)",
+  "아이들 엔젤스 : 여신전쟁 | 2026-11-24 | 11월 26일 이벤트",
   "루미마스터 | 2026-11-22 | [공지사항] S2 시즌 '어둠과 정령' 새로운 소식이 도착했어요!",
+  "전생했더니 검 한 자루 | 2026-11-24 | 🧠 초성 퀴즈! 숨겨진 정답을 찾아라!",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-24 | [라운지 이벤트]주간 퀴즈 이벤트",
+  "스카이 어비스: 혈맹의 서약 | 2026-11-24 | [11/24~11/30] 충전 센터 한정 특혜 패키지-2탄",
   "스카이 어비스: 혈맹의 서약 | 2026-11-23 | ☀영보 선물GO!2탄:누적 충전 이벤트(11/23~11/29)",
   "영혼군단 키우기: 방치형 소울 RPG | 2026-11-23 | [라운지이벤트] 픽업 캐릭터 \"루즈크\" 자랑 이벤트",
   "소드 앤 프론티아 | 2026-11-23 | 주간 미니 이벤트: 🎀여신 이름 맞추기🤔❓",
   "잔불의 기사 키우기: 방치형 RPG | 2026-11-23 | [공지] 🔥 잔불의 기사 공식 라운지에 오신 걸 환영합니다!",
   "잔불의 기사 키우기: 방치형 RPG | 2026-11-23 | [사전예약] 🔥 잔불의 기사 사전예약 안내",
-  "잔불의 기사 키우기: 방치형 RPG | 2026-11-23 |  [이벤트] 🎉 사전예약 · 출시 기념 이벤트 안내"
+  "잔불의 기사 키우기: 방치형 RPG | 2026-11-23 |  [이벤트] 🎉 사전예약 · 출시 기념 이벤트 안내",
+  "THE 라그나로크 | 2026-11-24 | 다가오는 겨울을 대비하여 이벤트",
+  "삼국지 GO! : 방치형 키우기 RPG | 2026-11-24 | [안내] 삼국지 GO! 운영정책 안내"
  ],
- "imageOnly": []
+ "imageOnly": [
+  {
+   "game": "귀혼키우기",
+   "loungeId": "GhostSoulAFK",
+   "feedId": 8502560,
+   "date": "2026-11-24",
+   "title": "🎟️쿠폰 등록방법 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMjNfMjQw/MDAxNzk1NDA5MTg5MDkz.57rWmg4fPie-wroMm3S8Ml_UnOyn5l68pP8d3eqsM0wg.C0ICj8t3_NLx3ZLhLgnEw5oy-SaUBPNC2NzFGlR8qJQg.PNG/%EC%BF%A0%ED%8F%B0%EC%9E%85%EB%A0%A52.png?type=w1678",
+    "https://nng-phinf.pstatic.net/MjAyNjExMjNfNDYg/MDAxNzk1NDA5MDUzOTQw.7NkhyIhbbQ5fKDh2nlTK3L-1NDPsJMehDAx6mjHCA4cg.dsfI0geK4ZE8AZmiIL1J-aGSGUvEIB2ihbScQAXFv3gg.PNG/%EC%BF%A0%ED%8F%B0%EC%9E%85%EB%A0%A5.png?type=w1678"
+   ]
+  }
+ ]
 }

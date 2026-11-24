@@ -5,14 +5,54 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T00:05:02.576Z",
+  "updatedAt": "2026-11-24T09:58:25.908Z",
   "codes": [
+    {
+      "code": "WORKERSTHANKS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "OFFICIALSTORE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "WOS26TGS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "HowieLovesWOS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
     {
       "code": "A7K9M2",
       "reward": "",
       "expiry": "2026-11-24",
-      "postedAt": "2026-11-22",
-      "sourceUrl": "https://blog.naver.com/jjuba424/224486993282",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
       "firstSeen": "2026-11-22",
       "lastSeen": "2026-11-24",
       "status": "active"
@@ -58,6 +98,16 @@
       "status": "active"
     },
     {
+      "code": "GuDokYTKOR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/znvhsdl/224490202558",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
       "code": "HangulDay2026",
       "reward": "",
       "expiry": null,
@@ -89,16 +139,6 @@
     },
     {
       "code": "SpookySeason26",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/jonges_/224465393364",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
-    },
-    {
-      "code": "GuDokYTKOR",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-05",

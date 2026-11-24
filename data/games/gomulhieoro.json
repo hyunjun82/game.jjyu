@@ -5,8 +5,38 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T00:13:37.654Z",
+  "updatedAt": "2026-11-24T10:06:33.406Z",
   "codes": [
+    {
+      "code": "CLANUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224490153783",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "LEVELUP",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224490153783",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "THANKYOU1ST",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/jeonghoblog/224490153783",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
     {
       "code": "GOMUL777",
       "reward": "",
@@ -25,26 +55,6 @@
       "sourceUrl": "https://blog.naver.com/dustpeodls/224471851039",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-23",
-      "status": "expired"
-    },
-    {
-      "code": "THANKYOU1ST",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-06",
-      "sourceUrl": "https://blog.naver.com/blackwz/224467060563",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
-    },
-    {
-      "code": "LEVELUP",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-06",
-      "sourceUrl": "https://blog.naver.com/blackwz/224467060563",
-      "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {

@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMTdfMTY4/MDAxNzk0ODg1MDI1ODMy.GhIZTSwZ2yh94tbows62ZpE7a5KNlVuqljNql8xa6iEg.xOdUUbPbGPJUu3uXo4kTMwDfhdBlTfQP83NpW7YLj9sg.JPEG/%EC%BF%A0%ED%8F%B0%EC%BD%94%EB%93%9C_(800_X_150).jpg",
   "source": "naver-lounge",
   "loungeId": "ROGW_Remains_Of_Gods",
-  "sourceUrl": "https://game.naver.com/lounge/ROGW_Remains_Of_Gods/board/detail/8499165",
+  "sourceUrl": "https://game.naver.com/lounge/ROGW_Remains_Of_Gods/board/detail/8503259",
   "howTo": "①메인 화면 좌측 상단 캐릭터 프로필 - [설정] 클릭 ②'코드 보상' 클릭 ③쿠폰 입력 후 보상 수령 (단, 쿠폰은 캐릭터 당 1회 사용 가능)",
-  "postCount": 32,
-  "updatedAt": "2026-11-24T05:46:08.334Z",
+  "postCount": 33,
+  "updatedAt": "2026-11-24T10:10:26.557Z",
   "codes": [
+    {
+      "code": "ROW1241A",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
     {
       "code": "b72fpvn",
       "reward": "",

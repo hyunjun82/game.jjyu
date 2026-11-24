@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T06:08:17.787Z",
+  "generatedAt": "2026-11-24T10:15:13.157Z",
   "today": "2026-11-24",
-  "todayNew": 16,
+  "todayNew": 31,
   "totals": {
-    "games": 455,
-    "codes": 6477,
-    "active": 1064,
-    "expired": 5413,
-    "withExpiry": 3763
+    "games": 457,
+    "codes": 6492,
+    "active": 1084,
+    "expired": 5408,
+    "withExpiry": 3768
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-24",
-      "count": 16
+      "count": 31
     }
   ],
   "expiringSoon": [
@@ -363,8 +363,8 @@
       "days": 2
     },
     {
-      "slug": "samgukji-origin2",
-      "code": "7093-e2a763a26-1",
+      "slug": "reverse-1999",
+      "code": "에파이스토노스의지배자",
       "expiry": "2026-11-26",
       "days": 2
     }
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 34,
-      "total": 34
+      "active": 35,
+      "total": 35
     },
     {
       "slug": "changsulsa-kiugix",

@@ -5,15 +5,25 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T00:09:33.239Z",
+  "updatedAt": "2026-11-24T10:02:54.689Z",
   "codes": [
     {
-      "code": "1T1G2D2",
+      "code": "THANKS4WORK",
       "reward": "",
-      "expiry": "2026-11-25",
+      "expiry": null,
       "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/daseo11/224488458762",
-      "firstSeen": "2026-11-22",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "KS27TGS",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
+      "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24",
       "status": "active"
     },
@@ -22,7 +32,17 @@
       "reward": "",
       "expiry": "2026-11-26",
       "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/daseo11/224488458762",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
+      "firstSeen": "2026-11-22",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "1T1G2D2",
+      "reward": "",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
       "firstSeen": "2026-11-22",
       "lastSeen": "2026-11-24",
       "status": "active"
@@ -31,8 +51,8 @@
       "code": "FORTHEKINGDOM",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-11-22",
-      "sourceUrl": "https://blog.naver.com/jonges_/224487120214",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-24",
       "status": "active"
@@ -56,26 +76,6 @@
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-11-24",
       "status": "active"
-    },
-    {
-      "code": "KS27TGS",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/danbong23/224466384929",
-      "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
-    },
-    {
-      "code": "THANKS4WORK",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-05",
-      "sourceUrl": "https://blog.naver.com/danbong23/224466384929",
-      "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
     },
     {
       "code": "CHALLENGE26",

@@ -1,0 +1,32 @@
+{
+  "slug": "ghost-soul-afk",
+  "titleEn": "GhostSoulAFK",
+  "titleKo": "귀혼키우기",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTgz/MDAxNzkxMjYwMjAwMzgz.6a8CF_ZkrQNZTcvr1ON1s3xdRURnVJYmLNEI70_RNygg.4IqupYUlEePAJ5ZverpF4i5G79IUA7yc-Zt2N34Vey0g.PNG/GSA_ICON_01.png",
+  "source": "naver-lounge",
+  "loungeId": "GhostSoulAFK",
+  "sourceUrl": "https://game.naver.com/lounge/GhostSoulAFK/board/detail/8502563",
+  "howTo": "(11월 24일 기준) 쿠폰 코드 사용기한 우편 내 보상 보관 기간 SUPPORT1124",
+  "postCount": 5,
+  "updatedAt": "2026-11-24T10:15:03.417Z",
+  "codes": [
+    {
+      "code": "SUPPORT1124",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
+    {
+      "code": "GRANDOPEN1124",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    }
+  ]
+}
