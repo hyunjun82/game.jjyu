@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T00:23:20.620Z",
+  "generatedAt": "2026-11-24T06:08:17.787Z",
   "today": "2026-11-24",
-  "todayNew": 13,
+  "todayNew": 16,
   "totals": {
     "games": 455,
-    "codes": 6474,
-    "active": 1061,
+    "codes": 6477,
+    "active": 1064,
     "expired": 5413,
-    "withExpiry": 3761
+    "withExpiry": 3763
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-24",
-      "count": 13
+      "count": 16
     }
   ],
   "expiringSoon": [
@@ -466,9 +466,9 @@
       "total": 40
     },
     {
-      "slug": "gray-saga",
+      "slug": "dragon-traveler",
       "active": 11,
-      "total": 14
+      "total": 96
     }
   ],
   "noImage": 105

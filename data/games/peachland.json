@@ -2,14 +2,23 @@
   "slug": "peachland",
   "titleEn": "Peachland",
   "titleKo": "산너머 도원마을",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjJfMTUx/MDAxNzkyNjU0MzgwMDUx._ei7RhALSNF7CpxYNJp8pLkKGNJ_L3ovDhqNVVYM0EMg.y81dwbj3PEgcK4JZyzcKi_WylNB6QDxx5RrG76o0xP8g.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjNfMTEw/MDAxNzk1NDIyNDUwOTAy.QGz2pAxc6eZQOXFtTb5LkO08To8_rXNlAdBm9ATanVIg.tBSasMKL5sMiBnUVoFdzKQ_m97pP_8w-kntIsLVZqpsg.PNG/%EA%B5%90%ED%99%98%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "peachland",
-  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8403094",
+  "sourceUrl": "https://game.naver.com/lounge/peachland/board/detail/8502057",
   "howTo": "산너머 도원마을에서 무무와 함께 풍성한 수확의 기쁨을 마음껏 누려 보세무✨",
-  "postCount": 6,
-  "updatedAt": "2026-11-24T00:20:06.249Z",
+  "postCount": 7,
+  "updatedAt": "2026-11-24T05:47:58.343Z",
   "codes": [
+    {
+      "code": "MUMUSTITCH",
+      "reward": "",
+      "expiry": "2026-12-04",
+      "postedAt": "2026-11-24",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24",
+      "status": "active"
+    },
     {
       "code": "GIFT2026NOV",
       "reward": "",
