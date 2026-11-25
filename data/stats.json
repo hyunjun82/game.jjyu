@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-25T01:39:38.401Z",
+  "generatedAt": "2026-11-25T09:00:38.164Z",
   "today": "2026-11-25",
-  "todayNew": 10,
+  "todayNew": 33,
   "totals": {
-    "games": 457,
-    "codes": 6502,
-    "active": 1070,
-    "expired": 5432,
-    "withExpiry": 3776
+    "games": 460,
+    "codes": 6525,
+    "active": 1095,
+    "expired": 5430,
+    "withExpiry": 3781
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-25",
-      "count": 10
+      "count": 33
     }
   ],
   "expiringSoon": [
@@ -416,6 +416,11 @@
       "total": 59
     },
     {
+      "slug": "randomgarden",
+      "active": 16,
+      "total": 16
+    },
+    {
       "slug": "aniimo",
       "active": 15,
       "total": 19
@@ -464,11 +469,6 @@
       "slug": "gray-saga",
       "active": 11,
       "total": 14
-    },
-    {
-      "slug": "sabuk-ice-kingdom",
-      "active": 11,
-      "total": 18
     }
   ],
   "noImage": 105

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/DreamTraveler/board/detail/8458988",
   "howTo": "",
   "postCount": 22,
-  "updatedAt": "2026-11-25T01:17:16.711Z",
+  "updatedAt": "2026-11-25T08:54:48.620Z",
   "codes": [
     {
       "code": "pvvhhk8",
@@ -123,15 +123,6 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-08-29",
-      "firstSeen": "2026-09-13",
-      "lastSeen": "2026-11-25",
-      "status": "expired"
-    },
-    {
-      "code": "WEEK6SV",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-08-22",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-11-25",
       "status": "expired"
@@ -276,6 +267,15 @@
       "reward": "",
       "expiry": null,
       "postedAt": "2026-07-18",
+      "firstSeen": "2026-09-13",
+      "lastSeen": "2026-11-25",
+      "status": "expired"
+    },
+    {
+      "code": "WEEK6SV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-08-22",
       "firstSeen": "2026-09-13",
       "lastSeen": "2026-11-25",
       "status": "expired"

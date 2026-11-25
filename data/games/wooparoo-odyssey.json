@@ -2,14 +2,23 @@
   "slug": "wooparoo-odyssey",
   "titleEn": "Wooparoo_Odyssey",
   "titleKo": "우파루 오딧세이",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTBfMTQy/MDAxNzk0Mjc1MzgyNzQ0._hENfTqgwNo4g5lafWLZE7BzELJc3BZVQZDKqJPpZgwg.h2ElqbsxCrpLvUDxm-qRljxiBoKYp6_6hPn-OzGCYskg.JPEG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EB%8C%80%ED%91%9C%EB%B0%B0%EB%84%88_%EC%9D%B4%EB%B2%A4%ED%8A%B8_320x180.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjRfMjQw/MDAxNzk1NDg4NzAzNTk0.K1dc460YcuWhVxwVuVKgUJ_TSMRu6EsdyBR8O2-W63Mg.WYaHpm-e2k2Q6O5F0GFjbA-1B9q9yi7gt160f9monDog.JPEG/%EB%9D%BC%EC%9A%B4%EC%A7%80_%EB%8C%80%ED%91%9C%EB%B0%B0%EB%84%88_%EC%9D%B4%EB%B2%A4%ED%8A%B8_320x180.jpg",
   "source": "naver-lounge",
   "loungeId": "Wooparoo_Odyssey",
-  "sourceUrl": "https://game.naver.com/lounge/Wooparoo_Odyssey/board/detail/8443380",
+  "sourceUrl": "https://game.naver.com/lounge/Wooparoo_Odyssey/board/detail/8506247",
   "howTo": "",
-  "postCount": 1,
-  "updatedAt": "2026-11-25T01:20:39.084Z",
+  "postCount": 2,
+  "updatedAt": "2026-11-25T08:58:45.780Z",
   "codes": [
+    {
+      "code": "DIAPLEASE",
+      "reward": "",
+      "expiry": "2026-12-09",
+      "postedAt": "2026-11-25",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "status": "active"
+    },
     {
       "code": "WANDAROO",
       "reward": "",

@@ -7,8 +7,8 @@
   "loungeId": "Soul_Strike",
   "sourceUrl": "https://game.naver.com/lounge/Soul_Strike/board/detail/8499290",
   "howTo": "",
-  "postCount": 94,
-  "updatedAt": "2026-11-25T01:17:24.224Z",
+  "postCount": 93,
+  "updatedAt": "2026-11-25T08:54:57.408Z",
   "codes": [
     {
       "code": "SS11P3ZT",
@@ -23,19 +23,19 @@
       "code": "SSDOOMH7",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-06-02",
+      "postedAt": "2026-11-17",
       "firstSeen": "2026-11-23",
       "lastSeen": "2026-11-25",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "SSDOOMT4",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-06-02",
+      "postedAt": "2026-11-17",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-25",
-      "status": "expired"
+      "status": "active"
     },
     {
       "code": "SS11W8RA",

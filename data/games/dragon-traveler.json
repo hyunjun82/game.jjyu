@@ -7,8 +7,8 @@
   "loungeId": "Dragon_Traveler",
   "sourceUrl": "https://game.naver.com/lounge/Dragon_Traveler/board/detail/8502365",
   "howTo": "",
-  "postCount": 71,
-  "updatedAt": "2026-11-25T01:20:09.026Z",
+  "postCount": 70,
+  "updatedAt": "2026-11-25T08:58:14.290Z",
   "codes": [
     {
       "code": "KurumiTokisaki",
@@ -803,15 +803,6 @@
       "status": "expired"
     },
     {
-      "code": "GXGGMNBBLB",
-      "reward": "",
-      "expiry": "2026-10-17",
-      "postedAt": "2026-09-01",
-      "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-25",
-      "status": "expired"
-    },
-    {
       "code": "BZNFLHD",
       "reward": "",
       "expiry": "2026-08-09",
@@ -834,6 +825,15 @@
       "reward": "",
       "expiry": "2026-05-07",
       "postedAt": "2026-05-01",
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-11-25",
+      "status": "expired"
+    },
+    {
+      "code": "GXGGMNBBLB",
+      "reward": "",
+      "expiry": "2026-10-17",
+      "postedAt": "2026-09-01",
       "firstSeen": "2026-09-27",
       "lastSeen": "2026-11-25",
       "status": "expired"

@@ -1,18 +1,31 @@
 {
- "generatedAt": "2026-11-24T22:18:11.667Z",
+ "generatedAt": "2026-11-25T08:14:48.787Z",
  "window": "20261123~20261125",
- "lounges": 2407,
- "posts": 554,
- "couponPosts": 36,
- "fixedTracked": [],
- "addedLounges": [],
+ "lounges": 2409,
+ "posts": 791,
+ "couponPosts": 47,
+ "fixedTracked": [
+  "블리치: 소울 레조넌스 | SAVEMEKUROSAKI | 11/25 점검완료안내",
+  "이터널 에볼루션 | EE11259B8N | 주간 선물 코드",
+  "삼국지 오리진 | 1699-2dd2b96bc-1 | 주간 이벤트 370탄",
+  "삼국지: 제후의 전쟁 | 1699-2dd2b96bc-1 | [제후의 전쟁] 주간 이벤트 12탄",
+  "우파루 오딧세이 | DIAPLEASE | [이벤트]보석아 부탁해 이벤트 출시 기념 쿠폰 안내"
+ ],
+ "addedLounges": [
+  "조선협객전2M (chosunm2) → /chosunm2/ | 0F8B-D32B-0DBD-4E89",
+  "랜덤가든 (randomgarden) → /randomgarden/ | THANKS106, SORRY1117, 1000G, VUPSV, V116V, V115V, V109V, V108V, V107V, VIPCTB, VIPCTB2, VIPCTB3, CBTUP, WINTER, JUMAL, ZEROFILM",
+  "삼국지 GO! : 방치형 키우기 RPG (Three_Kingdoms_Go) → /three-kingdoms-go/ | TKGO1125"
+ ],
  "labelOnly": [
   "이터널 리턴 | 2026-11-24 | AI 스트리머 루미 24시간 생방송 안내",
   "드래곤에어 : 침묵의 신 | 2026-11-23 | 【이벤트】 🐀 세 개의 귀 의뢰 - 장사는 역시 수완이지! 💰",
   "드림 가든: 추억의 힐링 경영 | 2026-11-24 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
+  "꿈의 여행자: 별빛 여정 | 2026-11-25 | [이벤트]🐎최애 탈것 투표!",
   "귀혼키우기 | 2026-11-24 | 🎟️쿠폰 등록방법 안내",
   "호드 워:어벤저의 소환 | 2026-11-24 | 주간 이벤트-정답을 맞혀보세요!(11/24-11/29)",
   "아이들 엔젤스 : 여신전쟁 | 2026-11-24 | 11월 26일 이벤트",
+  "NBA 2K Mobile - 모바일 농구 게임 | 2026-11-25 | [이벤트] 💪마이팀 파워 인증 이벤트",
+  "페르소나5: 더 팬텀 X | 2026-11-25 | 11월 26일(목) 점검 업데이트 안내",
   "전생했더니 검 한 자루 | 2026-11-24 | 🧠 초성 퀴즈! 숨겨진 정답을 찾아라!",
   "스카이 어비스: 혈맹의 서약 | 2026-11-24 | [라운지 이벤트]주간 퀴즈 이벤트",
   "스카이 어비스: 혈맹의 서약 | 2026-11-24 | [11/24~11/30] 충전 센터 한정 특혜 패키지-2탄",
@@ -23,7 +36,9 @@
   "잔불의 기사 키우기: 방치형 RPG | 2026-11-23 | [사전예약] 🔥 잔불의 기사 사전예약 안내",
   "잔불의 기사 키우기: 방치형 RPG | 2026-11-23 |  [이벤트] 🎉 사전예약 · 출시 기념 이벤트 안내",
   "THE 라그나로크 | 2026-11-24 | 다가오는 겨울을 대비하여 이벤트",
-  "삼국지 GO! : 방치형 키우기 RPG | 2026-11-24 | [안내] 삼국지 GO! 운영정책 안내"
+  "삼국지 GO! : 방치형 키우기 RPG | 2026-11-24 | [안내] 삼국지 GO! 운영정책 안내",
+  "트리 오브 세이비어: 네버랜드 | 2026-11-25 |  기억하시나요?  처음 정원에 들어왔을 때 켜졌던 그 작은 불빛;  ﻿",
+  "트리 오브 세이비어: 네버랜드 | 2026-11-25 | 과거의 따뜻한 순간들을 돌아보면, 용사들이 모험 길에서 얼마나 많은 어려움을 겪었든 가정은"
  ],
  "imageOnly": [
   {
@@ -35,6 +50,16 @@
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMjNfMjQw/MDAxNzk1NDA5MTg5MDkz.57rWmg4fPie-wroMm3S8Ml_UnOyn5l68pP8d3eqsM0wg.C0ICj8t3_NLx3ZLhLgnEw5oy-SaUBPNC2NzFGlR8qJQg.PNG/%EC%BF%A0%ED%8F%B0%EC%9E%85%EB%A0%A52.png?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMjNfNDYg/MDAxNzk1NDA5MDUzOTQw.7NkhyIhbbQ5fKDh2nlTK3L-1NDPsJMehDAx6mjHCA4cg.dsfI0geK4ZE8AZmiIL1J-aGSGUvEIB2ihbScQAXFv3gg.PNG/%EC%BF%A0%ED%8F%B0%EC%9E%85%EB%A0%A5.png?type=w1678"
+   ]
+  },
+  {
+   "game": "삼국지: 킹덤",
+   "loungeId": "Samgukji_Kingdom",
+   "feedId": 8505853,
+   "date": "2026-11-25",
+   "title": "[이벤트] ❄️ 겨울 축제 감사 선물! 캐시 쿠폰 충전 혜택 이벤트 안내",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTkg/MDAxNzkzNjkxMDY5MTY2.xAhlxUPeakIx8wq0pv6869n0CTviikDtKIQBTPaf9qkg.Kgab4yVvb-APbAo-XQXswiNrCbDgyC3DwCjvfmAhjjAg.JPEG/%E6%B4%BB%E5%8A%A8-850x170.jpg?type=w1678"
    ]
   }
  ]
