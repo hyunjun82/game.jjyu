@@ -5,16 +5,26 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-25T10:26:44.903Z",
+  "updatedAt": "2026-11-25T21:50:07.731Z",
   "codes": [
+    {
+      "code": "MONMONTOP1",
+      "reward": "",
+      "expiry": "2026-12-16",
+      "postedAt": "2026-11-26",
+      "sourceUrl": "https://blog.naver.com/hyjueng/224491966228",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "MONMON777",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/tisueng12/224490304596",
+      "expiry": "2026-12-16",
+      "postedAt": "2026-11-26",
+      "sourceUrl": "https://blog.naver.com/hyjueng/224491966228",
       "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     }
   ]

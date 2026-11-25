@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8498726",
   "howTo": "① 게임 접속 후, 좌측 상단의 [프로필 아이콘]을 눌러 기본 정보 화면으로 이동합니다. ② [선물 교환]을 누릅니다. ③ [선물 코드]를 입력한 후 [확인]을 누르면 보상을 받을 수 있습니다.",
   "postCount": 373,
-  "updatedAt": "2026-11-25T20:13:22.594Z",
+  "updatedAt": "2026-11-25T21:54:46.963Z",
   "codes": [
     {
       "code": "T5DFSPkn",
@@ -34,6 +34,16 @@
       "expiry": null,
       "postedAt": "2026-11-16",
       "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
+    {
+      "code": "landmark20",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-26",
+      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
+      "firstSeen": "2026-10-15",
       "lastSeen": "2026-11-26",
       "status": "active"
     },
@@ -148,16 +158,6 @@
       "postedAt": "2026-11-03",
       "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-25",
-      "status": "expired"
-    },
-    {
-      "code": "landmark20",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-25",
-      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
-      "firstSeen": "2026-10-15",
       "lastSeen": "2026-11-25",
       "status": "expired"
     }
