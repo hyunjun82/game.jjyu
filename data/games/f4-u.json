@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/F4U/board/detail/8475597",
   "howTo": "",
   "postCount": 2,
-  "updatedAt": "2026-11-25T10:11:11.158Z",
+  "updatedAt": "2026-11-25T20:14:27.017Z",
   "codes": [
     {
       "code": "F4UAPPLEOPEN1117",
@@ -16,16 +16,7 @@
       "expiry": "2026-12-09",
       "postedAt": "2026-11-17",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25",
-      "status": "active"
-    },
-    {
-      "code": "F4UTHANKS1ST1110",
-      "reward": "",
-      "expiry": "2026-11-25",
-      "postedAt": "2026-11-12",
-      "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -44,6 +35,15 @@
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-16",
+      "status": "expired"
+    },
+    {
+      "code": "F4UTHANKS1ST1110",
+      "reward": "",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {

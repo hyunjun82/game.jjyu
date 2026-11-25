@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/Ehrpis/board/detail/8246944",
   "howTo": "",
   "postCount": 12,
-  "updatedAt": "2026-11-25T10:09:15.533Z",
+  "updatedAt": "2026-11-25T20:12:40.386Z",
   "codes": [
-    {
-      "code": "1111PEPE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-11",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-25",
-      "status": "active"
-    },
     {
       "code": "AUTUMN2026",
       "reward": "",
       "expiry": "2026-12-31",
       "postedAt": "2026-09-27",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-09-26",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -43,7 +34,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -52,7 +43,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-09-24",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -61,7 +52,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-08-05",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -71,6 +62,15 @@
       "postedAt": "2026-11-12",
       "firstSeen": "2026-11-12",
       "lastSeen": "2026-11-23",
+      "status": "expired"
+    },
+    {
+      "code": "1111PEPE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-11",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -106,7 +106,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-09-09",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -115,7 +115,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-09-08",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -124,7 +124,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-09-07",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -133,7 +133,7 @@
       "expiry": null,
       "postedAt": "2026-06-14",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -142,7 +142,7 @@
       "expiry": null,
       "postedAt": "2026-06-13",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -151,7 +151,7 @@
       "expiry": null,
       "postedAt": "2026-06-12",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -160,7 +160,7 @@
       "expiry": null,
       "postedAt": "2026-06-11",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     }
   ]

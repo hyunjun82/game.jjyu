@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/TheBloodofYouth/board/detail/8499346",
   "howTo": "쿠폰 사용 경로: 게임 접속 → 프로필 → 교환 코드 → 쿠폰 코드 입력 쿠폰 코드의 빈칸에는 퀴즈 정답에 해당하는 숫자 한 자리를 입력해야 합니다. 잘못된 숫자를 입력하면 쿠폰을 사용할 수 없습니다. 보상은 정답을 입력하여 완성한 쿠폰 코드로 수령할 수 있습니다. 쿠폰 유효기간이 지나면 사용할 수 없으니 2026년 12월 31일(목)까지 사용해 주시기 바랍니다.",
   "postCount": 3,
-  "updatedAt": "2026-11-25T10:06:33.494Z",
+  "updatedAt": "2026-11-25T20:10:12.496Z",
   "codes": [
     {
       "code": "GANGHO80527461",
@@ -16,7 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-22",
       "firstSeen": "2026-11-22",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": null,
       "postedAt": "2026-11-20",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2026-11-30",
       "postedAt": "2026-11-19",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-11-30",
       "postedAt": "2026-11-15",
       "firstSeen": "2026-11-15",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": "2026-11-30",
       "postedAt": "2026-11-13",
       "firstSeen": "2026-11-13",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -97,7 +97,7 @@
       "expiry": "2026-12-31",
       "postedAt": "2026-11-23",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -219,7 +219,7 @@
       "expiry": "2026-10-22",
       "postedAt": "2026-10-12",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -248,7 +248,7 @@
       "expiry": "2026-09-18",
       "postedAt": "2026-09-11",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {

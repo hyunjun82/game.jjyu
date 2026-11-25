@@ -8,24 +8,15 @@
   "sourceUrl": "https://game.naver.com/lounge/1003bk/board/detail/8420448",
   "howTo": "메뉴>설정>계정>쿠폰 번호 입력 ​ 주의사항 ※ 지급된 쿠폰은 계정당 1회만 사용하실 수 있습니다. ※ 해당 쿠폰은 2026년 1월 6일까지 사용 가능합니다.",
   "postCount": 1,
-  "updatedAt": "2026-11-25T10:06:59.848Z",
+  "updatedAt": "2026-11-25T20:10:34.455Z",
   "codes": [
-    {
-      "code": "bxangqwe6w",
-      "reward": "",
-      "expiry": "2026-11-25",
-      "postedAt": "2026-10-29",
-      "firstSeen": "2026-10-29",
-      "lastSeen": "2026-11-25",
-      "status": "active"
-    },
     {
       "code": "e9s1c1aw1o",
       "reward": "",
       "expiry": "2026-11-07",
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -34,7 +25,7 @@
       "expiry": "2026-11-09",
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -43,7 +34,16 @@
       "expiry": "2026-11-08",
       "postedAt": "2026-11-06",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "bxangqwe6w",
+      "reward": "",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-10-29",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": "2026-01-06",
       "postedAt": "2025-12-30",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {

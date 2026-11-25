@@ -2,21 +2,30 @@
   "slug": "legends-reborn",
   "titleEn": "Legends Reborn",
   "titleKo": "Legends Reborn: 마지막 전투",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjA3/MDAxNzkzMjQzMjc5MzUw.CJC-rmMYzv0f46m83zXvhKu9smEXYbERqed9PkLWCPgg.LTG33fHV4pTpqAruqVFwJFqz7koJ23BrxsJEpyP0b4Ig.JPEG/code.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjA5/MDAxNzkzMjQzNTk2NDg0.zMg8XSQeHVWAkSXNWJjEGDeNrjljcJvwWX-IA6Ae1dsg.woDzlZtr4R0dBBXE_0Z_P9TXF5SQmuaVm7U1yWjBuX4g.JPEG/code.jpg",
   "source": "naver-lounge",
   "loungeId": "Legends_Reborn",
-  "sourceUrl": "https://game.naver.com/lounge/Legends_Reborn/board/detail/8472559",
+  "sourceUrl": "https://game.naver.com/lounge/Legends_Reborn/board/detail/8509407",
   "howTo": "게임 내",
   "postCount": null,
-  "updatedAt": "2026-11-25T10:10:22.325Z",
+  "updatedAt": "2026-11-25T20:13:42.324Z",
   "codes": [
+    {
+      "code": "THANKS26",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "TRAIL26",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-17",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {

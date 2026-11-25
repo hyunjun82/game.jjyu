@@ -5,18 +5,18 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjExMjNfMjk3/MDAxNzk1NDMxMDkyMzgx.Vme19L8SlmJmNnsVVNgjmCOme75tH1J14w0d2S0mEMMg.8pNdXh6XdWgguZaB9FS-NOmdsVOsBKEKn1BLsRkk0p0g.JPEG/%EA%B7%B8%EB%A6%BC1_01_%ED%91%9C%EC%A7%80.jpg",
   "source": "naver-lounge",
   "loungeId": "Squirrel_Sheriff",
-  "sourceUrl": "https://game.naver.com/lounge/Squirrel_Sheriff/board/detail/8500794",
+  "sourceUrl": "https://game.naver.com/lounge/Squirrel_Sheriff/board/detail/8508488",
   "howTo": "",
-  "postCount": 3,
-  "updatedAt": "2026-11-25T10:11:13.408Z",
+  "postCount": 4,
+  "updatedAt": "2026-11-25T20:14:28.586Z",
   "codes": [
     {
-      "code": "SIEGE1122",
+      "code": "GRAND2026",
       "reward": "",
-      "expiry": "2026-12-21",
+      "expiry": "2027-02-22",
       "postedAt": "2026-11-23",
-      "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
       "status": "active"
     },
     {
@@ -25,7 +25,16 @@
       "expiry": "2026-12-14",
       "postedAt": "2026-11-23",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-25",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
+    {
+      "code": "SIEGE1122",
+      "reward": "",
+      "expiry": "2026-12-21",
+      "postedAt": "2026-11-23",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-26",
       "status": "active"
     }
   ]
