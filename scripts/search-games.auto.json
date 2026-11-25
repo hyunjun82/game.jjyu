@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-25T01:16:53.661Z",
+  "generatedAt": "2026-11-25T10:05:17.234Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -33,6 +33,12 @@
       "titleEn": "Torchlight_Infinite"
     },
     {
+      "slug": "meow-knights",
+      "loungeId": "Meow_Knights",
+      "titleKo": "냥이 기사단 키우기: 방치형 RPG",
+      "titleEn": "Meow Knights"
+    },
+    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
@@ -43,12 +49,6 @@
       "loungeId": "Dokkaebi_Girl",
       "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
-    },
-    {
-      "slug": "dragon-rider-idle",
-      "loungeId": "Dragon_Rider_Idle",
-      "titleKo": "드래곤 라이더 키우기",
-      "titleEn": "Dragon Rider Idle"
     },
     {
       "slug": "dragonblade-grow",
@@ -63,76 +63,34 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "dragoon-of-the-wind",
-      "loungeId": "Dragoon_Of_The_Wind",
-      "titleKo": "바람의 드래군M",
-      "titleEn": "Dragoon Of The Wind"
+      "slug": "hell-gate",
+      "loungeId": "HELL_GATE",
+      "titleKo": "헬게이트",
+      "titleEn": "Hell Gate"
     },
     {
-      "slug": "dungeonand-breaker",
-      "loungeId": "DungeonandBreaker",
-      "titleKo": "던전앤브레이커",
-      "titleEn": "Dungeonand Breaker"
+      "slug": "hero-raid",
+      "loungeId": "HeroRaid",
+      "titleKo": "용사 키우기",
+      "titleEn": "Hero Raid"
     },
     {
-      "slug": "dungeon-dungeon",
-      "loungeId": "DungeonDungeon",
-      "titleKo": "던전던전",
-      "titleEn": "Dungeon Dungeon"
+      "slug": "hero-raised-by-god",
+      "loungeId": "HeroRaisedByGod",
+      "titleKo": "신이 키우는 용사",
+      "titleEn": "Hero Raised By God"
     },
     {
-      "slug": "dwarfidlerpg",
-      "loungeId": "Dwarfidlerpg",
-      "titleKo": "드워프 키우기 : 방치형RPG",
-      "titleEn": "Dwarfidlerpg"
+      "slug": "honkai-nexus-anima",
+      "loungeId": "Honkai_Nexus_Anima",
+      "titleKo": "붕괴: 넥서스 아니마",
+      "titleEn": "Honkai Nexus Anima"
     },
     {
-      "slug": "dx-awaken",
-      "loungeId": "dx_awaken",
-      "titleKo": "DX: 각성자들",
-      "titleEn": "Dx Awaken"
-    },
-    {
-      "slug": "eggmon",
-      "loungeId": "eggmon",
-      "titleKo": "에그몬 월드:저니",
-      "titleEn": "Eggmon"
-    },
-    {
-      "slug": "elfidle",
-      "loungeId": "elfidle",
-      "titleKo": "엘프키우기",
-      "titleEn": "Elfidle"
-    },
-    {
-      "slug": "eternal-three-kingdoms",
-      "loungeId": "Eternal_Three_Kingdoms",
-      "titleKo": "이터널삼국지",
-      "titleEn": "Eternal Three Kingdoms"
-    },
-    {
-      "slug": "fantasysamgook",
-      "loungeId": "fantasysamgook",
-      "titleKo": "판타지 삼국",
-      "titleEn": "Fantasysamgook"
-    },
-    {
-      "slug": "fresh-rpg",
-      "loungeId": "FreshRPG",
-      "titleKo": "싱싱한RPG : 강남상어 키우기",
-      "titleEn": "Fresh Rpg"
-    },
-    {
-      "slug": "grim-soul",
-      "loungeId": "Grim_Soul",
-      "titleKo": "그림소울",
-      "titleEn": "Grim Soul"
-    },
-    {
-      "slug": "gumihomobile",
-      "loungeId": "gumihomobile",
-      "titleKo": "요신:구미호뎐",
-      "titleEn": "Gumihomobile"
+      "slug": "hwansaenggangho",
+      "loungeId": "hwansaenggangho",
+      "titleKo": "환생강호",
+      "titleEn": "Hwansaenggangho"
     },
     {
       "slug": "idle-king",
@@ -147,10 +105,40 @@
       "titleEn": "Kungfuchaos"
     },
     {
+      "slug": "lost-era-mupa",
+      "loungeId": "LostEra_Mupa",
+      "titleKo": "로스트 이러: 무한 파밍 MMORPG",
+      "titleEn": "Lost Era Mupa"
+    },
+    {
       "slug": "monsterhunteroutlanders",
       "loungeId": "monsterhunteroutlanders",
       "titleKo": "몬스터헌터 아웃랜더스",
       "titleEn": "Monsterhunteroutlanders"
+    },
+    {
+      "slug": "ordinaryday",
+      "loungeId": "ordinaryday",
+      "titleKo": "평범한날 : 청하구 편",
+      "titleEn": "Ordinaryday"
+    },
+    {
+      "slug": "immortal-soul",
+      "loungeId": "Immortal_Soul",
+      "titleKo": "이모탈 소울",
+      "titleEn": "Immortal Soul"
+    },
+    {
+      "slug": "passion-rpg",
+      "loungeId": "PassionRPG",
+      "titleKo": "열정RPG",
+      "titleEn": "Passion Rpg"
+    },
+    {
+      "slug": "path-of-rising",
+      "loungeId": "Path_Of_Rising",
+      "titleKo": "패스 오브 라이징",
+      "titleEn": "Path Of Rising"
     },
     {
       "slug": "play-together",
@@ -205,12 +193,6 @@
       "loungeId": "Tree_World",
       "titleKo": "숲의 소환단:방치형 판타지 수집 RPG",
       "titleEn": "Tree_World"
-    },
-    {
-      "slug": "gfllc-kr",
-      "loungeId": "GFLLC_KR",
-      "titleKo": "소녀전선: 블루코버넌트",
-      "titleEn": "Gfllc Kr"
     }
   ]
 }

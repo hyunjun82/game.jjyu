@@ -5,17 +5,17 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T10:06:41.789Z",
+  "updatedAt": "2026-11-25T10:22:52.453Z",
   "codes": [
     {
       "code": "PTPL1204",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-07",
-      "sourceUrl": "https://blog.naver.com/kdj111111111/224467514800",
+      "expiry": "2027-01-03",
+      "postedAt": "2026-11-25",
+      "sourceUrl": "https://blog.naver.com/meln_/224490772799",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
+      "lastSeen": "2026-11-25",
+      "status": "active"
     }
   ]
 }

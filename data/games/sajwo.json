@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-24T10:07:40.987Z",
+  "updatedAt": "2026-11-25T10:24:09.890Z",
   "codes": [
+    {
+      "code": "WGDVY3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-25",
+      "sourceUrl": "https://blog.naver.com/happysilver_a/224491204515",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25",
+      "status": "active"
+    },
     {
       "code": "WD0KPN",
       "reward": "",
@@ -14,17 +24,7 @@
       "postedAt": "2026-11-20",
       "sourceUrl": "https://blog.naver.com/som-inyoung/224485312787",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-24",
-      "status": "active"
-    },
-    {
-      "code": "JKY3KV",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-18",
-      "sourceUrl": "https://blog.naver.com/amerro/224482536726",
-      "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-25",
       "status": "active"
     },
     {
@@ -45,6 +45,16 @@
       "sourceUrl": "https://blog.naver.com/soso12837/224452203180",
       "firstSeen": "2026-11-20",
       "lastSeen": "2026-11-21",
+      "status": "expired"
+    },
+    {
+      "code": "JKY3KV",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-18",
+      "sourceUrl": "https://blog.naver.com/amerro/224482536726",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-24",
       "status": "expired"
     },
     {

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-25T09:00:38.164Z",
+  "generatedAt": "2026-11-25T10:26:52.415Z",
   "today": "2026-11-25",
-  "todayNew": 33,
+  "todayNew": 46,
   "totals": {
-    "games": 460,
-    "codes": 6525,
-    "active": 1095,
-    "expired": 5430,
-    "withExpiry": 3781
+    "games": 461,
+    "codes": 6538,
+    "active": 1114,
+    "expired": 5424,
+    "withExpiry": 3783
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-25",
-      "count": 33
+      "count": 46
     }
   ],
   "expiringSoon": [
@@ -396,6 +396,11 @@
       "total": 20
     },
     {
+      "slug": "apex-girls",
+      "active": 17,
+      "total": 72
+    },
+    {
       "slug": "raas",
       "active": 17,
       "total": 18
@@ -404,11 +409,6 @@
       "slug": "solo-leveling-arise",
       "active": 17,
       "total": 19
-    },
-    {
-      "slug": "apex-girls",
-      "active": 16,
-      "total": 71
     },
     {
       "slug": "idle-berserker",
@@ -461,15 +461,15 @@
       "total": 28
     },
     {
+      "slug": "zenless-zone-zero",
+      "active": 12,
+      "total": 27
+    },
+    {
       "slug": "busy-savior",
       "active": 11,
       "total": 40
-    },
-    {
-      "slug": "gray-saga",
-      "active": 11,
-      "total": 14
     }
   ],
-  "noImage": 105
+  "noImage": 106
 }
