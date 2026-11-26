@@ -8,25 +8,25 @@
   "sourceUrl": "https://game.naver.com/lounge/Plantis_Zombie_Gangsters/board/detail/8492724",
   "howTo": "개임 내 프로필 -> 교환 -> 교환코드 입력 *교환 후 직접 획득됩니다~ 힘을 팍팍 충전하고 좀비 깡패들을 물리치세요! ✨",
   "postCount": 3,
-  "updatedAt": "2026-11-26T13:02:50.953Z",
+  "updatedAt": "2026-11-26T21:56:00.670Z",
   "codes": [
-    {
-      "code": "M6D3R1",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-21",
-      "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
     {
       "code": "2XQ4F9",
       "reward": "",
       "expiry": null,
       "postedAt": "2026-11-14",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "active"
+    },
+    {
+      "code": "M6D3R1",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-21",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
     },
     {
       "code": "A5P8Z7",
@@ -34,7 +34,7 @@
       "expiry": "2026-11-12",
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {

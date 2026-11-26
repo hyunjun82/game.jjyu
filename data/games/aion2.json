@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T13:06:35.852Z",
+  "updatedAt": "2026-11-26T21:41:00.250Z",
   "codes": [
     {
       "code": "THANKSFROMAION2",
@@ -14,67 +14,7 @@
       "postedAt": "2026-11-20",
       "sourceUrl": "https://blog.naver.com/jjjang1864/224484717530",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "AION2TOGETHER",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "HAPPYDAEVAYEAR",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "LUCKYAION2",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "AION2DAYS100",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "AION2SEASON3",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "AION2SURPRISELIVE",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-17",
-      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
-      "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -84,7 +24,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/bebe_rabit/224469650255",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -94,7 +34,7 @@
       "postedAt": "2026-11-08",
       "sourceUrl": "https://blog.naver.com/game_gallery/224469394657",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -106,6 +46,66 @@
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-09",
       "status": "active"
+    },
+    {
+      "code": "AION2TOGETHER",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "HAPPYDAEVAYEAR",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "LUCKYAION2",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "AION2DAYS100",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "AION2SEASON3",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "AION2SURPRISELIVE",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-17",
+      "sourceUrl": "https://blog.naver.com/naakey/224480282663",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
     },
     {
       "code": "D-31",

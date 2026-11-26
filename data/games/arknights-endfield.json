@@ -5,7 +5,7 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDZfMTIz/MDAxNzkxMjY0MTIxMDg4.ZbHEsjSbcVxiduR8hpwFTqbvD7vu27PdKGX8oXokZEAg.1BlsPljGWj6ltg7Ckec4Q1FcWfpZsU1vLSgVBZ6duO0g.PNG/KR_(2).png",
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T13:07:12.482Z",
+  "updatedAt": "2026-11-26T21:41:33.832Z",
   "codes": [
     {
       "code": "ENDFIELDSTEAM",
@@ -15,37 +15,7 @@
       "sourceUrl": "https://blog.naver.com/reviewer69/224437717178",
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-11-10",
-      "status": "active"
-    },
-    {
-      "code": "ZAU2SYXHWX5L4ZH",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "ENDFIELDGIFT",
-      "reward": "150 Oroberyl, 10k T-Creds, 20 Intermediate Combat Records, 20 Arms INSP Kits",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "ENDFIELD4PC",
-      "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-24",
-      "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
-      "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-26",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "AKENDFIELDSUB",
@@ -54,7 +24,17 @@
       "postedAt": "2026-11-24",
       "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "ZAU2SYXHWX5L4ZH",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -65,6 +45,26 @@
       "sourceUrl": "https://blog.naver.com/trdxcmlsoeorh/224385228424",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-20",
+      "status": "expired"
+    },
+    {
+      "code": "ENDFIELDGIFT",
+      "reward": "150 Oroberyl, 10k T-Creds, 20 Intermediate Combat Records, 20 Arms INSP Kits",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "ENDFIELD4PC",
+      "reward": "13k T-Creds, 2 Advanced Combat Records, 2 Arms INSP Sets [exclusive PC code]",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/seungchuny2/224488958099",
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     }
   ]

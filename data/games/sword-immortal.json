@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/SwordImmortal/board/detail/8404407",
   "howTo": "",
   "postCount": 40,
-  "updatedAt": "2026-11-26T13:00:47.635Z",
+  "updatedAt": "2026-11-26T21:53:52.836Z",
   "codes": [
     {
       "code": "DEMONICEVENT10",
@@ -16,8 +16,8 @@
       "expiry": "2026-11-26",
       "postedAt": "2026-11-03",
       "firstSeen": "2026-11-03",
-      "lastSeen": "2026-11-26",
-      "status": "active"
+      "lastSeen": "2026-11-27",
+      "status": "expired"
     },
     {
       "code": "IMMORTAL2026",
@@ -25,125 +25,8 @@
       "expiry": "2026-11-26",
       "postedAt": "2026-11-03",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "HELLO10OCTOBER",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-10-08",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "HPMIDAUTUMN",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-10-08",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "SKYBLADEJULY07",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "SWIMSUITPARTY",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "SKYBLADE07WKND",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "SUMMERVIBE",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "EVILCULTEVENT",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "EVILSEASONS1",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "GRATSEVILLORDS",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "ZIYUANASTER",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "HELLOSEPTEMBER",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "IMMORTALCITY",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
-    },
-    {
-      "code": "CULTIVATION09",
-      "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-03",
-      "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
-      "status": "active"
+      "lastSeen": "2026-11-27",
+      "status": "expired"
     },
     {
       "code": "SPIRITUALQI",
@@ -151,7 +34,25 @@
       "expiry": "2026-11-01",
       "postedAt": "2026-10-16",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "HELLO10OCTOBER",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "HPMIDAUTUMN",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-10-08",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -160,7 +61,7 @@
       "expiry": "2026-08-28",
       "postedAt": "2026-08-12",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -169,7 +70,106 @@
       "expiry": "2026-08-28",
       "postedAt": "2026-08-12",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "SKYBLADEJULY07",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "SWIMSUITPARTY",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "SKYBLADE07WKND",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "SUMMERVIBE",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "EVILCULTEVENT",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "EVILSEASONS1",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "GRATSEVILLORDS",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "ZIYUANASTER",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "HELLOSEPTEMBER",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "IMMORTALCITY",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "CULTIVATION09",
+      "reward": "",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-03",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -178,7 +178,7 @@
       "expiry": null,
       "postedAt": "2026-07-13",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -187,7 +187,7 @@
       "expiry": null,
       "postedAt": "2026-07-13",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -196,7 +196,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-06-17",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -205,7 +205,7 @@
       "expiry": "2026-09-30",
       "postedAt": "2026-06-17",
       "firstSeen": "2026-09-23",
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     }
   ]
