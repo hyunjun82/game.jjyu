@@ -1,6 +1,6 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-26T12:58:11.643Z",
+  "generatedAt": "2026-11-26T22:07:56.628Z",
   "games": [
     {
       "slug": "three-kingdoms-senkiban",
@@ -27,6 +27,12 @@
       "titleEn": "Torchlight_Infinite"
     },
     {
+      "slug": "tukiers-god-tier-life-idle-tycoon",
+      "loungeId": "Tukiers_God_Tier_Life_Idle_Tycoon",
+      "titleKo": "갓생 사는 토크: 방치형 타이쿤",
+      "titleEn": "Tukiers God Tier Life Idle Tycoon"
+    },
+    {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
       "titleKo": "어쩌다 도굴",
@@ -51,40 +57,10 @@
       "titleEn": "Dragonheir"
     },
     {
-      "slug": "lucifer-idle",
-      "loungeId": "Lucifer_Idle",
-      "titleKo": "루시퍼 키우기",
-      "titleEn": "Lucifer Idle"
-    },
-    {
       "slug": "idle-king",
       "loungeId": "IdleKing",
       "titleKo": "킹방치: 빵지의 제왕",
       "titleEn": "Idle King"
-    },
-    {
-      "slug": "immortal-rising2",
-      "loungeId": "Immortal_Rising2",
-      "titleKo": "임모탈 키우기 2",
-      "titleEn": "Immortal Rising2"
-    },
-    {
-      "slug": "jingyeok",
-      "loungeId": "Jingyeok",
-      "titleKo": "군주의 전쟁: 진격",
-      "titleEn": "Jingyeok"
-    },
-    {
-      "slug": "j-jalltoon-rumble-with-animalfriends",
-      "loungeId": "JJalltoonRumble_with_animalfriends",
-      "titleKo": "짤툰대난투 with. 짐승친구들",
-      "titleEn": "J Jalltoon Rumble With Animalfriends"
-    },
-    {
-      "slug": "k-zombie-saga-idle-game",
-      "loungeId": "K_Zombie_Saga_Idle_Game",
-      "titleKo": "조선 좀비전",
-      "titleEn": "K Zombie Saga Idle Game"
     },
     {
       "slug": "kungfuchaos",
@@ -93,22 +69,28 @@
       "titleEn": "Kungfuchaos"
     },
     {
-      "slug": "langrisser-sea-of-sword",
-      "loungeId": "Langrisser_Sea_of_Sword",
-      "titleKo": "랑그릿사: 검의 바다",
-      "titleEn": "Langrisser Sea Of Sword"
-    },
-    {
-      "slug": "last-cloudia",
-      "loungeId": "Last_Cloudia",
-      "titleKo": "라스트 클라우디아",
-      "titleEn": "Last Cloudia"
+      "slug": "leubens-adventure",
+      "loungeId": "Leubens_Adventure",
+      "titleKo": "루벤의 대모험",
+      "titleEn": "Leubens Adventure"
     },
     {
       "slug": "monsterhunteroutlanders",
       "loungeId": "monsterhunteroutlanders",
       "titleKo": "몬스터헌터 아웃랜더스",
       "titleEn": "Monsterhunteroutlanders"
+    },
+    {
+      "slug": "pirate",
+      "loungeId": "pirate",
+      "titleKo": "우당탕탕 해적단",
+      "titleEn": "Pirate"
+    },
+    {
+      "slug": "pk-world",
+      "loungeId": "PkWorld",
+      "titleKo": "PK월드",
+      "titleEn": "Pk World"
     },
     {
       "slug": "play-together",
@@ -157,6 +139,30 @@
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
+    },
+    {
+      "slug": "three-kingdoms-rise-of-warlords",
+      "loungeId": "Three_kingdoms_Rise_of_Warlords",
+      "titleKo": "삼국지: 군웅할거",
+      "titleEn": "Three Kingdoms Rise Of Warlords"
+    },
+    {
+      "slug": "tt-tiny-tales",
+      "loungeId": "TT_Tiny_Tales",
+      "titleKo": "TT: 타이니 테일즈",
+      "titleEn": "Tt Tiny Tales"
+    },
+    {
+      "slug": "ultirpg",
+      "loungeId": "ultirpg",
+      "titleKo": "실력존많겜",
+      "titleEn": "Ultirpg"
+    },
+    {
+      "slug": "undergroundz",
+      "loungeId": "undergroundz",
+      "titleKo": "이번역은 좀비입니다",
+      "titleEn": "Undergroundz"
     },
     {
       "slug": "wtbk",
