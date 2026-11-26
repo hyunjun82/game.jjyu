@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNjA0MDZfMjM2/MDAxNzc1NDY4NjI4MzA2.h2udp9mHCSJtGlxCeYBfwRcBEtz4t3yo7yr9u-KUCLkg.aYU-zLrwdNhS3r_tPbBPDXQ9cS_a__paQcU0BmsPKwcg.PNG/2.png",
   "source": "naver-lounge",
   "loungeId": "Vardian",
-  "sourceUrl": "https://game.naver.com/lounge/Vardian/board/detail/8484632",
+  "sourceUrl": "https://game.naver.com/lounge/Vardian/board/detail/8512111",
   "howTo": "",
-  "postCount": 33,
-  "updatedAt": "2026-11-26T03:04:07.481Z",
+  "postCount": 34,
+  "updatedAt": "2026-11-26T08:34:54.439Z",
   "codes": [
+    {
+      "code": "UP1126",
+      "reward": "",
+      "expiry": "2026-12-02",
+      "postedAt": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "HAPPYHALF",
       "reward": "",

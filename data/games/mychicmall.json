@@ -5,13 +5,13 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T03:24:06.776Z",
+  "updatedAt": "2026-11-26T08:32:55.815Z",
   "codes": [
     {
       "code": "MYCM1004",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-26",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/jinjioni/224491665719",
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-26",
@@ -21,7 +21,7 @@
       "code": "FP666",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-26",
+      "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/jinjioni/224491665719",
       "firstSeen": "2026-11-23",
       "lastSeen": "2026-11-26",
@@ -34,8 +34,8 @@
       "postedAt": "2026-11-17",
       "sourceUrl": "https://blog.naver.com/seome_/224480155053",
       "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-24",
-      "status": "expired"
+      "lastSeen": "2026-11-26",
+      "status": "active"
     }
   ]
 }

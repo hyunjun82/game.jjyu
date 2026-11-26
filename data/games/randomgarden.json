@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/randomgarden/board/detail/8507259",
   "howTo": "쿠폰 이름 쿠폰 내역 THANKS106 일반 소환권 20장 SORRY1117",
   "postCount": 1,
-  "updatedAt": "2026-11-26T03:08:47.772Z",
+  "updatedAt": "2026-11-26T08:39:36.379Z",
   "codes": [
+    {
+      "code": "MONEY",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-25",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "THANKS106",
       "reward": "",

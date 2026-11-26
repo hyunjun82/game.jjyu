@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-26T03:24:52.298Z",
+  "generatedAt": "2026-11-26T08:39:55.773Z",
   "today": "2026-11-26",
-  "todayNew": 25,
+  "todayNew": 59,
   "totals": {
-    "games": 461,
-    "codes": 6563,
-    "active": 1106,
+    "games": 463,
+    "codes": 6597,
+    "active": 1140,
     "expired": 5457,
-    "withExpiry": 3800
+    "withExpiry": 3806
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-26",
-      "count": 25
+      "count": 59
     }
   ],
   "expiringSoon": [
@@ -381,6 +381,11 @@
       "total": 35
     },
     {
+      "slug": "sodeu-obeu-konbalraria",
+      "active": 22,
+      "total": 22
+    },
+    {
       "slug": "changsulsa-kiugix",
       "active": 21,
       "total": 21
@@ -406,6 +411,11 @@
       "total": 72
     },
     {
+      "slug": "randomgarden",
+      "active": 17,
+      "total": 17
+    },
+    {
       "slug": "solo-leveling-arise",
       "active": 17,
       "total": 19
@@ -414,11 +424,6 @@
       "slug": "idle-berserker",
       "active": 16,
       "total": 59
-    },
-    {
-      "slug": "randomgarden",
-      "active": 16,
-      "total": 16
     },
     {
       "slug": "aniimo",
@@ -464,12 +469,7 @@
       "slug": "zenless-zone-zero",
       "active": 12,
       "total": 27
-    },
-    {
-      "slug": "busy-savior",
-      "active": 11,
-      "total": 40
     }
   ],
-  "noImage": 106
+  "noImage": 107
 }
