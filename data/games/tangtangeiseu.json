@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T08:27:28.165Z",
+  "updatedAt": "2026-11-26T13:11:12.883Z",
   "codes": [
     {
       "code": "BLESSU",
@@ -38,17 +38,17 @@
       "status": "expired"
     },
     {
-      "code": "ACETOP",
+      "code": "TRICKY",
       "reward": "",
       "expiry": "2026-11-15",
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
       "firstSeen": "2026-11-01",
       "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
-      "code": "TRICKY",
+      "code": "ACETOP",
       "reward": "",
       "expiry": "2026-11-15",
       "postedAt": "2026-11-19",
@@ -98,101 +98,11 @@
       "status": "expired"
     },
     {
-      "code": "KRGIFT00",
+      "code": "ACEKR23",
       "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "KRGIFT55",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "KRGIFT66",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "KRGIFT88",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "ACETW66",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "ACETW88",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "ACETW99",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "ACE666",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "ACEJP000",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
-      "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-26",
-      "status": "expired"
-    },
-    {
-      "code": "ACEJP888",
-      "reward": "",
-      "expiry": "2026-11-08",
-      "postedAt": "2026-10-27",
-      "sourceUrl": "https://blog.naver.com/blok74/224455658533",
+      "expiry": "2026-11-13",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-26",
       "status": "expired"
@@ -201,16 +111,106 @@
       "code": "ACEKR10",
       "reward": "",
       "expiry": "2026-11-08",
-      "postedAt": "2026-11-12",
-      "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-26",
       "status": "expired"
     },
     {
-      "code": "ACEKR23",
+      "code": "KRGIFT00",
       "reward": "",
-      "expiry": "2026-11-13",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "KRGIFT55",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "KRGIFT66",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "KRGIFT88",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "ACE666",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "ACETW66",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "ACETW88",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "ACETW99",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "ACEJP000",
+      "reward": "",
+      "expiry": "2026-11-08",
+      "postedAt": "2026-11-19",
+      "sourceUrl": "https://blog.naver.com/kdj111111111/224482264791",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-11-26",
+      "status": "expired"
+    },
+    {
+      "code": "ACEJP888",
+      "reward": "",
+      "expiry": "2026-11-08",
       "postedAt": "2026-11-12",
       "sourceUrl": "https://blog.naver.com/mastermyth/224474766362",
       "firstSeen": "2026-10-28",

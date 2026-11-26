@@ -2,14 +2,23 @@
   "slug": "palmon-survival",
   "titleEn": "Palmon Survival",
   "titleKo": "팰몬: 서바이벌",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjlfMjUz/MDAxNzkzMjY2MzcwNjg5.Lr9hhpk5gF3ajp16fA2uGAbaSC6qBAr_Z7Ff92Wy9MIg.BUOtnCNevEMMC5tzCGHhmVHE67mnosQ8ZhwCb9ZOFVgg.JPEG/KO.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjZfMjQ2/MDAxNzk1NjY0MzM3MDA0.BgPald3Tz4PIKmGfr8jLFTksnmhXvGtFXpg138EzZecg.0PPEgZH2cX40mBV2s69BbJ6DtEGgbgfdkwq6TnALL3Eg.PNG/a6ec227255f5e5d8ce55afe1dc1ac90eced2d07d4e392e59a52efd0717f06bc6.png",
   "source": "naver-lounge",
   "loungeId": "PalmonSurvival",
-  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8387405",
-  "howTo": "프로필 → 설정 → 선물 코드 → 【2026HALLOWEEN】 입력 달빛 아래에서 더욱 짜릿한 모험을 함께해요! 🎃🥂",
-  "postCount": 67,
-  "updatedAt": "2026-11-26T08:36:43.542Z",
+  "sourceUrl": "https://game.naver.com/lounge/PalmonSurvival/board/detail/8512353",
+  "howTo": "아바타 → 설정 → 선물 코드 → 【2026THANKSGIVING】 입력 맛있는 음식과 소중한 사람들, 그리고 즐거운 모험이 함께하는 따뜻한 추수감사절 보내세요!",
+  "postCount": 68,
+  "updatedAt": "2026-11-26T13:01:00.589Z",
   "codes": [
+    {
+      "code": "2026THANKSGIVING",
+      "reward": "",
+      "expiry": "2026-12-27",
+      "postedAt": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "2026HALLOWEEN",
       "reward": "",

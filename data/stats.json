@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-26T08:39:55.773Z",
+  "generatedAt": "2026-11-26T13:16:38.880Z",
   "today": "2026-11-26",
-  "todayNew": 59,
+  "todayNew": 74,
   "totals": {
     "games": 463,
-    "codes": 6597,
-    "active": 1140,
-    "expired": 5457,
-    "withExpiry": 3806
+    "codes": 6612,
+    "active": 1161,
+    "expired": 5451,
+    "withExpiry": 3818
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-26",
-      "count": 59
+      "count": 74
     }
   ],
   "expiringSoon": [
@@ -447,8 +447,8 @@
     },
     {
       "slug": "whoa-adventurers",
-      "active": 13,
-      "total": 13
+      "active": 14,
+      "total": 14
     },
     {
       "slug": "byeolbyeol-hero",

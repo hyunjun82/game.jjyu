@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T08:27:50.564Z",
+  "updatedAt": "2026-11-26T13:11:32.223Z",
   "codes": [
     {
       "code": "E0261107",
@@ -21,8 +21,8 @@
       "code": "GOOGLE01",
       "reward": "",
       "expiry": "2026-12-07",
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224469741668",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/t326598/224462859022",
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-26",
       "status": "active"
@@ -31,8 +31,8 @@
       "code": "E0261001",
       "reward": "",
       "expiry": "2026-12-07",
-      "postedAt": "2026-11-09",
-      "sourceUrl": "https://blog.naver.com/jeonghoblog/224469741668",
+      "postedAt": "2026-11-03",
+      "sourceUrl": "https://blog.naver.com/t326598/224462859022",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-11-26",
       "status": "active"

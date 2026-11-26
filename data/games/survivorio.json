@@ -2,14 +2,23 @@
   "slug": "survivorio",
   "titleEn": "Survivorio",
   "titleKo": "탕탕특공대",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMTlfNDEg/MDAxNzk1MDgwMDY0Mzk0.GniuACxs72wqFbnLub_BWtjilDWXA6pOhC2uQIkuk50g.TNEd8GcsIXgm-GB8isjlATxxGxjwKAW-uWhZ6VofSmwg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjZfMjYz/MDAxNzk1NjYzMzc5MzM3.OMd_oDsfBWOJxq89WyMOUTN4xEKFElY1aKhG5wodl5Ug.cF2C-WNdkOUhHNQPRLp3hxUVezt8jOkLflj3b9SIuTIg.PNG/%EA%B8%B0%ED%94%84%ED%8A%B8%EC%BD%94%EB%93%9C.png",
   "source": "naver-lounge",
   "loungeId": "Survivorio",
-  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8497354",
-  "howTo": "아래 링크의 공식 교환 페이지에 접속하여 기프트코드 (minorsnow26) 를 입력하시면 보상을 수령하실 수 있습니다!",
-  "postCount": 3,
-  "updatedAt": "2026-11-26T08:38:46.044Z",
+  "sourceUrl": "https://game.naver.com/lounge/Survivorio/board/detail/8512810",
+  "howTo": "2026thanksgiving ) 를 입력해 선물을 받으세요!",
+  "postCount": 4,
+  "updatedAt": "2026-11-26T13:02:56.030Z",
   "codes": [
+    {
+      "code": "2026thanksgiving",
+      "reward": "",
+      "expiry": "2026-12-03",
+      "postedAt": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "minorsnow26",
       "reward": "",

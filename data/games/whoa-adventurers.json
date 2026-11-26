@@ -2,14 +2,23 @@
   "slug": "whoa-adventurers",
   "titleEn": "Whoa Adventurers",
   "titleKo": "우와 모험단",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjA5MzBfMTk4/MDAxNzkwNzU5MzM5MjM0.6pGcHVLKNWsTH_UCxx2mR0m8up_O7tnBTNiN15O25kwg.oyr5eD42cEoJvDebHCBmpnCc9XWUEFPb9_KGHQoGSZMg.JPEG/%E9%9F%A9%E6%96%87%E8%8A%822560x1480.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjZfMTM1/MDAxNzk1Njg0ODgxMDcx.zFJksixx6XOYCHYnTVe80qmW849TVtkG_Tq3rQP2Hygg.esFMkr53CGEr3x9kSYNrVqZel45o-EowNDfAd8qwsrog.JPEG/%E6%84%9F%E6%81%A9%E8%8A%82KR.jpg",
   "source": "naver-lounge",
   "loungeId": "whoaadventurers",
-  "sourceUrl": "https://game.naver.com/lounge/whoaadventurers/board/detail/8389929",
+  "sourceUrl": "https://game.naver.com/lounge/whoaadventurers/board/detail/8512422",
   "howTo": "Step1. 메인화면 왼쪽 상단의 프로필 아이콘 Step2. 중앙 하단의 [설정] 버튼 Step3. 왼쪽 하단의 [교환코드] 버튼 Step4. 쿠폰(교환코드) 입력 후 확인 버튼",
-  "postCount": 1100,
-  "updatedAt": "2026-11-26T08:34:35.054Z",
+  "postCount": 1101,
+  "updatedAt": "2026-11-26T12:58:59.198Z",
   "codes": [
+    {
+      "code": "thanksgiving",
+      "reward": "",
+      "expiry": "2027-12-31",
+      "postedAt": "2026-11-26",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26",
+      "status": "active"
+    },
     {
       "code": "Halloween26",
       "reward": "",
