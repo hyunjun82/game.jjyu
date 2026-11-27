@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-27T21:32:46.949Z",
+  "updatedAt": "2026-11-27T23:18:19.749Z",
   "codes": [
     {
       "code": "UPDATE1119",
@@ -31,8 +31,8 @@
       "code": "DAY3GIFT",
       "reward": "",
       "expiry": "2026-12-31",
-      "postedAt": "2026-11-26",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224493822601",
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224488794517",
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-28",
       "status": "active"
@@ -208,6 +208,16 @@
       "status": "active"
     },
     {
+      "code": "FIRSTSATDAY",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-23",
+      "sourceUrl": "https://blog.naver.com/jinjioni/224488794517",
+      "firstSeen": "2026-11-23",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
+    {
       "code": "GOOGLE1ST",
       "reward": "",
       "expiry": "2026-12-31",
@@ -219,16 +229,6 @@
     },
     {
       "code": "CAFE1500",
-      "reward": "",
-      "expiry": "2026-12-31",
-      "postedAt": "2026-11-26",
-      "sourceUrl": "https://blog.naver.com/webdeveloping/224493822601",
-      "firstSeen": "2026-11-23",
-      "lastSeen": "2026-11-28",
-      "status": "active"
-    },
-    {
-      "code": "FIRSTSATDAY",
       "reward": "",
       "expiry": "2026-12-31",
       "postedAt": "2026-11-26",
