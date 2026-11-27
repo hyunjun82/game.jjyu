@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T21:47:22.824Z",
+  "updatedAt": "2026-11-27T04:38:41.254Z",
   "codes": [
     {
       "code": "SXSFACEBOOK",
@@ -58,52 +58,32 @@
       "status": "active"
     },
     {
-      "code": "LEVELUPNOW",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-14",
-      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-20",
-      "status": "active"
-    },
-    {
       "code": "LUCKYGACHA",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-14",
-      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
       "code": "WORLDOPEN",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-14",
-      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-20",
-      "status": "active"
-    },
-    {
-      "code": "SSYTPRE",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-04",
-      "sourceUrl": "https://blog.naver.com/blackwz/224464464297",
-      "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
-      "code": "SXSWITHYOU",
+      "code": "LEVELUPNOW",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-04",
-      "sourceUrl": "https://blog.naver.com/blackwz/224464464297",
-      "firstSeen": "2026-11-05",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-27",
       "status": "active"
     },
@@ -111,8 +91,18 @@
       "code": "ssinvenpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-04",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224464942277",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "sshgpre",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -121,8 +111,18 @@
       "code": "ssqmpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-04",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224464942277",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "SXSWITHYOU",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -131,14 +131,14 @@
       "code": "ssgfpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-04",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224464942277",
+      "postedAt": "2026-11-10",
+      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
-      "code": "sshgpre",
+      "code": "SSYTPRE",
       "reward": "",
       "expiry": "2026-12-01",
       "postedAt": "2026-11-04",

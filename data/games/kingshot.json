@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-26T21:44:03.080Z",
+  "updatedAt": "2026-11-27T04:34:52.004Z",
   "codes": [
     {
       "code": "THANKS4WORK",
@@ -58,21 +58,21 @@
       "status": "active"
     },
     {
-      "code": "1T1G2D2",
+      "code": "SAYHIHI",
       "reward": "",
-      "expiry": "2026-11-25",
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/daseo11/224488458762",
+      "expiry": "2026-11-26",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
       "firstSeen": "2026-11-22",
       "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
-      "code": "SAYHIHI",
+      "code": "1T1G2D2",
       "reward": "",
-      "expiry": "2026-11-26",
-      "postedAt": "2026-11-23",
-      "sourceUrl": "https://blog.naver.com/daseo11/224488458762",
+      "expiry": "2026-11-25",
+      "postedAt": "2026-11-24",
+      "sourceUrl": "https://blog.naver.com/tmclsms1dlek/224490206721",
       "firstSeen": "2026-11-22",
       "lastSeen": "2026-11-27",
       "status": "expired"

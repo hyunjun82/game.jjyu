@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-26T22:31:01.129Z",
+  "generatedAt": "2026-11-27T04:42:55.318Z",
   "today": "2026-11-27",
-  "todayNew": 6,
+  "todayNew": 27,
   "totals": {
     "games": 463,
-    "codes": 6618,
-    "active": 1104,
-    "expired": 5514,
-    "withExpiry": 3820
+    "codes": 6639,
+    "active": 1124,
+    "expired": 5515,
+    "withExpiry": 3832
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-27",
-      "count": 6
+      "count": 27
     }
   ],
   "expiringSoon": [
@@ -172,6 +172,12 @@
     },
     {
       "slug": "top-heroes",
+      "code": "GB0AB21B6A",
+      "expiry": "2026-11-27",
+      "days": 0
+    },
+    {
+      "slug": "top-heroes",
       "code": "GB5D00345CA",
       "expiry": "2026-11-27",
       "days": 0
@@ -238,6 +244,12 @@
     },
     {
       "slug": "top-heroes",
+      "code": "GBCA58D57A",
+      "expiry": "2026-11-28",
+      "days": 1
+    },
+    {
+      "slug": "top-heroes",
       "code": "GB65EE1EEB",
       "expiry": "2026-11-28",
       "days": 1
@@ -287,6 +299,12 @@
     {
       "slug": "potatozombie",
       "code": "FH466VAM9VSNCZ",
+      "expiry": "2026-11-29",
+      "days": 2
+    },
+    {
+      "slug": "samgukji-origin2",
+      "code": "7159-b0b331c1c-1",
       "expiry": "2026-11-29",
       "days": 2
     },
@@ -349,24 +367,6 @@
       "code": "GANGHO1111",
       "expiry": "2026-11-30",
       "days": 3
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "GANGHO73190528",
-      "expiry": "2026-11-30",
-      "days": 3
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "GANGHO58241673",
-      "expiry": "2026-11-30",
-      "days": 3
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "HALLOWEEN26",
-      "expiry": "2026-11-30",
-      "days": 3
     }
   ],
   "topGames": [
@@ -411,6 +411,11 @@
       "total": 72
     },
     {
+      "slug": "idle-berserker",
+      "active": 17,
+      "total": 60
+    },
+    {
       "slug": "randomgarden",
       "active": 17,
       "total": 17
@@ -419,11 +424,6 @@
       "slug": "solo-leveling-arise",
       "active": 17,
       "total": 19
-    },
-    {
-      "slug": "idle-berserker",
-      "active": 16,
-      "total": 59
     },
     {
       "slug": "aniimo",

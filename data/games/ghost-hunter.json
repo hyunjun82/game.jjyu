@@ -5,11 +5,29 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA4MjBfMTA5/MDAxNzU1NjYzNzI3ODMz.ichpLe3bwT6Ky6RRk-RHuuboYktzAjlqiT5XLuFWxgIg.lp70tvlUXxwmdmNEexL5knqOHJRxGvaNQCX1hO0Y4Jcg.PNG/icon150.png",
   "source": "naver-lounge",
   "loungeId": "Ghost_Hunter",
-  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8492717",
+  "sourceUrl": "https://game.naver.com/lounge/Ghost_Hunter/board/detail/8515188",
   "howTo": "",
-  "postCount": 471,
-  "updatedAt": "2026-11-26T22:10:09.301Z",
+  "postCount": 472,
+  "updatedAt": "2026-11-27T04:25:03.112Z",
   "codes": [
+    {
+      "code": "1128ygy",
+      "reward": "",
+      "expiry": "2026-12-02",
+      "postedAt": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "1129htr",
+      "reward": "",
+      "expiry": "2026-12-02",
+      "postedAt": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
     {
       "code": "1121gst",
       "reward": "",
@@ -560,24 +578,6 @@
       "status": "expired"
     },
     {
-      "code": "502adw",
-      "reward": "",
-      "expiry": "2026-05-04",
-      "postedAt": "2026-05-02",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-27",
-      "status": "expired"
-    },
-    {
-      "code": "503awv",
-      "reward": "",
-      "expiry": "2026-05-04",
-      "postedAt": "2026-05-02",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-11-27",
-      "status": "expired"
-    },
-    {
       "code": "1114bfre",
       "reward": "",
       "expiry": "2025-11-17",
@@ -618,6 +618,24 @@
       "reward": "",
       "expiry": "2025-12-01",
       "postedAt": "2025-11-28",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "502adw",
+      "reward": "",
+      "expiry": "2026-05-04",
+      "postedAt": "2026-05-02",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "503awv",
+      "reward": "",
+      "expiry": "2026-05-04",
+      "postedAt": "2026-05-02",
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-11-27",
       "status": "expired"

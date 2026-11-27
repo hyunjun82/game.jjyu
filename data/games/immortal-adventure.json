@@ -5,11 +5,20 @@
   "image": "https://nng-phinf.pstatic.net/MjAyNTA3MTFfMjY4/MDAxNzUyMjEyMzg3MTUx.jafa82pgiVNwhpxeIBz7Jsm8KHnzC-6d1yk_Ez6WZCUg.YE02dOtWxXR7J2x2vsZcWjfnHhsJBfr_oMMZP3dk1Aog.JPEG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4.jpg",
   "source": "naver-lounge",
   "loungeId": "IMMORTAL_ADVENTURE",
-  "sourceUrl": "https://game.naver.com/lounge/IMMORTAL_ADVENTURE/board/detail/8488244",
+  "sourceUrl": "https://game.naver.com/lounge/IMMORTAL_ADVENTURE/board/detail/8515328",
   "howTo": "",
-  "postCount": null,
-  "updatedAt": "2026-11-26T22:12:34.340Z",
+  "postCount": 1,
+  "updatedAt": "2026-11-27T04:27:42.573Z",
   "codes": [
+    {
+      "code": "rystal113",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
     {
       "code": "Halloween2026",
       "reward": "",
