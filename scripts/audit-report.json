@@ -1,43 +1,30 @@
 {
- "generatedAt": "2026-11-27T08:06:32.709Z",
- "window": "20261125~20261127",
- "lounges": 2417,
- "posts": 883,
- "couponPosts": 69,
+ "generatedAt": "2026-11-27T21:03:57.811Z",
+ "window": "20261126~20261128",
+ "lounges": 2418,
+ "posts": 639,
+ "couponPosts": 63,
  "fixedTracked": [
-  "비지 세이비어 | thanks2026 | 이세계 추수감사절 이벤트 안내",
-  "드래곤네스트 월드 | HAPPYWEEKLY1127X | 🎁 금요일 주간 쿠폰 안내（2026.11.27）",
-  "추억의 잡화점 | GIFTmZXrVW | 🎈주간 혜택 지급🎈",
-  "퍼즐 오브 Z | PNSTHX26 | 🦃추수감사절 특별 코드",
-  "라그나로크 오리진 클래식 | ROOCTHANKYOU | ✦ 추수감사절 기념 쿠폰 코드 안내 ✦",
   "솔리온 | SOLIONACT5UPDAT | Act.5 업데이트 「아홉 겹 하늘」 신규 마을 · 보스 · 레이드 추가",
-  "각성소녀: 욕망의 여정 | Z3P9LK | 🎁 친애하는 기사님, 소녀들이 특별한 선물을 준비했어요!",
-  "삼국지 GO! : 방치형 키우기 RPG | K7M2X9Q4 | [안내] 11월 27일(금) 업데이트 사전 안내",
-  "요괴 키우기 | BLACKFRIDAY2026 | 블랙 프라이데이 기념 특별 쿠폰 안내",
-  "LOSTCITY : ZERO | LOSTCITY662904 | 11월 27일 (금) 주말 쿠폰 이벤트"
+  "삼국지: 리버스 | 96wek6 | 🎁11월 주말 선물"
  ],
- "addedLounges": [
-  "올림포스X아스가르드 총력전 (olympusX) → /olympus-x/ | 1OnEOA1"
- ],
+ "addedLounges": [],
  "labelOnly": [
   "이사만루26 | 2026-11-26 | [이벤트] 키워드 쿠폰 이벤트 안내 (보상 상향)",
+  "애니멀 가든 | 2026-11-28 | [주말코드]🎁깜짝 선물 코드 안내🎁",
   "바이오하자드 서바이벌 유닛 | 2026-11-27 | ◤ 『BIOHAZARD Survival Unit』 특별 기프트 코드 배포 ◢",
   "라스트 소녀 전사 | 2026-11-27 | ❄️ 신서버 S6112 오픈 안내",
   "드래곤 나이트 키우기 : 방치형 RPG | 2026-11-27 | [안내] v5.0.0 업데이트 GM 노트",
-  "드래곤에어 : 침묵의 신 | 2026-11-25 | 【이벤트】 💎 수정 도전 - 퍼즐 미리보기&댓글 이벤트 🎁",
+  "드래곤에어 : 침묵의 신 | 2026-11-27 | 【이벤트】 <드래곤에어: 침묵의 신> '드래곤에어 계열별 티어리스트' 위크 오픈! 📊⚔️",
   "드림 가든: 추억의 힐링 경영 | 2026-11-27 | 💰【공식 포레스트 코인 충전 & 공식 패키지 플랫폼 오픈】💐",
   "드림 가든: 추억의 힐링 경영 | 2026-11-26 | 🌟【댓글 이벤트 | 밤비의 새로운 모습】🌟",
-  "꿈의 여행자: 별빛 여정 | 2026-11-25 | [이벤트]🐎최애 탈것 투표!",
   "귀혼키우기 | 2026-11-27 | 🎟️귀혼 키우기 정식 오픈 기념 영상! 쿠폰도 받아가세요!~",
   "NBA 2K Mobile - 모바일 농구 게임 | 2026-11-26 | [이벤트] Blueprints 획득 인증 이벤트!",
-  "NBA 2K Mobile - 모바일 농구 게임 | 2026-11-25 | [이벤트] 💪마이팀 파워 인증 이벤트",
-  "페르소나5: 더 팬텀 X | 2026-11-25 | (점검 완료) 11월 26일(목) 점검 업데이트 안내",
+  "슬라임 군단 | 2026-11-28 | [이벤트]셀카 찾기! 정답을 맞혀라!",
   "잔불의 기사 키우기: 방치형 RPG | 2026-11-27 | [공지] ⏰ 출시 D-3! 11월 30일(월) 오후 3시 서버 오픈",
   "타워 오브 판타지 | 2026-11-26 | 6.5 버전 「시간의 뒷면에 숨겨진 답」 일러스트 공모전 시작!",
   "Total Football - 25/26 시즌 | 2026-11-27 | [TF26] 깜짝 퀴즈와 함께하는 주간 이벤트 예고 (11/30 ~ 12/6)",
   "트릭컬 리바이브 | 2026-11-26 | [쿠폰] PC 클라이언트 출시 기념 쿠폰 안내(~12월 10일)",
-  "트리 오브 세이비어: 네버랜드 | 2026-11-25 |  기억하시나요?  처음 정원에 들어왔을 때 켜졌던 그 작은 불빛;  ﻿",
-  "트리 오브 세이비어: 네버랜드 | 2026-11-25 | 과거의 따뜻한 순간들을 돌아보면, 용사들이 모험 길에서 얼마나 많은 어려움을 겪었든 가정은",
   "열혈강호: 넥스트 | 2026-11-26 | 【추수감사절 기념 쿠폰 공개】 특별한 선물을 받아 가세요!"
  ],
  "imageOnly": [
@@ -49,6 +36,16 @@
    "title": "[이벤트] 키워드 쿠폰 이벤트 안내 (보상 상향)",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjA0MzBfMjI0/MDAxNzc3NTM0NzcwNDY2.CSm8ZFCd0wT-k47m3MPt5FNZr1grZXpOpen5EUIt-vgg.WxHgEMfl930Wrauk3_KW7UgQKR3SQR3AQrTQq7CzEUIg.JPEG/event.jpg?type=w1678"
+   ]
+  },
+  {
+   "game": "애니멀 가든",
+   "loungeId": "Animals_Garden",
+   "feedId": 8517537,
+   "date": "2026-11-28",
+   "title": "[주말코드]🎁깜짝 선물 코드 안내🎁",
+   "images": [
+    "https://nng-phinf.pstatic.net/MjAyNjExMjdfMTUy/MDAxNzk1NzcxODc5MzM4.BSerw97LRju6g1StMkIm769XLTRAjiHAqcZv8-dulcgg.KBFa_v_RLC9WJHcgweqQM82R_28887gt399oxl2ZLaQg.PNG/1.png?type=w1678"
    ]
   },
   {
@@ -88,16 +85,6 @@
    ]
   },
   {
-   "game": "삼국지: 킹덤",
-   "loungeId": "Samgukji_Kingdom",
-   "feedId": 8505853,
-   "date": "2026-11-25",
-   "title": "[이벤트] ❄️ 겨울 축제 감사 선물! 캐시 쿠폰 충전 혜택 이벤트 안내",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMDNfMTkg/MDAxNzkzNjkxMDY5MTY2.xAhlxUPeakIx8wq0pv6869n0CTviikDtKIQBTPaf9qkg.Kgab4yVvb-APbAo-XQXswiNrCbDgyC3DwCjvfmAhjjAg.JPEG/%E6%B4%BB%E5%8A%A8-850x170.jpg?type=w1678"
-   ]
-  },
-  {
    "game": "솔리온",
    "loungeId": "SOLION",
    "feedId": 8515187,
@@ -105,16 +92,6 @@
    "title": "Act.5 업데이트 기념 쿠폰 링크",
    "images": [
     "https://nng-phinf.pstatic.net/MjAyNjExMjdfNzAg/MDAxNzk1NzQ4NjkwODQ3.ymsXOBGjXBXfMYe49cqZrOWEkUWt7FJVsNah0Ktvzy0g.W6SeyKnM_hQDbiEdyFyp3cjRO8OcpaoluDcnt8uTc0kg.JPEG/v50_banner_%EB%A0%88%EC%9D%B4%EB%93%9C%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.jpg?type=w1678"
-   ]
-  },
-  {
-   "game": "삼국블레이드 키우기",
-   "loungeId": "tkic",
-   "feedId": 8508669,
-   "date": "2026-11-25",
-   "title": "🚀. 2주년 기념, 수요일 4차 특별 쿠폰 공개!!",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNDExMDZfMjk1/MDAxNzMwODc5NTgwMTg5.i9W_BpmDghU43uZe4yaxzn_dh0BrOQK6NzZV1iU10cog._oRDX-NK1crtT66x1Lf33rN7sBDjspeSzoyA0jARg4Qg.PNG/%EB%AA%A8%EB%B0%94%EC%9D%BC_%EC%95%84%EC%9D%B4%EC%BD%98_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png?type=w1678"
    ]
   },
   {
@@ -127,16 +104,6 @@
     "https://nng-phinf.pstatic.net/MjAyNjExMjZfMjE3/MDAxNzk1NjgxMjU0Njk1._0xConllXM4j2nwrigVn0avzV4FCulPxrSC01cEZ9kgg.YHUOzGtGly43xiAlJsvrnnvqGUyMlHBsR-dke1b7FzAg.GIF/3.gif?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMjZfMTk0/MDAxNzk1NjgxMjczNzY5.Raz23Fhco_9V55F4EGFZpNAAKEpnr6MG7NqQlJFCMtQg.VQkPwSqUPBX9ilsryg4bS1NclXLY753LFIyagkA-Aukg.GIF/1.gif?type=w1678",
     "https://nng-phinf.pstatic.net/MjAyNjExMjZfOTQg/MDAxNzk1NjgxMjQ4NjMy.4Aooq-ESROCuIXaZaVxUNHB5tEVKgmRL5z6xUOw21K4g.ngJ1MKx5MU_Nw4wJ_6fCNFpWtoXDvCJVIU6cxSJY5fUg.PNG/3_3.png?type=w1678"
-   ]
-  },
-  {
-   "game": "트리 오브 세이비어: 네버랜드",
-   "loungeId": "Tree_Of_Savior_Neverland",
-   "feedId": 8508149,
-   "date": "2026-11-25",
-   "title": "🎉 TOSN 공식 충전 센터 혜택이 찾아왔습니다! 커뮤니티 추첨 최대 648쿠폰!﻿",
-   "images": [
-    "https://nng-phinf.pstatic.net/MjAyNjExMjVfODkg/MDAxNzk1NjAzMDY4NjY2.yiFbAKds8xNfXuk2x0DxGvd7-hMl0SFnzVad30NdNHwg.2lD3OmYBMxFqrptjXuI9l8TpQxUuewCclcI--OQ8XaQg.JPEG/CE58DFF3-1258-468A-B427-420CFF401E99-95469-000039C8B531900C.jpeg?type=w1678"
    ]
   },
   {

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Heart_of_Valor/board/detail/8490078",
   "howTo": "《부족 또 전쟁》에 접속해 주세요. 게임 내 ‘활성화 코드’ 메뉴로 이동해 주세요. 쿠폰 코드 ANNY100DAYS를 입력하고 보상을 수령해 주세요. ⚠️ 유의 사항 본 쿠폰은 게임에 접속하는 모든 수호자님을 대상으로 제공됩니다.",
   "postCount": 1,
-  "updatedAt": "2026-11-27T14:09:32.616Z",
+  "updatedAt": "2026-11-27T21:34:37.998Z",
   "codes": [
     {
       "code": "happyweekend09",
@@ -16,25 +16,7 @@
       "expiry": null,
       "postedAt": "2026-11-20",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "osamason",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-13",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "happyweekend08",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-13",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
@@ -43,8 +25,26 @@
       "expiry": "2026-11-30",
       "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
+    },
+    {
+      "code": "osamason",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-28",
+      "status": "expired"
+    },
+    {
+      "code": "happyweekend08",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-28",
+      "status": "expired"
     },
     {
       "code": "w2d6m7qc",
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-11-10",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -61,7 +61,7 @@
       "expiry": null,
       "postedAt": "2026-11-10",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {

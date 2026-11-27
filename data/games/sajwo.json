@@ -5,18 +5,8 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-27T14:25:26.195Z",
+  "updatedAt": "2026-11-27T21:30:30.896Z",
   "codes": [
-    {
-      "code": "JVZG5R",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-27",
-      "sourceUrl": "https://blog.naver.com/rhksrlrk4/224493640859",
-      "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
     {
       "code": "WGDVY3",
       "reward": "",
@@ -24,7 +14,7 @@
       "postedAt": "2026-11-25",
       "sourceUrl": "https://blog.naver.com/happysilver_a/224491204515",
       "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
@@ -34,8 +24,18 @@
       "postedAt": "2026-11-20",
       "sourceUrl": "https://blog.naver.com/som-inyoung/224485312787",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
+    },
+    {
+      "code": "JVZG5R",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-27",
+      "sourceUrl": "https://blog.naver.com/rhksrlrk4/224493640859",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
     },
     {
       "code": "J1ZR8V",

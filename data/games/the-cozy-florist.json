@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/Flower_Town_Story/board/detail/8516288",
   "howTo": "따뜻한 꽃향기처럼 행복이 가득한 하루 보내세요! 💐",
   "postCount": 1,
-  "updatedAt": "2026-11-27T14:09:28.679Z",
+  "updatedAt": "2026-11-27T21:34:33.742Z",
   "codes": [
     {
       "code": "T49ae0a9",
@@ -16,7 +16,7 @@
       "expiry": "2026-12-03",
       "postedAt": "2026-11-27",
       "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
@@ -25,25 +25,7 @@
       "expiry": "2026-12-01",
       "postedAt": "2026-11-25",
       "firstSeen": "2026-11-25",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "p51cb962",
-      "reward": "",
-      "expiry": "2026-11-27",
-      "postedAt": "2026-11-14",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "Xfc470c9",
-      "reward": "",
-      "expiry": "2026-11-27",
-      "postedAt": "2026-11-14",
-      "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
@@ -53,6 +35,24 @@
       "postedAt": "2026-11-20",
       "firstSeen": "2026-11-21",
       "lastSeen": "2026-11-24",
+      "status": "expired"
+    },
+    {
+      "code": "p51cb962",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "Xfc470c9",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-27",
       "status": "expired"
     },
     {
@@ -97,7 +97,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -106,7 +106,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-22",
       "firstSeen": "2026-10-27",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {

@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/wildgirls_rebirth/board/detail/8483652",
   "howTo": "- 쿠폰 등록 방법 : ㄴ [메뉴 > 설정 > 계정정보 > 쿠폰] 메뉴에서 쿠폰번호를 입력 ㄴ 게임 내 채팅창에 '/coupon 쿠폰번호' 입력 - 쿠폰 사용 기한 : 2026년 11월 26일(목) 23:59까지 ※ 쿠폰을 등록하시면 우편함으로 보상이 도착해요.",
   "postCount": 5,
-  "updatedAt": "2026-11-27T14:12:55.723Z",
+  "updatedAt": "2026-11-27T21:38:08.047Z",
   "codes": [
     {
       "code": "REBIRTH261118",
@@ -16,7 +16,7 @@
       "expiry": "2026-12-16",
       "postedAt": "2026-11-18",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
@@ -25,7 +25,7 @@
       "expiry": "2026-11-26",
       "postedAt": "2026-11-19",
       "firstSeen": "2026-11-19",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -34,7 +34,7 @@
       "expiry": "2026-11-18",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -43,7 +43,7 @@
       "expiry": "2026-11-18",
       "postedAt": "2026-11-11",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -52,7 +52,7 @@
       "expiry": null,
       "postedAt": "2026-10-24",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     }
   ]

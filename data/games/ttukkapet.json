@@ -8,7 +8,7 @@
   "sourceUrl": "https://game.naver.com/lounge/ttukkapet/board/detail/8512817",
   "howTo": "",
   "postCount": 7,
-  "updatedAt": "2026-11-27T14:11:22.414Z",
+  "updatedAt": "2026-11-27T21:36:31.911Z",
   "codes": [
     {
       "code": "thankstata",
@@ -16,34 +16,7 @@
       "expiry": "2026-12-04",
       "postedAt": "2026-11-26",
       "firstSeen": "2026-11-26",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "openfesta26",
-      "reward": "",
-      "expiry": "2026-11-27",
-      "postedAt": "2026-08-29",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "openfestb26",
-      "reward": "",
-      "expiry": "2026-11-27",
-      "postedAt": "2026-08-28",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "openfestc26",
-      "reward": "",
-      "expiry": "2026-11-27",
-      "postedAt": "2026-08-27",
-      "firstSeen": "2026-09-25",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
@@ -52,7 +25,7 @@
       "expiry": "2026-11-07",
       "postedAt": "2026-10-31",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -61,7 +34,7 @@
       "expiry": "2026-10-31",
       "postedAt": "2026-10-01",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     },
     {
@@ -70,7 +43,34 @@
       "expiry": "2026-10-24",
       "postedAt": "2026-09-25",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-11-27",
+      "lastSeen": "2026-11-28",
+      "status": "expired"
+    },
+    {
+      "code": "openfesta26",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-08-29",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-11-28",
+      "status": "expired"
+    },
+    {
+      "code": "openfestb26",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-08-28",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-11-28",
+      "status": "expired"
+    },
+    {
+      "code": "openfestc26",
+      "reward": "",
+      "expiry": "2026-11-27",
+      "postedAt": "2026-08-27",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-11-28",
       "status": "expired"
     }
   ]

@@ -491,6 +491,13 @@
       "titleEn": "RISE_OF_KINGDOMS",
       "loungeId": "RISE_OF_KINGDOMS",
       "found": "2026-11-27"
+    },
+    {
+      "slug": "echocalypse-scarlet-covenant",
+      "titleKo": "에코칼립스: 진홍의 서약",
+      "titleEn": "Echocalypse_Scarlet_Covenant",
+      "loungeId": "Echocalypse_Scarlet_Covenant",
+      "found": "2026-11-28"
     }
   ],
   "rejected": [
