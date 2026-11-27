@@ -3,16 +3,18 @@
   "titleEn": "Samgukji_Kingdom",
   "titleKo": "삼국지: 킹덤",
   "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjBfMTEg/MDAxNzkyNDYzMjI5Nzg3.jfT565R8S7s3QIV6LxuVPhVJNb92t6EKyUBD74ZuAoog.5RFofZqQ2-IgU5I79TIH3ZhHm--tlxPzJugXKoA3Oggg.JPEG/%E7%A4%BC%E5%8C%85%E7%A0%81-700x154.jpg",
-  "source": "naver-search",
+  "source": "naver-lounge",
+  "loungeId": "Samgukji_Kingdom",
+  "sourceUrl": "https://game.naver.com/lounge/Samgukji_Kingdom/board/detail/8498726",
   "howTo": "① 게임 접속 후, 좌측 상단의 [프로필 아이콘]을 눌러 기본 정보 화면으로 이동합니다. ② [선물 교환]을 누릅니다. ③ [선물 코드]를 입력한 후 [확인]을 누르면 보상을 받을 수 있습니다.",
-  "updatedAt": "2026-11-27T04:33:50.809Z",
+  "postCount": 373,
+  "updatedAt": "2026-11-27T08:39:39.945Z",
   "codes": [
     {
       "code": "T5DFSPkn",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-25",
-      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
+      "postedAt": "2026-11-23",
       "firstSeen": "2026-11-23",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -21,8 +23,7 @@
       "code": "month333",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-25",
-      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
+      "postedAt": "2026-11-21",
       "firstSeen": "2026-11-21",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -31,8 +32,7 @@
       "code": "97HUJWzA",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-25",
-      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
+      "postedAt": "2026-11-16",
       "firstSeen": "2026-11-16",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -41,21 +41,10 @@
       "code": "Nmr8jEoy",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-25",
-      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
+      "postedAt": "2026-11-09",
       "firstSeen": "2026-11-09",
       "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "42EqwsBh",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-25",
-      "sourceUrl": "https://blog.naver.com/songoku021/224491745412",
-      "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-27",
-      "status": "active"
+      "status": "expired"
     },
     {
       "code": "winter777",
@@ -63,6 +52,15 @@
       "expiry": null,
       "postedAt": "2026-11-07",
       "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-27",
+      "status": "expired"
+    },
+    {
+      "code": "42EqwsBh",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-02",
+      "firstSeen": "2026-11-02",
       "lastSeen": "2026-11-27",
       "status": "expired"
     },
@@ -100,8 +98,7 @@
       "code": "week999",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "postedAt": "2026-10-28",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-11-27",
       "status": "expired"
@@ -110,8 +107,7 @@
       "code": "D5vPTfC8",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "postedAt": "2026-10-26",
       "firstSeen": "2026-10-26",
       "lastSeen": "2026-11-27",
       "status": "expired"
@@ -120,8 +116,7 @@
       "code": "king777",
       "reward": "",
       "expiry": null,
-      "postedAt": "2026-11-03",
-      "sourceUrl": "https://blog.naver.com/songoku021/224464045740",
+      "postedAt": "2026-10-22",
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-11-27",
       "status": "expired"

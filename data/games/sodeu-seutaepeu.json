@@ -5,8 +5,18 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-27T04:38:41.254Z",
+  "updatedAt": "2026-11-27T08:30:44.553Z",
   "codes": [
+    {
+      "code": "memolkim",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
     {
       "code": "SXSFACEBOOK",
       "reward": "",
@@ -14,7 +24,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -24,7 +34,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -34,7 +44,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -44,7 +54,7 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -54,15 +64,25 @@
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-07",
-      "lastSeen": "2026-11-20",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "LEVELUPNOW",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
       "code": "LUCKYGACHA",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -71,48 +91,18 @@
       "code": "WORLDOPEN",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
-      "code": "LEVELUPNOW",
+      "code": "SSYTPRE",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
-      "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "ssinvenpre",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "sshgpre",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "ssqmpre",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -121,8 +111,28 @@
       "code": "SXSWITHYOU",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "ssinvenpre",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "ssqmpre",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-27",
       "status": "active"
@@ -131,31 +141,21 @@
       "code": "ssgfpre",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/dkqnddl33/224471555615",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "SSYTPRE",
-      "reward": "",
-      "expiry": "2026-12-01",
-      "postedAt": "2026-11-04",
-      "sourceUrl": "https://blog.naver.com/hyjueng/224464942277",
-      "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-27",
-      "status": "active"
-    },
-    {
-      "code": "memolkim",
-      "reward": "",
-      "expiry": null,
       "postedAt": "2026-11-14",
       "sourceUrl": "https://blog.naver.com/naakey/224477078756",
-      "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-20",
-      "status": "expired"
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
+    {
+      "code": "sshgpre",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-14",
+      "sourceUrl": "https://blog.naver.com/naakey/224477078756",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-27",
+      "status": "active"
     }
   ]
 }

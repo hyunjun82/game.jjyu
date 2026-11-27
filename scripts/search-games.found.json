@@ -484,6 +484,13 @@
       "titleKo": "소드 오브 콘발라리아",
       "titleEn": "sodeu-obeu-konbalraria",
       "found": "2026-11-26"
+    },
+    {
+      "slug": "rise-of-kingdoms",
+      "titleKo": "라이즈 오브 킹덤즈",
+      "titleEn": "RISE_OF_KINGDOMS",
+      "loungeId": "RISE_OF_KINGDOMS",
+      "found": "2026-11-27"
     }
   ],
   "rejected": [

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-27T04:42:55.318Z",
+  "generatedAt": "2026-11-27T08:41:10.451Z",
   "today": "2026-11-27",
-  "todayNew": 27,
+  "todayNew": 45,
   "totals": {
-    "games": 463,
-    "codes": 6639,
-    "active": 1124,
-    "expired": 5515,
-    "withExpiry": 3832
+    "games": 465,
+    "codes": 6657,
+    "active": 1146,
+    "expired": 5511,
+    "withExpiry": 3839
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-27",
-      "count": 27
+      "count": 45
     }
   ],
   "expiringSoon": [
@@ -431,19 +431,24 @@
       "total": 19
     },
     {
+      "slug": "sodeu-seutaepeu",
+      "active": 15,
+      "total": 15
+    },
+    {
       "slug": "max-level-idle",
       "active": 14,
       "total": 83
     },
     {
-      "slug": "sodeu-seutaepeu",
-      "active": 14,
-      "total": 15
-    },
-    {
       "slug": "whoa-adventurers",
       "active": 14,
       "total": 14
+    },
+    {
+      "slug": "busy-savior",
+      "active": 12,
+      "total": 41
     },
     {
       "slug": "byeolbyeol-hero",
@@ -461,15 +466,10 @@
       "total": 27
     },
     {
-      "slug": "busy-savior",
-      "active": 11,
-      "total": 40
-    },
-    {
       "slug": "deltaforce",
       "active": 11,
       "total": 13
     }
   ],
-  "noImage": 107
+  "noImage": 108
 }
