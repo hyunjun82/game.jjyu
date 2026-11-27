@@ -1,7 +1,13 @@
 {
   "_설명": "회원 전용 라운지 중 인기 순위·신규에 든 게임. discover-naver.mjs 가 매번 다시 쓴다. 손으로 고치려면 search-games.json 에 넣을 것.",
-  "generatedAt": "2026-11-27T04:22:33.758Z",
+  "generatedAt": "2026-11-27T14:08:25.700Z",
   "games": [
+    {
+      "slug": "arcaine",
+      "loungeId": "Arcaine",
+      "titleKo": "아르케인 온라인",
+      "titleEn": "Arcaine"
+    },
     {
       "slug": "three-kingdoms-senkiban",
       "loungeId": "THREE_KINGDOMS_SENKIBAN",
@@ -29,13 +35,91 @@
     {
       "slug": "oops-tomb-raid",
       "loungeId": "Oops_Tomb_Raid",
-      "titleKo": "Oops_Tomb_Raid",
+      "titleKo": "어쩌다 도굴",
       "titleEn": "Oops Tomb Raid"
+    },
+    {
+      "slug": "avatar-hero-battle",
+      "loungeId": "Avatar_Hero_Battle",
+      "titleKo": "아바타 영웅 대전",
+      "titleEn": "Avatar Hero Battle"
+    },
+    {
+      "slug": "awesome-devil",
+      "loungeId": "Awesome_Devil",
+      "titleKo": "어쩌다 멋진 마왕",
+      "titleEn": "Awesome Devil"
+    },
+    {
+      "slug": "bang-bang",
+      "loungeId": "BangBang",
+      "titleKo": "빵야빵야",
+      "titleEn": "Bang Bang"
+    },
+    {
+      "slug": "battlemage-idle-pixel-adventure",
+      "loungeId": "Battlemage_Idle_Pixel_Adventure",
+      "titleKo": "배틀메이지 키우기",
+      "titleEn": "Battlemage Idle Pixel Adventure"
+    },
+    {
+      "slug": "billionaire",
+      "loungeId": "Billionaire",
+      "titleKo": "억만장자",
+      "titleEn": "Billionaire"
+    },
+    {
+      "slug": "black-shadow-idle-rpg",
+      "loungeId": "Black_Shadow_Idle_RPG",
+      "titleKo": "블랙 쉐도우 키우기",
+      "titleEn": "Black Shadow Idle Rpg"
+    },
+    {
+      "slug": "blade-m",
+      "loungeId": "BladeM",
+      "titleKo": "블레이드M",
+      "titleEn": "Blade M"
+    },
+    {
+      "slug": "brave-chess",
+      "loungeId": "BraveChess",
+      "titleKo": "브레이브 체스",
+      "titleEn": "Brave Chess"
+    },
+    {
+      "slug": "brave-puppy",
+      "loungeId": "BravePuppy",
+      "titleKo": "용감한 댕댕이",
+      "titleEn": "Brave Puppy"
+    },
+    {
+      "slug": "break3-k",
+      "loungeId": "Break3K",
+      "titleKo": "돌파 삼국지",
+      "titleEn": "Break3 K"
+    },
+    {
+      "slug": "crystal-of-atlan",
+      "loungeId": "Crystal_of_Atlan",
+      "titleKo": "CoA: 아틀란의 크리스탈",
+      "titleEn": "Crystal Of Atlan"
+    },
+    {
+      "slug": "darkanddarkermobile",
+      "loungeId": "darkanddarkermobile",
+      "titleKo": "어비스 오브 던전",
+      "titleEn": "Darkanddarkermobile"
+    },
+    {
+      "slug": "dark-clan",
+      "loungeId": "Dark_Clan",
+      "titleKo": "다크 클랜 : 수집 방치형 RPG",
+      "titleEn": "Dark Clan"
     },
     {
       "slug": "dokkaebi-girl",
       "loungeId": "Dokkaebi_Girl",
-      "titleKo": "Dokkaebi_Girl",
+      "titleKo": "도깨비 소녀와 함께",
       "titleEn": "Dokkaebi Girl"
     },
     {
@@ -59,25 +143,25 @@
     {
       "slug": "kungfuchaos",
       "loungeId": "kungfuchaos",
-      "titleKo": "kungfuchaos",
+      "titleKo": "문파존망겜",
       "titleEn": "Kungfuchaos"
     },
     {
       "slug": "monsterhunteroutlanders",
       "loungeId": "monsterhunteroutlanders",
-      "titleKo": "monsterhunteroutlanders",
+      "titleKo": "몬스터헌터 아웃랜더스",
       "titleEn": "Monsterhunteroutlanders"
     },
     {
       "slug": "play-together",
       "loungeId": "Play_Together",
-      "titleKo": "Play_Together",
+      "titleKo": "플레이투게더",
       "titleEn": "Play Together"
     },
     {
       "slug": "pmang-new-matgo",
       "loungeId": "Pmang_new_matgo",
-      "titleKo": "Pmang_new_matgo",
+      "titleKo": "피망 뉴맞고",
       "titleEn": "Pmang New Matgo"
     },
     {
@@ -89,7 +173,7 @@
     {
       "slug": "rush-three-kingdom",
       "loungeId": "RushThreeKingdom",
-      "titleKo": "RushThreeKingdom",
+      "titleKo": "질풍삼국",
       "titleEn": "Rush Three Kingdom"
     },
     {
@@ -115,6 +199,12 @@
       "loungeId": "StoneThreeKingdoms",
       "titleKo": "석기삼국: 타임리프 삼국지",
       "titleEn": "Stone Three Kingdoms"
+    },
+    {
+      "slug": "vahns-quest-idlerpg",
+      "loungeId": "Vahns_Quest_IDLERPG",
+      "titleKo": "반의모험 : IDLE RPG",
+      "titleEn": "Vahns Quest Idlerpg"
     },
     {
       "slug": "wtbk",

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-27T08:41:10.451Z",
+  "generatedAt": "2026-11-27T14:27:55.668Z",
   "today": "2026-11-27",
-  "todayNew": 45,
+  "todayNew": 58,
   "totals": {
     "games": 465,
-    "codes": 6657,
-    "active": 1146,
-    "expired": 5511,
-    "withExpiry": 3839
+    "codes": 6670,
+    "active": 1162,
+    "expired": 5508,
+    "withExpiry": 3847
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-27",
-      "count": 45
+      "count": 58
     }
   ],
   "expiringSoon": [
@@ -279,8 +279,20 @@
       "days": 2
     },
     {
+      "slug": "genshin-impact",
+      "code": "ARCHONSANSWERS",
+      "expiry": "2026-11-29",
+      "days": 2
+    },
+    {
       "slug": "ghostvengers",
       "code": "WDWX3UGE",
+      "expiry": "2026-11-29",
+      "days": 2
+    },
+    {
+      "slug": "horde-war-avengers-summon",
+      "code": "nsrthbrf",
       "expiry": "2026-11-29",
       "days": 2
     },
@@ -299,6 +311,12 @@
     {
       "slug": "potatozombie",
       "code": "FH466VAM9VSNCZ",
+      "expiry": "2026-11-29",
+      "days": 2
+    },
+    {
+      "slug": "raising-souls",
+      "code": "YOUNG-HERO",
       "expiry": "2026-11-29",
       "days": 2
     },
@@ -349,24 +367,6 @@
       "code": "EXAMFIGHTING",
       "expiry": "2026-11-30",
       "days": 3
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "GANGHO76138420",
-      "expiry": "2026-11-30",
-      "days": 3
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "GANGHO42851796",
-      "expiry": "2026-11-30",
-      "days": 3
-    },
-    {
-      "slug": "blood-of-youth",
-      "code": "GANGHO1111",
-      "expiry": "2026-11-30",
-      "days": 3
     }
   ],
   "topGames": [
@@ -401,24 +401,24 @@
       "total": 20
     },
     {
+      "slug": "idle-berserker",
+      "active": 18,
+      "total": 61
+    },
+    {
       "slug": "raas",
       "active": 18,
       "total": 19
     },
     {
+      "slug": "randomgarden",
+      "active": 18,
+      "total": 18
+    },
+    {
       "slug": "apex-girls",
       "active": 17,
       "total": 72
-    },
-    {
-      "slug": "idle-berserker",
-      "active": 17,
-      "total": 60
-    },
-    {
-      "slug": "randomgarden",
-      "active": 17,
-      "total": 17
     },
     {
       "slug": "solo-leveling-arise",
@@ -466,9 +466,9 @@
       "total": 27
     },
     {
-      "slug": "deltaforce",
+      "slug": "blood-of-youth",
       "active": 11,
-      "total": 13
+      "total": 34
     }
   ],
   "noImage": 108

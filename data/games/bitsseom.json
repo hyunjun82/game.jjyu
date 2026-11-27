@@ -5,7 +5,7 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-27T08:30:21.455Z",
+  "updatedAt": "2026-11-27T14:23:42.560Z",
   "codes": [
     {
       "code": "ZS7BM8J323",
@@ -65,6 +65,16 @@
       "sourceUrl": "https://blog.naver.com/abajh/224484374663",
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-21",
+      "status": "active"
+    },
+    {
+      "code": "FC1234",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-27",
+      "sourceUrl": "https://blog.naver.com/blog135/224494806268",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-27",
       "status": "active"
     },
     {
@@ -155,16 +165,6 @@
       "sourceUrl": "https://blog.naver.com/sunflower-lab/224473166975",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
-      "status": "expired"
-    },
-    {
-      "code": "FC1234",
-      "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-10",
-      "sourceUrl": "https://blog.naver.com/poss12388/224470980274",
-      "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
       "status": "expired"
     },
     {

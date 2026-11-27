@@ -8,8 +8,17 @@
   "sourceUrl": "https://game.naver.com/lounge/randomgarden/board/detail/8507259",
   "howTo": "쿠폰 이름 쿠폰 내역 THANKS106 일반 소환권 20장 SORRY1117",
   "postCount": 1,
-  "updatedAt": "2026-11-27T08:40:51.856Z",
+  "updatedAt": "2026-11-27T14:13:52.956Z",
   "codes": [
+    {
+      "code": "CBTUP777",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-25",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
     {
       "code": "MONEY",
       "reward": "",

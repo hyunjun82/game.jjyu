@@ -2,14 +2,23 @@
   "slug": "mush-warrior",
   "titleEn": "Legend of Mushroom",
   "titleKo": "버섯커 키우기",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMDhfMjgy/MDAxNzkxNDQ5MDg3Nzkw.zMc5uaqY173Hn9DrYM6ldYN3CDTLJHCJbwOWEvqnR0Ig.LdcmKzxBfmfGGxwEWNMI4oCq0XW8bYdsc-BvUiS0CUYg.JPEG/1009090909.jpg",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjVfMjk1/MDAxNzk1NTg3MjMyMDM1.Zgr5-XjMXpfZwYK9GMkUgNbxRCvQv-uzqF4iYImpe9gg.gx7bx8REKZYQ8JFt_y-4CMpPQuSbOLkevFh3OsuOc4wg.JPEG/2560_1480.jpg",
   "source": "naver-lounge",
   "loungeId": "MushWarrior",
-  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/8305144",
+  "sourceUrl": "https://game.naver.com/lounge/MushWarrior/board/detail/8516324",
   "howTo": "",
   "postCount": 3487,
-  "updatedAt": "2026-11-27T08:35:15.413Z",
+  "updatedAt": "2026-11-27T14:08:35.903Z",
   "codes": [
+    {
+      "code": "Titan",
+      "reward": "",
+      "expiry": "2026-12-31",
+      "postedAt": "2026-11-27",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "status": "active"
+    },
     {
       "code": "HANGEUL26",
       "reward": "",
