@@ -5,27 +5,47 @@
   "image": null,
   "source": "naver-search",
   "howTo": "",
-  "updatedAt": "2026-11-27T23:04:39.246Z",
+  "updatedAt": "2026-11-28T04:34:54.172Z",
   "codes": [
+    {
+      "code": "TOMONICHIJOUE",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-28",
+      "sourceUrl": "https://blog.naver.com/seungzin/224493075003",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
     {
       "code": "4ANNIVVICTORY",
       "reward": "",
       "expiry": "2026-12-01",
-      "postedAt": "2026-11-22",
-      "sourceUrl": "https://blog.naver.com/ondm18/224485702981",
+      "postedAt": "2026-11-28",
+      "sourceUrl": "https://blog.naver.com/seungzin/224493075003",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-22",
+      "lastSeen": "2026-11-28",
       "status": "active"
     },
     {
-      "code": "TOMONICHIJOUE",
+      "code": "NIKKEGIFT",
       "reward": "",
-      "expiry": null,
-      "postedAt": "2026-11-22",
-      "sourceUrl": "https://blog.naver.com/ondm18/224485702981",
-      "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22",
-      "status": "expired"
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-28",
+      "sourceUrl": "https://blog.naver.com/seungzin/224493075003",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
+    {
+      "code": "NIKKE1104",
+      "reward": "",
+      "expiry": "2026-12-01",
+      "postedAt": "2026-11-28",
+      "sourceUrl": "https://blog.naver.com/seungzin/224493075003",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-11-28",
+      "status": "active"
     },
     {
       "code": "MEMORIESWITHYOU",
@@ -95,26 +115,6 @@
       "sourceUrl": "https://blog.naver.com/gebcljwnmpee/224422390460",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-28",
-      "status": "expired"
-    },
-    {
-      "code": "NIKKE1104",
-      "reward": "",
-      "expiry": "2026-10-15",
-      "postedAt": "2026-09-20",
-      "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-20",
-      "status": "expired"
-    },
-    {
-      "code": "NIKKEGIFT",
-      "reward": "",
-      "expiry": "2026-10-15",
-      "postedAt": "2026-09-20",
-      "sourceUrl": "https://blog.naver.com/didcjddns/224417898166",
-      "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-20",
       "status": "expired"
     },
     {

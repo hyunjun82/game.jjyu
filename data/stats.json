@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-27T23:18:53.845Z",
+  "generatedAt": "2026-11-28T04:50:25.355Z",
   "today": "2026-11-28",
-  "todayNew": 34,
+  "todayNew": 49,
   "totals": {
     "games": 466,
-    "codes": 6704,
-    "active": 1157,
-    "expired": 5547,
-    "withExpiry": 3847
+    "codes": 6719,
+    "active": 1173,
+    "expired": 5546,
+    "withExpiry": 3861
   },
   "newByDate": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "date": "2026-11-28",
-      "count": 34
+      "count": 49
     }
   ],
   "expiringSoon": [
@@ -191,6 +191,12 @@
     {
       "slug": "soul-strike",
       "code": "SS11P3ZT",
+      "expiry": "2026-11-29",
+      "days": 1
+    },
+    {
+      "slug": "top-heroes",
+      "code": "GB783F4166",
       "expiry": "2026-11-29",
       "days": 1
     },
@@ -361,12 +367,6 @@
       "code": "K8R3V7N2Q9X5",
       "expiry": "2026-11-30",
       "days": 2
-    },
-    {
-      "slug": "cookie-run-crumble",
-      "code": "CRUMBLEBESTPLAY",
-      "expiry": "2026-11-30",
-      "days": 2
     }
   ],
   "topGames": [
@@ -377,8 +377,8 @@
     },
     {
       "slug": "rogw-remains-of-gods",
-      "active": 35,
-      "total": 35
+      "active": 36,
+      "total": 36
     },
     {
       "slug": "echocalypse-scarlet-covenant",
@@ -391,14 +391,14 @@
       "total": 23
     },
     {
+      "slug": "dungeon-hunter6-awakening",
+      "active": 22,
+      "total": 48
+    },
+    {
       "slug": "sodeu-obeu-konbalraria",
       "active": 22,
       "total": 22
-    },
-    {
-      "slug": "dungeon-hunter6-awakening",
-      "active": 21,
-      "total": 47
     },
     {
       "slug": "king-regeosi",
@@ -407,8 +407,8 @@
     },
     {
       "slug": "raas",
-      "active": 18,
-      "total": 19
+      "active": 19,
+      "total": 20
     },
     {
       "slug": "randomgarden",
