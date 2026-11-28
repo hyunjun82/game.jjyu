@@ -2,14 +2,59 @@
   "slug": "fortress3-blue",
   "titleEn": "Fortress3 Blue",
   "titleKo": "포트리스3 BLUE",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjEwMjFfNSAg/MDAxNzkyNTY0ODUzODgx.zrYIwoHRaPmvrgL6-AHEgGPaEwGWc2mMX0tCKdCnbSsg.YTjhiQFH5-vvUpcoWtZLDPNj0BGKh0xbNipFtdmbZEkg.PNG/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%95%88%EB%82%B4_M.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMjhfMjA4/MDAxNzk1ODU0MjE5MTAz.hU6_TAMWh3bYBSz2HdIUGvbhbDeFIrLuwPa7nWXi8IYg.1-yIHOcKCqqlkuk1FCp8T0Msu2NP1z5nzMSjAkMDDncg.PNG/%EC%A3%BC%EC%9A%94%EC%A0%95%EB%B3%B4_M.png",
   "source": "naver-lounge",
   "loungeId": "Fortress3_BLUE",
-  "sourceUrl": "https://game.naver.com/lounge/Fortress3_BLUE/board/detail/8385860",
-  "howTo": "- 게임 접속 후 로비의 [메뉴] > [환경설정] > [일반] – [쿠폰 번호 입력] 메뉴에 진입 후 쿠폰 코드 입력 ​ ※ 유의사항 - 쿠폰 보상은 UID당 1회에 한해 우편함으로 지급됩니다. - 우편함에 지급된 보상은 7일 이내에 수령해야 하며, 기한 만료 시 우편이 삭제되어 보상을 받을 수 없습니다.",
-  "postCount": 379,
-  "updatedAt": "2026-11-28T08:20:00.026Z",
+  "sourceUrl": "https://game.naver.com/lounge/Fortress3_BLUE/board/detail/8520545",
+  "howTo": "- 게임 접속 후 로비의 [메뉴] > [환경설정] > [일반] – [쿠폰 번호 입력] 메뉴에 진입 후 쿠폰 코드 입력 📍우승 클랜 예측 이벤트 - FPL 마스터즈 우승 클랜 예측 + 응원 한마디 이벤트 보상 지급이 완료됐습니다. ※ 유의사항 - 쿠폰은 UID당 쿠폰별 1회만 입력할 수 있습니다.",
+  "postCount": 380,
+  "updatedAt": "2026-11-28T13:28:34.993Z",
   "codes": [
+    {
+      "code": "2026FPLGN9G",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-28",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
+    {
+      "code": "2026FPLXZ1E",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-28",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
+    {
+      "code": "2026FPLNXAI",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-28",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
+    {
+      "code": "2026FPLN8YL",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-28",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
+    {
+      "code": "REALHIDDEN",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-28",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
     {
       "code": "F3BHALLOWEEN",
       "reward": "",

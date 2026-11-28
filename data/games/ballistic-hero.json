@@ -2,14 +2,23 @@
   "slug": "ballistic-hero",
   "titleEn": "Ballistic_Hero",
   "titleKo": "각도와 바람의 전쟁",
-  "image": "https://nng-phinf.pstatic.net/MjAyNjExMThfOTUg/MDAxNzk0OTc0MTI4MzUy.szMABCGP_euHNxAEwMzarX_jgx7_Ckf1gCpvu-Vi-VQg.F_pPzBuN29zk-IR6_a1fFG3CvmhIiEemWjvMuCpH5qAg.PNG/cc232bd9-28d6-4ade-8e74-38312a0e00dc.png",
+  "image": "https://nng-phinf.pstatic.net/MjAyNjExMThfODkg/MDAxNzk0OTc0MTY0MTA3.6D713B3KGrZNprvKoQ1y0ec955FVqx7Dz56f2SNh2c4g.-QusAD7cfDlvny2aEUoLNn-1WMsbgPqq1xkAqh4zM5Ig.PNG/b1ff4e30-5947-4cb0-85b5-35889f5308b1.png",
   "source": "naver-lounge",
   "loungeId": "Ballistic_Hero",
-  "sourceUrl": "https://game.naver.com/lounge/Ballistic_Hero/board/detail/8516325",
+  "sourceUrl": "https://game.naver.com/lounge/Ballistic_Hero/board/detail/8520232",
   "howTo": "",
-  "postCount": 8,
-  "updatedAt": "2026-11-28T08:18:59.621Z",
+  "postCount": 9,
+  "updatedAt": "2026-11-28T13:27:37.734Z",
   "codes": [
+    {
+      "code": "FREEZINGSHOT",
+      "reward": "",
+      "expiry": null,
+      "postedAt": "2026-11-28",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28",
+      "status": "active"
+    },
     {
       "code": "BLACKFRIDAY11",
       "reward": "",
